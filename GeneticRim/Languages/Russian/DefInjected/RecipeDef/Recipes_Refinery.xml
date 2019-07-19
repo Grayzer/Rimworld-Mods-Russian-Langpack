@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_CryofuelToFuel.label>сделать химтопливо из криотоплива</GR_CryofuelToFuel.label>
+  <GR_CryofuelToFuel.description>Make a batch of chemfuel by converting cryofuel.</GR_CryofuelToFuel.description>
+  <GR_CryofuelToFuel.jobString>Refining chemfuel from cryofuel.</GR_CryofuelToFuel.jobString>
+
+  <GR_ExtractMechaMilk.label>обработать механоидное молоко</GR_ExtractMechaMilk.label>
+  <GR_ExtractMechaMilk.description>Extract useful materials from mechanoid milk.</GR_ExtractMechaMilk.description>
+  <GR_ExtractMechaMilk.jobString>Extracting useful materials from mechanoid milk.</GR_ExtractMechaMilk.jobString>
+
+
+</LanguageData>

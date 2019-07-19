@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make10Shell_HighExplosive.label>Сделать осколочный снаряд(10)</Make10Shell_HighExplosive.label>
+  <Make10Shell_HighExplosive.description>Сделать партию осколочных снарядов.</Make10Shell_HighExplosive.description>
+  <Make10Shell_HighExplosive.jobString>Изготовляет партию осколочных снарядов(10)</Make10Shell_HighExplosive.jobString>
+
+  <Make10Shell_Incendiary.label>Сделать зажигательный снаряд(10)</Make10Shell_Incendiary.label>
+  <Make10Shell_Incendiary.description>Сделать партию зажигательных снарядов.</Make10Shell_Incendiary.description>
+  <Make10Shell_Incendiary.jobString>Изготовляет партию зажигательных снарядов(10)</Make10Shell_Incendiary.jobString>
+
+  <Make10Shell_EMP.label>Сделать ЭМИ-снаряд(10)</Make10Shell_EMP.label>
+  <Make10Shell_EMP.description>Сделать партию ЭМИ-снарядов.</Make10Shell_EMP.description>
+  <Make10Shell_EMP.jobString>Изготовляет партию ЭМИ-снарядов</Make10Shell_EMP.jobString>
+
+  <Make10Shell_Firefoam.label>Сделать пожарный снаряд(10)</Make10Shell_Firefoam.label>
+  <Make10Shell_Firefoam.description>Сделать партию пожарных снарядов.</Make10Shell_Firefoam.description>
+  <Make10Shell_Firefoam.jobString>Изготовляет партию пожарных снарядов(10)</Make10Shell_Firefoam.jobString>
+
+  <Make10ChemfuelFromWood.label>Получить химтопливо из древесины(10)</Make10ChemfuelFromWood.label>
+  <Make10ChemfuelFromWood.description>Сделать партию химического топлива путем гизификации древестных брёвен.</Make10ChemfuelFromWood.description>
+  <Make10ChemfuelFromWood.jobString>Производит партию химтоплива из древесины(10)</Make10ChemfuelFromWood.jobString>
+
+  <Make10ChemfuelFromOrganics.label>Получить химтопливо из органики(10)</Make10ChemfuelFromOrganics.label>
+  <Make10ChemfuelFromOrganics.description>Сделать партию химического топлива путем извлечения биовктивных компонентов из органического сырья.</Make10ChemfuelFromOrganics.description>
+  <Make10ChemfuelFromOrganics.jobString>Производит партию химтоплива из органики(10)</Make10ChemfuelFromOrganics.jobString>
+
+  <Make10Component.label>Сделать компонент(10)</Make10Component.label>
+  <Make10Component.description>Сделать партию компонентов.</Make10Component.description>
+  <Make10Component.jobString>Изготовляет партию компонентов(10)</Make10Component.jobString>
+
+  <Make10AdvancedComponent.label>Сделать продвинутый компонент(10)</Make10AdvancedComponent.label>
+  <Make10AdvancedComponent.description>Сделать партию продвинутых компонентов.</Make10AdvancedComponent.description>
+  <Make10AdvancedComponent.jobString>Изготовляет партию продвинутых компонентов(10)</Make10AdvancedComponent.jobString>
+
+  <Make10Patchleather.label>make patchleather in bulk (10)</Make10Patchleather.label>
+  <Make10Patchleather.description>Комбинируйте различные виды кожи для создания слабой кожи.</Make10Patchleather.description>
+  <Make10Patchleather.jobString>Making patchleather.</Make10Patchleather.jobString>
+
+
+</LanguageData>

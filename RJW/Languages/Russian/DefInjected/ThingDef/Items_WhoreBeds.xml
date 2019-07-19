@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ImprovedSleepingSpot.label>basic mat</ImprovedSleepingSpot.label>
+  <ImprovedSleepingSpot.description>A simple wooden mat for resting and emergencies. Not very comfortable, but quick to build.</ImprovedSleepingSpot.description>
+  <ImprovedSleepingSpot_Blueprint.label>basic mat (blueprint)</ImprovedSleepingSpot_Blueprint.label>
+  <ImprovedSleepingSpot_Blueprint_Install.label>basic mat (blueprint)</ImprovedSleepingSpot_Blueprint_Install.label>
+  <ImprovedSleepingSpot_Frame.label>basic mat (building)</ImprovedSleepingSpot_Frame.label>
+  <ImprovedSleepingSpot_Frame.description>A simple wooden mat for resting and emergencies. Not very comfortable, but quick to build.</ImprovedSleepingSpot_Frame.description>
+
+  <RJW_Bed.label>posh bed</RJW_Bed.label>
+  <RJW_Bed.description>A comfy mattress and sheets on a frame for resting.</RJW_Bed.description>
+  <RJW_Bed_Blueprint.label>posh bed (blueprint)</RJW_Bed_Blueprint.label>
+  <RJW_Bed_Blueprint_Install.label>posh bed (blueprint)</RJW_Bed_Blueprint_Install.label>
+  <RJW_Bed_Frame.label>posh bed (building)</RJW_Bed_Frame.label>
+  <RJW_Bed_Frame.description>A comfy mattress and sheets on a frame for resting.</RJW_Bed_Frame.description>
+
+  <RJW_DoubleBed.label>posh double bed</RJW_DoubleBed.label>
+  <RJW_DoubleBed.description>A comfy double-wide bed for two, this model is sometimes used in brothels.</RJW_DoubleBed.description>
+  <RJW_DoubleBed_Blueprint.label>posh double bed (blueprint)</RJW_DoubleBed_Blueprint.label>
+  <RJW_DoubleBed_Blueprint_Install.label>posh double bed (blueprint)</RJW_DoubleBed_Blueprint_Install.label>
+  <RJW_DoubleBed_Frame.label>posh double bed (building)</RJW_DoubleBed_Frame.label>
+  <RJW_DoubleBed_Frame.description>A comfy double-wide bed for two, this model is sometimes used in brothels.</RJW_DoubleBed_Frame.description>
+
+  <RJW_RoyalBed.label>luxurious double bed</RJW_RoyalBed.label>
+  <RJW_RoyalBed.description>An elegant gold-inlaid double bed, this model is sometimes used in high-end bordellos. Comfy and beautiful.</RJW_RoyalBed.description>
+  <RJW_RoyalBed_Blueprint.label>luxurious double bed (blueprint)</RJW_RoyalBed_Blueprint.label>
+  <RJW_RoyalBed_Blueprint_Install.label>luxurious double bed (blueprint)</RJW_RoyalBed_Blueprint_Install.label>
+  <RJW_RoyalBed_Frame.label>luxurious double bed (building)</RJW_RoyalBed_Frame.label>
+  <RJW_RoyalBed_Frame.description>An elegant gold-inlaid double bed, this model is sometimes used in high-end bordellos. Comfy and beautiful.</RJW_RoyalBed_Frame.description>
+
+
+</LanguageData>

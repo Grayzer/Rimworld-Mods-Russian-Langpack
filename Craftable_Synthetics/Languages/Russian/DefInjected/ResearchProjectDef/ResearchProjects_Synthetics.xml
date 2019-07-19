@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CottonProcessing.label>переработка хлопка</CottonProcessing.label>
+  <CottonProcessing.description>Позвольте вашей пешке понять, как работает обработка хлопка. Если вы используете расширенный мод с тканью, ваши колонисты смогут собрать верстак, способный перерабатывать сырое хлопковое волокно и ненужную одежду в ткань.</CottonProcessing.description>
+
+  <SynthreadTechCrafting.label>Синтеткань</SynthreadTechCrafting.label>
+  <SynthreadTechCrafting.description>Позволяет создавать синтетические ткани с использованием ткани, шерсти и химического топлива.</SynthreadTechCrafting.description>
+
+  <HyperweaveTechCrafting.label>Гиперткань</HyperweaveTechCrafting.label>
+  <HyperweaveTechCrafting.description>Улучшение предыдущих попыток синтетики с использованием Дьяволотника и Синтенити.</HyperweaveTechCrafting.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Duplicated] <MakeSpecificComponents.label>make Specific Component</MakeSpecificComponents.label>-->
+  <!--[Duplicated] <MakeSpecificComponents.description>Make an Specific component.</MakeSpecificComponents.description>-->
+  <!--[Duplicated] <MakeSpecificComponents.jobString>Building Specific Component.</MakeSpecificComponents.jobString>-->
+
+  <MakeSpecificComponents.label>Сделать Специальный компонент из Продвинутого компонента</MakeSpecificComponents.label>
+  <MakeSpecificComponents.description>Сделать Специальный компонент из Продвинутого компонентаt.</MakeSpecificComponents.description>
+  <MakeSpecificComponents.jobString>Делает Специальный компонент.</MakeSpecificComponents.jobString>
+
+
+</LanguageData>

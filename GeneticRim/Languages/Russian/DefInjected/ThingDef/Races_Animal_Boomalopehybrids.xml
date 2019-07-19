@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Boomalope - Bear -->
+
+  <GR_Boomabear.label>boomabear</GR_Boomabear.label>
+  <GR_Boomabear.description>A boomalope / bear hybrid. Stronger than a standard Boomalope, and explodes with a small, concentrated burst when downed. Very dangerous in tight, confined spaces.\n\nUseful abilities: The only boomalope hybrid exploding with Bomb damage instead of Flame. Dangerous!. Decent chemfuel production.</GR_Boomabear.description>
+  <GR_Boomabear.tools.1.label>head</GR_Boomabear.tools.1.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomabear_Corpse.label>boomabear corpse</GR_Boomabear_Corpse.label>
+  <GR_Boomabear_Corpse.description>boomabear corpse</GR_Boomabear_Corpse.description>
+
+
+  <!-- Boomalope - Chicken -->
+
+  <GR_Boomachicken.label>boomachicken</GR_Boomachicken.label>
+  <GR_Boomachicken.description>A Boomalope / chicken hybrid. These creatures produce two types of eggs: the regular kind, and a special type of egg filled to the brim with dangerous chemicals. These aberrant eggs aren't normally laid, and they are liberated when the creature dies. In contact with the atmosphere, they explode violently in a few seconds.\n\nUseful abilities: Eggxplosion!! Weak chemfuel production.</GR_Boomachicken.description>
+  <GR_Boomachicken.tools.0.label>head</GR_Boomachicken.tools.0.label>
+  <GR_Boomachicken.tools.1.label>bite</GR_Boomachicken.tools.1.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomachicken_Corpse.label>boomachicken corpse</GR_Boomachicken_Corpse.label>
+  <GR_Boomachicken_Corpse.description>boomachicken corpse</GR_Boomachicken_Corpse.description>
+
+
+  <!-- Boomalope - Muffalo -->
+
+  <GR_Boomffalo.label>boomffalo</GR_Boomffalo.label>
+  <GR_Boomffalo.description>A Boomalope / Muffalo hybrid. A bit unstable to transport goods, so it isn't ever used as a pack animal, but it produces milk and wool. From a genetic engineering standpoint, these creatures are hard to stabilize, since the muffalo's biology is incompatible with the boomalope's chemical sacs. A cocktail of chemical refrigerants is used to maintain a delicate balance.\n\nUseful abilities: Produces low quality milk and average wool. Explodes with Frostbite damage on death. Produces a specialized cryofuel which can be used to power a cryofuel engine.</GR_Boomffalo.description>
+  <GR_Boomffalo.tools.0.label>head</GR_Boomffalo.tools.0.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomffalo_Corpse.label>boomffalo corpse</GR_Boomffalo_Corpse.label>
+  <GR_Boomffalo_Corpse.description>boomffalo corpse</GR_Boomffalo_Corpse.description>
+
+
+  <!-- Boomalope - Wolf -->
+
+  <GR_Boomwolf.label>boomwolf</GR_Boomwolf.label>
+  <GR_Boomwolf.description>A Boomalope / Wolf hybrid. Faster than a standard boomalope, and capable of delivering a powerful bite. \n\nUseful abilities: Explodes on death with great concussive force, stunning any creature caught in its blast radius. Produces low amounts of chemfuel every day.</GR_Boomwolf.description>
+  <GR_Boomwolf.tools.1.label>head</GR_Boomwolf.tools.1.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomwolf_Corpse.label>boomwolf corpse</GR_Boomwolf_Corpse.label>
+  <GR_Boomwolf_Corpse.description>boomwolf corpse</GR_Boomwolf_Corpse.description>
+
+
+  <!-- Boomalope - Rodent -->
+
+  <GR_Squirralope.label>squirralope</GR_Squirralope.label>
+  <GR_Squirralope.description>A Boomalope / Squirrel hybrid. Slightly smaller than other boomalope hybrids. While lacking in size, it is faster moving, faster breeding and faster producing chemfuel than base boomalopes.\n\nUseful abilities: Explodes on death. Produces more chemfuel than regular boomalopes. Very fast breeding. Can be slaughtered for their horns.</GR_Squirralope.description>
+  <GR_Squirralope.tools.0.label>left claw</GR_Squirralope.tools.0.label>
+  <GR_Squirralope.tools.1.label>right claw</GR_Squirralope.tools.1.label>
+  <GR_Squirralope.tools.3.label>head</GR_Squirralope.tools.3.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Squirralope_Corpse.label>squirralope corpse</GR_Squirralope_Corpse.label>
+  <GR_Squirralope_Corpse.description>squirralope corpse</GR_Squirralope_Corpse.description>
+
+
+  <!-- Boomalope - Cat -->
+
+  <GR_Boomacat.label>boomacat</GR_Boomacat.label>
+  <GR_Boomacat.description>A Boomalope / Cat hybrid. This is a peaceful, solitary creature that expends its time licking its fur and preferring to be left alone.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. Explodes on death creating a fine mist of hairballs that can suffocate anyone unlucky enough to be caught in them. Produces low amounts of chemfuel every day.</GR_Boomacat.description>
+  <GR_Boomacat.tools.1.label>head</GR_Boomacat.tools.1.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomacat_Corpse.label>boomacat corpse</GR_Boomacat_Corpse.label>
+  <GR_Boomacat_Corpse.description>boomacat corpse</GR_Boomacat_Corpse.description>
+
+
+</LanguageData>

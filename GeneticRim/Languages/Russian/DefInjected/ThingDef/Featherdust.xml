@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_FeatherdustJoint.label>пыльник</GR_FeatherdustJoint.label>
+  <GR_FeatherdustJoint.description>Bearchicken feathers can be gathered and processed into a fine powder, which produces a mild euphoric sensation when burned and inhaled. Featherdust use can produce a dependency.</GR_FeatherdustJoint.description>
+  <GR_FeatherdustJoint.ingestible.ingestCommandString>Smoke {0}</GR_FeatherdustJoint.ingestible.ingestCommandString>
+  <GR_FeatherdustJoint.ingestible.ingestReportString>Smoking {0}.</GR_FeatherdustJoint.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BasicClimateControl.label>Начальный климат-контроль</BasicClimateControl.label>
+  <BasicClimateControl.description>Используется для построения централизированного контроля температы в вашей колонии</BasicClimateControl.description>
+
+  <IndustrialClimateControl.label>Индустриальный климат-контроль</IndustrialClimateControl.label>
+  <IndustrialClimateControl.description>Постройко больших воздухозаборников и компрессоров</IndustrialClimateControl.description>
+
+
+</LanguageData>

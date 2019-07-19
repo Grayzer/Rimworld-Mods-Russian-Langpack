@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_ToxicDamage.label>токсическое повреждение</GR_ToxicDamage.label>
+  <GR_ToxicDamage.stages.0.label>начально-скрытое</GR_ToxicDamage.stages.0.label>
+  <GR_ToxicDamage.stages.1.label>начальное</GR_ToxicDamage.stages.1.label>
+  <GR_ToxicDamage.stages.2.label>незначительное</GR_ToxicDamage.stages.2.label>
+  <GR_ToxicDamage.stages.3.label>умеренное</GR_ToxicDamage.stages.3.label>
+  <GR_ToxicDamage.stages.4.label>серьезное</GR_ToxicDamage.stages.4.label>
+  <GR_ToxicDamage.stages.5.label>экстремальное</GR_ToxicDamage.stages.5.label>
+
+  <GR_HairballDamage.label>повреждение лохматиком</GR_HairballDamage.label>
+  <GR_HairballDamage.stages.0.label>начально-скрытое</GR_HairballDamage.stages.0.label>
+  <GR_HairballDamage.stages.1.labe>начальное</GR_HairballDamage.stages.1.label>
+  <GR_HairballDamage.stages.2.label>незначительное</GR_HairballDamage.stages.2.label>
+  <GR_HairballDamage.stages.3.label>умеренное</GR_HairballDamage.stages.3.label>
+  <GR_HairballDamage.stages.4.label>серьезное</GR_HairballDamage.stages.4.label>
+  <GR_HairballDamage.stages.5.label>экстремальное</GR_HairballDamage.stages.5.label>
+  <GR_HairballDamage.stages.6.label>тошнотворное</GR_HairballDamage.stages.6.label>
+
+  <GR_Kamikaze.label>внезапная детонация</GR_Kamikaze.label>
+  <GR_Kamikaze.stages.0.label>начально-скрытый</GR_Kamikaze.stages.0.label>
+  <GR_Kamikaze.stages.1.label>критичный</GR_Kamikaze.stages.1.label>
+
+  <GR_AdrenalineBurst.label>выброс адреналина</GR_AdrenalineBurst.label>
+  <GR_AdrenalineBurst.stages.1.label>истощение</GR_AdrenalineBurst.stages.1.label>
+
+  <GR_Stamina.label>повышенная выносливость</GR_Stamina.label>
+  <GR_Stamina.stages.1.label>истощение</GR_Stamina.stages.1.label>
+
+  <GR_CatReflexes.label>кошачьи рефлексы</GR_CatReflexes.label>
+  <GR_CatReflexes.stages.1.label>истощение</GR_CatReflexes.stages.1.label>
+
+  <GR_KeenSenses.label>острые чувства</GR_KeenSenses.label>
+  <GR_KeenSenses.stages.1.label>истощение</GR_KeenSenses.stages.1.label>
+
+  <GR_InsectClouds.label>выпустить облако насекомых</GR_InsectClouds.label>
+  <GR_InsectClouds.stages.1.label>востановление</GR_InsectClouds.stages.1.label>
+
+  <GR_Burrowing.label>закопаться под землю</GR_Burrowing.label>
+  <GR_Burrowing.stages.1.label>востановление</GR_Burrowing.stages.1.label>
+
+  <GR_Stampeding.label>паническое бегство</GR_Stampeding.label>
+  <GR_Stampeding.stages.1.label>востановление</GR_Stampeding.stages.1.label>
+
+  <GR_CausedPoisonCloud.label>недавно выпущенное облако яда</GR_CausedPoisonCloud.label>
+  <GR_CausedPoisonCloud.stages.0.label>востановление</GR_CausedPoisonCloud.stages.0.label>
+
+  <GR_CausedHorror.label>недавно вызвал безумие</GR_CausedHorror.label>
+  <GR_CausedHorror.stages.0.label>востановление</GR_CausedHorror.stages.0.label>
+
+  <GR_CausedPowerBeam.label>недавно вызвал мощный орбитальный луч</GR_CausedPowerBeam.label>
+  <GR_CausedPowerBeam.stages.0.label>перезарядка</GR_CausedPowerBeam.stages.0.label>
+
+  <GR_VentedExhaust.label>недавно выпущенные газы</GR_VentedExhaust.label>
+  <GR_VentedExhaust.stages.0.label>востановление</GR_VentedExhaust.stages.0.label>
+
+  <GR_NoPain.label>нет болевой чувствительности</GR_NoPain.label>
+  <GR_MeleeDodge.label>ближний бой</GR_MeleeDodge.label>
+
+
+</LanguageData>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Human Hybrid Implants -->
+
+  <GR_InstallBearClaws.label>&lt;color=#E89D1B&gt;install bear claws&lt;/color&gt;</GR_InstallBearClaws.label>
+  <GR_InstallBearClaws.description>Installs bear claws.</GR_InstallBearClaws.description>
+  <GR_InstallBearClaws.jobString>Installing bear claws.</GR_InstallBearClaws.jobString>
+
+  <GR_InstallDiggingBearClaws.label>&lt;color=#E89D1B&gt;install digging bear claws&lt;/color&gt;</GR_InstallDiggingBearClaws.label>
+  <GR_InstallDiggingBearClaws.description>Installs digging bear claws.</GR_InstallDiggingBearClaws.description>
+  <GR_InstallDiggingBearClaws.jobString>Installing digging bear claws.</GR_InstallDiggingBearClaws.jobString>
+
+  <GR_InstallBearMuscleTissue.label>&lt;color=#E89D1B&gt;install bear muscle tissue&lt;/color&gt;</GR_InstallBearMuscleTissue.label>
+  <GR_InstallBearMuscleTissue.description>Installs bear muscle tissue.</GR_InstallBearMuscleTissue.description>
+  <GR_InstallBearMuscleTissue.jobString>Installing bear muscle tissue.</GR_InstallBearMuscleTissue.jobString>
+
+  <GR_InstallHibernationModule.label>&lt;color=#E89D1B&gt;install hibernation module&lt;/color&gt;</GR_InstallHibernationModule.label>
+  <GR_InstallHibernationModule.description>Installs hibernation module.</GR_InstallHibernationModule.description>
+  <GR_InstallHibernationModule.jobString>Installing hibernation module.</GR_InstallHibernationModule.jobString>
+
+  <GR_InstallOvipositor.label>&lt;color=#E89D1B&gt;install ovipositor&lt;/color&gt;</GR_InstallOvipositor.label>
+  <GR_InstallOvipositor.description>Installs ovipositor.</GR_InstallOvipositor.description>
+  <GR_InstallOvipositor.jobString>Installing ovipositor.</GR_InstallOvipositor.jobString>
+
+  <GR_InstallMuffaloMuscles.label>&lt;color=#E89D1B&gt;install muffalo strengthened muscles&lt;/color&gt;</GR_InstallMuffaloMuscles.label>
+  <GR_InstallMuffaloMuscles.description>Installs muffalo strengthened muscles.</GR_InstallMuffaloMuscles.description>
+  <GR_InstallMuffaloMuscles.jobString>Installing muffalo strengthened muscles.</GR_InstallMuffaloMuscles.jobString>
+
+  <GR_InstallMuffaloMammaries.label>&lt;color=#E89D1B&gt;install muffalo mammaries&lt;/color&gt;</GR_InstallMuffaloMammaries.label>
+  <GR_InstallMuffaloMammaries.description>Installs muffalo mammaries.</GR_InstallMuffaloMammaries.description>
+  <GR_InstallMuffaloMammaries.jobString>Installing muffalo mammaries.</GR_InstallMuffaloMammaries.jobString>
+
+  <GR_InstallMuffaloSkin.label>&lt;color=#E89D1B&gt;install muffalo skin&lt;/color&gt;</GR_InstallMuffaloSkin.label>
+  <GR_InstallMuffaloSkin.description>Installs muffalo skin.</GR_InstallMuffaloSkin.description>
+  <GR_InstallMuffaloSkin.jobString>Installing muffalo skin.</GR_InstallMuffaloSkin.jobString>
+
+  <GR_InstallBoomalopeNodules.label>&lt;color=#E89D1B&gt;install boomalope nodules&lt;/color&gt;</GR_InstallBoomalopeNodules.label>
+  <GR_InstallBoomalopeNodules.description>Installs boomalope nodules.</GR_InstallBoomalopeNodules.description>
+  <GR_InstallBoomalopeNodules.jobString>Installing boomalope nodules.</GR_InstallBoomalopeNodules.jobString>
+
+  <GR_InstallChemfuelStomach.label>&lt;color=#E89D1B&gt;install chemfuel stomach&lt;/color&gt;</GR_InstallChemfuelStomach.label>
+  <GR_InstallChemfuelStomach.description>Installs chemfuel stomach.</GR_InstallChemfuelStomach.description>
+  <GR_InstallChemfuelStomach.jobString>Installing chemfuel stomach.</GR_InstallChemfuelStomach.jobString>
+
+  <GR_InstallChemfuelHeart.label>&lt;color=#E89D1B&gt;install chemfuel heart&lt;/color&gt;</GR_InstallChemfuelHeart.label>
+  <GR_InstallChemfuelHeart.description>Installs chemfuel heart.</GR_InstallChemfuelHeart.description>
+  <GR_InstallChemfuelHeart.jobString>Installing chemfuel heart.</GR_InstallChemfuelHeart.jobString>
+
+  <GR_InstallWolfMuscularFibers.label>&lt;color=#E89D1B&gt;install wolf muscular fibers&lt;/color&gt;</GR_InstallWolfMuscularFibers.label>
+  <GR_InstallWolfMuscularFibers.description>Installs wolf muscular fibers.</GR_InstallWolfMuscularFibers.description>
+  <GR_InstallWolfMuscularFibers.jobString>Installing wolf muscular fibers.</GR_InstallWolfMuscularFibers.jobString>
+
+  <GR_InstallDevouringJaws.label>&lt;color=#E89D1B&gt;install devouring jaws&lt;/color&gt;</GR_InstallDevouringJaws.label>
+  <GR_InstallDevouringJaws.description>Installs devouring jaws.</GR_InstallDevouringJaws.description>
+  <GR_InstallDevouringJaws.jobString>Installing devouring jaws.</GR_InstallDevouringJaws.jobString>
+
+  <GR_InstallNeuronReinforcement.label>&lt;color=#E89D1B&gt;install neuron reinforcement&lt;/color&gt;</GR_InstallNeuronReinforcement.label>
+  <GR_InstallNeuronReinforcement.description>Installs neuron reinforcement.</GR_InstallNeuronReinforcement.description>
+  <GR_InstallNeuronReinforcement.jobString>Installing neuron reinforcement.</GR_InstallNeuronReinforcement.jobString>
+
+  <GR_InstallMousePheromones.label>&lt;color=#E89D1B&gt;install mouse pheromones&lt;/color&gt;</GR_InstallMousePheromones.label>
+  <GR_InstallMousePheromones.description>Installs mouse pheromones.</GR_InstallMousePheromones.description>
+  <GR_InstallMousePheromones.jobString>Installing mouse pheromones.</GR_InstallMousePheromones.jobString>
+
+  <GR_InstallMoleratNerveDampener.label>&lt;color=#E89D1B&gt;install mole-rat nerve dampener&lt;/color&gt;</GR_InstallMoleratNerveDampener.label>
+  <GR_InstallMoleratNerveDampener.description>Installs mole-rat nerve dampener.</GR_InstallMoleratNerveDampener.description>
+  <GR_InstallMoleratNerveDampener.jobString>Installing mole-rat nerve dampener.</GR_InstallMoleratNerveDampener.jobString>
+
+  <GR_InstallBunnyEars.label>&lt;color=#E89D1B&gt;install bunny ear&lt;/color&gt;</GR_InstallBunnyEars.label>
+  <GR_InstallBunnyEars.description>Installs bunny ear.</GR_InstallBunnyEars.description>
+  <GR_InstallBunnyEars.jobString>Installing bunny ear.</GR_InstallBunnyEars.jobString>
+
+  <GR_InstallInsectoidAntennae.label>&lt;color=#E89D1B&gt;install insectoid antennae&lt;/color&gt;</GR_InstallInsectoidAntennae.label>
+  <GR_InstallInsectoidAntennae.description>Installs insectoid antennae.</GR_InstallInsectoidAntennae.description>
+  <GR_InstallInsectoidAntennae.jobString>Installing insectoid antennae.</GR_InstallInsectoidAntennae.jobString>
+
+  <GR_InstallPsychicDampeners.label>&lt;color=#E89D1B&gt;install psychic dampeners&lt;/color&gt;</GR_InstallPsychicDampeners.label>
+  <GR_InstallPsychicDampeners.description>Installs psychic dampeners.</GR_InstallPsychicDampeners.description>
+  <GR_InstallPsychicDampeners.jobString>Installing psychic dampeners.</GR_InstallPsychicDampeners.jobString>
+
+  <GR_InstallKidneyToxicFilters.label>&lt;color=#E89D1B&gt;install kidney toxic filters&lt;/color&gt;</GR_InstallKidneyToxicFilters.label>
+  <GR_InstallKidneyToxicFilters.description>Installs kidney toxic filters.</GR_InstallKidneyToxicFilters.description>
+  <GR_InstallKidneyToxicFilters.jobString>Installing kidney toxic filters.</GR_InstallKidneyToxicFilters.jobString>
+
+  <GR_InstallHumanThrumboHorn.label>&lt;color=#E89D1B&gt;install thrumbo horn&lt;/color&gt;</GR_InstallHumanThrumboHorn.label>
+  <GR_InstallHumanThrumboHorn.description>Installs thrumbo horn.</GR_InstallHumanThrumboHorn.description>
+  <GR_InstallHumanThrumboHorn.jobString>Installing thrumbo horn.</GR_InstallHumanThrumboHorn.jobString>
+
+  <GR_InstallThrumboSkin.label>&lt;color=#E89D1B&gt;install thrumbo skin&lt;/color&gt;</GR_InstallThrumboSkin.label>
+  <GR_InstallThrumboSkin.description>Installs thrumbo skin.</GR_InstallThrumboSkin.description>
+  <GR_InstallThrumboSkin.jobString>Installing thrumbo skin.</GR_InstallThrumboSkin.jobString>
+
+  <GR_InstallVenomousFangs.label>&lt;color=#E89D1B&gt;install venomous fangs&lt;/color&gt;</GR_InstallVenomousFangs.label>
+  <GR_InstallVenomousFangs.description>Installs venomous fangs.</GR_InstallVenomousFangs.description>
+  <GR_InstallVenomousFangs.jobString>Installing venomous fangs.</GR_InstallVenomousFangs.jobString>
+
+  <GR_InstallIguanaScales.label>&lt;color=#E89D1B&gt;install iguana scales&lt;/color&gt;</GR_InstallIguanaScales.label>
+  <GR_InstallIguanaScales.description>Installs iguana scales.</GR_InstallIguanaScales.description>
+  <GR_InstallIguanaScales.jobString>Installing iguana scales.</GR_InstallIguanaScales.jobString>
+
+
+</LanguageData>

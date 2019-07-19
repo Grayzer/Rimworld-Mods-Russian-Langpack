@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_AbortionHuman.label>Прервать беременность</RJW_AbortionHuman.label>
+  <RJW_AbortionHuman.description>Это легализованное убийство.</RJW_AbortionHuman.description>
+  <RJW_AbortionHuman.jobString>Проведение аборта.</RJW_AbortionHuman.jobString>
+
+  <RJW_AbortionBeast.label>Прервать беременность</RJW_AbortionBeast.label>
+  <RJW_AbortionBeast.description>Это легализованное убийство.</RJW_AbortionBeast.description>
+  <RJW_AbortionBeast.jobString>Проведение аборта.</RJW_AbortionBeast.jobString>
+
+  <RJW_AbortionMech.label>Нейтрализовать механоидов</RJW_AbortionMech.label>
+  <RJW_AbortionMech.description>Безопасная нейтрализация маханоидных нанитов.</RJW_AbortionMech.description>
+  <RJW_AbortionMech.jobString>Проведение аборта.</RJW_AbortionMech.jobString>
+
+  <RJW_HackMech.label>Взломать механоидов</RJW_HackMech.label>
+  <RJW_HackMech.description>Взлом ИИ механоида, отрезая его от глобального механоидного ИИ, что приводит к послушному (если не провоцировать) механоиду.</RJW_HackMech.description>
+  <RJW_HackMech.jobString>Взлом механоидов.</RJW_HackMech.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WG_Rape.label>Rapin'</WG_Rape.label>
+  <WG_Rape.verb>rape</WG_Rape.verb>
+  <WG_Rape.gerund>raping</WG_Rape.gerund>
+
+  <WG_RapeEnemy.label>Rapin' enemy</WG_RapeEnemy.label>
+  <WG_RapeEnemy.verb>rape enemy</WG_RapeEnemy.verb>
+  <WG_RapeEnemy.gerund>raping enemy</WG_RapeEnemy.gerund>
+
+  <WG_RapeCP.label>Rapin' comfort prisoner</WG_RapeCP.label>
+  <WG_RapeCP.verb>rape CP</WG_RapeCP.verb>
+  <WG_RapeCP.gerund>raping CP</WG_RapeCP.gerund>
+
+  <WG_ViolateCorpse.label>Violatin' corpse</WG_ViolateCorpse.label>
+  <WG_ViolateCorpse.verb>violate corpse</WG_ViolateCorpse.verb>
+  <WG_ViolateCorpse.gerund>violating corpse</WG_ViolateCorpse.gerund>
+
+  <WG_BestialityFM.label>Sexin' animal</WG_BestialityFM.label>
+  <WG_BestialityFM.verb>breed(active)</WG_BestialityFM.verb>
+  <WG_BestialityFM.gerund>breeding(active)</WG_BestialityFM.gerund>
+
+  <WG_BestialityFF.label>Sexin' animal</WG_BestialityFF.label>
+  <WG_BestialityFF.verb>breed(passive)</WG_BestialityFF.verb>
+  <WG_BestialityFF.gerund>breeding(passive)</WG_BestialityFF.gerund>
+
+  <WG_Fap.label>Fappin'</WG_Fap.label>
+  <WG_Fap.verb>fap</WG_Fap.verb>
+  <WG_Fap.gerund>faping</WG_Fap.gerund>
+
+  <WG_Fap_bed.label>Fappin' in bed</WG_Fap_bed.label>
+  <WG_Fap_bed.verb>fap</WG_Fap_bed.verb>
+  <WG_Fap_bed.gerund>faping</WG_Fap_bed.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cook5MealSimple.label>Приготовить простое блюдо(5)</Cook5MealSimple.label>
+  <Cook5MealSimple.description>Приготовить простые блюда партиями из одного ингредиента.</Cook5MealSimple.description>
+  <Cook5MealSimple.jobString>Готовит партию просых блюд(5)</Cook5MealSimple.jobString>
+
+  <Cook10MealSimple.label>Приготовить простое блюдо(10)</Cook10MealSimple.label>
+  <Cook10MealSimple.description>Приготовить простые блюда партиями из одного ингредиента.</Cook10MealSimple.description>
+  <Cook10MealSimple.jobString>Готовит партию простых блюд(10)</Cook10MealSimple.jobString>
+
+  <Cook20MealSimple.label>Приготовить простое блюдо(20)</Cook20MealSimple.label>
+  <Cook20MealSimple.description>Приготовить простые блюда партиями из одного ингредиента.</Cook20MealSimple.description>
+  <Cook20MealSimple.jobString>Готовит партию простой блюд(20)</Cook20MealSimple.jobString>
+
+  <Cook50MealSimple.label>Приготовить простое блюдо(50)</Cook50MealSimple.label>
+  <Cook50MealSimple.description>Приготовить простые блюда партиями из одного ингредиента.</Cook50MealSimple.description>
+  <Cook50MealSimple.jobString>Готовит партию простых блюд(50)</Cook50MealSimple.jobString>
+
+  <Cook5MealFine.label>Приготовить вкусное блюдо(5)</Cook5MealFine.label>
+  <Cook5MealFine.description>Приготовить вкусное блюда партиями из мяса и растений.\n\n</Cook5MealFine.description>
+  <Cook5MealFine.jobString>Готовит партию вкусных блюд(5)</Cook5MealFine.jobString>
+
+  <Cook10MealFine.label>Приготовить вкусное блюдо(10)</Cook10MealFine.label>
+  <Cook10MealFine.description>Приготовить вкусное блюда партиями из мяса и растений.\n\n</Cook10MealFine.description>
+  <Cook10MealFine.jobString>Готовит партию вкусных блюд(10)</Cook10MealFine.jobString>
+
+  <Cook20MealFine.label>Приготовить вкусное блюдо(20)</Cook20MealFine.label>
+  <Cook20MealFine.description>Приготовить вкусное блюда партиями из мяса и растений.\n\n</Cook20MealFine.description>
+  <Cook20MealFine.jobString>Готовит партию вкусных блюд(20)</Cook20MealFine.jobString>
+
+  <Cook50MealFine.label>Приготовить вкусное блюдо(50)</Cook50MealFine.label>
+  <Cook50MealFine.description>Приготовить вкусное блюда партиями из мяса и растений.\n\n</Cook50MealFine.description>
+  <Cook50MealFine.jobString>Готовит партию вкусных блюд(50)</Cook50MealFine.jobString>
+
+  <Cook5MealLavish.label>Приготовить шикарное блюдо(5)</Cook5MealLavish.label>
+  <Cook5MealLavish.description>Приготовить шикарное блюда партиями из мяса и растений.\n\n</Cook5MealLavish.description>
+  <Cook5MealLavish.jobString>Готовит партию шикарных блюд(5)</Cook5MealLavish.jobString>
+
+  <Cook10MealLavish.label>Приготовить шикарное блюдо(10)</Cook10MealLavish.label>
+  <Cook10MealLavish.description>Приготовить партию очень сложного блюда из мяса и растений. Большая чать ингредиентов уйдёт в пустую.\n\n</Cook10MealLavish.description>
+  <Cook10MealLavish.jobString>Готовит партию шикарных блюд(10)</Cook10MealLavish.jobString>
+
+  <Cook20MealLavish.label>Приготовить шикарное блюдо(20)</Cook20MealLavish.label>
+  <Cook20MealLavish.description>Приготовить партию очень сложного блюда из мяса и растений. Большая чать ингредиентов уйдёт в пустую.\n\n</Cook20MealLavish.description>
+  <Cook20MealLavish.jobString>Готовит партию шикарных блюд(20).</Cook20MealLavish.jobString>
+
+  <Cook50MealLavish.label>Приготовить шикарное блюдо(50)</Cook50MealLavish.label>
+  <Cook50MealLavish.description>Приготовить партию очень сложного блюда из мяса и растений. Большая чать ингредиентов уйдёт в пустую.\n\n</Cook50MealLavish.description>
+  <Cook50MealLavish.jobString>Готовит партию шикарных блюд(50)</Cook50MealLavish.jobString>
+
+  <Cook5MealSurvival.label>Приготовить сухпаёк(5)</Cook5MealSurvival.label>
+  <Cook5MealSurvival.description>Приготовить партию очень сложного блюда из мяса и растений. Большая чать ингредиентов уйдёт в пустую.\n\n</Cook5MealSurvival.description>
+  <Cook5MealSurvival.jobString>Готовит партию сухпайков(5)</Cook5MealSurvival.jobString>
+
+  <Cook10MealSurvival.label>Приготовить сухпаёк(10)</Cook10MealSurvival.label>
+  <Cook10MealSurvival.description>Приготовить партию сухпайков из мяса и растений.\n\n</Cook10MealSurvival.description>
+  <Cook10MealSurvival.jobString>Готовит партию сухпайков(10)</Cook10MealSurvival.jobString>
+
+  <Cook20MealSurvival.label>Приготовить сухпаёк(20)</Cook20MealSurvival.label>
+  <Cook20MealSurvival.description>Приготовить партию сухпайков из мяса и растений.\n\n</Cook20MealSurvival.description>
+  <Cook20MealSurvival.jobString>Готовит партию сухпайков(20)</Cook20MealSurvival.jobString>
+
+  <Cook50MealSurvival.label>Приготовить сухпаёк(50)</Cook50MealSurvival.label>
+  <Cook50MealSurvival.description>Приготовить партию сухпайков из мяса и растений.\n\n</Cook50MealSurvival.description>
+  <Cook50MealSurvival.jobString>Готовит партию сухпайков(50)</Cook50MealSurvival.jobString>
+
+
+</LanguageData>

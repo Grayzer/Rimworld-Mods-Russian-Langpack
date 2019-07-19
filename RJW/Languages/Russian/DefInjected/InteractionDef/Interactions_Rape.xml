@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalRape.label>anal rape</AnalRape.label>
+  <AnalRape.logRulesInitiator.rulesStrings.0>r_logentry->Насилует [RECIPIENT_nameDef].</AnalRape.logRulesInitiator.rulesStrings.0>
+  <AnalRape.logRulesRecipient.rulesStrings.0>r_logentry->Насилуется [INITIATOR_nameDef].</AnalRape.logRulesRecipient.rulesStrings.0>
+
+  <VaginalRape.label>vaginal rape</VaginalRape.label>
+  <VaginalRape.logRulesInitiator.rulesStrings.0>r_logentry->Насилует [RECIPIENT_nameDef].</VaginalRape.logRulesInitiator.rulesStrings.0>
+  <VaginalRape.logRulesRecipient.rulesStrings.0>r_logentry->Насилуется [INITIATOR_nameDef].</VaginalRape.logRulesRecipient.rulesStrings.0>
+
+  <HandjobRape.label>forced handjob</HandjobRape.label>
+  <HandjobRape.logRulesInitiator.rulesStrings.0>r_logentry->Forcibly jerked off [RECIPIENT_nameDef].</HandjobRape.logRulesInitiator.rulesStrings.0>
+  <HandjobRape.logRulesRecipient.rulesStrings.0>r_logentry->Was jerked off by [INITIATOR_nameDef].</HandjobRape.logRulesRecipient.rulesStrings.0>
+
+  <FingeringRape.label>forced fingering</FingeringRape.label>
+  <FingeringRape.logRulesInitiator.rulesStrings.0>r_logentry->Forcibly fingered [RECIPIENT_nameDef].</FingeringRape.logRulesInitiator.rulesStrings.0>
+  <FingeringRape.logRulesRecipient.rulesStrings.0>r_logentry->Was finger-raped by [INITIATOR_nameDef].</FingeringRape.logRulesRecipient.rulesStrings.0>
+
+  <ViolateCorpse.label>necrophilia</ViolateCorpse.label>
+  <ViolateCorpse.logRulesInitiator.rulesStrings.0>r_logentry->Violated [RECIPIENT_nameDef]'s corpse.</ViolateCorpse.logRulesInitiator.rulesStrings.0>
+  <ViolateCorpse.logRulesRecipient.rulesStrings.0>r_logentry->Was violated by [INITIATOR_nameDef].</ViolateCorpse.logRulesRecipient.rulesStrings.0>
+
+  <MechImplant.label>mechanoid implanting</MechImplant.label>
+  <MechImplant.logRulesInitiator.rulesStrings.0>r_logentry->Assaulted [RECIPIENT_nameDef].</MechImplant.logRulesInitiator.rulesStrings.0>
+  <MechImplant.logRulesRecipient.rulesStrings.0>r_logentry->Was assaulted by [INITIATOR_nameDef].</MechImplant.logRulesRecipient.rulesStrings.0>
+
+  <OtherRape.label>rape</OtherRape.label>
+  <OtherRape.logRulesInitiator.rulesStrings.0>r_logentry->Насилует [RECIPIENT_nameDef].</OtherRape.logRulesInitiator.rulesStrings.0>
+  <OtherRape.logRulesRecipient.rulesStrings.0>r_logentry->Насилуется [INITIATOR_nameDef].</OtherRape.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

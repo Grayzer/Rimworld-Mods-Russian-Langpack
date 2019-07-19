@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Muffalo - Bear -->
+
+  <GR_Muffalobear.label>muffalobear</GR_Muffalobear.label>
+  <GR_Muffalobear.labelPlural>muffalobears</GR_Muffalobear.labelPlural>
+  <GR_Muffalobear.lifeStages.0.label>muffalobear calf</GR_Muffalobear.lifeStages.0.label>
+  <GR_Muffalobear.lifeStages.0.labelPlural>muffalobear calves</GR_Muffalobear.lifeStages.0.labelPlural>
+  <GR_Muffalobear.lifeStages.0.labelMale>male muffalobear calf</GR_Muffalobear.lifeStages.0.labelMale>
+  <GR_Muffalobear.lifeStages.0.labelMalePlural>male muffalobear calves</GR_Muffalobear.lifeStages.0.labelMalePlural>
+  <GR_Muffalobear.lifeStages.0.labelFemale>female muffalobear calf</GR_Muffalobear.lifeStages.0.labelFemale>
+  <GR_Muffalobear.lifeStages.0.labelFemalePlural>female muffalobear calves</GR_Muffalobear.lifeStages.0.labelFemalePlural>
+  <GR_Muffalobear.lifeStages.1.label>muffalobear</GR_Muffalobear.lifeStages.1.label>
+  <GR_Muffalobear.lifeStages.1.labelPlural>muffalobear</GR_Muffalobear.lifeStages.1.labelPlural>
+  <GR_Muffalobear.lifeStages.1.labelMale>male muffalobear</GR_Muffalobear.lifeStages.1.labelMale>
+  <GR_Muffalobear.lifeStages.1.labelMalePlural>male muffalobears</GR_Muffalobear.lifeStages.1.labelMalePlural>
+  <GR_Muffalobear.lifeStages.1.labelFemale>female muffalobear</GR_Muffalobear.lifeStages.1.labelFemale>
+  <GR_Muffalobear.lifeStages.1.labelFemalePlural>female muffalobears</GR_Muffalobear.lifeStages.1.labelFemalePlural>
+  <GR_Muffalobear.lifeStages.2.label>muffalobear</GR_Muffalobear.lifeStages.2.label>
+  <GR_Muffalobear.lifeStages.2.labelPlural>muffalobear</GR_Muffalobear.lifeStages.2.labelPlural>
+  <GR_Muffalobear.lifeStages.2.labelMale>male muffalobear</GR_Muffalobear.lifeStages.2.labelMale>
+  <GR_Muffalobear.lifeStages.2.labelMalePlural>male muffalobears</GR_Muffalobear.lifeStages.2.labelMalePlural>
+  <GR_Muffalobear.lifeStages.2.labelFemale>female muffalobear</GR_Muffalobear.lifeStages.2.labelFemale>
+  <GR_Muffalobear.lifeStages.2.labelFemalePlural>female muffalobears</GR_Muffalobear.lifeStages.2.labelFemalePlural>
+  <GR_Muffalobear.labelMale>male muffalobear</GR_Muffalobear.labelMale>
+  <GR_Muffalobear.labelMalePlural>male muffalobears</GR_Muffalobear.labelMalePlural>
+  <GR_Muffalobear.labelFemale>female muffalobear</GR_Muffalobear.labelFemale>
+  <GR_Muffalobear.labelFemalePlural>female muffalobears</GR_Muffalobear.labelFemalePlural>
+
+
+  <!-- Muffalo - Boomalope -->
+
+  <GR_Muffalope.label>muffalope</GR_Muffalope.label>
+  <GR_Muffalope.labelPlural>muffalopes</GR_Muffalope.labelPlural>
+  <GR_Muffalope.lifeStages.0.label>muffalope calf</GR_Muffalope.lifeStages.0.label>
+  <GR_Muffalope.lifeStages.0.labelPlural>muffalope calves</GR_Muffalope.lifeStages.0.labelPlural>
+  <GR_Muffalope.lifeStages.0.labelMale>male muffalope calf</GR_Muffalope.lifeStages.0.labelMale>
+  <GR_Muffalope.lifeStages.0.labelMalePlural>male muffalope calves</GR_Muffalope.lifeStages.0.labelMalePlural>
+  <GR_Muffalope.lifeStages.0.labelFemale>female muffalope calf</GR_Muffalope.lifeStages.0.labelFemale>
+  <GR_Muffalope.lifeStages.0.labelFemalePlural>female muffalope calves</GR_Muffalope.lifeStages.0.labelFemalePlural>
+  <GR_Muffalope.lifeStages.1.label>muffalope</GR_Muffalope.lifeStages.1.label>
+  <GR_Muffalope.lifeStages.1.labelPlural>muffalope</GR_Muffalope.lifeStages.1.labelPlural>
+  <GR_Muffalope.lifeStages.1.labelMale>male muffalope</GR_Muffalope.lifeStages.1.labelMale>
+  <GR_Muffalope.lifeStages.1.labelMalePlural>male muffalopes</GR_Muffalope.lifeStages.1.labelMalePlural>
+  <GR_Muffalope.lifeStages.1.labelFemale>female muffalope</GR_Muffalope.lifeStages.1.labelFemale>
+  <GR_Muffalope.lifeStages.1.labelFemalePlural>female muffalopes</GR_Muffalope.lifeStages.1.labelFemalePlural>
+  <GR_Muffalope.lifeStages.2.label>muffalope</GR_Muffalope.lifeStages.2.label>
+  <GR_Muffalope.lifeStages.2.labelPlural>muffalope</GR_Muffalope.lifeStages.2.labelPlural>
+  <GR_Muffalope.lifeStages.2.labelMale>male muffalope</GR_Muffalope.lifeStages.2.labelMale>
+  <GR_Muffalope.lifeStages.2.labelMalePlural>male muffalopes</GR_Muffalope.lifeStages.2.labelMalePlural>
+  <GR_Muffalope.lifeStages.2.labelFemale>female muffalope</GR_Muffalope.lifeStages.2.labelFemale>
+  <GR_Muffalope.lifeStages.2.labelFemalePlural>female muffalopes</GR_Muffalope.lifeStages.2.labelFemalePlural>
+  <GR_Muffalope.labelMale>male muffalope</GR_Muffalope.labelMale>
+  <GR_Muffalope.labelMalePlural>male muffalopes</GR_Muffalope.labelMalePlural>
+  <GR_Muffalope.labelFemale>female muffalope</GR_Muffalope.labelFemale>
+  <GR_Muffalope.labelFemalePlural>female muffalopes</GR_Muffalope.labelFemalePlural>
+
+
+  <!-- Muffalo - Chicken -->
+
+  <GR_Muffalochicken.label>muffalochicken</GR_Muffalochicken.label>
+  <GR_Muffalochicken.labelPlural>muffalochickens</GR_Muffalochicken.labelPlural>
+  <GR_Muffalochicken.lifeStages.0.label>muffalochicken calf</GR_Muffalochicken.lifeStages.0.label>
+  <GR_Muffalochicken.lifeStages.0.labelPlural>muffalochicken calves</GR_Muffalochicken.lifeStages.0.labelPlural>
+  <GR_Muffalochicken.lifeStages.0.labelMale>male muffalochicken calf</GR_Muffalochicken.lifeStages.0.labelMale>
+  <GR_Muffalochicken.lifeStages.0.labelMalePlural>male muffalochicken calves</GR_Muffalochicken.lifeStages.0.labelMalePlural>
+  <GR_Muffalochicken.lifeStages.0.labelFemale>female muffalochicken calf</GR_Muffalochicken.lifeStages.0.labelFemale>
+  <GR_Muffalochicken.lifeStages.0.labelFemalePlural>female muffalochicken calves</GR_Muffalochicken.lifeStages.0.labelFemalePlural>
+  <GR_Muffalochicken.lifeStages.1.label>muffalochicken</GR_Muffalochicken.lifeStages.1.label>
+  <GR_Muffalochicken.lifeStages.1.labelPlural>muffalochicken</GR_Muffalochicken.lifeStages.1.labelPlural>
+  <GR_Muffalochicken.lifeStages.1.labelMale>male muffalochicken</GR_Muffalochicken.lifeStages.1.labelMale>
+  <GR_Muffalochicken.lifeStages.1.labelMalePlural>male muffalochickens</GR_Muffalochicken.lifeStages.1.labelMalePlural>
+  <GR_Muffalochicken.lifeStages.1.labelFemale>female muffalochicken</GR_Muffalochicken.lifeStages.1.labelFemale>
+  <GR_Muffalochicken.lifeStages.1.labelFemalePlural>female muffalochickens</GR_Muffalochicken.lifeStages.1.labelFemalePlural>
+  <GR_Muffalochicken.lifeStages.2.label>muffalochicken</GR_Muffalochicken.lifeStages.2.label>
+  <GR_Muffalochicken.lifeStages.2.labelPlural>muffalochicken</GR_Muffalochicken.lifeStages.2.labelPlural>
+  <GR_Muffalochicken.lifeStages.2.labelMale>male muffalochicken</GR_Muffalochicken.lifeStages.2.labelMale>
+  <GR_Muffalochicken.lifeStages.2.labelMalePlural>male muffalochickens</GR_Muffalochicken.lifeStages.2.labelMalePlural>
+  <GR_Muffalochicken.lifeStages.2.labelFemale>female muffalochicken</GR_Muffalochicken.lifeStages.2.labelFemale>
+  <GR_Muffalochicken.lifeStages.2.labelFemalePlural>female muffalochickens</GR_Muffalochicken.lifeStages.2.labelFemalePlural>
+  <GR_Muffalochicken.labelMale>male muffalochicken</GR_Muffalochicken.labelMale>
+  <GR_Muffalochicken.labelMalePlural>male muffalochickens</GR_Muffalochicken.labelMalePlural>
+  <GR_Muffalochicken.labelFemale>female muffalochicken</GR_Muffalochicken.labelFemale>
+  <GR_Muffalochicken.labelFemalePlural>female muffalochickens</GR_Muffalochicken.labelFemalePlural>
+
+
+  <!-- Muffalo - Wolf -->
+
+  <GR_Muffalowolf.label>muffalowolf</GR_Muffalowolf.label>
+  <GR_Muffalowolf.labelPlural>muffalowolfs</GR_Muffalowolf.labelPlural>
+  <GR_Muffalowolf.lifeStages.0.label>muffalowolf calf</GR_Muffalowolf.lifeStages.0.label>
+  <GR_Muffalowolf.lifeStages.0.labelPlural>muffalowolf calves</GR_Muffalowolf.lifeStages.0.labelPlural>
+  <GR_Muffalowolf.lifeStages.0.labelMale>male muffalowolf calf</GR_Muffalowolf.lifeStages.0.labelMale>
+  <GR_Muffalowolf.lifeStages.0.labelMalePlural>male muffalowolf calves</GR_Muffalowolf.lifeStages.0.labelMalePlural>
+  <GR_Muffalowolf.lifeStages.0.labelFemale>female muffalowolf calf</GR_Muffalowolf.lifeStages.0.labelFemale>
+  <GR_Muffalowolf.lifeStages.0.labelFemalePlural>female muffalowolf calves</GR_Muffalowolf.lifeStages.0.labelFemalePlural>
+  <GR_Muffalowolf.lifeStages.1.label>muffalowolf</GR_Muffalowolf.lifeStages.1.label>
+  <GR_Muffalowolf.lifeStages.1.labelPlural>muffalowolf</GR_Muffalowolf.lifeStages.1.labelPlural>
+  <GR_Muffalowolf.lifeStages.1.labelMale>male muffalowolf</GR_Muffalowolf.lifeStages.1.labelMale>
+  <GR_Muffalowolf.lifeStages.1.labelMalePlural>male muffalowolfs</GR_Muffalowolf.lifeStages.1.labelMalePlural>
+  <GR_Muffalowolf.lifeStages.1.labelFemale>female muffalowolf</GR_Muffalowolf.lifeStages.1.labelFemale>
+  <GR_Muffalowolf.lifeStages.1.labelFemalePlural>female muffalowolfs</GR_Muffalowolf.lifeStages.1.labelFemalePlural>
+  <GR_Muffalowolf.lifeStages.2.label>muffalowolf</GR_Muffalowolf.lifeStages.2.label>
+  <GR_Muffalowolf.lifeStages.2.labelPlural>muffalowolf</GR_Muffalowolf.lifeStages.2.labelPlural>
+  <GR_Muffalowolf.lifeStages.2.labelMale>male muffalowolf</GR_Muffalowolf.lifeStages.2.labelMale>
+  <GR_Muffalowolf.lifeStages.2.labelMalePlural>male muffalowolfs</GR_Muffalowolf.lifeStages.2.labelMalePlural>
+  <GR_Muffalowolf.lifeStages.2.labelFemale>female muffalowolf</GR_Muffalowolf.lifeStages.2.labelFemale>
+  <GR_Muffalowolf.lifeStages.2.labelFemalePlural>female muffalowolfs</GR_Muffalowolf.lifeStages.2.labelFemalePlural>
+  <GR_Muffalowolf.labelMale>male muffalowolf</GR_Muffalowolf.labelMale>
+  <GR_Muffalowolf.labelMalePlural>male muffalowolfs</GR_Muffalowolf.labelMalePlural>
+  <GR_Muffalowolf.labelFemale>female muffalowolf</GR_Muffalowolf.labelFemale>
+  <GR_Muffalowolf.labelFemalePlural>female muffalowolfs</GR_Muffalowolf.labelFemalePlural>
+
+
+  <!-- Muffalo - Rat -->
+
+  <GR_Muffalorat.label>muffalorat</GR_Muffalorat.label>
+  <GR_Muffalorat.labelPlural>muffalorats</GR_Muffalorat.labelPlural>
+  <GR_Muffalorat.lifeStages.0.label>muffalorat calf</GR_Muffalorat.lifeStages.0.label>
+  <GR_Muffalorat.lifeStages.0.labelPlural>muffalorat calves</GR_Muffalorat.lifeStages.0.labelPlural>
+  <GR_Muffalorat.lifeStages.0.labelMale>male muffalorat calf</GR_Muffalorat.lifeStages.0.labelMale>
+  <GR_Muffalorat.lifeStages.0.labelMalePlural>male muffalorat calves</GR_Muffalorat.lifeStages.0.labelMalePlural>
+  <GR_Muffalorat.lifeStages.0.labelFemale>female muffalorat calf</GR_Muffalorat.lifeStages.0.labelFemale>
+  <GR_Muffalorat.lifeStages.0.labelFemalePlural>female muffalorat calves</GR_Muffalorat.lifeStages.0.labelFemalePlural>
+  <GR_Muffalorat.lifeStages.1.label>muffalorat</GR_Muffalorat.lifeStages.1.label>
+  <GR_Muffalorat.lifeStages.1.labelPlural>muffalorat</GR_Muffalorat.lifeStages.1.labelPlural>
+  <GR_Muffalorat.lifeStages.1.labelMale>male muffalorat</GR_Muffalorat.lifeStages.1.labelMale>
+  <GR_Muffalorat.lifeStages.1.labelMalePlural>male muffalorats</GR_Muffalorat.lifeStages.1.labelMalePlural>
+  <GR_Muffalorat.lifeStages.1.labelFemale>female muffalorat</GR_Muffalorat.lifeStages.1.labelFemale>
+  <GR_Muffalorat.lifeStages.1.labelFemalePlural>female muffalorats</GR_Muffalorat.lifeStages.1.labelFemalePlural>
+  <GR_Muffalorat.lifeStages.2.label>muffalorat</GR_Muffalorat.lifeStages.2.label>
+  <GR_Muffalorat.lifeStages.2.labelPlural>muffalorat</GR_Muffalorat.lifeStages.2.labelPlural>
+  <GR_Muffalorat.lifeStages.2.labelMale>male muffalorat</GR_Muffalorat.lifeStages.2.labelMale>
+  <GR_Muffalorat.lifeStages.2.labelMalePlural>male muffalorats</GR_Muffalorat.lifeStages.2.labelMalePlural>
+  <GR_Muffalorat.lifeStages.2.labelFemale>female muffalorat</GR_Muffalorat.lifeStages.2.labelFemale>
+  <GR_Muffalorat.lifeStages.2.labelFemalePlural>female muffalorats</GR_Muffalorat.lifeStages.2.labelFemalePlural>
+  <GR_Muffalorat.labelMale>male muffalorat</GR_Muffalorat.labelMale>
+  <GR_Muffalorat.labelMalePlural>male muffalorats</GR_Muffalorat.labelMalePlural>
+  <GR_Muffalorat.labelFemale>female muffalorat</GR_Muffalorat.labelFemale>
+  <GR_Muffalorat.labelFemalePlural>female muffalorats</GR_Muffalorat.labelFemalePlural>
+
+
+  <!-- Muffalo - Cat -->
+
+  <GR_Muffalocat.label>muffalocat</GR_Muffalocat.label>
+  <GR_Muffalocat.labelPlural>muffalocats</GR_Muffalocat.labelPlural>
+  <GR_Muffalocat.lifeStages.0.label>muffalocat calf</GR_Muffalocat.lifeStages.0.label>
+  <GR_Muffalocat.lifeStages.0.labelPlural>muffalocat calves</GR_Muffalocat.lifeStages.0.labelPlural>
+  <GR_Muffalocat.lifeStages.0.labelMale>male muffalocat calf</GR_Muffalocat.lifeStages.0.labelMale>
+  <GR_Muffalocat.lifeStages.0.labelMalePlural>male muffalocat calves</GR_Muffalocat.lifeStages.0.labelMalePlural>
+  <GR_Muffalocat.lifeStages.0.labelFemale>female muffalocat calf</GR_Muffalocat.lifeStages.0.labelFemale>
+  <GR_Muffalocat.lifeStages.0.labelFemalePlural>female muffalocat calves</GR_Muffalocat.lifeStages.0.labelFemalePlural>
+  <GR_Muffalocat.lifeStages.1.label>muffalocat</GR_Muffalocat.lifeStages.1.label>
+  <GR_Muffalocat.lifeStages.1.labelPlural>muffalocat</GR_Muffalocat.lifeStages.1.labelPlural>
+  <GR_Muffalocat.lifeStages.1.labelMale>male muffalocat</GR_Muffalocat.lifeStages.1.labelMale>
+  <GR_Muffalocat.lifeStages.1.labelMalePlural>male muffalocats</GR_Muffalocat.lifeStages.1.labelMalePlural>
+  <GR_Muffalocat.lifeStages.1.labelFemale>female muffalocat</GR_Muffalocat.lifeStages.1.labelFemale>
+  <GR_Muffalocat.lifeStages.1.labelFemalePlural>female muffalocats</GR_Muffalocat.lifeStages.1.labelFemalePlural>
+  <GR_Muffalocat.lifeStages.2.label>muffalocat</GR_Muffalocat.lifeStages.2.label>
+  <GR_Muffalocat.lifeStages.2.labelPlural>muffalocat</GR_Muffalocat.lifeStages.2.labelPlural>
+  <GR_Muffalocat.lifeStages.2.labelMale>male muffalocat</GR_Muffalocat.lifeStages.2.labelMale>
+  <GR_Muffalocat.lifeStages.2.labelMalePlural>male muffalocats</GR_Muffalocat.lifeStages.2.labelMalePlural>
+  <GR_Muffalocat.lifeStages.2.labelFemale>female muffalocat</GR_Muffalocat.lifeStages.2.labelFemale>
+  <GR_Muffalocat.lifeStages.2.labelFemalePlural>female muffalocats</GR_Muffalocat.lifeStages.2.labelFemalePlural>
+  <GR_Muffalocat.labelMale>male muffalocat</GR_Muffalocat.labelMale>
+  <GR_Muffalocat.labelMalePlural>male muffalocats</GR_Muffalocat.labelMalePlural>
+  <GR_Muffalocat.labelFemale>female muffalocat</GR_Muffalocat.labelFemale>
+  <GR_Muffalocat.labelFemalePlural>female muffalocats</GR_Muffalocat.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_WeirdMilk.label>weird milk</GR_WeirdMilk.label>
+  <GR_WeirdMilk.description>This strange milk has a sour, chemical taste.</GR_WeirdMilk.description>
+
+  <GR_MuffalopeMilk.label>muffalope milk</GR_MuffalopeMilk.label>
+  <GR_MuffalopeMilk.description>This yellow, thick milk is definitely not edible. It is highly unstable, so it might be used as an improvised explosive if you have the proper knowledge.</GR_MuffalopeMilk.description>
+
+  <GR_MechaMilk.label>mechanoid milk</GR_MechaMilk.label>
+  <GR_MechaMilk.description>This metallic, quicksilver-like substance is not edible. It can be processed in a refinery to obtain neutroamine, chemfuel and a bit of silver.</GR_MechaMilk.description>
+
+  <GR_BearffaloMilk.label>bearfallo milk</GR_BearffaloMilk.label>
+  <GR_BearffaloMilk.description>Milk from a bearffalo. Quite high in fat content, and very nutritive.</GR_BearffaloMilk.description>
+
+  <GR_ThrumffaloMilk.label>thrumffalo milk</GR_ThrumffaloMilk.label>
+  <GR_ThrumffaloMilk.description>Milk from a thrumffalo. Very nutritive. Also with a sky-high cholesterol content, but in the Rim nobody judges you.</GR_ThrumffaloMilk.description>
+
+  <GR_MuffalochickenMilk.label>muffalochicken milk</GR_MuffalochickenMilk.label>
+  <GR_MuffalochickenMilk.description>This lumpy milk seems to have concentrated protein chunks, tasting like chicken nuggets. Disgusting, but colonists seem to like it.</GR_MuffalochickenMilk.description>
+
+  <GR_ChickenffaloMilk.label>chickenffalo milk</GR_ChickenffaloMilk.label>
+  <GR_ChickenffaloMilk.description>Milk from a chickenffalo. Looks like watered down milk. Probably not much better than water.</GR_ChickenffaloMilk.description>
+
+  <GR_MuffalobearMilk.label>muffalobear milk</GR_MuffalobearMilk.label>
+  <GR_MuffalobearMilk.description>A delicious milk with roasted overtones. Very pleasurable to eat, but not very nutritious.</GR_MuffalobearMilk.description>
+
+  <GR_WolffaloMilk.label>wolffalo milk</GR_WolffaloMilk.label>
+  <GR_WolffaloMilk.description>This milk seems to be filled with strands of grey wool. Disgusting, and quite hard to drink...</GR_WolffaloMilk.description>
+
+  <GR_RatMilk.label>ratfallo milk</GR_RatMilk.label>
+  <GR_RatMilk.description>This milk has a rich, thick quality to it. It's origins, however, might be a bit dubious... Unless you trust mafia guys called Tony.</GR_RatMilk.description>
+
+
+</LanguageData>

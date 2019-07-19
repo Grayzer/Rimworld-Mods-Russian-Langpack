@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- advanced chemfuel generator -->
+
+  <ACG_ChemfuelPoweredGenerator.label>продвинутый генератор на химтопливе</ACG_ChemfuelPoweredGenerator.label>
+  <ACG_ChemfuelPoweredGenerator.description>Производит энергию, потребляя химическое топливо. Он немного более эффективен и производит вдвое больше энергии.n\nДолжен периодически заправляться вручную.</ACG_ChemfuelPoweredGenerator.description>
+  <ACG_ChemfuelPoweredGenerator_Blueprint.label>продвинутый генератор на химтопливе (чертеж)</ACG_ChemfuelPoweredGenerator_Blueprint.label>
+  <ACG_ChemfuelPoweredGenerator_Frame.label>продвинутый генератор на химтопливе (стройка)</ACG_ChemfuelPoweredGenerator_Frame.label>
+  <ACG_ChemfuelPoweredGenerator_Frame.description>Производит энергию, потребляя химическое топливо. Он немного более эффективен и производит вдвое больше энергии.n\nДолжен периодически заправляться вручную.</ACG_ChemfuelPoweredGenerator_Frame.description>
+
+
+</LanguageData>

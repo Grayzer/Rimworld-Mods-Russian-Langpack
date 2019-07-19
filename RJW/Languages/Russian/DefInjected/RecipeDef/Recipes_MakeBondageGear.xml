@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeHololock.label>сделать голографический замок</MakeHololock.label>
+  <MakeHololock.description>Сделать голографический замок.</MakeHololock.description>
+  <MakeHololock.jobString>Делает голографический замок.</MakeHololock.jobString>
+
+  <MakeArmbinder.label>сделать наручники</MakeArmbinder.label>
+  <MakeArmbinder.description>Сделать наручники.</MakeArmbinder.description>
+  <MakeArmbinder.jobString>Делает наручники.</MakeArmbinder.jobString>
+
+  <MakeGag.label>сделать кляп</MakeGag.label>
+  <MakeGag.description>Сделать кляп.</MakeGag.description>
+  <MakeGag.jobString>Делает кляп.</MakeGag.jobString>
+
+
+  <!-- <RecipeDef>
+		<defName>MakeOpenGag</defName>
+		<label>make open gag</label>
+		<description>Make a open gag.</description>
+		<jobString>Making gag.</jobString>
+		<workSpeedStat>TailoringSpeed</workSpeedStat>
+		<soundWorking>Recipe_Tailor</soundWorking>
+		<workAmount>1500</workAmount>
+		<unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>DevilstrandCloth</li>
+					</thingDefs>
+				</filter>
+				<count>15</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Steel</li>
+					</thingDefs>
+				</filter>
+				<count>10</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Hololock</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>DevilstrandCloth</li>
+				<li>Steel</li>
+				<li>Hololock</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<OpenGag>1</OpenGag>
+		</products>
+		<skillRequirements>
+			<Crafting>4</Crafting>
+		</skillRequirements>
+		<workSkill>Crafting</workSkill>
+	</RecipeDef> -->
+
+  <MakeChastityBelt.label>сделать пояс верности</MakeChastityBelt.label>
+  <MakeChastityBelt.description>Сделать пояс верности.</MakeChastityBelt.description>
+  <MakeChastityBelt.jobString>Делает пояс верности.</MakeChastityBelt.jobString>
+
+  <MakePrisonerChains.label>сделать цепи</MakePrisonerChains.label>
+  <MakePrisonerChains.description>Сделать ограничительные цепи.</MakePrisonerChains.description>
+  <MakePrisonerChains.jobString>Делает цепи.</MakePrisonerChains.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ECP_RocketTurbine.label>Ракетно-турбинный генератор</ECP_RocketTurbine.label>
+  <ECP_RocketTurbine.description>Производит энергию, потребляя ракетное топливо.</ECP_RocketTurbine.description>
+  <ECP_RocketTurbine_Blueprint.label>Ракетно-турбинный генератор (чертеж)</ECP_RocketTurbine_Blueprint.label>
+  <ECP_RocketTurbine_Frame.label>Ракетно-турбинный генератор (стройка)</ECP_RocketTurbine_Frame.label>
+  <ECP_RocketTurbine_Frame.description>Производит энергию, потребляя ракетное топливо.</ECP_RocketTurbine_Frame.description>
+
+
+</LanguageData>

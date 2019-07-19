@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_MechanoidInterfaceChip.label>mechanoid interface chip</GR_MechanoidInterfaceChip.label>
+  <GR_MechanoidInterfaceChip.description>This stellated octahedron-shaped chip is a marvel of advanced technology. Used by mechanoids to interface technology with organics for unknown purposes, it could probably be repurposed for bioengineering. (This chip is used to create mechanoid hybrids in Genetic Rim, if you have the appropiate research)</GR_MechanoidInterfaceChip.description>
+
+  <GR_UnfinishedMechanoidInterfaceChip.label>unfinished mechanoid interface chip</GR_UnfinishedMechanoidInterfaceChip.label>
+
+
+</LanguageData>

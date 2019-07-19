@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- master hediff adding up the smaller semen splatches -->
+
+  <Hediff_Bukkake.label>Bukkake</Hediff_Bukkake.label>
+  <Hediff_Bukkake.stages.0.label>minor</Hediff_Bukkake.stages.0.label>
+  <Hediff_Bukkake.stages.1.label>little</Hediff_Bukkake.stages.1.label>
+  <Hediff_Bukkake.stages.2.label>extensive</Hediff_Bukkake.stages.2.label>
+  <Hediff_Bukkake.stages.3.label>full</Hediff_Bukkake.stages.3.label>
+
+  <Hediff_Semen.label>semen</Hediff_Semen.label>
+  <Hediff_Semen.stages.0.label>little</Hediff_Semen.stages.0.label>
+  <Hediff_Semen.stages.1.label>some</Hediff_Semen.stages.1.label>
+  <Hediff_Semen.stages.2.label>dripping</Hediff_Semen.stages.2.label>
+  <Hediff_Semen.stages.3.label>drenched</Hediff_Semen.stages.3.label>
+  <Hediff_Semen.labelNoun>semen</Hediff_Semen.labelNoun>
+
+  <Hediff_InsectSpunk.label>insect spunk</Hediff_InsectSpunk.label>
+  <Hediff_InsectSpunk.stages.0.label>little</Hediff_InsectSpunk.stages.0.label>
+  <Hediff_InsectSpunk.stages.1.label>some</Hediff_InsectSpunk.stages.1.label>
+  <Hediff_InsectSpunk.stages.2.label>dripping</Hediff_InsectSpunk.stages.2.label>
+  <Hediff_InsectSpunk.stages.3.label>drenched</Hediff_InsectSpunk.stages.3.label>
+  <Hediff_InsectSpunk.labelNoun>insect spunk</Hediff_InsectSpunk.labelNoun>
+
+  <Hediff_MechaFluids.label>mechanoid fluids</Hediff_MechaFluids.label>
+  <Hediff_MechaFluids.stages.0.label>little</Hediff_MechaFluids.stages.0.label>
+  <Hediff_MechaFluids.stages.1.label>some</Hediff_MechaFluids.stages.1.label>
+  <Hediff_MechaFluids.stages.2.label>dripping</Hediff_MechaFluids.stages.2.label>
+  <Hediff_MechaFluids.stages.3.label>drenched</Hediff_MechaFluids.stages.3.label>
+  <Hediff_MechaFluids.labelNoun>mechanoid fluids</Hediff_MechaFluids.labelNoun>
+
+
+</LanguageData>

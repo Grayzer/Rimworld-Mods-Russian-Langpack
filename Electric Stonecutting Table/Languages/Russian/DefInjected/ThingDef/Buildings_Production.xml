@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableStonecutterElectric.label>Электрический камнерез</TableStonecutterElectric.label>
+  <TableStonecutterElectric.description>Рабочий стол, оснащенный электроинструментом для резки грубого камня на пригодные для использования блоки. Может работать без электричества на 35% от нормальной скорости.</TableStonecutterElectric.description>
+  <TableStonecutterElectric_Blueprint.label>Электрический камнерез (чертеж)</TableStonecutterElectric_Blueprint.label>
+  <TableStonecutterElectric_Blueprint_Install.label>Электрический камнерез (чертеж)</TableStonecutterElectric_Blueprint_Install.label>
+  <TableStonecutterElectric_Frame.label>Электрический камнерез (стройка)</TableStonecutterElectric_Frame.label>
+  <TableStonecutterElectric_Frame.description>Рабочий стол, оснащенный электроинструментом для резки грубого камня на пригодные для использования блоки. Может работать без электричества на 35% от нормальной скорости.</TableStonecutterElectric_Frame.description>
+
+
+</LanguageData>

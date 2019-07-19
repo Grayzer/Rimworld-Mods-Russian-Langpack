@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanoid - Bear -->
+
+  <GR_Mechabear.label>мехмедведь</GR_Mechabear.label>
+  <GR_Mechabear.labelPlural>мехмедведи</GR_Mechabear.labelPlural>
+
+
+  <!-- Mechanoid - Boomalope -->
+
+  <GR_Mechalope.label>мехалопа</GR_Mechalope.label>
+  <GR_Mechalope.labelPlural>мехалопы</GR_Mechalope.labelPlural>
+
+
+  <!-- Mechanoid - Chicken -->
+
+  <GR_Mechachicken.label>мехацып</GR_Mechachicken.label>
+  <GR_Mechachicken.labelPlural>мехацыпы</GR_Mechachicken.labelPlural>
+
+
+  <!-- Mechanoid - Insectoid -->
+
+  <GR_Mechaspider.label>мехапаук</GR_Mechaspider.label>
+  <GR_Mechaspider.labelPlural>мехапауки</GR_Mechaspider.labelPlural>
+
+
+  <!-- Mechanoid - Muffalo -->
+
+  <GR_Mechamuffalo.label>мехамуффало</GR_Mechamuffalo.label>
+  <GR_Mechamuffalo.labelPlural>мехамуффало</GR_Mechamuffalo.labelPlural>
+
+
+  <!-- Mechanoid - Rodent -->
+
+  <GR_Mecharat.label>мехакрыс</GR_Mecharat.label>
+  <GR_Mecharat.labelPlural>мехакрысы</GR_Mecharat.labelPlural>
+
+
+  <!-- Mechanoid - Reptile -->
+
+  <GR_Mechaturtle.label>мехачерепаха</GR_Mechaturtle.label>
+  <GR_Mechaturtle.labelPlural>мехачерепахи</GR_Mechaturtle.labelPlural>
+
+
+  <!-- Mechanoid - Wolf -->
+
+  <GR_Mechawolf.label>мехаволк</GR_Mechawolf.label>
+  <GR_Mechawolf.labelPlural>мехаволки</GR_Mechawolf.labelPlural>
+
+
+  <!-- Mechanoid - Thrumbo -->
+
+  <GR_Mechathrumbo.label>мехатрумбо</GR_Mechathrumbo.label>
+  <GR_Mechathrumbo.labelPlural>мехатрумбо</GR_Mechathrumbo.labelPlural>
+
+
+  <!-- Mechanoid - Cat -->
+
+  <GR_Mechacat.label>мехакот</GR_Mechacat.label>
+  <GR_Mechacat.labelPlural>мехакоты</GR_Mechacat.labelPlural>
+
+
+</LanguageData>

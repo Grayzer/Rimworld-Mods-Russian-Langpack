@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chicken - Bear -->
+
+  <GR_Chickenbear.label>chickenbear</GR_Chickenbear.label>
+  <GR_Chickenbear.description>A chicken / bear hybrid. Lays eggs, and can defend itself in combat slightly better than a chicken. \n\nUseful abilities: Their sharp, small teeth can be harvested when butchering them, and they are slightly valuable and lightweight.</GR_Chickenbear.description>
+  <GR_Chickenbear.tools.0.label>claws</GR_Chickenbear.tools.0.label>
+  <GR_Chickenbear.tools.2.label>head</GR_Chickenbear.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Chicken -->
+  <GR_Chickenbear_Corpse.label>chickenbear corpse</GR_Chickenbear_Corpse.label>
+  <GR_Chickenbear_Corpse.description>chickenbear corpse</GR_Chickenbear_Corpse.description>
+
+
+  <!-- Chicken - Boomalope -->
+
+  <GR_Chickenlope.label>chickenlope</GR_Chickenlope.label>
+  <GR_Chickenlope.description>A chicken / boomalope hybrid. This sickly looking creature is basically useless. Now, if you gather a lot of them, and kill them in a chain reaction... \n\nUseful abilities: Explodes on death. Produces minute amounts of chemfuel every day.</GR_Chickenlope.description>
+  <GR_Chickenlope.tools.0.label>claws</GR_Chickenlope.tools.0.label>
+  <GR_Chickenlope.tools.2.label>head</GR_Chickenlope.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Chicken -->
+  <GR_Chickenlope_Corpse.label>chickenlope corpse</GR_Chickenlope_Corpse.label>
+  <GR_Chickenlope_Corpse.description>chickenlope corpse</GR_Chickenlope_Corpse.description>
+
+
+  <!-- Chicken - Muffalo -->
+
+  <GR_Chickenffalo.label>chickenffalo</GR_Chickenffalo.label>
+  <GR_Chickenffalo.description>A chicken / muffalo hybrid. Lays eggs, produces milk, wool and can be used as a pack beast. Of course, it doesn't excel at ANY of those things, but it's the price you pay for convenience. They are so cute, though, wearing their tiny bags...</GR_Chickenffalo.description>
+  <GR_Chickenffalo.tools.0.label>claws</GR_Chickenffalo.tools.0.label>
+  <GR_Chickenffalo.tools.1.label>head</GR_Chickenffalo.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Chicken -->
+  <GR_Chickenffalo_Corpse.label>chickenffalo corpse</GR_Chickenffalo_Corpse.label>
+  <GR_Chickenffalo_Corpse.description>chickenffalo corpse</GR_Chickenffalo_Corpse.description>
+
+
+  <!-- Chicken - Wolf -->
+
+  <GR_Chickenwolf.label>chickenwolf</GR_Chickenwolf.label>
+  <GR_Chickenwolf.description>A chicken / wolf hybrid. Fast moving, and with a nasty bite! \n\nUseful abilities: Their sharp, small teeth can be harvested when butchering them, and they are slightly valuable and lightweight.</GR_Chickenwolf.description>
+  <GR_Chickenwolf.tools.0.label>claws</GR_Chickenwolf.tools.0.label>
+  <GR_Chickenwolf.tools.2.label>head</GR_Chickenwolf.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Chicken -->
+  <GR_Chickenwolf_Corpse.label>chickenwolf corpse</GR_Chickenwolf_Corpse.label>
+  <GR_Chickenwolf_Corpse.description>chickenwolf corpse</GR_Chickenwolf_Corpse.description>
+
+
+  <!-- Chicken - Rabbit -->
+
+  <GR_Chickenrabbit.label>chickenrabbit</GR_Chickenrabbit.label>
+  <GR_Chickenrabbit.description>A Chicken / Rabbit hybrid. What happens when you artificially crossbreed two fast breeding creatures? The chickenrabbit is an ecological disaster waiting to happen.\n\nUseful abilities: Egg layer. EXTREMELY fast breeding.</GR_Chickenrabbit.description>
+  <GR_Chickenrabbit.tools.0.label>claws</GR_Chickenrabbit.tools.0.label>
+  <GR_Chickenrabbit.tools.2.label>head</GR_Chickenrabbit.tools.2.label>
+  <!-- Use Leather From: Chicken -->
+  <!-- Use Meat From: Chicken -->
+  <GR_Chickenrabbit_Corpse.label>chickenrabbit corpse</GR_Chickenrabbit_Corpse.label>
+  <GR_Chickenrabbit_Corpse.description>chickenrabbit corpse</GR_Chickenrabbit_Corpse.description>
+
+
+  <!-- Chicken - Wolf -->
+
+  <GR_Chickencat.label>chickencat</GR_Chickencat.label>
+  <GR_Chickencat.description>A chicken / cat hybrid. Fast moving, specially intelligent. It is one of the few chicken hybrids that can be somewhat trained.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. The chickencat obviously produces eggs.</GR_Chickencat.description>
+  <GR_Chickencat.tools.0.label>claws</GR_Chickencat.tools.0.label>
+  <GR_Chickencat.tools.2.label>head</GR_Chickencat.tools.2.label>
+  <!-- Use Leather From: Chicken -->
+  <!-- Use Meat From: Chicken -->
+  <GR_Chickencat_Corpse.label>chickencat corpse</GR_Chickencat_Corpse.label>
+  <GR_Chickencat_Corpse.description>chickencat corpse</GR_Chickencat_Corpse.description>
+
+
+</LanguageData>

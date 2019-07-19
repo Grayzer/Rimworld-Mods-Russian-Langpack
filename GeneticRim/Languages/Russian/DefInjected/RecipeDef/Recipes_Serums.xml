@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_ExtractSerumBear.label>извлечь образец сыворотки из медведя</GR_ExtractSerumBear.label>
+  <GR_ExtractSerumBear.description>Извлечь образец сыворотки из трупа медведя.</GR_ExtractSerumBear.description>
+  <GR_ExtractSerumBear.jobString>Извлечение образца сыворотки</GR_ExtractSerumBear.jobString>
+
+  <GR_ExtractSerumBoar.label>Извлечь образец сыворотки из дикого кабана</GR_ExtractSerumBoar.label>
+  <GR_ExtractSerumBoar.description>Извлечь образец сыворотки из трупа дикого кабана.</GR_ExtractSerumBoar.description>
+  <GR_ExtractSerumBoar.jobString>Извлечение образца сыворотки</GR_ExtractSerumBoar.jobString>
+
+  <GR_ExtractSerumBoomalope.label>Извлечь образец сыворотки из бумалопы</GR_ExtractSerumBoomalope.label>
+  <GR_ExtractSerumBoomalope.description>Извлечь образец сыворотки из трупа бумалопы.</GR_ExtractSerumBoomalope.description>
+  <GR_ExtractSerumBoomalope.jobString>Извлечение образца сыворотки</GR_ExtractSerumBoomalope.jobString>
+
+  <GR_ExtractSerumChicken.label>Извлечь образец сыворотки из курицы</GR_ExtractSerumChicken.label>
+  <GR_ExtractSerumChicken.description>Извлечь образец сыворотки из трупа курицы.</GR_ExtractSerumChicken.description>
+  <GR_ExtractSerumChicken.jobString>Извлечение образца сыворотки</GR_ExtractSerumChicken.jobString>
+
+  <GR_ExtractSerumEmu.label>Извлечь образец сыворотки из эму</GR_ExtractSerumEmu.label>
+  <GR_ExtractSerumEmu.description>Извлечь образец сыворотки из трупа эму.</GR_ExtractSerumEmu.description>
+  <GR_ExtractSerumEmu.jobString>Извлечение образца сыворотки</GR_ExtractSerumEmu.jobString>
+
+  <GR_ExtractSerumMuffalo.label>Извлечь образец сыворотки из муффало</GR_ExtractSerumMuffalo.label>
+  <GR_ExtractSerumMuffalo.description>Извлечь образец сыворотки из трупа муффало.</GR_ExtractSerumMuffalo.description>
+  <GR_ExtractSerumMuffalo.jobString>Извлечение образца сыворотки</GR_ExtractSerumMuffalo.jobString>
+
+  <GR_ExtractSerumOstrich.label>Извлечь образец сыворотки из страуса</GR_ExtractSerumOstrich.label>
+  <GR_ExtractSerumOstrich.description>Извлечь образец сыворотки из трупа страуса.</GR_ExtractSerumOstrich.description>
+  <GR_ExtractSerumOstrich.jobString>Извлечение образца сыворотки</GR_ExtractSerumOstrich.jobString>
+
+  <GR_ExtractSerumRhino.label>Извлечь образец сыворотки из носорога</GR_ExtractSerumRhino.label>
+  <GR_ExtractSerumRhino.description>Извлечь образец сыворотки из трупа носорога.</GR_ExtractSerumRhino.description>
+  <GR_ExtractSerumRhino.jobString>Извлечение образца сыворотки</GR_ExtractSerumRhino.jobString>
+
+  <GR_ExtractSerumWolf.label>Извлечь образец сыворотки из волка</GR_ExtractSerumWolf.label>
+  <GR_ExtractSerumWolf.description>Извлечь образец сыворотки из трупа волка.</GR_ExtractSerumWolf.description>
+  <GR_ExtractSerumWolf.jobString>Извлечение образца сыворотки</GR_ExtractSerumWolf.jobString>
+
+  <GR_ExtractSerumHare.label>Извлечь образец сыворотки из зайца</GR_ExtractSerumHare.label>
+  <GR_ExtractSerumHare.description>Извлечь образец сыворотки из трупа зайца.</GR_ExtractSerumHare.description>
+  <GR_ExtractSerumHare.jobString>Извлечение образца сыворотки</GR_ExtractSerumHare.jobString>
+
+  <GR_ExtractSerumIguana.label>Извлечь образец сыворотки из игуаны</GR_ExtractSerumIguana.label>
+  <GR_ExtractSerumIguana.description>Извлечь образец сыворотки трупа игуаны.</GR_ExtractSerumIguana.description>
+  <GR_ExtractSerumIguana.jobString>Извлечение образца сыворотки</GR_ExtractSerumIguana.jobString>
+
+  <GR_ExtractSerumPig.label>Извлечь образец сыворотки из свиньи</GR_ExtractSerumPig.label>
+  <GR_ExtractSerumPig.description>Извлечь образец сыворотки из трупа свиньи.</GR_ExtractSerumPig.description>
+  <GR_ExtractSerumPig.jobString>Извлечение образца сыворотки</GR_ExtractSerumPig.jobString>
+
+  <GR_ExtractSerumRat.label>Извлечь образец сыворотки из крысы</GR_ExtractSerumRat.label>
+  <GR_ExtractSerumRat.description>Извлечь образец сыворотки из трупа крысы.</GR_ExtractSerumRat.description>
+  <GR_ExtractSerumRat.jobString>Извлечение образца сыворотки</GR_ExtractSerumRat.jobString>
+
+  <GR_ExtractSerumTortoise.label>Извлечь образец сыворотки из черепахи</GR_ExtractSerumTortoise.label>
+  <GR_ExtractSerumTortoise.description>Извлечь образец сыворотки из трупа черепахи.</GR_ExtractSerumTortoise.description>
+  <GR_ExtractSerumTortoise.jobString>Извлечение образца сыворотки</GR_ExtractSerumTortoise.jobString>
+
+
+</LanguageData>

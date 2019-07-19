@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bear -->
+
+  <GR_AlphaBear.label>образцовый медведь</GR_AlphaBear.label>
+  <GR_AlphaBear.labelPlural>образцовые медведи</GR_AlphaBear.labelPlural>
+  <GR_AlphaBear.lifeStages.0.label>образцовый медведь</GR_AlphaBear.lifeStages.0.label>
+  <GR_AlphaBear.lifeStages.0.labelPlural>образцовый медведь</GR_AlphaBear.lifeStages.0.labelPlural>
+  <GR_AlphaBear.lifeStages.0.labelMale>образцовый медведь</GR_AlphaBear.lifeStages.0.labelMale>
+  <GR_AlphaBear.lifeStages.0.labelMalePlural>образцовые медведи</GR_AlphaBear.lifeStages.0.labelMalePlural>
+  <GR_AlphaBear.lifeStages.0.labelFemale>образцовая медведица</GR_AlphaBear.lifeStages.0.labelFemale>
+  <GR_AlphaBear.lifeStages.0.labelFemalePlural>образцовые медведицы</GR_AlphaBear.lifeStages.0.labelFemalePlural>
+  <GR_AlphaBear.lifeStages.1.label>образцовый медведь</GR_AlphaBear.lifeStages.1.label>
+  <GR_AlphaBear.lifeStages.1.labelPlural>образцовый медведь</GR_AlphaBear.lifeStages.1.labelPlural>
+  <GR_AlphaBear.lifeStages.1.labelMale>образцовый медведь</GR_AlphaBear.lifeStages.1.labelMale>
+  <GR_AlphaBear.lifeStages.1.labelMalePlural>образцовые медведи</GR_AlphaBear.lifeStages.1.labelMalePlural>
+  <GR_AlphaBear.lifeStages.1.labelFemale>образцовая медведица</GR_AlphaBear.lifeStages.1.labelFemale>
+  <GR_AlphaBear.lifeStages.1.labelFemalePlural>образцовые медведицы</GR_AlphaBear.lifeStages.1.labelFemalePlural>
+  <GR_AlphaBear.lifeStages.2.label>образцовый медведь</GR_AlphaBear.lifeStages.2.label>
+  <GR_AlphaBear.lifeStages.2.labelPlural>образцовый медведь</GR_AlphaBear.lifeStages.2.labelPlural>
+  <GR_AlphaBear.lifeStages.2.labelMale>образцовый медведь</GR_AlphaBear.lifeStages.2.labelMale>
+  <GR_AlphaBear.lifeStages.2.labelMalePlural>образцовые медведи</GR_AlphaBear.lifeStages.2.labelMalePlural>
+  <GR_AlphaBear.lifeStages.2.labelFemale>образцовая медведица</GR_AlphaBear.lifeStages.2.labelFemale>
+  <GR_AlphaBear.lifeStages.2.labelFemalePlural>образцовые медведицы</GR_AlphaBear.lifeStages.2.labelFemalePlural>
+  <GR_AlphaBear.labelMale>образцовый медведь</GR_AlphaBear.labelMale>
+  <GR_AlphaBear.labelMalePlural>образцовые медведи</GR_AlphaBear.labelMalePlural>
+  <GR_AlphaBear.labelFemale>образцовая медведица</GR_AlphaBear.labelFemale>
+  <GR_AlphaBear.labelFemalePlural>образцовые медведицы</GR_AlphaBear.labelFemalePlural>
+
+
+  <!-- Wildboar -->
+
+  <GR_AlphaWildBoar.label>образцовый кабан</GR_AlphaWildBoar.label>
+  <GR_AlphaWildBoar.labelPlural>образцовые кабаны</GR_AlphaWildBoar.labelPlural>
+  <GR_AlphaWildBoar.lifeStages.0.label>образцовый кабан</GR_AlphaWildBoar.lifeStages.0.label>
+  <GR_AlphaWildBoar.lifeStages.0.labelPlural>образцовый кабан</GR_AlphaWildBoar.lifeStages.0.labelPlural>
+  <GR_AlphaWildBoar.lifeStages.0.labelMale>образцовый кабан</GR_AlphaWildBoar.lifeStages.0.labelMale>
+  <GR_AlphaWildBoar.lifeStages.0.labelMalePlural>образцовые кабаны</GR_AlphaWildBoar.lifeStages.0.labelMalePlural>
+  <GR_AlphaWildBoar.lifeStages.0.labelFemale>образцовая кабаниха</GR_AlphaWildBoar.lifeStages.0.labelFemale>
+  <GR_AlphaWildBoar.lifeStages.0.labelFemalePlura>образцовые кабанихи</GR_AlphaWildBoar.lifeStages.0.labelFemalePlural>
+  <GR_AlphaWildBoar.lifeStages.1.label>образцовый кабан</GR_AlphaWildBoar.lifeStages.1.label>
+  <GR_AlphaWildBoar.lifeStages.1.labelPlural>образцовый кабан</GR_AlphaWildBoar.lifeStages.1.labelPlural>
+  <GR_AlphaWildBoar.lifeStages.1.labelMale>образцовый кабан</GR_AlphaWildBoar.lifeStages.1.labelMale>
+  <GR_AlphaWildBoar.lifeStages.1.labelMalePlural>образцовые кабаны</GR_AlphaWildBoar.lifeStages.1.labelMalePlural>
+  <GR_AlphaWildBoar.lifeStages.1.labelFemale>образцовая кабаниха</GR_AlphaWildBoar.lifeStages.1.labelFemale>
+  <GR_AlphaWildBoar.lifeStages.1.labelFemalePlura>образцовые кабанихи</GR_AlphaWildBoar.lifeStages.1.labelFemalePlural>
+  <GR_AlphaWildBoar.lifeStages.2.label>образцовый кабан</GR_AlphaWildBoar.lifeStages.2.label>
+  <GR_AlphaWildBoar.lifeStages.2.labelPlural>образцовый кабан</GR_AlphaWildBoar.lifeStages.2.labelPlural>
+  <GR_AlphaWildBoar.lifeStages.2.labelMale>образцовый кабан</GR_AlphaWildBoar.lifeStages.2.labelMale>
+  <GR_AlphaWildBoar.lifeStages.2.labelMalePlural>образцовые кабаны</GR_AlphaWildBoar.lifeStages.2.labelMalePlural>
+  <GR_AlphaWildBoar.lifeStages.2.labelFemale>образцовая кабаниха</GR_AlphaWildBoar.lifeStages.2.labelFemale>
+  <GR_AlphaWildBoar.lifeStages.2.labelFemalePlura>образцовые кабанихи</GR_AlphaWildBoar.lifeStages.2.labelFemalePlural>
+  <GR_AlphaWildBoar.labelMale>образцовый кабан</GR_AlphaWildBoar.labelMale>
+  <GR_AlphaWildBoar.labelMalePlural>образцовые кабаны</GR_AlphaWildBoar.labelMalePlural>
+  <GR_AlphaWildBoar.labelFemale>образцовая кабаниха</GR_AlphaWildBoar.labelFemale>
+  <GR_AlphaWildBoar.labelFemalePlura>образцовые кабанихи</GR_AlphaWildBoar.labelFemalePlural>
+
+
+  <!-- Boomalope -->
+
+  <GR_AlphaBoomalope.label>образцовый бумалоп</GR_AlphaBoomalope.label>
+  <GR_AlphaBoomalope.labelPlural>образцовые бумалопы</GR_AlphaBoomalope.labelPlural>
+  <GR_AlphaBoomalope.lifeStages.0.label>образцовый детеныш бумалопы</GR_AlphaBoomalope.lifeStages.0.label>
+  <GR_AlphaBoomalope.lifeStages.0.labelPlural>образцовые детеныши бумалопы</GR_AlphaBoomalope.lifeStages.0.labelPlural>
+  <GR_AlphaBoomalope.lifeStages.0.labelMale>образцовый теленок бумалопы</GR_AlphaBoomalope.lifeStages.0.labelMale>
+  <GR_AlphaBoomalope.lifeStages.0.labelMalePlural>образцовые теленки бумалопы</GR_AlphaBoomalope.lifeStages.0.labelMalePlural>
+  <GR_AlphaBoomalope.lifeStages.0.labelFemale>образцовая телка бумалопы</GR_AlphaBoomalope.lifeStages.0.labelFemale>
+  <GR_AlphaBoomalope.lifeStages.0.labelFemalePlural>образцовые телки бумалопы</GR_AlphaBoomalope.lifeStages.0.labelFemalePlural>
+  <GR_AlphaBoomalope.lifeStages.1.label>образцовый бумалоп</GR_AlphaBoomalope.lifeStages.1.label>
+  <GR_AlphaBoomalope.lifeStages.1.labelPlural>образцовый бумалоп</GR_AlphaBoomalope.lifeStages.1.labelPlural>
+  <GR_AlphaBoomalope.lifeStages.1.labelMale>образцовый бумалоп</GR_AlphaBoomalope.lifeStages.1.labelMale>
+  <GR_AlphaBoomalope.lifeStages.1.labelMalePlural>образцовые бумалопы</GR_AlphaBoomalope.lifeStages.1.labelMalePlural>
+  <GR_AlphaBoomalope.lifeStages.1.labelFemale>образцовые бумалопы</GR_AlphaBoomalope.lifeStages.1.labelFemale>
+  <GR_AlphaBoomalope.lifeStages.1.labelFemalePlural>образцовые бумалопы</GR_AlphaBoomalope.lifeStages.1.labelFemalePlural>
+  <GR_AlphaBoomalope.lifeStages.2.label>образцовый бумалоп</GR_AlphaBoomalope.lifeStages.2.label>
+  <GR_AlphaBoomalope.lifeStages.2.labelPlural>образцовый бумалоп</GR_AlphaBoomalope.lifeStages.2.labelPlural>
+  <GR_AlphaBoomalope.lifeStages.2.labelMale>образцовый бумалоп</GR_AlphaBoomalope.lifeStages.2.labelMale>
+  <GR_AlphaBoomalope.lifeStages.2.labelMalePlural>образцовые бумалопы</GR_AlphaBoomalope.lifeStages.2.labelMalePlural>
+  <GR_AlphaBoomalope.lifeStages.2.labelFemale>образцовые бумалопы</GR_AlphaBoomalope.lifeStages.2.labelFemale>
+  <GR_AlphaBoomalope.lifeStages.2.labelFemalePlural>образцовые бумалопы</GR_AlphaBoomalope.lifeStages.2.labelFemalePlural>
+  <GR_AlphaBoomalope.labelMale>образцовый бумалоп</GR_AlphaBoomalope.labelMale>
+  <GR_AlphaBoomalope.labelMalePlural>образцовые бумалопы</GR_AlphaBoomalope.labelMalePlural>
+  <GR_AlphaBoomalope.labelFemale>образцовые бумалопы</GR_AlphaBoomalope.labelFemale>
+  <GR_AlphaBoomalope.labelFemalePlural>образцовые бумалопы</GR_AlphaBoomalope.labelFemalePlural>
+
+
+  <!-- Chicken -->
+
+  <GR_AlphaChicken.label>образцовая курица</GR_AlphaChicken.label>
+  <GR_AlphaChicken.labelPlural>образцовые курицы</GR_AlphaChicken.labelPlural>
+  <GR_AlphaChicken.lifeStages.0.label>образцовый ципленок</GR_AlphaChicken.lifeStages.0.label>
+  <GR_AlphaChicken.lifeStages.0.labelPlural>образцовые циплята</GR_AlphaChicken.lifeStages.0.labelPlural>
+  <GR_AlphaChicken.lifeStages.0.labelMale>образцовый ципленок</GR_AlphaChicken.lifeStages.0.labelMale>
+  <GR_AlphaChicken.lifeStages.0.labelMalePlural>образцовые циплята</GR_AlphaChicken.lifeStages.0.labelMalePlural>
+  <GR_AlphaChicken.lifeStages.0.labelFemale>образцовая ципка</GR_AlphaChicken.lifeStages.0.labelFemale>
+  <GR_AlphaChicken.lifeStages.0.labelFemalePlural>образцовые ципки</GR_AlphaChicken.lifeStages.0.labelFemalePlural>
+  <GR_AlphaChicken.lifeStages.1.label>образцовая курица</GR_AlphaChicken.lifeStages.1.label>
+  <GR_AlphaChicken.lifeStages.1.labelPlural>образцовая курица</GR_AlphaChicken.lifeStages.1.labelPlural>
+  <GR_AlphaChicken.lifeStages.1.labelMale>образцовый петушок</GR_AlphaChicken.lifeStages.1.labelMale>
+  <GR_AlphaChicken.lifeStages.1.labelMalePlural>образцовые петушки</GR_AlphaChicken.lifeStages.1.labelMalePlural>
+  <GR_AlphaChicken.lifeStages.1.labelFemale>образцовая курочка</GR_AlphaChicken.lifeStages.1.labelFemale>
+  <GR_AlphaChicken.lifeStages.1.labelFemalePlural>образцовые курочки</GR_AlphaChicken.lifeStages.1.labelFemalePlural>
+  <GR_AlphaChicken.lifeStages.2.label>образцовая курица</GR_AlphaChicken.lifeStages.2.label>
+  <GR_AlphaChicken.lifeStages.2.labelPlural>образцовая курица</GR_AlphaChicken.lifeStages.2.labelPlural>
+  <GR_AlphaChicken.lifeStages.2.labelMale>образцовый петух</GR_AlphaChicken.lifeStages.2.labelMale>
+  <GR_AlphaChicken.lifeStages.2.labelMalePlural>образцовые петухи</GR_AlphaChicken.lifeStages.2.labelMalePlural>
+  <GR_AlphaChicken.lifeStages.2.labelFemale>образцовая курица</GR_AlphaChicken.lifeStages.2.labelFemale>
+  <GR_AlphaChicken.lifeStages.2.labelFemalePlural>образцовые курицы</GR_AlphaChicken.lifeStages.2.labelFemalePlural>
+  <GR_AlphaChicken.labelMale>образцовый петух</GR_AlphaChicken.labelMale>
+  <GR_AlphaChicken.labelMalePlural>образцовые петухи</GR_AlphaChicken.labelMalePlural>
+  <GR_AlphaChicken.labelFemale>образцовая курица</GR_AlphaChicken.labelFemale>
+  <GR_AlphaChicken.labelFemalePlural>образцовые курицы</GR_AlphaChicken.labelFemalePlural>
+
+
+  <!-- Emu -->
+
+  <GR_AlphaEmu.label>образцовый эму</GR_AlphaEmu.label>
+  <GR_AlphaEmu.labelPlural>образцовые эму</GR_AlphaEmu.labelPlural>
+  <GR_AlphaEmu.lifeStages.0.label>образцовый эму</GR_AlphaEmu.lifeStages.0.label>
+  <GR_AlphaEmu.lifeStages.0.labelPlural>образцовый эму</GR_AlphaEmu.lifeStages.0.labelPlural>
+  <GR_AlphaEmu.lifeStages.0.labelMale>образцовый страус эму</GR_AlphaEmu.lifeStages.0.labelMale>
+  <GR_AlphaEmu.lifeStages.0.labelMalePlural>образцовые страусы эму</GR_AlphaEmu.lifeStages.0.labelMalePlural>
+  <GR_AlphaEmu.lifeStages.0.labelFemale>образцовая страусиха эму</GR_AlphaEmu.lifeStages.0.labelFemale>
+  <GR_AlphaEmu.lifeStages.0.labelFemalePlural>образцовые страусихи эму</GR_AlphaEmu.lifeStages.0.labelFemalePlural>
+  <GR_AlphaEmu.lifeStages.1.label>образцовый эму</GR_AlphaEmu.lifeStages.1.label>
+  <GR_AlphaEmu.lifeStages.1.labelPlural>образцовый эму</GR_AlphaEmu.lifeStages.1.labelPlural>
+  <GR_AlphaEmu.lifeStages.1.labelMale>образцовый страус эму</GR_AlphaEmu.lifeStages.1.labelMale>
+  <GR_AlphaEmu.lifeStages.1.labelMalePlural>образцовые страусы эму</GR_AlphaEmu.lifeStages.1.labelMalePlural>
+  <GR_AlphaEmu.lifeStages.1.labelFemale>образцовая страусиха эму</GR_AlphaEmu.lifeStages.1.labelFemale>
+  <GR_AlphaEmu.lifeStages.1.labelFemalePlural>образцовые страусихи эму</GR_AlphaEmu.lifeStages.1.labelFemalePlural>
+  <GR_AlphaEmu.lifeStages.2.label>образцовый эму</GR_AlphaEmu.lifeStages.2.label>
+  <GR_AlphaEmu.lifeStages.2.labelPlural>образцовый эму</GR_AlphaEmu.lifeStages.2.labelPlural>
+  <GR_AlphaEmu.lifeStages.2.labelMale>образцовый страус эму</GR_AlphaEmu.lifeStages.2.labelMale>
+  <GR_AlphaEmu.lifeStages.2.labelMalePlural>образцовые страусы эму</GR_AlphaEmu.lifeStages.2.labelMalePlural>
+  <GR_AlphaEmu.lifeStages.2.labelFemale>образцовая страусиха эму</GR_AlphaEmu.lifeStages.2.labelFemale>
+  <GR_AlphaEmu.lifeStages.2.labelFemalePlural>образцовые страусихи эму</GR_AlphaEmu.lifeStages.2.labelFemalePlural>
+  <GR_AlphaEmu.labelMale>образцовый страус эму</GR_AlphaEmu.labelMale>
+  <GR_AlphaEmu.labelMalePlural>образцовые страусы эму</GR_AlphaEmu.labelMalePlural>
+  <GR_AlphaEmu.labelFemale>образцовая страусиха эму</GR_AlphaEmu.labelFemale>
+  <GR_AlphaEmu.labelFemalePlural>образцовые страусихи эму</GR_AlphaEmu.labelFemalePlural>
+
+
+  <!-- Muffalo -->
+
+  <GR_AlphaMuffalo.label>образцовый муффало</GR_AlphaMuffalo.label>
+  <GR_AlphaMuffalo.labelPlural>образцовые муффало</GR_AlphaMuffalo.labelPlural>
+  <GR_AlphaMuffalo.lifeStages.0.label>образцовый телок муффало</GR_AlphaMuffalo.lifeStages.0.label>
+  <GR_AlphaMuffalo.lifeStages.0.labelPlural>образцовые телки муффало</GR_AlphaMuffalo.lifeStages.0.labelPlural>
+  <GR_AlphaMuffalo.lifeStages.0.labelMale>образцовый теленок муффало</GR_AlphaMuffalo.lifeStages.0.labelMale>
+  <GR_AlphaMuffalo.lifeStages.0.labelMalePlural>образцовые теленки муффало</GR_AlphaMuffalo.lifeStages.0.labelMalePlural>
+  <GR_AlphaMuffalo.lifeStages.0.labelFemale>образцовая телушка муффало</GR_AlphaMuffalo.lifeStages.0.labelFemale>
+  <GR_AlphaMuffalo.lifeStages.0.labelFemalePlural>образцовые телушки муффало</GR_AlphaMuffalo.lifeStages.0.labelFemalePlural>
+  <GR_AlphaMuffalo.lifeStages.1.label>образцовый муффало</GR_AlphaMuffalo.lifeStages.1.label>
+  <GR_AlphaMuffalo.lifeStages.1.labelPlural>образцовый муффало</GR_AlphaMuffalo.lifeStages.1.labelPlural>
+  <GR_AlphaMuffalo.lifeStages.1.labelMale>образцовый бык муффало</GR_AlphaMuffalo.lifeStages.1.labelMale>
+  <GR_AlphaMuffalo.lifeStages.1.labelMalePlural>образцовые быки муффало</GR_AlphaMuffalo.lifeStages.1.labelMalePlural>
+  <GR_AlphaMuffalo.lifeStages.1.labelFemale>образцовая телка муффало</GR_AlphaMuffalo.lifeStages.1.labelFemale>
+  <GR_AlphaMuffalo.lifeStages.1.labelFemalePlural>образцовые телки муффало</GR_AlphaMuffalo.lifeStages.1.labelFemalePlural>
+  <GR_AlphaMuffalo.lifeStages.2.label>образцовый муффало</GR_AlphaMuffalo.lifeStages.2.label>
+  <GR_AlphaMuffalo.lifeStages.2.labelPlural>образцовый муффало</GR_AlphaMuffalo.lifeStages.2.labelPlural>
+  <GR_AlphaMuffalo.lifeStages.2.labelMale>образцовый бык муффало</GR_AlphaMuffalo.lifeStages.2.labelMale>
+  <GR_AlphaMuffalo.lifeStages.2.labelMalePlural>образцовые быки муффало</GR_AlphaMuffalo.lifeStages.2.labelMalePlural>
+  <GR_AlphaMuffalo.lifeStages.2.labelFemale>образцовая телка муффало</GR_AlphaMuffalo.lifeStages.2.labelFemale>
+  <GR_AlphaMuffalo.lifeStages.2.labelFemalePlural>образцовые телки муффало</GR_AlphaMuffalo.lifeStages.2.labelFemalePlural>
+  <GR_AlphaMuffalo.labelMale>образцовый бык муффало</GR_AlphaMuffalo.labelMale>
+  <GR_AlphaMuffalo.labelMalePlural>образцовые быки муффало</GR_AlphaMuffalo.labelMalePlural>
+  <GR_AlphaMuffalo.labelFemale>образцовая телка муффало</GR_AlphaMuffalo.labelFemale>
+  <GR_AlphaMuffalo.labelFemalePlural>образцовые телки муффало</GR_AlphaMuffalo.labelFemalePlural>
+
+
+  <!-- Ostrich -->
+
+  <GR_AlphaOstrich.label>образцовый страус</GR_AlphaOstrich.label>
+  <GR_AlphaOstrich.labelPlural>образцовые страусы</GR_AlphaOstrich.labelPlural>
+  <GR_AlphaOstrich.lifeStages.0.label>образцовый страус</GR_AlphaOstrich.lifeStages.0.label>
+  <GR_AlphaOstrich.lifeStages.0.labelPlural>образцовые страусы</GR_AlphaOstrich.lifeStages.0.labelPlural>
+  <GR_AlphaOstrich.lifeStages.0.labelMale>образцовый страус</GR_AlphaOstrich.lifeStages.0.labelMale>
+  <GR_AlphaOstrich.lifeStages.0.labelMalePlural>образцовые страусы</GR_AlphaOstrich.lifeStages.0.labelMalePlural>
+  <GR_AlphaOstrich.lifeStages.0.labelFemale>образцовая страусиха</GR_AlphaOstrich.lifeStages.0.labelFemale>
+  <GR_AlphaOstrich.lifeStages.0.labelFemalePlural>образцовые страусихи</GR_AlphaOstrich.lifeStages.0.labelFemalePlural>
+  <GR_AlphaOstrich.lifeStages.1.label>образцовый страус</GR_AlphaOstrich.lifeStages.1.label>
+  <GR_AlphaOstrich.lifeStages.1.labelPlural>образцовые страусы</GR_AlphaOstrich.lifeStages.1.labelPlural>
+  <GR_AlphaOstrich.lifeStages.1.labelMale>образцовый страус</GR_AlphaOstrich.lifeStages.1.labelMale>
+  <GR_AlphaOstrich.lifeStages.1.labelMalePlural>образцовые страусы</GR_AlphaOstrich.lifeStages.1.labelMalePlural>
+  <GR_AlphaOstrich.lifeStages.1.labelFemale>образцовая страусиха</GR_AlphaOstrich.lifeStages.1.labelFemale>
+  <GR_AlphaOstrich.lifeStages.1.labelFemalePlural>образцовые страусихи</GR_AlphaOstrich.lifeStages.1.labelFemalePlural>
+  <GR_AlphaOstrich.lifeStages.2.label>образцовый страус</GR_AlphaOstrich.lifeStages.2.label>
+  <GR_AlphaOstrich.lifeStages.2.labelPlural>образцовые страусы</GR_AlphaOstrich.lifeStages.2.labelPlural>
+  <GR_AlphaOstrich.lifeStages.2.labelMale>образцовый страус</GR_AlphaOstrich.lifeStages.2.labelMale>
+  <GR_AlphaOstrich.lifeStages.2.labelMalePlural>образцовые страусы</GR_AlphaOstrich.lifeStages.2.labelMalePlural>
+  <GR_AlphaOstrich.lifeStages.2.labelFemale>образцовая страусиха</GR_AlphaOstrich.lifeStages.2.labelFemale>
+  <GR_AlphaOstrich.lifeStages.2.labelFemalePlural>образцовые страусихи</GR_AlphaOstrich.lifeStages.2.labelFemalePlural>
+  <GR_AlphaOstrich.labelMale>образцовый страус</GR_AlphaOstrich.labelMale>
+  <GR_AlphaOstrich.labelMalePlural>male paragon ostriches</GR_AlphaOstrich.labelMalePlural>
+  <GR_AlphaOstrich.labelFemale>образцовая страусиха</GR_AlphaOstrich.labelFemale>
+  <GR_AlphaOstrich.labelFemalePlural>образцовые страусихи</GR_AlphaOstrich.labelFemalePlural>
+
+
+  <!-- Rhino -->
+
+  <GR_AlphaRhinoceros.label>образцовый носорог</GR_AlphaRhinoceros.label>
+  <GR_AlphaRhinoceros.labelPlural>образцовые носороги</GR_AlphaRhinoceros.labelPlural>
+  <GR_AlphaRhinoceros.lifeStages.0.label>образцовый носорог</GR_AlphaRhinoceros.lifeStages.0.label>
+  <GR_AlphaRhinoceros.lifeStages.0.labelPlural>образцовые носороги</GR_AlphaRhinoceros.lifeStages.0.labelPlural>
+  <GR_AlphaRhinoceros.lifeStages.0.labelMale>образцовый носорог</GR_AlphaRhinoceros.lifeStages.0.labelMale>
+  <GR_AlphaRhinoceros.lifeStages.0.labelMalePlural>образцовые носороги</GR_AlphaRhinoceros.lifeStages.0.labelMalePlural>
+  <GR_AlphaRhinoceros.lifeStages.0.labelFemale>образцовая носорогиха</GR_AlphaRhinoceros.lifeStages.0.labelFemale>
+  <GR_AlphaRhinoceros.lifeStages.0.labelFemalePlural>образцовые носорогихи</GR_AlphaRhinoceros.lifeStages.0.labelFemalePlural>
+  <GR_AlphaRhinoceros.lifeStages.1.label>образцовый носорог</GR_AlphaRhinoceros.lifeStages.1.label>
+  <GR_AlphaRhinoceros.lifeStages.1.labelPlural>образцовые носороги</GR_AlphaRhinoceros.lifeStages.1.labelPlural>
+  <GR_AlphaRhinoceros.lifeStages.1.labelMale>образцовый носорог</GR_AlphaRhinoceros.lifeStages.1.labelMale>
+  <GR_AlphaRhinoceros.lifeStages.1.labelMalePlural>образцовые носороги</GR_AlphaRhinoceros.lifeStages.1.labelMalePlural>
+  <GR_AlphaRhinoceros.lifeStages.1.labelFemale>образцовая носорогиха</GR_AlphaRhinoceros.lifeStages.1.labelFemale>
+  <GR_AlphaRhinoceros.lifeStages.1.labelFemalePlural>образцовые носорогихи</GR_AlphaRhinoceros.lifeStages.1.labelFemalePlural>
+  <GR_AlphaRhinoceros.lifeStages.2.label>образцовый носорог</GR_AlphaRhinoceros.lifeStages.2.label>
+  <GR_AlphaRhinoceros.lifeStages.2.labelPlural>образцовые носороги</GR_AlphaRhinoceros.lifeStages.2.labelPlural>
+  <GR_AlphaRhinoceros.lifeStages.2.labelMale>образцовый носорог</GR_AlphaRhinoceros.lifeStages.2.labelMale>
+  <GR_AlphaRhinoceros.lifeStages.2.labelMalePlural>образцовые носороги</GR_AlphaRhinoceros.lifeStages.2.labelMalePlural>
+  <GR_AlphaRhinoceros.lifeStages.2.labelFemale>образцовая носорогиха</GR_AlphaRhinoceros.lifeStages.2.labelFemale>
+  <GR_AlphaRhinoceros.lifeStages.2.labelFemalePlural>образцовые носорогихи</GR_AlphaRhinoceros.lifeStages.2.labelFemalePlural>
+  <GR_AlphaRhinoceros.labelMale>образцовый носорог</GR_AlphaRhinoceros.labelMale>
+  <GR_AlphaRhinoceros.labelMalePlural>образцовые носороги</GR_AlphaRhinoceros.labelMalePlural>
+  <GR_AlphaRhinoceros.labelFemale>образцовая носорогиха</GR_AlphaRhinoceros.labelFemale>
+  <GR_AlphaRhinoceros.labelFemalePlural>образцовые носорогихи</GR_AlphaRhinoceros.labelFemalePlural>
+
+
+  <!-- Wolf -->
+
+  <GR_AlphaWolfTimber.label>образцовый лесной волк</GR_AlphaWolfTimber.label>
+  <GR_AlphaWolfTimber.labelPlural>образцовые лесные волки</GR_AlphaWolfTimber.labelPlural>
+  <GR_AlphaWolfTimber.lifeStages.0.label>образцовый щенок лесного волка</GR_AlphaWolfTimber.lifeStages.0.label>
+  <GR_AlphaWolfTimber.lifeStages.0.labelPlural>образцовые щенки лесного волка</GR_AlphaWolfTimber.lifeStages.0.labelPlural>
+  <GR_AlphaWolfTimber.lifeStages.0.labelMale>образцовый щен лесного волка</GR_AlphaWolfTimber.lifeStages.0.labelMale>
+  <GR_AlphaWolfTimber.lifeStages.0.labelMalePlural>образцовые щены лесного волка</GR_AlphaWolfTimber.lifeStages.0.labelMalePlural>
+  <GR_AlphaWolfTimber.lifeStages.0.labelFemale>образцовая щена лесного волка</GR_AlphaWolfTimber.lifeStages.0.labelFemale>
+  <GR_AlphaWolfTimber.lifeStages.0.labelFemalePlural>образцовые щены лесного волка</GR_AlphaWolfTimber.lifeStages.0.labelFemalePlural>
+  <GR_AlphaWolfTimber.lifeStages.1.label>образцовый лесной волк</GR_AlphaWolfTimber.lifeStages.1.label>
+  <GR_AlphaWolfTimber.lifeStages.1.labelPlural>образцовые лесные волки</GR_AlphaWolfTimber.lifeStages.1.labelPlural>
+  <GR_AlphaWolfTimber.lifeStages.1.labelMale>образцовый лесной волк</GR_AlphaWolfTimber.lifeStages.1.labelMale>
+  <GR_AlphaWolfTimber.lifeStages.1.labelMalePlural>образцовые лесные волки</GR_AlphaWolfTimber.lifeStages.1.labelMalePlural>
+  <GR_AlphaWolfTimber.lifeStages.1.labelFemale>образцовая лесная волчица</GR_AlphaWolfTimber.lifeStages.1.labelFemale>
+  <GR_AlphaWolfTimber.lifeStages.1.labelFemalePlural>образцовые лесные волчицы</GR_AlphaWolfTimber.lifeStages.1.labelFemalePlural>
+  <GR_AlphaWolfTimber.lifeStages.2.label>образцовый лесной волк</GR_AlphaWolfTimber.lifeStages.2.label>
+  <GR_AlphaWolfTimber.lifeStages.2.labelPlural>образцовые лесные волки</GR_AlphaWolfTimber.lifeStages.2.labelPlural>
+  <GR_AlphaWolfTimber.lifeStages.2.labelMale>образцовый лесной волк</GR_AlphaWolfTimber.lifeStages.2.labelMale>
+  <GR_AlphaWolfTimber.lifeStages.2.labelMalePlural>образцовые лесные волки</GR_AlphaWolfTimber.lifeStages.2.labelMalePlural>
+  <GR_AlphaWolfTimber.lifeStages.2.labelFemale>образцовая лесная волчица</GR_AlphaWolfTimber.lifeStages.2.labelFemale>
+  <GR_AlphaWolfTimber.lifeStages.2.labelFemalePlural>образцовые лесные волчицы</GR_AlphaWolfTimber.lifeStages.2.labelFemalePlural>
+  <GR_AlphaWolfTimber.labelMale>образцовый лесной волк</GR_AlphaWolfTimber.labelMale>
+  <GR_AlphaWolfTimber.labelMalePlural>образцовые лесные волки</GR_AlphaWolfTimber.labelMalePlural>
+  <GR_AlphaWolfTimber.labelFemale>образцовая лесная волчица</GR_AlphaWolfTimber.labelFemale>
+  <GR_AlphaWolfTimber.labelFemalePlural>образцовые лесные волчицы</GR_AlphaWolfTimber.labelFemalePlural>
+
+
+  <!-- Hare -->
+
+  <GR_AlphaHare.label>образцовый заяц</GR_AlphaHare.label>
+  <GR_AlphaHare.labelPlural>образцовые заяцы</GR_AlphaHare.labelPlural>
+  <GR_AlphaHare.lifeStages.0.label>образцовый заяц</GR_AlphaHare.lifeStages.0.label>
+  <GR_AlphaHare.lifeStages.0.labelPlural>образцовый заяц</GR_AlphaHare.lifeStages.0.labelPlural>
+  <GR_AlphaHare.lifeStages.0.labelMale>образцовый заяц</GR_AlphaHare.lifeStages.0.labelMale>
+  <GR_AlphaHare.lifeStages.0.labelMalePlural>образцовые заяцы</GR_AlphaHare.lifeStages.0.labelMalePlural>
+  <GR_AlphaHare.lifeStages.0.labelFemale>образцовая зайчиха</GR_AlphaHare.lifeStages.0.labelFemale>
+  <GR_AlphaHare.lifeStages.0.labelFemalePlural>образцовые зайчихи</GR_AlphaHare.lifeStages.0.labelFemalePlural>
+  <GR_AlphaHare.lifeStages.1.label>образцовый заяц</GR_AlphaHare.lifeStages.1.label>
+  <GR_AlphaHare.lifeStages.1.labelPlural>образцовый заяц</GR_AlphaHare.lifeStages.1.labelPlural>
+  <GR_AlphaHare.lifeStages.1.labelMale>образцовый заяц</GR_AlphaHare.lifeStages.1.labelMale>
+  <GR_AlphaHare.lifeStages.1.labelMalePlural>образцовые заяцы</GR_AlphaHare.lifeStages.1.labelMalePlural>
+  <GR_AlphaHare.lifeStages.1.labelFemale>образцовая зайчиха</GR_AlphaHare.lifeStages.1.labelFemale>
+  <GR_AlphaHare.lifeStages.1.labelFemalePlural>образцовые зайчихи</GR_AlphaHare.lifeStages.1.labelFemalePlural>
+  <GR_AlphaHare.lifeStages.2.label>образцовый заяц</GR_AlphaHare.lifeStages.2.label>
+  <GR_AlphaHare.lifeStages.2.labelPlural>образцовый заяц</GR_AlphaHare.lifeStages.2.labelPlural>
+  <GR_AlphaHare.lifeStages.2.labelMale>образцовый заяц</GR_AlphaHare.lifeStages.2.labelMale>
+  <GR_AlphaHare.lifeStages.2.labelMalePlural>образцовые заяцы</GR_AlphaHare.lifeStages.2.labelMalePlural>
+  <GR_AlphaHare.lifeStages.2.labelFemale>образцовая зайчиха</GR_AlphaHare.lifeStages.2.labelFemale>
+  <GR_AlphaHare.lifeStages.2.labelFemalePlural>образцовые зайчихи</GR_AlphaHare.lifeStages.2.labelFemalePlural>
+  <GR_AlphaHare.labelMale>образцовый заяц</GR_AlphaHare.labelMale>
+  <GR_AlphaHare.labelMalePlural>образцовые заяцы</GR_AlphaHare.labelMalePlural>
+  <GR_AlphaHare.labelFemale>образцовая зайчиха</GR_AlphaHare.labelFemale>
+  <GR_AlphaHare.labelFemalePlural>образцовые зайчихи</GR_AlphaHare.labelFemalePlural>
+
+
+  <!-- Iguana -->
+
+  <GR_AlphaIguana.label>образцовая игуана</GR_AlphaIguana.label>
+  <GR_AlphaIguana.labelPlural>образцовые игуаны</GR_AlphaIguana.labelPlural>
+  <GR_AlphaIguana.lifeStages.0.label>образцовая игуана</GR_AlphaIguana.lifeStages.0.label>
+  <GR_AlphaIguana.lifeStages.0.labelPlural>образцовая игуана</GR_AlphaIguana.lifeStages.0.labelPlural>
+  <GR_AlphaIguana.lifeStages.0.labelMale>образцовый игуан</GR_AlphaIguana.lifeStages.0.labelMale>
+  <GR_AlphaIguana.lifeStages.0.labelMalePlural>образцовые игуаны</GR_AlphaIguana.lifeStages.0.labelMalePlural>
+  <GR_AlphaIguana.lifeStages.0.labelFemale>образцовая игуана</GR_AlphaIguana.lifeStages.0.labelFemale>
+  <GR_AlphaIguana.lifeStages.0.labelFemalePlural>образцовые игуаны</GR_AlphaIguana.lifeStages.0.labelFemalePlural>
+  <GR_AlphaIguana.lifeStages.1.label>образцовая игуана</GR_AlphaIguana.lifeStages.1.label>
+  <GR_AlphaIguana.lifeStages.1.labelPlural>образцовая игуана</GR_AlphaIguana.lifeStages.1.labelPlural>
+  <GR_AlphaIguana.lifeStages.1.labelMale>образцовый игуан</GR_AlphaIguana.lifeStages.1.labelMale>
+  <GR_AlphaIguana.lifeStages.1.labelMalePlural>образцовые игуаны</GR_AlphaIguana.lifeStages.1.labelMalePlural>
+  <GR_AlphaIguana.lifeStages.1.labelFemale>образцовая игуана</GR_AlphaIguana.lifeStages.1.labelFemale>
+  <GR_AlphaIguana.lifeStages.1.labelFemalePlural>образцовые игуаны</GR_AlphaIguana.lifeStages.1.labelFemalePlural>
+  <GR_AlphaIguana.lifeStages.2.label>образцовая игуана</GR_AlphaIguana.lifeStages.2.label>
+  <GR_AlphaIguana.lifeStages.2.labelPlural>образцовая игуана</GR_AlphaIguana.lifeStages.2.labelPlural>
+  <GR_AlphaIguana.lifeStages.2.labelMale>образцовый игуан</GR_AlphaIguana.lifeStages.2.labelMale>
+  <GR_AlphaIguana.lifeStages.2.labelMalePlural>образцовые игуаны</GR_AlphaIguana.lifeStages.2.labelMalePlural>
+  <GR_AlphaIguana.lifeStages.2.labelFemale>образцовая игуана</GR_AlphaIguana.lifeStages.2.labelFemale>
+  <GR_AlphaIguana.lifeStages.2.labelFemalePlural>образцовые игуаны</GR_AlphaIguana.lifeStages.2.labelFemalePlural>
+  <GR_AlphaIguana.labelMale>образцовый игуан</GR_AlphaIguana.labelMale>
+  <GR_AlphaIguana.labelMalePlural>образцовые игуаны</GR_AlphaIguana.labelMalePlural>
+  <GR_AlphaIguana.labelFemale>образцовая игуана</GR_AlphaIguana.labelFemale>
+  <GR_AlphaIguana.labelFemalePlural>образцовые игуаны</GR_AlphaIguana.labelFemalePlural>
+
+
+  <!-- Pig -->
+
+  <GR_AlphaPig.label>образцовая свинья</GR_AlphaPig.label>
+  <GR_AlphaPig.labelPlural>образцовые свиньи</GR_AlphaPig.labelPlural>
+  <GR_AlphaPig.lifeStages.0.label>образцовый поросенок</GR_AlphaPig.lifeStages.0.label>
+  <GR_AlphaPig.lifeStages.0.labelPlural>образцовые поросята</GR_AlphaPig.lifeStages.0.labelPlural>
+  <GR_AlphaPig.lifeStages.0.labelMale>образцовый поросенок</GR_AlphaPig.lifeStages.0.labelMale>
+  <GR_AlphaPig.lifeStages.0.labelMalePlural>образцовые поросята</GR_AlphaPig.lifeStages.0.labelMalePlural>
+  <GR_AlphaPig.lifeStages.0.labelFemale>образцовая свинка</GR_AlphaPig.lifeStages.0.labelFemale>
+  <GR_AlphaPig.lifeStages.0.labelFemalePlural>образцовые свинки</GR_AlphaPig.lifeStages.0.labelFemalePlural>
+  <GR_AlphaPig.lifeStages.1.label>образцовая свинья</GR_AlphaPig.lifeStages.1.label>
+  <GR_AlphaPig.lifeStages.1.labelPlural>образцовая свинья</GR_AlphaPig.lifeStages.1.labelPlural>
+  <GR_AlphaPig.lifeStages.1.labelMale>образцовый свин</GR_AlphaPig.lifeStages.1.labelMale>
+  <GR_AlphaPig.lifeStages.1.labelMalePlural>образцовые свины</GR_AlphaPig.lifeStages.1.labelMalePlural>
+  <GR_AlphaPig.lifeStages.1.labelFemale>образцовая свинья</GR_AlphaPig.lifeStages.1.labelFemale>
+  <GR_AlphaPig.lifeStages.1.labelFemalePlural>образцовые свиньи</GR_AlphaPig.lifeStages.1.labelFemalePlural>
+  <GR_AlphaPig.lifeStages.2.label>образцовая свинья</GR_AlphaPig.lifeStages.2.label>
+  <GR_AlphaPig.lifeStages.2.labelPlural>образцовая свинья</GR_AlphaPig.lifeStages.2.labelPlural>
+  <GR_AlphaPig.lifeStages.2.labelMale>образцовый свин</GR_AlphaPig.lifeStages.2.labelMale>
+  <GR_AlphaPig.lifeStages.2.labelMalePlural>образцовые свины</GR_AlphaPig.lifeStages.2.labelMalePlural>
+  <GR_AlphaPig.lifeStages.2.labelFemale>образцовая свинья</GR_AlphaPig.lifeStages.2.labelFemale>
+  <GR_AlphaPig.lifeStages.2.labelFemalePlural>образцовые свиньи</GR_AlphaPig.lifeStages.2.labelFemalePlural>
+  <GR_AlphaPig.labelMale>образцовый свин</GR_AlphaPig.labelMale>
+  <GR_AlphaPig.labelMalePlural>образцовые свины</GR_AlphaPig.labelMalePlural>
+  <GR_AlphaPig.labelFemale>образцовая свинья</GR_AlphaPig.labelFemale>
+  <GR_AlphaPig.labelFemalePlural>образцовые свиньи</GR_AlphaPig.labelFemalePlural>
+
+
+  <!-- Rat -->
+
+  <GR_AlphaRat.label>образцовая крыса</GR_AlphaRat.label>
+  <GR_AlphaRat.labelPlural>образцовые крысы</GR_AlphaRat.labelPlural>
+  <GR_AlphaRat.lifeStages.0.label>образцовая крыса</GR_AlphaRat.lifeStages.0.label>
+  <GR_AlphaRat.lifeStages.0.labelPlural>образцовая крыса</GR_AlphaRat.lifeStages.0.labelPlural>
+  <GR_AlphaRat.lifeStages.0.labelMale>образцовый крыс</GR_AlphaRat.lifeStages.0.labelMale>
+  <GR_AlphaRat.lifeStages.0.labelMalePlural>образцовые крысы</GR_AlphaRat.lifeStages.0.labelMalePlural>
+  <GR_AlphaRat.lifeStages.0.labelFemale>образцовая крыса</GR_AlphaRat.lifeStages.0.labelFemale>
+  <GR_AlphaRat.lifeStages.0.labelFemalePlural>образцовые крысы</GR_AlphaRat.lifeStages.0.labelFemalePlural>
+  <GR_AlphaRat.lifeStages.1.label>образцовая крыса</GR_AlphaRat.lifeStages.1.label>
+  <GR_AlphaRat.lifeStages.1.labelPlural>образцовая крыса</GR_AlphaRat.lifeStages.1.labelPlural>
+  <GR_AlphaRat.lifeStages.1.labelMale>образцовый крыс</GR_AlphaRat.lifeStages.1.labelMale>
+  <GR_AlphaRat.lifeStages.1.labelMalePlural>образцовые крысы</GR_AlphaRat.lifeStages.1.labelMalePlural>
+  <GR_AlphaRat.lifeStages.1.labelFemale>образцовая крыса</GR_AlphaRat.lifeStages.1.labelFemale>
+  <GR_AlphaRat.lifeStages.1.labelFemalePlural>образцовые крысы</GR_AlphaRat.lifeStages.1.labelFemalePlural>
+  <GR_AlphaRat.lifeStages.2.label>образцовая крыса</GR_AlphaRat.lifeStages.2.label>
+  <GR_AlphaRat.lifeStages.2.labelPlural>образцовая крыса</GR_AlphaRat.lifeStages.2.labelPlural>
+  <GR_AlphaRat.lifeStages.2.labelMale>образцовый крыс</GR_AlphaRat.lifeStages.2.labelMale>
+  <GR_AlphaRat.lifeStages.2.labelMalePlural>образцовые крысы</GR_AlphaRat.lifeStages.2.labelMalePlural>
+  <GR_AlphaRat.lifeStages.2.labelFemale>образцовая крыса</GR_AlphaRat.lifeStages.2.labelFemale>
+  <GR_AlphaRat.lifeStages.2.labelFemalePlural>образцовые крысы</GR_AlphaRat.lifeStages.2.labelFemalePlural>
+  <GR_AlphaRat.labelMale>образцовый крыс</GR_AlphaRat.labelMale>
+  <GR_AlphaRat.labelMalePlural>образцовые крысы</GR_AlphaRat.labelMalePlural>
+  <GR_AlphaRat.labelFemale>образцовая крыса</GR_AlphaRat.labelFemale>
+  <GR_AlphaRat.labelFemalePlural>образцовые крысы</GR_AlphaRat.labelFemalePlural>
+
+
+  <!-- Tortoise -->
+
+  <GR_AlphaTortoise.label>образцовая черепаха</GR_AlphaTortoise.label>
+  <GR_AlphaTortoise.labelPlural>образцовые черепахи</GR_AlphaTortoise.labelPlural>
+  <GR_AlphaTortoise.lifeStages.0.label>образцовая черепаха</GR_AlphaTortoise.lifeStages.0.label>
+  <GR_AlphaTortoise.lifeStages.0.labelPlural>образцовая черепаха</GR_AlphaTortoise.lifeStages.0.labelPlural>
+  <GR_AlphaTortoise.lifeStages.0.labelMale>образцовый черепах</GR_AlphaTortoise.lifeStages.0.labelMale>
+  <GR_AlphaTortoise.lifeStages.0.labelMalePlural>образцовые черепахи</GR_AlphaTortoise.lifeStages.0.labelMalePlural>
+  <GR_AlphaTortoise.lifeStages.0.labelFemale>образцовая черепаха</GR_AlphaTortoise.lifeStages.0.labelFemale>
+  <GR_AlphaTortoise.lifeStages.0.labelFemalePlural>образцовые черепахи</GR_AlphaTortoise.lifeStages.0.labelFemalePlural>
+  <GR_AlphaTortoise.lifeStages.1.label>образцовая черепаха</GR_AlphaTortoise.lifeStages.1.label>
+  <GR_AlphaTortoise.lifeStages.1.labelPlural>образцовая черепаха</GR_AlphaTortoise.lifeStages.1.labelPlural>
+  <GR_AlphaTortoise.lifeStages.1.labelMale>образцовый черепах</GR_AlphaTortoise.lifeStages.1.labelMale>
+  <GR_AlphaTortoise.lifeStages.1.labelMalePlural>образцовые черепахи</GR_AlphaTortoise.lifeStages.1.labelMalePlural>
+  <GR_AlphaTortoise.lifeStages.1.labelFemale>образцовая черепаха</GR_AlphaTortoise.lifeStages.1.labelFemale>
+  <GR_AlphaTortoise.lifeStages.1.labelFemalePlural>образцовые черепахи</GR_AlphaTortoise.lifeStages.1.labelFemalePlural>
+  <GR_AlphaTortoise.lifeStages.2.label>образцовая черепаха</GR_AlphaTortoise.lifeStages.2.label>
+  <GR_AlphaTortoise.lifeStages.2.labelPlural>образцовая черепаха</GR_AlphaTortoise.lifeStages.2.labelPlural>
+  <GR_AlphaTortoise.lifeStages.2.labelMale>образцовый черепах</GR_AlphaTortoise.lifeStages.2.labelMale>
+  <GR_AlphaTortoise.lifeStages.2.labelMalePlural>образцовые черепахи</GR_AlphaTortoise.lifeStages.2.labelMalePlural>
+  <GR_AlphaTortoise.lifeStages.2.labelFemale>образцовая черепаха</GR_AlphaTortoise.lifeStages.2.labelFemale>
+  <GR_AlphaTortoise.lifeStages.2.labelFemalePlural>образцовые черепахи</GR_AlphaTortoise.lifeStages.2.labelFemalePlural>
+  <GR_AlphaTortoise.labelMale>образцовый черепах</GR_AlphaTortoise.labelMale>
+  <GR_AlphaTortoise.labelMalePlural>образцовые черепахи</GR_AlphaTortoise.labelMalePlural>
+  <GR_AlphaTortoise.labelFemale>образцовая черепаха</GR_AlphaTortoise.labelFemale>
+  <GR_AlphaTortoise.labelFemalePlural>образцовые черепахи</GR_AlphaTortoise.labelFemalePlural>
+
+
+</LanguageData>

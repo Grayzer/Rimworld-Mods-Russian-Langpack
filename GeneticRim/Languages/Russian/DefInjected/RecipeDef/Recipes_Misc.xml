@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_NeutroamineFromSkin.label>извлечь нейтроамин из Spidersnake shed skin</GR_NeutroamineFromSkin.label>
+  <GR_NeutroamineFromSkin.description>Spidersnake shed skin can be ground and processed at a drug lab to extract minute amounts of neutroamine.</GR_NeutroamineFromSkin.description>
+  <GR_NeutroamineFromSkin.jobString>Extracting neutroamine</GR_NeutroamineFromSkin.jobString>
+
+  <GR_CraftBoarTuskSculpture.label>изготовить статуэтку из бивня кабана</GR_CraftBoarTuskSculpture.label>
+  <GR_CraftBoarTuskSculpture.description>Paragon boar tusks can be carefully carved and crafted into a small statuette. Cozy!</GR_CraftBoarTuskSculpture.description>
+  <GR_CraftBoarTuskSculpture.jobString>Crafting boar tusk statuette</GR_CraftBoarTuskSculpture.jobString>
+
+  <GR_CraftMechanoidInterfaceChip.label>сделать мехноидный интерфейс чип</GR_CraftMechanoidInterfaceChip.label>
+  <GR_CraftMechanoidInterfaceChip.description>Make a mechanoid interface chip. This is a very wasteful and expensive method, but useful if you can't get any mechanoid ship parts dropping from the sky.</GR_CraftMechanoidInterfaceChip.description>
+  <GR_CraftMechanoidInterfaceChip.jobString>Making mechanoid interface chip.</GR_CraftMechanoidInterfaceChip.jobString>
+
+
+</LanguageData>

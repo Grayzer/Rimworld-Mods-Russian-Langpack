@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Armbinder.label>наручники</Armbinder.label>
+  <Chains.label>цепи</Chains.label>
+  <Yoke.label>ярмо</Yoke.label>
+  <BoundHands.label>связанные руки</BoundHands.label>
+  <BoundLegs.label>связанные ноги</BoundLegs.label>
+  <Gag.label>кляп</Gag.label>
+  <OpenGag.label>открытый кляп</OpenGag.label>
+  <RJW_Restraints.label>Сдерживания</RJW_Restraints.label>
+
+
+  <!-- insect restraints -->
+
+  <RJW_Cocoon.label>Член</RJW_Cocoon.label>
+
+
+</LanguageData>

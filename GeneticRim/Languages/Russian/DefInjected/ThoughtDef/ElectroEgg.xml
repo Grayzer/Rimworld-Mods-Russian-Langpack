@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_ElectroEggHigh.stages.0.label>active mechanites</GR_ElectroEggHigh.stages.0.label>
+  <GR_ElectroEggHigh.stages.0.description>Swallowing that mechanoid egg made me feel great. I can almost feel the mechanites in my stomach!</GR_ElectroEggHigh.stages.0.description>
+
+
+  <!-- GR_ElectroEgg addiction -->
+
+  <GR_ElectroEggWithdrawal.stages.1.label>active mechanites withdrawal</GR_ElectroEggWithdrawal.stages.1.label>
+  <GR_ElectroEggWithdrawal.stages.1.description>All my body itches... It is as if the mechanites are turning against me.</GR_ElectroEggWithdrawal.stages.1.description>
+
+
+</LanguageData>

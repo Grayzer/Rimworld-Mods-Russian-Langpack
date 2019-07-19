@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ECP_Rsh_LauncherImp.label>Улучшенная Пусковая установка</ECP_Rsh_LauncherImp.label>
+  <ECP_Rsh_LauncherImp.description>Используйте больше химического топлива для более дальнего запуска капсул.</ECP_Rsh_LauncherImp.description>
+
+  <ECP_Rsh_RocketFuel.label>Ракетное топливо</ECP_Rsh_RocketFuel.label>
+  <ECP_Rsh_RocketFuel.description>Более взрывоопасное, больше мощности</ECP_Rsh_RocketFuel.description>
+
+  <ECP_Rsh_PodImp.label>Улучшенная Транспортная капсула</ECP_Rsh_PodImp.label>
+  <ECP_Rsh_PodImp.description>Улучшенная Транспортная капсула большей вместительности.</ECP_Rsh_PodImp.description>
+
+  <ECP_Rsh_Turbine.label>Ракетно-турбинный генератор</ECP_Rsh_Turbine.label>
+  <ECP_Rsh_Turbine.description>Генератор использует микро-турбины заправленные ракетным топливом.</ECP_Rsh_Turbine.description>
+
+  <ECP_Rsh_LauncherAdv.label>Продвинутая Пусковая установка</ECP_Rsh_LauncherAdv.label>
+  <ECP_Rsh_LauncherAdv.description>Используя ракетное топливо, капсулы можно запускать с большими скоростями и преодолевать большие расстояния.</ECP_Rsh_LauncherAdv.description>
+
+  <ECP_Rsh_PodAdv.label>Продвинутая Транспортная капсула</ECP_Rsh_PodAdv.label>
+  <ECP_Rsh_PodAdv.description>Благодаря исследованиям в области передовых пусковых установок и ракетного топлива можно изготовить более крупную транспортную капсулу с большей грузоподъемностью..</ECP_Rsh_PodAdv.description>
+
+
+</LanguageData>

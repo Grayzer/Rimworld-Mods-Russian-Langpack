@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_ElectroEgg.label>mechanoid egg</GR_ElectroEgg.label>
+  <GR_ElectroEgg.description>This diminutive egg seems to be metallic in nature at first, yet it is soft enough to crush it between two fingers. Once thus crushed it can be swallowed normally, and the active mechanites inside have a reinvigorating effect on the consumer. This effect can be slightly addictive, though.</GR_ElectroEgg.description>
+  <GR_ElectroEgg.ingestible.ingestCommandString>Consume {0}</GR_ElectroEgg.ingestible.ingestCommandString>
+  <GR_ElectroEgg.ingestible.ingestReportString>Consuming {0}.</GR_ElectroEgg.ingestible.ingestReportString>
+
+
+</LanguageData>

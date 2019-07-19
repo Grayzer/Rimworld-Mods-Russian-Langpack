@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla -->
+
+  <RJW_MegascarabEgg.label>Megascarab Egg</RJW_MegascarabEgg.label>
+  <RJW_SpelopedeEgg.label>Spelopede Egg</RJW_SpelopedeEgg.label>
+  <RJW_MegaspiderEgg.label>Megaspider Egg</RJW_MegaspiderEgg.label>
+
+
+  <!-- Docile Hive -->
+
+  <RJW_MegascarabDocileEgg.label>Docile Megascarab Egg</RJW_MegascarabDocileEgg.label>
+  <RJW_SpelopedeDocileEgg.label>Docile Spelopede Egg</RJW_SpelopedeDocileEgg.label>
+  <RJW_MegaspiderDocileEgg.label>Docile Megaspider Egg</RJW_MegaspiderDocileEgg.label>
+
+
+  <!-- Rim of Madness - Arachnophobia -->
+
+  <RJW_ROMA_SpiderEgg.label>Spider Egg</RJW_ROMA_SpiderEgg.label>
+  <RJW_ROMA_GiantSpiderEgg.label>Giant Spider Egg</RJW_ROMA_GiantSpiderEgg.label>
+  <RJW_ROMA_GiantQueenSpiderEgg.label>Giant Spider Queen Egg</RJW_ROMA_GiantQueenSpiderEgg.label>
+  <RJW_AA_BarbslingerEgg.label>Barbslinger Egg</RJW_AA_BarbslingerEgg.label>
+  <RJW_AA_BedBugEgg.label>Bedbug Egg</RJW_AA_BedBugEgg.label>
+  <RJW_AA_BlackScarabEgg.label>Black scarab Egg</RJW_AA_BlackScarabEgg.label>
+  <RJW_AA_BlackSpelopedeEgg.label>Black spelopede Egg</RJW_AA_BlackSpelopedeEgg.label>
+  <RJW_AA_BlackSpiderEgg.label>Blackspider Egg</RJW_AA_BlackSpiderEgg.label>
+  <RJW_AA_BlizzariskEgg.label>Blizzarisk Egg</RJW_AA_BlizzariskEgg.label>
+  <RJW_AA_BlizzariskClutchMotherEgg.label>Blizzarisk clutch mother Egg</RJW_AA_BlizzariskClutchMotherEgg.label>
+  <RJW_AA_BumbledroneEgg.label>Bumbledrone Egg</RJW_AA_BumbledroneEgg.label>
+  <RJW_AA_BumbledroneQueenEgg.label>Bumbledrone queen Egg</RJW_AA_BumbledroneQueenEgg.label>
+  <RJW_AA_DunealiskEgg.label>Dunealisk Egg</RJW_AA_DunealiskEgg.label>
+  <RJW_AA_DunealiskClutchMotherEgg.label>Dunealisk clutch mother Egg</RJW_AA_DunealiskClutchMotherEgg.label>
+  <RJW_AA_FeraliskEgg.label>Feralisk Egg</RJW_AA_FeraliskEgg.label>
+  <RJW_AA_FeraliskClutchMotherEgg.label>Feralisk clutch mother Egg</RJW_AA_FeraliskClutchMotherEgg.label>
+  <RJW_AA_FrostmiteEgg.label>Frostmite Egg</RJW_AA_FrostmiteEgg.label>
+  <RJW_AA_MammothWormEgg.label>Mammoth worm Egg</RJW_AA_MammothWormEgg.label>
+  <RJW_AA_MegaLouseEgg.label>Megalouse Egg</RJW_AA_MegaLouseEgg.label>
+  <RJW_AA_ThermadonEgg.label>Thermadon Egg</RJW_AA_ThermadonEgg.label>
+
+
+  <!-- Ni'Hal -->
+
+  <RJW_NiHalEgg.label>Ni'Hal Egg</RJW_NiHalEgg.label>
+
+
+</LanguageData>

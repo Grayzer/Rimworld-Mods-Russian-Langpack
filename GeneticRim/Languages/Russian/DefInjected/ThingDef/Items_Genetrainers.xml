@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_HybridBearGenesGenetrainer.label>hybrid bear genes genetrainer</GR_HybridBearGenesGenetrainer.label>
+  <GR_HybridBearGenesGenetrainer.description>Injects hybrid bear genes in an humanoid. This genetrainer gives a series of abilities related to bear resilience.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridBearGenesGenetrainer.description>
+  <GR_HybridBearGenesGenetrainer.comps.1.useLabel>Use hybrid bear genes genetrainer</GR_HybridBearGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridBoomalopeGenesGenetrainer.label>hybrid boomalope genes genetrainer</GR_HybridBoomalopeGenesGenetrainer.label>
+  <GR_HybridBoomalopeGenesGenetrainer.description>Injects hybrid boomalope genes in an humanoid. This genetrainer gives the ability to produce chemfuel like a boomalope.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridBoomalopeGenesGenetrainer.description>
+  <GR_HybridBoomalopeGenesGenetrainer.comps.1.useLabel>Use hybrid boomalope genes genetrainer</GR_HybridBoomalopeGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridCatGenesGenetrainer.label>hybrid cat genes genetrainer</GR_HybridCatGenesGenetrainer.label>
+  <GR_HybridCatGenesGenetrainer.description>Injects hybrid cat genes in an humanoid. This genetrainer gives the keen sight ability, increasing shooting accuracy.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridCatGenesGenetrainer.description>
+  <GR_HybridCatGenesGenetrainer.comps.1.useLabel>Use hybrid cat genes genetrainer</GR_HybridCatGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridChickenGenesGenetrainer.label>hybrid chicken genes genetrainer</GR_HybridChickenGenesGenetrainer.label>
+  <GR_HybridChickenGenesGenetrainer.description>Injects hybrid chicken genes in an humanoid. This genetrainer gives the birdlike curiosity ability, increasing global learning speed.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridChickenGenesGenetrainer.description>
+  <GR_HybridChickenGenesGenetrainer.comps.1.useLabel>Use hybrid chicken genes genetrainer</GR_HybridChickenGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridMuffaloGenesGenetrainer.label>hybrid muffalo genes genetrainer</GR_HybridMuffaloGenesGenetrainer.label>
+  <GR_HybridMuffaloGenesGenetrainer.description>Injects hybrid muffalo genes in an humanoid. This genetrainer gives the wild attunement ability, increasing plant work speed, carrying capacity, foraging and... leather amount.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridMuffaloGenesGenetrainer.description>
+  <GR_HybridMuffaloGenesGenetrainer.comps.1.useLabel>Use hybrid muffalo genes genetrainer</GR_HybridMuffaloGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridRodentGenesGenetrainer.label>hybrid rodent genes genetrainer</GR_HybridRodentGenesGenetrainer.label>
+  <GR_HybridRodentGenesGenetrainer.description>Injects hybrid rodent genes in an humanoid. This genetrainer gives the gregarious ability, increasing all social abilities.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridRodentGenesGenetrainer.description>
+  <GR_HybridRodentGenesGenetrainer.comps.1.useLabel>Use hybrid rodent genes genetrainer</GR_HybridRodentGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridWolfGenesGenetrainer.label>hybrid wolf genes genetrainer</GR_HybridWolfGenesGenetrainer.label>
+  <GR_HybridWolfGenesGenetrainer.description>Injects hybrid wolf genes in an humanoid. This genetrainer gives the wolf speed ability, increasing movement speed, eating speed and immunity gain speed.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridWolfGenesGenetrainer.description>
+  <GR_HybridWolfGenesGenetrainer.comps.1.useLabel>Use hybrid wolf genes genetrainer</GR_HybridWolfGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridReptileGenesGenetrainer.label>hybrid reptile genes genetrainer</GR_HybridReptileGenesGenetrainer.label>
+  <GR_HybridReptileGenesGenetrainer.description>Injects hybrid reptile genes in an humanoid. This genetrainer gives the cold blood ability, making the subject more stealthy and resistant to high temperatures.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridReptileGenesGenetrainer.description>
+  <GR_HybridReptileGenesGenetrainer.comps.1.useLabel>Use hybrid reptile genes genetrainer</GR_HybridReptileGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridInsectoidGenesGenetrainer.label>hybrid insectoid genes genetrainer</GR_HybridInsectoidGenesGenetrainer.label>
+  <GR_HybridInsectoidGenesGenetrainer.description>Injects hybrid insectoid genes in an humanoid. This genetrainer gives the eusocial mind ability, making the subject specialized in construction and repair at the expense of plant and animal skills.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridInsectoidGenesGenetrainer.description>
+  <GR_HybridInsectoidGenesGenetrainer.comps.1.useLabel>Use hybrid insectoid genes genetrainer</GR_HybridInsectoidGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridThrumboGenesGenetrainer.label>hybrid thrumbo genes genetrainer</GR_HybridThrumboGenesGenetrainer.label>
+  <GR_HybridThrumboGenesGenetrainer.description>Injects hybrid thrumbo genes in an humanoid. This genetrainer gives the animal empathy ability, making the subject much more efficient when dealing with animals.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridThrumboGenesGenetrainer.description>
+  <GR_HybridThrumboGenesGenetrainer.comps.1.useLabel>Use hybrid thrumbo genes genetrainer</GR_HybridThrumboGenesGenetrainer.comps.1.useLabel>
+
+  <GR_HybridMechanoidGenesGenetrainer.label>hybrid mechanoid genes genetrainer</GR_HybridMechanoidGenesGenetrainer.label>
+  <GR_HybridMechanoidGenesGenetrainer.description>Injects hybrid mechanoid genes in an humanoid. This genetrainer gives the plasteel skin ability, making the subject immune to catching fire (bear in mind, fire explosions will still cause damage, but the subject will not catch fire).\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect and the genetrainer will be wasted. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects.</GR_HybridMechanoidGenesGenetrainer.description>
+  <GR_HybridMechanoidGenesGenetrainer.comps.1.useLabel>Use hybrid mechanoid genes genetrainer</GR_HybridMechanoidGenesGenetrainer.comps.1.useLabel>
+
+
+</LanguageData>

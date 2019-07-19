@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_AnimalResource.reportString>сбор животного ресурса от TargetA.</GR_AnimalResource.reportString>
+  <GR_AttackMeleeOnceAndChickenRimPox.reportString>заражает куриным римфилисом на TargetA.</GR_AttackMeleeOnceAndChickenRimPox.reportString>
+  <GR_InsertGenesIntoGenePodJob.reportString>вставка генетического материала в генный бак.</GR_InsertGenesIntoGenePodJob.reportString>
+  <GR_InsertGenesIntoGenePodJob2.reportString>вставка генетического материала в генный бак.</GR_InsertGenesIntoGenePodJob2.reportString>
+  <GR_UseHybridInjector.reportString>использует инжектор гибридных генов.</GR_UseHybridInjector.reportString>
+
+
+</LanguageData>

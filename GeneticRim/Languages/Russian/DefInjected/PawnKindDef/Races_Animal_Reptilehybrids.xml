@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Reptile - Bear -->
+
+  <GR_Bearodile.label>bearodile</GR_Bearodile.label>
+  <GR_Bearodile.labelPlural>bearodiles</GR_Bearodile.labelPlural>
+  <GR_Bearodile.lifeStages.0.label>bearodile</GR_Bearodile.lifeStages.0.label>
+  <GR_Bearodile.lifeStages.0.labelPlural>bearodile</GR_Bearodile.lifeStages.0.labelPlural>
+  <GR_Bearodile.lifeStages.0.labelMale>male bearodile</GR_Bearodile.lifeStages.0.labelMale>
+  <GR_Bearodile.lifeStages.0.labelMalePlural>male bearodiles</GR_Bearodile.lifeStages.0.labelMalePlural>
+  <GR_Bearodile.lifeStages.0.labelFemale>female bearodile</GR_Bearodile.lifeStages.0.labelFemale>
+  <GR_Bearodile.lifeStages.0.labelFemalePlural>female bearodiles</GR_Bearodile.lifeStages.0.labelFemalePlural>
+  <GR_Bearodile.lifeStages.1.label>bearodile</GR_Bearodile.lifeStages.1.label>
+  <GR_Bearodile.lifeStages.1.labelPlural>bearodile</GR_Bearodile.lifeStages.1.labelPlural>
+  <GR_Bearodile.lifeStages.1.labelMale>male bearodile</GR_Bearodile.lifeStages.1.labelMale>
+  <GR_Bearodile.lifeStages.1.labelMalePlural>male bearodiles</GR_Bearodile.lifeStages.1.labelMalePlural>
+  <GR_Bearodile.lifeStages.1.labelFemale>female bearodile</GR_Bearodile.lifeStages.1.labelFemale>
+  <GR_Bearodile.lifeStages.1.labelFemalePlural>female bearodiles</GR_Bearodile.lifeStages.1.labelFemalePlural>
+  <GR_Bearodile.lifeStages.2.label>bearodile</GR_Bearodile.lifeStages.2.label>
+  <GR_Bearodile.lifeStages.2.labelPlural>bearodile</GR_Bearodile.lifeStages.2.labelPlural>
+  <GR_Bearodile.lifeStages.2.labelMale>male bearodile</GR_Bearodile.lifeStages.2.labelMale>
+  <GR_Bearodile.lifeStages.2.labelMalePlural>male bearodiles</GR_Bearodile.lifeStages.2.labelMalePlural>
+  <GR_Bearodile.lifeStages.2.labelFemale>female bearodile</GR_Bearodile.lifeStages.2.labelFemale>
+  <GR_Bearodile.lifeStages.2.labelFemalePlural>female bearodiles</GR_Bearodile.lifeStages.2.labelFemalePlural>
+  <GR_Bearodile.labelMale>male bearodile</GR_Bearodile.labelMale>
+  <GR_Bearodile.labelMalePlural>male bearodiles</GR_Bearodile.labelMalePlural>
+  <GR_Bearodile.labelFemale>female bearodile</GR_Bearodile.labelFemale>
+  <GR_Bearodile.labelFemalePlural>female bearodiles</GR_Bearodile.labelFemalePlural>
+
+
+  <!-- Reptile - Boomalope -->
+
+  <GR_Boomsnake.label>boomsnake</GR_Boomsnake.label>
+  <GR_Boomsnake.labelPlural>boomsnakes</GR_Boomsnake.labelPlural>
+  <GR_Boomsnake.lifeStages.0.label>boomsnake</GR_Boomsnake.lifeStages.0.label>
+  <GR_Boomsnake.lifeStages.0.labelPlural>boomsnake</GR_Boomsnake.lifeStages.0.labelPlural>
+  <GR_Boomsnake.lifeStages.0.labelMale>male boomsnake</GR_Boomsnake.lifeStages.0.labelMale>
+  <GR_Boomsnake.lifeStages.0.labelMalePlural>male boomsnakes</GR_Boomsnake.lifeStages.0.labelMalePlural>
+  <GR_Boomsnake.lifeStages.0.labelFemale>female boomsnake</GR_Boomsnake.lifeStages.0.labelFemale>
+  <GR_Boomsnake.lifeStages.0.labelFemalePlural>female boomsnakes</GR_Boomsnake.lifeStages.0.labelFemalePlural>
+  <GR_Boomsnake.lifeStages.1.label>boomsnake</GR_Boomsnake.lifeStages.1.label>
+  <GR_Boomsnake.lifeStages.1.labelPlural>boomsnake</GR_Boomsnake.lifeStages.1.labelPlural>
+  <GR_Boomsnake.lifeStages.1.labelMale>male boomsnake</GR_Boomsnake.lifeStages.1.labelMale>
+  <GR_Boomsnake.lifeStages.1.labelMalePlural>male boomsnakes</GR_Boomsnake.lifeStages.1.labelMalePlural>
+  <GR_Boomsnake.lifeStages.1.labelFemale>female boomsnake</GR_Boomsnake.lifeStages.1.labelFemale>
+  <GR_Boomsnake.lifeStages.1.labelFemalePlural>female boomsnakes</GR_Boomsnake.lifeStages.1.labelFemalePlural>
+  <GR_Boomsnake.lifeStages.2.label>boomsnake</GR_Boomsnake.lifeStages.2.label>
+  <GR_Boomsnake.lifeStages.2.labelPlural>boomsnake</GR_Boomsnake.lifeStages.2.labelPlural>
+  <GR_Boomsnake.lifeStages.2.labelMale>male boomsnake</GR_Boomsnake.lifeStages.2.labelMale>
+  <GR_Boomsnake.lifeStages.2.labelMalePlural>male boomsnakes</GR_Boomsnake.lifeStages.2.labelMalePlural>
+  <GR_Boomsnake.lifeStages.2.labelFemale>female boomsnake</GR_Boomsnake.lifeStages.2.labelFemale>
+  <GR_Boomsnake.lifeStages.2.labelFemalePlural>female boomsnakes</GR_Boomsnake.lifeStages.2.labelFemalePlural>
+  <GR_Boomsnake.labelMale>male boomsnake</GR_Boomsnake.labelMale>
+  <GR_Boomsnake.labelMalePlural>male boomsnakes</GR_Boomsnake.labelMalePlural>
+  <GR_Boomsnake.labelFemale>female boomsnake</GR_Boomsnake.labelFemale>
+  <GR_Boomsnake.labelFemalePlural>female boomsnakes</GR_Boomsnake.labelFemalePlural>
+
+
+  <!-- Reptile - Chicken -->
+
+  <GR_Chickenlizard.label>chickenlizard</GR_Chickenlizard.label>
+  <GR_Chickenlizard.labelPlural>chickenlizards</GR_Chickenlizard.labelPlural>
+  <GR_Chickenlizard.lifeStages.0.label>chickenlizard</GR_Chickenlizard.lifeStages.0.label>
+  <GR_Chickenlizard.lifeStages.0.labelPlural>chickenlizard</GR_Chickenlizard.lifeStages.0.labelPlural>
+  <GR_Chickenlizard.lifeStages.0.labelMale>male chickenlizard</GR_Chickenlizard.lifeStages.0.labelMale>
+  <GR_Chickenlizard.lifeStages.0.labelMalePlural>male chickenlizards</GR_Chickenlizard.lifeStages.0.labelMalePlural>
+  <GR_Chickenlizard.lifeStages.0.labelFemale>female chickenlizard</GR_Chickenlizard.lifeStages.0.labelFemale>
+  <GR_Chickenlizard.lifeStages.0.labelFemalePlural>female chickenlizards</GR_Chickenlizard.lifeStages.0.labelFemalePlural>
+  <GR_Chickenlizard.lifeStages.1.label>chickenlizard</GR_Chickenlizard.lifeStages.1.label>
+  <GR_Chickenlizard.lifeStages.1.labelPlural>chickenlizard</GR_Chickenlizard.lifeStages.1.labelPlural>
+  <GR_Chickenlizard.lifeStages.1.labelMale>male chickenlizard</GR_Chickenlizard.lifeStages.1.labelMale>
+  <GR_Chickenlizard.lifeStages.1.labelMalePlural>male chickenlizards</GR_Chickenlizard.lifeStages.1.labelMalePlural>
+  <GR_Chickenlizard.lifeStages.1.labelFemale>female chickenlizard</GR_Chickenlizard.lifeStages.1.labelFemale>
+  <GR_Chickenlizard.lifeStages.1.labelFemalePlural>female chickenlizards</GR_Chickenlizard.lifeStages.1.labelFemalePlural>
+  <GR_Chickenlizard.lifeStages.2.label>chickenlizard</GR_Chickenlizard.lifeStages.2.label>
+  <GR_Chickenlizard.lifeStages.2.labelPlural>chickenlizard</GR_Chickenlizard.lifeStages.2.labelPlural>
+  <GR_Chickenlizard.lifeStages.2.labelMale>male chickenlizard</GR_Chickenlizard.lifeStages.2.labelMale>
+  <GR_Chickenlizard.lifeStages.2.labelMalePlural>male chickenlizards</GR_Chickenlizard.lifeStages.2.labelMalePlural>
+  <GR_Chickenlizard.lifeStages.2.labelFemale>female chickenlizard</GR_Chickenlizard.lifeStages.2.labelFemale>
+  <GR_Chickenlizard.lifeStages.2.labelFemalePlural>female chickenlizards</GR_Chickenlizard.lifeStages.2.labelFemalePlural>
+  <GR_Chickenlizard.labelMale>male chickenlizard</GR_Chickenlizard.labelMale>
+  <GR_Chickenlizard.labelMalePlural>male chickenlizards</GR_Chickenlizard.labelMalePlural>
+  <GR_Chickenlizard.labelFemale>female chickenlizard</GR_Chickenlizard.labelFemale>
+  <GR_Chickenlizard.labelFemalePlural>female chickenlizards</GR_Chickenlizard.labelFemalePlural>
+
+
+  <!-- Reptile - Muffalo -->
+
+  <GR_Muffalokomodo.label>muffalokomodo</GR_Muffalokomodo.label>
+  <GR_Muffalokomodo.labelPlural>muffalokomodos</GR_Muffalokomodo.labelPlural>
+  <GR_Muffalokomodo.lifeStages.0.label>muffalokomodo</GR_Muffalokomodo.lifeStages.0.label>
+  <GR_Muffalokomodo.lifeStages.0.labelPlural>muffalokomodo</GR_Muffalokomodo.lifeStages.0.labelPlural>
+  <GR_Muffalokomodo.lifeStages.0.labelMale>male muffalokomodo</GR_Muffalokomodo.lifeStages.0.labelMale>
+  <GR_Muffalokomodo.lifeStages.0.labelMalePlural>male muffalokomodos</GR_Muffalokomodo.lifeStages.0.labelMalePlural>
+  <GR_Muffalokomodo.lifeStages.0.labelFemale>female muffalokomodo</GR_Muffalokomodo.lifeStages.0.labelFemale>
+  <GR_Muffalokomodo.lifeStages.0.labelFemalePlural>female muffalokomodos</GR_Muffalokomodo.lifeStages.0.labelFemalePlural>
+  <GR_Muffalokomodo.lifeStages.1.label>muffalokomodo</GR_Muffalokomodo.lifeStages.1.label>
+  <GR_Muffalokomodo.lifeStages.1.labelPlural>muffalokomodo</GR_Muffalokomodo.lifeStages.1.labelPlural>
+  <GR_Muffalokomodo.lifeStages.1.labelMale>male muffalokomodo</GR_Muffalokomodo.lifeStages.1.labelMale>
+  <GR_Muffalokomodo.lifeStages.1.labelMalePlural>male muffalokomodos</GR_Muffalokomodo.lifeStages.1.labelMalePlural>
+  <GR_Muffalokomodo.lifeStages.1.labelFemale>female muffalokomodo</GR_Muffalokomodo.lifeStages.1.labelFemale>
+  <GR_Muffalokomodo.lifeStages.1.labelFemalePlural>female muffalokomodos</GR_Muffalokomodo.lifeStages.1.labelFemalePlural>
+  <GR_Muffalokomodo.lifeStages.2.label>muffalokomodo</GR_Muffalokomodo.lifeStages.2.label>
+  <GR_Muffalokomodo.lifeStages.2.labelPlural>muffalokomodo</GR_Muffalokomodo.lifeStages.2.labelPlural>
+  <GR_Muffalokomodo.lifeStages.2.labelMale>male muffalokomodo</GR_Muffalokomodo.lifeStages.2.labelMale>
+  <GR_Muffalokomodo.lifeStages.2.labelMalePlural>male muffalokomodos</GR_Muffalokomodo.lifeStages.2.labelMalePlural>
+  <GR_Muffalokomodo.lifeStages.2.labelFemale>female muffalokomodo</GR_Muffalokomodo.lifeStages.2.labelFemale>
+  <GR_Muffalokomodo.lifeStages.2.labelFemalePlural>female muffalokomodos</GR_Muffalokomodo.lifeStages.2.labelFemalePlural>
+  <GR_Muffalokomodo.labelMale>male muffalokomodo</GR_Muffalokomodo.labelMale>
+  <GR_Muffalokomodo.labelMalePlural>male muffalokomodos</GR_Muffalokomodo.labelMalePlural>
+  <GR_Muffalokomodo.labelFemale>female muffalokomodo</GR_Muffalokomodo.labelFemale>
+  <GR_Muffalokomodo.labelFemalePlural>female muffalokomodos</GR_Muffalokomodo.labelFemalePlural>
+
+
+  <!-- Reptile - Insectoid -->
+
+  <GR_Spidersnake.label>spidersnake</GR_Spidersnake.label>
+  <GR_Spidersnake.labelPlural>spidersnakes</GR_Spidersnake.labelPlural>
+  <GR_Spidersnake.lifeStages.0.label>spidersnake</GR_Spidersnake.lifeStages.0.label>
+  <GR_Spidersnake.lifeStages.0.labelPlural>spidersnake</GR_Spidersnake.lifeStages.0.labelPlural>
+  <GR_Spidersnake.lifeStages.0.labelMale>male spidersnake</GR_Spidersnake.lifeStages.0.labelMale>
+  <GR_Spidersnake.lifeStages.0.labelMalePlural>male spidersnakes</GR_Spidersnake.lifeStages.0.labelMalePlural>
+  <GR_Spidersnake.lifeStages.0.labelFemale>female spidersnake</GR_Spidersnake.lifeStages.0.labelFemale>
+  <GR_Spidersnake.lifeStages.0.labelFemalePlural>female spidersnakes</GR_Spidersnake.lifeStages.0.labelFemalePlural>
+  <GR_Spidersnake.lifeStages.1.label>spidersnake</GR_Spidersnake.lifeStages.1.label>
+  <GR_Spidersnake.lifeStages.1.labelPlural>spidersnake</GR_Spidersnake.lifeStages.1.labelPlural>
+  <GR_Spidersnake.lifeStages.1.labelMale>male spidersnake</GR_Spidersnake.lifeStages.1.labelMale>
+  <GR_Spidersnake.lifeStages.1.labelMalePlural>male spidersnakes</GR_Spidersnake.lifeStages.1.labelMalePlural>
+  <GR_Spidersnake.lifeStages.1.labelFemale>female spidersnake</GR_Spidersnake.lifeStages.1.labelFemale>
+  <GR_Spidersnake.lifeStages.1.labelFemalePlural>female spidersnakes</GR_Spidersnake.lifeStages.1.labelFemalePlural>
+  <GR_Spidersnake.lifeStages.2.label>spidersnake</GR_Spidersnake.lifeStages.2.label>
+  <GR_Spidersnake.lifeStages.2.labelPlural>spidersnake</GR_Spidersnake.lifeStages.2.labelPlural>
+  <GR_Spidersnake.lifeStages.2.labelMale>male spidersnake</GR_Spidersnake.lifeStages.2.labelMale>
+  <GR_Spidersnake.lifeStages.2.labelMalePlural>male spidersnakes</GR_Spidersnake.lifeStages.2.labelMalePlural>
+  <GR_Spidersnake.lifeStages.2.labelFemale>female spidersnake</GR_Spidersnake.lifeStages.2.labelFemale>
+  <GR_Spidersnake.lifeStages.2.labelFemalePlural>female spidersnakes</GR_Spidersnake.lifeStages.2.labelFemalePlural>
+  <GR_Spidersnake.labelMale>male spidersnake</GR_Spidersnake.labelMale>
+  <GR_Spidersnake.labelMalePlural>male spidersnakes</GR_Spidersnake.labelMalePlural>
+  <GR_Spidersnake.labelFemale>female spidersnake</GR_Spidersnake.labelFemale>
+  <GR_Spidersnake.labelFemalePlural>female spidersnakes</GR_Spidersnake.labelFemalePlural>
+
+
+  <!-- Reptile - Thrumbo -->
+
+  <GR_Thrumbolizard.label>thrumbolizard</GR_Thrumbolizard.label>
+  <GR_Thrumbolizard.labelPlural>thrumbolizards</GR_Thrumbolizard.labelPlural>
+  <GR_Thrumbolizard.lifeStages.0.label>thrumbolizard calf</GR_Thrumbolizard.lifeStages.0.label>
+  <GR_Thrumbolizard.lifeStages.0.labelPlural>thrumbolizard calves</GR_Thrumbolizard.lifeStages.0.labelPlural>
+  <GR_Thrumbolizard.lifeStages.0.labelMale>male thrumbolizard calf</GR_Thrumbolizard.lifeStages.0.labelMale>
+  <GR_Thrumbolizard.lifeStages.0.labelMalePlural>male thrumbolizard calves</GR_Thrumbolizard.lifeStages.0.labelMalePlural>
+  <GR_Thrumbolizard.lifeStages.0.labelFemale>female thrumbolizard calf</GR_Thrumbolizard.lifeStages.0.labelFemale>
+  <GR_Thrumbolizard.lifeStages.0.labelFemalePlural>female thrumbolizard calves</GR_Thrumbolizard.lifeStages.0.labelFemalePlural>
+  <GR_Thrumbolizard.lifeStages.1.label>thrumbolizard</GR_Thrumbolizard.lifeStages.1.label>
+  <GR_Thrumbolizard.lifeStages.1.labelPlural>thrumbolizard</GR_Thrumbolizard.lifeStages.1.labelPlural>
+  <GR_Thrumbolizard.lifeStages.1.labelMale>male thrumbolizard</GR_Thrumbolizard.lifeStages.1.labelMale>
+  <GR_Thrumbolizard.lifeStages.1.labelMalePlural>male thrumbolizards</GR_Thrumbolizard.lifeStages.1.labelMalePlural>
+  <GR_Thrumbolizard.lifeStages.1.labelFemale>female thrumbolizard</GR_Thrumbolizard.lifeStages.1.labelFemale>
+  <GR_Thrumbolizard.lifeStages.1.labelFemalePlural>female thrumbolizards</GR_Thrumbolizard.lifeStages.1.labelFemalePlural>
+  <GR_Thrumbolizard.lifeStages.2.label>thrumbolizard</GR_Thrumbolizard.lifeStages.2.label>
+  <GR_Thrumbolizard.lifeStages.2.labelPlural>thrumbolizard</GR_Thrumbolizard.lifeStages.2.labelPlural>
+  <GR_Thrumbolizard.lifeStages.2.labelMale>male thrumbolizard</GR_Thrumbolizard.lifeStages.2.labelMale>
+  <GR_Thrumbolizard.lifeStages.2.labelMalePlural>male thrumbolizards</GR_Thrumbolizard.lifeStages.2.labelMalePlural>
+  <GR_Thrumbolizard.lifeStages.2.labelFemale>female thrumbolizard</GR_Thrumbolizard.lifeStages.2.labelFemale>
+  <GR_Thrumbolizard.lifeStages.2.labelFemalePlural>female thrumbolizards</GR_Thrumbolizard.lifeStages.2.labelFemalePlural>
+  <GR_Thrumbolizard.labelMale>male thrumbolizard</GR_Thrumbolizard.labelMale>
+  <GR_Thrumbolizard.labelMalePlural>male thrumbolizards</GR_Thrumbolizard.labelMalePlural>
+  <GR_Thrumbolizard.labelFemale>female thrumbolizard</GR_Thrumbolizard.labelFemale>
+  <GR_Thrumbolizard.labelFemalePlural>female thrumbolizards</GR_Thrumbolizard.labelFemalePlural>
+
+
+  <!-- Reptile - Wolf -->
+
+  <GR_Wolfsnake.label>wolfsnake</GR_Wolfsnake.label>
+  <GR_Wolfsnake.labelPlural>wolfsnakes</GR_Wolfsnake.labelPlural>
+  <GR_Wolfsnake.lifeStages.0.label>wolfsnake puppy</GR_Wolfsnake.lifeStages.0.label>
+  <GR_Wolfsnake.lifeStages.0.labelPlural>wolfsnake puppies</GR_Wolfsnake.lifeStages.0.labelPlural>
+  <GR_Wolfsnake.lifeStages.0.labelMale>male wolfsnake puppy</GR_Wolfsnake.lifeStages.0.labelMale>
+  <GR_Wolfsnake.lifeStages.0.labelMalePlural>male wolfsnake puppies</GR_Wolfsnake.lifeStages.0.labelMalePlural>
+  <GR_Wolfsnake.lifeStages.0.labelFemale>female wolfsnake puppy</GR_Wolfsnake.lifeStages.0.labelFemale>
+  <GR_Wolfsnake.lifeStages.0.labelFemalePlural>female wolfsnake puppies</GR_Wolfsnake.lifeStages.0.labelFemalePlural>
+  <GR_Wolfsnake.lifeStages.1.label>wolfsnake</GR_Wolfsnake.lifeStages.1.label>
+  <GR_Wolfsnake.lifeStages.1.labelPlural>wolfsnake</GR_Wolfsnake.lifeStages.1.labelPlural>
+  <GR_Wolfsnake.lifeStages.1.labelMale>male wolfsnake</GR_Wolfsnake.lifeStages.1.labelMale>
+  <GR_Wolfsnake.lifeStages.1.labelMalePlural>male wolfsnakes</GR_Wolfsnake.lifeStages.1.labelMalePlural>
+  <GR_Wolfsnake.lifeStages.1.labelFemale>female wolfsnake</GR_Wolfsnake.lifeStages.1.labelFemale>
+  <GR_Wolfsnake.lifeStages.1.labelFemalePlural>female wolfsnakes</GR_Wolfsnake.lifeStages.1.labelFemalePlural>
+  <GR_Wolfsnake.lifeStages.2.label>wolfsnake</GR_Wolfsnake.lifeStages.2.label>
+  <GR_Wolfsnake.lifeStages.2.labelPlural>wolfsnake</GR_Wolfsnake.lifeStages.2.labelPlural>
+  <GR_Wolfsnake.lifeStages.2.labelMale>male wolfsnake</GR_Wolfsnake.lifeStages.2.labelMale>
+  <GR_Wolfsnake.lifeStages.2.labelMalePlural>male wolfsnakes</GR_Wolfsnake.lifeStages.2.labelMalePlural>
+  <GR_Wolfsnake.lifeStages.2.labelFemale>female wolfsnake</GR_Wolfsnake.lifeStages.2.labelFemale>
+  <GR_Wolfsnake.lifeStages.2.labelFemalePlural>female wolfsnakes</GR_Wolfsnake.lifeStages.2.labelFemalePlural>
+  <GR_Wolfsnake.labelMale>male wolfsnake</GR_Wolfsnake.labelMale>
+  <GR_Wolfsnake.labelMalePlural>male wolfsnakes</GR_Wolfsnake.labelMalePlural>
+  <GR_Wolfsnake.labelFemale>female wolfsnake</GR_Wolfsnake.labelFemale>
+  <GR_Wolfsnake.labelFemalePlural>female wolfsnakes</GR_Wolfsnake.labelFemalePlural>
+
+
+  <!-- Reptile - Cat -->
+
+  <GR_Snakecat.label>snakecat</GR_Snakecat.label>
+  <GR_Snakecat.labelPlural>snakecats</GR_Snakecat.labelPlural>
+  <GR_Snakecat.lifeStages.0.label>snakecat</GR_Snakecat.lifeStages.0.label>
+  <GR_Snakecat.lifeStages.0.labelPlural>snakecat</GR_Snakecat.lifeStages.0.labelPlural>
+  <GR_Snakecat.lifeStages.0.labelMale>male snakecat</GR_Snakecat.lifeStages.0.labelMale>
+  <GR_Snakecat.lifeStages.0.labelMalePlural>male snakecats</GR_Snakecat.lifeStages.0.labelMalePlural>
+  <GR_Snakecat.lifeStages.0.labelFemale>female snakecat</GR_Snakecat.lifeStages.0.labelFemale>
+  <GR_Snakecat.lifeStages.0.labelFemalePlural>female snakecats</GR_Snakecat.lifeStages.0.labelFemalePlural>
+  <GR_Snakecat.lifeStages.1.label>snakecat</GR_Snakecat.lifeStages.1.label>
+  <GR_Snakecat.lifeStages.1.labelPlural>snakecat</GR_Snakecat.lifeStages.1.labelPlural>
+  <GR_Snakecat.lifeStages.1.labelMale>male snakecat</GR_Snakecat.lifeStages.1.labelMale>
+  <GR_Snakecat.lifeStages.1.labelMalePlural>male snakecats</GR_Snakecat.lifeStages.1.labelMalePlural>
+  <GR_Snakecat.lifeStages.1.labelFemale>female snakecat</GR_Snakecat.lifeStages.1.labelFemale>
+  <GR_Snakecat.lifeStages.1.labelFemalePlural>female snakecats</GR_Snakecat.lifeStages.1.labelFemalePlural>
+  <GR_Snakecat.lifeStages.2.label>snakecat</GR_Snakecat.lifeStages.2.label>
+  <GR_Snakecat.lifeStages.2.labelPlural>snakecat</GR_Snakecat.lifeStages.2.labelPlural>
+  <GR_Snakecat.lifeStages.2.labelMale>male snakecat</GR_Snakecat.lifeStages.2.labelMale>
+  <GR_Snakecat.lifeStages.2.labelMalePlural>male snakecats</GR_Snakecat.lifeStages.2.labelMalePlural>
+  <GR_Snakecat.lifeStages.2.labelFemale>female snakecat</GR_Snakecat.lifeStages.2.labelFemale>
+  <GR_Snakecat.lifeStages.2.labelFemalePlural>female snakecats</GR_Snakecat.lifeStages.2.labelFemalePlural>
+  <GR_Snakecat.labelMale>male snakecat</GR_Snakecat.labelMale>
+  <GR_Snakecat.labelMalePlural>male snakecats</GR_Snakecat.labelMalePlural>
+  <GR_Snakecat.labelFemale>female snakecat</GR_Snakecat.labelFemale>
+  <GR_Snakecat.labelFemalePlural>female snakecats</GR_Snakecat.labelFemalePlural>
+
+
+</LanguageData>

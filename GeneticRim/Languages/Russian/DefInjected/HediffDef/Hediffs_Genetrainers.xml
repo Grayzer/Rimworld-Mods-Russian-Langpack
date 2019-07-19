@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_BearHybridGenes.label>гены медведя (устойчивость медведя)</GR_BearHybridGenes.label>
+  <GR_BoomalopeHybridGenes.label>гены бумалопы (продуцирование химтоплива)</GR_BoomalopeHybridGenes.label>
+  <GR_CatHybridGenes.label>гены кошек (острое зрение)</GR_CatHybridGenes.label>
+  <GR_ChickenHybridGenes.label>гены куриц (птицеподобное любопытство)</GR_ChickenHybridGenes.label>
+  <GR_MuffaloHybridGenes.label>гены муффало (дикая настройка???)</GR_MuffaloHybridGenes.label>
+  <GR_WolfHybridGenes.label>гены волков (скорость волков)</GR_WolfHybridGenes.label>
+  <GR_RodentHybridGenes.label>гены грызунов (стадность)</GR_RodentHybridGenes.label>
+  <GR_ReptileHybridGenes.label>гены рептилий (холоднокровность)</GR_ReptileHybridGenes.label>
+  <GR_InsectoidHybridGenes.label>гены инсектов (эусоциальный разум)</GR_InsectoidHybridGenes.label>
+  <GR_ThrumboHybridGenes.label>гены трумбо (сродство животных???)</GR_ThrumboHybridGenes.label>
+  <GR_MechanoidHybridGenes.label>гены механоидов (пласталевая кожа)</GR_MechanoidHybridGenes.label>
+
+
+</LanguageData>

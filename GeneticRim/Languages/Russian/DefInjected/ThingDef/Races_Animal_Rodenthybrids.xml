@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rodent - Bear -->
+
+  <GR_Molebear.label>molebear</GR_Molebear.label>
+  <GR_Molebear.description>A Mole / Bear hybrid. The molebear combines the resilience of a bear with the extremely low methabolic rate of a mole rat. These creatures lack pain sensitivity, so if you want to kill one, there is no "knocking it unconscious".\n\nUseful abilities: No pain sensitivity. Fast breeding.</GR_Molebear.description>
+  <GR_Molebear.tools.0.label>left claw</GR_Molebear.tools.0.label>
+  <GR_Molebear.tools.1.label>right claw</GR_Molebear.tools.1.label>
+  <GR_Molebear.tools.3.label>head</GR_Molebear.tools.3.label>
+  <!-- Use Leather From: Rat -->
+  <!-- Use Meat From: Rat -->
+  <GR_Molebear_Corpse.label>molebear corpse</GR_Molebear_Corpse.label>
+  <GR_Molebear_Corpse.description>molebear corpse</GR_Molebear_Corpse.description>
+
+
+  <!-- Rodent - Boomalope -->
+
+  <GR_Boomsquirrel.label>boomsquirrel</GR_Boomsquirrel.label>
+  <GR_Boomsquirrel.description>A Squirrel / Boomalope hybrid. This small and fast rodent has several nodules of chemical mixture in its back.\n\nUseful abilities: Explodes on death. Produces small amounts of chemfuel quite fast. Very fast breeding.</GR_Boomsquirrel.description>
+  <GR_Boomsquirrel.tools.0.label>left claw</GR_Boomsquirrel.tools.0.label>
+  <GR_Boomsquirrel.tools.1.label>right claw</GR_Boomsquirrel.tools.1.label>
+  <GR_Boomsquirrel.tools.3.label>head</GR_Boomsquirrel.tools.3.label>
+  <!-- Use Leather From: Squirrel -->
+  <!-- Use Meat From: Squirrel -->
+  <GR_Boomsquirrel_Corpse.label>boomsquirrel corpse</GR_Boomsquirrel_Corpse.label>
+  <GR_Boomsquirrel_Corpse.description>boomsquirrel corpse</GR_Boomsquirrel_Corpse.description>
+
+
+  <!-- Rabbit - Chicken -->
+
+  <GR_Rabbitchicken.label>rabbitchicken</GR_Rabbitchicken.label>
+  <GR_Rabbitchicken.description>A Rabbit / Chicken hybrid. Isn't it adorable? Awwwww... Who's the sweetest genetic abomination in all the Rim? Actually, rabbitchickens are a pest, and they tend to breed very, very fast, even faster than other rodent hybrids, and they will consume all available food unless you have a system in place to avoid it.\n\nUseful abilities: Fastest breeding of all hybrids.</GR_Rabbitchicken.description>
+  <GR_Rabbitchicken.tools.1.label>head</GR_Rabbitchicken.tools.1.label>
+  <!-- Use Leather From: Hare -->
+  <!-- Use Meat From: Hare -->
+  <GR_Rabbitchicken_Corpse.label>rabbitchicken corpse</GR_Rabbitchicken_Corpse.label>
+  <GR_Rabbitchicken_Corpse.description>rabbitchicken corpse</GR_Rabbitchicken_Corpse.description>
+
+
+  <!-- Rat - Muffalo -->
+
+  <GR_Ratfallo.label>ratfallo</GR_Ratfallo.label>
+  <GR_Ratfallo.description>A Rat / Muffalo hybrid. This is a very large, muscular and resilient rat. It can be used as a pack animal, and also produces some milk of questionable quality.\n\nUseful abilities: Acts as a pack beast. Produces small amounts of milk and wool at a quite fast rate. Fast breeding.</GR_Ratfallo.description>
+  <GR_Ratfallo.tools.1.label>head</GR_Ratfallo.tools.1.label>
+  <!-- Use Leather From: Rat -->
+  <!-- Use Meat From: Rat -->
+  <GR_Ratfallo_Corpse.label>ratfallo corpse</GR_Ratfallo_Corpse.label>
+  <GR_Ratfallo_Corpse.description>ratfallo corpse</GR_Ratfallo_Corpse.description>
+
+
+  <!-- Rat - Thrumbo -->
+
+  <GR_Thrumborat.label>thrumborat</GR_Thrumborat.label>
+  <GR_Thrumborat.description>A Rat / Thrumbo hybrid. What could be scarier than a fast-breeding thrumbo?\n\nUseful abilities: Fast breeding and fast maturing for a creature of this size. Not very long-lived, though.</GR_Thrumborat.description>
+  <GR_Thrumborat.tools.0.label>horn</GR_Thrumborat.tools.0.label>
+  <GR_Thrumborat.tools.2.label>left paw</GR_Thrumborat.tools.2.label>
+  <GR_Thrumborat.tools.3.label>right paw</GR_Thrumborat.tools.3.label>
+  <GR_Thrumborat.tools.4.label>head</GR_Thrumborat.tools.4.label>
+  <!-- Use Leather From: Rat -->
+  <!-- Use Meat From: Rat -->
+  <GR_Thrumborat_Corpse.label>thrumborat corpse</GR_Thrumborat_Corpse.label>
+  <GR_Thrumborat_Corpse.description>thrumborat corpse</GR_Thrumborat_Corpse.description>
+
+
+  <!-- Beaver - Wolf -->
+
+  <GR_Beaverwolf.label>beaverwolf</GR_Beaverwolf.label>
+  <GR_Beaverwolf.description>A Beaver / Wolf hybrid. Beaverwolves can eat either meat or trees, although they are not as voracious as the wolfbeaver hybrid. They are not as efficient in battle, but they produce castoreum, which can be used to cook.\n\nUseful abilities: Regularly produces a secretion called castoreum that can be used as a cooking ingredient. Fast breeding.</GR_Beaverwolf.description>
+  <GR_Beaverwolf.tools.0.label>left claw</GR_Beaverwolf.tools.0.label>
+  <GR_Beaverwolf.tools.1.label>right claw</GR_Beaverwolf.tools.1.label>
+  <GR_Beaverwolf.tools.3.label>head</GR_Beaverwolf.tools.3.label>
+  <!-- Use Leather From: Alphabeaver -->
+  <!-- Use Meat From: Alphabeaver -->
+  <GR_Beaverwolf_Corpse.label>beaverwolf corpse</GR_Beaverwolf_Corpse.label>
+  <GR_Beaverwolf_Corpse.description>beaverwolf corpse</GR_Beaverwolf_Corpse.description>
+
+
+  <!-- Rabbit - Cat -->
+
+  <GR_Rabbitcat.label>rabbitcat</GR_Rabbitcat.label>
+  <GR_Rabbitcat.description>A Rabbit / Cat hybrid. The rabbitcat is a very efficient predator. Equipped with excellent hearing and a keen intelligence.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. Fast breeding. Its fangs can be used as a trophy or sold for a profit.</GR_Rabbitcat.description>
+  <GR_Rabbitcat.tools.0.label>left claw</GR_Rabbitcat.tools.0.label>
+  <GR_Rabbitcat.tools.1.label>right claw</GR_Rabbitcat.tools.1.label>
+  <!-- Use Leather From: Cougar -->
+  <!-- Use Meat From: Cougar -->
+  <GR_Rabbitcat_Corpse.label>rabbitcat corpse</GR_Rabbitcat_Corpse.label>
+  <GR_Rabbitcat_Corpse.description>rabbitcat corpse</GR_Rabbitcat_Corpse.description>
+
+
+</LanguageData>

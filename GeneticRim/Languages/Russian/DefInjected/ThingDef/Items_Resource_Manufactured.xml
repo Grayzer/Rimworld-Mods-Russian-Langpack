@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Genetic Material -->
+
+  <GR_BearGenetic.label>bear genetic material</GR_BearGenetic.label>
+  <GR_BearGenetic.description>A vial of genetic material extracted from a bear's corpse.</GR_BearGenetic.description>
+
+  <GR_ChickenGenetic.label>chicken genetic material</GR_ChickenGenetic.label>
+  <GR_ChickenGenetic.description>A vial of genetic material extracted from a chicken's corpse.</GR_ChickenGenetic.description>
+
+  <GR_BoomalopeGenetic.label>boomalope genetic material</GR_BoomalopeGenetic.label>
+  <GR_BoomalopeGenetic.description>A vial of genetic material extracted from a boomalope's corpse.</GR_BoomalopeGenetic.description>
+
+  <GR_MuffaloGenetic.label>muffalo genetic material</GR_MuffaloGenetic.label>
+  <GR_MuffaloGenetic.description>A vial of genetic material extracted from a muffalo's corpse.</GR_MuffaloGenetic.description>
+
+  <GR_WolfGenetic.label>wolf genetic material</GR_WolfGenetic.label>
+  <GR_WolfGenetic.description>A vial of genetic material extracted from a wolf's corpse.</GR_WolfGenetic.description>
+
+  <GR_RodentGenetic.label>rodent/leporid genetic material</GR_RodentGenetic.label>
+  <GR_RodentGenetic.description>A vial of genetic material extracted from a rodent or leporid corpse.</GR_RodentGenetic.description>
+
+  <GR_FelineGenetic.label>feline genetic material</GR_FelineGenetic.label>
+  <GR_FelineGenetic.description>A vial of genetic material extracted from a feline corpse.</GR_FelineGenetic.description>
+
+  <GR_InsectoidGenetic.label>insectoid genetic material</GR_InsectoidGenetic.label>
+  <GR_InsectoidGenetic.description>A vial of genetic material extracted from an insectoid's corpse.</GR_InsectoidGenetic.description>
+
+  <GR_ReptilianGenetic.label>reptilian genetic material</GR_ReptilianGenetic.label>
+  <GR_ReptilianGenetic.description>A vial of genetic material extracted from a reptilian corpse.</GR_ReptilianGenetic.description>
+
+  <GR_HumanoidGenetic.label>humanoid genetic material</GR_HumanoidGenetic.label>
+  <GR_HumanoidGenetic.description>A vial of genetic material extracted from a humanoid corpse.</GR_HumanoidGenetic.description>
+
+  <GR_ThrumboGenetic.label>thrumbo genetic material</GR_ThrumboGenetic.label>
+  <GR_ThrumboGenetic.description>A vial of genetic material extracted from a thrumbo's corpse.</GR_ThrumboGenetic.description>
+
+  <GR_MechanoidGenetic.label>mechanoid active components</GR_MechanoidGenetic.label>
+  <GR_MechanoidGenetic.description>A vial of active mechanites from a mechanoid's corpse.</GR_MechanoidGenetic.description>
+
+  <GR_NonSpecializedGenetic.label>non-specialized genetic material</GR_NonSpecializedGenetic.label>
+  <GR_NonSpecializedGenetic.description>This vial of genetic material contains non-specialized cells that can't be used to create animal hybrids. They can probably be used in a gene recombinator to turn them into more useful genetic materials, though.</GR_NonSpecializedGenetic.description>
+
+
+  <!-- Paragon Serums -->
+
+  <GR_BearSerum.label>bear paragon serum</GR_BearSerum.label>
+  <GR_BearSerum.description>A vial of paragon genes extracted from a bear's corpse.</GR_BearSerum.description>
+
+  <GR_BoarSerum.label>boar paragon serum</GR_BoarSerum.label>
+  <GR_BoarSerum.description>A vial of paragon genes extracted from a wild boar's corpse.</GR_BoarSerum.description>
+
+  <GR_BoomalopeSerum.label>boomalope paragon serum</GR_BoomalopeSerum.label>
+  <GR_BoomalopeSerum.description>A vial of paragon genes extracted from a wild boomalope's corpse.</GR_BoomalopeSerum.description>
+
+  <GR_ChickenSerum.label>chicken paragon serum</GR_ChickenSerum.label>
+  <GR_ChickenSerum.description>A vial of paragon genes extracted from a chicken's corpse.</GR_ChickenSerum.description>
+
+  <GR_EmuSerum.label>emu paragon serum</GR_EmuSerum.label>
+  <GR_EmuSerum.description>A vial of paragon genes extracted from an emu's corpse.</GR_EmuSerum.description>
+
+  <GR_MuffaloSerum.label>muffalo paragon serum</GR_MuffaloSerum.label>
+  <GR_MuffaloSerum.description>A vial of paragon genes extracted from a muffalo's corpse.</GR_MuffaloSerum.description>
+
+  <GR_OstrichSerum.label>ostrich paragon serum</GR_OstrichSerum.label>
+  <GR_OstrichSerum.description>A vial of paragon genes extracted from an ostrich's corpse.</GR_OstrichSerum.description>
+
+  <GR_RhinoSerum.label>rhino paragon serum</GR_RhinoSerum.label>
+  <GR_RhinoSerum.description>A vial of paragon genes extracted from a rhino's corpse.</GR_RhinoSerum.description>
+
+  <GR_WolfSerum.label>wolf paragon serum</GR_WolfSerum.label>
+  <GR_WolfSerum.description>A vial of paragon genes extracted from a wolf's corpse.</GR_WolfSerum.description>
+
+  <GR_HareSerum.label>hare paragon serum</GR_HareSerum.label>
+  <GR_HareSerum.description>A vial of paragon genes extracted from a hare's corpse.</GR_HareSerum.description>
+
+  <GR_IguanaSerum.label>iguana paragon serum</GR_IguanaSerum.label>
+  <GR_IguanaSerum.description>A vial of paragon genes extracted from an iguana's corpse.</GR_IguanaSerum.description>
+
+  <GR_PigSerum.label>pig paragon serum</GR_PigSerum.label>
+  <GR_PigSerum.description>A vial of paragon genes extracted from a pig's corpse.</GR_PigSerum.description>
+
+  <GR_RatSerum.label>rat paragon serum</GR_RatSerum.label>
+  <GR_RatSerum.description>A vial of paragon genes extracted from a rat's corpse.</GR_RatSerum.description>
+
+  <GR_TortoiseSerum.label>tortoise paragon serum</GR_TortoiseSerum.label>
+  <GR_TortoiseSerum.description>A vial of paragon genes extracted from a tortoise's corpse.</GR_TortoiseSerum.description>
+
+
+  <!-- Organic Pulp -->
+
+  <GR_OrganicPulp.label>organic pulp</GR_OrganicPulp.label>
+  <GR_OrganicPulp.description>This organic pulp can be used as an organic growth compound to accelerate some of the genetic processes. Needed to upgrade the Gene Pod and to build many of Genetic Rim's buildings.</GR_OrganicPulp.description>
+
+
+  <!-- Hybrid Implants Base -->
+
+  <GR_ImplantSteelWireMesh.label>hybrid implant steel wire mesh (tier 1)</GR_ImplantSteelWireMesh.label>
+  <GR_ImplantSteelWireMesh.description>This steel wire mesh acts as a sterile scaffold for tissue growth. It is used as the base for basic vat grown hybrid implants. More advanced implants require a plasteel based wire mesh.</GR_ImplantSteelWireMesh.description>
+
+  <GR_ImplantPlasteelWireMesh.label>hybrid implant plasteel wire mesh (tier 2)</GR_ImplantPlasteelWireMesh.label>
+  <GR_ImplantPlasteelWireMesh.description>This plasteel wire mesh acts as a sterile scaffold for tissue growth. It is used as the base for advanced vat grown hybrid implants. Elite implants require an uranium based wire mesh.</GR_ImplantPlasteelWireMesh.description>
+
+  <GR_ImplantUraniumWireMesh.label>hybrid implant uranium wire mesh (tier 3)</GR_ImplantUraniumWireMesh.label>
+  <GR_ImplantUraniumWireMesh.description>This uranium wire mesh acts as a sterile scaffold for tissue growth. It is used as the base for the most elite vat grown hybrid implants.</GR_ImplantUraniumWireMesh.description>
+
+
+  <!-- Boomfuels -->
+
+  <GR_Cryofuel.label>cryofuel</GR_Cryofuel.label>
+  <GR_Cryofuel.description>Volatile liquid chemical compound stored in cryogenic containers. Can be used to power a cryo-stabilized generator. It can also be converted to regular Chemfuel in a refinery.</GR_Cryofuel.description>
+
+
+</LanguageData>

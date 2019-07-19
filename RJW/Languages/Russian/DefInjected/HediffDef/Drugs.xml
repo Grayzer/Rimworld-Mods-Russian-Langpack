@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HumpShroomEffect.label>Induced libido</HumpShroomEffect.label>
+
+
+  <!-- Ambrosia addiction -->
+
+  <HumpShroomTolerance.label>толерантность к казановнику</HumpShroomTolerance.label>
+  <HumpShroomTolerance.stages.0.label>слабая</HumpShroomTolerance.stages.0.label>
+  <HumpShroomTolerance.stages.1.label>средняя</HumpShroomTolerance.stages.1.label>
+  <HumpShroomTolerance.stages.2.label>большая</HumpShroomTolerance.stages.2.label>
+  <HumpShroomTolerance.stages.3.label>массивная</HumpShroomTolerance.stages.3.label>
+
+  <HumpShroomAddiction.label>зависимость от казановника</HumpShroomAddiction.label>
+  <HumpShroomAddiction.stages.1.label>отходняк</HumpShroomAddiction.stages.1.label>
+
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_Contraceptive.label>контрацептивы</RJW_Contraceptive.label>
+  <RJW_Contraceptive.stages.0.label>предохраняется</RJW_Contraceptive.stages.0.label>
+
+
+</LanguageData>

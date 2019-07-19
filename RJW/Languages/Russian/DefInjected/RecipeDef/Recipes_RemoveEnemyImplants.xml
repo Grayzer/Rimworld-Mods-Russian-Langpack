@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RemoveMegascarabEgg.label>удалить яйца инсектов</RemoveMegascarabEgg.label>
+  <RemoveMegascarabEgg.description>Удаляет яйца инсектов.</RemoveMegascarabEgg.description>
+  <RemoveMegascarabEgg.jobString>Удаление яиц инсектов.</RemoveMegascarabEgg.jobString>
+
+  <RemoveMegaspiderEgg.label>удалить яйца инсектов</RemoveMegaspiderEgg.label>
+  <RemoveMegaspiderEgg.description>Удаляет яйца инсектов.</RemoveMegaspiderEgg.description>
+  <RemoveMegaspiderEgg.jobString>Удаление яиц инсектов.</RemoveMegaspiderEgg.jobString>
+
+  <RemoveSpelopedeEgg.label>удалить яйца инсектов</RemoveSpelopedeEgg.label>
+  <RemoveSpelopedeEgg.description>Удаляет яйца инсектов.</RemoveSpelopedeEgg.description>
+  <RemoveSpelopedeEgg.jobString>Удаление яиц инсектов.</RemoveSpelopedeEgg.jobString>
+
+  <RemoveRJW_ROMA_SpiderEgg.label>удалить яйца инсектов</RemoveRJW_ROMA_SpiderEgg.label>
+  <RemoveRJW_ROMA_SpiderEgg.description>Удаляет яйца инсектов.</RemoveRJW_ROMA_SpiderEgg.description>
+  <RemoveRJW_ROMA_SpiderEgg.jobString>Удаление яиц инсектов.</RemoveRJW_ROMA_SpiderEgg.jobString>
+
+  <RemoveRJW_ROMA_GiantSpiderEgg.label>удалить яйца инсектов</RemoveRJW_ROMA_GiantSpiderEgg.label>
+  <RemoveRJW_ROMA_GiantSpiderEgg.description>Удаляет яйца инсектов.</RemoveRJW_ROMA_GiantSpiderEgg.description>
+  <RemoveRJW_ROMA_GiantSpiderEgg.jobString>Удаление яиц инсектов.</RemoveRJW_ROMA_GiantSpiderEgg.jobString>
+
+  <RemoveRJW_ROMA_GiantQueenSpiderEgg.label>удалить яйца инсектов</RemoveRJW_ROMA_GiantQueenSpiderEgg.label>
+  <RemoveRJW_ROMA_GiantQueenSpiderEgg.description>Удаляет яйца инсектов.</RemoveRJW_ROMA_GiantQueenSpiderEgg.description>
+  <RemoveRJW_ROMA_GiantQueenSpiderEgg.jobString>Удаление яиц инсектов.</RemoveRJW_ROMA_GiantQueenSpiderEgg.jobString>
+
+  <RemoveMicroComputer.label>удалить МикроКомпьютер</RemoveMicroComputer.label>
+  <RemoveMicroComputer.description>Удаляет МикроКомпьютер.</RemoveMicroComputer.description>
+  <RemoveMicroComputer.jobString>Удаление МикроКомпьютера.</RemoveMicroComputer.jobString>
+
+  <RJW_RemoveRestraints.label>удаление сдерживаний</RJW_RemoveRestraints.label>
+  <RJW_RemoveRestraints.description>Удаление сдерживания.</RJW_RemoveRestraints.description>
+  <RJW_RemoveRestraints.jobString>Удаление сдерживания.</RJW_RemoveRestraints.jobString>
+
+  <RJW_RemoveCocoon.label>удалить член</RJW_RemoveCocoon.label>
+  <RJW_RemoveCocoon.description>Удаляет член.</RJW_RemoveCocoon.description>
+  <RJW_RemoveCocoon.jobString>Удаление члена.</RJW_RemoveCocoon.jobString>
+
+
+</LanguageData>

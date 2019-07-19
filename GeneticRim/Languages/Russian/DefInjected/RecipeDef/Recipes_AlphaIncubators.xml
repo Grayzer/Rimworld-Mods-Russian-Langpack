@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_CreateAlphaBearIncubator.label>paragon bear incubator</GR_CreateAlphaBearIncubator.label>
+  <GR_CreateAlphaBearIncubator.description>Fill an incubator with paragon genes from a bear</GR_CreateAlphaBearIncubator.description>
+  <GR_CreateAlphaBearIncubator.jobString>Filling Incubator</GR_CreateAlphaBearIncubator.jobString>
+
+  <GR_CreateAlphaBoarIncubator.label>paragon boar incubator</GR_CreateAlphaBoarIncubator.label>
+  <GR_CreateAlphaBoarIncubator.description>Fill an incubator with paragon genes from a wild boar</GR_CreateAlphaBoarIncubator.description>
+  <GR_CreateAlphaBoarIncubator.jobString>Filling Incubator</GR_CreateAlphaBoarIncubator.jobString>
+
+  <GR_CreateAlphaBoomalopeIncubator.label>paragon boomalope incubator</GR_CreateAlphaBoomalopeIncubator.label>
+  <GR_CreateAlphaBoomalopeIncubator.description>Fill an incubator with paragon genes from a boomalope</GR_CreateAlphaBoomalopeIncubator.description>
+  <GR_CreateAlphaBoomalopeIncubator.jobString>Filling Incubator</GR_CreateAlphaBoomalopeIncubator.jobString>
+
+  <GR_CreateAlphaChickenIncubator.label>paragon chicken incubator</GR_CreateAlphaChickenIncubator.label>
+  <GR_CreateAlphaChickenIncubator.description>Fill an incubator with paragon genes from a chicken</GR_CreateAlphaChickenIncubator.description>
+  <GR_CreateAlphaChickenIncubator.jobString>Filling Incubator</GR_CreateAlphaChickenIncubator.jobString>
+
+  <GR_CreateAlphaEmuIncubator.label>paragon emu incubator</GR_CreateAlphaEmuIncubator.label>
+  <GR_CreateAlphaEmuIncubator.description>Fill an incubator with paragon genes from an emu</GR_CreateAlphaEmuIncubator.description>
+  <GR_CreateAlphaEmuIncubator.jobString>Filling Incubator</GR_CreateAlphaEmuIncubator.jobString>
+
+  <GR_CreateAlphaMuffaloIncubator.label>paragon muffalo incubator</GR_CreateAlphaMuffaloIncubator.label>
+  <GR_CreateAlphaMuffaloIncubator.description>Fill an incubator with paragon genes from a muffalo</GR_CreateAlphaMuffaloIncubator.description>
+  <GR_CreateAlphaMuffaloIncubator.jobString>Filling Incubator</GR_CreateAlphaMuffaloIncubator.jobString>
+
+  <GR_CreateAlphaOstrichIncubator.label>paragon ostrich incubator</GR_CreateAlphaOstrichIncubator.label>
+  <GR_CreateAlphaOstrichIncubator.description>Fill an incubator with paragon genes from an ostrich</GR_CreateAlphaOstrichIncubator.description>
+  <GR_CreateAlphaOstrichIncubator.jobString>Filling Incubator</GR_CreateAlphaOstrichIncubator.jobString>
+
+  <GR_CreateAlphaRhinoIncubator.label>paragon rhino incubator</GR_CreateAlphaRhinoIncubator.label>
+  <GR_CreateAlphaRhinoIncubator.description>Fill an incubator with paragon genes from a rhino</GR_CreateAlphaRhinoIncubator.description>
+  <GR_CreateAlphaRhinoIncubator.jobString>Filling Incubator</GR_CreateAlphaRhinoIncubator.jobString>
+
+  <GR_CreateAlphaWolfIncubator.label>paragon wolf incubator</GR_CreateAlphaWolfIncubator.label>
+  <GR_CreateAlphaWolfIncubator.description>Fill an incubator with paragon genes from a wolf</GR_CreateAlphaWolfIncubator.description>
+  <GR_CreateAlphaWolfIncubator.jobString>Filling Incubator</GR_CreateAlphaWolfIncubator.jobString>
+
+  <GR_CreateAlphaHareIncubator.label>paragon hare incubator</GR_CreateAlphaHareIncubator.label>
+  <GR_CreateAlphaHareIncubator.description>Fill an incubator with paragon genes from a hare</GR_CreateAlphaHareIncubator.description>
+  <GR_CreateAlphaHareIncubator.jobString>Filling Incubator</GR_CreateAlphaHareIncubator.jobString>
+
+  <GR_CreateAlphaIguanaIncubator.label>paragon iguana incubator</GR_CreateAlphaIguanaIncubator.label>
+  <GR_CreateAlphaIguanaIncubator.description>Fill an incubator with paragon genes from an iguana</GR_CreateAlphaIguanaIncubator.description>
+  <GR_CreateAlphaIguanaIncubator.jobString>Filling Incubator</GR_CreateAlphaIguanaIncubator.jobString>
+
+  <GR_CreateAlphaPigIncubator.label>paragon pig incubator</GR_CreateAlphaPigIncubator.label>
+  <GR_CreateAlphaPigIncubator.description>Fill an incubator with paragon genes from a pig</GR_CreateAlphaPigIncubator.description>
+  <GR_CreateAlphaPigIncubator.jobString>Filling Incubator</GR_CreateAlphaPigIncubator.jobString>
+
+  <GR_CreateAlphaRatIncubator.label>paragon rat incubator</GR_CreateAlphaRatIncubator.label>
+  <GR_CreateAlphaRatIncubator.description>Fill an incubator with paragon genes from a rat</GR_CreateAlphaRatIncubator.description>
+  <GR_CreateAlphaRatIncubator.jobString>Filling Incubator</GR_CreateAlphaRatIncubator.jobString>
+
+  <GR_CreateAlphaTortoiseIncubator.label>paragon tortoise incubator</GR_CreateAlphaTortoiseIncubator.label>
+  <GR_CreateAlphaTortoiseIncubator.description>Fill an incubator with paragon genes from a tortoise</GR_CreateAlphaTortoiseIncubator.description>
+  <GR_CreateAlphaTortoiseIncubator.jobString>Filling Incubator</GR_CreateAlphaTortoiseIncubator.jobString>
+
+
+</LanguageData>

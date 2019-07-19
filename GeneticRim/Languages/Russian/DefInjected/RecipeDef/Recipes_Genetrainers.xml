@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_CraftBearGenetrainer.label>craft hybrid bear genes genetrainer</GR_CraftBearGenetrainer.label>
+  <GR_CraftBearGenetrainer.description>Craft hybrid bear genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftBearGenetrainer.description>
+  <GR_CraftBearGenetrainer.jobString>Craft hybrid bear genes genetrainer.</GR_CraftBearGenetrainer.jobString>
+
+  <GR_CraftBoomalopeGenetrainer.label>craft hybrid boomalope genes genetrainer</GR_CraftBoomalopeGenetrainer.label>
+  <GR_CraftBoomalopeGenetrainer.description>Craft hybrid boomalope genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftBoomalopeGenetrainer.description>
+  <GR_CraftBoomalopeGenetrainer.jobString>Craft hybrid boomalope genes genetrainer.</GR_CraftBoomalopeGenetrainer.jobString>
+
+  <GR_CraftCatGenetrainer.label>craft hybrid cat genes genetrainer</GR_CraftCatGenetrainer.label>
+  <GR_CraftCatGenetrainer.description>Craft hybrid cat genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftCatGenetrainer.description>
+  <GR_CraftCatGenetrainer.jobString>Craft hybrid cat genes genetrainer.</GR_CraftCatGenetrainer.jobString>
+
+  <GR_CraftChickenGenetrainer.label>craft hybrid chicken genes genetrainer</GR_CraftChickenGenetrainer.label>
+  <GR_CraftChickenGenetrainer.description>Craft hybrid chicken genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftChickenGenetrainer.description>
+  <GR_CraftChickenGenetrainer.jobString>Craft hybrid chicken genes genetrainer.</GR_CraftChickenGenetrainer.jobString>
+
+  <GR_CraftMuffaloGenetrainer.label>craft hybrid muffalo genes genetrainer</GR_CraftMuffaloGenetrainer.label>
+  <GR_CraftMuffaloGenetrainer.description>Craft hybrid muffalo genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftMuffaloGenetrainer.description>
+  <GR_CraftMuffaloGenetrainer.jobString>Craft hybrid muffalo genes genetrainer.</GR_CraftMuffaloGenetrainer.jobString>
+
+  <GR_CraftRodentGenetrainer.label>craft hybrid rodent genes genetrainer</GR_CraftRodentGenetrainer.label>
+  <GR_CraftRodentGenetrainer.description>Craft hybrid rodent genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftRodentGenetrainer.description>
+  <GR_CraftRodentGenetrainer.jobString>Craft hybrid rodent genes genetrainer.</GR_CraftRodentGenetrainer.jobString>
+
+  <GR_CraftWolfGenetrainer.label>craft hybrid wolf genes genetrainer</GR_CraftWolfGenetrainer.label>
+  <GR_CraftWolfGenetrainer.description>Craft hybrid wolf genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftWolfGenetrainer.description>
+  <GR_CraftWolfGenetrainer.jobString>Craft hybrid wolf genes genetrainer.</GR_CraftWolfGenetrainer.jobString>
+
+  <GR_CraftReptileGenetrainer.label>craft hybrid reptile genes genetrainer</GR_CraftReptileGenetrainer.label>
+  <GR_CraftReptileGenetrainer.description>Craft hybrid reptile genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftReptileGenetrainer.description>
+  <GR_CraftReptileGenetrainer.jobString>Craft hybrid reptile genes genetrainer.</GR_CraftReptileGenetrainer.jobString>
+
+  <GR_CraftInsectoidGenetrainer.label>craft hybrid insectoid genes genetrainer</GR_CraftInsectoidGenetrainer.label>
+  <GR_CraftInsectoidGenetrainer.description>Craft hybrid insectoid genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftInsectoidGenetrainer.description>
+  <GR_CraftInsectoidGenetrainer.jobString>Craft hybrid insectoid genes genetrainer.</GR_CraftInsectoidGenetrainer.jobString>
+
+  <GR_CraftThrumboGenetrainer.label>craft hybrid thrumbo genes genetrainer</GR_CraftThrumboGenetrainer.label>
+  <GR_CraftThrumboGenetrainer.description>Craft hybrid thrumbo genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftThrumboGenetrainer.description>
+  <GR_CraftThrumboGenetrainer.jobString>Craft hybrid thrumbo genes genetrainer.</GR_CraftThrumboGenetrainer.jobString>
+
+  <GR_CraftMechanoidGenetrainer.label>craft hybrid mechanoid genes genetrainer</GR_CraftMechanoidGenetrainer.label>
+  <GR_CraftMechanoidGenetrainer.description>Craft hybrid mechanoid genes genetrainer. Genetrainers are implants that do not take the place of any given organ. This will require the repurposing of any mech serum.</GR_CraftMechanoidGenetrainer.description>
+  <GR_CraftMechanoidGenetrainer.jobString>Craft hybrid mechanoid genes genetrainer.</GR_CraftMechanoidGenetrainer.jobString>
+
+
+</LanguageData>

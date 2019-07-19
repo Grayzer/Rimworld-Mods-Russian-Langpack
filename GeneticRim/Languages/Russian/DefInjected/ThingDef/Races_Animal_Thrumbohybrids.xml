@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bear - Thrumbo -->
+
+  <GR_Thrumbear.label>thrumbear</GR_Thrumbear.label>
+  <GR_Thrumbear.description>This gargantuan beast is the result of splicing bear genes in a standard thrumbo. As strong and resilient as it is easy to anger, a thrumbear attack is something to be VERY scared of.\n\nUseful abilities: Produces very high quality wool.</GR_Thrumbear.description>
+  <GR_Thrumbear.tools.0.label>horn</GR_Thrumbear.tools.0.label>
+  <GR_Thrumbear.tools.2.label>left foot</GR_Thrumbear.tools.2.label>
+  <GR_Thrumbear.tools.3.label>right foot</GR_Thrumbear.tools.3.label>
+  <GR_Thrumbear.tools.4.label>head</GR_Thrumbear.tools.4.label>
+  <!-- Use Leather From: Thrumbo -->
+  <!-- Use Meat From: Thrumbo -->
+  <GR_Thrumbear_Corpse.label>thrumbear corpse</GR_Thrumbear_Corpse.label>
+  <GR_Thrumbear_Corpse.description>thrumbear corpse</GR_Thrumbear_Corpse.description>
+
+
+  <!-- Boomalope - Thrumbo -->
+
+  <GR_Thrumbalope.label>thrumbalope</GR_Thrumbalope.label>
+  <GR_Thrumbalope.description>The thrumbalope is a thrumbo that has been spliced with boomalope genes. Their huge sacs of unstable chemicals explode with unbelievable force, which has caused the colonists to nickname them "nukalopes".\n\nUseful abilities: Huge, dangerous explosion on death. Produces massive amounts of chemfuel.</GR_Thrumbalope.description>
+  <GR_Thrumbalope.tools.0.label>horn</GR_Thrumbalope.tools.0.label>
+  <GR_Thrumbalope.tools.2.label>left foot</GR_Thrumbalope.tools.2.label>
+  <GR_Thrumbalope.tools.3.label>right foot</GR_Thrumbalope.tools.3.label>
+  <GR_Thrumbalope.tools.4.label>head</GR_Thrumbalope.tools.4.label>
+  <!-- Use Leather From: Thrumbo -->
+  <!-- Use Meat From: Thrumbo -->
+  <GR_Thrumbalope_Corpse.label>thrumbalope corpse</GR_Thrumbalope_Corpse.label>
+  <GR_Thrumbalope_Corpse.description>thrumbalope corpse</GR_Thrumbalope_Corpse.description>
+
+
+  <!-- Chicken - Thrumbo -->
+
+  <GR_Thrumbochicken.label>thrumbochicken</GR_Thrumbochicken.label>
+  <GR_Thrumbochicken.description>The thrumbochicken is a thrumbo that has been spliced with avian genes. Although not very ravenous, these are lightning fast predators that could hunt any other creature with ease. These animals lay enormous eggs!\n\nUseful abilities: Biggest eggs of any animal.</GR_Thrumbochicken.description>
+  <GR_Thrumbochicken.tools.0.label>horn</GR_Thrumbochicken.tools.0.label>
+  <GR_Thrumbochicken.tools.2.label>head</GR_Thrumbochicken.tools.2.label>
+  <!-- Use Leather From: Thrumbo -->
+  <!-- Use Meat From: Thrumbo -->
+  <GR_Thrumbochicken_Corpse.label>thrumbochicken corpse</GR_Thrumbochicken_Corpse.label>
+  <GR_Thrumbochicken_Corpse.description>thrumbochicken corpse</GR_Thrumbochicken_Corpse.description>
+
+
+  <!-- Muffalo - Thrumbo -->
+
+  <GR_Thrumffalo.label>thrumffalo</GR_Thrumffalo.label>
+  <GR_Thrumffalo.description>This massive ungulate is the result of splicing a thrumbo with muffalo genes. Capable of carrying a huge amount of materials, there is no better possible pack animal in all the Rim (yet! Science never rests).\n\nUseful abilities: Produces high quality milk and wool.</GR_Thrumffalo.description>
+  <GR_Thrumffalo.tools.0.label>horn</GR_Thrumffalo.tools.0.label>
+  <GR_Thrumffalo.tools.2.label>left foot</GR_Thrumffalo.tools.2.label>
+  <GR_Thrumffalo.tools.3.label>right foot</GR_Thrumffalo.tools.3.label>
+  <GR_Thrumffalo.tools.4.label>head</GR_Thrumffalo.tools.4.label>
+  <!-- Use Leather From: Thrumbo -->
+  <!-- Use Meat From: Thrumbo -->
+  <GR_Thrumffalo_Corpse.label>thrumffalo corpse</GR_Thrumffalo_Corpse.label>
+  <GR_Thrumffalo_Corpse.description>thrumffalo corpse</GR_Thrumffalo_Corpse.description>
+
+
+  <!-- Wolf - Thrumbo -->
+
+  <GR_Thrumwolf.label>thrumwolf</GR_Thrumwolf.label>
+  <GR_Thrumwolf.description>This colossal predator is the result of splicing a thrumbo with wolf genes. Fast and really hungry, all the time. Entire ecosystems can be decimated by the insane apetite of a Thrumbowolf.\n\nUseful abilities: fast attacking predator which will tear through your enemies if properly trained. Needs a LOT of food, though.</GR_Thrumwolf.description>
+  <GR_Thrumwolf.tools.0.label>horn</GR_Thrumwolf.tools.0.label>
+  <GR_Thrumwolf.tools.2.label>left foot</GR_Thrumwolf.tools.2.label>
+  <GR_Thrumwolf.tools.3.label>right foot</GR_Thrumwolf.tools.3.label>
+  <GR_Thrumwolf.tools.4.label>head</GR_Thrumwolf.tools.4.label>
+  <!-- Use Leather From: Thrumbo -->
+  <!-- Use Meat From: Thrumbo -->
+  <GR_Thrumwolf_Corpse.label>thrumwolf corpse</GR_Thrumwolf_Corpse.label>
+  <GR_Thrumwolf_Corpse.description>thrumwolf corpse</GR_Thrumwolf_Corpse.description>
+
+
+  <!-- Cat - Thrumbo -->
+
+  <GR_Thrumbocat.label>thrumbocat</GR_Thrumbocat.label>
+  <GR_Thrumbocat.description>A Thrumbo / Cat hybrid. The thrumbocat is a dangerous, agile predator. It can attack with its maws or its massive horn, as well as overpower its prey with a close range hairball attack.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. Hairball attack that suffocates its prey.</GR_Thrumbocat.description>
+  <GR_Thrumbocat.tools.0.label>horn</GR_Thrumbocat.tools.0.label>
+  <GR_Thrumbocat.tools.2.label>left foot</GR_Thrumbocat.tools.2.label>
+  <GR_Thrumbocat.tools.3.label>right foot</GR_Thrumbocat.tools.3.label>
+  <GR_Thrumbocat.tools.4.label>head</GR_Thrumbocat.tools.4.label>
+  <!-- Use Leather From: Thrumbo -->
+  <!-- Use Meat From: Thrumbo -->
+  <GR_Thrumbocat_Corpse.label>thrumbocat corpse</GR_Thrumbocat_Corpse.label>
+  <GR_Thrumbocat_Corpse.description>thrumbocat corpse</GR_Thrumbocat_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Human Hybrid Implants -->
+
+  <GR_BearClaws.label>человеческий имплант: когти медведя</GR_BearClaws.label>
+  <GR_BearClaws.comps.0.tools.0.label>когти медведя</GR_BearClaws.comps.0.tools.0.label>
+
+  <GR_DiggingBearClaws.label>человеческий имплант: рытьевые медвежьи когти</GR_DiggingBearClaws.label>
+  <GR_BearMuscleTissue.label>человеческий имплант: мышечная ткань медведя</GR_BearMuscleTissue.label>
+  <GR_HibernationModule.label>человеческий имплант: модуль гибернации</GR_HibernationModule.label>
+  <GR_Ovipositor.label>человеческий имплант: яйцеклад</GR_Ovipositor.label>
+  <GR_MuffaloMammaries.label>человеческий имплант: молочные железы муфало</GR_MuffaloMammaries.label>
+  <GR_MuffaloMuscles.label>человеческий имплант: усиленные мускулы муффало</GR_MuffaloMuscles.label>
+  <GR_MuffaloSkin.label>человеческий имплант: кожа муффало</GR_MuffaloSkin.label>
+  <GR_BoomalopeNodules.label>человеческий имплант: наросты бумалопы</GR_BoomalopeNodules.label>
+  <GR_ChemfuelStomach.label>человеческий имплант: химтопливный желудок</GR_ChemfuelStomach.label>
+  <GR_ChemfuelHeart.label>человеческий имплант: химтопливное сердце</GR_ChemfuelHeart.label>
+  <GR_WolfMuscularFibers.label>человеческий имплант: волчьи мышечные волокна</GR_WolfMuscularFibers.label>
+  <GR_DevouringJaws.label>человеческий имплант: пожирающие челюсти</GR_DevouringJaws.label>
+  <GR_NeuronReinforcement.label>человеческий имплант: нейронное усиление</GR_NeuronReinforcement.label>
+  <GR_MousePheromones.label>человеческий имплант: мышиные феромоны</GR_MousePheromones.label>
+  <GR_MoleratNerveDampener.label>человеческий имплант: кротовый демпфер нервов</GR_MoleratNerveDampener.label>
+  <GR_BunnyEars.label>человеческий имплант: ухо кролика</GR_BunnyEars.label>
+  <GR_InsectoidAntennae.label>человеческий имплант: антенны инсектов</GR_InsectoidAntennae.label>
+  <GR_PsychicDampeners.label>человеческий имплант: психические демпферы</GR_PsychicDampeners.label>
+  <GR_KidneyToxicFilters.label>человеческий имплант: токсические фильтры почек</GR_KidneyToxicFilters.label>
+
+  <GR_HumanThrumboHorn.label>человеческий имплант: рог трумбо</GR_HumanThrumboHorn.label>
+  <GR_HumanThrumboHorn.comps.0.tools.0.label>рог трумбо</GR_HumanThrumboHorn.comps.0.tools.0.label>
+
+  <GR_ThrumboSkin.label>человеческий имплант: кожа трумбо</GR_ThrumboSkin.label>
+
+  <GR_VenomousFangs.label>человеческий имплант: ядовитые клыки</GR_VenomousFangs.label>
+  <GR_VenomousFangs.comps.0.tools.0.label>ядовитые клыки</GR_VenomousFangs.comps.0.tools.0.label>
+
+  <GR_IguanaScales.label>человеческий имплант: щечки игуаны</GR_IguanaScales.label>
+
+
+</LanguageData>

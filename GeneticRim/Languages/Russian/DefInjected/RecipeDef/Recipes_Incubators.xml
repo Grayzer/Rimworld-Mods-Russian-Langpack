@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bears -->
+
+  <GR_CreateBearBoomalopeIncubator.label>bear / boomalope incubator</GR_CreateBearBoomalopeIncubator.label>
+  <GR_CreateBearBoomalopeIncubator.description>Fill an incubator with genes from a bear and a boomalope</GR_CreateBearBoomalopeIncubator.description>
+  <GR_CreateBearBoomalopeIncubator.jobString>Filling Incubator</GR_CreateBearBoomalopeIncubator.jobString>
+
+  <GR_CreateBearChickenIncubator.label>bear / chicken incubator</GR_CreateBearChickenIncubator.label>
+  <GR_CreateBearChickenIncubator.description>Fill an incubator with genes from a bear and a chicken</GR_CreateBearChickenIncubator.description>
+  <GR_CreateBearChickenIncubator.jobString>Filling Incubator</GR_CreateBearChickenIncubator.jobString>
+
+  <GR_CreateBearMuffaloIncubator.label>bear / muffalo incubator</GR_CreateBearMuffaloIncubator.label>
+  <GR_CreateBearMuffaloIncubator.description>Fill an incubator with genes from a bear and a muffalo</GR_CreateBearMuffaloIncubator.description>
+  <GR_CreateBearMuffaloIncubator.jobString>Filling Incubator</GR_CreateBearMuffaloIncubator.jobString>
+
+  <GR_CreateBearWolfIncubator.label>bear / wolf incubator</GR_CreateBearWolfIncubator.label>
+  <GR_CreateBearWolfIncubator.description>Fill an incubator with genes from a bear and a wolf</GR_CreateBearWolfIncubator.description>
+  <GR_CreateBearWolfIncubator.jobString>Filling Incubator</GR_CreateBearWolfIncubator.jobString>
+
+  <GR_CreateBearCatIncubator.label>bear / cat incubator</GR_CreateBearCatIncubator.label>
+  <GR_CreateBearCatIncubator.description>Fill an incubator with genes from a bear and a cat</GR_CreateBearCatIncubator.description>
+  <GR_CreateBearCatIncubator.jobString>Filling Incubator</GR_CreateBearCatIncubator.jobString>
+
+  <GR_CreateBearmoleIncubator.label>bear / rodent incubator</GR_CreateBearmoleIncubator.label>
+  <GR_CreateBearmoleIncubator.description>Fill an incubator with genes from a bear and a rodent</GR_CreateBearmoleIncubator.description>
+  <GR_CreateBearmoleIncubator.jobString>Filling Incubator</GR_CreateBearmoleIncubator.jobString>
+
+
+  <!-- Boomalopes -->
+
+  <GR_CreateBoomalopeChickenIncubator.label>boomalope / chicken incubator</GR_CreateBoomalopeChickenIncubator.label>
+  <GR_CreateBoomalopeChickenIncubator.description>Fill an incubator with genes from a boomalope and a chicken</GR_CreateBoomalopeChickenIncubator.description>
+  <GR_CreateBoomalopeChickenIncubator.jobString>Filling Incubator</GR_CreateBoomalopeChickenIncubator.jobString>
+
+  <GR_CreateBoomalopeMuffaloIncubator.label>boomalope / muffalo incubator</GR_CreateBoomalopeMuffaloIncubator.label>
+  <GR_CreateBoomalopeMuffaloIncubator.description>Fill an incubator with genes from a boomalope and a muffalo</GR_CreateBoomalopeMuffaloIncubator.description>
+  <GR_CreateBoomalopeMuffaloIncubator.jobString>Filling Incubator</GR_CreateBoomalopeMuffaloIncubator.jobString>
+
+  <GR_CreateBoomalopeWolfIncubator.label>boomalope / wolf incubator</GR_CreateBoomalopeWolfIncubator.label>
+  <GR_CreateBoomalopeWolfIncubator.description>Fill an incubator with genes from a boomalope and a wolf</GR_CreateBoomalopeWolfIncubator.description>
+  <GR_CreateBoomalopeWolfIncubator.jobString>Filling Incubator</GR_CreateBoomalopeWolfIncubator.jobString>
+
+  <GR_CreateBoomalopeCatIncubator.label>boomalope / cat incubator</GR_CreateBoomalopeCatIncubator.label>
+  <GR_CreateBoomalopeCatIncubator.description>Fill an incubator with genes from a boomalope and a cat</GR_CreateBoomalopeCatIncubator.description>
+  <GR_CreateBoomalopeCatIncubator.jobString>Filling Incubator</GR_CreateBoomalopeCatIncubator.jobString>
+
+  <GR_CreateBoomsquirrelIncubator.label>boomalope / rodent incubator</GR_CreateBoomsquirrelIncubator.label>
+  <GR_CreateBoomsquirrelIncubator.description>Fill an incubator with genes from a boomalope and a rodent</GR_CreateBoomsquirrelIncubator.description>
+  <GR_CreateBoomsquirrelIncubator.jobString>Filling Incubator</GR_CreateBoomsquirrelIncubator.jobString>
+
+
+  <!-- Chicken -->
+
+  <GR_CreateChickenMuffaloIncubator.label>chicken / muffalo incubator</GR_CreateChickenMuffaloIncubator.label>
+  <GR_CreateChickenMuffaloIncubator.description>Fill an incubator with genes from a chicken and a muffalo</GR_CreateChickenMuffaloIncubator.description>
+  <GR_CreateChickenMuffaloIncubator.jobString>Filling Incubator</GR_CreateChickenMuffaloIncubator.jobString>
+
+  <GR_CreateChickenWolfIncubator.label>chicken / wolf incubator</GR_CreateChickenWolfIncubator.label>
+  <GR_CreateChickenWolfIncubator.description>Fill an incubator with genes from a chicken and a wolf</GR_CreateChickenWolfIncubator.description>
+  <GR_CreateChickenWolfIncubator.jobString>Filling Incubator</GR_CreateChickenWolfIncubator.jobString>
+
+  <GR_CreateChickenCatIncubator.label>chicken / cat incubator</GR_CreateChickenCatIncubator.label>
+  <GR_CreateChickenCatIncubator.description>Fill an incubator with genes from a chicken and a cat</GR_CreateChickenCatIncubator.description>
+  <GR_CreateChickenCatIncubator.jobString>Filling Incubator</GR_CreateChickenCatIncubator.jobString>
+
+  <GR_CreateChickenrabbitIncubator.label>chicken / leporid incubator</GR_CreateChickenrabbitIncubator.label>
+  <GR_CreateChickenrabbitIncubator.description>Fill an incubator with genes from a chicken and a leporid</GR_CreateChickenrabbitIncubator.description>
+  <GR_CreateChickenrabbitIncubator.jobString>Filling Incubator</GR_CreateChickenrabbitIncubator.jobString>
+
+
+  <!-- Muffalos -->
+
+  <GR_CreateMuffaloWolfIncubator.label>muffalo / wolf incubator</GR_CreateMuffaloWolfIncubator.label>
+  <GR_CreateMuffaloWolfIncubator.description>Fill an incubator with genes from a muffalo and a wolf</GR_CreateMuffaloWolfIncubator.description>
+  <GR_CreateMuffaloWolfIncubator.jobString>Filling Incubator</GR_CreateMuffaloWolfIncubator.jobString>
+
+  <GR_CreateMuffaloCatIncubator.label>muffalo / cat incubator</GR_CreateMuffaloCatIncubator.label>
+  <GR_CreateMuffaloCatIncubator.description>Fill an incubator with genes from a muffalo and a cat</GR_CreateMuffaloCatIncubator.description>
+  <GR_CreateMuffaloCatIncubator.jobString>Filling Incubator</GR_CreateMuffaloCatIncubator.jobString>
+
+  <GR_CreateMuffaloratIncubator.label>muffalo / rodent incubator</GR_CreateMuffaloratIncubator.label>
+  <GR_CreateMuffaloratIncubator.description>Fill an incubator with genes from a muffalo and a rodent</GR_CreateMuffaloratIncubator.description>
+  <GR_CreateMuffaloratIncubator.jobString>Filling Incubator</GR_CreateMuffaloratIncubator.jobString>
+
+
+  <!-- Wolves -->
+
+  <GR_CreateWolfCatIncubator.label>wolf / cat incubator</GR_CreateWolfCatIncubator.label>
+  <GR_CreateWolfCatIncubator.description>Fill an incubator with genes from a wolf and a cat</GR_CreateWolfCatIncubator.description>
+  <GR_CreateWolfCatIncubator.jobString>Filling Incubator</GR_CreateWolfCatIncubator.jobString>
+
+  <GR_CreateWolfbeaverIncubator.label>wolf / rodent incubator</GR_CreateWolfbeaverIncubator.label>
+  <GR_CreateWolfbeaverIncubator.description>Fill an incubator with genes from a wolf and a rodent</GR_CreateWolfbeaverIncubator.description>
+  <GR_CreateWolfbeaverIncubator.jobString>Filling Incubator</GR_CreateWolfbeaverIncubator.jobString>
+
+
+  <!-- Rodents -->
+
+  <GR_CreateRodentCatIncubator.label>cat / rodent incubator</GR_CreateRodentCatIncubator.label>
+  <GR_CreateRodentCatIncubator.description>Fill an incubator with genes from a cat and a rodent</GR_CreateRodentCatIncubator.description>
+  <GR_CreateRodentCatIncubator.jobString>Filling Incubator</GR_CreateRodentCatIncubator.jobString>
+
+
+  <!-- Insectoid Tier Incubators -->
+
+  <GR_CreateBearscarabIncubator.label>insectoid / bear incubator</GR_CreateBearscarabIncubator.label>
+  <GR_CreateBearscarabIncubator.description>Fill an incubator with genes from an insectoid and a bear</GR_CreateBearscarabIncubator.description>
+  <GR_CreateBearscarabIncubator.jobString>Filling Incubator</GR_CreateBearscarabIncubator.jobString>
+
+  <GR_CreateBoomBeetleIncubator.label>insectoid / boomalope incubator</GR_CreateBoomBeetleIncubator.label>
+  <GR_CreateBoomBeetleIncubator.description>Fill an incubator with genes from an insectoid and a boomalope</GR_CreateBoomBeetleIncubator.description>
+  <GR_CreateBoomBeetleIncubator.jobString>Filling Incubator</GR_CreateBoomBeetleIncubator.jobString>
+
+  <CreateChickenspiderIncubator.label>insectoid / chicken incubator</CreateChickenspiderIncubator.label>
+  <CreateChickenspiderIncubator.description>Fill an incubator with genes from an insectoid and a chicken</CreateChickenspiderIncubator.description>
+  <CreateChickenspiderIncubator.jobString>Filling Incubator</CreateChickenspiderIncubator.jobString>
+
+  <GR_CreateMuffalopedeIncubator.label>insectoid / muffalo incubator</GR_CreateMuffalopedeIncubator.label>
+  <GR_CreateMuffalopedeIncubator.description>Fill an incubator with genes from an insectoid and a muffalo</GR_CreateMuffalopedeIncubator.description>
+  <GR_CreateMuffalopedeIncubator.jobString>Filling Incubator</GR_CreateMuffalopedeIncubator.jobString>
+
+  <GR_CreateWolfscarabIncubator.label>insectoid / wolf incubator</GR_CreateWolfscarabIncubator.label>
+  <GR_CreateWolfscarabIncubator.description>Fill an incubator with genes from an insectoid and a wolf</GR_CreateWolfscarabIncubator.description>
+  <GR_CreateWolfscarabIncubator.jobString>Filling Incubator</GR_CreateWolfscarabIncubator.jobString>
+
+  <GR_CreateCatSpiderIncubator.label>insectoid / cat incubator</GR_CreateCatSpiderIncubator.label>
+  <GR_CreateCatSpiderIncubator.description>Fill an incubator with genes from an insectoid and a cat</GR_CreateCatSpiderIncubator.description>
+  <GR_CreateCatSpiderIncubator.jobString>Filling Incubator</GR_CreateCatSpiderIncubator.jobString>
+
+  <GR_CreateThrumbospiderIncubator.label>insectoid / thrumbo incubator</GR_CreateThrumbospiderIncubator.label>
+  <GR_CreateThrumbospiderIncubator.description>Fill an incubator with genes from an insectoid and a thrumbo</GR_CreateThrumbospiderIncubator.description>
+  <GR_CreateThrumbospiderIncubator.jobString>Filling Incubator</GR_CreateThrumbospiderIncubator.jobString>
+
+
+  <!-- Reptilian Tier Incubators -->
+
+  <GR_CreateBearodileIncubator.label>reptile / bear incubator</GR_CreateBearodileIncubator.label>
+  <GR_CreateBearodileIncubator.description>Fill an incubator with genes from a reptile and a bear</GR_CreateBearodileIncubator.description>
+  <GR_CreateBearodileIncubator.jobString>Filling Incubator</GR_CreateBearodileIncubator.jobString>
+
+  <GR_CreateBoomsnakeIncubator.label>reptile / boomalope incubator</GR_CreateBoomsnakeIncubator.label>
+  <GR_CreateBoomsnakeIncubator.description>Fill an incubator with genes from a reptile and a boomalope</GR_CreateBoomsnakeIncubator.description>
+  <GR_CreateBoomsnakeIncubator.jobString>Filling Incubator</GR_CreateBoomsnakeIncubator.jobString>
+
+  <GR_CreateChickenlizardIncubator.label>reptile / chicken incubator</GR_CreateChickenlizardIncubator.label>
+  <GR_CreateChickenlizardIncubator.description>Fill an incubator with genes from a reptile and a chicken</GR_CreateChickenlizardIncubator.description>
+  <GR_CreateChickenlizardIncubator.jobString>Filling Incubator</GR_CreateChickenlizardIncubator.jobString>
+
+  <GR_CreateMuffalokomodoIncubator.label>reptile / muffalo incubator</GR_CreateMuffalokomodoIncubator.label>
+  <GR_CreateMuffalokomodoIncubator.description>Fill an incubator with genes from a reptile and a muffalo</GR_CreateMuffalokomodoIncubator.description>
+  <GR_CreateMuffalokomodoIncubator.jobString>Filling Incubator</GR_CreateMuffalokomodoIncubator.jobString>
+
+  <GR_CreateSpidersnakeIncubator.label>reptile / insectoid incubator</GR_CreateSpidersnakeIncubator.label>
+  <GR_CreateSpidersnakeIncubator.description>Fill an incubator with genes from a reptile and an insectoid</GR_CreateSpidersnakeIncubator.description>
+  <GR_CreateSpidersnakeIncubator.jobString>Filling Incubator</GR_CreateSpidersnakeIncubator.jobString>
+
+  <GR_CreateSnakecatIncubator.label>reptile / cat incubator</GR_CreateSnakecatIncubator.label>
+  <GR_CreateSnakecatIncubator.description>Fill an incubator with genes from a reptile and a cat</GR_CreateSnakecatIncubator.description>
+  <GR_CreateSnakecatIncubator.jobString>Filling Incubator</GR_CreateSnakecatIncubator.jobString>
+
+  <GR_CreateWolfsnakeIncubator.label>reptile / wolf incubator</GR_CreateWolfsnakeIncubator.label>
+  <GR_CreateWolfsnakeIncubator.description>Fill an incubator with genes from a reptile and a wolf</GR_CreateWolfsnakeIncubator.description>
+  <GR_CreateWolfsnakeIncubator.jobString>Filling Incubator</GR_CreateWolfsnakeIncubator.jobString>
+
+  <GR_CreateThrumbolizardIncubator.label>reptile / thrumbo incubator</GR_CreateThrumbolizardIncubator.label>
+  <GR_CreateThrumbolizardIncubator.description>Fill an incubator with genes from a reptile and a thrumbo</GR_CreateThrumbolizardIncubator.description>
+  <GR_CreateThrumbolizardIncubator.jobString>Filling Incubator</GR_CreateThrumbolizardIncubator.jobString>
+
+
+  <!-- Thrumbo Tier Incubators -->
+
+  <GR_CreateThrumboBearIncubator.label>thrumbo / bear incubator</GR_CreateThrumboBearIncubator.label>
+  <GR_CreateThrumboBearIncubator.description>Fill an incubator with genes from a thrumbo and a bear</GR_CreateThrumboBearIncubator.description>
+  <GR_CreateThrumboBearIncubator.jobString>Filling Incubator</GR_CreateThrumboBearIncubator.jobString>
+
+  <GR_CreateThrumbochickenIncubator.label>thrumbo / chicken incubator</GR_CreateThrumbochickenIncubator.label>
+  <GR_CreateThrumbochickenIncubator.description>Fill an incubator with genes from a thrumbo and a chicken</GR_CreateThrumbochickenIncubator.description>
+  <GR_CreateThrumbochickenIncubator.jobString>Filling Incubator</GR_CreateThrumbochickenIncubator.jobString>
+
+  <GR_CreateThrumbalopeIncubator.label>thrumbo / boomalope incubator</GR_CreateThrumbalopeIncubator.label>
+  <GR_CreateThrumbalopeIncubator.description>Fill an incubator with genes from a thrumbo and a boomalope</GR_CreateThrumbalopeIncubator.description>
+  <GR_CreateThrumbalopeIncubator.jobString>Filling Incubator</GR_CreateThrumbalopeIncubator.jobString>
+
+  <GR_CreateThrumffaloIncubator.label>thrumbo / muffalo incubator</GR_CreateThrumffaloIncubator.label>
+  <GR_CreateThrumffaloIncubator.description>Fill an incubator with genes from a thrumbo and a muffalo</GR_CreateThrumffaloIncubator.description>
+  <GR_CreateThrumffaloIncubator.jobString>Filling Incubator</GR_CreateThrumffaloIncubator.jobString>
+
+  <GR_CreateThrumboWolfIncubator.label>thrumbo / wolf incubator</GR_CreateThrumboWolfIncubator.label>
+  <GR_CreateThrumboWolfIncubator.description>Fill an incubator with genes from a thrumbo and a wolf</GR_CreateThrumboWolfIncubator.description>
+  <GR_CreateThrumboWolfIncubator.jobString>Filling Incubator</GR_CreateThrumboWolfIncubator.jobString>
+
+  <GR_CreateThrumboratIncubator.label>thrumbo / rodent incubator</GR_CreateThrumboratIncubator.label>
+  <GR_CreateThrumboratIncubator.description>Fill an incubator with genes from a thrumbo and a rodent</GR_CreateThrumboratIncubator.description>
+  <GR_CreateThrumboratIncubator.jobString>Filling Incubator</GR_CreateThrumboratIncubator.jobString>
+
+  <GR_CreateThrumboCatIncubator.label>thrumbo / cat incubator</GR_CreateThrumboCatIncubator.label>
+  <GR_CreateThrumboCatIncubator.description>Fill an incubator with genes from a thrumbo and a cat</GR_CreateThrumboCatIncubator.description>
+  <GR_CreateThrumboCatIncubator.jobString>Filling Incubator</GR_CreateThrumboCatIncubator.jobString>
+
+
+  <!-- Mechanoid incubators -->
+
+  <GR_CreateMechabearIncubator.label>mechanoid / bear incubator</GR_CreateMechabearIncubator.label>
+  <GR_CreateMechabearIncubator.description>Fill an incubator with genes from a bear and active mechanites</GR_CreateMechabearIncubator.description>
+  <GR_CreateMechabearIncubator.jobString>Filling Incubator</GR_CreateMechabearIncubator.jobString>
+
+  <GR_CreateMechamuffaloIncubator.label>mechanoid / muffalo incubator</GR_CreateMechamuffaloIncubator.label>
+  <GR_CreateMechamuffaloIncubator.description>Fill an incubator with genes from a muffalo and active mechanites</GR_CreateMechamuffaloIncubator.description>
+  <GR_CreateMechamuffaloIncubator.jobString>Filling Incubator</GR_CreateMechamuffaloIncubator.jobString>
+
+  <GR_CreateMechalopeIncubator.label>mechanoid / boomalope incubator</GR_CreateMechalopeIncubator.label>
+  <GR_CreateMechalopeIncubator.description>Fill an incubator with genes from a boomalope and active mechanites</GR_CreateMechalopeIncubator.description>
+  <GR_CreateMechalopeIncubator.jobString>Filling Incubator</GR_CreateMechalopeIncubator.jobString>
+
+  <GR_CreateMechachickenIncubator.label>mechanoid / chicken incubator</GR_CreateMechachickenIncubator.label>
+  <GR_CreateMechachickenIncubator.description>Fill an incubator with genes from a chicken and active mechanites</GR_CreateMechachickenIncubator.description>
+  <GR_CreateMechachickenIncubator.jobString>Filling Incubator</GR_CreateMechachickenIncubator.jobString>
+
+  <GR_CreateMechawolfIncubator.label>mechanoid / wolf incubator</GR_CreateMechawolfIncubator.label>
+  <GR_CreateMechawolfIncubator.description>Fill an incubator with genes from a wolf and active mechanites</GR_CreateMechawolfIncubator.description>
+  <GR_CreateMechawolfIncubator.jobString>Filling Incubator</GR_CreateMechawolfIncubator.jobString>
+
+  <GR_CreateMechacatIncubator.label>mechanoid / cat incubator</GR_CreateMechacatIncubator.label>
+  <GR_CreateMechacatIncubator.description>Fill an incubator with genes from a cat and active mechanites</GR_CreateMechacatIncubator.description>
+  <GR_CreateMechacatIncubator.jobString>Filling Incubator</GR_CreateMechacatIncubator.jobString>
+
+  <GR_CreateMecharatIncubator.label>mechanoid / rodent incubator</GR_CreateMecharatIncubator.label>
+  <GR_CreateMecharatIncubator.description>Fill an incubator with genes from a rodent and active mechanites</GR_CreateMecharatIncubator.description>
+  <GR_CreateMecharatIncubator.jobString>Filling Incubator</GR_CreateMecharatIncubator.jobString>
+
+  <GR_CreateMechaspiderIncubator.label>mechanoid / insectoid incubator</GR_CreateMechaspiderIncubator.label>
+  <GR_CreateMechaspiderIncubator.description>Fill an incubator with genes from an insectoid and active mechanites</GR_CreateMechaspiderIncubator.description>
+  <GR_CreateMechaspiderIncubator.jobString>Filling Incubator</GR_CreateMechaspiderIncubator.jobString>
+
+  <GR_CreateMechaturtleIncubator.label>mechanoid / reptile incubator</GR_CreateMechaturtleIncubator.label>
+  <GR_CreateMechaturtleIncubator.description>Fill an incubator with genes from a reptile and active mechanites</GR_CreateMechaturtleIncubator.description>
+  <GR_CreateMechaturtleIncubator.jobString>Filling Incubator</GR_CreateMechaturtleIncubator.jobString>
+
+  <GR_CreateMechathrumboIncubator.label>mechanoid / thrumbo incubator</GR_CreateMechathrumboIncubator.label>
+  <GR_CreateMechathrumboIncubator.description>Fill an incubator with genes from a thrumbo and active mechanites</GR_CreateMechathrumboIncubator.description>
+  <GR_CreateMechathrumboIncubator.jobString>Filling Incubator</GR_CreateMechathrumboIncubator.jobString>
+
+
+</LanguageData>

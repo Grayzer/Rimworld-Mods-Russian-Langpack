@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_CryostabilizedEngine.label>криостабилизированный генератор</GR_CryostabilizedEngine.label>
+  <GR_CryostabilizedEngine.description>The cryo-stabilized generator is a chemfuel generator that has been modified to accept cryogenically refrigerated fuel. Produces power by consuming cryofuel and must be fueled by hand.</GR_CryostabilizedEngine.description>
+  <GR_CryostabilizedEngine_Blueprint.label>cryo-stabilized generator (blueprint)</GR_CryostabilizedEngine_Blueprint.label>
+  <GR_CryostabilizedEngine_Frame.label>cryo-stabilized generator (building)</GR_CryostabilizedEngine_Frame.label>
+  <GR_CryostabilizedEngine_Frame.description>The cryo-stabilized generator is a chemfuel generator that has been modified to accept cryogenically refrigerated fuel. Produces power by consuming cryofuel and must be fueled by hand.</GR_CryostabilizedEngine_Frame.description>
+
+
+</LanguageData>

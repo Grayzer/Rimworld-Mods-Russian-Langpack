@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GotBredByAnimal.stages.0.label>изнасилован животным</GotBredByAnimal.stages.0.label>
+  <GotBredByAnimal.stages.0.description>Животное пыталось спариваться со мной...</GotBredByAnimal.stages.0.description>
+
+  <MasochistGotBredByAnimal.stages.0.label>изнасилован животным (Мазохист)</MasochistGotBredByAnimal.stages.0.label>
+  <MasochistGotBredByAnimal.stages.0.description>Животное спаривалось со мной. Я надеюсь все удалось!</MasochistGotBredByAnimal.stages.0.description>
+
+  <ZoophileGotBredByAnimal.stages.0.label>bred by animal (Zoophile)</ZoophileGotBredByAnimal.stages.0.label>
+  <ZoophileGotBredByAnimal.stages.0.description>An animal bred me.</ZoophileGotBredByAnimal.stages.0.description>
+
+  <GotLickedByAnimal.stages.0.label>raped by animal</GotLickedByAnimal.stages.0.label>
+  <GotLickedByAnimal.stages.0.description>An animal forced their tongue inside me.</GotLickedByAnimal.stages.0.description>
+
+  <MasochistGotLickedByAnimal.stages.0.label>raped by animal (Masochist)</MasochistGotLickedByAnimal.stages.0.label>
+  <MasochistGotLickedByAnimal.stages.0.description>An animal forced their tongue inside me. I kinda liked it...</MasochistGotLickedByAnimal.stages.0.description>
+
+  <ZoophileGotLickedByAnimal.stages.0.label>ravished by animal (Zoophile)</ZoophileGotLickedByAnimal.stages.0.label>
+  <ZoophileGotLickedByAnimal.stages.0.description>An animal ravished me.</ZoophileGotLickedByAnimal.stages.0.description>
+
+  <AllowedAnimalToLick.stages.0.label>licked by animal</AllowedAnimalToLick.stages.0.label>
+  <AllowedAnimalToLick.stages.0.description>I let an animal lick me. I feel ashamed, but kinda liked it...</AllowedAnimalToLick.stages.0.description>
+
+  <AllowedAnimalToBreed.stages.0.label>bred by animal</AllowedAnimalToBreed.stages.0.label>
+  <AllowedAnimalToBreed.stages.0.description>I was so horny that I let an animal mount me. I feel ashamed for enjoying it...</AllowedAnimalToBreed.stages.0.description>
+
+
+  <!-- Generic type for weirder animal stuff, these normally only happen if the player messes with the defaults too much -->
+
+  <GotGropedByAnimal.stages.0.label>molested by animal</GotGropedByAnimal.stages.0.label>
+  <GotGropedByAnimal.stages.0.description>An animal molested me. I feel dirty.</GotGropedByAnimal.stages.0.description>
+
+  <AllowedAnimalToGrope.stages.0.label>groped by animal</AllowedAnimalToGrope.stages.0.label>
+  <AllowedAnimalToGrope.stages.0.description>I was so horny that I let an animal grope me. I feel ashamed...</AllowedAnimalToGrope.stages.0.description>
+
+  <MasochistGotGropedByAnimal.stages.0.label>molested by animal (Masochist)</MasochistGotGropedByAnimal.stages.0.label>
+  <MasochistGotGropedByAnimal.stages.0.description>An animal molested me. I kinda liked it...</MasochistGotGropedByAnimal.stages.0.description>
+
+  <ZoophileGotGropedByAnimal.stages.0.label>molested by animal (Zoophile)</ZoophileGotGropedByAnimal.stages.0.label>
+  <ZoophileGotGropedByAnimal.stages.0.description>An animal ravished me.</ZoophileGotGropedByAnimal.stages.0.description>
+
+
+</LanguageData>

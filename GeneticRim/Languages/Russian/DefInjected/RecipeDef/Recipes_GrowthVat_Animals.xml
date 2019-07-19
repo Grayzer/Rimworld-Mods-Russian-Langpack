@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hybrid Implants Bases -->
+
+  <GR_CraftImplantSteelWireMesh.label>craft hybrid implant steel wire mesh (tier 1)</GR_CraftImplantSteelWireMesh.label>
+  <GR_CraftImplantSteelWireMesh.description>Craft hybrid implant steel wire mesh.</GR_CraftImplantSteelWireMesh.description>
+  <GR_CraftImplantSteelWireMesh.jobString>Building Implant Mesh</GR_CraftImplantSteelWireMesh.jobString>
+
+  <GR_CraftImplantPlasteelWireMesh.label>craft hybrid implant plasteel wire mesh (tier 2)</GR_CraftImplantPlasteelWireMesh.label>
+  <GR_CraftImplantPlasteelWireMesh.description>Craft hybrid implant plasteel wire mesh.</GR_CraftImplantPlasteelWireMesh.description>
+  <GR_CraftImplantPlasteelWireMesh.jobString>Building Implant Mesh</GR_CraftImplantPlasteelWireMesh.jobString>
+
+  <GR_CraftImplantUraniumWireMesh.label>craft hybrid implant uranium wire mesh (tier 3)</GR_CraftImplantUraniumWireMesh.label>
+  <GR_CraftImplantUraniumWireMesh.description>Craft hybrid implant uranium wire mesh.</GR_CraftImplantUraniumWireMesh.description>
+  <GR_CraftImplantUraniumWireMesh.jobString>Building Implant Mesh</GR_CraftImplantUraniumWireMesh.jobString>
+
+
+  <!-- Legs -->
+
+  <GR_BearLeg.label>animal Implant: bear leg (tier 1)</GR_BearLeg.label>
+  <GR_BearLeg.description>Craft a prosthetic animal leg strengthened with bear muscles, and ending in a powerful bear claw that adds a powerful melee attack.</GR_BearLeg.description>
+  <GR_BearLeg.jobString>Making bear leg implant.</GR_BearLeg.jobString>
+
+  <GR_LizardLeg.label>animal Implant: bionic lizard leg (tier 2)</GR_LizardLeg.label>
+  <GR_LizardLeg.description>Craft a bionic animal leg reinforced with tough lizard skin.</GR_LizardLeg.description>
+  <GR_LizardLeg.jobString>Making lizard leg implant.</GR_LizardLeg.jobString>
+
+  <GR_ThrumboLeg.label>animal Implant: bionic thrumbo leg (tier 3)</GR_ThrumboLeg.label>
+  <GR_ThrumboLeg.description>Craft a bionic animal leg reinforced with muscle tissue from a powerful thrumbo.</GR_ThrumboLeg.description>
+  <GR_ThrumboLeg.jobString>Making thrumbo leg implant.</GR_ThrumboLeg.jobString>
+
+
+  <!-- Tail -->
+
+  <GR_ScytherTail.label>animal Implant: scyther tail (tier 2)</GR_ScytherTail.label>
+  <GR_ScytherTail.description>Craft a scyther tail by attaching a scyther blade to an animal's tail. Uhmmm... where did you put all those old scyther blades? You asked around and no caravans seem to be trading them nowadays... Well, you will have to manufacture one using a cocktail of different genes. Note that only creatures with a natural tail can use this.</GR_ScytherTail.description>
+  <GR_ScytherTail.jobString>Making scyther tail implant.</GR_ScytherTail.jobString>
+
+  <GR_MechaTail.label>animal Implant: mechanoid tail (tier 3)</GR_MechaTail.label>
+  <GR_MechaTail.description>Craft an advanced mechanoid tail, even more powerful than the old scyther tail. Note that only creatures with a natural tail can use this.</GR_MechaTail.description>
+  <GR_MechaTail.jobString>Making mechanoid tail implant.</GR_MechaTail.jobString>
+
+
+  <!-- Eyes -->
+
+  <GR_CanidEye.label>animal Implant: canid eye (tier 1)</GR_CanidEye.label>
+  <GR_CanidEye.description>Craft an eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes.</GR_CanidEye.description>
+  <GR_CanidEye.jobString>Making canid eye implant.</GR_CanidEye.jobString>
+
+  <GR_InsectileEye.label>animal Implant: insectile eye (tier 2)</GR_InsectileEye.label>
+  <GR_InsectileEye.description>Craft a bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement.</GR_InsectileEye.description>
+  <GR_InsectileEye.jobString>Making insectile eye implant.</GR_InsectileEye.jobString>
+
+  <GR_ThrumboEye.label>animal Implant: bionic thrumbo eye (tier 3)</GR_ThrumboEye.label>
+  <GR_ThrumboEye.description>Craft a bionic eye reinforced with specialized photoreceptors from a powerful thrumbo.</GR_ThrumboEye.description>
+  <GR_ThrumboEye.jobString>Making thrumbo eye implant.</GR_ThrumboEye.jobString>
+
+
+  <!-- Ears -->
+
+  <GR_RodentEar.label>animal Implant: rodent ear (tier 1)</GR_RodentEar.label>
+  <GR_RodentEar.description>Craft an ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears.</GR_RodentEar.description>
+  <GR_RodentEar.jobString>Making rodent ear implant.</GR_RodentEar.jobString>
+
+  <GR_MothTympanalOrgan.label>animal Implant: moth tympanal organ (tier 2)</GR_MothTympanalOrgan.label>
+  <GR_MothTympanalOrgan.description>Craft a bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce.</GR_MothTympanalOrgan.description>
+  <GR_MothTympanalOrgan.jobString>Making moth tympanal organ implant.</GR_MothTympanalOrgan.jobString>
+
+  <GR_MechaReceptors.label>animal Implant: mechanoid auditory receptors (tier 3)</GR_MechaReceptors.label>
+  <GR_MechaReceptors.description>Craft mechanoid auditory receptors that can scan a really wide band of frequencies.</GR_MechaReceptors.description>
+  <GR_MechaReceptors.jobString>Making mechanoid auditory receptors implant.</GR_MechaReceptors.jobString>
+
+
+  <!-- Noses -->
+
+  <GR_RodentNose.label>animal Implant: rodent nose (tier 1)</GR_RodentNose.label>
+  <GR_RodentNose.description>Craft an implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects.</GR_RodentNose.description>
+  <GR_RodentNose.jobString>Making rodent nose implant.</GR_RodentNose.jobString>
+
+  <GR_InsectoidPheromones.label>animal Implant: insectoid pheromones (tier 2)</GR_InsectoidPheromones.label>
+  <GR_InsectoidPheromones.description>Craft an implant that uses genetic splicing with alien insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects.</GR_InsectoidPheromones.description>
+  <GR_InsectoidPheromones.jobString>Making insectoid pheromones implant.</GR_InsectoidPheromones.jobString>
+
+  <GR_MiniatureThrumboHorn.label>animal Implant: miniature thrumbo horn (tier 3)</GR_MiniatureThrumboHorn.label>
+  <GR_MiniatureThrumboHorn.description>Craft a bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant.</GR_MiniatureThrumboHorn.description>
+  <GR_MiniatureThrumboHorn.jobString>Making miniature thrumbo horn implant.</GR_MiniatureThrumboHorn.jobString>
+
+
+  <!-- Jaws -->
+
+  <GR_WolfJaws.label>animal Implant: wolf jaws (tier 1)</GR_WolfJaws.label>
+  <GR_WolfJaws.description>Craft an implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws.</GR_WolfJaws.description>
+  <GR_WolfJaws.jobString>Making wolf jaws implant.</GR_WolfJaws.jobString>
+
+  <GR_InsectMandibles.label>animal Implant: insect mandibles (tier 2)</GR_InsectMandibles.label>
+  <GR_InsectMandibles.description>Craft a bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offesive weapon</GR_InsectMandibles.description>
+  <GR_InsectMandibles.jobString>Making insect mandibles implant.</GR_InsectMandibles.jobString>
+
+  <GR_ThrumboJaws.label>animal Implant: bionic thrumbo jaws (tier 3)</GR_ThrumboJaws.label>
+  <GR_ThrumboJaws.description>Craft a bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task.</GR_ThrumboJaws.description>
+  <GR_ThrumboJaws.jobString>Making bionic thrumbo jaws implant.</GR_ThrumboJaws.jobString>
+
+
+  <!-- Spines -->
+
+  <GR_MuffaloSpine.label>animal Implant: muffalo spine (tier 1)</GR_MuffaloSpine.label>
+  <GR_MuffaloSpine.description>Craft a spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines.</GR_MuffaloSpine.description>
+  <GR_MuffaloSpine.jobString>Making muffalo spine implant.</GR_MuffaloSpine.jobString>
+
+  <GR_CrocodileSpine.label>animal Implant: crocodile spine (tier 2)</GR_CrocodileSpine.label>
+  <GR_CrocodileSpine.description>Craft a bionic implant adding a sturdy crocodile spine to the creature's skeletal system.</GR_CrocodileSpine.description>
+  <GR_CrocodileSpine.jobString>Making crocodile spine implant.</GR_CrocodileSpine.jobString>
+
+  <GR_MechaSpine.label>animal Implant: mechanoid spine (tier 3)</GR_MechaSpine.label>
+  <GR_MechaSpine.description>Craft a bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system.</GR_MechaSpine.description>
+  <GR_MechaSpine.jobString>Making mechanoid spine implant.</GR_MechaSpine.jobString>
+
+
+  <!-- Brain -->
+
+  <GR_ChickenBrains.label>animal Implant: chicken brains (tier 1)</GR_ChickenBrains.label>
+  <GR_ChickenBrains.description>Craft an implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures.</GR_ChickenBrains.description>
+  <GR_ChickenBrains.jobString>Making wolf jaws implant.</GR_ChickenBrains.jobString>
+
+  <GR_MonitorLizardBrain.label>animal Implant: monitor lizard brain (tier 2)</GR_MonitorLizardBrain.label>
+  <GR_MonitorLizardBrain.description>Craft a bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes.</GR_MonitorLizardBrain.description>
+  <GR_MonitorLizardBrain.jobString>Making monitor lizard brain implant.</GR_MonitorLizardBrain.jobString>
+
+  <GR_ThrumboBrain.label>animal Implant: bionic thrumbo brain (tier 3)</GR_ThrumboBrain.label>
+  <GR_ThrumboBrain.description>Craft a bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes.</GR_ThrumboBrain.description>
+  <GR_ThrumboBrain.jobString>Making bionic thrumbo brain implant.</GR_ThrumboBrain.jobString>
+
+
+  <!-- Hearts -->
+
+  <GR_BoomalopeHeart.label>animal Implant: boomalope heart (tier 1)</GR_BoomalopeHeart.label>
+  <GR_BoomalopeHeart.description>Craft an implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart.</GR_BoomalopeHeart.description>
+  <GR_BoomalopeHeart.jobString>Making boomalope heart implant.</GR_BoomalopeHeart.jobString>
+
+  <GR_ChitinousHeart.label>animal Implant: chitinous heart (tier 2)</GR_ChitinousHeart.label>
+  <GR_ChitinousHeart.description>Craft a bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise .</GR_ChitinousHeart.description>
+  <GR_ChitinousHeart.jobString>Making chitinous heart implant.</GR_ChitinousHeart.jobString>
+
+  <GR_MechaHeart.label>animal Implant: mechanoid heart (tier 3)</GR_MechaHeart.label>
+  <GR_MechaHeart.description>Craft a bionic heart strengthened by the action of active mechanites.</GR_MechaHeart.description>
+  <GR_MechaHeart.jobString>Making mechanoid heart implant.</GR_MechaHeart.jobString>
+
+
+  <!-- Lungs -->
+
+  <GR_MuffaloLung.label>animal Implant: muffalo lung (tier 1)</GR_MuffaloLung.label>
+  <GR_MuffaloLung.description>Craft an implant that uses muffalo genes to increase breathing capacity.</GR_MuffaloLung.description>
+  <GR_MuffaloLung.jobString>Making muffalo lung implant.</GR_MuffaloLung.jobString>
+
+
+  <!-- Liver -->
+
+  <GR_BearLiver.label>animal Implant: bear liver (tier 1)</GR_BearLiver.label>
+  <GR_BearLiver.description>Craft an implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens.</GR_BearLiver.description>
+  <GR_BearLiver.jobString>Making bear liver implant.</GR_BearLiver.jobString>
+
+
+  <!-- Kidney -->
+
+  <GR_ChickenKidney.label>animal Implant: chicken kidney (tier 1)</GR_ChickenKidney.label>
+  <GR_ChickenKidney.description>Craft an implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today.</GR_ChickenKidney.description>
+  <GR_ChickenKidney.jobString>Making chicken kidney implant.</GR_ChickenKidney.jobString>
+
+
+  <!-- Stomach -->
+
+  <GR_BoomalopeStomach.label>animal Implant: boomalope stomach (tier 1)</GR_BoomalopeStomach.label>
+  <GR_BoomalopeStomach.description>Craft an implant that uses boomalope genes to improve function of the stomach.</GR_BoomalopeStomach.description>
+  <GR_BoomalopeStomach.jobString>Making boomalope stomach implant.</GR_BoomalopeStomach.jobString>
+
+
+</LanguageData>

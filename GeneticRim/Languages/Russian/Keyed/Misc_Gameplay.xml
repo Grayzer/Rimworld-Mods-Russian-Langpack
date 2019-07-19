@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Item Production -->
+
+  <IncubatorProgress>Прогресс инкубатора</IncubatorProgress>
+  <ResourceGrowth>Рост ресурса</ResourceGrowth>
+  <FeatherGrowth>Рост пера</FeatherGrowth>
+  <JellyGrowth>Маточное молочко</JellyGrowth>
+  <VanillaJellyGrowth>Насыщенность желе</VanillaJellyGrowth>
+  <SacGrowth>Взрывной рост мешка</SacGrowth>
+  <SilkGrowth>Рост шелка</SilkGrowth>
+  <PoisonGrowth>Полнота яда</PoisonGrowth>
+  <SkinShed>Время распостранения кожи</SkinShed>
+  <TentacleGrowth>Обрезной рост щупальца</TentacleGrowth>
+  <JellyGrowth2>Жуткая насыщенность желе</JellyGrowth2>
+  <ChocolateEgg>Рост шоколадных яиц</ChocolateEgg>
+  <Cryofuel>Производство криотоплива</Cryofuel>
+  <ChemfuelProd>Производство химического топлива</ChemfuelProd>
+  <NeutroglycerinProd>Производство нейтроглицерина</NeutroglycerinProd>
+  <ComponentIndustrialDesc>Производство промышленных компонентов</ComponentIndustrialDesc>
+  <CastoreumProd>Кастореум производство</CastoreumProd>
+
+
+
+
+  <!-- Gene Pods Control -->
+
+  <GR_ExtractGenes>Опустошить бак 1</GR_ExtractGenes>
+  <GR_ExtractGenesDesc>Извлечь генетический материал из бака #1</GR_ExtractGenesDesc>
+
+  <GR_ExtractGenes2>Опустошить бак 2</GR_ExtractGenes2>
+  <GR_ExtractGenes2Desc>Извлечь генетический материал из бака #2</GR_ExtractGenes2Desc>
+
+  <GR_InsertGenes>Заполнить бак 1</GR_InsertGenes>
+  <GR_InsertGenesDesc>Поместить генетический материал в бак #1</GR_InsertGenesDesc>
+
+  <GR_InsertGenes2>Заполнить бак 2</GR_InsertGenes2>
+  <GR_InsertGenes2Desc>Поместить генетический материал в бак #2</GR_InsertGenes2Desc>
+
+  <GR_NoGenes>Генетический материал недоступен!</GR_NoGenes>
+
+  <GR_AllGenesNotPresent>Заполните оба резервуара генетическим материалом, чтобы начать обработку</GR_AllGenesNotPresent>
+  <GR_MixingGenes>Смешивание генетического материала. Прогресс:</GR_MixingGenes>
+
+
+
+
+
+  <!-- Creature Control Commands -->
+
+  <GR_CreatureMindControl>Управление разумом существа</GR_CreatureMindControl>
+  <GR_CreatureMindControlDesc>Используйте контроль сознания, чтобы расположить это существо по карте</GR_CreatureMindControlDesc>
+  <GR_CreatureRageAttack>Ярость атаки</GR_CreatureRageAttack>
+  <GR_CreatureRageAttackDesc>Отправить существо в кровожадном гневе против своей цели</GR_CreatureRageAttackDesc>
+  <GR_DetonateChemfuel>Детонировать химическое топливо</GR_DetonateChemfuel>
+  <GR_DetonateChemfuelDesc>Удаленно взорвать резервуары химического топлива этого существа. Это убивает бедного зверя, очевидно</GR_DetonateChemfuelDesc>
+  <GR_InflictChickenRimPox>Inflict Chicken RimPox</GR_InflictChickenRimPox>
+  <GR_InflictChickenRimPoxDesc>Атакует цель и вызывает куриную RimБолезнь изнурительное заболевание</GR_InflictChickenRimPoxDesc>
+  <GR_CarryMore>Перенос большего веса</GR_CarryMore>
+  <GR_CarryMoreDesc>Этот гибрид несет больший вес, чем обычно, из-за влияния центра контроля животных</GR_CarryMoreDesc>
+  <GR_StartAdrenalineBurst>Взрыв адреналина</GR_StartAdrenalineBurst>
+  <GR_StartAdrenalineBurstDesc>Заставляет существо двигаться некоторое время намного быстрее, за счет усталости в течение почти полдня</GR_StartAdrenalineBurstDesc>
+  <GR_ReleaseInsectClouds>Выпустить Облака Насекомых</GR_ReleaseInsectClouds>
+  <GR_ReleaseInsectCloudsDesc>Заставляет существо выпускать облака насекомых вокруг него, повреждая каждую пешку, которая не является гибридом насекомых</GR_ReleaseInsectCloudsDesc>
+  <GR_StartStampede>Старт Панического бегства</GR_StartStampede>
+  <GR_StartStampedeDesc>Панический бег, двигаясь быстрее и создавая пылевые облака, которые блокируют линию обзора для метательного оружия. Уставшее существо через некоторое время устает</GR_StartStampedeDesc>
+  <GR_CreatePoisonousCloud>Выпустить ядовитое облако</GR_CreatePoisonousCloud>
+  <GR_CreatePoisonousCloudDesc>Создает облако яда в локации цели</GR_CreatePoisonousCloudDesc>
+  <GR_StartBurrowing>Начать рыть</GR_StartBurrowing>
+  <GR_StartBurrowingDesc>Посылает существо под землю в роющий режим, что делает его очень устойчивым к урону на некоторое время</GR_StartBurrowingDesc>
+  <GR_StartStamina>Увеличение выносливости</GR_StartStamina>
+  <GR_StartStaminaDesc>Делает существо более устойчивым к урону на некоторое время</GR_StartStaminaDesc>
+  <GR_StartInvokingInsanity>Вызвать Безумие</GR_StartInvokingInsanity>
+  <GR_StartInvokingInsanityDesc>Призывает безумие того, что человек не хочет знать</GR_StartInvokingInsanityDesc>
+  <GR_StartMechaBlast>Меха Бласт</GR_StartMechaBlast>
+  <GR_StartMechaBlastDesc>Вентиляционные отверстия выходят из плиток, окружающих механоидный гибрид, сжигая все, что близко к нему</GR_StartMechaBlastDesc>
+  <GR_StartKeenSenses>Острые чувства</GR_StartKeenSenses>
+  <GR_StartKeenSensesDesc>Делает существо более осведомленным о его окружении, увеличивая его способности ближнего боя (влияет на зрение и сознание)</GR_StartKeenSensesDesc>
+  <GR_StartCatReflexes>Кошачьи Рефлексы</GR_StartCatReflexes>
+  <GR_StartCatReflexesDesc>Делает существо более ловким, улучшая его шанс уклониться от атак ближнего боя</GR_StartCatReflexesDesc>
+  <GR_Orbital>Орбитальный луч мощности</GR_Orbital>
+  <GR_OrbitalDesc>Это хорошее... существование у вас там. Было бы стыдно, если бы кто-то покончил с этим.</GR_OrbitalDesc>
+
+  <GR_AbilityRecharging>Способность перезаряжается. Проверьте вкладку здоровья животного</GR_AbilityRecharging>
+  <GR_PoisonCloudRange>Облако ядов имеет максимальную дальность действия 10. Станьте ближе к цели!</GR_PoisonCloudRange>
+  <GR_InvokingInsanityRange>Максимальный радиус действия Безумия 10. Стань ближе к цели!</GR_InvokingInsanityRange>
+
+
+
+  <!-- Misc -->
+
+  <GR_ANewCreatureWasBorn>Инкубатор готов!</GR_ANewCreatureWasBorn>
+  <GR_ANewCreatureWasBornMutant>Инкубатор создал сущ ... Подождите, что это такое???</GR_ANewCreatureWasBornMutant>
+  <GR_CantUseMoreGenetrainers>Генетрейнер был потрачен впустую. К этому колонисту уже применен генетрейнер.</GR_CantUseMoreGenetrainers>
+  <GR_CommandArchotechReport>Показать отчет по проекту</GR_CommandArchotechReport>
+  <GR_CommandArchotechReportDesc>Покажите отчет о готовности к проекту сороконожки archotech.</GR_CommandArchotechReportDesc>
+  <GR_CommandArchotechStartup>Начать проект archotech</GR_CommandArchotechStartup>
+  <GR_CommandArchotechStartupDesc>Активируйте строительную платформу archotech, чтобы начать проект сороконожки archotech.</GR_CommandArchotechStartupDesc>
+  <GR_ArchotechProjectText>Вы готовы начать проект сороконожки archotech.\n\nЭтот процесс займет около 15 дней, и энергетическая сигнатура будет обнаружена на большом расстоянии. Этот вид энергетической подписи указывает на то, что кто-то вмешивается в технологии, выходящие далеко за пределы человеческого понимания, и привлечет банды отчаянных рейдеров и рой смертельных механоидов.\n\nНа вас нападут с такой интенсивностью, которую вы никогда не видели. Сначала убедитесь, что ваша защита подготовлена.\n\nОбратите внимание, что вам все равно понадобится подключить все здания проекта к платформе, чтобы активировать многоножку archotech.</GR_ArchotechProjectText>
+  <GR_ArchotechProjectLaunch>Активировать многоножку archotech</GR_ArchotechProjectLaunch>
+  <GR_ArchotechProjectLaunchDesc>Активируйте многоножку archotech, чтобы уничтожить своих врагов. Или убить всех, включая всех колонистов. Сейчас пятьдесят на пятьдесят.</GR_ArchotechProjectLaunchDesc>
+
+  <GR_ArchotechReportCannotLaunch>Невозможно активировать Многоножку Archotech.</GR_ArchotechReportCannotLaunch>
+  <GR_ArchotechReportCanLaunch>Готов активировать Archotech Многоножку.</GR_ArchotechReportCanLaunch>
+
+  <GR_GameOverArchotech>Вы активировали проект Archotech! Эти колонисты присутствовали на пробуждении archotech:\n\n{0}\n\nМногоножка Archotech теперь находится под их контролем, и вы можете уничтожать своих врагов и контролировать планету без сопротивления.\n\nПоздравляем, вы выиграли игру с модом Genetic Rim!</GR_GameOverArchotech>
+
+
+
+  <!-- Settings -->
+
+  <GR_useLeglessGraphics>Снимите этот флажок, чтобы использовать альтернативную графику без ног для ВСЕХ генетических гибридов (обновление занимает несколько секунд)</GR_useLeglessGraphics>
+  <GR_IncubatorFailureRate>Частота отказов инкубатора (по умолчанию 10%)</GR_IncubatorFailureRate>
+
+
+  <!-- This isn't used for now -->
+
+  <AccAgeProg>Ускоренный прогресс старения</AccAgeProg>
+  <CannotCarryToAccelerationPod>Невозможно ускорить старение в капсуле</CannotCarryToAccelerationPod>
+  <NoAccelerationPod>Не найден действительный модуль ускорения возраста</NoAccelerationPod>
+
+
+</LanguageData>

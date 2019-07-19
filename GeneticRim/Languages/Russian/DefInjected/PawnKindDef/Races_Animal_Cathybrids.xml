@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cat - Bear -->
+
+  <GR_Catbear.label>котведь</GR_Catbear.label>
+  <GR_Catbear.labelPlural>котведи</GR_Catbear.labelPlural>
+  <GR_Catbear.lifeStages.0.label>котенок котведя</GR_Catbear.lifeStages.0.label>
+  <GR_Catbear.lifeStages.0.labelPlural>котята котведя</GR_Catbear.lifeStages.0.labelPlural>
+  <GR_Catbear.lifeStages.0.labelMale>котенок котведя</GR_Catbear.lifeStages.0.labelMale>
+  <GR_Catbear.lifeStages.0.labelMalePlural>котята котведя</GR_Catbear.lifeStages.0.labelMalePlural>
+  <GR_Catbear.lifeStages.0.labelFemale>кошечка котведя</GR_Catbear.lifeStages.0.labelFemale>
+  <GR_Catbear.lifeStages.0.labelFemalePlural>кошечки котведя</GR_Catbear.lifeStages.0.labelFemalePlural>
+  <GR_Catbear.lifeStages.1.label>котведь</GR_Catbear.lifeStages.1.label>
+  <GR_Catbear.lifeStages.1.labelPlural>котведь</GR_Catbear.lifeStages.1.labelPlural>
+  <GR_Catbear.lifeStages.1.labelMale>котведь</GR_Catbear.lifeStages.1.labelMale>
+  <GR_Catbear.lifeStages.1.labelMalePlural>котведи</GR_Catbear.lifeStages.1.labelMalePlural>
+  <GR_Catbear.lifeStages.1.labelFemale>котведица</GR_Catbear.lifeStages.1.labelFemale>
+  <GR_Catbear.lifeStages.1.labelFemalePlural>котведицы</GR_Catbear.lifeStages.1.labelFemalePlural>
+  <GR_Catbear.lifeStages.2.label>котведь</GR_Catbear.lifeStages.2.label>
+  <GR_Catbear.lifeStages.2.labelPlural>котведь</GR_Catbear.lifeStages.2.labelPlural>
+  <GR_Catbear.lifeStages.2.labelMale>котведь</GR_Catbear.lifeStages.2.labelMale>
+  <GR_Catbear.lifeStages.2.labelMalePlural>котведи</GR_Catbear.lifeStages.2.labelMalePlural>
+  <GR_Catbear.lifeStages.2.labelFemale>котведица</GR_Catbear.lifeStages.2.labelFemale>
+  <GR_Catbear.lifeStages.2.labelFemalePlural>котведицы</GR_Catbear.lifeStages.2.labelFemalePlural>
+  <GR_Catbear.labelMale>котведь</GR_Catbear.labelMale>
+  <GR_Catbear.labelMalePlural>котведи</GR_Catbear.labelMalePlural>
+  <GR_Catbear.labelFemale>котведица</GR_Catbear.labelFemale>
+  <GR_Catbear.labelFemalePlural>котведицы</GR_Catbear.labelFemalePlural>
+
+
+  <!-- Cat - Boomalope -->
+
+  <GR_Catalope.label>коталопа</GR_Catalope.label>
+  <GR_Catalope.labelPlural>коталопы</GR_Catalope.labelPlural>
+  <GR_Catalope.lifeStages.0.label>котенок коталопы</GR_Catalope.lifeStages.0.label>
+  <GR_Catalope.lifeStages.0.labelPlural>котята коталопы</GR_Catalope.lifeStages.0.labelPlural>
+  <GR_Catalope.lifeStages.0.labelMale>котенок коталопы</GR_Catalope.lifeStages.0.labelMale>
+  <GR_Catalope.lifeStages.0.labelMalePlural>котята коталопы</GR_Catalope.lifeStages.0.labelMalePlural>
+  <GR_Catalope.lifeStages.0.labelFemale>кошечка коталопы</GR_Catalope.lifeStages.0.labelFemale>
+  <GR_Catalope.lifeStages.0.labelFemalePlural>кошечки коталопы</GR_Catalope.lifeStages.0.labelFemalePlural>
+  <GR_Catalope.lifeStages.1.label>коталопа</GR_Catalope.lifeStages.1.label>
+  <GR_Catalope.lifeStages.1.labelPlural>коталопа</GR_Catalope.lifeStages.1.labelPlural>
+  <GR_Catalope.lifeStages.1.labelMale>коталоп</GR_Catalope.lifeStages.1.labelMale>
+  <GR_Catalope.lifeStages.1.labelMalePlural>коталопы</GR_Catalope.lifeStages.1.labelMalePlural>
+  <GR_Catalope.lifeStages.1.labelFemale>коталопа</GR_Catalope.lifeStages.1.labelFemale>
+  <GR_Catalope.lifeStages.1.labelFemalePlural>коталопки</GR_Catalope.lifeStages.1.labelFemalePlural>
+  <GR_Catalope.lifeStages.2.label>коталопа</GR_Catalope.lifeStages.2.label>
+  <GR_Catalope.lifeStages.2.labelPlural>коталопа</GR_Catalope.lifeStages.2.labelPlural>
+  <GR_Catalope.lifeStages.2.labelMale>коталоп</GR_Catalope.lifeStages.2.labelMale>
+  <GR_Catalope.lifeStages.2.labelMalePlural>коталопы</GR_Catalope.lifeStages.2.labelMalePlural>
+  <GR_Catalope.lifeStages.2.labelFemale>коталопа</GR_Catalope.lifeStages.2.labelFemale>
+  <GR_Catalope.lifeStages.2.labelFemalePlural>коталопки</GR_Catalope.lifeStages.2.labelFemalePlural>
+  <GR_Catalope.labelMale>коталоп</GR_Catalope.labelMale>
+  <GR_Catalope.labelMalePlural>коталопы</GR_Catalope.labelMalePlural>
+  <GR_Catalope.labelFemale>коталопа</GR_Catalope.labelFemale>
+  <GR_Catalope.labelFemalePlural>коталопки</GR_Catalope.labelFemalePlural>
+
+
+  <!-- Cat - Chicken -->
+
+  <GR_Catchicken.label>котакур</GR_Catchicken.label>
+  <GR_Catchicken.labelPlural>котакуры</GR_Catchicken.labelPlural>
+  <GR_Catchicken.lifeStages.0.label>котенок котакура</GR_Catchicken.lifeStages.0.label>
+  <GR_Catchicken.lifeStages.0.labelPlural>котята котакура</GR_Catchicken.lifeStages.0.labelPlural>
+  <GR_Catchicken.lifeStages.0.labelMale>котенок котакура</GR_Catchicken.lifeStages.0.labelMale>
+  <GR_Catchicken.lifeStages.0.labelMalePlural>котята котакура</GR_Catchicken.lifeStages.0.labelMalePlural>
+  <GR_Catchicken.lifeStages.0.labelFemale>кошечка котакура</GR_Catchicken.lifeStages.0.labelFemale>
+  <GR_Catchicken.lifeStages.0.labelFemalePlural>кошечки котакура</GR_Catchicken.lifeStages.0.labelFemalePlural>
+  <GR_Catchicken.lifeStages.1.label>котакур</GR_Catchicken.lifeStages.1.label>
+  <GR_Catchicken.lifeStages.1.labelPlural>котакур</GR_Catchicken.lifeStages.1.labelPlural>
+  <GR_Catchicken.lifeStages.1.labelMale>котакур</GR_Catchicken.lifeStages.1.labelMale>
+  <GR_Catchicken.lifeStages.1.labelMalePlural>котакуры</GR_Catchicken.lifeStages.1.labelMalePlural>
+  <GR_Catchicken.lifeStages.1.labelFemale>котакура</GR_Catchicken.lifeStages.1.labelFemale>
+  <GR_Catchicken.lifeStages.1.labelFemalePlural>котакуры</GR_Catchicken.lifeStages.1.labelFemalePlural>
+  <GR_Catchicken.lifeStages.2.label>котакур</GR_Catchicken.lifeStages.2.label>
+  <GR_Catchicken.lifeStages.2.labelPlural>котакур</GR_Catchicken.lifeStages.2.labelPlural>
+  <GR_Catchicken.lifeStages.2.labelMale>котакур</GR_Catchicken.lifeStages.2.labelMale>
+  <GR_Catchicken.lifeStages.2.labelMalePlural>котакуры</GR_Catchicken.lifeStages.2.labelMalePlural>
+  <GR_Catchicken.lifeStages.2.labelFemale>котакура</GR_Catchicken.lifeStages.2.labelFemale>
+  <GR_Catchicken.lifeStages.2.labelFemalePlural>котакуры</GR_Catchicken.lifeStages.2.labelFemalePlural>
+  <GR_Catchicken.labelMale>котакур</GR_Catchicken.labelMale>
+  <GR_Catchicken.labelMalePlural>котакуры</GR_Catchicken.labelMalePlural>
+  <GR_Catchicken.labelFemale>котакура</GR_Catchicken.labelFemale>
+  <GR_Catchicken.labelFemalePlural>котакуры</GR_Catchicken.labelFemalePlural>
+
+
+  <!-- Cat - Muffalo -->
+
+  <GR_Catfallo.label>котофалло</GR_Catfallo.label>
+  <GR_Catfallo.labelPlural>котофаллы</GR_Catfallo.labelPlural>
+  <GR_Catfallo.lifeStages.0.label>котенок котофалло</GR_Catfallo.lifeStages.0.label>
+  <GR_Catfallo.lifeStages.0.labelPlural>котята котофалло</GR_Catfallo.lifeStages.0.labelPlural>
+  <GR_Catfallo.lifeStages.0.labelMale>котенок котофалло</GR_Catfallo.lifeStages.0.labelMale>
+  <GR_Catfallo.lifeStages.0.labelMalePlural>котята котофалло</GR_Catfallo.lifeStages.0.labelMalePlural>
+  <GR_Catfallo.lifeStages.0.labelFemale>кошечка котофалло</GR_Catfallo.lifeStages.0.labelFemale>
+  <GR_Catfallo.lifeStages.0.labelFemalePlural>кошечки котофалло</GR_Catfallo.lifeStages.0.labelFemalePlural>
+  <GR_Catfallo.lifeStages.1.label>котофалло</GR_Catfallo.lifeStages.1.label>
+  <GR_Catfallo.lifeStages.1.labelPlural>котофалло</GR_Catfallo.lifeStages.1.labelPlural>
+  <GR_Catfallo.lifeStages.1.labelMale>котофалл</GR_Catfallo.lifeStages.1.labelMale>
+  <GR_Catfallo.lifeStages.1.labelMalePlural>котофаллы</GR_Catfallo.lifeStages.1.labelMalePlural>
+  <GR_Catfallo.lifeStages.1.labelFemale>котофалла</GR_Catfallo.lifeStages.1.labelFemale>
+  <GR_Catfallo.lifeStages.1.labelFemalePlural>котофаллы</GR_Catfallo.lifeStages.1.labelFemalePlural>
+  <GR_Catfallo.lifeStages.2.label>котофалло</GR_Catfallo.lifeStages.2.label>
+  <GR_Catfallo.lifeStages.2.labelPlural>котофалло</GR_Catfallo.lifeStages.2.labelPlural>
+  <GR_Catfallo.lifeStages.2.labelMale>котофалл</GR_Catfallo.lifeStages.2.labelMale>
+  <GR_Catfallo.lifeStages.2.labelMalePlural>котофаллы</GR_Catfallo.lifeStages.2.labelMalePlural>
+  <GR_Catfallo.lifeStages.2.labelFemale>котофалла</GR_Catfallo.lifeStages.2.labelFemale>
+  <GR_Catfallo.lifeStages.2.labelFemalePlural>котофаллы</GR_Catfallo.lifeStages.2.labelFemalePlural>
+  <GR_Catfallo.labelMale>котофалл</GR_Catfallo.labelMale>
+  <GR_Catfallo.labelMalePlural>котофаллы</GR_Catfallo.labelMalePlural>
+  <GR_Catfallo.labelFemale>котофалла</GR_Catfallo.labelFemale>
+  <GR_Catfallo.labelFemalePlural>котофаллы</GR_Catfallo.labelFemalePlural>
+
+
+  <!-- Cat - Rabbit -->
+
+  <GR_Catrabbit.label>котозаяц</GR_Catrabbit.label>
+  <GR_Catrabbit.labelPlural>котозайцы</GR_Catrabbit.labelPlural>
+  <GR_Catrabbit.lifeStages.0.label>котенок котозайца</GR_Catrabbit.lifeStages.0.label>
+  <GR_Catrabbit.lifeStages.0.labelPlural>котята котозайца</GR_Catrabbit.lifeStages.0.labelPlural>
+  <GR_Catrabbit.lifeStages.0.labelMale>котенок котозайца</GR_Catrabbit.lifeStages.0.labelMale>
+  <GR_Catrabbit.lifeStages.0.labelMalePlural>котята котозайца</GR_Catrabbit.lifeStages.0.labelMalePlural>
+  <GR_Catrabbit.lifeStages.0.labelFemale>кошечка котозайца</GR_Catrabbit.lifeStages.0.labelFemale>
+  <GR_Catrabbit.lifeStages.0.labelFemalePlural>кошечки котозайца</GR_Catrabbit.lifeStages.0.labelFemalePlural>
+  <GR_Catrabbit.lifeStages.1.label>котозаяц</GR_Catrabbit.lifeStages.1.label>
+  <GR_Catrabbit.lifeStages.1.labelPlural>котозаяц</GR_Catrabbit.lifeStages.1.labelPlural>
+  <GR_Catrabbit.lifeStages.1.labelMale>котозаяц</GR_Catrabbit.lifeStages.1.labelMale>
+  <GR_Catrabbit.lifeStages.1.labelMalePlural>котозайцы</GR_Catrabbit.lifeStages.1.labelMalePlural>
+  <GR_Catrabbit.lifeStages.1.labelFemale>котозайчиха</GR_Catrabbit.lifeStages.1.labelFemale>
+  <GR_Catrabbit.lifeStages.1.labelFemalePlural>котозайчихи</GR_Catrabbit.lifeStages.1.labelFemalePlural>
+  <GR_Catrabbit.lifeStages.2.label>котозаяц</GR_Catrabbit.lifeStages.2.label>
+  <GR_Catrabbit.lifeStages.2.labelPlural>котозаяц</GR_Catrabbit.lifeStages.2.labelPlural>
+  <GR_Catrabbit.lifeStages.2.labelMale>котозаяц</GR_Catrabbit.lifeStages.2.labelMale>
+  <GR_Catrabbit.lifeStages.2.labelMalePlural>котозайцы</GR_Catrabbit.lifeStages.2.labelMalePlural>
+  <GR_Catrabbit.lifeStages.2.labelFemale>котозайчиха</GR_Catrabbit.lifeStages.2.labelFemale>
+  <GR_Catrabbit.lifeStages.2.labelFemalePlural>котозайчихи</GR_Catrabbit.lifeStages.2.labelFemalePlural>
+  <GR_Catrabbit.labelMale>котозаяц</GR_Catrabbit.labelMale>
+  <GR_Catrabbit.labelMalePlural>котозайцы</GR_Catrabbit.labelMalePlural>
+  <GR_Catrabbit.labelFemale>котозайчиха</GR_Catrabbit.labelFemale>
+  <GR_Catrabbit.labelFemalePlural>котозайчихи</GR_Catrabbit.labelFemalePlural>
+
+
+  <!-- Cat - Wolf -->
+
+  <GR_Catwolf.label>котоволк</GR_Catwolf.label>
+  <GR_Catwolf.labelPlural>котоволки</GR_Catwolf.labelPlural>
+  <GR_Catwolf.lifeStages.0.label>котенок котоволка</GR_Catwolf.lifeStages.0.label>
+  <GR_Catwolf.lifeStages.0.labelPlural>котята котоволка</GR_Catwolf.lifeStages.0.labelPlural>
+  <GR_Catwolf.lifeStages.0.labelMale>котенок котоволка</GR_Catwolf.lifeStages.0.labelMale>
+  <GR_Catwolf.lifeStages.0.labelMalePlural>котята котоволка</GR_Catwolf.lifeStages.0.labelMalePlural>
+  <GR_Catwolf.lifeStages.0.labelFemale>кошечка котоволка</GR_Catwolf.lifeStages.0.labelFemale>
+  <GR_Catwolf.lifeStages.0.labelFemalePlural>кошечки котоволка</GR_Catwolf.lifeStages.0.labelFemalePlural>
+  <GR_Catwolf.lifeStages.1.label>котоволк</GR_Catwolf.lifeStages.1.label>
+  <GR_Catwolf.lifeStages.1.labelPlural>котоволк</GR_Catwolf.lifeStages.1.labelPlural>
+  <GR_Catwolf.lifeStages.1.labelMale>котоволк</GR_Catwolf.lifeStages.1.labelMale>
+  <GR_Catwolf.lifeStages.1.labelMalePlural>котоволки</GR_Catwolf.lifeStages.1.labelMalePlural>
+  <GR_Catwolf.lifeStages.1.labelFemale>котоволчица</GR_Catwolf.lifeStages.1.labelFemale>
+  <GR_Catwolf.lifeStages.1.labelFemalePlural>котоволчицы</GR_Catwolf.lifeStages.1.labelFemalePlural>
+  <GR_Catwolf.lifeStages.2.label>котоволк</GR_Catwolf.lifeStages.2.label>
+  <GR_Catwolf.lifeStages.2.labelPlural>котоволк</GR_Catwolf.lifeStages.2.labelPlural>
+  <GR_Catwolf.lifeStages.2.labelMale>котоволк</GR_Catwolf.lifeStages.2.labelMale>
+  <GR_Catwolf.lifeStages.2.labelMalePlural>котоволки</GR_Catwolf.lifeStages.2.labelMalePlural>
+  <GR_Catwolf.lifeStages.2.labelFemale>котоволчица</GR_Catwolf.lifeStages.2.labelFemale>
+  <GR_Catwolf.lifeStages.2.labelFemalePlural>котоволчицы</GR_Catwolf.lifeStages.2.labelFemalePlural>
+  <GR_Catwolf.labelMale>котоволк</GR_Catwolf.labelMale>
+  <GR_Catwolf.labelMalePlural>котоволки</GR_Catwolf.labelMalePlural>
+  <GR_Catwolf.labelFemale>котоволчица</GR_Catwolf.labelFemale>
+  <GR_Catwolf.labelFemalePlural>котоволчицы</GR_Catwolf.labelFemalePlural>
+
+
+</LanguageData>

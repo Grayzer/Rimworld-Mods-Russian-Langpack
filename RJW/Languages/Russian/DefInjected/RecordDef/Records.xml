@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Counts masturbation -->
+
+  <CountOfFappin.label>masturbatin' done</CountOfFappin.label>
+  <CountOfFappin.description>The number of times I masturbated.</CountOfFappin.description>
+
+
+  <!-- Counts all sex -->
+
+  <CountOfSex.label>lovin' made</CountOfSex.label>
+  <CountOfSex.description>The number of sex I had.</CountOfSex.description>
+
+
+  <!-- Counts all sex + rapes -->
+
+  <CountOfSexWithHumanlikes.label>humanlikes loved</CountOfSexWithHumanlikes.label>
+  <CountOfSexWithHumanlikes.description>The number of sex I had with humanlikes.</CountOfSexWithHumanlikes.description>
+
+  <CountOfSexWithAnimals.label>animals loved</CountOfSexWithAnimals.label>
+  <CountOfSexWithAnimals.description>The number of sex I had with animals.</CountOfSexWithAnimals.description>
+
+  <CountOfSexWithInsects.label>insects loved</CountOfSexWithInsects.label>
+  <CountOfSexWithInsects.description>The number of sex I had with insects.</CountOfSexWithInsects.description>
+
+  <CountOfSexWithOthers.label>other loved</CountOfSexWithOthers.label>
+  <CountOfSexWithOthers.description>The number of sex I had with weird stuff.</CountOfSexWithOthers.description>
+
+  <CountOfSexWithCorpse.label>corpses raped</CountOfSexWithCorpse.label>
+  <CountOfSexWithCorpse.description>The number of times I raped corpses.</CountOfSexWithCorpse.description>
+
+
+  <!-- Counts rapes -->
+
+  <CountOfRapedHumanlikes.label>rapes done</CountOfRapedHumanlikes.label>
+  <CountOfRapedHumanlikes.description>The number of times I raped humanlikes.</CountOfRapedHumanlikes.description>
+
+  <CountOfRapedAnimals.label>animals raped</CountOfRapedAnimals.label>
+  <CountOfRapedAnimals.description>The number of times I raped animals.</CountOfRapedAnimals.description>
+
+  <CountOfRapedInsects.label>insects raped</CountOfRapedInsects.label>
+  <CountOfRapedInsects.description>The number of times I raped insects.</CountOfRapedInsects.description>
+
+  <CountOfRapedOthers.label>humanlikes raped</CountOfRapedOthers.label>
+  <CountOfRapedOthers.description>The number of times I raped weird stuff.</CountOfRapedOthers.description>
+
+  <CountOfBeenRapedByHumanlikes.label>rapes (by humanlikes) experienced</CountOfBeenRapedByHumanlikes.label>
+  <CountOfBeenRapedByHumanlikes.description>The number of times I got raped by humanlikes.</CountOfBeenRapedByHumanlikes.description>
+
+  <CountOfBeenRapedByAnimals.label>rapes (by animals) experienced</CountOfBeenRapedByAnimals.label>
+  <CountOfBeenRapedByAnimals.description>The number of times I got bred by animals.</CountOfBeenRapedByAnimals.description>
+
+  <CountOfBeenRapedByInsects.label>rapes (by insects) experienced</CountOfBeenRapedByInsects.label>
+  <CountOfBeenRapedByInsects.description>The number of times I got raped by insects.</CountOfBeenRapedByInsects.description>
+
+  <CountOfBeenRapedByOthers.label>rapes (by other) experienced</CountOfBeenRapedByOthers.label>
+  <CountOfBeenRapedByOthers.description>The number of times I got raped by weird stuff.</CountOfBeenRapedByOthers.description>
+
+  <GetRapedAsComfortPrisoner.label>rapes experienced as a designation target</GetRapedAsComfortPrisoner.label>
+  <GetRapedAsComfortPrisoner.description>The number of times I got raped as a comfort prisoner/colonist.</GetRapedAsComfortPrisoner.description>
+
+
+  <!-- Counts whore stuff -->
+
+  <CountOfWhore.label>whorin'</CountOfWhore.label>
+  <CountOfWhore.description>The number of times I whored myself.</CountOfWhore.description>
+
+  <EarnedMoneyByWhore.label>silvers earned as a whore</EarnedMoneyByWhore.label>
+  <EarnedMoneyByWhore.description>The amount of silvers I have earned as a whore.</EarnedMoneyByWhore.description>
+
+
+  <!-- Counts birthing -->
+
+  <CountOfBirthHuman.label>count of birth</CountOfBirthHuman.label>
+  <CountOfBirthHuman.description>How many humanlikes I has birthed.</CountOfBirthHuman.description>
+
+  <CountOfBirthAnimal.label>count of animal birth</CountOfBirthAnimal.label>
+  <CountOfBirthAnimal.description>How many animals I has birthed.</CountOfBirthAnimal.description>
+
+  <CountOfBirthInsect.label>count of insect birth</CountOfBirthInsect.label>
+  <CountOfBirthInsect.description>How many insects I has birthed.</CountOfBirthInsect.description>
+
+
+</LanguageData>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Reptile - Bear -->
+
+  <GR_Bearodile.label>bearodile</GR_Bearodile.label>
+  <GR_Bearodile.description>A reptile / bear hybrid. The reptilian genes used to generate this hybrid have given it some ancient reptilian characteristics, with an appearance similar to reptiles in the Permian Period on Earth. It has also developed a venomous bite.\n\nUseful abilities: Highly intelligent and venomous. Excellent base defender if properly trained.</GR_Bearodile.description>
+  <GR_Bearodile.tools.0.label>left claw</GR_Bearodile.tools.0.label>
+  <GR_Bearodile.tools.1.label>right claw</GR_Bearodile.tools.1.label>
+  <GR_Bearodile.tools.3.label>head</GR_Bearodile.tools.3.label>
+  <!-- Use Leather From: Bear_Grizzly -->
+  <!-- Use Meat From: Bear_Grizzly -->
+  <GR_Bearodile_Corpse.label>bearodile corpse</GR_Bearodile_Corpse.label>
+  <GR_Bearodile_Corpse.description>bearodile corpse</GR_Bearodile_Corpse.description>
+
+
+  <!-- Reptile - Boomalope -->
+
+  <GR_Boomsnake.label>boomsnake</GR_Boomsnake.label>
+  <GR_Boomsnake.description>A reptile / boomalope hybrid. The boomsnake is not a very strong or agile combatant. However, when it dies it explodes in a noxious cloud of venomous vapors, which can be strong enough to dissolve flesh.\n\nUseful abilities: Its toxic explosion can easily decimate an enemy raid if properly timed. Doesn't produce chemfuel.</GR_Boomsnake.description>
+  <GR_Boomsnake.tools.1.label>head</GR_Boomsnake.tools.1.label>
+  <!-- Use Leather From: Boomalope -->
+  <!-- Use Meat From: Boomalope -->
+  <GR_Boomsnake_Corpse.label>boomsnake corpse</GR_Boomsnake_Corpse.label>
+  <GR_Boomsnake_Corpse.description>boomsnake corpse</GR_Boomsnake_Corpse.description>
+
+
+  <!-- Reptile - Chicken -->
+
+  <GR_Chickenlizard.label>chickenlizard</GR_Chickenlizard.label>
+  <GR_Chickenlizard.description>A reptile / chicken hybrid. This reptilian chicken has a slightly venomous bite. Not very powerful, but considering how fast chickens breed, a horde of chickenlizards might be enough to overpower a much bigger creature with their venom.\n\nUseful abilities: Small, fast breeding, venomous chickens.</GR_Chickenlizard.description>
+  <GR_Chickenlizard.tools.0.label>claws</GR_Chickenlizard.tools.0.label>
+  <GR_Chickenlizard.tools.2.label>head</GR_Chickenlizard.tools.2.label>
+  <!-- Use Leather From: Chicken -->
+  <!-- Use Meat From: Chicken -->
+  <GR_Chickenlizard_Corpse.label>chickenlizard corpse</GR_Chickenlizard_Corpse.label>
+  <GR_Chickenlizard_Corpse.description>chickenlizard corpse</GR_Chickenlizard_Corpse.description>
+
+
+  <!-- Reptile - Muffalo -->
+
+  <GR_Muffalokomodo.label>muffalokomodo</GR_Muffalokomodo.label>
+  <GR_Muffalokomodo.description>A reptile / muffalo hybrid. This resilient beast can carry more weight than a regular muffalo, and has a powerful venomous bite.\n\nUseful abilities: Regularly produces enough venomous saliva to fill an ampoule with a powerful poison, which acts as a potent muscle paralysing agent.</GR_Muffalokomodo.description>
+  <!-- Use Leather From: Muffalo -->
+  <!-- Use Meat From: Muffalo -->
+  <GR_Muffalokomodo_Corpse.label>muffalokomodo corpse</GR_Muffalokomodo_Corpse.label>
+  <GR_Muffalokomodo_Corpse.description>muffalokomodo corpse</GR_Muffalokomodo_Corpse.description>
+
+
+  <!-- Reptile - Insectoid -->
+
+  <GR_Spidersnake.label>spidersnake</GR_Spidersnake.label>
+  <GR_Spidersnake.description>A reptile / insectoid hybrid. This venomous, armoured snake, can be very dangerous in high enough numbers. Strangely, they don't seem particularly attracted to hugging any faces.\n\nUseful abilities: Regularly produces Spidersnake shed skin, which can be processed in a drug lab into small amounts of neutroamine.</GR_Spidersnake.description>
+  <GR_Spidersnake.tools.1.label>head</GR_Spidersnake.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Cobra -->
+  <GR_Spidersnake_Corpse.label>spidersnake corpse</GR_Spidersnake_Corpse.label>
+  <GR_Spidersnake_Corpse.description>spidersnake corpse</GR_Spidersnake_Corpse.description>
+
+
+  <!-- Reptile - Thrumbo -->
+
+  <GR_Thrumbolizard.label>thrumbolizard</GR_Thrumbolizard.label>
+  <GR_Thrumbolizard.description>A reptile / thrumbo hybrid. A massive, crocodilian creature with incredibly powerful jaws and a rabid venom. \n\nUseful abilities: Regularly produces enough venom to fill small ampoules. Thrumbolizard poison is 100% lethal, and there is no antidote that could act fast enough.</GR_Thrumbolizard.description>
+  <GR_Thrumbolizard.tools.0.label>horn</GR_Thrumbolizard.tools.0.label>
+  <GR_Thrumbolizard.tools.2.label>left foot</GR_Thrumbolizard.tools.2.label>
+  <GR_Thrumbolizard.tools.3.label>right foot</GR_Thrumbolizard.tools.3.label>
+  <GR_Thrumbolizard.tools.4.label>head</GR_Thrumbolizard.tools.4.label>
+  <!-- Use Leather From: Thrumbo -->
+  <!-- Use Meat From: Thrumbo -->
+  <GR_Thrumbolizard_Corpse.label>thrumbolizard corpse</GR_Thrumbolizard_Corpse.label>
+  <GR_Thrumbolizard_Corpse.description>thrumbolizard corpse</GR_Thrumbolizard_Corpse.description>
+
+
+  <!-- Reptile - Wolf -->
+
+  <GR_Wolfsnake.label>wolfsnake</GR_Wolfsnake.label>
+  <GR_Wolfsnake.description>A reptile / wolf hybrid. These serpentine predators are fast as lightning, and armed with a powerful, venomous bite. \n\nSpeed and poison make for a very effective base defender. Sheds wolfsnake skin from time to time.</GR_Wolfsnake.description>
+  <GR_Wolfsnake.tools.0.label>left claw</GR_Wolfsnake.tools.0.label>
+  <GR_Wolfsnake.tools.1.label>right claw</GR_Wolfsnake.tools.1.label>
+  <GR_Wolfsnake.tools.3.label>head</GR_Wolfsnake.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfsnake_Corpse.label>wolfsnake corpse</GR_Wolfsnake_Corpse.label>
+  <GR_Wolfsnake_Corpse.description>wolfsnake corpse</GR_Wolfsnake_Corpse.description>
+
+
+  <!-- Reptile - Cat -->
+
+  <GR_Snakecat.label>snakecat</GR_Snakecat.label>
+  <GR_Snakecat.description>A reptile / cat hybrid. The snakecat is like a furry snake with tiny legs. It has a venomous bite, and can be trained much further than other reptile hybrids.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period.</GR_Snakecat.description>
+  <GR_Snakecat.tools.1.label>head</GR_Snakecat.tools.1.label>
+  <!-- Use Leather From: Cobra -->
+  <!-- Use Meat From: Cobra -->
+  <GR_Snakecat_Corpse.label>snakecat corpse</GR_Snakecat_Corpse.label>
+  <GR_Snakecat_Corpse.description>snakecat corpse</GR_Snakecat_Corpse.description>
+
+
+</LanguageData>

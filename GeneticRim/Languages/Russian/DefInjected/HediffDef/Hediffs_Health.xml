@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Implants -->
+
+  <GR_LightSustenance.label>уровень солнечного света</GR_LightSustenance.label>
+  <GR_LightSustenance.stages.0.label>начально-скрытый</GR_LightSustenance.stages.0.label>
+  <GR_LightSustenance.stages.1.label>адекватный свет</GR_LightSustenance.stages.1.label>
+  <GR_LightSustenance.stages.2.label>разумный уровень освещенности</GR_LightSustenance.stages.2.label>
+  <GR_LightSustenance.stages.3.label>плохое освещение</GR_LightSustenance.stages.3.label>
+  <GR_LightSustenance.stages.4.label>недостаток солнечного света</GR_LightSustenance.stages.4.label>
+  <GR_LightSustenance.stages.5.label>крайняя нехватка</GR_LightSustenance.stages.5.label>
+
+
+</LanguageData>

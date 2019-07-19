@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural penises -->
+
+  <AddPenis.label>add penis</AddPenis.label>
+  <AddPenis.description>Adds a penis of chosen size to a female.</AddPenis.description>
+  <AddPenis.jobString>Attaching penis.</AddPenis.jobString>
+
+  <AddMicropenis.label>add micro penis</AddMicropenis.label>
+  <AddMicropenis.description>Adds a penis of chosen size to a female.</AddMicropenis.description>
+  <AddMicropenis.jobString>adding micropenis.</AddMicropenis.jobString>
+
+  <addSmallPenis.label>add small penis</addSmallPenis.label>
+  <addSmallPenis.description>Adds a penis of chosen size to a female.</addSmallPenis.description>
+  <addSmallPenis.jobString>adding small penis.</addSmallPenis.jobString>
+
+  <addBigPenis.label>add big penis</addBigPenis.label>
+  <addBigPenis.description>Adds a penis of chosen size to a female.</addBigPenis.description>
+  <addBigPenis.jobString>adding big penis.</addBigPenis.jobString>
+
+  <addHugePenis.label>add huge penis</addHugePenis.label>
+  <addHugePenis.description>Adds a penis of chosen size to a female.</addHugePenis.description>
+  <addHugePenis.jobString>adding huge penis.</addHugePenis.jobString>
+
+  <addHorsePenis.label>add equine penis</addHorsePenis.label>
+  <addHorsePenis.description>Adds a penis of chosen size to a female.</addHorsePenis.description>
+  <addHorsePenis.jobString>adding equine penis.</addHorsePenis.jobString>
+
+  <addCatPenis.label>add feline penis</addCatPenis.label>
+  <addCatPenis.description>Adds a penis of chosen size to a female.</addCatPenis.description>
+  <addCatPenis.jobString>adding feline penis.</addCatPenis.jobString>
+
+  <addDogPenis.label>add canine penis</addDogPenis.label>
+  <addDogPenis.description>Adds a penis of chosen size to a female.</addDogPenis.description>
+  <addDogPenis.jobString>adding canine penis.</addDogPenis.jobString>
+
+  <addDragonPenis.label>add dragon penis</addDragonPenis.label>
+  <addDragonPenis.description>Adds a penis of chosen size to a female.</addDragonPenis.description>
+  <addDragonPenis.jobString>adding Dragon penis.</addDragonPenis.jobString>
+
+  <addOvipositorM.label>add ovipositor</addOvipositorM.label>
+  <addOvipositorM.description>Adds a penis of chosen size to a female.</addOvipositorM.description>
+  <addOvipositorM.jobString>adding Ovipositor.</addOvipositorM.jobString>
+
+  <addRaccoonPenis.label>add procyonine penis</addRaccoonPenis.label>
+  <addRaccoonPenis.description>Adds a penis of chosen size to a female.</addRaccoonPenis.description>
+  <addRaccoonPenis.jobString>adding procyonine penis.</addRaccoonPenis.jobString>
+
+  <addHemipenis.label>add hemipenis</addHemipenis.label>
+  <addHemipenis.description>Adds a penis of chosen size to a female.</addHemipenis.description>
+  <addHemipenis.jobString>adding hemipenes.</addHemipenis.jobString>
+
+  <addCrocodilianPenis.label>add crocodilian penis</addCrocodilianPenis.label>
+  <addCrocodilianPenis.description>Adds a penis of chosen size to a female.</addCrocodilianPenis.description>
+  <addCrocodilianPenis.jobString>adding crocodilian penis.</addCrocodilianPenis.jobString>
+
+
+  <!-- hydraulic penis -->
+
+  <addHydraulicPenis.label>add hydraulic penis</addHydraulicPenis.label>
+  <addHydraulicPenis.description>Adds a penis of chosen size to a female.</addHydraulicPenis.description>
+  <addHydraulicPenis.jobString>Attaching hydraulic penis.</addHydraulicPenis.jobString>
+
+
+  <!-- bionic penis -->
+
+  <addBionicPenis.label>add bionic penis</addBionicPenis.label>
+  <addBionicPenis.description>Adds a penis of chosen size to a female.</addBionicPenis.description>
+  <addBionicPenis.jobString>Attaching bionic penis.</addBionicPenis.jobString>
+
+
+  <!-- Archotech -->
+
+  <addArchotechPenis.label>add archotech penis</addArchotechPenis.label>
+  <addArchotechPenis.description>Adds a penis of chosen size to a female.</addArchotechPenis.description>
+  <addArchotechPenis.jobString>Attaching archotech penis.</addArchotechPenis.jobString>
+
+
+</LanguageData>

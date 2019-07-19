@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Legs -->
+
+  <GR_InstallBearLeg.label>&lt;color=#E89D1B&gt;установить животный имплант: bear leg (tier 1)&lt;/color&gt;</GR_InstallBearLeg.label>
+  <GR_InstallBearLeg.description>Installs bear leg.</GR_InstallBearLeg.description>
+  <GR_InstallBearLeg.jobString>Installing bear leg.</GR_InstallBearLeg.jobString>
+
+  <GR_InstallLizardLeg.label>&lt;color=#E89D1B&gt;установить животный имплант: lizard leg (tier 2)&lt;/color&gt;</GR_InstallLizardLeg.label>
+  <GR_InstallLizardLeg.description>Installs lizard leg.</GR_InstallLizardLeg.description>
+  <GR_InstallLizardLeg.jobString>Installing lizard leg.</GR_InstallLizardLeg.jobString>
+
+  <GR_InstallThrumboLeg.label>&lt;color=#E89D1B&gt;установить животный имплант: thrumbo leg (tier 3)&lt;/color&gt;</GR_InstallThrumboLeg.label>
+  <GR_InstallThrumboLeg.description>Installs thrumbo leg.</GR_InstallThrumboLeg.description>
+  <GR_InstallThrumboLeg.jobString>Installing thrumbo leg.</GR_InstallThrumboLeg.jobString>
+
+
+  <!-- Tails -->
+
+  <GR_InstallScytherTail.label>&lt;color=#E89D1B&gt;установить животный имплант: scyther tail (tier 2)&lt;/color&gt;</GR_InstallScytherTail.label>
+  <GR_InstallScytherTail.description>Installs scyther tail.</GR_InstallScytherTail.description>
+  <GR_InstallScytherTail.jobString>Installing scyther tail.</GR_InstallScytherTail.jobString>
+
+  <GR_InstallMechaTail.label>&lt;color=#E89D1B&gt;установить животный имплант: mechanoid tail (tier 3)&lt;/color&gt;</GR_InstallMechaTail.label>
+  <GR_InstallMechaTail.description>Installs mechanoid tail.</GR_InstallMechaTail.description>
+  <GR_InstallMechaTail.jobString>Installing mechanoid tail.</GR_InstallMechaTail.jobString>
+
+
+  <!-- Eyes -->
+
+  <GR_InstallCanidEye.label>&lt;color=#E89D1B&gt;установить животный имплант: canid eye (tier 1)&lt;/color&gt;</GR_InstallCanidEye.label>
+  <GR_InstallCanidEye.description>Installs canid eye.</GR_InstallCanidEye.description>
+  <GR_InstallCanidEye.jobString>Installing canid eye.</GR_InstallCanidEye.jobString>
+
+  <GR_InstallInsectileEye.label>&lt;color=#E89D1B&gt;установить животный имплант: insectile eye (tier 2)&lt;/color&gt;</GR_InstallInsectileEye.label>
+  <GR_InstallInsectileEye.description>Installs insectile eye.</GR_InstallInsectileEye.description>
+  <GR_InstallInsectileEye.jobString>Installing insectile eye.</GR_InstallInsectileEye.jobString>
+
+  <GR_InstallThrumboEye.label>&lt;color=#E89D1B&gt;установить животный имплант: bionic thrumbo eye (tier 3)&lt;/color&gt;</GR_InstallThrumboEye.label>
+  <GR_InstallThrumboEye.description>Installs thrumbo eye.</GR_InstallThrumboEye.description>
+  <GR_InstallThrumboEye.jobString>Installing thrumbo eye.</GR_InstallThrumboEye.jobString>
+
+
+  <!-- Ears -->
+
+  <GR_InstallRodentEar.label>&lt;color=#E89D1B&gt;установить животный имплант: rodent ear (tier 1)&lt;/color&gt;</GR_InstallRodentEar.label>
+  <GR_InstallRodentEar.description>Installs rodent ear.</GR_InstallRodentEar.description>
+  <GR_InstallRodentEar.jobString>Installing rodent ear.</GR_InstallRodentEar.jobString>
+
+  <GR_InstallMothTympanalOrgan.label>&lt;color=#E89D1B&gt;установить животный имплант: moth tympanal organ (tier 2)&lt;/color&gt;</GR_InstallMothTympanalOrgan.label>
+  <GR_InstallMothTympanalOrgan.description>Installs moth tympanal organ.</GR_InstallMothTympanalOrgan.description>
+  <GR_InstallMothTympanalOrgan.jobString>Installing moth tympanal organ.</GR_InstallMothTympanalOrgan.jobString>
+
+  <GR_InstallMechaReceptors.label>&lt;color=#E89D1B&gt;установить животный имплант: mechanoid auditory receptors (tier 3)&lt;/color&gt;</GR_InstallMechaReceptors.label>
+  <GR_InstallMechaReceptors.description>Installs mechanoid auditory receptors.</GR_InstallMechaReceptors.description>
+  <GR_InstallMechaReceptors.jobString>Installing mechanoid auditory receptors.</GR_InstallMechaReceptors.jobString>
+
+
+  <!-- Noses -->
+
+  <GR_InstallRodentNose.label>&lt;color=#E89D1B&gt;установить животный имплант: rodent nose (tier 1)&lt;/color&gt;</GR_InstallRodentNose.label>
+  <GR_InstallRodentNose.description>Installs rodent nose.</GR_InstallRodentNose.description>
+  <GR_InstallRodentNose.jobString>Installing rodent nose.</GR_InstallRodentNose.jobString>
+
+  <GR_InstallInsectoidPheromones.label>&lt;color=#E89D1B&gt;установить животный имплант: insectoid pheromones (tier 2)&lt;/color&gt;</GR_InstallInsectoidPheromones.label>
+  <GR_InstallInsectoidPheromones.description>Installs insectoid pheromones.</GR_InstallInsectoidPheromones.description>
+  <GR_InstallInsectoidPheromones.jobString>Installing insectoid pheromones.</GR_InstallInsectoidPheromones.jobString>
+
+  <GR_InstallMiniatureThrumboHorn.label>&lt;color=#E89D1B&gt;установить животный имплант: miniature thrumbo horn (tier 3)&lt;/color&gt;</GR_InstallMiniatureThrumboHorn.label>
+  <GR_InstallMiniatureThrumboHorn.description>Installs miniature thrumbo horn.</GR_InstallMiniatureThrumboHorn.description>
+  <GR_InstallMiniatureThrumboHorn.jobString>Installing miniature thrumbo horn.</GR_InstallMiniatureThrumboHorn.jobString>
+
+
+  <!-- Jaws -->
+
+  <GR_InstallWolfJaws.label>&lt;color=#E89D1B&gt;установить животный имплант: wolf jaws (tier 1)&lt;/color&gt;</GR_InstallWolfJaws.label>
+  <GR_InstallWolfJaws.description>Installs wolf jaws.</GR_InstallWolfJaws.description>
+  <GR_InstallWolfJaws.jobString>Installing wolf jaws.</GR_InstallWolfJaws.jobString>
+
+  <GR_InstallInsectMandibles.label>&lt;color=#E89D1B&gt;установить животный имплант: insect mandibles (tier 2)&lt;/color&gt;</GR_InstallInsectMandibles.label>
+  <GR_InstallInsectMandibles.description>Installs insect mandibles.</GR_InstallInsectMandibles.description>
+  <GR_InstallInsectMandibles.jobString>Installing insect mandibles.</GR_InstallInsectMandibles.jobString>
+
+  <GR_InstallThrumboJaws.label>&lt;color=#E89D1B&gt;установить животный имплант: bionic thrumbo jaws (tier 3)&lt;/color&gt;</GR_InstallThrumboJaws.label>
+  <GR_InstallThrumboJaws.description>Installs bionic thrumbo jaws.</GR_InstallThrumboJaws.description>
+  <GR_InstallThrumboJaws.jobString>Installing bionic thrumbo jaws.</GR_InstallThrumboJaws.jobString>
+
+
+  <!-- Spines -->
+
+  <GR_InstallMuffaloSpine.label>&lt;color=#E89D1B&gt;установить животный имплант: muffalo spine (tier 1)&lt;/color&gt;</GR_InstallMuffaloSpine.label>
+  <GR_InstallMuffaloSpine.description>Installs muffalo spine.</GR_InstallMuffaloSpine.description>
+  <GR_InstallMuffaloSpine.jobString>Installing muffalo spine.</GR_InstallMuffaloSpine.jobString>
+
+  <GR_InstallCrocodileSpine.label>&lt;color=#E89D1B&gt;установить животный имплант: crocodile spine (tier 2)&lt;/color&gt;</GR_InstallCrocodileSpine.label>
+  <GR_InstallCrocodileSpine.description>Installs crocodile spine.</GR_InstallCrocodileSpine.description>
+  <GR_InstallCrocodileSpine.jobString>Installing crocodile spine.</GR_InstallCrocodileSpine.jobString>
+
+  <GR_InstallMechaSpine.label>&lt;color=#E89D1B&gt;установить животный имплант: mechanoid spine (tier 3)&lt;/color&gt;</GR_InstallMechaSpine.label>
+  <GR_InstallMechaSpine.description>Installs mechanoid spine.</GR_InstallMechaSpine.description>
+  <GR_InstallMechaSpine.jobString>Installing mechanoid spine.</GR_InstallMechaSpine.jobString>
+
+
+  <!-- Brains -->
+
+  <GR_InstallChickenBrains.label>&lt;color=#E89D1B&gt;установить животный имплант: chicken brains (tier 1)&lt;/color&gt;</GR_InstallChickenBrains.label>
+  <GR_InstallChickenBrains.description>Installs chicken brains.</GR_InstallChickenBrains.description>
+  <GR_InstallChickenBrains.jobString>Installing chicken brains.</GR_InstallChickenBrains.jobString>
+
+  <GR_InstallMonitorLizardBrain.label>&lt;color=#E89D1B&gt;установить животный имплант: monitor lizard brain (tier 2)&lt;/color&gt;</GR_InstallMonitorLizardBrain.label>
+  <GR_InstallMonitorLizardBrain.description>Installs monitor lizard brain.</GR_InstallMonitorLizardBrain.description>
+  <GR_InstallMonitorLizardBrain.jobString>Installing monitor lizard brain.</GR_InstallMonitorLizardBrain.jobString>
+
+  <GR_InstallThrumboBrain.label>&lt;color=#E89D1B&gt;установить животный имплант: bionic thrumbo brain (tier 3)&lt;/color&gt;</GR_InstallThrumboBrain.label>
+  <GR_InstallThrumboBrain.description>Installs bionic thrumbo brain.</GR_InstallThrumboBrain.description>
+  <GR_InstallThrumboBrain.jobString>Installing bionic thrumbo brain.</GR_InstallThrumboBrain.jobString>
+
+
+  <!-- Hearts -->
+
+  <GR_InstallBoomalopeHeart.label>&lt;color=#E89D1B&gt;установить животный имплант: boomalope heart (tier 1)&lt;/color&gt;</GR_InstallBoomalopeHeart.label>
+  <GR_InstallBoomalopeHeart.description>Installs boomalope heart.</GR_InstallBoomalopeHeart.description>
+  <GR_InstallBoomalopeHeart.jobString>Installing boomalope heart.</GR_InstallBoomalopeHeart.jobString>
+
+  <GR_InstallChitinousHeart.label>&lt;color=#E89D1B&gt;установить животный имплант: chitinous heart (tier 2)&lt;/color&gt;</GR_InstallChitinousHeart.label>
+  <GR_InstallChitinousHeart.description>Installs chitinous heart.</GR_InstallChitinousHeart.description>
+  <GR_InstallChitinousHeart.jobString>Installing chitinous heart.</GR_InstallChitinousHeart.jobString>
+
+  <GR_InstallMechaHeart.label>&lt;color=#E89D1B&gt;установить животный имплант: mechanoid heart (tier 3)&lt;/color&gt;</GR_InstallMechaHeart.label>
+  <GR_InstallMechaHeart.description>Installs mechanoid heart.</GR_InstallMechaHeart.description>
+  <GR_InstallMechaHeart.jobString>Installing mechanoid heart.</GR_InstallMechaHeart.jobString>
+
+
+  <!-- Lungs -->
+
+  <GR_InstallMuffaloLung.label>&lt;color=#E89D1B&gt;установить животный имплант: muffalo lung (tier 1)&lt;/color&gt;</GR_InstallMuffaloLung.label>
+  <GR_InstallMuffaloLung.description>Installs muffalo lung.</GR_InstallMuffaloLung.description>
+  <GR_InstallMuffaloLung.jobString>Installing muffalo lung.</GR_InstallMuffaloLung.jobString>
+
+
+  <!-- Liver -->
+
+  <GR_InstallBearLiver.label>&lt;color=#E89D1B&gt;установить животный имплант: bear liver (tier 1)&lt;/color&gt;</GR_InstallBearLiver.label>
+  <GR_InstallBearLiver.description>Installs bear liver.</GR_InstallBearLiver.description>
+  <GR_InstallBearLiver.jobString>Installing bear liver.</GR_InstallBearLiver.jobString>
+
+
+  <!-- Kidney -->
+
+  <GR_InstallChickenKidney.label>&lt;color=#E89D1B&gt;установить животный имплант: chicken kidney (tier 1)&lt;/color&gt;</GR_InstallChickenKidney.label>
+  <GR_InstallChickenKidney.description>Installs chicken kidney.</GR_InstallChickenKidney.description>
+  <GR_InstallChickenKidney.jobString>Installing chicken kidney.</GR_InstallChickenKidney.jobString>
+
+  <GR_InstallBoomalopeStomach.label>&lt;color=#E89D1B&gt;установить животный имплант: boomalope stomach (tier 1)&lt;/color&gt;</GR_InstallBoomalopeStomach.label>
+  <GR_InstallBoomalopeStomach.description>Installs boomalope stomach.</GR_InstallBoomalopeStomach.description>
+  <GR_InstallBoomalopeStomach.jobString>Installing boomalope stomach.</GR_InstallBoomalopeStomach.jobString>
+
+
+</LanguageData>

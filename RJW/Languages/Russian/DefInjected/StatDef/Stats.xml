@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SexAbility.label>сексуальные навыки</SexAbility.label>
+  <SexAbility.description>Отображает на сколько поселенец хорош в сексе</SexAbility.description>
+
+  <Vulnerability.label>vulnerability</Vulnerability.label>
+  <Vulnerability.description>Отображает на сколько вероятен захват сексуального пруимущества.</Vulnerability.description>
+
+  <SexFrequency.label>sex drive</SexFrequency.label>
+  <SexFrequency.description>Measures how sexually active the pawn is.</SexFrequency.description>
+
+
+</LanguageData>

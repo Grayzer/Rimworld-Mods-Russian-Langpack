@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedHydroponicsBasin.label>Продвинутая грядка гидропоники</AdvancedHydroponicsBasin.label>
+  <AdvancedHydroponicsBasin.description>Выращивает растения еще быстрее в современной искусственной питательной грядке. Требуется больше энергии для работы; растения погибают, если питание отключается.</AdvancedHydroponicsBasin.description>
+  <AdvancedHydroponicsBasin_Blueprint.label>Продвинутая грядка гидропоники (чертеж)</AdvancedHydroponicsBasin_Blueprint.label>
+  <AdvancedHydroponicsBasin_Blueprint_Install.label>Продвинутая грядка гидропоники (чертеж)</AdvancedHydroponicsBasin_Blueprint_Install.label>
+  <AdvancedHydroponicsBasin_Frame.label>Продвинутая грядка гидропоники (стройка)</AdvancedHydroponicsBasin_Frame.label>
+  <AdvancedHydroponicsBasin_Frame.description>Выращивает растения еще быстрее в современной искусственной питательной грядке. Требуется больше энергии для работы; растения погибают, если питание отключается.</AdvancedHydroponicsBasin_Frame.description>
+
+  <ModularAdvancedHydroponicsBasin.label>Модуль продвинутой гидропонной грядки</ModularAdvancedHydroponicsBasin.label>
+  <ModularAdvancedHydroponicsBasin.description>Выращивает растения еще быстрее в современной искусственной питательной грядке. Требуется больше энергии для работы; растения погибают, если питание отключается.</ModularAdvancedHydroponicsBasin.description>
+  <ModularAdvancedHydroponicsBasin_Blueprint.label>Модуль продвинутой гидропонной грядки (чертеж)</ModularAdvancedHydroponicsBasin_Blueprint.label>
+  <ModularAdvancedHydroponicsBasin_Blueprint_Install.label>Модуль продвинутой гидропонной грядки (чертеж)</ModularAdvancedHydroponicsBasin_Blueprint_Install.label>
+  <ModularAdvancedHydroponicsBasin_Frame.label>Модуль продвинутой гидропонной грядки (стройка)</ModularAdvancedHydroponicsBasin_Frame.label>
+  <ModularAdvancedHydroponicsBasin_Frame.description>Выращивает растения еще быстрее в современной искусственной питательной грядке. Требуется больше энергии для работы; растения погибают, если питание отключается.</ModularAdvancedHydroponicsBasin_Frame.description>
+
+
+</LanguageData>

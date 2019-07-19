@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_Submitting.label>Самоунижение</Hediff_Submitting.label>
+
+
+  <!-- prevents 10 job stacks error -->
+
+  <Hediff_RapeEnemyCD.label>перезарядка насилия врагов</Hediff_RapeEnemyCD.label>
+
+
+</LanguageData>

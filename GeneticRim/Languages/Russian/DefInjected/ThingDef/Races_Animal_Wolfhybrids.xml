@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wolf - Bear -->
+
+  <GR_Wolfbear.label>wolfbear</GR_Wolfbear.label>
+  <GR_Wolfbear.description>A Wolf / Bear hybrid. Very similar to the standard timber wolf, but with better stamina.\n\nUseful abilities: Good guard animal. Butchering gives Wolfbear paws, which can be sold.</GR_Wolfbear.description>
+  <GR_Wolfbear.tools.0.label>left claw</GR_Wolfbear.tools.0.label>
+  <GR_Wolfbear.tools.1.label>right claw</GR_Wolfbear.tools.1.label>
+  <GR_Wolfbear.tools.3.label>head</GR_Wolfbear.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfbear_Corpse.label>wolfbear corpse</GR_Wolfbear_Corpse.label>
+  <GR_Wolfbear_Corpse.description>wolfbear corpse</GR_Wolfbear_Corpse.description>
+
+
+  <!-- Wolf - Boomalope -->
+
+  <GR_Wolfalope.label>wolfalope</GR_Wolfalope.label>
+  <GR_Wolfalope.description>A Wolf / Boomalope hybrid. A very dangerous predator that tends to explode when confronted with prey too large for them. Friction between the creature's pelt and the boomalope nodules constantly creates static electricity, which is suddenly liberated when the creature dies and the nodules explode.\n\nUseful abilities: Explodes on death in a dangerous electromagnetic pulse (EMP damage). Produces average amounts of chemfuel.</GR_Wolfalope.description>
+  <GR_Wolfalope.tools.0.label>left claw</GR_Wolfalope.tools.0.label>
+  <GR_Wolfalope.tools.1.label>right claw</GR_Wolfalope.tools.1.label>
+  <GR_Wolfalope.tools.3.label>head</GR_Wolfalope.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfalope_Corpse.label>wolfalope corpse</GR_Wolfalope_Corpse.label>
+  <GR_Wolfalope_Corpse.description>wolfalope corpse</GR_Wolfalope_Corpse.description>
+
+
+  <!-- Wolf - Chicken -->
+
+  <GR_Wolfchicken.label>wolfchicken</GR_Wolfchicken.label>
+  <GR_Wolfchicken.description>A Wolf / Chicken hybrid. You know the saying: when you let the wolves guard the hen house, there's bound to be a few chicken dinners. Well, not anymore.\n\nUseful abilities: Egg layer. Regularly produces feathers that can be sold for a profit.</GR_Wolfchicken.description>
+  <GR_Wolfchicken.tools.0.label>left claw</GR_Wolfchicken.tools.0.label>
+  <GR_Wolfchicken.tools.1.label>right claw</GR_Wolfchicken.tools.1.label>
+  <GR_Wolfchicken.tools.3.label>head</GR_Wolfchicken.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfchicken_Corpse.label>wolfchicken corpse</GR_Wolfchicken_Corpse.label>
+  <GR_Wolfchicken_Corpse.description>wolfchicken corpse</GR_Wolfchicken_Corpse.description>
+
+
+  <!-- Wolf - Muffalo -->
+
+  <GR_Wolffalo.label>wolffalo</GR_Wolffalo.label>
+  <GR_Wolffalo.description>A Wolf / Muffalo hybrid. Not incredibly good as a pack beast, but a very fast wool producer.\n\nActs as a pack beast. Produces small amounts of milk and wool at a quite fast rate.</GR_Wolffalo.description>
+  <GR_Wolffalo.tools.0.label>left claw</GR_Wolffalo.tools.0.label>
+  <GR_Wolffalo.tools.1.label>right claw</GR_Wolffalo.tools.1.label>
+  <GR_Wolffalo.tools.2.label>head</GR_Wolffalo.tools.2.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolffalo_Corpse.label>wolffalo corpse</GR_Wolffalo_Corpse.label>
+  <GR_Wolffalo_Corpse.description>wolffalo corpse</GR_Wolffalo_Corpse.description>
+
+
+  <!-- Wolf - Rodent -->
+
+  <GR_Wolfbeaver.label>wolfbeaver</GR_Wolfbeaver.label>
+  <GR_Wolfbeaver.description>A Wolf / Beaver hybrid. This fast breeding predator can be a drain on your tree reserves, unless you provide it with some fresh meat.\n\nUseful abilities: Fast breeding.</GR_Wolfbeaver.description>
+  <GR_Wolfbeaver.tools.0.label>left claw</GR_Wolfbeaver.tools.0.label>
+  <GR_Wolfbeaver.tools.1.label>right claw</GR_Wolfbeaver.tools.1.label>
+  <GR_Wolfbeaver.tools.3.label>head</GR_Wolfbeaver.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfbeaver_Corpse.label>wolfbeaver corpse</GR_Wolfbeaver_Corpse.label>
+  <GR_Wolfbeaver_Corpse.description>wolfbeaver corpse</GR_Wolfbeaver_Corpse.description>
+
+
+  <!-- Wolf - Cat -->
+
+  <GR_Wolfcat.label>wolfcat</GR_Wolfcat.label>
+  <GR_Wolfcat.description>A Wolf / Cat hybrid. This tiger-like predator is intelligent, fast and quite easy to train.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period.</GR_Wolfcat.description>
+  <GR_Wolfcat.tools.0.label>left claw</GR_Wolfcat.tools.0.label>
+  <GR_Wolfcat.tools.1.label>right claw</GR_Wolfcat.tools.1.label>
+  <GR_Wolfcat.tools.3.label>head</GR_Wolfcat.tools.3.label>
+  <!-- Use Leather From: Wolf_Timber -->
+  <!-- Use Meat From: Wolf_Timber -->
+  <GR_Wolfcat_Corpse.label>wolfcat corpse</GR_Wolfcat_Corpse.label>
+  <GR_Wolfcat_Corpse.description>wolfcat corpse</GR_Wolfcat_Corpse.description>
+
+
+</LanguageData>

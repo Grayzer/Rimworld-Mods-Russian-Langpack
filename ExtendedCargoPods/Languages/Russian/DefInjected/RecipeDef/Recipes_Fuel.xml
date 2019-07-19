@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ECP_Make_RocketFuel.label>Перегонка Химтоплива в Ракетное топливо</ECP_Make_RocketFuel.label>
+  <ECP_Make_RocketFuel.description>Сделайте партию ракетного топлива, переработав химическое топливо.</ECP_Make_RocketFuel.description>
+  <ECP_Make_RocketFuel.jobString>Перегонка Химтоплива в Ракетное топливо.</ECP_Make_RocketFuel.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Legs -->
+
+  <GR_BearLeg.label>животный имплант: нога медведя (уровень 1)</GR_BearLeg.label>
+  <GR_BearLeg.comps.0.tools.0.label>животный имплант: нога медведя (уровень 1)</GR_BearLeg.comps.0.tools.0.label>
+
+  <GR_LizardLeg.label>животный имплант: нога ящерицы (уровень 2)</GR_LizardLeg.label>
+  <GR_LizardLeg.comps.0.tools.0.label>животный имплант: нога ящерицы (уровень 2)</GR_LizardLeg.comps.0.tools.0.label>
+
+  <GR_ThrumboLeg.label>животный имплант: нога трумбо (уровень 3)</GR_ThrumboLeg.label>
+  <GR_ThrumboLeg.comps.0.tools.0.label>животный имплант: нога трумбо (уровень 3)</GR_ThrumboLeg.comps.0.tools.0.label>
+
+
+  <!-- Tails -->
+
+  <GR_ScytherTail.label>животный имплант: хвост серп (уровень 2)</GR_ScytherTail.label>
+  <GR_ScytherTail.comps.0.tools.0.label>животный имплант: хвост серп (уровень 2)</GR_ScytherTail.comps.0.tools.0.label>
+
+  <GR_MechaTail.label>животный имплант: хвост механоида (уровень 3)</GR_MechaTail.label>
+  <GR_MechaTail.comps.0.tools.0.label>животный имплант: хвост механоида (уровень 3)</GR_MechaTail.comps.0.tools.0.label>
+
+
+  <!-- Eyes -->
+
+  <GR_CanidEye.label>животный имплант: глаз собаки (уровень 1)</GR_CanidEye.label>
+  <GR_InsectileEye.label>животный имплант: глаз насекомого (уровень 2)</GR_InsectileEye.label>
+  <GR_ThrumboEye.label>животный имплант: бионический глаз трумбо (уровень 3)</GR_ThrumboEye.label>
+
+
+  <!-- Ears -->
+
+  <GR_RodentEar.label>животный имплант: ухо грызуна (уровень 1)</GR_RodentEar.label>
+  <GR_MothTympanalOrgan.label>животный имплант: орган молочной железы (уровень 2)</GR_MothTympanalOrgan.label>
+  <GR_MechaReceptors.label>животный имплант: механоидные слуховые рецепторы (уровень 3)</GR_MechaReceptors.label>
+
+
+  <!-- Noses -->
+
+  <GR_RodentNose.label>животный имплант: нос грызуна (уровень 1)</GR_RodentNose.label>
+  <GR_InsectoidPheromones.label>животный имплант: феромоны насекомых (уровень 2)</GR_InsectoidPheromones.label>
+
+  <GR_MiniatureThrumboHorn.label>животный имплант: миниатюрный рог трумбо (уровень 3)</GR_MiniatureThrumboHorn.label>
+  <GR_MiniatureThrumboHorn.comps.0.tools.0.label>животный имплант: миниатюрный рог трумбо (уровень 3)</GR_MiniatureThrumboHorn.comps.0.tools.0.label>
+
+
+  <!-- Jaws -->
+
+  <GR_WolfJaws.label>животный имплант: волчьи челюсти (уровень 1)</GR_WolfJaws.label>
+
+  <GR_InsectMandibles.label>животный имплант: челюсти насекомых (уровень 2)</GR_InsectMandibles.label>
+  <GR_InsectMandibles.comps.0.tools.0.label>животный имплант: челюсти насекомых (уровень 2)</GR_InsectMandibles.comps.0.tools.0.label>
+
+  <GR_ThrumboJaws.label>животный имплант: бионические челюсти трумбо (уровень 3)</GR_ThrumboJaws.label>
+  <GR_ThrumboJaws.comps.0.tools.0.label>животный имплант: бионические челюсти трумбо (уровень 3)</GR_ThrumboJaws.comps.0.tools.0.label>
+
+
+  <!-- Spines -->
+
+  <GR_MuffaloSpine.label>животный имплант: позвоночник муффало (уровень 1)</GR_MuffaloSpine.label>
+  <GR_CrocodileSpine.label>животный имплант: позвоночник крокодила (уровень 2)</GR_CrocodileSpine.label>
+  <GR_MechaSpine.label>животный имплант: позвоночник механоида (уровень 3)</GR_MechaSpine.label>
+
+
+  <!-- Brains -->
+
+  <GR_ChickenBrains.label>животный имплант: куриные мозги (уровень 1)</GR_ChickenBrains.label>
+  <GR_MonitorLizardBrain.label>животный имплант: мозг ящерицы (уровень 2)</GR_MonitorLizardBrain.label>
+  <GR_ThrumboBrain.label>животный имплант: бионический моз трумбо (уровень 3)</GR_ThrumboBrain.label>
+
+
+  <!-- Hearts -->
+
+  <GR_BoomalopeHeart.label>животный имплант: сердце бумалопы (уровень 1)</GR_BoomalopeHeart.label>
+  <GR_ChitinousHeart.label>животный имплант: хитиновое сердце (уровень 2)</GR_ChitinousHeart.label>
+  <GR_MechaHeart.label>животный имплант: сердце механоидов (уровень 3)</GR_MechaHeart.label>
+
+
+  <!-- Lung -->
+
+  <GR_MuffaloLung.label>животный имплант: легкое муффало (уровень 1)</GR_MuffaloLung.label>
+
+
+  <!-- Liver -->
+
+  <GR_BearLiver.label>животный имплант: печень медведя (уровень 1)</GR_BearLiver.label>
+
+
+  <!-- Kidney -->
+
+  <GR_ChickenKidney.label>животный имплант: куриная почка (уровень 1)</GR_ChickenKidney.label>
+
+
+  <!-- Stomach -->
+
+  <GR_BoomalopeStomach.label>животный имплант: желудок бумалопы (уровень 1)</GR_BoomalopeStomach.label>
+
+
+</LanguageData>

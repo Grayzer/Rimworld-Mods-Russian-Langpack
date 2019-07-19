@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bear - Insectoid -->
+
+  <GR_Bearscarab.label>медведоскарабей</GR_Bearscarab.label>
+  <GR_Bearscarab.labelPlural>медведоскарабеи</GR_Bearscarab.labelPlural>
+  <GR_Bearscarab.lifeStages.0.label>медведоскарабей</GR_Bearscarab.lifeStages.0.label>
+  <GR_Bearscarab.lifeStages.0.labelPlural>медведоскарабей</GR_Bearscarab.lifeStages.0.labelPlural>
+  <GR_Bearscarab.lifeStages.0.labelMale>медведоскарабей</GR_Bearscarab.lifeStages.0.labelMale>
+  <GR_Bearscarab.lifeStages.0.labelMalePlural>медведоскарабеи</GR_Bearscarab.lifeStages.0.labelMalePlural>
+  <GR_Bearscarab.lifeStages.0.labelFemale>медведоскарабеиха</GR_Bearscarab.lifeStages.0.labelFemale>
+  <GR_Bearscarab.lifeStages.0.labelFemalePlural>медведоскарабеихи</GR_Bearscarab.lifeStages.0.labelFemalePlural>
+  <GR_Bearscarab.lifeStages.1.label>медведоскарабей</GR_Bearscarab.lifeStages.1.label>
+  <GR_Bearscarab.lifeStages.1.labelPlural>медведоскарабей</GR_Bearscarab.lifeStages.1.labelPlural>
+  <GR_Bearscarab.lifeStages.1.labelMale>медведоскарабей</GR_Bearscarab.lifeStages.1.labelMale>
+  <GR_Bearscarab.lifeStages.1.labelMalePlural>медведоскарабеи</GR_Bearscarab.lifeStages.1.labelMalePlural>
+  <GR_Bearscarab.lifeStages.1.labelFemale>медведоскарабеиха</GR_Bearscarab.lifeStages.1.labelFemale>
+  <GR_Bearscarab.lifeStages.1.labelFemalePlural>медведоскарабеихи</GR_Bearscarab.lifeStages.1.labelFemalePlural>
+  <GR_Bearscarab.lifeStages.2.label>медведоскарабей</GR_Bearscarab.lifeStages.2.label>
+  <GR_Bearscarab.lifeStages.2.labelPlural>медведоскарабей</GR_Bearscarab.lifeStages.2.labelPlural>
+  <GR_Bearscarab.lifeStages.2.labelMale>медведоскарабей</GR_Bearscarab.lifeStages.2.labelMale>
+  <GR_Bearscarab.lifeStages.2.labelMalePlural>медведоскарабеи</GR_Bearscarab.lifeStages.2.labelMalePlural>
+  <GR_Bearscarab.lifeStages.2.labelFemale>медведоскарабеиха</GR_Bearscarab.lifeStages.2.labelFemale>
+  <GR_Bearscarab.lifeStages.2.labelFemalePlural>медведоскарабеихи</GR_Bearscarab.lifeStages.2.labelFemalePlural>
+  <GR_Bearscarab.labelMale>медведоскарабей</GR_Bearscarab.labelMale>
+  <GR_Bearscarab.labelMalePlural>медведоскарабеи</GR_Bearscarab.labelMalePlural>
+  <GR_Bearscarab.labelFemale>медведоскарабеиха</GR_Bearscarab.labelFemale>
+  <GR_Bearscarab.labelFemalePlural>медведоскарабеихи</GR_Bearscarab.labelFemalePlural>
+
+
+  <!-- Boomalope - Insectoid -->
+
+  <GR_Boombeetle.label>бумажук</GR_Boombeetle.label>
+  <GR_Boombeetle.labelPlural>бумажуки</GR_Boombeetle.labelPlural>
+  <GR_Boombeetle.lifeStages.0.label>бумажук</GR_Boombeetle.lifeStages.0.label>
+  <GR_Boombeetle.lifeStages.0.labelPlural>бумажук</GR_Boombeetle.lifeStages.0.labelPlural>
+  <GR_Boombeetle.lifeStages.0.labelMale>бумажук</GR_Boombeetle.lifeStages.0.labelMale>
+  <GR_Boombeetle.lifeStages.0.labelMalePlural>бумажуки</GR_Boombeetle.lifeStages.0.labelMalePlural>
+  <GR_Boombeetle.lifeStages.0.labelFemale>бумажужелица</GR_Boombeetle.lifeStages.0.labelFemale>
+  <GR_Boombeetle.lifeStages.0.labelFemalePlural>бумажужелицы</GR_Boombeetle.lifeStages.0.labelFemalePlural>
+  <GR_Boombeetle.lifeStages.1.label>бумажук</GR_Boombeetle.lifeStages.1.label>
+  <GR_Boombeetle.lifeStages.1.labelPlural>бумажук</GR_Boombeetle.lifeStages.1.labelPlural>
+  <GR_Boombeetle.lifeStages.1.labelMale>бумажук</GR_Boombeetle.lifeStages.1.labelMale>
+  <GR_Boombeetle.lifeStages.1.labelMalePlural>бумажуки</GR_Boombeetle.lifeStages.1.labelMalePlural>
+  <GR_Boombeetle.lifeStages.1.labelFemale>бумажужелица</GR_Boombeetle.lifeStages.1.labelFemale>
+  <GR_Boombeetle.lifeStages.1.labelFemalePlural>бумажужелицы</GR_Boombeetle.lifeStages.1.labelFemalePlural>
+  <GR_Boombeetle.lifeStages.2.label>бумажук</GR_Boombeetle.lifeStages.2.label>
+  <GR_Boombeetle.lifeStages.2.labelPlural>бумажук</GR_Boombeetle.lifeStages.2.labelPlural>
+  <GR_Boombeetle.lifeStages.2.labelMale>бумажук</GR_Boombeetle.lifeStages.2.labelMale>
+  <GR_Boombeetle.lifeStages.2.labelMalePlural>бумажуки</GR_Boombeetle.lifeStages.2.labelMalePlural>
+  <GR_Boombeetle.lifeStages.2.labelFemale>бумажужелица</GR_Boombeetle.lifeStages.2.labelFemale>
+  <GR_Boombeetle.lifeStages.2.labelFemalePlural>бумажужелицы</GR_Boombeetle.lifeStages.2.labelFemalePlural>
+  <GR_Boombeetle.labelMale>бумажук</GR_Boombeetle.labelMale>
+  <GR_Boombeetle.labelMalePlural>бумажуки</GR_Boombeetle.labelMalePlural>
+  <GR_Boombeetle.labelFemale>бумажужелица</GR_Boombeetle.labelFemale>
+  <GR_Boombeetle.labelFemalePlural>бумажужелицы</GR_Boombeetle.labelFemalePlural>
+
+
+  <!-- Chicken - Insectoid -->
+
+  <GR_Chickenspider.label>куропаук</GR_Chickenspider.label>
+  <GR_Chickenspider.labelPlural>куропауки</GR_Chickenspider.labelPlural>
+  <GR_Chickenspider.lifeStages.0.label>куропаук</GR_Chickenspider.lifeStages.0.label>
+  <GR_Chickenspider.lifeStages.0.labelPlural>куропаук</GR_Chickenspider.lifeStages.0.labelPlural>
+  <GR_Chickenspider.lifeStages.0.labelMale>куропаук</GR_Chickenspider.lifeStages.0.labelMale>
+  <GR_Chickenspider.lifeStages.0.labelMalePlural>куропауки</GR_Chickenspider.lifeStages.0.labelMalePlural>
+  <GR_Chickenspider.lifeStages.0.labelFemale>куропаучиха</GR_Chickenspider.lifeStages.0.labelFemale>
+  <GR_Chickenspider.lifeStages.0.labelFemalePlural>куропаучихи</GR_Chickenspider.lifeStages.0.labelFemalePlural>
+  <GR_Chickenspider.lifeStages.1.label>куропаук</GR_Chickenspider.lifeStages.1.label>
+  <GR_Chickenspider.lifeStages.1.labelPlural>куропаук</GR_Chickenspider.lifeStages.1.labelPlural>
+  <GR_Chickenspider.lifeStages.1.labelMale>куропаук</GR_Chickenspider.lifeStages.1.labelMale>
+  <GR_Chickenspider.lifeStages.1.labelMalePlural>куропауки</GR_Chickenspider.lifeStages.1.labelMalePlural>
+  <GR_Chickenspider.lifeStages.1.labelFemale>куропаучиха</GR_Chickenspider.lifeStages.1.labelFemale>
+  <GR_Chickenspider.lifeStages.1.labelFemalePlural>куропаучихи</GR_Chickenspider.lifeStages.1.labelFemalePlural>
+  <GR_Chickenspider.lifeStages.2.label>куропаук</GR_Chickenspider.lifeStages.2.label>
+  <GR_Chickenspider.lifeStages.2.labelPlural>куропаук</GR_Chickenspider.lifeStages.2.labelPlural>
+  <GR_Chickenspider.lifeStages.2.labelMale>куропаук</GR_Chickenspider.lifeStages.2.labelMale>
+  <GR_Chickenspider.lifeStages.2.labelMalePlural>куропауки</GR_Chickenspider.lifeStages.2.labelMalePlural>
+  <GR_Chickenspider.lifeStages.2.labelFemale>куропаучиха</GR_Chickenspider.lifeStages.2.labelFemale>
+  <GR_Chickenspider.lifeStages.2.labelFemalePlural>куропаучихи</GR_Chickenspider.lifeStages.2.labelFemalePlural>
+  <GR_Chickenspider.labelMale>куропаук</GR_Chickenspider.labelMale>
+  <GR_Chickenspider.labelMalePlural>куропауки</GR_Chickenspider.labelMalePlural>
+  <GR_Chickenspider.labelFemale>куропаучиха</GR_Chickenspider.labelFemale>
+  <GR_Chickenspider.labelFemalePlural>куропаучихи</GR_Chickenspider.labelFemalePlural>
+
+
+  <!-- Muffalo - Insectoid -->
+
+  <GR_Muffalopede.label>муффалоножка</GR_Muffalopede.label>
+  <GR_Muffalopede.labelPlural>муффалоножки</GR_Muffalopede.labelPlural>
+  <GR_Muffalopede.lifeStages.0.label>муффалоножка</GR_Muffalopede.lifeStages.0.label>
+  <GR_Muffalopede.lifeStages.0.labelPlural>муффалоножка</GR_Muffalopede.lifeStages.0.labelPlural>
+  <GR_Muffalopede.lifeStages.0.labelMale>муффалоножник</GR_Muffalopede.lifeStages.0.labelMale>
+  <GR_Muffalopede.lifeStages.0.labelMalePlural>муффалоножники</GR_Muffalopede.lifeStages.0.labelMalePlural>
+  <GR_Muffalopede.lifeStages.0.labelFemale>муффалоножка</GR_Muffalopede.lifeStages.0.labelFemale>
+  <GR_Muffalopede.lifeStages.0.labelFemalePlural>муффалоножки</GR_Muffalopede.lifeStages.0.labelFemalePlural>
+  <GR_Muffalopede.lifeStages.1.label>муффалоножка</GR_Muffalopede.lifeStages.1.label>
+  <GR_Muffalopede.lifeStages.1.labelPlural>муффалоножка</GR_Muffalopede.lifeStages.1.labelPlural>
+  <GR_Muffalopede.lifeStages.1.labelMale>муффалоножник</GR_Muffalopede.lifeStages.1.labelMale>
+  <GR_Muffalopede.lifeStages.1.labelMalePlural>муффалоножники</GR_Muffalopede.lifeStages.1.labelMalePlural>
+  <GR_Muffalopede.lifeStages.1.labelFemale>муффалоножка</GR_Muffalopede.lifeStages.1.labelFemale>
+  <GR_Muffalopede.lifeStages.1.labelFemalePlural>муффалоножки</GR_Muffalopede.lifeStages.1.labelFemalePlural>
+  <GR_Muffalopede.lifeStages.2.label>муффалоножка</GR_Muffalopede.lifeStages.2.label>
+  <GR_Muffalopede.lifeStages.2.labelPlural>муффалоножка</GR_Muffalopede.lifeStages.2.labelPlural>
+  <GR_Muffalopede.lifeStages.2.labelMale>муффалоножник</GR_Muffalopede.lifeStages.2.labelMale>
+  <GR_Muffalopede.lifeStages.2.labelMalePlural>муффалоножники</GR_Muffalopede.lifeStages.2.labelMalePlural>
+  <GR_Muffalopede.lifeStages.2.labelFemale>муффалоножка</GR_Muffalopede.lifeStages.2.labelFemale>
+  <GR_Muffalopede.lifeStages.2.labelFemalePlural>муффалоножки</GR_Muffalopede.lifeStages.2.labelFemalePlural>
+  <GR_Muffalopede.labelMale>муффалоножник</GR_Muffalopede.labelMale>
+  <GR_Muffalopede.labelMalePlural>муффалоножники</GR_Muffalopede.labelMalePlural>
+  <GR_Muffalopede.labelFemale>муффалоножка</GR_Muffalopede.labelFemale>
+  <GR_Muffalopede.labelFemalePlural>муффалоножки</GR_Muffalopede.labelFemalePlural>
+
+
+  <!-- Thrumbo - Insectoid -->
+
+  <GR_Thrumbospider.label>трумбопаук</GR_Thrumbospider.label>
+  <GR_Thrumbospider.labelPlural>трумбопауки</GR_Thrumbospider.labelPlural>
+  <GR_Thrumbospider.lifeStages.0.label>трумбопаук</GR_Thrumbospider.lifeStages.0.label>
+  <GR_Thrumbospider.lifeStages.0.labelPlural>трумбопаук</GR_Thrumbospider.lifeStages.0.labelPlural>
+  <GR_Thrumbospider.lifeStages.0.labelMale>трумбопаук</GR_Thrumbospider.lifeStages.0.labelMale>
+  <GR_Thrumbospider.lifeStages.0.labelMalePlural>трумбопауки</GR_Thrumbospider.lifeStages.0.labelMalePlural>
+  <GR_Thrumbospider.lifeStages.0.labelFemale>трумбопаучиха</GR_Thrumbospider.lifeStages.0.labelFemale>
+  <GR_Thrumbospider.lifeStages.0.labelFemalePlural>трумбопаучихи</GR_Thrumbospider.lifeStages.0.labelFemalePlural>
+  <GR_Thrumbospider.lifeStages.1.label>трумбопаук</GR_Thrumbospider.lifeStages.1.label>
+  <GR_Thrumbospider.lifeStages.1.labelPlural>трумбопаук</GR_Thrumbospider.lifeStages.1.labelPlural>
+  <GR_Thrumbospider.lifeStages.1.labelMale>трумбопаук</GR_Thrumbospider.lifeStages.1.labelMale>
+  <GR_Thrumbospider.lifeStages.1.labelMalePlural>трумбопауки</GR_Thrumbospider.lifeStages.1.labelMalePlural>
+  <GR_Thrumbospider.lifeStages.1.labelFemale>трумбопаучиха</GR_Thrumbospider.lifeStages.1.labelFemale>
+  <GR_Thrumbospider.lifeStages.1.labelFemalePlural>трумбопаучихи</GR_Thrumbospider.lifeStages.1.labelFemalePlural>
+  <GR_Thrumbospider.lifeStages.2.label>трумбопаук</GR_Thrumbospider.lifeStages.2.label>
+  <GR_Thrumbospider.lifeStages.2.labelPlural>трумбопаук</GR_Thrumbospider.lifeStages.2.labelPlural>
+  <GR_Thrumbospider.lifeStages.2.labelMale>трумбопаук</GR_Thrumbospider.lifeStages.2.labelMale>
+  <GR_Thrumbospider.lifeStages.2.labelMalePlural>трумбопауки</GR_Thrumbospider.lifeStages.2.labelMalePlural>
+  <GR_Thrumbospider.lifeStages.2.labelFemale>трумбопаучиха</GR_Thrumbospider.lifeStages.2.labelFemale>
+  <GR_Thrumbospider.lifeStages.2.labelFemalePlural>трумбопаучихи</GR_Thrumbospider.lifeStages.2.labelFemalePlural>
+  <GR_Thrumbospider.labelMale>трумбопаук</GR_Thrumbospider.labelMale>
+  <GR_Thrumbospider.labelMalePlural>трумбопауки</GR_Thrumbospider.labelMalePlural>
+  <GR_Thrumbospider.labelFemale>трумбопаучиха</GR_Thrumbospider.labelFemale>
+  <GR_Thrumbospider.labelFemalePlural>трумбопаучихи</GR_Thrumbospider.labelFemalePlural>
+
+
+  <!-- Wolf - Insectoid -->
+
+  <GR_Wolfscarab.label>волкоскарабей</GR_Wolfscarab.label>
+  <GR_Wolfscarab.labelPlural>волкоскарабеи</GR_Wolfscarab.labelPlural>
+  <GR_Wolfscarab.lifeStages.0.label>щенок волкоскарабея</GR_Wolfscarab.lifeStages.0.label>
+  <GR_Wolfscarab.lifeStages.0.labelPlural>щенки волкоскарабея</GR_Wolfscarab.lifeStages.0.labelPlural>
+  <GR_Wolfscarab.lifeStages.0.labelMale>щенок волкоскарабея</GR_Wolfscarab.lifeStages.0.labelMale>
+  <GR_Wolfscarab.lifeStages.0.labelMalePlural>щенки волкоскарабея</GR_Wolfscarab.lifeStages.0.labelMalePlural>
+  <GR_Wolfscarab.lifeStages.0.labelFemale>щена волкоскарабея</GR_Wolfscarab.lifeStages.0.labelFemale>
+  <GR_Wolfscarab.lifeStages.0.labelFemalePlural>щены волкоскарабея</GR_Wolfscarab.lifeStages.0.labelFemalePlural>
+  <GR_Wolfscarab.lifeStages.1.label>волкоскарабей</GR_Wolfscarab.lifeStages.1.label>
+  <GR_Wolfscarab.lifeStages.1.labelPlural>волкоскарабей</GR_Wolfscarab.lifeStages.1.labelPlural>
+  <GR_Wolfscarab.lifeStages.1.labelMale>волкоскарабей</GR_Wolfscarab.lifeStages.1.labelMale>
+  <GR_Wolfscarab.lifeStages.1.labelMalePlural>волкоскарабеи</GR_Wolfscarab.lifeStages.1.labelMalePlural>
+  <GR_Wolfscarab.lifeStages.1.labelFemale>волкоскарабеиха</GR_Wolfscarab.lifeStages.1.labelFemale>
+  <GR_Wolfscarab.lifeStages.1.labelFemalePlural>волкоскарабеихи</GR_Wolfscarab.lifeStages.1.labelFemalePlural>
+  <GR_Wolfscarab.lifeStages.2.label>волкоскарабей</GR_Wolfscarab.lifeStages.2.label>
+  <GR_Wolfscarab.lifeStages.2.labelPlural>волкоскарабей</GR_Wolfscarab.lifeStages.2.labelPlural>
+  <GR_Wolfscarab.lifeStages.2.labelMale>волкоскарабей</GR_Wolfscarab.lifeStages.2.labelMale>
+  <GR_Wolfscarab.lifeStages.2.labelMalePlural>волкоскарабеи</GR_Wolfscarab.lifeStages.2.labelMalePlural>
+  <GR_Wolfscarab.lifeStages.2.labelFemale>волкоскарабеиха</GR_Wolfscarab.lifeStages.2.labelFemale>
+  <GR_Wolfscarab.lifeStages.2.labelFemalePlural>волкоскарабеихи</GR_Wolfscarab.lifeStages.2.labelFemalePlural>
+  <GR_Wolfscarab.labelMale>волкоскарабей</GR_Wolfscarab.labelMale>
+  <GR_Wolfscarab.labelMalePlural>волкоскарабеи</GR_Wolfscarab.labelMalePlural>
+  <GR_Wolfscarab.labelFemale>волкоскарабеиха</GR_Wolfscarab.labelFemale>
+  <GR_Wolfscarab.labelFemalePlural>волкоскарабеихи</GR_Wolfscarab.labelFemalePlural>
+
+
+  <!-- Insectoid - Cat -->
+
+  <GR_Spidercat.label>паукокот</GR_Spidercat.label>
+  <GR_Spidercat.labelPlural>паукокоты</GR_Spidercat.labelPlural>
+  <GR_Spidercat.lifeStages.0.label>котенок паукокота</GR_Spidercat.lifeStages.0.label>
+  <GR_Spidercat.lifeStages.0.labelPlural>котенята паукокота</GR_Spidercat.lifeStages.0.labelPlural>
+  <GR_Spidercat.lifeStages.0.labelMale>котенок паукокота</GR_Spidercat.lifeStages.0.labelMale>
+  <GR_Spidercat.lifeStages.0.labelMalePlural>котята паукокота</GR_Spidercat.lifeStages.0.labelMalePlural>
+  <GR_Spidercat.lifeStages.0.labelFemale>киска паукокота</GR_Spidercat.lifeStages.0.labelFemale>
+  <GR_Spidercat.lifeStages.0.labelFemalePlural>киски паукокота</GR_Spidercat.lifeStages.0.labelFemalePlural>
+  <GR_Spidercat.lifeStages.1.label>паукокот</GR_Spidercat.lifeStages.1.label>
+  <GR_Spidercat.lifeStages.1.labelPlural>паукокот</GR_Spidercat.lifeStages.1.labelPlural>
+  <GR_Spidercat.lifeStages.1.labelMale>паукокот</GR_Spidercat.lifeStages.1.labelMale>
+  <GR_Spidercat.lifeStages.1.labelMalePlural>паукокоты</GR_Spidercat.lifeStages.1.labelMalePlural>
+  <GR_Spidercat.lifeStages.1.labelFemale>паукокошка</GR_Spidercat.lifeStages.1.labelFemale>
+  <GR_Spidercat.lifeStages.1.labelFemalePlural>паукокошки</GR_Spidercat.lifeStages.1.labelFemalePlural>
+  <GR_Spidercat.lifeStages.2.label>паукокот</GR_Spidercat.lifeStages.2.label>
+  <GR_Spidercat.lifeStages.2.labelPlural>паукокот</GR_Spidercat.lifeStages.2.labelPlural>
+  <GR_Spidercat.lifeStages.2.labelMale>паукокот</GR_Spidercat.lifeStages.2.labelMale>
+  <GR_Spidercat.lifeStages.2.labelMalePlural>паукокоты</GR_Spidercat.lifeStages.2.labelMalePlural>
+  <GR_Spidercat.lifeStages.2.labelFemale>паукокошка</GR_Spidercat.lifeStages.2.labelFemale>
+  <GR_Spidercat.lifeStages.2.labelFemalePlural>паукокошки</GR_Spidercat.lifeStages.2.labelFemalePlural>
+  <GR_Spidercat.labelMale>паукокот</GR_Spidercat.labelMale>
+  <GR_Spidercat.labelMalePlural>паукокоты</GR_Spidercat.labelMalePlural>
+  <GR_Spidercat.labelFemale>паукокошка</GR_Spidercat.labelFemale>
+  <GR_Spidercat.labelFemalePlural>паукокошки</GR_Spidercat.labelFemalePlural>
+
+
+</LanguageData>

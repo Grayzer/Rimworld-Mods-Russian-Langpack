@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple prosthetic privates -->
+
+  <PegDick.label>деревянный дилдо</PegDick.label>
+  <HydraulicPenis.label>гидравлический пенис</HydraulicPenis.label>
+  <HydraulicVagina.label>гидравлическая вагина</HydraulicVagina.label>
+  <HydraulicBreasts.label>гидравлическая грудь</HydraulicBreasts.label>
+  <HydraulicAnus.label>гидравлический анус</HydraulicAnus.label>
+
+
+  <!-- Bionic privates -->
+
+  <BionicPenis.label>бионический пенис</BionicPenis.label>
+  <BionicVagina.label>бионическая вагина</BionicVagina.label>
+  <BionicBreasts.label>бионическая грудь</BionicBreasts.label>
+  <BionicAnus.label>бионический анус</BionicAnus.label>
+
+
+  <!-- Archotech -->
+
+  <ArchotechPenis.label>архотек пенис</ArchotechPenis.label>
+  <ArchotechVagina.label>архотек вагина</ArchotechVagina.label>
+  <ArchotechAnus.label>архотек анус</ArchotechAnus.label>
+  <ArchotechBreasts.label>архотек грудь</ArchotechBreasts.label>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SpecificComponents.label>Специальные компоненты</SpecificComponents.label>
+  <SpecificComponents.description>Исследуя это, ваш колонист научится создавать и идентифицировать Специальные компоненты..</SpecificComponents.description>
+
+  <VeryAdvancedHydroponics.label>Продвинутая Гидропоника</VeryAdvancedHydroponics.label>
+  <VeryAdvancedHydroponics.description>Это еще более продвинутый вариант грядок гидропоники.</VeryAdvancedHydroponics.description>
+
+
+</LanguageData>

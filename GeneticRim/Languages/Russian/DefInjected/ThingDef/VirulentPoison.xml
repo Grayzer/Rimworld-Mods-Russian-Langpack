@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_VirulentPoison.label>virulent poison</GR_VirulentPoison.label>
+  <GR_VirulentPoison.description>This tiny vial is filled with a small amount of Thrumbolizard venom. When ingested, the whole system of the victim shuts down, akin to an anaphylactic reaction. There is no antidote, and no way to survive the poison.</GR_VirulentPoison.description>
+  <GR_VirulentPoison.ingestible.ingestCommandString>Take {0}</GR_VirulentPoison.ingestible.ingestCommandString>
+  <GR_VirulentPoison.ingestible.ingestReportString>Taking {0}.</GR_VirulentPoison.ingestible.ingestReportString>
+
+
+</LanguageData>

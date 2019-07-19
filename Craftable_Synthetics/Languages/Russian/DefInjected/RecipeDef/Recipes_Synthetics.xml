@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateSynthread.label>создать синтеткань</CreateSynthread.label>
+  <CreateSynthread.description>Создает Синтеткань из Ткани, Шерсти и Химического топлива.</CreateSynthread.description>
+  <CreateSynthread.jobString></CreateSynthread.jobString>
+
+  <CreateHyperweave.label>создать гиперткань</CreateHyperweave.label>
+  <CreateHyperweave.description>Создать Гиперткань из Синтеткани и Дьяволотника</CreateHyperweave.description>
+  <CreateHyperweave.jobString></CreateHyperweave.jobString>
+
+
+</LanguageData>

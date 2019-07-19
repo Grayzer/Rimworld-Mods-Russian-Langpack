@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalBreeding.label>anal breeding</AnalBreeding.label>
+  <AnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Mounted [RECIPIENT_nameDef].</AnalBreeding.logRulesInitiator.rulesStrings.0>
+  <AnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Was anally mounted by [INITIATOR_nameDef].</AnalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <VaginalBreeding.label>vaginal breeding</VaginalBreeding.label>
+  <VaginalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Mounted [RECIPIENT_nameDef].</VaginalBreeding.logRulesInitiator.rulesStrings.0>
+  <VaginalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Was mounted by [INITIATOR_nameDef].</VaginalBreeding.logRulesRecipient.rulesStrings.0>
+
+  <OralBreeding.label>oral breeding</OralBreeding.label>
+  <OralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Licked [RECIPIENT_nameDef].</OralBreeding.logRulesInitiator.rulesStrings.0>
+  <OralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Was licked by [INITIATOR_nameDef].</OralBreeding.logRulesRecipient.rulesStrings.0>
+
+  <ForcedFellatioBreeding.label>oral breeding</ForcedFellatioBreeding.label>
+  <ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Face fucked [RECIPIENT_nameDef].</ForcedFellatioBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Was face fucked.</ForcedFellatioBreeding.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- This can only happen if the player disables the other types, which makes things go weird... -->
+
+  <ForcedOralBreeding.label>oral breeding</ForcedOralBreeding.label>
+  <ForcedOralBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Forced oral sex from [RECIPIENT_nameDef].</ForcedOralBreeding.logRulesInitiator.rulesStrings.0>
+  <ForcedOralBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Was forced into giving oral.</ForcedOralBreeding.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- Another rare one, but needed to get the icons working right. -->
+
+  <FingeringBreeding.label>fingering</FingeringBreeding.label>
+  <FingeringBreeding.logRulesInitiator.rulesStrings.0>r_logentry->Fingered [RECIPIENT_nameDef].</FingeringBreeding.logRulesInitiator.rulesStrings.0>
+  <FingeringBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Was fingered by [INITIATOR_nameDef].</FingeringBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestBreeding.label>request breeding</RequestBreeding.label>
+  <RequestBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] presented to [INITIATOR_nameDef].</RequestBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Presented to [INITIATOR_nameDef].</RequestBreeding.logRulesRecipient.rulesStrings.0>
+
+  <RequestAnalBreeding.label>request breeding</RequestAnalBreeding.label>
+  <RequestAnalBreeding.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef] presented to [INITIATOR_nameDef].</RequestAnalBreeding.logRulesInitiator.rulesStrings.0>
+  <RequestAnalBreeding.logRulesRecipient.rulesStrings.0>r_logentry->Presented to [INITIATOR_nameDef].</RequestAnalBreeding.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

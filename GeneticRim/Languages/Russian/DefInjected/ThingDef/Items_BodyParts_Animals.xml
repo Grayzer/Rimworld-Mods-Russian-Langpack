@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Legs -->
+
+  <GR_BearLeg.label>животный имплант: bear leg (tier 1)</GR_BearLeg.label>
+  <GR_BearLeg.description>A prosthetic animal leg strengthened with bear muscles, and ending in a powerful bear claw that adds a powerful melee attack.</GR_BearLeg.description>
+
+  <GR_LizardLeg.label>животный имплант: lizard leg (tier 2)</GR_LizardLeg.label>
+  <GR_LizardLeg.description>A bionic animal leg reinforced with tough lizard skin.</GR_LizardLeg.description>
+
+  <GR_ThrumboLeg.label>животный имплант: thrumbo leg (tier 3)</GR_ThrumboLeg.label>
+  <GR_ThrumboLeg.description>A bionic animal leg reinforced with muscle tissue from a powerful thrumbo.</GR_ThrumboLeg.description>
+
+
+  <!-- Tails -->
+
+  <GR_ScytherTail.label>животный имплант: scyther tail (tier 2)</GR_ScytherTail.label>
+  <GR_ScytherTail.description>A scyther tail created by attaching a scyther blade to an animal's tail. Note that only creatures with a natural tail can use this.</GR_ScytherTail.description>
+
+  <GR_MechaTail.label>животный имплант: mechanoid tail (tier 3)</GR_MechaTail.label>
+  <GR_MechaTail.description>An advanced mechanoid tail, even more powerful than the old scyther tail. Note that only creatures with a natural tail can use this.</GR_MechaTail.description>
+
+
+  <!-- Eyes -->
+
+  <GR_CanidEye.label>животный имплант: canid eye (tier 1)</GR_CanidEye.label>
+  <GR_CanidEye.description>An eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes.</GR_CanidEye.description>
+
+  <GR_InsectileEye.label>животный имплант: insectile eye (tier 2)</GR_InsectileEye.label>
+  <GR_InsectileEye.description>A bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement.</GR_InsectileEye.description>
+
+  <GR_ThrumboEye.label>животный имплант: bionic thrumbo eye (tier 3)</GR_ThrumboEye.label>
+  <GR_ThrumboEye.description>A bionic eye reinforced with specialized photoreceptors from a powerful thrumbo.</GR_ThrumboEye.description>
+
+
+  <!-- Ears -->
+
+  <GR_RodentEar.label>животный имплант: rodent ear (tier 1)</GR_RodentEar.label>
+  <GR_RodentEar.description>An ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears.</GR_RodentEar.description>
+
+  <GR_MothTympanalOrgan.label>животный имплант: moth tympanal organ (tier 2)</GR_MothTympanalOrgan.label>
+  <GR_MothTympanalOrgan.description>A bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce.</GR_MothTympanalOrgan.description>
+
+  <GR_MechaReceptors.label>животный имплант: mechanoid auditory receptors (tier 3)</GR_MechaReceptors.label>
+  <GR_MechaReceptors.description>These mechanoid auditory receptors can scan a really wide band of frequencies.</GR_MechaReceptors.description>
+
+
+  <!-- Noses -->
+
+  <GR_RodentNose.label>животный имплант: rodent nose (tier 1)</GR_RodentNose.label>
+  <GR_RodentNose.description>An implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects.</GR_RodentNose.description>
+
+  <GR_InsectoidPheromones.label>животный имплант: pheromone receivers (tier 2)</GR_InsectoidPheromones.label>
+  <GR_InsectoidPheromones.description>An implant that uses genetic splicing with alien insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects.</GR_InsectoidPheromones.description>
+
+  <GR_MiniatureThrumboHorn.label>животный имплант: miniature thrumbo horn (tier 3)</GR_MiniatureThrumboHorn.label>
+  <GR_MiniatureThrumboHorn.description>A bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant.</GR_MiniatureThrumboHorn.description>
+
+
+  <!-- Jaws -->
+
+  <GR_WolfJaws.label>животный имплант: wolf jaws (tier 1)</GR_WolfJaws.label>
+  <GR_WolfJaws.description>An implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws.</GR_WolfJaws.description>
+
+  <GR_InsectMandibles.label>животный имплант: insect mandibles (tier 2)</GR_InsectMandibles.label>
+  <GR_InsectMandibles.description>A bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offesive weapon</GR_InsectMandibles.description>
+
+  <GR_ThrumboJaws.label>животный имплант: bionic thrumbo jaws (tier 3)</GR_ThrumboJaws.label>
+  <GR_ThrumboJaws.description>A bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task.</GR_ThrumboJaws.description>
+
+
+  <!-- Spines -->
+
+  <GR_MuffaloSpine.label>животный имплант: muffalo spine (tier 1)</GR_MuffaloSpine.label>
+  <GR_MuffaloSpine.description>A spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines.</GR_MuffaloSpine.description>
+
+  <GR_CrocodileSpine.label>животный имплант: crocodile spine (tier 2)</GR_CrocodileSpine.label>
+  <GR_CrocodileSpine.description>A bionic implant adding a sturdy crocodile spine to the creature's skeletal system.</GR_CrocodileSpine.description>
+
+  <GR_MechaSpine.label>животный имплант: mechanoid spine (tier 3)</GR_MechaSpine.label>
+  <GR_MechaSpine.description>A bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system.</GR_MechaSpine.description>
+
+
+  <!-- Brains -->
+
+  <GR_ChickenBrains.label>животный имплант: chicken brains (tier 1)</GR_ChickenBrains.label>
+  <GR_ChickenBrains.description>An implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures.</GR_ChickenBrains.description>
+
+  <GR_MonitorLizardBrain.label>животный имплант: monitor lizard brain (tier 2)</GR_MonitorLizardBrain.label>
+  <GR_MonitorLizardBrain.description>A bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes.</GR_MonitorLizardBrain.description>
+
+  <GR_ThrumboBrain.label>животный имплант: bionic thrumbo brain (tier 3)</GR_ThrumboBrain.label>
+  <GR_ThrumboBrain.description>A bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes.</GR_ThrumboBrain.description>
+
+
+  <!-- Hearts -->
+
+  <GR_BoomalopeHeart.label>животный имплант: boomalope heart (tier 1)</GR_BoomalopeHeart.label>
+  <GR_BoomalopeHeart.description>An implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart.</GR_BoomalopeHeart.description>
+
+  <GR_ChitinousHeart.label>животный имплант: chitinous heart (tier 2)</GR_ChitinousHeart.label>
+  <GR_ChitinousHeart.description>A bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise .</GR_ChitinousHeart.description>
+
+  <GR_MechaHeart.label>животный имплант: mechanoid heart (tier 3)</GR_MechaHeart.label>
+  <GR_MechaHeart.description>A bionic heart strengthened by the action of active mechanites.</GR_MechaHeart.description>
+
+
+  <!-- Lungs -->
+
+  <GR_MuffaloLung.label>животный имплант: muffalo lung (tier 1)</GR_MuffaloLung.label>
+  <GR_MuffaloLung.description>An implant that uses muffalo genes to increase breathing capacity.</GR_MuffaloLung.description>
+
+
+  <!-- Liver -->
+
+  <GR_BearLiver.label>животный имплант: bear liver (tier 1)</GR_BearLiver.label>
+  <GR_BearLiver.description>An implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens.</GR_BearLiver.description>
+
+
+  <!-- Kidney -->
+
+  <GR_ChickenKidney.label>животный имплант: chicken kidney (tier 1)</GR_ChickenKidney.label>
+  <GR_ChickenKidney.description>An implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today.</GR_ChickenKidney.description>
+
+
+  <!-- Stomach -->
+
+  <GR_BoomalopeStomach.label>животный имплант: boomalope stomach (tier 1)</GR_BoomalopeStomach.label>
+  <GR_BoomalopeStomach.description>An implant that uses boomalope genes to improve function of the stomach.</GR_BoomalopeStomach.description>
+
+
+</LanguageData>

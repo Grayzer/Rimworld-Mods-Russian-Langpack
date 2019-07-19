@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ECP_PodLarge.label>Большая транспортная капсула</ECP_PodLarge.label>
+  <ECP_PodLarge.description>Сверхмощный стартовый суборбитальный грузовой отсек. Может использоваться для отправки подарков, людей и материалов в удаленные места.</ECP_PodLarge.description>
+  <ECP_PodLarge_Blueprint.label>Большая транспортная капсула (чертеж)</ECP_PodLarge_Blueprint.label>
+  <ECP_PodLarge_Frame.label>Большая транспортная капсула (стройка)</ECP_PodLarge_Frame.label>
+  <ECP_PodLarge_Frame.description>Сверхмощный стартовый суборбитальный грузовой отсек. Может использоваться для отправки подарков, людей и материалов в удаленные места.</ECP_PodLarge_Frame.description>
+
+  <ECP_PodHuge.label>Огромная транспортная капсула</ECP_PodHuge.label>
+  <ECP_PodHuge.description>Сверхмощный стартовый суборбитальный грузовой отсек. Может использоваться для отправки подарков, людей и предметов снабжения на другую сторону планеты.</ECP_PodHuge.description>
+  <ECP_PodHuge_Blueprint.label>Огромная транспортная капсула (чертеж)</ECP_PodHuge_Blueprint.label>
+  <ECP_PodHuge_Frame.label>Огромная транспортная капсула (стройка)</ECP_PodHuge_Frame.label>
+  <ECP_PodHuge_Frame.description>Сверхмощный стартовый суборбитальный грузовой отсек. Может использоваться для отправки подарков, людей и предметов снабжения на другую сторону планеты.</ECP_PodHuge_Frame.description>
+
+
+</LanguageData>

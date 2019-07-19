@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_AnimalControlHub.label>центр контроля животных</GR_AnimalControlHub.label>
+  <GR_AnimalControlHub.description>Once the animal control hub is active in your map, you can access new abilities in your hybrids, allowing you to control them directly.</GR_AnimalControlHub.description>
+  <GR_AnimalControlHub_Blueprint.label>центр контроля животных (чертеж)</GR_AnimalControlHub_Blueprint.label>
+  <GR_AnimalControlHub_Blueprint_Install.label>центр контроля животных (чертеж)</GR_AnimalControlHub_Blueprint_Install.label>
+  <GR_AnimalControlHub_Frame.label>центр контроля животных (стройка)</GR_AnimalControlHub_Frame.label>
+  <GR_AnimalControlHub_Frame.description>Once the animal control hub is active in your map, you can access new abilities in your hybrids, allowing you to control them directly.</GR_AnimalControlHub_Frame.description>
+
+
+</LanguageData>

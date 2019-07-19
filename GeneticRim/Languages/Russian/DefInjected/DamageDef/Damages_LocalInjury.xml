@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_VeryToxicBite.label>опасный ядовитый укус</GR_VeryToxicBite.label>
+  <GR_VeryToxicBite.deathMessage>{0} был укушен до смерти.</GR_VeryToxicBite.deathMessage>
+
+  <GR_LightToxicBite.label>легкий ядовитый укус</GR_LightToxicBite.label>
+  <GR_LightToxicBite.deathMessage>{0} был укушен до смерти.</GR_LightToxicBite.deathMessage>
+
+  <GR_HairballProjectileDamage.label>лохматик</GR_HairballProjectileDamage.label>
+  <GR_HairballProjectileDamage.deathMessage>{0} был укушен до смерти.</GR_HairballProjectileDamage.deathMessage>
+
+  <GR_GreatHairballProjectileDamage.label>большой лохматик</GR_GreatHairballProjectileDamage.label>
+  <GR_GreatHairballProjectileDamage.deathMessage>{0} был укушен до смерти.</GR_GreatHairballProjectileDamage.deathMessage>
+
+  <GR_ToxicExplosion.label>токсичный взрыв</GR_ToxicExplosion.label>
+  <GR_ToxicExplosion.deathMessage>{0} был отравлен до смерти.</GR_ToxicExplosion.deathMessage>
+
+  <GR_HairballExplosion.label>лохматый взрыв</GR_HairballExplosion.label>
+  <GR_HairballExplosion.deathMessage>{0} был задушен кошачьей шерстью до смерти.</GR_HairballExplosion.deathMessage>
+
+  <GR_PlagueBite.label>чумной укус</GR_PlagueBite.label>
+  <GR_PlagueBite.deathMessage>{0} был укушен до смерти.</GR_PlagueBite.deathMessage>
+
+  <GR_MiniGrain.label>бомба</GR_MiniGrain.label>
+  <GR_MiniGrain.deathMessage>{0} умер в результате взрыва.</GR_MiniGrain.deathMessage>
+
+
+</LanguageData>

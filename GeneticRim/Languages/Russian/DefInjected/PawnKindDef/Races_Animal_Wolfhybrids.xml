@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wolf - Bear -->
+
+  <GR_Wolfbear.label>wolfbear</GR_Wolfbear.label>
+  <GR_Wolfbear.labelPlural>wolfbears</GR_Wolfbear.labelPlural>
+  <GR_Wolfbear.lifeStages.0.label>wolfbear puppy</GR_Wolfbear.lifeStages.0.label>
+  <GR_Wolfbear.lifeStages.0.labelPlural>wolfbear puppies</GR_Wolfbear.lifeStages.0.labelPlural>
+  <GR_Wolfbear.lifeStages.0.labelMale>male wolfbear puppy</GR_Wolfbear.lifeStages.0.labelMale>
+  <GR_Wolfbear.lifeStages.0.labelMalePlural>male wolfbear puppies</GR_Wolfbear.lifeStages.0.labelMalePlural>
+  <GR_Wolfbear.lifeStages.0.labelFemale>female wolfbear puppy</GR_Wolfbear.lifeStages.0.labelFemale>
+  <GR_Wolfbear.lifeStages.0.labelFemalePlural>female wolfbear puppies</GR_Wolfbear.lifeStages.0.labelFemalePlural>
+  <GR_Wolfbear.lifeStages.1.label>wolfbear</GR_Wolfbear.lifeStages.1.label>
+  <GR_Wolfbear.lifeStages.1.labelPlural>wolfbear</GR_Wolfbear.lifeStages.1.labelPlural>
+  <GR_Wolfbear.lifeStages.1.labelMale>male wolfbear</GR_Wolfbear.lifeStages.1.labelMale>
+  <GR_Wolfbear.lifeStages.1.labelMalePlural>male wolfbears</GR_Wolfbear.lifeStages.1.labelMalePlural>
+  <GR_Wolfbear.lifeStages.1.labelFemale>female wolfbear</GR_Wolfbear.lifeStages.1.labelFemale>
+  <GR_Wolfbear.lifeStages.1.labelFemalePlural>female wolfbears</GR_Wolfbear.lifeStages.1.labelFemalePlural>
+  <GR_Wolfbear.lifeStages.2.label>wolfbear</GR_Wolfbear.lifeStages.2.label>
+  <GR_Wolfbear.lifeStages.2.labelPlural>wolfbear</GR_Wolfbear.lifeStages.2.labelPlural>
+  <GR_Wolfbear.lifeStages.2.labelMale>male wolfbear</GR_Wolfbear.lifeStages.2.labelMale>
+  <GR_Wolfbear.lifeStages.2.labelMalePlural>male wolfbears</GR_Wolfbear.lifeStages.2.labelMalePlural>
+  <GR_Wolfbear.lifeStages.2.labelFemale>female wolfbear</GR_Wolfbear.lifeStages.2.labelFemale>
+  <GR_Wolfbear.lifeStages.2.labelFemalePlural>female wolfbears</GR_Wolfbear.lifeStages.2.labelFemalePlural>
+  <GR_Wolfbear.labelMale>male wolfbear</GR_Wolfbear.labelMale>
+  <GR_Wolfbear.labelMalePlural>male wolfbears</GR_Wolfbear.labelMalePlural>
+  <GR_Wolfbear.labelFemale>female wolfbear</GR_Wolfbear.labelFemale>
+  <GR_Wolfbear.labelFemalePlural>female wolfbears</GR_Wolfbear.labelFemalePlural>
+
+
+  <!-- Wolf - Boomalope -->
+
+  <GR_Wolfalope.label>wolfalope</GR_Wolfalope.label>
+  <GR_Wolfalope.labelPlural>wolfalopes</GR_Wolfalope.labelPlural>
+  <GR_Wolfalope.lifeStages.0.label>wolfalope puppy</GR_Wolfalope.lifeStages.0.label>
+  <GR_Wolfalope.lifeStages.0.labelPlural>wolfalope puppies</GR_Wolfalope.lifeStages.0.labelPlural>
+  <GR_Wolfalope.lifeStages.0.labelMale>male wolfalope puppy</GR_Wolfalope.lifeStages.0.labelMale>
+  <GR_Wolfalope.lifeStages.0.labelMalePlural>male wolfalope puppies</GR_Wolfalope.lifeStages.0.labelMalePlural>
+  <GR_Wolfalope.lifeStages.0.labelFemale>female wolfalope puppy</GR_Wolfalope.lifeStages.0.labelFemale>
+  <GR_Wolfalope.lifeStages.0.labelFemalePlural>female wolfalope puppies</GR_Wolfalope.lifeStages.0.labelFemalePlural>
+  <GR_Wolfalope.lifeStages.1.label>wolfalope</GR_Wolfalope.lifeStages.1.label>
+  <GR_Wolfalope.lifeStages.1.labelPlural>wolfalope</GR_Wolfalope.lifeStages.1.labelPlural>
+  <GR_Wolfalope.lifeStages.1.labelMale>male wolfalope</GR_Wolfalope.lifeStages.1.labelMale>
+  <GR_Wolfalope.lifeStages.1.labelMalePlural>male wolfalopes</GR_Wolfalope.lifeStages.1.labelMalePlural>
+  <GR_Wolfalope.lifeStages.1.labelFemale>female wolfalope</GR_Wolfalope.lifeStages.1.labelFemale>
+  <GR_Wolfalope.lifeStages.1.labelFemalePlural>female wolfalopes</GR_Wolfalope.lifeStages.1.labelFemalePlural>
+  <GR_Wolfalope.lifeStages.2.label>wolfalope</GR_Wolfalope.lifeStages.2.label>
+  <GR_Wolfalope.lifeStages.2.labelPlural>wolfalope</GR_Wolfalope.lifeStages.2.labelPlural>
+  <GR_Wolfalope.lifeStages.2.labelMale>male wolfalope</GR_Wolfalope.lifeStages.2.labelMale>
+  <GR_Wolfalope.lifeStages.2.labelMalePlural>male wolfalopes</GR_Wolfalope.lifeStages.2.labelMalePlural>
+  <GR_Wolfalope.lifeStages.2.labelFemale>female wolfalope</GR_Wolfalope.lifeStages.2.labelFemale>
+  <GR_Wolfalope.lifeStages.2.labelFemalePlural>female wolfalopes</GR_Wolfalope.lifeStages.2.labelFemalePlural>
+  <GR_Wolfalope.labelMale>male wolfalope</GR_Wolfalope.labelMale>
+  <GR_Wolfalope.labelMalePlural>male wolfalopes</GR_Wolfalope.labelMalePlural>
+  <GR_Wolfalope.labelFemale>female wolfalope</GR_Wolfalope.labelFemale>
+  <GR_Wolfalope.labelFemalePlural>female wolfalopes</GR_Wolfalope.labelFemalePlural>
+
+
+  <!-- Wolf - Chicken -->
+
+  <GR_Wolfchicken.label>wolfchicken</GR_Wolfchicken.label>
+  <GR_Wolfchicken.labelPlural>wolfchickens</GR_Wolfchicken.labelPlural>
+  <GR_Wolfchicken.lifeStages.0.label>wolfchicken puppy</GR_Wolfchicken.lifeStages.0.label>
+  <GR_Wolfchicken.lifeStages.0.labelPlural>wolfchicken puppies</GR_Wolfchicken.lifeStages.0.labelPlural>
+  <GR_Wolfchicken.lifeStages.0.labelMale>male wolfchicken puppy</GR_Wolfchicken.lifeStages.0.labelMale>
+  <GR_Wolfchicken.lifeStages.0.labelMalePlural>male wolfchicken puppies</GR_Wolfchicken.lifeStages.0.labelMalePlural>
+  <GR_Wolfchicken.lifeStages.0.labelFemale>female wolfchicken puppy</GR_Wolfchicken.lifeStages.0.labelFemale>
+  <GR_Wolfchicken.lifeStages.0.labelFemalePlural>female wolfchicken puppies</GR_Wolfchicken.lifeStages.0.labelFemalePlural>
+  <GR_Wolfchicken.lifeStages.1.label>wolfchicken</GR_Wolfchicken.lifeStages.1.label>
+  <GR_Wolfchicken.lifeStages.1.labelPlural>wolfchicken</GR_Wolfchicken.lifeStages.1.labelPlural>
+  <GR_Wolfchicken.lifeStages.1.labelMale>male wolfchicken</GR_Wolfchicken.lifeStages.1.labelMale>
+  <GR_Wolfchicken.lifeStages.1.labelMalePlural>male wolfchickens</GR_Wolfchicken.lifeStages.1.labelMalePlural>
+  <GR_Wolfchicken.lifeStages.1.labelFemale>female wolfchicken</GR_Wolfchicken.lifeStages.1.labelFemale>
+  <GR_Wolfchicken.lifeStages.1.labelFemalePlural>female wolfchickens</GR_Wolfchicken.lifeStages.1.labelFemalePlural>
+  <GR_Wolfchicken.lifeStages.2.label>wolfchicken</GR_Wolfchicken.lifeStages.2.label>
+  <GR_Wolfchicken.lifeStages.2.labelPlural>wolfchicken</GR_Wolfchicken.lifeStages.2.labelPlural>
+  <GR_Wolfchicken.lifeStages.2.labelMale>male wolfchicken</GR_Wolfchicken.lifeStages.2.labelMale>
+  <GR_Wolfchicken.lifeStages.2.labelMalePlural>male wolfchickens</GR_Wolfchicken.lifeStages.2.labelMalePlural>
+  <GR_Wolfchicken.lifeStages.2.labelFemale>female wolfchicken</GR_Wolfchicken.lifeStages.2.labelFemale>
+  <GR_Wolfchicken.lifeStages.2.labelFemalePlural>female wolfchickens</GR_Wolfchicken.lifeStages.2.labelFemalePlural>
+  <GR_Wolfchicken.labelMale>male wolfchicken</GR_Wolfchicken.labelMale>
+  <GR_Wolfchicken.labelMalePlural>male wolfchickens</GR_Wolfchicken.labelMalePlural>
+  <GR_Wolfchicken.labelFemale>female wolfchicken</GR_Wolfchicken.labelFemale>
+  <GR_Wolfchicken.labelFemalePlural>female wolfchickens</GR_Wolfchicken.labelFemalePlural>
+
+
+  <!-- Wolf - Muffalo -->
+
+  <GR_Wolffalo.label>wolffalo</GR_Wolffalo.label>
+  <GR_Wolffalo.labelPlural>wolffalos</GR_Wolffalo.labelPlural>
+  <GR_Wolffalo.lifeStages.0.label>wolffalo puppy</GR_Wolffalo.lifeStages.0.label>
+  <GR_Wolffalo.lifeStages.0.labelPlural>wolffalo puppies</GR_Wolffalo.lifeStages.0.labelPlural>
+  <GR_Wolffalo.lifeStages.0.labelMale>male wolffalo puppy</GR_Wolffalo.lifeStages.0.labelMale>
+  <GR_Wolffalo.lifeStages.0.labelMalePlural>male wolffalo puppies</GR_Wolffalo.lifeStages.0.labelMalePlural>
+  <GR_Wolffalo.lifeStages.0.labelFemale>female wolffalo puppy</GR_Wolffalo.lifeStages.0.labelFemale>
+  <GR_Wolffalo.lifeStages.0.labelFemalePlural>female wolffalo puppies</GR_Wolffalo.lifeStages.0.labelFemalePlural>
+  <GR_Wolffalo.lifeStages.1.label>wolffalo</GR_Wolffalo.lifeStages.1.label>
+  <GR_Wolffalo.lifeStages.1.labelPlural>wolffalo</GR_Wolffalo.lifeStages.1.labelPlural>
+  <GR_Wolffalo.lifeStages.1.labelMale>male wolffalo</GR_Wolffalo.lifeStages.1.labelMale>
+  <GR_Wolffalo.lifeStages.1.labelMalePlural>male wolffalos</GR_Wolffalo.lifeStages.1.labelMalePlural>
+  <GR_Wolffalo.lifeStages.1.labelFemale>female wolffalo</GR_Wolffalo.lifeStages.1.labelFemale>
+  <GR_Wolffalo.lifeStages.1.labelFemalePlural>female wolffalos</GR_Wolffalo.lifeStages.1.labelFemalePlural>
+  <GR_Wolffalo.lifeStages.2.label>wolffalo</GR_Wolffalo.lifeStages.2.label>
+  <GR_Wolffalo.lifeStages.2.labelPlural>wolffalo</GR_Wolffalo.lifeStages.2.labelPlural>
+  <GR_Wolffalo.lifeStages.2.labelMale>male wolffalo</GR_Wolffalo.lifeStages.2.labelMale>
+  <GR_Wolffalo.lifeStages.2.labelMalePlural>male wolffalos</GR_Wolffalo.lifeStages.2.labelMalePlural>
+  <GR_Wolffalo.lifeStages.2.labelFemale>female wolffalo</GR_Wolffalo.lifeStages.2.labelFemale>
+  <GR_Wolffalo.lifeStages.2.labelFemalePlural>female wolffalos</GR_Wolffalo.lifeStages.2.labelFemalePlural>
+  <GR_Wolffalo.labelMale>male wolffalo</GR_Wolffalo.labelMale>
+  <GR_Wolffalo.labelMalePlural>male wolffalos</GR_Wolffalo.labelMalePlural>
+  <GR_Wolffalo.labelFemale>female wolffalo</GR_Wolffalo.labelFemale>
+  <GR_Wolffalo.labelFemalePlural>female wolffalos</GR_Wolffalo.labelFemalePlural>
+
+
+  <!-- Wolf - Rodent -->
+
+  <GR_Wolfbeaver.label>wolfbeaver</GR_Wolfbeaver.label>
+  <GR_Wolfbeaver.labelPlural>wolfbeavers</GR_Wolfbeaver.labelPlural>
+  <GR_Wolfbeaver.lifeStages.0.label>wolfbeaver puppy</GR_Wolfbeaver.lifeStages.0.label>
+  <GR_Wolfbeaver.lifeStages.0.labelPlural>wolfbeaver puppies</GR_Wolfbeaver.lifeStages.0.labelPlural>
+  <GR_Wolfbeaver.lifeStages.0.labelMale>male wolfbeaver puppy</GR_Wolfbeaver.lifeStages.0.labelMale>
+  <GR_Wolfbeaver.lifeStages.0.labelMalePlural>male wolfbeaver puppies</GR_Wolfbeaver.lifeStages.0.labelMalePlural>
+  <GR_Wolfbeaver.lifeStages.0.labelFemale>female wolfbeaver puppy</GR_Wolfbeaver.lifeStages.0.labelFemale>
+  <GR_Wolfbeaver.lifeStages.0.labelFemalePlural>female wolfbeaver puppies</GR_Wolfbeaver.lifeStages.0.labelFemalePlural>
+  <GR_Wolfbeaver.lifeStages.1.label>wolfbeaver</GR_Wolfbeaver.lifeStages.1.label>
+  <GR_Wolfbeaver.lifeStages.1.labelPlural>wolfbeaver</GR_Wolfbeaver.lifeStages.1.labelPlural>
+  <GR_Wolfbeaver.lifeStages.1.labelMale>male wolfbeaver</GR_Wolfbeaver.lifeStages.1.labelMale>
+  <GR_Wolfbeaver.lifeStages.1.labelMalePlural>male wolfbeavers</GR_Wolfbeaver.lifeStages.1.labelMalePlural>
+  <GR_Wolfbeaver.lifeStages.1.labelFemale>female wolfbeaver</GR_Wolfbeaver.lifeStages.1.labelFemale>
+  <GR_Wolfbeaver.lifeStages.1.labelFemalePlural>female wolfbeavers</GR_Wolfbeaver.lifeStages.1.labelFemalePlural>
+  <GR_Wolfbeaver.lifeStages.2.label>wolfbeaver</GR_Wolfbeaver.lifeStages.2.label>
+  <GR_Wolfbeaver.lifeStages.2.labelPlural>wolfbeaver</GR_Wolfbeaver.lifeStages.2.labelPlural>
+  <GR_Wolfbeaver.lifeStages.2.labelMale>male wolfbeaver</GR_Wolfbeaver.lifeStages.2.labelMale>
+  <GR_Wolfbeaver.lifeStages.2.labelMalePlural>male wolfbeavers</GR_Wolfbeaver.lifeStages.2.labelMalePlural>
+  <GR_Wolfbeaver.lifeStages.2.labelFemale>female wolfbeaver</GR_Wolfbeaver.lifeStages.2.labelFemale>
+  <GR_Wolfbeaver.lifeStages.2.labelFemalePlural>female wolfbeavers</GR_Wolfbeaver.lifeStages.2.labelFemalePlural>
+  <GR_Wolfbeaver.labelMale>male wolfbeaver</GR_Wolfbeaver.labelMale>
+  <GR_Wolfbeaver.labelMalePlural>male wolfbeavers</GR_Wolfbeaver.labelMalePlural>
+  <GR_Wolfbeaver.labelFemale>female wolfbeaver</GR_Wolfbeaver.labelFemale>
+  <GR_Wolfbeaver.labelFemalePlural>female wolfbeavers</GR_Wolfbeaver.labelFemalePlural>
+
+
+  <!-- Wolf - Cat -->
+
+  <GR_Wolfcat.label>wolfcat</GR_Wolfcat.label>
+  <GR_Wolfcat.labelPlural>wolfcats</GR_Wolfcat.labelPlural>
+  <GR_Wolfcat.lifeStages.0.label>wolfcat puppy</GR_Wolfcat.lifeStages.0.label>
+  <GR_Wolfcat.lifeStages.0.labelPlural>wolfcat puppies</GR_Wolfcat.lifeStages.0.labelPlural>
+  <GR_Wolfcat.lifeStages.0.labelMale>male wolfcat puppy</GR_Wolfcat.lifeStages.0.labelMale>
+  <GR_Wolfcat.lifeStages.0.labelMalePlural>male wolfcat puppies</GR_Wolfcat.lifeStages.0.labelMalePlural>
+  <GR_Wolfcat.lifeStages.0.labelFemale>female wolfcat puppy</GR_Wolfcat.lifeStages.0.labelFemale>
+  <GR_Wolfcat.lifeStages.0.labelFemalePlural>female wolfcat puppies</GR_Wolfcat.lifeStages.0.labelFemalePlural>
+  <GR_Wolfcat.lifeStages.1.label>wolfcat</GR_Wolfcat.lifeStages.1.label>
+  <GR_Wolfcat.lifeStages.1.labelPlural>wolfcat</GR_Wolfcat.lifeStages.1.labelPlural>
+  <GR_Wolfcat.lifeStages.1.labelMale>male wolfcat</GR_Wolfcat.lifeStages.1.labelMale>
+  <GR_Wolfcat.lifeStages.1.labelMalePlural>male wolfcats</GR_Wolfcat.lifeStages.1.labelMalePlural>
+  <GR_Wolfcat.lifeStages.1.labelFemale>female wolfcat</GR_Wolfcat.lifeStages.1.labelFemale>
+  <GR_Wolfcat.lifeStages.1.labelFemalePlural>female wolfcats</GR_Wolfcat.lifeStages.1.labelFemalePlural>
+  <GR_Wolfcat.lifeStages.2.label>wolfcat</GR_Wolfcat.lifeStages.2.label>
+  <GR_Wolfcat.lifeStages.2.labelPlural>wolfcat</GR_Wolfcat.lifeStages.2.labelPlural>
+  <GR_Wolfcat.lifeStages.2.labelMale>male wolfcat</GR_Wolfcat.lifeStages.2.labelMale>
+  <GR_Wolfcat.lifeStages.2.labelMalePlural>male wolfcats</GR_Wolfcat.lifeStages.2.labelMalePlural>
+  <GR_Wolfcat.lifeStages.2.labelFemale>female wolfcat</GR_Wolfcat.lifeStages.2.labelFemale>
+  <GR_Wolfcat.lifeStages.2.labelFemalePlural>female wolfcats</GR_Wolfcat.lifeStages.2.labelFemalePlural>
+  <GR_Wolfcat.labelMale>male wolfcat</GR_Wolfcat.labelMale>
+  <GR_Wolfcat.labelMalePlural>male wolfcats</GR_Wolfcat.labelMalePlural>
+  <GR_Wolfcat.labelFemale>female wolfcat</GR_Wolfcat.labelFemale>
+  <GR_Wolfcat.labelFemalePlural>female wolfcats</GR_Wolfcat.labelFemalePlural>
+
+
+</LanguageData>

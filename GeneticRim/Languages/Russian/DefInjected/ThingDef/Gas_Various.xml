@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_Gas_Ice.label>ice crystals</GR_Gas_Ice.label>
+  <GR_Poison_Gas.label>poison gas</GR_Poison_Gas.label>
+  <GR_Hairballs.label>hairballs</GR_Hairballs.label>
+  <GR_Poison_Cloud.label>poison cloud</GR_Poison_Cloud.label>
+  <GR_InsectCloudMotes.label>insect clouds</GR_InsectCloudMotes.label>
+  <GR_Gas_Dust.label>dust</GR_Gas_Dust.label>
+
+
+</LanguageData>

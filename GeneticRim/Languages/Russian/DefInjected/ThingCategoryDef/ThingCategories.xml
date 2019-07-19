@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_GeneticMaterial.label>генетические материалы</GR_GeneticMaterial.label>
+  <GR_Incubators.label>инкубаторы</GR_Incubators.label>
+  <GR_AlphaSerums.label>образцы сыворотки</GR_AlphaSerums.label>
+  <GR_Corpses.label>трупы гибридов и образцов</GR_Corpses.label>
+  <GR_ImplantCategory.label>импланты гибридов</GR_ImplantCategory.label>
+  <GR_GenetrainersCategory.label>геномодификаторы</GR_GenetrainersCategory.label>
+
+
+</LanguageData>

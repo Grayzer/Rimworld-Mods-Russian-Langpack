@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_ElectroEggHigh.label>высокоактивные механиты</GR_ElectroEggHigh.label>
+  <GR_ElectroEggHigh.labelNoun>высокая активность механитов</GR_ElectroEggHigh.labelNoun>
+
+
+  <!-- GR_ElectroEgg addiction -->
+
+  <GR_ElectroEggTolerance.label>толерантность к активным механитам</GR_ElectroEggTolerance.label>
+  <GR_ElectroEggTolerance.stages.0.label>начальная</GR_ElectroEggTolerance.stages.0.label>
+  <GR_ElectroEggTolerance.stages.1.label>слабая</GR_ElectroEggTolerance.stages.1.label>
+  <GR_ElectroEggTolerance.stages.2.label>большая</GR_ElectroEggTolerance.stages.2.label>
+  <GR_ElectroEggTolerance.stages.3.label>огромная</GR_ElectroEggTolerance.stages.3.label>
+
+  <GR_ElectroEggAddiction.label>склонность к активным механитам</GR_ElectroEggAddiction.label>
+  <GR_ElectroEggAddiction.stages.1.label>ломка</GR_ElectroEggAddiction.stages.1.label>
+
+
+</LanguageData>

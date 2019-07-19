@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_HugeBearRug.label>огромный медвежий ковер</GR_HugeBearRug.label>
+  <GR_HugeBearRug.description>A bear pelt rug. Taxidermy seems to be in vogue on the Rim!</GR_HugeBearRug.description>
+  <GR_HugeBearRug_Blueprint.label>huge bear rug (blueprint)</GR_HugeBearRug_Blueprint.label>
+  <GR_HugeBearRug_Blueprint_Install.label>huge bear rug (blueprint)</GR_HugeBearRug_Blueprint_Install.label>
+  <GR_HugeBearRug_Frame.label>huge bear rug (building)</GR_HugeBearRug_Frame.label>
+  <GR_HugeBearRug_Frame.description>A bear pelt rug. Taxidermy seems to be in vogue on the Rim!</GR_HugeBearRug_Frame.description>
+
+  <GR_HugeBearCatRug.label>огромный медвекотовый ковер</GR_HugeBearCatRug.label>
+  <GR_HugeBearCatRug.description>A bearcat pelt rug. This thing seems to be quite more exotic than other pelt rugs!</GR_HugeBearCatRug.description>
+  <GR_HugeBearCatRug_Blueprint.label>huge bearcat rug (blueprint)</GR_HugeBearCatRug_Blueprint.label>
+  <GR_HugeBearCatRug_Blueprint_Install.label>huge bearcat rug (blueprint)</GR_HugeBearCatRug_Blueprint_Install.label>
+  <GR_HugeBearCatRug_Frame.label>huge bearcat rug (building)</GR_HugeBearCatRug_Frame.label>
+  <GR_HugeBearCatRug_Frame.description>A bearcat pelt rug. This thing seems to be quite more exotic than other pelt rugs!</GR_HugeBearCatRug_Frame.description>
+
+  <GR_WolfRug.label>волчий ковер</GR_WolfRug.label>
+  <GR_WolfRug.description>A wolf pelt rug. Taxidermy seems to be in vogue on the Rim!</GR_WolfRug.description>
+  <GR_WolfRug_Blueprint.label>wolf rug (blueprint)</GR_WolfRug_Blueprint.label>
+  <GR_WolfRug_Blueprint_Install.label>wolf rug (blueprint)</GR_WolfRug_Blueprint_Install.label>
+  <GR_WolfRug_Frame.label>wolf rug (building)</GR_WolfRug_Frame.label>
+  <GR_WolfRug_Frame.description>A wolf pelt rug. Taxidermy seems to be in vogue on the Rim!</GR_WolfRug_Frame.description>
+
+  <GR_MuffaloRug.label>муффало ковер</GR_MuffaloRug.label>
+  <GR_MuffaloRug.description>A muffalo pelt rug. Taxidermy seems to be in vogue on the Rim!</GR_MuffaloRug.description>
+  <GR_MuffaloRug_Blueprint.label>muffalo pelt rug (blueprint)</GR_MuffaloRug_Blueprint.label>
+  <GR_MuffaloRug_Blueprint_Install.label>muffalo pelt rug (blueprint)</GR_MuffaloRug_Blueprint_Install.label>
+  <GR_MuffaloRug_Frame.label>muffalo pelt rug (building)</GR_MuffaloRug_Frame.label>
+  <GR_MuffaloRug_Frame.description>A muffalo pelt rug. Taxidermy seems to be in vogue on the Rim!</GR_MuffaloRug_Frame.description>
+
+  <GR_BoarTuskStatuette.label>статуэтка из бивня кабана</GR_BoarTuskStatuette.label>
+  <GR_BoarTuskStatuette.description>A boar tusk carved into an artistic form.</GR_BoarTuskStatuette.description>
+  <GR_BoarTuskStatuette_Blueprint.label>small boar tusk statuette (blueprint)</GR_BoarTuskStatuette_Blueprint.label>
+  <GR_BoarTuskStatuette_Blueprint_Install.label>small boar tusk statuette (blueprint)</GR_BoarTuskStatuette_Blueprint_Install.label>
+  <GR_BoarTuskStatuette_Frame.label>small boar tusk statuette (building)</GR_BoarTuskStatuette_Frame.label>
+  <GR_BoarTuskStatuette_Frame.description>A boar tusk carved into an artistic form.</GR_BoarTuskStatuette_Frame.description>
+
+  <GR_LabShelf.label>лабораторная полка</GR_LabShelf.label>
+  <GR_LabShelf.description>A shelf for storing miscellaneous laboratory items. Items stored in this will not deteriorate, even if outside.</GR_LabShelf.description>
+  <GR_LabShelf_Blueprint.label>lab shelf (blueprint)</GR_LabShelf_Blueprint.label>
+  <GR_LabShelf_Blueprint_Install.label>lab shelf (blueprint)</GR_LabShelf_Blueprint_Install.label>
+  <GR_LabShelf_Frame.label>lab shelf (building)</GR_LabShelf_Frame.label>
+  <GR_LabShelf_Frame.description>A shelf for storing miscellaneous laboratory items. Items stored in this will not deteriorate, even if outside.</GR_LabShelf_Frame.description>
+
+  <GR_NutrientVat.label>питательный бак</GR_NutrientVat.label>
+  <GR_NutrientVat.description>A slurry of liquefied organic pulp fills this reinforced glass vat. This solution is used by genetic experiments, and increases work speed when placed near a Genetic Rim machine. One workbench can use to up to two nutrient vats.</GR_NutrientVat.description>
+  <GR_NutrientVat_Blueprint.label>nutrient vat (blueprint)</GR_NutrientVat_Blueprint.label>
+  <GR_NutrientVat_Blueprint_Install.label>nutrient vat (blueprint)</GR_NutrientVat_Blueprint_Install.label>
+  <GR_NutrientVat_Frame.label>nutrient vat (building)</GR_NutrientVat_Frame.label>
+  <GR_NutrientVat_Frame.description>A slurry of liquefied organic pulp fills this reinforced glass vat. This solution is used by genetic experiments, and increases work speed when placed near a Genetic Rim machine. One workbench can use to up to two nutrient vats.</GR_NutrientVat_Frame.description>
+
+
+</LanguageData>

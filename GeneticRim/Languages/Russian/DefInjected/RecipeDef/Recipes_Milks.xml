@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_ExtractMilkFromMilks.label>извлечь молоко из молока гибридов</GR_ExtractMilkFromMilks.label>
+  <GR_ExtractMilkFromMilks.description>Извлекает обычное молоко из гибридного молока, сохраняя пищевую ценность, но потенциально теряя особые качества.</GR_ExtractMilkFromMilks.description>
+  <GR_ExtractMilkFromMilks.jobString>Извлечение молока.</GR_ExtractMilkFromMilks.jobString>
+
+
+</LanguageData>

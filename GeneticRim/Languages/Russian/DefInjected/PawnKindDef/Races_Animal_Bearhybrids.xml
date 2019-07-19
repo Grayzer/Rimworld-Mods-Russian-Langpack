@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bear - Boomalope -->
+
+  <GR_Bearalope.label>медвелопа</GR_Bearalope.label>
+  <GR_Bearalope.labelPlural>медвелопы</GR_Bearalope.labelPlural>
+  <GR_Bearalope.lifeStages.0.label>медвелопа</GR_Bearalope.lifeStages.0.label>
+  <GR_Bearalope.lifeStages.0.labelPlural>медвелопа</GR_Bearalope.lifeStages.0.labelPlural>
+  <GR_Bearalope.lifeStages.0.labelMale>медвелоп</GR_Bearalope.lifeStages.0.labelMale>
+  <GR_Bearalope.lifeStages.0.labelMalePlural>медвелопы</GR_Bearalope.lifeStages.0.labelMalePlural>
+  <GR_Bearalope.lifeStages.0.labelFemale>медвелопа</GR_Bearalope.lifeStages.0.labelFemale>
+  <GR_Bearalope.lifeStages.0.labelFemalePlural>медвелопы</GR_Bearalope.lifeStages.0.labelFemalePlural>
+  <GR_Bearalope.lifeStages.1.label>медвелопа</GR_Bearalope.lifeStages.1.label>
+  <GR_Bearalope.lifeStages.1.labelPlural>медвелопа</GR_Bearalope.lifeStages.1.labelPlural>
+  <GR_Bearalope.lifeStages.1.labelMale>медвелоп</GR_Bearalope.lifeStages.1.labelMale>
+  <GR_Bearalope.lifeStages.1.labelMalePlural>медвелопы</GR_Bearalope.lifeStages.1.labelMalePlural>
+  <GR_Bearalope.lifeStages.1.labelFemale>медвелопа</GR_Bearalope.lifeStages.1.labelFemale>
+  <GR_Bearalope.lifeStages.1.labelFemalePlural>медвелопы</GR_Bearalope.lifeStages.1.labelFemalePlural>
+  <GR_Bearalope.lifeStages.2.label>медвелопа</GR_Bearalope.lifeStages.2.label>
+  <GR_Bearalope.lifeStages.2.labelPlural>медвелопа</GR_Bearalope.lifeStages.2.labelPlural>
+  <GR_Bearalope.lifeStages.2.labelMale>медвелоп</GR_Bearalope.lifeStages.2.labelMale>
+  <GR_Bearalope.lifeStages.2.labelMalePlural>медвелопы</GR_Bearalope.lifeStages.2.labelMalePlural>
+  <GR_Bearalope.lifeStages.2.labelFemale>медвелопа</GR_Bearalope.lifeStages.2.labelFemale>
+  <GR_Bearalope.lifeStages.2.labelFemalePlural>медвелопы</GR_Bearalope.lifeStages.2.labelFemalePlural>
+  <GR_Bearalope.labelMale>медвелоп</GR_Bearalope.labelMale>
+  <GR_Bearalope.labelMalePlural>медвелопы</GR_Bearalope.labelMalePlural>
+  <GR_Bearalope.labelFemale>медвелопа</GR_Bearalope.labelFemale>
+  <GR_Bearalope.labelFemalePlural>медвелопы</GR_Bearalope.labelFemalePlural>
+
+
+  <!-- Bear - Chicken -->
+
+  <GR_BearchickenKind.label>медвекур</GR_BearchickenKind.label>
+  <GR_BearchickenKind.labelPlural>медвекуры</GR_BearchickenKind.labelPlural>
+  <GR_BearchickenKind.lifeStages.0.label>медвекур</GR_BearchickenKind.lifeStages.0.label>
+  <GR_BearchickenKind.lifeStages.0.labelPlural>медвекур</GR_BearchickenKind.lifeStages.0.labelPlural>
+  <GR_BearchickenKind.lifeStages.0.labelMale>петух медвекура</GR_BearchickenKind.lifeStages.0.labelMale>
+  <GR_BearchickenKind.lifeStages.0.labelMalePlural>петухи медвекура</GR_BearchickenKind.lifeStages.0.labelMalePlural>
+  <GR_BearchickenKind.lifeStages.0.labelFemale>курочка медвекура</GR_BearchickenKind.lifeStages.0.labelFemale>
+  <GR_BearchickenKind.lifeStages.0.labelFemalePlural>курочки медвекура</GR_BearchickenKind.lifeStages.0.labelFemalePlural>
+  <GR_BearchickenKind.lifeStages.1.label>медвекур</GR_BearchickenKind.lifeStages.1.label>
+  <GR_BearchickenKind.lifeStages.1.labelPlural>медвекур</GR_BearchickenKind.lifeStages.1.labelPlural>
+  <GR_BearchickenKind.lifeStages.1.labelMale>петух медвекура</GR_BearchickenKind.lifeStages.1.labelMale>
+  <GR_BearchickenKind.lifeStages.1.labelMalePlural>петухи медвекура</GR_BearchickenKind.lifeStages.1.labelMalePlural>
+  <GR_BearchickenKind.lifeStages.1.labelFemale>курочка медвекура</GR_BearchickenKind.lifeStages.1.labelFemale>
+  <GR_BearchickenKind.lifeStages.1.labelFemalePlural>курочки медвекура</GR_BearchickenKind.lifeStages.1.labelFemalePlural>
+  <GR_BearchickenKind.lifeStages.2.label>медвекур</GR_BearchickenKind.lifeStages.2.label>
+  <GR_BearchickenKind.lifeStages.2.labelPlural>медвекур</GR_BearchickenKind.lifeStages.2.labelPlural>
+  <GR_BearchickenKind.lifeStages.2.labelMale>петух медвекура</GR_BearchickenKind.lifeStages.2.labelMale>
+  <GR_BearchickenKind.lifeStages.2.labelMalePlural>петухи медвекура</GR_BearchickenKind.lifeStages.2.labelMalePlural>
+  <GR_BearchickenKind.lifeStages.2.labelFemale>курочка медвекура</GR_BearchickenKind.lifeStages.2.labelFemale>
+  <GR_BearchickenKind.lifeStages.2.labelFemalePlural>курочки медвекура</GR_BearchickenKind.lifeStages.2.labelFemalePlural>
+  <GR_BearchickenKind.labelMale>петух медвекура</GR_BearchickenKind.labelMale>
+  <GR_BearchickenKind.labelMalePlural>петухи медвекура</GR_BearchickenKind.labelMalePlural>
+  <GR_BearchickenKind.labelFemale>курочка медвекура</GR_BearchickenKind.labelFemale>
+  <GR_BearchickenKind.labelFemalePlural>курочки медвекура</GR_BearchickenKind.labelFemalePlural>
+
+
+  <!-- Bear - Muffalo -->
+
+  <GR_Bearffalo.label>медвеффало</GR_Bearffalo.label>
+  <GR_Bearffalo.labelPlural>медвеффало</GR_Bearffalo.labelPlural>
+  <GR_Bearffalo.lifeStages.0.label>медвеффало</GR_Bearffalo.lifeStages.0.label>
+  <GR_Bearffalo.lifeStages.0.labelPlural>медвеффало</GR_Bearffalo.lifeStages.0.labelPlural>
+  <GR_Bearffalo.lifeStages.0.labelMale>медвеффало</GR_Bearffalo.lifeStages.0.labelMale>
+  <GR_Bearffalo.lifeStages.0.labelMalePlural>медвеффало</GR_Bearffalo.lifeStages.0.labelMalePlural>
+  <GR_Bearffalo.lifeStages.0.labelFemale>медвеффало</GR_Bearffalo.lifeStages.0.labelFemale>
+  <GR_Bearffalo.lifeStages.0.labelFemalePlural>медвеффало</GR_Bearffalo.lifeStages.0.labelFemalePlural>
+  <GR_Bearffalo.lifeStages.1.label>медвеффало</GR_Bearffalo.lifeStages.1.label>
+  <GR_Bearffalo.lifeStages.1.labelPlural>медвеффало</GR_Bearffalo.lifeStages.1.labelPlural>
+  <GR_Bearffalo.lifeStages.1.labelMale>медвеффало</GR_Bearffalo.lifeStages.1.labelMale>
+  <GR_Bearffalo.lifeStages.1.labelMalePlural>медвеффало</GR_Bearffalo.lifeStages.1.labelMalePlural>
+  <GR_Bearffalo.lifeStages.1.labelFemale>медвеффало</GR_Bearffalo.lifeStages.1.labelFemale>
+  <GR_Bearffalo.lifeStages.1.labelFemalePlural>медвеффало</GR_Bearffalo.lifeStages.1.labelFemalePlural>
+  <GR_Bearffalo.lifeStages.2.label>медвеффало</GR_Bearffalo.lifeStages.2.label>
+  <GR_Bearffalo.lifeStages.2.labelPlural>медвеффало</GR_Bearffalo.lifeStages.2.labelPlural>
+  <GR_Bearffalo.lifeStages.2.labelMale>медвеффало</GR_Bearffalo.lifeStages.2.labelMale>
+  <GR_Bearffalo.lifeStages.2.labelMalePlural>медвеффало</GR_Bearffalo.lifeStages.2.labelMalePlural>
+  <GR_Bearffalo.lifeStages.2.labelFemale>медвеффало</GR_Bearffalo.lifeStages.2.labelFemale>
+  <GR_Bearffalo.lifeStages.2.labelFemalePlural>медвеффало</GR_Bearffalo.lifeStages.2.labelFemalePlural>
+  <GR_Bearffalo.labelMale>медвеффало</GR_Bearffalo.labelMale>
+  <GR_Bearffalo.labelMalePlural>медвеффало</GR_Bearffalo.labelMalePlural>
+  <GR_Bearffalo.labelFemale>медвеффало</GR_Bearffalo.labelFemale>
+  <GR_Bearffalo.labelFemalePlural>медвеффало</GR_Bearffalo.labelFemalePlural>
+
+
+  <!-- Bear - Wolf -->
+
+  <GR_Bearwolf.label>медвеволк</GR_Bearwolf.label>
+  <GR_Bearwolf.labelPlural>bearwolfs</GR_Bearwolf.labelPlural>
+  <GR_Bearwolf.lifeStages.0.label>медвеволк</GR_Bearwolf.lifeStages.0.label>
+  <GR_Bearwolf.lifeStages.0.labelPlural>медвеволк</GR_Bearwolf.lifeStages.0.labelPlural>
+  <GR_Bearwolf.lifeStages.0.labelMale>медвеволк</GR_Bearwolf.lifeStages.0.labelMale>
+  <GR_Bearwolf.lifeStages.0.labelMalePlural>медвеволки</GR_Bearwolf.lifeStages.0.labelMalePlural>
+  <GR_Bearwolf.lifeStages.0.labelFemale>медвеволчица</GR_Bearwolf.lifeStages.0.labelFemale>
+  <GR_Bearwolf.lifeStages.0.labelFemalePlural>медвеволчицы</GR_Bearwolf.lifeStages.0.labelFemalePlural>
+  <GR_Bearwolf.lifeStages.1.label>медвеволк</GR_Bearwolf.lifeStages.1.label>
+  <GR_Bearwolf.lifeStages.1.labelPlural>медвеволк</GR_Bearwolf.lifeStages.1.labelPlural>
+  <GR_Bearwolf.lifeStages.1.labelMale>медвеволк</GR_Bearwolf.lifeStages.1.labelMale>
+  <GR_Bearwolf.lifeStages.1.labelMalePlural>медвеволки</GR_Bearwolf.lifeStages.1.labelMalePlural>
+  <GR_Bearwolf.lifeStages.1.labelFemale>медвеволчица</GR_Bearwolf.lifeStages.1.labelFemale>
+  <GR_Bearwolf.lifeStages.1.labelFemalePlural>медвеволчицы</GR_Bearwolf.lifeStages.1.labelFemalePlural>
+  <GR_Bearwolf.lifeStages.2.label>медвеволк</GR_Bearwolf.lifeStages.2.label>
+  <GR_Bearwolf.lifeStages.2.labelPlural>медвеволк</GR_Bearwolf.lifeStages.2.labelPlural>
+  <GR_Bearwolf.lifeStages.2.labelMale>медвеволк</GR_Bearwolf.lifeStages.2.labelMale>
+  <GR_Bearwolf.lifeStages.2.labelMalePlural>медвеволки</GR_Bearwolf.lifeStages.2.labelMalePlural>
+  <GR_Bearwolf.lifeStages.2.labelFemale>медвеволчица</GR_Bearwolf.lifeStages.2.labelFemale>
+  <GR_Bearwolf.lifeStages.2.labelFemalePlural>медвеволчицы</GR_Bearwolf.lifeStages.2.labelFemalePlural>
+  <GR_Bearwolf.labelMale>медвеволк</GR_Bearwolf.labelMale>
+  <GR_Bearwolf.labelMalePlural>медвеволки</GR_Bearwolf.labelMalePlural>
+  <GR_Bearwolf.labelFemale>медвеволчица</GR_Bearwolf.labelFemale>
+  <GR_Bearwolf.labelFemalePlural>медвеволчицы</GR_Bearwolf.labelFemalePlural>
+
+
+  <!-- Bear - Rodent -->
+
+  <GR_Bearmole.label>медвекрот</GR_Bearmole.label>
+  <GR_Bearmole.labelPlural>медвекроты</GR_Bearmole.labelPlural>
+  <GR_Bearmole.lifeStages.0.label>медвекрот</GR_Bearmole.lifeStages.0.label>
+  <GR_Bearmole.lifeStages.0.labelPlural>медвекрот</GR_Bearmole.lifeStages.0.labelPlural>
+  <GR_Bearmole.lifeStages.0.labelMale>медвекрот</GR_Bearmole.lifeStages.0.labelMale>
+  <GR_Bearmole.lifeStages.0.labelMalePlural>медвекроты</GR_Bearmole.lifeStages.0.labelMalePlural>
+  <GR_Bearmole.lifeStages.0.labelFemale>медвекротиха</GR_Bearmole.lifeStages.0.labelFemale>
+  <GR_Bearmole.lifeStages.0.labelFemalePlural>медвекротихи</GR_Bearmole.lifeStages.0.labelFemalePlural>
+  <GR_Bearmole.lifeStages.1.label>медвекрот</GR_Bearmole.lifeStages.1.label>
+  <GR_Bearmole.lifeStages.1.labelPlural>медвекрот</GR_Bearmole.lifeStages.1.labelPlural>
+  <GR_Bearmole.lifeStages.1.labelMale>медвекрот</GR_Bearmole.lifeStages.1.labelMale>
+  <GR_Bearmole.lifeStages.1.labelMalePlural>медвекроты</GR_Bearmole.lifeStages.1.labelMalePlural>
+  <GR_Bearmole.lifeStages.1.labelFemale>медвекротиха</GR_Bearmole.lifeStages.1.labelFemale>
+  <GR_Bearmole.lifeStages.1.labelFemalePlural>медвекротихи</GR_Bearmole.lifeStages.1.labelFemalePlural>
+  <GR_Bearmole.lifeStages.2.label>медвекрот</GR_Bearmole.lifeStages.2.label>
+  <GR_Bearmole.lifeStages.2.labelPlural>медвекрот</GR_Bearmole.lifeStages.2.labelPlural>
+  <GR_Bearmole.lifeStages.2.labelMale>медвекрот</GR_Bearmole.lifeStages.2.labelMale>
+  <GR_Bearmole.lifeStages.2.labelMalePlural>медвекроты</GR_Bearmole.lifeStages.2.labelMalePlural>
+  <GR_Bearmole.lifeStages.2.labelFemale>медвекротиха</GR_Bearmole.lifeStages.2.labelFemale>
+  <GR_Bearmole.lifeStages.2.labelFemalePlural>медвекротихи</GR_Bearmole.lifeStages.2.labelFemalePlural>
+  <GR_Bearmole.labelMale>медвекрот</GR_Bearmole.labelMale>
+  <GR_Bearmole.labelMalePlural>медвекроты</GR_Bearmole.labelMalePlural>
+  <GR_Bearmole.labelFemale>медвекротиха</GR_Bearmole.labelFemale>
+  <GR_Bearmole.labelFemalePlural>медвекротихи</GR_Bearmole.labelFemalePlural>
+
+
+  <!-- Bear - Cat -->
+
+  <GR_Bearcat.label>медвекот</GR_Bearcat.label>
+  <GR_Bearcat.labelPlural>медвекоты</GR_Bearcat.labelPlural>
+  <GR_Bearcat.lifeStages.0.label>медвекот</GR_Bearcat.lifeStages.0.label>
+  <GR_Bearcat.lifeStages.0.labelPlural>медвекот</GR_Bearcat.lifeStages.0.labelPlural>
+  <GR_Bearcat.lifeStages.0.labelMale>медвекот</GR_Bearcat.lifeStages.0.labelMale>
+  <GR_Bearcat.lifeStages.0.labelMalePlural>медвекоты</GR_Bearcat.lifeStages.0.labelMalePlural>
+  <GR_Bearcat.lifeStages.0.labelFemale>медвекошка</GR_Bearcat.lifeStages.0.labelFemale>
+  <GR_Bearcat.lifeStages.0.labelFemalePlural>медвекошки</GR_Bearcat.lifeStages.0.labelFemalePlural>
+  <GR_Bearcat.lifeStages.1.label>медвекот</GR_Bearcat.lifeStages.1.label>
+  <GR_Bearcat.lifeStages.1.labelPlural>медвекот</GR_Bearcat.lifeStages.1.labelPlural>
+  <GR_Bearcat.lifeStages.1.labelMale>медвекот</GR_Bearcat.lifeStages.1.labelMale>
+  <GR_Bearcat.lifeStages.1.labelMalePlural>медвекоты</GR_Bearcat.lifeStages.1.labelMalePlural>
+  <GR_Bearcat.lifeStages.1.labelFemale>медвекошка</GR_Bearcat.lifeStages.1.labelFemale>
+  <GR_Bearcat.lifeStages.1.labelFemalePlural>медвекошки</GR_Bearcat.lifeStages.1.labelFemalePlural>
+  <GR_Bearcat.lifeStages.2.label>медвекот</GR_Bearcat.lifeStages.2.label>
+  <GR_Bearcat.lifeStages.2.labelPlural>медвекот</GR_Bearcat.lifeStages.2.labelPlural>
+  <GR_Bearcat.lifeStages.2.labelMale>медвекот</GR_Bearcat.lifeStages.2.labelMale>
+  <GR_Bearcat.lifeStages.2.labelMalePlural>медвекоты</GR_Bearcat.lifeStages.2.labelMalePlural>
+  <GR_Bearcat.lifeStages.2.labelFemale>медвекошка</GR_Bearcat.lifeStages.2.labelFemale>
+  <GR_Bearcat.lifeStages.2.labelFemalePlural>медвекошки</GR_Bearcat.lifeStages.2.labelFemalePlural>
+  <GR_Bearcat.labelMale>медвекот</GR_Bearcat.labelMale>
+  <GR_Bearcat.labelMalePlural>медвекоты</GR_Bearcat.labelMalePlural>
+  <GR_Bearcat.labelFemale>медвекошка</GR_Bearcat.labelFemale>
+  <GR_Bearcat.labelFemalePlural>медвекошки</GR_Bearcat.labelFemalePlural>
+
+
+</LanguageData>

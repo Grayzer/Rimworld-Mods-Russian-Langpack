@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chicken - Bear -->
+
+  <GR_Chickenbear.label>курведь</GR_Chickenbear.label>
+  <GR_Chickenbear.labelPlural>курведи</GR_Chickenbear.labelPlural>
+  <GR_Chickenbear.lifeStages.0.label>цыпленок курведя</GR_Chickenbear.lifeStages.0.label>
+  <GR_Chickenbear.lifeStages.0.labelPlural>цыплята курведя</GR_Chickenbear.lifeStages.0.labelPlural>
+  <GR_Chickenbear.lifeStages.0.labelMale>цыпленок курведя</GR_Chickenbear.lifeStages.0.labelMale>
+  <GR_Chickenbear.lifeStages.0.labelMalePlural>цыплята курведя</GR_Chickenbear.lifeStages.0.labelMalePlural>
+  <GR_Chickenbear.lifeStages.0.labelFemale>цыпа курведя</GR_Chickenbear.lifeStages.0.labelFemale>
+  <GR_Chickenbear.lifeStages.0.labelFemalePlural>цыпы курведя</GR_Chickenbear.lifeStages.0.labelFemalePlural>
+  <GR_Chickenbear.lifeStages.1.label>курведь</GR_Chickenbear.lifeStages.1.label>
+  <GR_Chickenbear.lifeStages.1.labelPlural>курведь</GR_Chickenbear.lifeStages.1.labelPlural>
+  <GR_Chickenbear.lifeStages.1.labelMale>петушок курведя</GR_Chickenbear.lifeStages.1.labelMale>
+  <GR_Chickenbear.lifeStages.1.labelMalePlural>петушки курведя</GR_Chickenbear.lifeStages.1.labelMalePlural>
+  <GR_Chickenbear.lifeStages.1.labelFemale>квочка курведя</GR_Chickenbear.lifeStages.1.labelFemale>
+  <GR_Chickenbear.lifeStages.1.labelFemalePlural>квочки курведя</GR_Chickenbear.lifeStages.1.labelFemalePlural>
+  <GR_Chickenbear.lifeStages.2.label>курведь</GR_Chickenbear.lifeStages.2.label>
+  <GR_Chickenbear.lifeStages.2.labelPlural>курведь</GR_Chickenbear.lifeStages.2.labelPlural>
+  <GR_Chickenbear.lifeStages.2.labelMale>петух курведя</GR_Chickenbear.lifeStages.2.labelMale>
+  <GR_Chickenbear.lifeStages.2.labelMalePlural>петухи курведя</GR_Chickenbear.lifeStages.2.labelMalePlural>
+  <GR_Chickenbear.lifeStages.2.labelFemale>квочка курведя</GR_Chickenbear.lifeStages.2.labelFemale>
+  <GR_Chickenbear.lifeStages.2.labelFemalePlural>квочки курведя</GR_Chickenbear.lifeStages.2.labelFemalePlural>
+  <GR_Chickenbear.labelMale>петух курведя</GR_Chickenbear.labelMale>
+  <GR_Chickenbear.labelMalePlural>петухи курведя</GR_Chickenbear.labelMalePlural>
+  <GR_Chickenbear.labelFemale>несушка курведя</GR_Chickenbear.labelFemale>
+  <GR_Chickenbear.labelFemalePlural>несушки курведя</GR_Chickenbear.labelFemalePlural>
+
+
+  <!-- Chicken - Boomalope -->
+
+  <GR_Chickenlope.label>куролопа</GR_Chickenlope.label>
+  <GR_Chickenlope.labelPlural>куролопы</GR_Chickenlope.labelPlural>
+  <GR_Chickenlope.lifeStages.0.label>цыпленок куролопы</GR_Chickenlope.lifeStages.0.label>
+  <GR_Chickenlope.lifeStages.0.labelPlural>цыплята куролопы</GR_Chickenlope.lifeStages.0.labelPlural>
+  <GR_Chickenlope.lifeStages.0.labelMale>цыпленок куролопы</GR_Chickenlope.lifeStages.0.labelMale>
+  <GR_Chickenlope.lifeStages.0.labelMalePlural>цыплята куролопы</GR_Chickenlope.lifeStages.0.labelMalePlural>
+  <GR_Chickenlope.lifeStages.0.labelFemale>цыпа куролопы</GR_Chickenlope.lifeStages.0.labelFemale>
+  <GR_Chickenlope.lifeStages.0.labelFemalePlural>цыпы куролопы</GR_Chickenlope.lifeStages.0.labelFemalePlural>
+  <GR_Chickenlope.lifeStages.1.label>куролопа</GR_Chickenlope.lifeStages.1.label>
+  <GR_Chickenlope.lifeStages.1.labelPlural>куролопа</GR_Chickenlope.lifeStages.1.labelPlural>
+  <GR_Chickenlope.lifeStages.1.labelMale>петушок куролопы</GR_Chickenlope.lifeStages.1.labelMale>
+  <GR_Chickenlope.lifeStages.1.labelMalePlural>петушки куролопы</GR_Chickenlope.lifeStages.1.labelMalePlural>
+  <GR_Chickenlope.lifeStages.1.labelFemale>квочка куролопы</GR_Chickenlope.lifeStages.1.labelFemale>
+  <GR_Chickenlope.lifeStages.1.labelFemalePlural>квочки куролопы</GR_Chickenlope.lifeStages.1.labelFemalePlural>
+  <GR_Chickenlope.lifeStages.2.label>куролопа</GR_Chickenlope.lifeStages.2.label>
+  <GR_Chickenlope.lifeStages.2.labelPlural>куролопа</GR_Chickenlope.lifeStages.2.labelPlural>
+  <GR_Chickenlope.lifeStages.2.labelMale>петух куролопы</GR_Chickenlope.lifeStages.2.labelMale>
+  <GR_Chickenlope.lifeStages.2.labelMalePlural>петухи куролопы</GR_Chickenlope.lifeStages.2.labelMalePlural>
+  <GR_Chickenlope.lifeStages.2.labelFemale>квочка куролопы</GR_Chickenlope.lifeStages.2.labelFemale>
+  <GR_Chickenlope.lifeStages.2.labelFemalePlural>квочки куролопы</GR_Chickenlope.lifeStages.2.labelFemalePlural>
+  <GR_Chickenlope.labelMale>петух куролопы</GR_Chickenlope.labelMale>
+  <GR_Chickenlope.labelMalePlural>петухи куролопы</GR_Chickenlope.labelMalePlural>
+  <GR_Chickenlope.labelFemale>несушка куролопы</GR_Chickenlope.labelFemale>
+  <GR_Chickenlope.labelFemalePlural>несушки куролопы</GR_Chickenlope.labelFemalePlural>
+
+
+  <!-- Chicken - Muffalo -->
+
+  <GR_Chickenffalo.label>куроффало</GR_Chickenffalo.label>
+  <GR_Chickenffalo.labelPlural>куроффало</GR_Chickenffalo.labelPlural>
+  <GR_Chickenffalo.lifeStages.0.label>цыпленок куроффало</GR_Chickenffalo.lifeStages.0.label>
+  <GR_Chickenffalo.lifeStages.0.labelPlural>цыплята куроффало</GR_Chickenffalo.lifeStages.0.labelPlural>
+  <GR_Chickenffalo.lifeStages.0.labelMale>цыпленок куроффало</GR_Chickenffalo.lifeStages.0.labelMale>
+  <GR_Chickenffalo.lifeStages.0.labelMalePlural>цыплята куроффало</GR_Chickenffalo.lifeStages.0.labelMalePlural>
+  <GR_Chickenffalo.lifeStages.0.labelFemale>цыпа куроффало</GR_Chickenffalo.lifeStages.0.labelFemale>
+  <GR_Chickenffalo.lifeStages.0.labelFemalePlural>цыпы куроффало</GR_Chickenffalo.lifeStages.0.labelFemalePlural>
+  <GR_Chickenffalo.lifeStages.1.label>куроффало</GR_Chickenffalo.lifeStages.1.label>
+  <GR_Chickenffalo.lifeStages.1.labelPlural>куроффало</GR_Chickenffalo.lifeStages.1.labelPlural>
+  <GR_Chickenffalo.lifeStages.1.labelMale>петушок куроффало</GR_Chickenffalo.lifeStages.1.labelMale>
+  <GR_Chickenffalo.lifeStages.1.labelMalePlural>петушки куроффало</GR_Chickenffalo.lifeStages.1.labelMalePlural>
+  <GR_Chickenffalo.lifeStages.1.labelFemale>квочка куроффало</GR_Chickenffalo.lifeStages.1.labelFemale>
+  <GR_Chickenffalo.lifeStages.1.labelFemalePlural>квочки куроффало</GR_Chickenffalo.lifeStages.1.labelFemalePlural>
+  <GR_Chickenffalo.lifeStages.2.label>куроффало</GR_Chickenffalo.lifeStages.2.label>
+  <GR_Chickenffalo.lifeStages.2.labelPlural>куроффало</GR_Chickenffalo.lifeStages.2.labelPlural>
+  <GR_Chickenffalo.lifeStages.2.labelMale>петух куроффало</GR_Chickenffalo.lifeStages.2.labelMale>
+  <GR_Chickenffalo.lifeStages.2.labelMalePlural>петухи куроффало</GR_Chickenffalo.lifeStages.2.labelMalePlural>
+  <GR_Chickenffalo.lifeStages.2.labelFemale>квочка куроффало</GR_Chickenffalo.lifeStages.2.labelFemale>
+  <GR_Chickenffalo.lifeStages.2.labelFemalePlural>квочки куроффало</GR_Chickenffalo.lifeStages.2.labelFemalePlural>
+  <GR_Chickenffalo.labelMale>петух куроффало</GR_Chickenffalo.labelMale>
+  <GR_Chickenffalo.labelMalePlural>петухи куроффало</GR_Chickenffalo.labelMalePlural>
+  <GR_Chickenffalo.labelFemale>несушка куроффало</GR_Chickenffalo.labelFemale>
+  <GR_Chickenffalo.labelFemalePlural>несушки куроффало</GR_Chickenffalo.labelFemalePlural>
+
+
+  <!-- Chicken - Wolf -->
+
+  <GR_Chickenwolf.label>куроволк</GR_Chickenwolf.label>
+  <GR_Chickenwolf.labelPlural>куроволки</GR_Chickenwolf.labelPlural>
+  <GR_Chickenwolf.lifeStages.0.label>цыпленок куроволка</GR_Chickenwolf.lifeStages.0.label>
+  <GR_Chickenwolf.lifeStages.0.labelPlural>цыплята куроволка</GR_Chickenwolf.lifeStages.0.labelPlural>
+  <GR_Chickenwolf.lifeStages.0.labelMale>цыпленок куроволка</GR_Chickenwolf.lifeStages.0.labelMale>
+  <GR_Chickenwolf.lifeStages.0.labelMalePlural>цыплята куроволка</GR_Chickenwolf.lifeStages.0.labelMalePlural>
+  <GR_Chickenwolf.lifeStages.0.labelFemale>цыпка куроволка</GR_Chickenwolf.lifeStages.0.labelFemale>
+  <GR_Chickenwolf.lifeStages.0.labelFemalePlural>цыпки куроволка</GR_Chickenwolf.lifeStages.0.labelFemalePlural>
+  <GR_Chickenwolf.lifeStages.1.label>куроволк</GR_Chickenwolf.lifeStages.1.label>
+  <GR_Chickenwolf.lifeStages.1.labelPlural>куроволк</GR_Chickenwolf.lifeStages.1.labelPlural>
+  <GR_Chickenwolf.lifeStages.1.labelMale>петушок куроволка</GR_Chickenwolf.lifeStages.1.labelMale>
+  <GR_Chickenwolf.lifeStages.1.labelMalePlural>петушки куроволка</GR_Chickenwolf.lifeStages.1.labelMalePlural>
+  <GR_Chickenwolf.lifeStages.1.labelFemale>квочка куроволка</GR_Chickenwolf.lifeStages.1.labelFemale>
+  <GR_Chickenwolf.lifeStages.1.labelFemalePlural>квочки куроволка</GR_Chickenwolf.lifeStages.1.labelFemalePlural>
+  <GR_Chickenwolf.lifeStages.2.label>куроволк</GR_Chickenwolf.lifeStages.2.label>
+  <GR_Chickenwolf.lifeStages.2.labelPlural>куроволк</GR_Chickenwolf.lifeStages.2.labelPlural>
+  <GR_Chickenwolf.lifeStages.2.labelMale>петух куроволка</GR_Chickenwolf.lifeStages.2.labelMale>
+  <GR_Chickenwolf.lifeStages.2.labelMalePlural>петухи куроволка</GR_Chickenwolf.lifeStages.2.labelMalePlural>
+  <GR_Chickenwolf.lifeStages.2.labelFemale>квочка куроволка</GR_Chickenwolf.lifeStages.2.labelFemale>
+  <GR_Chickenwolf.lifeStages.2.labelFemalePlural>квочки куроволка</GR_Chickenwolf.lifeStages.2.labelFemalePlural>
+  <GR_Chickenwolf.labelMale>петух куроволка</GR_Chickenwolf.labelMale>
+  <GR_Chickenwolf.labelMalePlural>петухи куроволка</GR_Chickenwolf.labelMalePlural>
+  <GR_Chickenwolf.labelFemale>несушка куроволка</GR_Chickenwolf.labelFemale>
+  <GR_Chickenwolf.labelFemalePlural>несушки куроволка</GR_Chickenwolf.labelFemalePlural>
+
+
+  <!-- Chicken - Rabbit -->
+
+  <GR_Chickenrabbit.label>курозаяц</GR_Chickenrabbit.label>
+  <GR_Chickenrabbit.labelPlural>курозайцы</GR_Chickenrabbit.labelPlural>
+  <GR_Chickenrabbit.lifeStages.0.label>цыпленок курозайца</GR_Chickenrabbit.lifeStages.0.label>
+  <GR_Chickenrabbit.lifeStages.0.labelPlural>цыплята курозайца</GR_Chickenrabbit.lifeStages.0.labelPlural>
+  <GR_Chickenrabbit.lifeStages.0.labelMale>цыпленок курозайца</GR_Chickenrabbit.lifeStages.0.labelMale>
+  <GR_Chickenrabbit.lifeStages.0.labelMalePlural>цыплята курозайца</GR_Chickenrabbit.lifeStages.0.labelMalePlural>
+  <GR_Chickenrabbit.lifeStages.0.labelFemale>цыпа курозайца</GR_Chickenrabbit.lifeStages.0.labelFemale>
+  <GR_Chickenrabbit.lifeStages.0.labelFemalePlural>цыпы курозайца</GR_Chickenrabbit.lifeStages.0.labelFemalePlural>
+  <GR_Chickenrabbit.lifeStages.1.label>курозаяц</GR_Chickenrabbit.lifeStages.1.label>
+  <GR_Chickenrabbit.lifeStages.1.labelPlural>курозаяц</GR_Chickenrabbit.lifeStages.1.labelPlural>
+  <GR_Chickenrabbit.lifeStages.1.labelMale>петушок курозайца</GR_Chickenrabbit.lifeStages.1.labelMale>
+  <GR_Chickenrabbit.lifeStages.1.labelMalePlural>петушки курозайца</GR_Chickenrabbit.lifeStages.1.labelMalePlural>
+  <GR_Chickenrabbit.lifeStages.1.labelFemale>квочка курозайца</GR_Chickenrabbit.lifeStages.1.labelFemale>
+  <GR_Chickenrabbit.lifeStages.1.labelFemalePlural>квочки курозайца</GR_Chickenrabbit.lifeStages.1.labelFemalePlural>
+  <GR_Chickenrabbit.lifeStages.2.label>курозаяц</GR_Chickenrabbit.lifeStages.2.label>
+  <GR_Chickenrabbit.lifeStages.2.labelPlural>курозаяц</GR_Chickenrabbit.lifeStages.2.labelPlural>
+  <GR_Chickenrabbit.lifeStages.2.labelMale>петушок курозайца</GR_Chickenrabbit.lifeStages.2.labelMale>
+  <GR_Chickenrabbit.lifeStages.2.labelMalePlural>петушки курозайца</GR_Chickenrabbit.lifeStages.2.labelMalePlural>
+  <GR_Chickenrabbit.lifeStages.2.labelFemale>квочка курозайца</GR_Chickenrabbit.lifeStages.2.labelFemale>
+  <GR_Chickenrabbit.lifeStages.2.labelFemalePlural>квочки курозайца</GR_Chickenrabbit.lifeStages.2.labelFemalePlural>
+  <GR_Chickenrabbit.labelMale>петух курозайца</GR_Chickenrabbit.labelMale>
+  <GR_Chickenrabbit.labelMalePlural>петухи курозайца</GR_Chickenrabbit.labelMalePlural>
+  <GR_Chickenrabbit.labelFemale>несушка курозайца</GR_Chickenrabbit.labelFemale>
+  <GR_Chickenrabbit.labelFemalePlural>несушки курозайца</GR_Chickenrabbit.labelFemalePlural>
+
+
+  <!-- Chicken - Wolf -->
+
+  <GR_Chickencat.label>курокот</GR_Chickencat.label>
+  <GR_Chickencat.labelPlural>курокоты</GR_Chickencat.labelPlural>
+  <GR_Chickencat.lifeStages.0.label>цыпленок курокота</GR_Chickencat.lifeStages.0.label>
+  <GR_Chickencat.lifeStages.0.labelPlural>цыплята курокота</GR_Chickencat.lifeStages.0.labelPlural>
+  <GR_Chickencat.lifeStages.0.labelMale>цыпленок курокота</GR_Chickencat.lifeStages.0.labelMale>
+  <GR_Chickencat.lifeStages.0.labelMalePlural>цыплята курокота</GR_Chickencat.lifeStages.0.labelMalePlural>
+  <GR_Chickencat.lifeStages.0.labelFemale>цыпа курокота</GR_Chickencat.lifeStages.0.labelFemale>
+  <GR_Chickencat.lifeStages.0.labelFemalePlural>цыпы курокота</GR_Chickencat.lifeStages.0.labelFemalePlural>
+  <GR_Chickencat.lifeStages.1.label>курокот</GR_Chickencat.lifeStages.1.label>
+  <GR_Chickencat.lifeStages.1.labelPlural>курокот</GR_Chickencat.lifeStages.1.labelPlural>
+  <GR_Chickencat.lifeStages.1.labelMale>петушок курокота</GR_Chickencat.lifeStages.1.labelMale>
+  <GR_Chickencat.lifeStages.1.labelMalePlural>петушки курокота</GR_Chickencat.lifeStages.1.labelMalePlural>
+  <GR_Chickencat.lifeStages.1.labelFemale>квочка курокота</GR_Chickencat.lifeStages.1.labelFemale>
+  <GR_Chickencat.lifeStages.1.labelFemalePlural>квочки курокота</GR_Chickencat.lifeStages.1.labelFemalePlural>
+  <GR_Chickencat.lifeStages.2.label>курокот</GR_Chickencat.lifeStages.2.label>
+  <GR_Chickencat.lifeStages.2.labelPlural>курокот</GR_Chickencat.lifeStages.2.labelPlural>
+  <GR_Chickencat.lifeStages.2.labelMale>петух курокота</GR_Chickencat.lifeStages.2.labelMale>
+  <GR_Chickencat.lifeStages.2.labelMalePlural>петухи курокота</GR_Chickencat.lifeStages.2.labelMalePlural>
+  <GR_Chickencat.lifeStages.2.labelFemale>квочка курокота</GR_Chickencat.lifeStages.2.labelFemale>
+  <GR_Chickencat.lifeStages.2.labelFemalePlural>квочки курокота</GR_Chickencat.lifeStages.2.labelFemalePlural>
+  <GR_Chickencat.labelMale>петух курокота</GR_Chickencat.labelMale>
+  <GR_Chickencat.labelMalePlural>петухи курокота</GR_Chickencat.labelMalePlural>
+  <GR_Chickencat.labelFemale>несушка курокота</GR_Chickencat.labelFemale>
+  <GR_Chickencat.labelFemalePlural>несушки курокота</GR_Chickencat.labelFemalePlural>
+
+
+</LanguageData>

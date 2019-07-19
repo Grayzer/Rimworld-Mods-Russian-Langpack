@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_RoyalJellyHigh.stages.0.label>royal jelly warmth</GR_RoyalJellyHigh.stages.0.label>
+  <GR_RoyalJellyHigh.stages.0.description>Royal jelly is delicious... I want to eat more of it!</GR_RoyalJellyHigh.stages.0.description>
+
+
+  <!-- Ambrosia addiction -->
+
+  <GR_RoyalJellyWithdrawal.stages.1.label>royal jelly withdrawal</GR_RoyalJellyWithdrawal.stages.1.label>
+  <GR_RoyalJellyWithdrawal.stages.1.description>I really would love to eat some royal jelly right now.</GR_RoyalJellyWithdrawal.stages.1.description>
+
+
+</LanguageData>
