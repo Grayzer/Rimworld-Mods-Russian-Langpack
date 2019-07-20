@@ -3,198 +3,198 @@
 
   <!-- Rodent - Bear -->
 
-  <GR_Molebear.label>molebear</GR_Molebear.label>
-  <GR_Molebear.labelPlural>molebears</GR_Molebear.labelPlural>
-  <GR_Molebear.lifeStages.0.label>molebear</GR_Molebear.lifeStages.0.label>
-  <GR_Molebear.lifeStages.0.labelPlural>molebear</GR_Molebear.lifeStages.0.labelPlural>
-  <GR_Molebear.lifeStages.0.labelMale>male molebear</GR_Molebear.lifeStages.0.labelMale>
-  <GR_Molebear.lifeStages.0.labelMalePlural>male molebears</GR_Molebear.lifeStages.0.labelMalePlural>
-  <GR_Molebear.lifeStages.0.labelFemale>female molebear</GR_Molebear.lifeStages.0.labelFemale>
-  <GR_Molebear.lifeStages.0.labelFemalePlural>female molebears</GR_Molebear.lifeStages.0.labelFemalePlural>
-  <GR_Molebear.lifeStages.1.label>molebear</GR_Molebear.lifeStages.1.label>
-  <GR_Molebear.lifeStages.1.labelPlural>molebear</GR_Molebear.lifeStages.1.labelPlural>
-  <GR_Molebear.lifeStages.1.labelMale>male molebear</GR_Molebear.lifeStages.1.labelMale>
-  <GR_Molebear.lifeStages.1.labelMalePlural>male molebears</GR_Molebear.lifeStages.1.labelMalePlural>
-  <GR_Molebear.lifeStages.1.labelFemale>female molebear</GR_Molebear.lifeStages.1.labelFemale>
-  <GR_Molebear.lifeStages.1.labelFemalePlural>female molebears</GR_Molebear.lifeStages.1.labelFemalePlural>
-  <GR_Molebear.lifeStages.2.label>molebear</GR_Molebear.lifeStages.2.label>
-  <GR_Molebear.lifeStages.2.labelPlural>molebear</GR_Molebear.lifeStages.2.labelPlural>
-  <GR_Molebear.lifeStages.2.labelMale>male molebear</GR_Molebear.lifeStages.2.labelMale>
-  <GR_Molebear.lifeStages.2.labelMalePlural>male molebears</GR_Molebear.lifeStages.2.labelMalePlural>
-  <GR_Molebear.lifeStages.2.labelFemale>female molebear</GR_Molebear.lifeStages.2.labelFemale>
-  <GR_Molebear.lifeStages.2.labelFemalePlural>female molebears</GR_Molebear.lifeStages.2.labelFemalePlural>
-  <GR_Molebear.labelMale>male molebear</GR_Molebear.labelMale>
-  <GR_Molebear.labelMalePlural>male molebears</GR_Molebear.labelMalePlural>
-  <GR_Molebear.labelFemale>female molebear</GR_Molebear.labelFemale>
-  <GR_Molebear.labelFemalePlural>female molebears</GR_Molebear.labelFemalePlural>
+  <GR_Molebear.label>кротомедведь</GR_Molebear.label>
+  <GR_Molebear.labelPlural>кротомедведи</GR_Molebear.labelPlural>
+  <GR_Molebear.lifeStages.0.label>кротомедведь</GR_Molebear.lifeStages.0.label>
+  <GR_Molebear.lifeStages.0.labelPlural>кротомедведь</GR_Molebear.lifeStages.0.labelPlural>
+  <GR_Molebear.lifeStages.0.labelMale>кротомедведь</GR_Molebear.lifeStages.0.labelMale>
+  <GR_Molebear.lifeStages.0.labelMalePlural>кротомедведи</GR_Molebear.lifeStages.0.labelMalePlural>
+  <GR_Molebear.lifeStages.0.labelFemale>кротомедведица</GR_Molebear.lifeStages.0.labelFemale>
+  <GR_Molebear.lifeStages.0.labelFemalePlural>кротомедведицы</GR_Molebear.lifeStages.0.labelFemalePlural>
+  <GR_Molebear.lifeStages.1.label>кротомедведь</GR_Molebear.lifeStages.1.label>
+  <GR_Molebear.lifeStages.1.labelPlural>кротомедведь</GR_Molebear.lifeStages.1.labelPlural>
+  <GR_Molebear.lifeStages.1.labelMale>кротомедведь</GR_Molebear.lifeStages.1.labelMale>
+  <GR_Molebear.lifeStages.1.labelMalePlural>кротомедведи</GR_Molebear.lifeStages.1.labelMalePlural>
+  <GR_Molebear.lifeStages.1.labelFemale>кротомедведица</GR_Molebear.lifeStages.1.labelFemale>
+  <GR_Molebear.lifeStages.1.labelFemalePlural>кротомедведицы</GR_Molebear.lifeStages.1.labelFemalePlural>
+  <GR_Molebear.lifeStages.2.label>кротомедведь</GR_Molebear.lifeStages.2.label>
+  <GR_Molebear.lifeStages.2.labelPlural>кротомедведь</GR_Molebear.lifeStages.2.labelPlural>
+  <GR_Molebear.lifeStages.2.labelMale>кротомедведь</GR_Molebear.lifeStages.2.labelMale>
+  <GR_Molebear.lifeStages.2.labelMalePlural>кротомедведи</GR_Molebear.lifeStages.2.labelMalePlural>
+  <GR_Molebear.lifeStages.2.labelFemale>кротомедведица</GR_Molebear.lifeStages.2.labelFemale>
+  <GR_Molebear.lifeStages.2.labelFemalePlural>кротомедведицы</GR_Molebear.lifeStages.2.labelFemalePlural>
+  <GR_Molebear.labelMale>кротомедведь</GR_Molebear.labelMale>
+  <GR_Molebear.labelMalePlural>кротомедведи</GR_Molebear.labelMalePlural>
+  <GR_Molebear.labelFemale>кротомедведица</GR_Molebear.labelFemale>
+  <GR_Molebear.labelFemalePlural>кротомедведицы</GR_Molebear.labelFemalePlural>
 
 
   <!-- Rodent - Boomalope -->
 
-  <GR_Boomsquirrel.label>boomsquirrel</GR_Boomsquirrel.label>
-  <GR_Boomsquirrel.labelPlural>boomsquirrels</GR_Boomsquirrel.labelPlural>
-  <GR_Boomsquirrel.lifeStages.0.label>boomsquirrel</GR_Boomsquirrel.lifeStages.0.label>
-  <GR_Boomsquirrel.lifeStages.0.labelPlural>boomsquirrel</GR_Boomsquirrel.lifeStages.0.labelPlural>
-  <GR_Boomsquirrel.lifeStages.0.labelMale>male boomsquirrel</GR_Boomsquirrel.lifeStages.0.labelMale>
-  <GR_Boomsquirrel.lifeStages.0.labelMalePlural>male boomsquirrels</GR_Boomsquirrel.lifeStages.0.labelMalePlural>
-  <GR_Boomsquirrel.lifeStages.0.labelFemale>female boomsquirrel</GR_Boomsquirrel.lifeStages.0.labelFemale>
-  <GR_Boomsquirrel.lifeStages.0.labelFemalePlural>female boomsquirrels</GR_Boomsquirrel.lifeStages.0.labelFemalePlural>
-  <GR_Boomsquirrel.lifeStages.1.label>boomsquirrel</GR_Boomsquirrel.lifeStages.1.label>
-  <GR_Boomsquirrel.lifeStages.1.labelPlural>boomsquirrel</GR_Boomsquirrel.lifeStages.1.labelPlural>
-  <GR_Boomsquirrel.lifeStages.1.labelMale>male boomsquirrel</GR_Boomsquirrel.lifeStages.1.labelMale>
-  <GR_Boomsquirrel.lifeStages.1.labelMalePlural>male boomsquirrels</GR_Boomsquirrel.lifeStages.1.labelMalePlural>
-  <GR_Boomsquirrel.lifeStages.1.labelFemale>female boomsquirrel</GR_Boomsquirrel.lifeStages.1.labelFemale>
-  <GR_Boomsquirrel.lifeStages.1.labelFemalePlural>female boomsquirrels</GR_Boomsquirrel.lifeStages.1.labelFemalePlural>
-  <GR_Boomsquirrel.lifeStages.2.label>boomsquirrel</GR_Boomsquirrel.lifeStages.2.label>
-  <GR_Boomsquirrel.lifeStages.2.labelPlural>boomsquirrel</GR_Boomsquirrel.lifeStages.2.labelPlural>
-  <GR_Boomsquirrel.lifeStages.2.labelMale>male boomsquirrel</GR_Boomsquirrel.lifeStages.2.labelMale>
-  <GR_Boomsquirrel.lifeStages.2.labelMalePlural>male boomsquirrels</GR_Boomsquirrel.lifeStages.2.labelMalePlural>
-  <GR_Boomsquirrel.lifeStages.2.labelFemale>female boomsquirrel</GR_Boomsquirrel.lifeStages.2.labelFemale>
-  <GR_Boomsquirrel.lifeStages.2.labelFemalePlural>female boomsquirrels</GR_Boomsquirrel.lifeStages.2.labelFemalePlural>
-  <GR_Boomsquirrel.labelMale>male boomsquirrel</GR_Boomsquirrel.labelMale>
-  <GR_Boomsquirrel.labelMalePlural>male boomsquirrels</GR_Boomsquirrel.labelMalePlural>
-  <GR_Boomsquirrel.labelFemale>female boomsquirrel</GR_Boomsquirrel.labelFemale>
-  <GR_Boomsquirrel.labelFemalePlural>female boomsquirrels</GR_Boomsquirrel.labelFemalePlural>
+  <GR_Boomsquirrel.label>бумобелка</GR_Boomsquirrel.label>
+  <GR_Boomsquirrel.labelPlural>бумобелки</GR_Boomsquirrel.labelPlural>
+  <GR_Boomsquirrel.lifeStages.0.label>бумобелка</GR_Boomsquirrel.lifeStages.0.label>
+  <GR_Boomsquirrel.lifeStages.0.labelPlural>бумобелка</GR_Boomsquirrel.lifeStages.0.labelPlural>
+  <GR_Boomsquirrel.lifeStages.0.labelMale>бумобелка</GR_Boomsquirrel.lifeStages.0.labelMale>
+  <GR_Boomsquirrel.lifeStages.0.labelMalePlural>бумобелки</GR_Boomsquirrel.lifeStages.0.labelMalePlural>
+  <GR_Boomsquirrel.lifeStages.0.labelFemale>бумобелочка</GR_Boomsquirrel.lifeStages.0.labelFemale>
+  <GR_Boomsquirrel.lifeStages.0.labelFemalePlural>бумобелочки</GR_Boomsquirrel.lifeStages.0.labelFemalePlural>
+  <GR_Boomsquirrel.lifeStages.1.label>бумобелка</GR_Boomsquirrel.lifeStages.1.label>
+  <GR_Boomsquirrel.lifeStages.1.labelPlural>бумобелка</GR_Boomsquirrel.lifeStages.1.labelPlural>
+  <GR_Boomsquirrel.lifeStages.1.labelMale>бумобелка</GR_Boomsquirrel.lifeStages.1.labelMale>
+  <GR_Boomsquirrel.lifeStages.1.labelMalePlural>бумобелки</GR_Boomsquirrel.lifeStages.1.labelMalePlural>
+  <GR_Boomsquirrel.lifeStages.1.labelFemale>бумобелочка</GR_Boomsquirrel.lifeStages.1.labelFemale>
+  <GR_Boomsquirrel.lifeStages.1.labelFemalePlural>бумобелочки</GR_Boomsquirrel.lifeStages.1.labelFemalePlural>
+  <GR_Boomsquirrel.lifeStages.2.label>бумобелка</GR_Boomsquirrel.lifeStages.2.label>
+  <GR_Boomsquirrel.lifeStages.2.labelPlural>бумобелка</GR_Boomsquirrel.lifeStages.2.labelPlural>
+  <GR_Boomsquirrel.lifeStages.2.labelMale>бумобелка</GR_Boomsquirrel.lifeStages.2.labelMale>
+  <GR_Boomsquirrel.lifeStages.2.labelMalePlural>бумобелки</GR_Boomsquirrel.lifeStages.2.labelMalePlural>
+  <GR_Boomsquirrel.lifeStages.2.labelFemale>бумобелочка</GR_Boomsquirrel.lifeStages.2.labelFemale>
+  <GR_Boomsquirrel.lifeStages.2.labelFemalePlural>бумобелочки</GR_Boomsquirrel.lifeStages.2.labelFemalePlural>
+  <GR_Boomsquirrel.labelMale>бумобелка</GR_Boomsquirrel.labelMale>
+  <GR_Boomsquirrel.labelMalePlural>бумобелки</GR_Boomsquirrel.labelMalePlural>
+  <GR_Boomsquirrel.labelFemale>бумобелочка</GR_Boomsquirrel.labelFemale>
+  <GR_Boomsquirrel.labelFemalePlural>бумобелочки</GR_Boomsquirrel.labelFemalePlural>
 
 
   <!-- Rabbit - Chicken -->
 
-  <GR_Rabbitchicken.label>rabbitchicken</GR_Rabbitchicken.label>
-  <GR_Rabbitchicken.labelPlural>rabbitchickens</GR_Rabbitchicken.labelPlural>
-  <GR_Rabbitchicken.lifeStages.0.label>rabbitchicken</GR_Rabbitchicken.lifeStages.0.label>
-  <GR_Rabbitchicken.lifeStages.0.labelPlural>rabbitchicken</GR_Rabbitchicken.lifeStages.0.labelPlural>
-  <GR_Rabbitchicken.lifeStages.0.labelMale>male rabbitchicken</GR_Rabbitchicken.lifeStages.0.labelMale>
-  <GR_Rabbitchicken.lifeStages.0.labelMalePlural>male rabbitchickens</GR_Rabbitchicken.lifeStages.0.labelMalePlural>
-  <GR_Rabbitchicken.lifeStages.0.labelFemale>female rabbitchicken</GR_Rabbitchicken.lifeStages.0.labelFemale>
-  <GR_Rabbitchicken.lifeStages.0.labelFemalePlural>female rabbitchickens</GR_Rabbitchicken.lifeStages.0.labelFemalePlural>
-  <GR_Rabbitchicken.lifeStages.1.label>rabbitchicken</GR_Rabbitchicken.lifeStages.1.label>
-  <GR_Rabbitchicken.lifeStages.1.labelPlural>rabbitchicken</GR_Rabbitchicken.lifeStages.1.labelPlural>
-  <GR_Rabbitchicken.lifeStages.1.labelMale>male rabbitchicken</GR_Rabbitchicken.lifeStages.1.labelMale>
-  <GR_Rabbitchicken.lifeStages.1.labelMalePlural>male rabbitchickens</GR_Rabbitchicken.lifeStages.1.labelMalePlural>
-  <GR_Rabbitchicken.lifeStages.1.labelFemale>female rabbitchicken</GR_Rabbitchicken.lifeStages.1.labelFemale>
-  <GR_Rabbitchicken.lifeStages.1.labelFemalePlural>female rabbitchickens</GR_Rabbitchicken.lifeStages.1.labelFemalePlural>
-  <GR_Rabbitchicken.lifeStages.2.label>rabbitchicken</GR_Rabbitchicken.lifeStages.2.label>
-  <GR_Rabbitchicken.lifeStages.2.labelPlural>rabbitchicken</GR_Rabbitchicken.lifeStages.2.labelPlural>
-  <GR_Rabbitchicken.lifeStages.2.labelMale>male rabbitchicken</GR_Rabbitchicken.lifeStages.2.labelMale>
-  <GR_Rabbitchicken.lifeStages.2.labelMalePlural>male rabbitchickens</GR_Rabbitchicken.lifeStages.2.labelMalePlural>
-  <GR_Rabbitchicken.lifeStages.2.labelFemale>female rabbitchicken</GR_Rabbitchicken.lifeStages.2.labelFemale>
-  <GR_Rabbitchicken.lifeStages.2.labelFemalePlural>female rabbitchickens</GR_Rabbitchicken.lifeStages.2.labelFemalePlural>
-  <GR_Rabbitchicken.labelMale>male rabbitchicken</GR_Rabbitchicken.labelMale>
-  <GR_Rabbitchicken.labelMalePlural>male rabbitchickens</GR_Rabbitchicken.labelMalePlural>
-  <GR_Rabbitchicken.labelFemale>female rabbitchicken</GR_Rabbitchicken.labelFemale>
-  <GR_Rabbitchicken.labelFemalePlural>female rabbitchickens</GR_Rabbitchicken.labelFemalePlural>
+  <GR_Rabbitchicken.label>зайцекура</GR_Rabbitchicken.label>
+  <GR_Rabbitchicken.labelPlural>зайцекуры</GR_Rabbitchicken.labelPlural>
+  <GR_Rabbitchicken.lifeStages.0.label>зайцекура</GR_Rabbitchicken.lifeStages.0.label>
+  <GR_Rabbitchicken.lifeStages.0.labelPlural>зайцекура</GR_Rabbitchicken.lifeStages.0.labelPlural>
+  <GR_Rabbitchicken.lifeStages.0.labelMale>зайцекур</GR_Rabbitchicken.lifeStages.0.labelMale>
+  <GR_Rabbitchicken.lifeStages.0.labelMalePlural>зайцекуры</GR_Rabbitchicken.lifeStages.0.labelMalePlural>
+  <GR_Rabbitchicken.lifeStages.0.labelFemale>зайцекура</GR_Rabbitchicken.lifeStages.0.labelFemale>
+  <GR_Rabbitchicken.lifeStages.0.labelFemalePlural>зайцекуры</GR_Rabbitchicken.lifeStages.0.labelFemalePlural>
+  <GR_Rabbitchicken.lifeStages.1.label>зайцекура</GR_Rabbitchicken.lifeStages.1.label>
+  <GR_Rabbitchicken.lifeStages.1.labelPlural>зайцекура</GR_Rabbitchicken.lifeStages.1.labelPlural>
+  <GR_Rabbitchicken.lifeStages.1.labelMale>зайцекур</GR_Rabbitchicken.lifeStages.1.labelMale>
+  <GR_Rabbitchicken.lifeStages.1.labelMalePlural>зайцекуры</GR_Rabbitchicken.lifeStages.1.labelMalePlural>
+  <GR_Rabbitchicken.lifeStages.1.labelFemale>зайцекура</GR_Rabbitchicken.lifeStages.1.labelFemale>
+  <GR_Rabbitchicken.lifeStages.1.labelFemalePlural>зайцекуры</GR_Rabbitchicken.lifeStages.1.labelFemalePlural>
+  <GR_Rabbitchicken.lifeStages.2.label>зайцекура</GR_Rabbitchicken.lifeStages.2.label>
+  <GR_Rabbitchicken.lifeStages.2.labelPlural>зайцекура</GR_Rabbitchicken.lifeStages.2.labelPlural>
+  <GR_Rabbitchicken.lifeStages.2.labelMale>зайцекур</GR_Rabbitchicken.lifeStages.2.labelMale>
+  <GR_Rabbitchicken.lifeStages.2.labelMalePlural>зайцекуры</GR_Rabbitchicken.lifeStages.2.labelMalePlural>
+  <GR_Rabbitchicken.lifeStages.2.labelFemale>зайцекура</GR_Rabbitchicken.lifeStages.2.labelFemale>
+  <GR_Rabbitchicken.lifeStages.2.labelFemalePlural>зайцекуры</GR_Rabbitchicken.lifeStages.2.labelFemalePlural>
+  <GR_Rabbitchicken.labelMale>зайцекур</GR_Rabbitchicken.labelMale>
+  <GR_Rabbitchicken.labelMalePlural>зайцекуры</GR_Rabbitchicken.labelMalePlural>
+  <GR_Rabbitchicken.labelFemale>зайцекура</GR_Rabbitchicken.labelFemale>
+  <GR_Rabbitchicken.labelFemalePlural>зайцекуры</GR_Rabbitchicken.labelFemalePlural>
 
 
   <!-- Rat - Muffalo -->
 
-  <GR_Ratfallo.label>ratfallo</GR_Ratfallo.label>
-  <GR_Ratfallo.labelPlural>ratfallos</GR_Ratfallo.labelPlural>
-  <GR_Ratfallo.lifeStages.0.label>ratfallo</GR_Ratfallo.lifeStages.0.label>
-  <GR_Ratfallo.lifeStages.0.labelPlural>ratfallo</GR_Ratfallo.lifeStages.0.labelPlural>
-  <GR_Ratfallo.lifeStages.0.labelMale>male ratfallo</GR_Ratfallo.lifeStages.0.labelMale>
-  <GR_Ratfallo.lifeStages.0.labelMalePlural>male ratfallos</GR_Ratfallo.lifeStages.0.labelMalePlural>
-  <GR_Ratfallo.lifeStages.0.labelFemale>female ratfallo</GR_Ratfallo.lifeStages.0.labelFemale>
-  <GR_Ratfallo.lifeStages.0.labelFemalePlural>female ratfallos</GR_Ratfallo.lifeStages.0.labelFemalePlural>
-  <GR_Ratfallo.lifeStages.1.label>ratfallo</GR_Ratfallo.lifeStages.1.label>
-  <GR_Ratfallo.lifeStages.1.labelPlural>ratfallo</GR_Ratfallo.lifeStages.1.labelPlural>
-  <GR_Ratfallo.lifeStages.1.labelMale>male ratfallo</GR_Ratfallo.lifeStages.1.labelMale>
-  <GR_Ratfallo.lifeStages.1.labelMalePlural>male ratfallos</GR_Ratfallo.lifeStages.1.labelMalePlural>
-  <GR_Ratfallo.lifeStages.1.labelFemale>female ratfallo</GR_Ratfallo.lifeStages.1.labelFemale>
-  <GR_Ratfallo.lifeStages.1.labelFemalePlural>female ratfallos</GR_Ratfallo.lifeStages.1.labelFemalePlural>
-  <GR_Ratfallo.lifeStages.2.label>ratfallo</GR_Ratfallo.lifeStages.2.label>
-  <GR_Ratfallo.lifeStages.2.labelPlural>ratfallo</GR_Ratfallo.lifeStages.2.labelPlural>
-  <GR_Ratfallo.lifeStages.2.labelMale>male ratfallo</GR_Ratfallo.lifeStages.2.labelMale>
-  <GR_Ratfallo.lifeStages.2.labelMalePlural>male ratfallos</GR_Ratfallo.lifeStages.2.labelMalePlural>
-  <GR_Ratfallo.lifeStages.2.labelFemale>female ratfallo</GR_Ratfallo.lifeStages.2.labelFemale>
-  <GR_Ratfallo.lifeStages.2.labelFemalePlural>female ratfallos</GR_Ratfallo.lifeStages.2.labelFemalePlural>
-  <GR_Ratfallo.labelMale>male ratfallo</GR_Ratfallo.labelMale>
-  <GR_Ratfallo.labelMalePlural>male ratfallos</GR_Ratfallo.labelMalePlural>
-  <GR_Ratfallo.labelFemale>female ratfallo</GR_Ratfallo.labelFemale>
-  <GR_Ratfallo.labelFemalePlural>female ratfallos</GR_Ratfallo.labelFemalePlural>
+  <GR_Ratfallo.label>крысофалло</GR_Ratfallo.label>
+  <GR_Ratfallo.labelPlural>крысофаллы</GR_Ratfallo.labelPlural>
+  <GR_Ratfallo.lifeStages.0.label>крысофалло</GR_Ratfallo.lifeStages.0.label>
+  <GR_Ratfallo.lifeStages.0.labelPlural>крысофалло</GR_Ratfallo.lifeStages.0.labelPlural>
+  <GR_Ratfallo.lifeStages.0.labelMale>крысофалло</GR_Ratfallo.lifeStages.0.labelMale>
+  <GR_Ratfallo.lifeStages.0.labelMalePlural>крысофаллы</GR_Ratfallo.lifeStages.0.labelMalePlural>
+  <GR_Ratfallo.lifeStages.0.labelFemale>крысофалла</GR_Ratfallo.lifeStages.0.labelFemale>
+  <GR_Ratfallo.lifeStages.0.labelFemalePlural>крысофаллы</GR_Ratfallo.lifeStages.0.labelFemalePlural>
+  <GR_Ratfallo.lifeStages.1.label>крысофалло</GR_Ratfallo.lifeStages.1.label>
+  <GR_Ratfallo.lifeStages.1.labelPlural>крысофалло</GR_Ratfallo.lifeStages.1.labelPlural>
+  <GR_Ratfallo.lifeStages.1.labelMale>крысофалло</GR_Ratfallo.lifeStages.1.labelMale>
+  <GR_Ratfallo.lifeStages.1.labelMalePlural>крысофаллы</GR_Ratfallo.lifeStages.1.labelMalePlural>
+  <GR_Ratfallo.lifeStages.1.labelFemale>крысофалла</GR_Ratfallo.lifeStages.1.labelFemale>
+  <GR_Ratfallo.lifeStages.1.labelFemalePlural>крысофаллы</GR_Ratfallo.lifeStages.1.labelFemalePlural>
+  <GR_Ratfallo.lifeStages.2.label>крысофалло</GR_Ratfallo.lifeStages.2.label>
+  <GR_Ratfallo.lifeStages.2.labelPlural>крысофалло</GR_Ratfallo.lifeStages.2.labelPlural>
+  <GR_Ratfallo.lifeStages.2.labelMale>крысофалло</GR_Ratfallo.lifeStages.2.labelMale>
+  <GR_Ratfallo.lifeStages.2.labelMalePlural>крысофаллы</GR_Ratfallo.lifeStages.2.labelMalePlural>
+  <GR_Ratfallo.lifeStages.2.labelFemale>крысофалла</GR_Ratfallo.lifeStages.2.labelFemale>
+  <GR_Ratfallo.lifeStages.2.labelFemalePlural>крысофаллы</GR_Ratfallo.lifeStages.2.labelFemalePlural>
+  <GR_Ratfallo.labelMale>крысофалло</GR_Ratfallo.labelMale>
+  <GR_Ratfallo.labelMalePlural>крысофаллы</GR_Ratfallo.labelMalePlural>
+  <GR_Ratfallo.labelFemale>крысофалла</GR_Ratfallo.labelFemale>
+  <GR_Ratfallo.labelFemalePlural>крысофаллы</GR_Ratfallo.labelFemalePlural>
 
 
   <!-- Rat - Thrumbo -->
 
-  <GR_Thrumborat.label>thrumborat</GR_Thrumborat.label>
-  <GR_Thrumborat.labelPlural>thrumborats</GR_Thrumborat.labelPlural>
-  <GR_Thrumborat.lifeStages.0.label>thrumborat calf</GR_Thrumborat.lifeStages.0.label>
-  <GR_Thrumborat.lifeStages.0.labelPlural>thrumborat calves</GR_Thrumborat.lifeStages.0.labelPlural>
-  <GR_Thrumborat.lifeStages.0.labelMale>male thrumborat calf</GR_Thrumborat.lifeStages.0.labelMale>
-  <GR_Thrumborat.lifeStages.0.labelMalePlural>male thrumborat calves</GR_Thrumborat.lifeStages.0.labelMalePlural>
-  <GR_Thrumborat.lifeStages.0.labelFemale>female thrumborat calf</GR_Thrumborat.lifeStages.0.labelFemale>
-  <GR_Thrumborat.lifeStages.0.labelFemalePlural>female thrumborat calves</GR_Thrumborat.lifeStages.0.labelFemalePlural>
-  <GR_Thrumborat.lifeStages.1.label>thrumborat</GR_Thrumborat.lifeStages.1.label>
-  <GR_Thrumborat.lifeStages.1.labelPlural>thrumborat</GR_Thrumborat.lifeStages.1.labelPlural>
-  <GR_Thrumborat.lifeStages.1.labelMale>male thrumborat</GR_Thrumborat.lifeStages.1.labelMale>
-  <GR_Thrumborat.lifeStages.1.labelMalePlural>male thrumborats</GR_Thrumborat.lifeStages.1.labelMalePlural>
-  <GR_Thrumborat.lifeStages.1.labelFemale>female thrumborat</GR_Thrumborat.lifeStages.1.labelFemale>
-  <GR_Thrumborat.lifeStages.1.labelFemalePlural>female thrumborats</GR_Thrumborat.lifeStages.1.labelFemalePlural>
-  <GR_Thrumborat.lifeStages.2.label>thrumborat</GR_Thrumborat.lifeStages.2.label>
-  <GR_Thrumborat.lifeStages.2.labelPlural>thrumborat</GR_Thrumborat.lifeStages.2.labelPlural>
-  <GR_Thrumborat.lifeStages.2.labelMale>male thrumborat</GR_Thrumborat.lifeStages.2.labelMale>
-  <GR_Thrumborat.lifeStages.2.labelMalePlural>male thrumborats</GR_Thrumborat.lifeStages.2.labelMalePlural>
-  <GR_Thrumborat.lifeStages.2.labelFemale>female thrumborat</GR_Thrumborat.lifeStages.2.labelFemale>
-  <GR_Thrumborat.lifeStages.2.labelFemalePlural>female thrumborats</GR_Thrumborat.lifeStages.2.labelFemalePlural>
-  <GR_Thrumborat.labelMale>male thrumborat</GR_Thrumborat.labelMale>
-  <GR_Thrumborat.labelMalePlural>male thrumborats</GR_Thrumborat.labelMalePlural>
-  <GR_Thrumborat.labelFemale>female thrumborat</GR_Thrumborat.labelFemale>
-  <GR_Thrumborat.labelFemalePlural>female thrumborats</GR_Thrumborat.labelFemalePlural>
+  <GR_Thrumborat.label>трумбокрыс</GR_Thrumborat.label>
+  <GR_Thrumborat.labelPlural>трумбокрысы</GR_Thrumborat.labelPlural>
+  <GR_Thrumborat.lifeStages.0.label>теленок трумбокрыса</GR_Thrumborat.lifeStages.0.label>
+  <GR_Thrumborat.lifeStages.0.labelPlural>телята трумбокрыса</GR_Thrumborat.lifeStages.0.labelPlural>
+  <GR_Thrumborat.lifeStages.0.labelMale>теленок трумбокрыса</GR_Thrumborat.lifeStages.0.labelMale>
+  <GR_Thrumborat.lifeStages.0.labelMalePlural>телята трумбокрыса</GR_Thrumborat.lifeStages.0.labelMalePlural>
+  <GR_Thrumborat.lifeStages.0.labelFemale>телушка трумбокрыса</GR_Thrumborat.lifeStages.0.labelFemale>
+  <GR_Thrumborat.lifeStages.0.labelFemalePlural>телушки трумбокрыса</GR_Thrumborat.lifeStages.0.labelFemalePlural>
+  <GR_Thrumborat.lifeStages.1.label>трумбокрыс</GR_Thrumborat.lifeStages.1.label>
+  <GR_Thrumborat.lifeStages.1.labelPlural>трумбокрысы</GR_Thrumborat.lifeStages.1.labelPlural>
+  <GR_Thrumborat.lifeStages.1.labelMale>трумбокрыс</GR_Thrumborat.lifeStages.1.labelMale>
+  <GR_Thrumborat.lifeStages.1.labelMalePlural>трумбокрысы</GR_Thrumborat.lifeStages.1.labelMalePlural>
+  <GR_Thrumborat.lifeStages.1.labelFemale>трумбокрыса</GR_Thrumborat.lifeStages.1.labelFemale>
+  <GR_Thrumborat.lifeStages.1.labelFemalePlural>трумбокрысы</GR_Thrumborat.lifeStages.1.labelFemalePlural>
+  <GR_Thrumborat.lifeStages.2.label>трумбокрыс</GR_Thrumborat.lifeStages.2.label>
+  <GR_Thrumborat.lifeStages.2.labelPlural>трумбокрысы</GR_Thrumborat.lifeStages.2.labelPlural>
+  <GR_Thrumborat.lifeStages.2.labelMale>трумбокрыс</GR_Thrumborat.lifeStages.2.labelMale>
+  <GR_Thrumborat.lifeStages.2.labelMalePlural>трумбокрысы</GR_Thrumborat.lifeStages.2.labelMalePlural>
+  <GR_Thrumborat.lifeStages.2.labelFemale>трумбокрыса</GR_Thrumborat.lifeStages.2.labelFemale>
+  <GR_Thrumborat.lifeStages.2.labelFemalePlural>трумбокрысы</GR_Thrumborat.lifeStages.2.labelFemalePlural>
+  <GR_Thrumborat.labelMale>трумбокрыс</GR_Thrumborat.labelMale>
+  <GR_Thrumborat.labelMalePlural>трумбокрысы</GR_Thrumborat.labelMalePlural>
+  <GR_Thrumborat.labelFemale>трумбокрыса</GR_Thrumborat.labelFemale>
+  <GR_Thrumborat.labelFemalePlural>трумбокрысы</GR_Thrumborat.labelFemalePlural>
 
 
   <!-- Beaver - Wolf -->
 
-  <GR_Beaverwolf.label>beaverwolf</GR_Beaverwolf.label>
-  <GR_Beaverwolf.labelPlural>beaverwolfs</GR_Beaverwolf.labelPlural>
-  <GR_Beaverwolf.lifeStages.0.label>beaverwolf puppy</GR_Beaverwolf.lifeStages.0.label>
-  <GR_Beaverwolf.lifeStages.0.labelPlural>beaverwolf puppies</GR_Beaverwolf.lifeStages.0.labelPlural>
-  <GR_Beaverwolf.lifeStages.0.labelMale>male beaverwolf puppy</GR_Beaverwolf.lifeStages.0.labelMale>
-  <GR_Beaverwolf.lifeStages.0.labelMalePlural>male beaverwolf puppies</GR_Beaverwolf.lifeStages.0.labelMalePlural>
-  <GR_Beaverwolf.lifeStages.0.labelFemale>female beaverwolf puppy</GR_Beaverwolf.lifeStages.0.labelFemale>
-  <GR_Beaverwolf.lifeStages.0.labelFemalePlural>female beaverwolf puppies</GR_Beaverwolf.lifeStages.0.labelFemalePlural>
-  <GR_Beaverwolf.lifeStages.1.label>beaverwolf</GR_Beaverwolf.lifeStages.1.label>
-  <GR_Beaverwolf.lifeStages.1.labelPlural>beaverwolf</GR_Beaverwolf.lifeStages.1.labelPlural>
-  <GR_Beaverwolf.lifeStages.1.labelMale>male beaverwolf</GR_Beaverwolf.lifeStages.1.labelMale>
-  <GR_Beaverwolf.lifeStages.1.labelMalePlural>male beaverwolfs</GR_Beaverwolf.lifeStages.1.labelMalePlural>
-  <GR_Beaverwolf.lifeStages.1.labelFemale>female beaverwolf</GR_Beaverwolf.lifeStages.1.labelFemale>
-  <GR_Beaverwolf.lifeStages.1.labelFemalePlural>female beaverwolfs</GR_Beaverwolf.lifeStages.1.labelFemalePlural>
-  <GR_Beaverwolf.lifeStages.2.label>beaverwolf</GR_Beaverwolf.lifeStages.2.label>
-  <GR_Beaverwolf.lifeStages.2.labelPlural>beaverwolf</GR_Beaverwolf.lifeStages.2.labelPlural>
-  <GR_Beaverwolf.lifeStages.2.labelMale>male beaverwolf</GR_Beaverwolf.lifeStages.2.labelMale>
-  <GR_Beaverwolf.lifeStages.2.labelMalePlural>male beaverwolfs</GR_Beaverwolf.lifeStages.2.labelMalePlural>
-  <GR_Beaverwolf.lifeStages.2.labelFemale>female beaverwolf</GR_Beaverwolf.lifeStages.2.labelFemale>
-  <GR_Beaverwolf.lifeStages.2.labelFemalePlural>female beaverwolfs</GR_Beaverwolf.lifeStages.2.labelFemalePlural>
-  <GR_Beaverwolf.labelMale>male beaverwolf</GR_Beaverwolf.labelMale>
-  <GR_Beaverwolf.labelMalePlural>male beaverwolfs</GR_Beaverwolf.labelMalePlural>
-  <GR_Beaverwolf.labelFemale>female beaverwolf</GR_Beaverwolf.labelFemale>
-  <GR_Beaverwolf.labelFemalePlural>female beaverwolfs</GR_Beaverwolf.labelFemalePlural>
+  <GR_Beaverwolf.label>медвеволк</GR_Beaverwolf.label>
+  <GR_Beaverwolf.labelPlural>медвеволки</GR_Beaverwolf.labelPlural>
+  <GR_Beaverwolf.lifeStages.0.label>щенок медвеволка</GR_Beaverwolf.lifeStages.0.label>
+  <GR_Beaverwolf.lifeStages.0.labelPlural>щенки медвеволка</GR_Beaverwolf.lifeStages.0.labelPlural>
+  <GR_Beaverwolf.lifeStages.0.labelMale>щенок медвеволка</GR_Beaverwolf.lifeStages.0.labelMale>
+  <GR_Beaverwolf.lifeStages.0.labelMalePlural>щенки медвеволка</GR_Beaverwolf.lifeStages.0.labelMalePlural>
+  <GR_Beaverwolf.lifeStages.0.labelFemale>щена медвеволка</GR_Beaverwolf.lifeStages.0.labelFemale>
+  <GR_Beaverwolf.lifeStages.0.labelFemalePlural>щены медвеволка</GR_Beaverwolf.lifeStages.0.labelFemalePlural>
+  <GR_Beaverwolf.lifeStages.1.label>медвеволк</GR_Beaverwolf.lifeStages.1.label>
+  <GR_Beaverwolf.lifeStages.1.labelPlural>медвеволки</GR_Beaverwolf.lifeStages.1.labelPlural>
+  <GR_Beaverwolf.lifeStages.1.labelMale>медвеволк</GR_Beaverwolf.lifeStages.1.labelMale>
+  <GR_Beaverwolf.lifeStages.1.labelMalePlural>медвеволки</GR_Beaverwolf.lifeStages.1.labelMalePlural>
+  <GR_Beaverwolf.lifeStages.1.labelFemale>медвеволчица</GR_Beaverwolf.lifeStages.1.labelFemale>
+  <GR_Beaverwolf.lifeStages.1.labelFemalePlural>медвеволчицы</GR_Beaverwolf.lifeStages.1.labelFemalePlural>
+  <GR_Beaverwolf.lifeStages.2.label>медвеволк</GR_Beaverwolf.lifeStages.2.label>
+  <GR_Beaverwolf.lifeStages.2.labelPlural>медвеволк</GR_Beaverwolf.lifeStages.2.labelPlural>
+  <GR_Beaverwolf.lifeStages.2.labelMale>медвеволк</GR_Beaverwolf.lifeStages.2.labelMale>
+  <GR_Beaverwolf.lifeStages.2.labelMalePlural>медвеволки</GR_Beaverwolf.lifeStages.2.labelMalePlural>
+  <GR_Beaverwolf.lifeStages.2.labelFemale>медвеволчица</GR_Beaverwolf.lifeStages.2.labelFemale>
+  <GR_Beaverwolf.lifeStages.2.labelFemalePlural>медвеволчицы</GR_Beaverwolf.lifeStages.2.labelFemalePlural>
+  <GR_Beaverwolf.labelMale>медвеволк</GR_Beaverwolf.labelMale>
+  <GR_Beaverwolf.labelMalePlural>медвеволки</GR_Beaverwolf.labelMalePlural>
+  <GR_Beaverwolf.labelFemale>медвеволчица</GR_Beaverwolf.labelFemale>
+  <GR_Beaverwolf.labelFemalePlural>медвеволчицы</GR_Beaverwolf.labelFemalePlural>
 
 
   <!-- Rabbit - Cat -->
 
-  <GR_Rabbitcat.label>rabbitcat</GR_Rabbitcat.label>
-  <GR_Rabbitcat.labelPlural>rabbitcats</GR_Rabbitcat.labelPlural>
-  <GR_Rabbitcat.lifeStages.0.label>rabbitcat kitten</GR_Rabbitcat.lifeStages.0.label>
-  <GR_Rabbitcat.lifeStages.0.labelPlural>rabbitcat kittens</GR_Rabbitcat.lifeStages.0.labelPlural>
-  <GR_Rabbitcat.lifeStages.0.labelMale>male rabbitcat kitten</GR_Rabbitcat.lifeStages.0.labelMale>
-  <GR_Rabbitcat.lifeStages.0.labelMalePlural>male rabbitcat kittens</GR_Rabbitcat.lifeStages.0.labelMalePlural>
-  <GR_Rabbitcat.lifeStages.0.labelFemale>female rabbitcat kitten</GR_Rabbitcat.lifeStages.0.labelFemale>
-  <GR_Rabbitcat.lifeStages.0.labelFemalePlural>female rabbitcat kittens</GR_Rabbitcat.lifeStages.0.labelFemalePlural>
-  <GR_Rabbitcat.lifeStages.1.label>rabbitcat</GR_Rabbitcat.lifeStages.1.label>
-  <GR_Rabbitcat.lifeStages.1.labelPlural>rabbitcat</GR_Rabbitcat.lifeStages.1.labelPlural>
-  <GR_Rabbitcat.lifeStages.1.labelMale>male rabbitcat</GR_Rabbitcat.lifeStages.1.labelMale>
-  <GR_Rabbitcat.lifeStages.1.labelMalePlural>male rabbitcats</GR_Rabbitcat.lifeStages.1.labelMalePlural>
-  <GR_Rabbitcat.lifeStages.1.labelFemale>female rabbitcat</GR_Rabbitcat.lifeStages.1.labelFemale>
-  <GR_Rabbitcat.lifeStages.1.labelFemalePlural>female rabbitcats</GR_Rabbitcat.lifeStages.1.labelFemalePlural>
-  <GR_Rabbitcat.lifeStages.2.label>rabbitcat</GR_Rabbitcat.lifeStages.2.label>
-  <GR_Rabbitcat.lifeStages.2.labelPlural>rabbitcat</GR_Rabbitcat.lifeStages.2.labelPlural>
-  <GR_Rabbitcat.lifeStages.2.labelMale>male rabbitcat</GR_Rabbitcat.lifeStages.2.labelMale>
-  <GR_Rabbitcat.lifeStages.2.labelMalePlural>male rabbitcats</GR_Rabbitcat.lifeStages.2.labelMalePlural>
-  <GR_Rabbitcat.lifeStages.2.labelFemale>female rabbitcat</GR_Rabbitcat.lifeStages.2.labelFemale>
-  <GR_Rabbitcat.lifeStages.2.labelFemalePlural>female rabbitcats</GR_Rabbitcat.lifeStages.2.labelFemalePlural>
-  <GR_Rabbitcat.labelMale>male rabbitcat</GR_Rabbitcat.labelMale>
-  <GR_Rabbitcat.labelMalePlural>male rabbitcats</GR_Rabbitcat.labelMalePlural>
-  <GR_Rabbitcat.labelFemale>female rabbitcat</GR_Rabbitcat.labelFemale>
-  <GR_Rabbitcat.labelFemalePlural>female rabbitcats</GR_Rabbitcat.labelFemalePlural>
+  <GR_Rabbitcat.label>зайцекот</GR_Rabbitcat.label>
+  <GR_Rabbitcat.labelPlural>зайцекоты</GR_Rabbitcat.labelPlural>
+  <GR_Rabbitcat.lifeStages.0.label>котенок зайцекота</GR_Rabbitcat.lifeStages.0.label>
+  <GR_Rabbitcat.lifeStages.0.labelPlural>котята зайцекота</GR_Rabbitcat.lifeStages.0.labelPlural>
+  <GR_Rabbitcat.lifeStages.0.labelMale>котенок зайцекота</GR_Rabbitcat.lifeStages.0.labelMale>
+  <GR_Rabbitcat.lifeStages.0.labelMalePlural>котята зайцекота</GR_Rabbitcat.lifeStages.0.labelMalePlural>
+  <GR_Rabbitcat.lifeStages.0.labelFemale>киса зайцекота</GR_Rabbitcat.lifeStages.0.labelFemale>
+  <GR_Rabbitcat.lifeStages.0.labelFemalePlural>кисы зайцекота</GR_Rabbitcat.lifeStages.0.labelFemalePlural>
+  <GR_Rabbitcat.lifeStages.1.label>зайцекот</GR_Rabbitcat.lifeStages.1.label>
+  <GR_Rabbitcat.lifeStages.1.labelPlural>зайцекот</GR_Rabbitcat.lifeStages.1.labelPlural>
+  <GR_Rabbitcat.lifeStages.1.labelMale>зайцекот</GR_Rabbitcat.lifeStages.1.labelMale>
+  <GR_Rabbitcat.lifeStages.1.labelMalePlural>зайцекоты</GR_Rabbitcat.lifeStages.1.labelMalePlural>
+  <GR_Rabbitcat.lifeStages.1.labelFemale>зайцекошка</GR_Rabbitcat.lifeStages.1.labelFemale>
+  <GR_Rabbitcat.lifeStages.1.labelFemalePlural>зайцекошки</GR_Rabbitcat.lifeStages.1.labelFemalePlural>
+  <GR_Rabbitcat.lifeStages.2.label>зайцекот</GR_Rabbitcat.lifeStages.2.label>
+  <GR_Rabbitcat.lifeStages.2.labelPlural>зайцекот</GR_Rabbitcat.lifeStages.2.labelPlural>
+  <GR_Rabbitcat.lifeStages.2.labelMale>зайцекот</GR_Rabbitcat.lifeStages.2.labelMale>
+  <GR_Rabbitcat.lifeStages.2.labelMalePlural>зайцекоты</GR_Rabbitcat.lifeStages.2.labelMalePlural>
+  <GR_Rabbitcat.lifeStages.2.labelFemale>зайцекошка</GR_Rabbitcat.lifeStages.2.labelFemale>
+  <GR_Rabbitcat.lifeStages.2.labelFemalePlural>зайцекошки</GR_Rabbitcat.lifeStages.2.labelFemalePlural>
+  <GR_Rabbitcat.labelMale>зайцекот</GR_Rabbitcat.labelMale>
+  <GR_Rabbitcat.labelMalePlural>зайцекоты</GR_Rabbitcat.labelMalePlural>
+  <GR_Rabbitcat.labelFemale>зайцекошка</GR_Rabbitcat.labelFemale>
+  <GR_Rabbitcat.labelFemalePlural>зайцекошки</GR_Rabbitcat.labelFemalePlural>
 
 
 </LanguageData>

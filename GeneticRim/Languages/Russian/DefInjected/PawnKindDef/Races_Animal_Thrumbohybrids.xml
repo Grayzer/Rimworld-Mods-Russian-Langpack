@@ -3,170 +3,170 @@
 
   <!-- Bear - Thrumbo -->
 
-  <GR_Thrumbear.label>thrumbear</GR_Thrumbear.label>
-  <GR_Thrumbear.labelPlural>thrumbears</GR_Thrumbear.labelPlural>
-  <GR_Thrumbear.lifeStages.0.label>thrumbear calf</GR_Thrumbear.lifeStages.0.label>
-  <GR_Thrumbear.lifeStages.0.labelPlural>thrumbear calves</GR_Thrumbear.lifeStages.0.labelPlural>
-  <GR_Thrumbear.lifeStages.0.labelMale>male thrumbear calf</GR_Thrumbear.lifeStages.0.labelMale>
-  <GR_Thrumbear.lifeStages.0.labelMalePlural>male thrumbear calves</GR_Thrumbear.lifeStages.0.labelMalePlural>
-  <GR_Thrumbear.lifeStages.0.labelFemale>female thrumbear calf</GR_Thrumbear.lifeStages.0.labelFemale>
-  <GR_Thrumbear.lifeStages.0.labelFemalePlural>female thrumbear calves</GR_Thrumbear.lifeStages.0.labelFemalePlural>
-  <GR_Thrumbear.lifeStages.1.label>thrumbear</GR_Thrumbear.lifeStages.1.label>
-  <GR_Thrumbear.lifeStages.1.labelPlural>thrumbear</GR_Thrumbear.lifeStages.1.labelPlural>
-  <GR_Thrumbear.lifeStages.1.labelMale>male thrumbear</GR_Thrumbear.lifeStages.1.labelMale>
-  <GR_Thrumbear.lifeStages.1.labelMalePlural>male thrumbears</GR_Thrumbear.lifeStages.1.labelMalePlural>
-  <GR_Thrumbear.lifeStages.1.labelFemale>female thrumbear</GR_Thrumbear.lifeStages.1.labelFemale>
-  <GR_Thrumbear.lifeStages.1.labelFemalePlural>female thrumbears</GR_Thrumbear.lifeStages.1.labelFemalePlural>
-  <GR_Thrumbear.lifeStages.2.label>thrumbear</GR_Thrumbear.lifeStages.2.label>
-  <GR_Thrumbear.lifeStages.2.labelPlural>thrumbear</GR_Thrumbear.lifeStages.2.labelPlural>
-  <GR_Thrumbear.lifeStages.2.labelMale>male thrumbear</GR_Thrumbear.lifeStages.2.labelMale>
-  <GR_Thrumbear.lifeStages.2.labelMalePlural>male thrumbears</GR_Thrumbear.lifeStages.2.labelMalePlural>
-  <GR_Thrumbear.lifeStages.2.labelFemale>female thrumbear</GR_Thrumbear.lifeStages.2.labelFemale>
-  <GR_Thrumbear.lifeStages.2.labelFemalePlural>female thrumbears</GR_Thrumbear.lifeStages.2.labelFemalePlural>
-  <GR_Thrumbear.labelMale>male thrumbear</GR_Thrumbear.labelMale>
-  <GR_Thrumbear.labelMalePlural>male thrumbears</GR_Thrumbear.labelMalePlural>
-  <GR_Thrumbear.labelFemale>female thrumbear</GR_Thrumbear.labelFemale>
-  <GR_Thrumbear.labelFemalePlural>female thrumbears</GR_Thrumbear.labelFemalePlural>
+  <GR_Thrumbear.label>трумбомедведь</GR_Thrumbear.label>
+  <GR_Thrumbear.labelPlural>трумбомедведи</GR_Thrumbear.labelPlural>
+  <GR_Thrumbear.lifeStages.0.label>теленок трумбомедведя</GR_Thrumbear.lifeStages.0.label>
+  <GR_Thrumbear.lifeStages.0.labelPlural>телята трумбомедведя</GR_Thrumbear.lifeStages.0.labelPlural>
+  <GR_Thrumbear.lifeStages.0.labelMale>теленок трумбомедведя</GR_Thrumbear.lifeStages.0.labelMale>
+  <GR_Thrumbear.lifeStages.0.labelMalePlural>телята трумбомедведя</GR_Thrumbear.lifeStages.0.labelMalePlural>
+  <GR_Thrumbear.lifeStages.0.labelFemale>телушка трумбомедведя</GR_Thrumbear.lifeStages.0.labelFemale>
+  <GR_Thrumbear.lifeStages.0.labelFemalePlural>телушки трумбомедведя</GR_Thrumbear.lifeStages.0.labelFemalePlural>
+  <GR_Thrumbear.lifeStages.1.label>трумбомедведь</GR_Thrumbear.lifeStages.1.label>
+  <GR_Thrumbear.lifeStages.1.labelPlural>трумбомедведи</GR_Thrumbear.lifeStages.1.labelPlural>
+  <GR_Thrumbear.lifeStages.1.labelMale>трумбомедведь</GR_Thrumbear.lifeStages.1.labelMale>
+  <GR_Thrumbear.lifeStages.1.labelMalePlural>трумбомедведи</GR_Thrumbear.lifeStages.1.labelMalePlural>
+  <GR_Thrumbear.lifeStages.1.labelFemale>трумбомедведица</GR_Thrumbear.lifeStages.1.labelFemale>
+  <GR_Thrumbear.lifeStages.1.labelFemalePlural>трумбомедведицы</GR_Thrumbear.lifeStages.1.labelFemalePlural>
+  <GR_Thrumbear.lifeStages.2.label>трумбомедведь</GR_Thrumbear.lifeStages.2.label>
+  <GR_Thrumbear.lifeStages.2.labelPlural>трумбомедведи</GR_Thrumbear.lifeStages.2.labelPlural>
+  <GR_Thrumbear.lifeStages.2.labelMale>трумбомедведь</GR_Thrumbear.lifeStages.2.labelMale>
+  <GR_Thrumbear.lifeStages.2.labelMalePlural>трумбомедведи</GR_Thrumbear.lifeStages.2.labelMalePlural>
+  <GR_Thrumbear.lifeStages.2.labelFemale>трумбомедведица</GR_Thrumbear.lifeStages.2.labelFemale>
+  <GR_Thrumbear.lifeStages.2.labelFemalePlural>трумбомедведицы</GR_Thrumbear.lifeStages.2.labelFemalePlural>
+  <GR_Thrumbear.labelMale>трумбомедведь</GR_Thrumbear.labelMale>
+  <GR_Thrumbear.labelMalePlural>трумбомедведи</GR_Thrumbear.labelMalePlural>
+  <GR_Thrumbear.labelFemale>трумбомедведица</GR_Thrumbear.labelFemale>
+  <GR_Thrumbear.labelFemalePlural>трумбомедведицы</GR_Thrumbear.labelFemalePlural>
 
 
   <!-- Boomalope - Thrumbo -->
 
-  <GR_Thrumbalope.label>thrumbalope</GR_Thrumbalope.label>
-  <GR_Thrumbalope.labelPlural>thrumbalopes</GR_Thrumbalope.labelPlural>
-  <GR_Thrumbalope.lifeStages.0.label>thrumbalope calf</GR_Thrumbalope.lifeStages.0.label>
-  <GR_Thrumbalope.lifeStages.0.labelPlural>thrumbalope calves</GR_Thrumbalope.lifeStages.0.labelPlural>
-  <GR_Thrumbalope.lifeStages.0.labelMale>male thrumbalope calf</GR_Thrumbalope.lifeStages.0.labelMale>
-  <GR_Thrumbalope.lifeStages.0.labelMalePlural>male thrumbalope calves</GR_Thrumbalope.lifeStages.0.labelMalePlural>
-  <GR_Thrumbalope.lifeStages.0.labelFemale>female thrumbalope calf</GR_Thrumbalope.lifeStages.0.labelFemale>
-  <GR_Thrumbalope.lifeStages.0.labelFemalePlural>female thrumbalope calves</GR_Thrumbalope.lifeStages.0.labelFemalePlural>
-  <GR_Thrumbalope.lifeStages.1.label>thrumbalope</GR_Thrumbalope.lifeStages.1.label>
-  <GR_Thrumbalope.lifeStages.1.labelPlural>thrumbalope</GR_Thrumbalope.lifeStages.1.labelPlural>
-  <GR_Thrumbalope.lifeStages.1.labelMale>male thrumbalope</GR_Thrumbalope.lifeStages.1.labelMale>
-  <GR_Thrumbalope.lifeStages.1.labelMalePlural>male thrumbalopes</GR_Thrumbalope.lifeStages.1.labelMalePlural>
-  <GR_Thrumbalope.lifeStages.1.labelFemale>female thrumbalope</GR_Thrumbalope.lifeStages.1.labelFemale>
-  <GR_Thrumbalope.lifeStages.1.labelFemalePlural>female thrumbalopes</GR_Thrumbalope.lifeStages.1.labelFemalePlural>
-  <GR_Thrumbalope.lifeStages.2.label>thrumbalope</GR_Thrumbalope.lifeStages.2.label>
-  <GR_Thrumbalope.lifeStages.2.labelPlural>thrumbalope</GR_Thrumbalope.lifeStages.2.labelPlural>
-  <GR_Thrumbalope.lifeStages.2.labelMale>male thrumbalope</GR_Thrumbalope.lifeStages.2.labelMale>
-  <GR_Thrumbalope.lifeStages.2.labelMalePlural>male thrumbalopes</GR_Thrumbalope.lifeStages.2.labelMalePlural>
-  <GR_Thrumbalope.lifeStages.2.labelFemale>female thrumbalope</GR_Thrumbalope.lifeStages.2.labelFemale>
-  <GR_Thrumbalope.lifeStages.2.labelFemalePlural>female thrumbalopes</GR_Thrumbalope.lifeStages.2.labelFemalePlural>
-  <GR_Thrumbalope.labelMale>male thrumbalope</GR_Thrumbalope.labelMale>
-  <GR_Thrumbalope.labelMalePlural>male thrumbalopes</GR_Thrumbalope.labelMalePlural>
-  <GR_Thrumbalope.labelFemale>female thrumbalope</GR_Thrumbalope.labelFemale>
-  <GR_Thrumbalope.labelFemalePlural>female thrumbalopes</GR_Thrumbalope.labelFemalePlural>
+  <GR_Thrumbalope.label>трумболопа</GR_Thrumbalope.label>
+  <GR_Thrumbalope.labelPlural>трумболопы</GR_Thrumbalope.labelPlural>
+  <GR_Thrumbalope.lifeStages.0.label>теленок трумболопы</GR_Thrumbalope.lifeStages.0.label>
+  <GR_Thrumbalope.lifeStages.0.labelPlural>телята трумболопы</GR_Thrumbalope.lifeStages.0.labelPlural>
+  <GR_Thrumbalope.lifeStages.0.labelMale>теленок трумболопы</GR_Thrumbalope.lifeStages.0.labelMale>
+  <GR_Thrumbalope.lifeStages.0.labelMalePlural>телята трумболопы</GR_Thrumbalope.lifeStages.0.labelMalePlural>
+  <GR_Thrumbalope.lifeStages.0.labelFemale>телушка трумболопы</GR_Thrumbalope.lifeStages.0.labelFemale>
+  <GR_Thrumbalope.lifeStages.0.labelFemalePlural>телушки трумболопы</GR_Thrumbalope.lifeStages.0.labelFemalePlural>
+  <GR_Thrumbalope.lifeStages.1.label>трумболопа</GR_Thrumbalope.lifeStages.1.label>
+  <GR_Thrumbalope.lifeStages.1.labelPlural>трумболопа</GR_Thrumbalope.lifeStages.1.labelPlural>
+  <GR_Thrumbalope.lifeStages.1.labelMale>трумболоп</GR_Thrumbalope.lifeStages.1.labelMale>
+  <GR_Thrumbalope.lifeStages.1.labelMalePlural>трумболопы</GR_Thrumbalope.lifeStages.1.labelMalePlural>
+  <GR_Thrumbalope.lifeStages.1.labelFemale>трумболопа</GR_Thrumbalope.lifeStages.1.labelFemale>
+  <GR_Thrumbalope.lifeStages.1.labelFemalePlural>трумболопы</GR_Thrumbalope.lifeStages.1.labelFemalePlural>
+  <GR_Thrumbalope.lifeStages.2.label>трумболопа</GR_Thrumbalope.lifeStages.2.label>
+  <GR_Thrumbalope.lifeStages.2.labelPlural>трумболопа</GR_Thrumbalope.lifeStages.2.labelPlural>
+  <GR_Thrumbalope.lifeStages.2.labelMale>трумболоп</GR_Thrumbalope.lifeStages.2.labelMale>
+  <GR_Thrumbalope.lifeStages.2.labelMalePlural>трумболопы</GR_Thrumbalope.lifeStages.2.labelMalePlural>
+  <GR_Thrumbalope.lifeStages.2.labelFemale>трумболопа</GR_Thrumbalope.lifeStages.2.labelFemale>
+  <GR_Thrumbalope.lifeStages.2.labelFemalePlural>трумболопы</GR_Thrumbalope.lifeStages.2.labelFemalePlural>
+  <GR_Thrumbalope.labelMale>трумболоп</GR_Thrumbalope.labelMale>
+  <GR_Thrumbalope.labelMalePlural>трумболопы</GR_Thrumbalope.labelMalePlural>
+  <GR_Thrumbalope.labelFemale>трумболопа</GR_Thrumbalope.labelFemale>
+  <GR_Thrumbalope.labelFemalePlural>трумболопы</GR_Thrumbalope.labelFemalePlural>
 
 
   <!-- Chicken - Thrumbo -->
 
-  <GR_Thrumbochicken.label>thrumbochicken</GR_Thrumbochicken.label>
-  <GR_Thrumbochicken.labelPlural>thrumbochickens</GR_Thrumbochicken.labelPlural>
-  <GR_Thrumbochicken.lifeStages.0.label>thrumbochicken chick</GR_Thrumbochicken.lifeStages.0.label>
-  <GR_Thrumbochicken.lifeStages.0.labelPlural>thrumbochicken chicks</GR_Thrumbochicken.lifeStages.0.labelPlural>
-  <GR_Thrumbochicken.lifeStages.0.labelMale>male thrumbochicken chick</GR_Thrumbochicken.lifeStages.0.labelMale>
-  <GR_Thrumbochicken.lifeStages.0.labelMalePlural>male thrumbochicken chicks</GR_Thrumbochicken.lifeStages.0.labelMalePlural>
-  <GR_Thrumbochicken.lifeStages.0.labelFemale>female thrumbochicken chick</GR_Thrumbochicken.lifeStages.0.labelFemale>
-  <GR_Thrumbochicken.lifeStages.0.labelFemalePlural>female thrumbochicken chicks</GR_Thrumbochicken.lifeStages.0.labelFemalePlural>
-  <GR_Thrumbochicken.lifeStages.1.label>thrumbochicken</GR_Thrumbochicken.lifeStages.1.label>
-  <GR_Thrumbochicken.lifeStages.1.labelPlural>thrumbochicken</GR_Thrumbochicken.lifeStages.1.labelPlural>
-  <GR_Thrumbochicken.lifeStages.1.labelMale>male thrumbochicken</GR_Thrumbochicken.lifeStages.1.labelMale>
-  <GR_Thrumbochicken.lifeStages.1.labelMalePlural>male thrumbochickens</GR_Thrumbochicken.lifeStages.1.labelMalePlural>
-  <GR_Thrumbochicken.lifeStages.1.labelFemale>female thrumbochicken</GR_Thrumbochicken.lifeStages.1.labelFemale>
-  <GR_Thrumbochicken.lifeStages.1.labelFemalePlural>female thrumbochickens</GR_Thrumbochicken.lifeStages.1.labelFemalePlural>
-  <GR_Thrumbochicken.lifeStages.2.label>thrumbochicken</GR_Thrumbochicken.lifeStages.2.label>
-  <GR_Thrumbochicken.lifeStages.2.labelPlural>thrumbochicken</GR_Thrumbochicken.lifeStages.2.labelPlural>
-  <GR_Thrumbochicken.lifeStages.2.labelMale>male thrumbochicken</GR_Thrumbochicken.lifeStages.2.labelMale>
-  <GR_Thrumbochicken.lifeStages.2.labelMalePlural>male thrumbochickens</GR_Thrumbochicken.lifeStages.2.labelMalePlural>
-  <GR_Thrumbochicken.lifeStages.2.labelFemale>female thrumbochicken</GR_Thrumbochicken.lifeStages.2.labelFemale>
-  <GR_Thrumbochicken.lifeStages.2.labelFemalePlural>female thrumbochickens</GR_Thrumbochicken.lifeStages.2.labelFemalePlural>
-  <GR_Thrumbochicken.labelMale>male thrumbochicken</GR_Thrumbochicken.labelMale>
-  <GR_Thrumbochicken.labelMalePlural>male thrumbochickens</GR_Thrumbochicken.labelMalePlural>
-  <GR_Thrumbochicken.labelFemale>female thrumbochicken</GR_Thrumbochicken.labelFemale>
-  <GR_Thrumbochicken.labelFemalePlural>female thrumbochickens</GR_Thrumbochicken.labelFemalePlural>
+  <GR_Thrumbochicken.label>трумбокур</GR_Thrumbochicken.label>
+  <GR_Thrumbochicken.labelPlural>трумбокуры</GR_Thrumbochicken.labelPlural>
+  <GR_Thrumbochicken.lifeStages.0.label>цыпленок трумбокуры</GR_Thrumbochicken.lifeStages.0.label>
+  <GR_Thrumbochicken.lifeStages.0.labelPlural>цыплята трумбокуры</GR_Thrumbochicken.lifeStages.0.labelPlural>
+  <GR_Thrumbochicken.lifeStages.0.labelMale>цыпленок трумбокуры</GR_Thrumbochicken.lifeStages.0.labelMale>
+  <GR_Thrumbochicken.lifeStages.0.labelMalePlural>цыплята трумбокуры</GR_Thrumbochicken.lifeStages.0.labelMalePlural>
+  <GR_Thrumbochicken.lifeStages.0.labelFemale>цыпа трумбокуры</GR_Thrumbochicken.lifeStages.0.labelFemale>
+  <GR_Thrumbochicken.lifeStages.0.labelFemalePlural>цыпы трумбокуры</GR_Thrumbochicken.lifeStages.0.labelFemalePlural>
+  <GR_Thrumbochicken.lifeStages.1.label>трумбокур</GR_Thrumbochicken.lifeStages.1.label>
+  <GR_Thrumbochicken.lifeStages.1.labelPlural>трумбокур</GR_Thrumbochicken.lifeStages.1.labelPlural>
+  <GR_Thrumbochicken.lifeStages.1.labelMale>трумбокур</GR_Thrumbochicken.lifeStages.1.labelMale>
+  <GR_Thrumbochicken.lifeStages.1.labelMalePlural>трумбокуры</GR_Thrumbochicken.lifeStages.1.labelMalePlural>
+  <GR_Thrumbochicken.lifeStages.1.labelFemale>трумбокура</GR_Thrumbochicken.lifeStages.1.labelFemale>
+  <GR_Thrumbochicken.lifeStages.1.labelFemalePlural>трумбокуры</GR_Thrumbochicken.lifeStages.1.labelFemalePlural>
+  <GR_Thrumbochicken.lifeStages.2.label>трумбокур</GR_Thrumbochicken.lifeStages.2.label>
+  <GR_Thrumbochicken.lifeStages.2.labelPlural>трумбокур</GR_Thrumbochicken.lifeStages.2.labelPlural>
+  <GR_Thrumbochicken.lifeStages.2.labelMale>трумбокур</GR_Thrumbochicken.lifeStages.2.labelMale>
+  <GR_Thrumbochicken.lifeStages.2.labelMalePlural>трумбокуры</GR_Thrumbochicken.lifeStages.2.labelMalePlural>
+  <GR_Thrumbochicken.lifeStages.2.labelFemale>трумбокура</GR_Thrumbochicken.lifeStages.2.labelFemale>
+  <GR_Thrumbochicken.lifeStages.2.labelFemalePlural>трумбокуры</GR_Thrumbochicken.lifeStages.2.labelFemalePlural>
+  <GR_Thrumbochicken.labelMale>трумбокур</GR_Thrumbochicken.labelMale>
+  <GR_Thrumbochicken.labelMalePlural>трумбокуры</GR_Thrumbochicken.labelMalePlural>
+  <GR_Thrumbochicken.labelFemale>трумбокура</GR_Thrumbochicken.labelFemale>
+  <GR_Thrumbochicken.labelFemalePlural>трумбокуры</GR_Thrumbochicken.labelFemalePlural>
 
 
   <!-- Muffalo - Thrumbo -->
 
-  <GR_Thrumffalo.label>thrumffalo</GR_Thrumffalo.label>
-  <GR_Thrumffalo.labelPlural>thrumffalos</GR_Thrumffalo.labelPlural>
-  <GR_Thrumffalo.lifeStages.0.label>thrumffalo calf</GR_Thrumffalo.lifeStages.0.label>
-  <GR_Thrumffalo.lifeStages.0.labelPlural>thrumffalo calves</GR_Thrumffalo.lifeStages.0.labelPlural>
-  <GR_Thrumffalo.lifeStages.0.labelMale>male thrumffalo calf</GR_Thrumffalo.lifeStages.0.labelMale>
-  <GR_Thrumffalo.lifeStages.0.labelMalePlural>male thrumffalo calves</GR_Thrumffalo.lifeStages.0.labelMalePlural>
-  <GR_Thrumffalo.lifeStages.0.labelFemale>female thrumffalo calf</GR_Thrumffalo.lifeStages.0.labelFemale>
-  <GR_Thrumffalo.lifeStages.0.labelFemalePlural>female thrumffalo calves</GR_Thrumffalo.lifeStages.0.labelFemalePlural>
-  <GR_Thrumffalo.lifeStages.1.label>thrumffalo</GR_Thrumffalo.lifeStages.1.label>
-  <GR_Thrumffalo.lifeStages.1.labelPlural>thrumffalo</GR_Thrumffalo.lifeStages.1.labelPlural>
-  <GR_Thrumffalo.lifeStages.1.labelMale>male thrumffalo</GR_Thrumffalo.lifeStages.1.labelMale>
-  <GR_Thrumffalo.lifeStages.1.labelMalePlural>male thrumffalos</GR_Thrumffalo.lifeStages.1.labelMalePlural>
-  <GR_Thrumffalo.lifeStages.1.labelFemale>female thrumffalo</GR_Thrumffalo.lifeStages.1.labelFemale>
-  <GR_Thrumffalo.lifeStages.1.labelFemalePlural>female thrumffalos</GR_Thrumffalo.lifeStages.1.labelFemalePlural>
-  <GR_Thrumffalo.lifeStages.2.label>thrumffalo</GR_Thrumffalo.lifeStages.2.label>
-  <GR_Thrumffalo.lifeStages.2.labelPlural>thrumffalo</GR_Thrumffalo.lifeStages.2.labelPlural>
-  <GR_Thrumffalo.lifeStages.2.labelMale>male thrumffalo</GR_Thrumffalo.lifeStages.2.labelMale>
-  <GR_Thrumffalo.lifeStages.2.labelMalePlural>male thrumffalos</GR_Thrumffalo.lifeStages.2.labelMalePlural>
-  <GR_Thrumffalo.lifeStages.2.labelFemale>female thrumffalo</GR_Thrumffalo.lifeStages.2.labelFemale>
-  <GR_Thrumffalo.lifeStages.2.labelFemalePlural>female thrumffalos</GR_Thrumffalo.lifeStages.2.labelFemalePlural>
-  <GR_Thrumffalo.labelMale>male thrumffalo</GR_Thrumffalo.labelMale>
-  <GR_Thrumffalo.labelMalePlural>male thrumffalos</GR_Thrumffalo.labelMalePlural>
-  <GR_Thrumffalo.labelFemale>female thrumffalo</GR_Thrumffalo.labelFemale>
-  <GR_Thrumffalo.labelFemalePlural>female thrumffalos</GR_Thrumffalo.labelFemalePlural>
+  <GR_Thrumffalo.labe>трумффало</GR_Thrumffalo.label>
+  <GR_Thrumffalo.labelPlural>трумффалы</GR_Thrumffalo.labelPlural>
+  <GR_Thrumffalo.lifeStages.0.label>теленок трумффало</GR_Thrumffalo.lifeStages.0.label>
+  <GR_Thrumffalo.lifeStages.0.labelPlural>телята трумффало</GR_Thrumffalo.lifeStages.0.labelPlural>
+  <GR_Thrumffalo.lifeStages.0.labelMale>теленок трумффало</GR_Thrumffalo.lifeStages.0.labelMale>
+  <GR_Thrumffalo.lifeStages.0.labelMalePlural>телята трумффало</GR_Thrumffalo.lifeStages.0.labelMalePlural>
+  <GR_Thrumffalo.lifeStages.0.labelFemale>телушка трумффало</GR_Thrumffalo.lifeStages.0.labelFemale>
+  <GR_Thrumffalo.lifeStages.0.labelFemalePlural>телушки трумффало</GR_Thrumffalo.lifeStages.0.labelFemalePlural>
+  <GR_Thrumffalo.lifeStages.1.labe>трумффало</GR_Thrumffalo.lifeStages.1.label>
+  <GR_Thrumffalo.lifeStages.1.labelPlura>трумффалы</GR_Thrumffalo.lifeStages.1.labelPlural>
+  <GR_Thrumffalo.lifeStages.1.labelMale>трумффал</GR_Thrumffalo.lifeStages.1.labelMale>
+  <GR_Thrumffalo.lifeStages.1.labelMalePlural>трумффалы</GR_Thrumffalo.lifeStages.1.labelMalePlural>
+  <GR_Thrumffalo.lifeStages.1.labelFemal>трумффала</GR_Thrumffalo.lifeStages.1.labelFemale>
+  <GR_Thrumffalo.lifeStages.1.labelFemalePlural>трумффалы</GR_Thrumffalo.lifeStages.1.labelFemalePlural>
+  <GR_Thrumffalo.lifeStages.2.labe>трумффало</GR_Thrumffalo.lifeStages.2.label>
+  <GR_Thrumffalo.lifeStages.2.labelPlura>трумффалы</GR_Thrumffalo.lifeStages.2.labelPlural>
+  <GR_Thrumffalo.lifeStages.2.labelMale>трумффал</GR_Thrumffalo.lifeStages.2.labelMale>
+  <GR_Thrumffalo.lifeStages.2.labelMalePlural>трумффалы</GR_Thrumffalo.lifeStages.2.labelMalePlural>
+  <GR_Thrumffalo.lifeStages.2.labelFemal>трумффала</GR_Thrumffalo.lifeStages.2.labelFemale>
+  <GR_Thrumffalo.lifeStages.2.labelFemalePlural>трумффалы</GR_Thrumffalo.lifeStages.2.labelFemalePlural>
+  <GR_Thrumffalo.labelMale>трумффал</GR_Thrumffalo.labelMale>
+  <GR_Thrumffalo.labelMalePlural>трумффалы</GR_Thrumffalo.labelMalePlural>
+  <GR_Thrumffalo.labelFemal>трумффала</GR_Thrumffalo.labelFemale>
+  <GR_Thrumffalo.labelFemalePlural>трумффалы</GR_Thrumffalo.labelFemalePlural>
 
 
   <!-- Wolf - Thrumbo -->
 
-  <GR_Thrumwolf.label>thrumwolf</GR_Thrumwolf.label>
-  <GR_Thrumwolf.labelPlural>thrumwolfs</GR_Thrumwolf.labelPlural>
-  <GR_Thrumwolf.lifeStages.0.label>thrumwolf pup</GR_Thrumwolf.lifeStages.0.label>
-  <GR_Thrumwolf.lifeStages.0.labelPlural>thrumwolf puppies</GR_Thrumwolf.lifeStages.0.labelPlural>
-  <GR_Thrumwolf.lifeStages.0.labelMale>male thrumwolf pup</GR_Thrumwolf.lifeStages.0.labelMale>
-  <GR_Thrumwolf.lifeStages.0.labelMalePlural>male thrumwolf puppies</GR_Thrumwolf.lifeStages.0.labelMalePlural>
-  <GR_Thrumwolf.lifeStages.0.labelFemale>female thrumwolf pup</GR_Thrumwolf.lifeStages.0.labelFemale>
-  <GR_Thrumwolf.lifeStages.0.labelFemalePlural>female thrumwolf puppies</GR_Thrumwolf.lifeStages.0.labelFemalePlural>
-  <GR_Thrumwolf.lifeStages.1.label>thrumwolf</GR_Thrumwolf.lifeStages.1.label>
-  <GR_Thrumwolf.lifeStages.1.labelPlural>thrumwolf</GR_Thrumwolf.lifeStages.1.labelPlural>
-  <GR_Thrumwolf.lifeStages.1.labelMale>male thrumwolf</GR_Thrumwolf.lifeStages.1.labelMale>
-  <GR_Thrumwolf.lifeStages.1.labelMalePlural>male thrumwolfs</GR_Thrumwolf.lifeStages.1.labelMalePlural>
-  <GR_Thrumwolf.lifeStages.1.labelFemale>female thrumwolf</GR_Thrumwolf.lifeStages.1.labelFemale>
-  <GR_Thrumwolf.lifeStages.1.labelFemalePlural>female thrumwolfs</GR_Thrumwolf.lifeStages.1.labelFemalePlural>
-  <GR_Thrumwolf.lifeStages.2.label>thrumwolf</GR_Thrumwolf.lifeStages.2.label>
-  <GR_Thrumwolf.lifeStages.2.labelPlural>thrumwolf</GR_Thrumwolf.lifeStages.2.labelPlural>
-  <GR_Thrumwolf.lifeStages.2.labelMale>male thrumwolf</GR_Thrumwolf.lifeStages.2.labelMale>
-  <GR_Thrumwolf.lifeStages.2.labelMalePlural>male thrumwolfs</GR_Thrumwolf.lifeStages.2.labelMalePlural>
-  <GR_Thrumwolf.lifeStages.2.labelFemale>female thrumwolf</GR_Thrumwolf.lifeStages.2.labelFemale>
-  <GR_Thrumwolf.lifeStages.2.labelFemalePlural>female thrumwolfs</GR_Thrumwolf.lifeStages.2.labelFemalePlural>
-  <GR_Thrumwolf.labelMale>male thrumwolf</GR_Thrumwolf.labelMale>
-  <GR_Thrumwolf.labelMalePlural>male thrumwolfs</GR_Thrumwolf.labelMalePlural>
-  <GR_Thrumwolf.labelFemale>female thrumwolf</GR_Thrumwolf.labelFemale>
-  <GR_Thrumwolf.labelFemalePlural>female thrumwolfs</GR_Thrumwolf.labelFemalePlural>
+  <GR_Thrumwolf.label>трумбоволк</GR_Thrumwolf.label>
+  <GR_Thrumwolf.labelPlural>трумбоволки</GR_Thrumwolf.labelPlural>
+  <GR_Thrumwolf.lifeStages.0.label>щенок трумбоволка</GR_Thrumwolf.lifeStages.0.label>
+  <GR_Thrumwolf.lifeStages.0.labelPlural>щенки трумбоволка</GR_Thrumwolf.lifeStages.0.labelPlural>
+  <GR_Thrumwolf.lifeStages.0.labelMale>щенок трумбоволка</GR_Thrumwolf.lifeStages.0.labelMale>
+  <GR_Thrumwolf.lifeStages.0.labelMalePlural>щенки трумбоволка</GR_Thrumwolf.lifeStages.0.labelMalePlural>
+  <GR_Thrumwolf.lifeStages.0.labelFemale>щена трумбоволка</GR_Thrumwolf.lifeStages.0.labelFemale>
+  <GR_Thrumwolf.lifeStages.0.labelFemalePlural>щены трумбоволка</GR_Thrumwolf.lifeStages.0.labelFemalePlural>
+  <GR_Thrumwolf.lifeStages.1.label>трумбоволк</GR_Thrumwolf.lifeStages.1.label>
+  <GR_Thrumwolf.lifeStages.1.labelPlural>трумбоволки</GR_Thrumwolf.lifeStages.1.labelPlural>
+  <GR_Thrumwolf.lifeStages.1.labelMale>трумбоволк</GR_Thrumwolf.lifeStages.1.labelMale>
+  <GR_Thrumwolf.lifeStages.1.labelMalePlural>трумбоволки</GR_Thrumwolf.lifeStages.1.labelMalePlural>
+  <GR_Thrumwolf.lifeStages.1.labelFemale>трумбоволчица</GR_Thrumwolf.lifeStages.1.labelFemale>
+  <GR_Thrumwolf.lifeStages.1.labelFemalePlural>трумбоволчицы</GR_Thrumwolf.lifeStages.1.labelFemalePlural>
+  <GR_Thrumwolf.lifeStages.2.label>трумбоволк</GR_Thrumwolf.lifeStages.2.label>
+  <GR_Thrumwolf.lifeStages.2.labelPlural>трумбоволки</GR_Thrumwolf.lifeStages.2.labelPlural>
+  <GR_Thrumwolf.lifeStages.2.labelMale>трумбоволк</GR_Thrumwolf.lifeStages.2.labelMale>
+  <GR_Thrumwolf.lifeStages.2.labelMalePlural>трумбоволки</GR_Thrumwolf.lifeStages.2.labelMalePlural>
+  <GR_Thrumwolf.lifeStages.2.labelFemale>трумбоволчица</GR_Thrumwolf.lifeStages.2.labelFemale>
+  <GR_Thrumwolf.lifeStages.2.labelFemalePlural>трумбоволчицы</GR_Thrumwolf.lifeStages.2.labelFemalePlural>
+  <GR_Thrumwolf.labelMale>трумбоволк</GR_Thrumwolf.labelMale>
+  <GR_Thrumwolf.labelMalePlural>трумбоволки</GR_Thrumwolf.labelMalePlural>
+  <GR_Thrumwolf.labelFemale>трумбоволчица</GR_Thrumwolf.labelFemale>
+  <GR_Thrumwolf.labelFemalePlural>трумбоволчицы</GR_Thrumwolf.labelFemalePlural>
 
 
   <!-- Cat - Thrumbo -->
 
-  <GR_Thrumbocat.label>thrumbocat</GR_Thrumbocat.label>
-  <GR_Thrumbocat.labelPlural>thrumbocats</GR_Thrumbocat.labelPlural>
-  <GR_Thrumbocat.lifeStages.0.label>thrumbocat kitten</GR_Thrumbocat.lifeStages.0.label>
-  <GR_Thrumbocat.lifeStages.0.labelPlural>thrumbocat kittens</GR_Thrumbocat.lifeStages.0.labelPlural>
-  <GR_Thrumbocat.lifeStages.0.labelMale>male thrumbocat kitten</GR_Thrumbocat.lifeStages.0.labelMale>
-  <GR_Thrumbocat.lifeStages.0.labelMalePlural>male thrumbocat kittens</GR_Thrumbocat.lifeStages.0.labelMalePlural>
-  <GR_Thrumbocat.lifeStages.0.labelFemale>female thrumbocat kitten</GR_Thrumbocat.lifeStages.0.labelFemale>
-  <GR_Thrumbocat.lifeStages.0.labelFemalePlural>female thrumbocat kittens</GR_Thrumbocat.lifeStages.0.labelFemalePlural>
-  <GR_Thrumbocat.lifeStages.1.label>thrumbocat</GR_Thrumbocat.lifeStages.1.label>
-  <GR_Thrumbocat.lifeStages.1.labelPlural>thrumbocat</GR_Thrumbocat.lifeStages.1.labelPlural>
-  <GR_Thrumbocat.lifeStages.1.labelMale>male thrumbocat</GR_Thrumbocat.lifeStages.1.labelMale>
-  <GR_Thrumbocat.lifeStages.1.labelMalePlural>male thrumbocats</GR_Thrumbocat.lifeStages.1.labelMalePlural>
-  <GR_Thrumbocat.lifeStages.1.labelFemale>female thrumbocat</GR_Thrumbocat.lifeStages.1.labelFemale>
-  <GR_Thrumbocat.lifeStages.1.labelFemalePlural>female thrumbocats</GR_Thrumbocat.lifeStages.1.labelFemalePlural>
-  <GR_Thrumbocat.lifeStages.2.label>thrumbocat</GR_Thrumbocat.lifeStages.2.label>
-  <GR_Thrumbocat.lifeStages.2.labelPlural>thrumbocat</GR_Thrumbocat.lifeStages.2.labelPlural>
-  <GR_Thrumbocat.lifeStages.2.labelMale>male thrumbocat</GR_Thrumbocat.lifeStages.2.labelMale>
-  <GR_Thrumbocat.lifeStages.2.labelMalePlural>male thrumbocats</GR_Thrumbocat.lifeStages.2.labelMalePlural>
-  <GR_Thrumbocat.lifeStages.2.labelFemale>female thrumbocat</GR_Thrumbocat.lifeStages.2.labelFemale>
-  <GR_Thrumbocat.lifeStages.2.labelFemalePlural>female thrumbocats</GR_Thrumbocat.lifeStages.2.labelFemalePlural>
-  <GR_Thrumbocat.labelMale>male thrumbocat</GR_Thrumbocat.labelMale>
-  <GR_Thrumbocat.labelMalePlural>male thrumbocats</GR_Thrumbocat.labelMalePlural>
-  <GR_Thrumbocat.labelFemale>female thrumbocat</GR_Thrumbocat.labelFemale>
-  <GR_Thrumbocat.labelFemalePlural>female thrumbocats</GR_Thrumbocat.labelFemalePlural>
+  <GR_Thrumbocat.label>трумбокот</GR_Thrumbocat.label>
+  <GR_Thrumbocat.labelPlural>трумбокоты</GR_Thrumbocat.labelPlural>
+  <GR_Thrumbocat.lifeStages.0.label>котенок трумбокота</GR_Thrumbocat.lifeStages.0.label>
+  <GR_Thrumbocat.lifeStages.0.labelPlural>котята трумбокота</GR_Thrumbocat.lifeStages.0.labelPlural>
+  <GR_Thrumbocat.lifeStages.0.labelMale>котенок трумбокота</GR_Thrumbocat.lifeStages.0.labelMale>
+  <GR_Thrumbocat.lifeStages.0.labelMalePlural>котята трумбокота</GR_Thrumbocat.lifeStages.0.labelMalePlural>
+  <GR_Thrumbocat.lifeStages.0.labelFemale>киса трумбокота</GR_Thrumbocat.lifeStages.0.labelFemale>
+  <GR_Thrumbocat.lifeStages.0.labelFemalePlural>кисы трумбокота</GR_Thrumbocat.lifeStages.0.labelFemalePlural>
+  <GR_Thrumbocat.lifeStages.1.label>трумбокот</GR_Thrumbocat.lifeStages.1.label>
+  <GR_Thrumbocat.lifeStages.1.labelPlural>трумбокоты</GR_Thrumbocat.lifeStages.1.labelPlural>
+  <GR_Thrumbocat.lifeStages.1.labelMale>трумбокот</GR_Thrumbocat.lifeStages.1.labelMale>
+  <GR_Thrumbocat.lifeStages.1.labelMalePlural>трумбокоты</GR_Thrumbocat.lifeStages.1.labelMalePlural>
+  <GR_Thrumbocat.lifeStages.1.labelFemale>>трумбокошка</GR_Thrumbocat.lifeStages.1.labelFemale>
+  <GR_Thrumbocat.lifeStages.1.labelFemalePlural>трумбокошки</GR_Thrumbocat.lifeStages.1.labelFemalePlural>
+  <GR_Thrumbocat.lifeStages.2.label>трумбокот</GR_Thrumbocat.lifeStages.2.label>
+  <GR_Thrumbocat.lifeStages.2.labelPlural>трумбокоты</GR_Thrumbocat.lifeStages.2.labelPlural>
+  <GR_Thrumbocat.lifeStages.2.labelMale>трумбокот</GR_Thrumbocat.lifeStages.2.labelMale>
+  <GR_Thrumbocat.lifeStages.2.labelMalePlural>трумбокоты</GR_Thrumbocat.lifeStages.2.labelMalePlural>
+  <GR_Thrumbocat.lifeStages.2.labelFemale>>трумбокошка</GR_Thrumbocat.lifeStages.2.labelFemale>
+  <GR_Thrumbocat.lifeStages.2.labelFemalePlural>трумбокошки</GR_Thrumbocat.lifeStages.2.labelFemalePlural>
+  <GR_Thrumbocat.labelMale>трумбокот</GR_Thrumbocat.labelMale>
+  <GR_Thrumbocat.labelMalePlural>трумбокоты</GR_Thrumbocat.labelMalePlural>
+  <GR_Thrumbocat.labelFemale>>трумбокошка</GR_Thrumbocat.labelFemale>
+  <GR_Thrumbocat.labelFemalePlural>трумбокошки</GR_Thrumbocat.labelFemalePlural>
 
 
 </LanguageData>
