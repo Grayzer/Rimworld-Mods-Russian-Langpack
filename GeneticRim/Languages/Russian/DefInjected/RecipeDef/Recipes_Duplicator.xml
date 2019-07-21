@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_DuplicateBear.label>duplicate bear genes</GR_DuplicateBear.label>
-  <GR_DuplicateBear.description>Duplicate bear genetic material in exchange for a lot of organic pulp.</GR_DuplicateBear.description>
-  <GR_DuplicateBear.jobString>Duplicating Genetic Material</GR_DuplicateBear.jobString>
+  <GR_DuplicateBear.label>дублировать гены медведя</GR_DuplicateBear.label>
+  <GR_DuplicateBear.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateBear.description>
+  <GR_DuplicateBear.jobString>Дублирование генетического материала< /GR_DuplicateBear.jobString>
 
-  <GR_DuplicateBoomalope.label>duplicate boomalope genes</GR_DuplicateBoomalope.label>
-  <GR_DuplicateBoomalope.description>Duplicate boomalope genetic material in exchange for a lot of organic pulp.</GR_DuplicateBoomalope.description>
-  <GR_DuplicateBoomalope.jobString>Duplicating Genetic Material</GR_DuplicateBoomalope.jobString>
+  <GR_DuplicateBoomalope.label>дублировать гены бумалопы</GR_DuplicateBoomalope.label>
+  <GR_DuplicateBoomalope.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateBoomalope.description>
+  <GR_DuplicateBoomalope.jobString>Дублирование генетического материала< /GR_DuplicateBoomalope.jobString>
 
-  <GR_DuplicateFeline.label>duplicate cat genes</GR_DuplicateFeline.label>
-  <GR_DuplicateFeline.description>Duplicate cat genetic material in exchange for a lot of organic pulp.</GR_DuplicateFeline.description>
-  <GR_DuplicateFeline.jobString>Duplicating Genetic Material</GR_DuplicateFeline.jobString>
+  <GR_DuplicateFeline.label>дублировать гены кота</GR_DuplicateFeline.label>
+  <GR_DuplicateFeline.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateFeline.description>
+  <GR_DuplicateFeline.jobString>Дублирование генетического материала< /GR_DuplicateFeline.jobString>
 
-  <GR_DuplicateChicken.label>duplicate chicken genes</GR_DuplicateChicken.label>
-  <GR_DuplicateChicken.description>Duplicate chicken genetic material in exchange for a lot of organic pulp.</GR_DuplicateChicken.description>
-  <GR_DuplicateChicken.jobString>Duplicating Genetic Material</GR_DuplicateChicken.jobString>
+  <GR_DuplicateChicken.label>дублировать гены курицыы</GR_DuplicateChicken.label>
+  <GR_DuplicateChicken.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateChicken.description>
+  <GR_DuplicateChicken.jobString>Дублирование генетического материала< /GR_DuplicateChicken.jobString>
 
-  <GR_DuplicateRodent.label>duplicate rodent genes</GR_DuplicateRodent.label>
-  <GR_DuplicateRodent.description>Duplicate rodent genetic material in exchange for a lot of organic pulp.</GR_DuplicateRodent.description>
-  <GR_DuplicateRodent.jobString>Duplicating Genetic Material</GR_DuplicateRodent.jobString>
+  <GR_DuplicateRodent.label>дублировать гены грызунов</GR_DuplicateRodent.label>
+  <GR_DuplicateRodent.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateRodent.description>
+  <GR_DuplicateRodent.jobString>Дублирование генетического материала< /GR_DuplicateRodent.jobString>
 
-  <GR_DuplicateMuffalo.label>duplicate muffalo genes</GR_DuplicateMuffalo.label>
-  <GR_DuplicateMuffalo.description>Duplicate muffalo genetic material in exchange for a lot of organic pulp.</GR_DuplicateMuffalo.description>
-  <GR_DuplicateMuffalo.jobString>Duplicating Genetic Material</GR_DuplicateMuffalo.jobString>
+  <GR_DuplicateMuffalo.label>дублировать гены муффало</GR_DuplicateMuffalo.label>
+  <GR_DuplicateMuffalo.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateMuffalo.description>
+  <GR_DuplicateMuffalo.jobString>Дублирование генетического материала< /GR_DuplicateMuffalo.jobString>
 
-  <GR_DuplicateWolf.label>duplicate wolf genes</GR_DuplicateWolf.label>
-  <GR_DuplicateWolf.description>Duplicate wolf genetic material in exchange for a lot of organic pulp.</GR_DuplicateWolf.description>
-  <GR_DuplicateWolf.jobString>Duplicating Genetic Material</GR_DuplicateWolf.jobString>
+  <GR_DuplicateWolf.label>дублировать гены волка</GR_DuplicateWolf.label>
+  <GR_DuplicateWolf.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateWolf.description>
+  <GR_DuplicateWolf.jobString>Дублирование генетического материала< /GR_DuplicateWolf.jobString>
 
-  <!--[Duplicated] <GR_DuplicateInsectoid.label>duplicate insectoid genes</GR_DuplicateInsectoid.label>-->
+  <!--[Duplicated] <GR_DuplicateInsectoid.label>дублировать insectoid гены</GR_DuplicateInsectoid.label>-->
   <!--[Duplicated] <GR_DuplicateInsectoid.description>Duplicate insectoid genetic material in exchange for a lot of organic pulp.</GR_DuplicateInsectoid.description>-->
-  <!--[Duplicated] <GR_DuplicateInsectoid.jobString>Duplicating Genetic Material</GR_DuplicateInsectoid.jobString>-->
+  <!--[Duplicated] <GR_DuplicateInsectoid.jobString>Дублирование генетического материала< /GR_DuplicateInsectoid.jobString>-->
 
-  <GR_DuplicateInsectoid.label>duplicate reptilian genes</GR_DuplicateInsectoid.label>
-  <GR_DuplicateInsectoid.description>Duplicate reptilian genetic material in exchange for a lot of organic pulp.</GR_DuplicateInsectoid.description>
-  <GR_DuplicateInsectoid.jobString>Duplicating Genetic Material</GR_DuplicateInsectoid.jobString>
+  <GR_DuplicateInsectoid.label>дублировать гены рептилий</GR_DuplicateInsectoid.label>
+  <GR_DuplicateInsectoid.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateInsectoid.description>
+  <GR_DuplicateInsectoid.jobString>Дублирование генетического материала< /GR_DuplicateInsectoid.jobString>
 
-  <GR_DuplicateHumanoid.label>duplicate humanoid genes</GR_DuplicateHumanoid.label>
-  <GR_DuplicateHumanoid.description>Duplicate humanoid genetic material in exchange for a lot of organic pulp.</GR_DuplicateHumanoid.description>
-  <GR_DuplicateHumanoid.jobString>Duplicating Genetic Material</GR_DuplicateHumanoid.jobString>
+  <GR_DuplicateHumanoid.label>дублировать гены гуманоидов</GR_DuplicateHumanoid.label>
+  <GR_DuplicateHumanoid.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateHumanoid.description>
+  <GR_DuplicateHumanoid.jobString>Дублирование генетического материала< /GR_DuplicateHumanoid.jobString>
 
 
 </LanguageData>
