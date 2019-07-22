@@ -3,101 +3,101 @@
 
   <!-- Human Hybrid Implants -->
 
-  <GR_CraftBearClaws.label>Human Implant: bear claws</GR_CraftBearClaws.label>
-  <GR_CraftBearClaws.description>Craft bear claws, a hybrid implant containing humanoid and bear DNA that adds a powerful melee attack.</GR_CraftBearClaws.description>
-  <GR_CraftBearClaws.jobString>Crafting Bear Claws</GR_CraftBearClaws.jobString>
+  <GR_CraftBearClaws.label>Человеческий имплант: медвежьи когти</GR_CraftBearClaws.label>
+  <GR_CraftBearClaws.description>Создает когти медведя, гибридный имплантат, содержащий гуманоидную и медвежью ДНК, который добавляет мощную рукопашную атаку.</GR_CraftBearClaws.description>
+  <GR_CraftBearClaws.jobString>Делает медвежьи когти</GR_CraftBearClaws.jobString>
 
-  <GR_CraftDiggingBearClaws.label>Human Implant: digging bear claws</GR_CraftDiggingBearClaws.label>
-  <GR_CraftDiggingBearClaws.description>Craft digging bear claws, grotesque but powerful hand blades that have been modified to be used in mining operations, increasing both speed and yield.</GR_CraftDiggingBearClaws.description>
-  <GR_CraftDiggingBearClaws.jobString>Crafting digging bear claws</GR_CraftDiggingBearClaws.jobString>
+  <GR_CraftDiggingBearClaws.label>Человеческий имплант: медвежьи рытьевые когти</GR_CraftDiggingBearClaws.label>
+  <GR_CraftDiggingBearClaws.description>Создает рытьевые медвежьи когти, гротескные, но мощные ручные лезвия, которые были модифицированы для использования в горных работах, увеличивая как скорость, так и урожайность.</GR_CraftDiggingBearClaws.description>
+  <GR_CraftDiggingBearClaws.jobString>Делает медвежьи рытьевые когти</GR_CraftDiggingBearClaws.jobString>
 
-  <GR_CraftBearMuscleTissue.label>Human Implant: bear muscle tissue</GR_CraftBearMuscleTissue.label>
-  <GR_CraftBearMuscleTissue.description>Craft bear muscle tissue, a hybrid implant containing humanoid and bear DNA that adds strength and stamina.</GR_CraftBearMuscleTissue.description>
-  <GR_CraftBearMuscleTissue.jobString>Crafting Bear Muscle Tissue</GR_CraftBearMuscleTissue.jobString>
+  <GR_CraftBearMuscleTissue.label>Человеческий имплант: медвежья мышечная ткань</GR_CraftBearMuscleTissue.label>
+  <GR_CraftBearMuscleTissue.description>Создает мышечную ткань медведя, гибридный имплантат, содержащий гуманоидную и медвежью ДНК, которая добавляет силы и выносливости.</GR_CraftBearMuscleTissue.description>
+  <GR_CraftBearMuscleTissue.jobString>Делает медвежью мышечную ткань</GR_CraftBearMuscleTissue.jobString>
 
-  <GR_CraftHibernationModule.label>Human Implant: hibernation module</GR_CraftHibernationModule.label>
-  <GR_CraftHibernationModule.description>Craft hibernation module, a biochip that modifies the brain to reduce the need for sleep.</GR_CraftHibernationModule.description>
-  <GR_CraftHibernationModule.jobString>Crafting hibernation module</GR_CraftHibernationModule.jobString>
+  <GR_CraftHibernationModule.label>Человеческий имплант: модуль гибернации</GR_CraftHibernationModule.label>
+  <GR_CraftHibernationModule.description>Создает модуль гибернации, биочип, который изменяет мозг, чтобы уменьшить потребность во сне.</GR_CraftHibernationModule.description>
+  <GR_CraftHibernationModule.jobString>Делает модуль гибернации</GR_CraftHibernationModule.jobString>
 
-  <GR_CraftOvipositor.label>Human Implant: ovipositor</GR_CraftOvipositor.label>
-  <GR_CraftOvipositor.description>Craft an ovipositor, a hybrid implant containing humanoid and chicken DNA that... are you sure this is a good idea? Really? Free range human eggs? Ugh...</GR_CraftOvipositor.description>
-  <GR_CraftOvipositor.jobString>Crafting Ovipositor</GR_CraftOvipositor.jobString>
+  <GR_CraftOvipositor.label>Человеческий имплант: яйцеклад</GR_CraftOvipositor.label>
+  <GR_CraftOvipositor.description>Создает яйцеклад, гибридный имплантат, содержащий гуманоидную и куриную ДНК, которые... вы уверены, что это хорошая идея? В самом деле? Корзинка человеческих яиц? Тьфу...</GR_CraftOvipositor.description>
+  <GR_CraftOvipositor.jobString>Делает яйцеклад</GR_CraftOvipositor.jobString>
 
-  <GR_CraftMuffaloMuscles.label>Human Implant: muffalo muscles</GR_CraftMuffaloMuscles.label>
-  <GR_CraftMuffaloMuscles.description>Craft muffalo muscles, a hybrid implant containing humanoid and muffalo DNA that strengthens the subject's muscular system.</GR_CraftMuffaloMuscles.description>
-  <GR_CraftMuffaloMuscles.jobString>Crafting muffalo muscles</GR_CraftMuffaloMuscles.jobString>
+  <GR_CraftMuffaloMuscles.label>Человеческий имплант: мускулы муффало</GR_CraftMuffaloMuscles.label>
+  <GR_CraftMuffaloMuscles.description>Создает мускулы муффало, гибридный имплантат, содержащий гуманоидную и муффало ДНК, которая укрепляет мышечную систему субъекта.</GR_CraftMuffaloMuscles.description>
+  <GR_CraftMuffaloMuscles.jobString>Делает мускулы муффало</GR_CraftMuffaloMuscles.jobString>
 
-  <GR_CraftMuffaloMammaries.label>Human Implant: muffalo mammaries</GR_CraftMuffaloMammaries.label>
-  <GR_CraftMuffaloMammaries.description>By implanting muffalo mammaries into a colonist... Wait, what??? Who came up with this idea????? Anyway... this implant allows your colonist to be milked... Ugh, I give up.</GR_CraftMuffaloMammaries.description>
-  <GR_CraftMuffaloMammaries.jobString>Crafting muffalo mammaries</GR_CraftMuffaloMammaries.jobString>
+  <GR_CraftMuffaloMammaries.label>Человеческий имплант: молочные железы муффало</GR_CraftMuffaloMammaries.label>
+  <GR_CraftMuffaloMammaries.description>Вживляет молочные желзы муфало колонисту... Подождите, что??? Кто придумал эту идею????? В любом случае... этот имплантат позволяет доить вашего колониста... Тьфу, я сдаюсь.</GR_CraftMuffaloMammaries.description>
+  <GR_CraftMuffaloMammaries.jobString>Делает молочные железы муффало</GR_CraftMuffaloMammaries.jobString>
 
-  <GR_CraftMuffaloSkin.label>Human Implant: muffalo skin</GR_CraftMuffaloSkin.label>
-  <GR_CraftMuffaloSkin.description>Craft muffalo skin, a synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to low temperatures.</GR_CraftMuffaloSkin.description>
-  <GR_CraftMuffaloSkin.jobString>Crafting muffalo skin</GR_CraftMuffaloSkin.jobString>
+  <GR_CraftMuffaloSkin.label>Человеческий имплант: кожа муффало</GR_CraftMuffaloSkin.label>
+  <GR_CraftMuffaloSkin.description>Создает кожу муффало, синтетический заменитель кожи, который намного толще и намного лучше изолятор, чем кожа человека. Это обеспечивает определенную защиту, но, что более важно, делает субъект более устойчивым к низким температурам.</GR_CraftMuffaloSkin.description>
+  <GR_CraftMuffaloSkin.jobString>Делает кожу муффало</GR_CraftMuffaloSkin.jobString>
 
-  <GR_CraftBoomalopeNodules.label>Human Implant: boomalope nodules</GR_CraftBoomalopeNodules.label>
-  <GR_CraftBoomalopeNodules.description>Craft boomalope nodules, a hybrid implant containing humanoid and boomalope DNA that causes a huge explosion if the subject dies violently.</GR_CraftBoomalopeNodules.description>
-  <GR_CraftBoomalopeNodules.jobString>Crafting boomalope nodules</GR_CraftBoomalopeNodules.jobString>
+  <GR_CraftBoomalopeNodules.label>Человеческий имплант: наросты бумалопы</GR_CraftBoomalopeNodules.label>
+  <GR_CraftBoomalopeNodules.description>Создает наросты бумалопы, гибридного имплантата, содержащего гуманоидную и бумалоповскую ДНК, который вызывает огромный взрыв, если субъект умирает с применением насилия.</GR_CraftBoomalopeNodules.description>
+  <GR_CraftBoomalopeNodules.jobString>Делает bнаросты бумалопы</GR_CraftBoomalopeNodules.jobString>
 
-  <GR_CraftChemfuelStomach.label>Human Implant: chemfuel stomach</GR_CraftChemfuelStomach.label>
-  <GR_CraftChemfuelStomach.description>Craft chemfuel stomach, a reinforced bionic stomach that uses a combination of gastric acid and chemfuel to efficiently digest food.</GR_CraftChemfuelStomach.description>
-  <GR_CraftChemfuelStomach.jobString>Crafting chemfuel stomach</GR_CraftChemfuelStomach.jobString>
+  <GR_CraftChemfuelStomach.label>Человеческий имплант: химтопливный желудок</GR_CraftChemfuelStomach.label>
+  <GR_CraftChemfuelStomach.description>Создает химтопливный желудок, усиленный бионический желудок, который использует комбинацию желудочной кислоты и химического топлива для эффективного переваривания пищи.</GR_CraftChemfuelStomach.description>
+  <GR_CraftChemfuelStomach.jobString>Делает химтопливный желудок</GR_CraftChemfuelStomach.jobString>
 
-  <GR_CraftChemfuelHeart.label>Human Implant: chemfuel heart</GR_CraftChemfuelHeart.label>
-  <GR_CraftChemfuelHeart.description>Craft chemfuel heart, a reinforced bionic heart that acts like a miniature 4-stroke internal combustion engine powered by chemfuel to pump blood through the body.</GR_CraftChemfuelHeart.description>
-  <GR_CraftChemfuelHeart.jobString>Crafting chemfuel heart</GR_CraftChemfuelHeart.jobString>
+  <GR_CraftChemfuelHeart.label>Человеческий имплант: химтопливное сердце</GR_CraftChemfuelHeart.label>
+  <GR_CraftChemfuelHeart.description>Создает химтопливное сердце, усиленное бионическое сердце, которое действует как миниатюрный 4-тактный двигатель внутреннего сгорания, приводимый в движение химическим топливом для прокачки крови по организму.</GR_CraftChemfuelHeart.description>
+  <GR_CraftChemfuelHeart.jobString>Делает химтопливное сердце</GR_CraftChemfuelHeart.jobString>
 
-  <GR_CraftWolfMuscularFibers.label>Human Implant: wolf muscular fibers</GR_CraftWolfMuscularFibers.label>
-  <GR_CraftWolfMuscularFibers.description>Craft wolf muscular fibers, which can modify the subject's legs by weaving hybrid human/wolf muscle fibers within the base tissue, giving her a significant strength and speed boost.</GR_CraftWolfMuscularFibers.description>
-  <GR_CraftWolfMuscularFibers.jobString>Crafting wolf muscular fibers</GR_CraftWolfMuscularFibers.jobString>
+  <GR_CraftWolfMuscularFibers.label>Человеческий имплант: мышечные волокна волка</GR_CraftWolfMuscularFibers.label>
+  <GR_CraftWolfMuscularFibers.description>Создает мышечных волокон волка, которые могут модифицировать ноги субъекта путем плетения гибридных мышечных волокон человека и волка в основной ткани, что дает ему значительную силу и ускорение.</GR_CraftWolfMuscularFibers.description>
+  <GR_CraftWolfMuscularFibers.jobString>Делает мышечные волокна волка</GR_CraftWolfMuscularFibers.jobString>
 
-  <GR_CraftDevouringJaws.label>Human Implant: devouring jaws</GR_CraftDevouringJaws.label>
-  <GR_CraftDevouringJaws.description>Craft devouring jaws, a set of improved teeth designed to rapidly chew and ingest any kind of food. Leaves kind of a mess, though...</GR_CraftDevouringJaws.description>
-  <GR_CraftDevouringJaws.jobString>Crafting devouring jaws</GR_CraftDevouringJaws.jobString>
+  <GR_CraftDevouringJaws.label>Человеческий имплант: всепожирающие челюсти</GR_CraftDevouringJaws.label>
+  <GR_CraftDevouringJaws.description>Создает всепожирающие челюсти, набор улучшенных зубов, предназначенных для быстрого пережевывания и приема любой пищи. Оставляет после себя беспорядок, хотя...</GR_CraftDevouringJaws.description>
+  <GR_CraftDevouringJaws.jobString>Делает всепожирающие челюсти</GR_CraftDevouringJaws.jobString>
 
-  <GR_CraftNeuronReinforcement.label>Human Implant: neuron reinforcement</GR_CraftNeuronReinforcement.label>
-  <GR_CraftNeuronReinforcement.description>Craft neuron reinforcement. A biochip using animal stem cells to reinforce the natural abilities of human neurons, increasing learning and research speed.</GR_CraftNeuronReinforcement.description>
-  <GR_CraftNeuronReinforcement.jobString>Crafting neuron reinforcement</GR_CraftNeuronReinforcement.jobString>
+  <GR_CraftNeuronReinforcement.label>Человеческий имплант: нейронное усиление</GR_CraftNeuronReinforcement.label>
+  <GR_CraftNeuronReinforcement.description>Создает нейронное усиление. Биочип, использующий стволовые клетки животных, чтобы усилить естественные способности человеческих нейронов, увеличивая скорость обучения и исследования.</GR_CraftNeuronReinforcement.description>
+  <GR_CraftNeuronReinforcement.jobString>Делает нейронное усиление</GR_CraftNeuronReinforcement.jobString>
 
-  <GR_CraftMousePheromones.label>Human Implant: mouse pheromones</GR_CraftMousePheromones.label>
-  <GR_CraftMousePheromones.description>Craft mouse pheromones, a bionic vomeronasal organ that allows the subject pheromonal communication with other animals, increasing the chance of taming and training them successfully.</GR_CraftMousePheromones.description>
-  <GR_CraftMousePheromones.jobString>Crafting mouse pheromones</GR_CraftMousePheromones.jobString>
+  <GR_CraftMousePheromones.label>Человеческий имплант: мышиные феромоны</GR_CraftMousePheromones.label>
+  <GR_CraftMousePheromones.description>Создает мышиные феромоны, бионический назальный орган, который позволяет субъекту феромональное общение с другими животными, увеличивая вероятность приручения и обучения их успешно.</GR_CraftMousePheromones.description>
+  <GR_CraftMousePheromones.jobString>Делает мышиные феромоны</GR_CraftMousePheromones.jobString>
 
-  <GR_CraftMoleratNerveDampener.label>Human Implant: mole-rat nerve dampener</GR_CraftMoleratNerveDampener.label>
-  <GR_CraftMoleratNerveDampener.description>Craft mole-rat nerve dampener, a biochip that reduces pain sensitivity, allowing the subject to survive pain shock.</GR_CraftMoleratNerveDampener.description>
-  <GR_CraftMoleratNerveDampener.jobString>Crafting mole-rat nerve dampener</GR_CraftMoleratNerveDampener.jobString>
+  <GR_CraftMoleratNerveDampener.label>Человеческий имплант: крото-крысовый нерводемфпер</GR_CraftMoleratNerveDampener.label>
+  <GR_CraftMoleratNerveDampener.description>Создает крото-крысовый нерводемфпер, биочип, который уменьшает болевую чувствительность, позволяя пациенту пережить болевый шок.</GR_CraftMoleratNerveDampener.description>
+  <GR_CraftMoleratNerveDampener.jobString>Делает крото-крысовый нерводемфпер</GR_CraftMoleratNerveDampener.jobString>
 
-  <GR_CraftBunnyEars.label>Human Implant: bunny ear</GR_CraftBunnyEars.label>
-  <GR_CraftBunnyEars.description>Craft bunny ear. This huge leporid ear gives amazing enhanced hearing. Also, super kawaii!</GR_CraftBunnyEars.description>
-  <GR_CraftBunnyEars.jobString>Crafting bunny ear</GR_CraftBunnyEars.jobString>
+  <GR_CraftBunnyEars.label>Человеческий имплант: ухо кролика</GR_CraftBunnyEars.label>
+  <GR_CraftBunnyEars.description>Создает ухо зайчика. Это огромное ухо дает удивительно улучшенный слух. Кроме того, это супер каваи!</GR_CraftBunnyEars.description>
+  <GR_CraftBunnyEars.jobString>Делает ухо кролика</GR_CraftBunnyEars.jobString>
 
-  <GR_CraftInsectoidAntennae.label>Human Implant: insectoid antennae</GR_CraftInsectoidAntennae.label>
-  <GR_CraftInsectoidAntennae.description>Craft hybrid humanoid / insectoid feeling appendages that can be implanted in a subject's head, completely modifying the way the subject "sees" and feels the surrounding world. The experience may be slightly overwhelming due to sensorial overload.</GR_CraftInsectoidAntennae.description>
-  <GR_CraftInsectoidAntennae.jobString>Crafting insectoid antennae</GR_CraftInsectoidAntennae.jobString>
+  <GR_CraftInsectoidAntennae.label>Человеческий имплант: антенны инсектоидов</GR_CraftInsectoidAntennae.label>
+  <GR_CraftInsectoidAntennae.description>Создает гибридные гуманоидо-инсектоидные придатки, которые могут быть имплантированы в голову субъекта, полностью изменяя способ, которым субъект воспринимает окружающий мир. Опыт может быть немного подавляющим из-за сенсорной перегрузки.</GR_CraftInsectoidAntennae.description>
+  <GR_CraftInsectoidAntennae.jobString>Делает антенны инсектоидов</GR_CraftInsectoidAntennae.jobString>
 
-  <GR_CraftPsychicDampeners.label>Human Implant: psychic dampeners</GR_CraftPsychicDampeners.label>
-  <GR_CraftPsychicDampeners.description>Craft psychic dampeners, artificial hearing aids that block psychic emanations, providing considerable resistance to mechanoids' psychic attacks.</GR_CraftPsychicDampeners.description>
-  <GR_CraftPsychicDampeners.jobString>Crafting psychic dampeners</GR_CraftPsychicDampeners.jobString>
+  <GR_CraftPsychicDampeners.label>Человеческий имплант: экстрасенсорные демпферы</GR_CraftPsychicDampeners.label>
+  <GR_CraftPsychicDampeners.description>Создает психические демпферы, искусственные слуховые аппараты, которые блокируют психические излучения, оказывая значительное сопротивление психическим атакам механоидов.</GR_CraftPsychicDampeners.description>
+  <GR_CraftPsychicDampeners.jobString>Делает экстрасенсорные демпферы</GR_CraftPsychicDampeners.jobString>
 
-  <GR_CraftKidneyToxicFilters.label>Human Implant: kidney toxic filters</GR_CraftKidneyToxicFilters.label>
-  <GR_CraftKidneyToxicFilters.description>Craft kidney toxic filters, bioelectronic kidney prosthesis that greatly improve the efficiency of the subject's kidneys by using insectoid tissue, providing resistence to toxic substances.</GR_CraftKidneyToxicFilters.description>
-  <GR_CraftKidneyToxicFilters.jobString>Crafting kidney toxic filters</GR_CraftKidneyToxicFilters.jobString>
+  <GR_CraftKidneyToxicFilters.label>Человеческий имплант: токсические фильтры почек</GR_CraftKidneyToxicFilters.label>
+  <GR_CraftKidneyToxicFilters.description>Создает почечные токсичные фильтры, биоэлектронные почечные протезы, которые значительно повышают эффективность работы почек субъекта с помощью насекомых, обеспечивая устойчивость к токсическим веществам.</GR_CraftKidneyToxicFilters.description>
+  <GR_CraftKidneyToxicFilters.jobString>Делает токсические фильтры почек</GR_CraftKidneyToxicFilters.jobString>
 
-  <GR_CraftHumanThrumboHorn.label>Human Implant: thrumbo horn</GR_CraftHumanThrumboHorn.label>
-  <GR_CraftHumanThrumboHorn.description>A genetically modified thrumbo horn that can be implanted in a subject's forehead. Nasty.</GR_CraftHumanThrumboHorn.description>
-  <GR_CraftHumanThrumboHorn.jobString>Crafting thrumbo horn</GR_CraftHumanThrumboHorn.jobString>
+  <GR_CraftHumanThrumboHorn.label>Человеческий имплант: рог трумбо</GR_CraftHumanThrumboHorn.label>
+  <GR_CraftHumanThrumboHorn.description>Создает генетически модифицированный рог трумбо, который может быть имплантирован в лоб субъекта. Гадко.</GR_CraftHumanThrumboHorn.description>
+  <GR_CraftHumanThrumboHorn.jobString>Делает рог трумбо</GR_CraftHumanThrumboHorn.jobString>
 
-  <GR_CraftThrumboSkin.label>Human Implant: thrumbo skin</GR_CraftThrumboSkin.label>
-  <GR_CraftThrumboSkin.description>Craft thrumbo skin, a synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a lot of defense and makes the subject more resistant to extremes of temperature.</GR_CraftThrumboSkin.description>
-  <GR_CraftThrumboSkin.jobString>Crafting thrumbo horn</GR_CraftThrumboSkin.jobString>
+  <GR_CraftThrumboSkin.label>Человеческий имплант: кожа трумбо</GR_CraftThrumboSkin.label>
+  <GR_CraftThrumboSkin.description>Создает кожу трумбо, синтетический заменитель кожи, который намного толще и намного лучше изолятор, чем кожа человека. Это обеспечивает большую защиту и делает более устойчивым к экстремальным температурам.</GR_CraftThrumboSkin.description>
+  <GR_CraftThrumboSkin.jobString>Делает кожу трумбо</GR_CraftThrumboSkin.jobString>
 
-  <GR_CraftVenomousFangs.label>Human Implant: venomous fangs</GR_CraftVenomousFangs.label>
-  <GR_CraftVenomousFangs.description>This hybrid implant substitutes the subject's jaw with a set of venomous fangs. Useful in combat, but not very comfortable.</GR_CraftVenomousFangs.description>
-  <GR_CraftVenomousFangs.jobString>Crafting venomous fangs</GR_CraftVenomousFangs.jobString>
+  <GR_CraftVenomousFangs.label>Человеческий имплант: ядовитые клыки</GR_CraftVenomousFangs.label>
+  <GR_CraftVenomousFangs.description>Этот гибридный имплантат заменяет челюсть субъекта набором ядовитых клыков. Полезно в бою, но не очень удобно.</GR_CraftVenomousFangs.description>
+  <GR_CraftVenomousFangs.jobString>Делает ядовитые клыки</GR_CraftVenomousFangs.jobString>
 
-  <GR_CraftIguanaScales.label>Human Implant: iguana scales</GR_CraftIguanaScales.label>
-  <GR_CraftIguanaScales.description>Craft iguana scales, a synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to high temperatures.</GR_CraftIguanaScales.description>
-  <GR_CraftIguanaScales.jobString>Crafting venomous fangs</GR_CraftIguanaScales.jobString>
+  <GR_CraftIguanaScales.label>Человеческий имплант: шкура игуаны</GR_CraftIguanaScales.label>
+  <GR_CraftIguanaScales.description>Создает щкуру игуана, синтетический заменитель кожи, который гораздо толще и гораздо лучше изолятор, чем человеческая кожа. Это обеспечивает определенную защиту, но, что более важно, делает субъект более устойчивым к высоким температурам.</GR_CraftIguanaScales.description>
+  <GR_CraftIguanaScales.jobString>Делает шкура игуаны</GR_CraftIguanaScales.jobString>
 
 
 </LanguageData>

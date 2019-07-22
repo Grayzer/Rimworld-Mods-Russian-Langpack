@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_PulpWood.label>extract organic pulp from wood</GR_PulpWood.label>
-  <GR_PulpWood.description>Extract organic pulp from wood.</GR_PulpWood.description>
-  <GR_PulpWood.jobString>Extracting Pulp</GR_PulpWood.jobString>
+  <GR_PulpWood.label>извлечь ораническую пульпу из дерева</GR_PulpWood.label>
+  <GR_PulpWood.description>Извлекает ораническую пульпу из дерева.</GR_PulpWood.description>
+  <GR_PulpWood.jobString>Извлечение пульпы</GR_PulpWood.jobString>
 
-  <GR_PulpWoodExpensive.label>extract organic pulp from wood</GR_PulpWoodExpensive.label>
-  <GR_PulpWoodExpensive.description>Extract organic pulp from wood. This recipe is more expensive than the one in the pulper, which can be built with the Genetic Engineering research.</GR_PulpWoodExpensive.description>
-  <GR_PulpWoodExpensive.jobString>Extracting Pulp</GR_PulpWoodExpensive.jobString>
+  <GR_PulpWoodExpensive.label>извлечь ораническую пульпу из дерева</GR_PulpWoodExpensive.label>
+  <GR_PulpWoodExpensive.description>Извлечь ораническую пульпу из древесины. Этот рецепт более дорогой, чем рецепт, который можно построить с помощью исследований генной инженерии.</GR_PulpWoodExpensive.description>
+  <GR_PulpWoodExpensive.jobString>Извлечение пульпы</GR_PulpWoodExpensive.jobString>
 
-  <GR_PulpCorpse.label>extract organic pulp from corpse</GR_PulpCorpse.label>
-  <GR_PulpCorpse.description>Extract organic pulp from corpse.</GR_PulpCorpse.description>
-  <GR_PulpCorpse.jobString>Extracting Pulp</GR_PulpCorpse.jobString>
+  <GR_PulpCorpse.label>извлечь ораническую пульпу из тел</GR_PulpCorpse.label>
+  <GR_PulpCorpse.description>Извлечь ораническую пульпу из тел.</GR_PulpCorpse.description>
+  <GR_PulpCorpse.jobString>Извлечение пульпы</GR_PulpCorpse.jobString>
 
-  <GR_RecycleIncubator.label>extract organic pulp from unwanted incubator</GR_RecycleIncubator.label>
-  <GR_RecycleIncubator.description>Extract organic pulp from unwanted incubator. Careful, this operation will grab the closest incubator. Plan accordingly.</GR_RecycleIncubator.description>
-  <GR_RecycleIncubator.jobString>Extracting Pulp</GR_RecycleIncubator.jobString>
+  <GR_RecycleIncubator.label>извлечь ораническую пульпу из ненужных инкубаторов</GR_RecycleIncubator.label>
+  <GR_RecycleIncubator.description>Извлечь ораническую пульпу из ненужных инкубаторов. Осторожно, эта операция захватит ближайший инкубатор. Планируйте соответственно.</GR_RecycleIncubator.description>
+  <GR_RecycleIncubator.jobString>Извлечение пульпы</GR_RecycleIncubator.jobString>
 
 
 </LanguageData>

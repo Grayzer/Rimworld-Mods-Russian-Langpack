@@ -17,7 +17,7 @@
   <GR_ChemfuelStomach.label>человеческий имплант: химтопливный желудок</GR_ChemfuelStomach.label>
   <GR_ChemfuelHeart.label>человеческий имплант: химтопливное сердце</GR_ChemfuelHeart.label>
   <GR_WolfMuscularFibers.label>человеческий имплант: волчьи мышечные волокна</GR_WolfMuscularFibers.label>
-  <GR_DevouringJaws.label>человеческий имплант: пожирающие челюсти</GR_DevouringJaws.label>
+  <GR_DevouringJaws.label>человеческий имплант: всепожирающие челюсти</GR_DevouringJaws.label>
   <GR_NeuronReinforcement.label>человеческий имплант: нейронное усиление</GR_NeuronReinforcement.label>
   <GR_MousePheromones.label>человеческий имплант: мышиные феромоны</GR_MousePheromones.label>
   <GR_MoleratNerveDampener.label>человеческий имплант: кротовый демпфер нервов</GR_MoleratNerveDampener.label>
@@ -34,7 +34,7 @@
   <GR_VenomousFangs.label>человеческий имплант: ядовитые клыки</GR_VenomousFangs.label>
   <GR_VenomousFangs.comps.0.tools.0.label>ядовитые клыки</GR_VenomousFangs.comps.0.tools.0.label>
 
-  <GR_IguanaScales.label>человеческий имплант: щечки игуаны</GR_IguanaScales.label>
+  <GR_IguanaScales.label>человеческий имплант: шкура игуаны</GR_IguanaScales.label>
 
 
 </LanguageData>

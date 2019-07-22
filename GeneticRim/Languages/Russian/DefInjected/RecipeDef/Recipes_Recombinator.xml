@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_RecombineGenes.label>recombine genes</GR_RecombineGenes.label>
-  <GR_RecombineGenes.description>Recombine genes from one or several species to get new ones.</GR_RecombineGenes.description>
-  <GR_RecombineGenes.jobString>Recombining Genetic Material</GR_RecombineGenes.jobString>
+  <GR_RecombineGenes.label>рекомбинировать гены</GR_RecombineGenes.label>
+  <GR_RecombineGenes.description>Рекомбинировать гены одного или нескольких видов, чтобы получить новые.</GR_RecombineGenes.description>
+  <GR_RecombineGenes.jobString>Рекомбинация Генетического Материала</GR_RecombineGenes.jobString>
 
-  <GR_RecombineSerums.label>recombine serums</GR_RecombineSerums.label>
-  <GR_RecombineSerums.description>Recombine genetic material from 5 animal serums to synthesize a random paragon serum. Non-specialized genetic material can also be used for this recipe.</GR_RecombineSerums.description>
-  <GR_RecombineSerums.jobString>Recombining Serums</GR_RecombineSerums.jobString>
+  <GR_RecombineSerums.label>рекомбинировать сыворотку</GR_RecombineSerums.label>
+  <GR_RecombineSerums.description>Рекомбинировать генетический материал из 5 сывороток животных, чтобы синтезировать случайную образцовую сыворотку. Неспециализированный генетический материал также может быть использован для этого рецепта.</GR_RecombineSerums.description>
+  <GR_RecombineSerums.jobString>Рекомбинация Сыворотки</GR_RecombineSerums.jobString>
 
 
 </LanguageData>

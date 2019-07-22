@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_Transcended.label>participated in archotech awakening</GR_Transcended.label>
-  <GR_Transcended.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] participating in the archotech awakening</GR_Transcended.rulePack.rulesStrings.0>
+  <GR_Transcended.label>участвовал в пробуждении архотек</GR_Transcended.label>
+  <GR_Transcended.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] участвовал в пробуждении архотек</GR_Transcended.rulePack.rulesStrings.0>
   <GR_Transcended.rulePack.rulesStrings.1>image->[PAWN_nameFull] toggling on the archotech AI [circumstance_group]</GR_Transcended.rulePack.rulesStrings.1>
   <GR_Transcended.rulePack.rulesStrings.2>image->[PAWN_nameFull] trembling in fear of the archotech AI [circumstance_group]</GR_Transcended.rulePack.rulesStrings.2>
   <GR_Transcended.rulePack.rulesStrings.3>image->[PAWN_nameFull] looking with unease at the archotech AI [circumstance_group]</GR_Transcended.rulePack.rulesStrings.3>

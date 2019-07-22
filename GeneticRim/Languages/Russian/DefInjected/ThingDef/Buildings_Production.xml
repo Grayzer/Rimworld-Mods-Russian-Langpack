@@ -57,7 +57,7 @@
   <GR_GeneDuplicator_Frame.label>gene duplicator (building)</GR_GeneDuplicator_Frame.label>
   <GR_GeneDuplicator_Frame.description>This advanced machine can be used to grow and duplicate almost any kind of genetic material. It consumes a large amount of organic pulp and most of it is wasted on the process. Also, tt won't work on Thrumbo and Mechanoid genes.</GR_GeneDuplicator_Frame.description>
 
-  <GR_AlphaSerumExtractionTable.label>стол экстракции образцов сыворотки</GR_AlphaSerumExtractionTable.label>
+  <GR_AlphaSerumExtractionTable.label>стол экстракции образцовой сыворотки</GR_AlphaSerumExtractionTable.label>
   <GR_AlphaSerumExtractionTable.description>This worktable allows you to refine animal genes and extract a concentrated essence called paragon serum, which can be used to raise more evolved versions of your animals in the animal enrichment center.</GR_AlphaSerumExtractionTable.description>
   <GR_AlphaSerumExtractionTable_Blueprint.label>paragon serum extraction table (blueprint)</GR_AlphaSerumExtractionTable_Blueprint.label>
   <GR_AlphaSerumExtractionTable_Blueprint_Install.label>paragon serum extraction table (blueprint)</GR_AlphaSerumExtractionTable_Blueprint_Install.label>
