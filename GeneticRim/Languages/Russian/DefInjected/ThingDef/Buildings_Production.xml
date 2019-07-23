@@ -2,81 +2,81 @@
 <LanguageData>
 
   <GR_GeneticExtractionTable.label>стол генетической экстракции</GR_GeneticExtractionTable.label>
-  <GR_GeneticExtractionTable.description>A genetic engineering workbench.</GR_GeneticExtractionTable.description>
-  <GR_GeneticExtractionTable_Blueprint.label>genetic extraction table (blueprint)</GR_GeneticExtractionTable_Blueprint.label>
-  <GR_GeneticExtractionTable_Blueprint_Install.label>genetic extraction table (blueprint)</GR_GeneticExtractionTable_Blueprint_Install.label>
-  <GR_GeneticExtractionTable_Frame.label>genetic extraction table (building)</GR_GeneticExtractionTable_Frame.label>
-  <GR_GeneticExtractionTable_Frame.description>A genetic engineering workbench.</GR_GeneticExtractionTable_Frame.description>
+  <GR_GeneticExtractionTable.description>Инструмент генной инженерии.</GR_GeneticExtractionTable.description>
+  <GR_GeneticExtractionTable_Blueprint.label>стол генетической экстракции (чертеж)</GR_GeneticExtractionTable_Blueprint.label>
+  <GR_GeneticExtractionTable_Blueprint_Install.label>стол генетической экстракции (чертеж)</GR_GeneticExtractionTable_Blueprint_Install.label>
+  <GR_GeneticExtractionTable_Frame.label>стол генетической экстракции (стройка)</GR_GeneticExtractionTable_Frame.label>
+  <GR_GeneticExtractionTable_Frame.description>Инструмент генной инженерии.</GR_GeneticExtractionTable_Frame.description>
 
   <GR_GenePod.label>генный бак</GR_GenePod.label>
-  <GR_GenePod.description>Genetic material samples are combined and grown in this laboratory.</GR_GenePod.description>
-  <GR_GenePod_Blueprint.label>genepod (blueprint)</GR_GenePod_Blueprint.label>
-  <GR_GenePod_Blueprint_Install.label>genepod (blueprint)</GR_GenePod_Blueprint_Install.label>
-  <GR_GenePod_Frame.label>genepod (building)</GR_GenePod_Frame.label>
-  <GR_GenePod_Frame.description>Genetic material samples are combined and grown in this laboratory.</GR_GenePod_Frame.description>
+  <GR_GenePod.description>Образцы генетического материала объединены и выращены в этой лаборатории.</GR_GenePod.description>
+  <GR_GenePod_Blueprint.label>генный бак (чертеж)</GR_GenePod_Blueprint.label>
+  <GR_GenePod_Blueprint_Install.label>генный бак (чертеж)</GR_GenePod_Blueprint_Install.label>
+  <GR_GenePod_Frame.label>генный бак (стройка)</GR_GenePod_Frame.label>
+  <GR_GenePod_Frame.description>Образцы генетического материала объединены и выращены в этой лаборатории.</GR_GenePod_Frame.description>
 
   <GR_AdvancedGenePod.label>продвинутый генный бак</GR_AdvancedGenePod.label>
-  <GR_AdvancedGenePod.description>Genetic material samples are combined and grown in this laboratory. The vats of growth compound accelerate some of the most difficult experiments.</GR_AdvancedGenePod.description>
-  <GR_AdvancedGenePod_Blueprint.label>advanced genepod (blueprint)</GR_AdvancedGenePod_Blueprint.label>
-  <GR_AdvancedGenePod_Blueprint_Install.label>advanced genepod (blueprint)</GR_AdvancedGenePod_Blueprint_Install.label>
-  <GR_AdvancedGenePod_Frame.label>advanced genepod (building)</GR_AdvancedGenePod_Frame.label>
-  <GR_AdvancedGenePod_Frame.description>Genetic material samples are combined and grown in this laboratory. The vats of growth compound accelerate some of the most difficult experiments.</GR_AdvancedGenePod_Frame.description>
+  <GR_AdvancedGenePod.description>Образцы генетического материала объединены и выращены в этой лаборатории. Чаны с ростовым составом ускоряют некоторые из самых сложных экспериментов.</GR_AdvancedGenePod.description>
+  <GR_AdvancedGenePod_Blueprint.label>продвинутый генный бак (чертеж)</GR_AdvancedGenePod_Blueprint.label>
+  <GR_AdvancedGenePod_Blueprint_Install.label>продвинутый генный бак (чертеж)</GR_AdvancedGenePod_Blueprint_Install.label>
+  <GR_AdvancedGenePod_Frame.label>продвинутый генный бак (стройка)</GR_AdvancedGenePod_Frame.label>
+  <GR_AdvancedGenePod_Frame.description>Образцы генетического материала объединены и выращены в этой лаборатории. Чаны с ростовым составом ускоряют некоторые из самых сложных экспериментов.</GR_AdvancedGenePod_Frame.description>
 
   <GR_Pulper.label>измельчитель</GR_Pulper.label>
-  <GR_Pulper.description>Turns wood and organic resources into a pulp, useful as a base organic compound.</GR_Pulper.description>
-  <GR_Pulper_Blueprint.label>pulper (blueprint)</GR_Pulper_Blueprint.label>
-  <GR_Pulper_Blueprint_Install.label>pulper (blueprint)</GR_Pulper_Blueprint_Install.label>
-  <GR_Pulper_Frame.label>pulper (building)</GR_Pulper_Frame.label>
-  <GR_Pulper_Frame.description>Turns wood and organic resources into a pulp, useful as a base organic compound.</GR_Pulper_Frame.description>
+  <GR_Pulper.description>Превращает древесину и органические ресурсы в пульпу, полезную в качестве основного органического соединения.</GR_Pulper.description>
+  <GR_Pulper_Blueprint.label>измельчитель (чертеж)</GR_Pulper_Blueprint.label>
+  <GR_Pulper_Blueprint_Install.label>измельчитель (чертеж)</GR_Pulper_Blueprint_Install.label>
+  <GR_Pulper_Frame.label>измельчитель (стройка)</GR_Pulper_Frame.label>
+  <GR_Pulper_Frame.description>Превращает древесину и органические ресурсы в пульпу, полезную в качестве основного органического соединения.</GR_Pulper_Frame.description>
 
   <GR_PulpRecycler.label>утилизатор</GR_PulpRecycler.label>
-  <GR_PulpRecycler.description>Turns corpses into a pulp, useful as a base organic compound.</GR_PulpRecycler.description>
-  <GR_PulpRecycler_Blueprint.label>recycler (blueprint)</GR_PulpRecycler_Blueprint.label>
-  <GR_PulpRecycler_Blueprint_Install.label>recycler (blueprint)</GR_PulpRecycler_Blueprint_Install.label>
-  <GR_PulpRecycler_Frame.label>recycler (building)</GR_PulpRecycler_Frame.label>
-  <GR_PulpRecycler_Frame.description>Turns corpses into a pulp, useful as a base organic compound.</GR_PulpRecycler_Frame.description>
+  <GR_PulpRecycler.description>Превращает трупы в пульпу, полезную в качестве основного органического соединения.</GR_PulpRecycler.description>
+  <GR_PulpRecycler_Blueprint.label>утилизатор (чертеж)</GR_PulpRecycler_Blueprint.label>
+  <GR_PulpRecycler_Blueprint_Install.label>утилизатор (чертеж)</GR_PulpRecycler_Blueprint_Install.label>
+  <GR_PulpRecycler_Frame.label>утилизатор (стройка)</GR_PulpRecycler_Frame.label>
+  <GR_PulpRecycler_Frame.description>Превращает трупы в пульпу, полезную в качестве основного органического соединения.</GR_PulpRecycler_Frame.description>
 
   <GR_GeneRecombinator.label>рекомбинатор генов</GR_GeneRecombinator.label>
-  <GR_GeneRecombinator.description>Mixes genes from different species, and produces genes from other species at random. Or not. Also, be careful, you don't want to mix frogs with other things. Life finds a way.</GR_GeneRecombinator.description>
-  <GR_GeneRecombinator_Blueprint.label>gene recombinator (blueprint)</GR_GeneRecombinator_Blueprint.label>
-  <GR_GeneRecombinator_Blueprint_Install.label>gene recombinator (blueprint)</GR_GeneRecombinator_Blueprint_Install.label>
-  <GR_GeneRecombinator_Frame.label>gene recombinator (building)</GR_GeneRecombinator_Frame.label>
-  <GR_GeneRecombinator_Frame.description>Mixes genes from different species, and produces genes from other species at random. Or not. Also, be careful, you don't want to mix frogs with other things. Life finds a way.</GR_GeneRecombinator_Frame.description>
+  <GR_GeneRecombinator.description>Смешивает гены разных видов и случайным образом производит гены других видов. Или нет. Также будьте осторожны, вы не хотите смешивать лягушек с другими вещами. Жизнь находит способ.</GR_GeneRecombinator.description>
+  <GR_GeneRecombinator_Blueprint.label>рекомбинатор генов (чертеж)</GR_GeneRecombinator_Blueprint.label>
+  <GR_GeneRecombinator_Blueprint_Install.label>рекомбинатор генов (чертеж)</GR_GeneRecombinator_Blueprint_Install.label>
+  <GR_GeneRecombinator_Frame.label>рекомбинатор генов (стройка)</GR_GeneRecombinator_Frame.label>
+  <GR_GeneRecombinator_Frame.description>Смешивает гены разных видов и случайным образом производит гены других видов. Или нет. Также будьте осторожны, вы не хотите смешивать лягушек с другими вещами. Жизнь находит способ.</GR_GeneRecombinator_Frame.description>
 
   <GR_TissueGrowingVat.label>чан клонирования</GR_TissueGrowingVat.label>
-  <GR_TissueGrowingVat.description>Accelerates growth of organic structures, allowing accelerated development of genetically manipulated hybrid implants. This building is used for both hybrid animal implants and humanoid implants.</GR_TissueGrowingVat.description>
-  <GR_TissueGrowingVat_Blueprint.label>tissue growing vat (blueprint)</GR_TissueGrowingVat_Blueprint.label>
-  <GR_TissueGrowingVat_Blueprint_Install.label>tissue growing vat (blueprint)</GR_TissueGrowingVat_Blueprint_Install.label>
-  <GR_TissueGrowingVat_Frame.label>tissue growing vat (building)</GR_TissueGrowingVat_Frame.label>
-  <GR_TissueGrowingVat_Frame.description>Accelerates growth of organic structures, allowing accelerated development of genetically manipulated hybrid implants. This building is used for both hybrid animal implants and humanoid implants.</GR_TissueGrowingVat_Frame.description>
+  <GR_TissueGrowingVat.description>Ускоряет рост органических структур, что позволяет ускорить развитие генетически управляемых гибридных имплантатов. Это здание используется как для гибридных животных, так и для гуманоидных имплантатов.</GR_TissueGrowingVat.description>
+  <GR_TissueGrowingVat_Blueprint.label>чан клонирования (чертеж)</GR_TissueGrowingVat_Blueprint.label>
+  <GR_TissueGrowingVat_Blueprint_Install.label>чан клонирования (чертеж)</GR_TissueGrowingVat_Blueprint_Install.label>
+  <GR_TissueGrowingVat_Frame.label>чан клонирования (стройка)</GR_TissueGrowingVat_Frame.label>
+  <GR_TissueGrowingVat_Frame.description>Ускоряет рост органических структур, что позволяет ускорить развитие генетически управляемых гибридных имплантатов. Это здание используется как для гибридных животных, так и для гуманоидных имплантатов.</GR_TissueGrowingVat_Frame.description>
 
   <GR_GeneDuplicator.label>дубликатор генов</GR_GeneDuplicator.label>
-  <GR_GeneDuplicator.description>This advanced machine can be used to grow and duplicate almost any kind of genetic material. It consumes a large amount of organic pulp and most of it is wasted on the process. Also, tt won't work on Thrumbo and Mechanoid genes.</GR_GeneDuplicator.description>
-  <GR_GeneDuplicator_Blueprint.label>gene duplicator (blueprint)</GR_GeneDuplicator_Blueprint.label>
-  <GR_GeneDuplicator_Blueprint_Install.label>gene duplicator (blueprint)</GR_GeneDuplicator_Blueprint_Install.label>
-  <GR_GeneDuplicator_Frame.label>gene duplicator (building)</GR_GeneDuplicator_Frame.label>
-  <GR_GeneDuplicator_Frame.description>This advanced machine can be used to grow and duplicate almost any kind of genetic material. It consumes a large amount of organic pulp and most of it is wasted on the process. Also, tt won't work on Thrumbo and Mechanoid genes.</GR_GeneDuplicator_Frame.description>
+  <GR_GeneDuplicator.description>Эта продвинутая машина может использоваться для выращивания и дублирования практически любого вида генетического материала. Он потребляет большое количество органической пульпы, и большая часть ее расходуется на процесс. Кроме того, это не будет работать с генами Трумбо и Механоидами.</GR_GeneDuplicator.description>
+  <GR_GeneDuplicator_Blueprint.label>дубликатор генов (чертеж)</GR_GeneDuplicator_Blueprint.label>
+  <GR_GeneDuplicator_Blueprint_Install.label>дубликатор генов (чертеж)</GR_GeneDuplicator_Blueprint_Install.label>
+  <GR_GeneDuplicator_Frame.label>дубликатор генов (стройка)</GR_GeneDuplicator_Frame.label>
+  <GR_GeneDuplicator_Frame.description>Эта продвинутая машина может использоваться для выращивания и дублирования практически любого вида генетического материала. Он потребляет большое количество органической пульпы, и большая часть ее расходуется на процесс. Кроме того, это не будет работать с генами Трумбо и Механоидами.</GR_GeneDuplicator_Frame.description>
 
   <GR_AlphaSerumExtractionTable.label>стол экстракции образцовой сыворотки</GR_AlphaSerumExtractionTable.label>
-  <GR_AlphaSerumExtractionTable.description>This worktable allows you to refine animal genes and extract a concentrated essence called paragon serum, which can be used to raise more evolved versions of your animals in the animal enrichment center.</GR_AlphaSerumExtractionTable.description>
-  <GR_AlphaSerumExtractionTable_Blueprint.label>paragon serum extraction table (blueprint)</GR_AlphaSerumExtractionTable_Blueprint.label>
-  <GR_AlphaSerumExtractionTable_Blueprint_Install.label>paragon serum extraction table (blueprint)</GR_AlphaSerumExtractionTable_Blueprint_Install.label>
-  <GR_AlphaSerumExtractionTable_Frame.label>paragon serum extraction table (building)</GR_AlphaSerumExtractionTable_Frame.label>
-  <GR_AlphaSerumExtractionTable_Frame.description>This worktable allows you to refine animal genes and extract a concentrated essence called paragon serum, which can be used to raise more evolved versions of your animals in the animal enrichment center.</GR_AlphaSerumExtractionTable_Frame.description>
+  <GR_AlphaSerumExtractionTable.description>Этот рабочий стол позволяет очищать гены животных и извлекать концентрированную эссенцию, называемую образцовой сывороткой, которую можно использовать для выращивания более развитых версий ваших животных в центре улучшения животных.</GR_AlphaSerumExtractionTable.description>
+  <GR_AlphaSerumExtractionTable_Blueprint.label>стол экстракции образцовой сыворотки (чертеж)</GR_AlphaSerumExtractionTable_Blueprint.label>
+  <GR_AlphaSerumExtractionTable_Blueprint_Install.label>стол экстракции образцовой сыворотки (чертеж)</GR_AlphaSerumExtractionTable_Blueprint_Install.label>
+  <GR_AlphaSerumExtractionTable_Frame.label>стол экстракции образцовой сыворотки (стройка)</GR_AlphaSerumExtractionTable_Frame.label>
+  <GR_AlphaSerumExtractionTable_Frame.description>Этот рабочий стол позволяет очищать гены животных и извлекать концентрированную эссенцию, называемую образцовой сывороткой, которую можно использовать для выращивания более развитых версий ваших животных в центре улучшения животных.</GR_AlphaSerumExtractionTable_Frame.description>
 
   <GR_AnimalEnrichmentCenter.label>центр улучшения животных</GR_AnimalEnrichmentCenter.label>
-  <GR_AnimalEnrichmentCenter.description>This machine can fill an incubator with specific paragon serum and an organic base compound to create advanced versions of your base creatures.</GR_AnimalEnrichmentCenter.description>
-  <GR_AnimalEnrichmentCenter_Blueprint.label>animal enrichment center (blueprint)</GR_AnimalEnrichmentCenter_Blueprint.label>
-  <GR_AnimalEnrichmentCenter_Blueprint_Install.label>animal enrichment center (blueprint)</GR_AnimalEnrichmentCenter_Blueprint_Install.label>
-  <GR_AnimalEnrichmentCenter_Frame.label>animal enrichment center (building)</GR_AnimalEnrichmentCenter_Frame.label>
-  <GR_AnimalEnrichmentCenter_Frame.description>This machine can fill an incubator with specific paragon serum and an organic base compound to create advanced versions of your base creatures.</GR_AnimalEnrichmentCenter_Frame.description>
+  <GR_AnimalEnrichmentCenter.description>Эта машина может заполнить инкубатор специфической образцовой сывороткой и органическим базовым соединением для создания продвинутых версий ваших базовых существ.</GR_AnimalEnrichmentCenter.description>
+  <GR_AnimalEnrichmentCenter_Blueprint.label>центр улучшения животных (чертеж)</GR_AnimalEnrichmentCenter_Blueprint.label>
+  <GR_AnimalEnrichmentCenter_Blueprint_Install.label>центр улучшения животных (чертеж)</GR_AnimalEnrichmentCenter_Blueprint_Install.label>
+  <GR_AnimalEnrichmentCenter_Frame.label>центр улучшения животных (стройка)</GR_AnimalEnrichmentCenter_Frame.label>
+  <GR_AnimalEnrichmentCenter_Frame.description>Эта машина может заполнить инкубатор специфической образцовой сывороткой и органическим базовым соединением для создания продвинутых версий ваших базовых существ.</GR_AnimalEnrichmentCenter_Frame.description>
 
   <GR_GenetrainerBench.label>машина генномодификаторов</GR_GenetrainerBench.label>
-  <GR_GenetrainerBench.description>The Genetrainer bench allows jury rigging of mech serum neurotrainers, healers and resurrectors to craft genetrainers, single use artifacts that inject animal genetic material in a human being, acting as a powerful implant that doesn't take the place of any organ in the body.</GR_GenetrainerBench.description>
-  <GR_GenetrainerBench_Blueprint.label>genetrainer bench (blueprint)</GR_GenetrainerBench_Blueprint.label>
-  <GR_GenetrainerBench_Blueprint_Install.label>genetrainer bench (blueprint)</GR_GenetrainerBench_Blueprint_Install.label>
-  <GR_GenetrainerBench_Frame.label>genetrainer bench (building)</GR_GenetrainerBench_Frame.label>
-  <GR_GenetrainerBench_Frame.description>The Genetrainer bench allows jury rigging of mech serum neurotrainers, healers and resurrectors to craft genetrainers, single use artifacts that inject animal genetic material in a human being, acting as a powerful implant that doesn't take the place of any organ in the body.</GR_GenetrainerBench_Frame.description>
+  <GR_GenetrainerBench.description>Машина генномодификаторов позволяет создавать нейротренеров, целителей и воскрешателей для создания генетических трассеров, одноразовых артефактов, которые вводят генетический материал животных в организм человека, выступая в качестве мощного имплантата, который не заменяет никакой орган в организме.</GR_GenetrainerBench.description>
+  <GR_GenetrainerBench_Blueprint.label>машина генномодификаторов (чертеж)</GR_GenetrainerBench_Blueprint.label>
+  <GR_GenetrainerBench_Blueprint_Install.label>машина генномодификаторов (чертеж)</GR_GenetrainerBench_Blueprint_Install.label>
+  <GR_GenetrainerBench_Frame.label>машина генномодификаторов (стройка)</GR_GenetrainerBench_Frame.label>
+  <GR_GenetrainerBench_Frame.description>Машина генномодификаторов позволяет создавать нейротренеров, целителей и воскрешателей для создания генетических трассеров, одноразовых артефактов, которые вводят генетический материал животных в организм человека, выступая в качестве мощного имплантата, который не заменяет никакой орган в организме.</GR_GenetrainerBench_Frame.description>
 
 
 </LanguageData>

@@ -3,25 +3,25 @@
 
   <GR_Transcended.label>участвовал в пробуждении архотек</GR_Transcended.label>
   <GR_Transcended.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] участвовал в пробуждении архотек</GR_Transcended.rulePack.rulesStrings.0>
-  <GR_Transcended.rulePack.rulesStrings.1>image->[PAWN_nameFull] toggling on the archotech AI [circumstance_group]</GR_Transcended.rulePack.rulesStrings.1>
-  <GR_Transcended.rulePack.rulesStrings.2>image->[PAWN_nameFull] trembling in fear of the archotech AI [circumstance_group]</GR_Transcended.rulePack.rulesStrings.2>
-  <GR_Transcended.rulePack.rulesStrings.3>image->[PAWN_nameFull] looking with unease at the archotech AI [circumstance_group]</GR_Transcended.rulePack.rulesStrings.3>
-  <GR_Transcended.rulePack.rulesStrings.4>image->[PAWN_nameFull] checking the integrity of the archotech project [circumstance_group]</GR_Transcended.rulePack.rulesStrings.4>
-  <GR_Transcended.rulePack.rulesStrings.5>circumstance_phrase->in front of a [TerrainFeature]</GR_Transcended.rulePack.rulesStrings.5>
-  <GR_Transcended.rulePack.rulesStrings.6>circumstance_phrase->with incredible intelligence</GR_Transcended.rulePack.rulesStrings.6>
-  <GR_Transcended.rulePack.rulesStrings.7>circumstance_phrase->in a lab coat</GR_Transcended.rulePack.rulesStrings.7>
-  <GR_Transcended.rulePack.rulesStrings.8>circumstance_phrase->with electricity coiling dramatically</GR_Transcended.rulePack.rulesStrings.8>
-  <GR_Transcended.rulePack.rulesStrings.9>circumstance_phrase->cackling madly</GR_Transcended.rulePack.rulesStrings.9>
-  <GR_Transcended.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun] is concentrating intently on the controls.</GR_Transcended.rulePack.rulesStrings.10>
-  <GR_Transcended.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun] has [PAWN_possessive] eyes slanted and looks confident.</GR_Transcended.rulePack.rulesStrings.11>
-  <GR_Transcended.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun] is fidgeting, [PAWN_possessive] eyes open wide.</GR_Transcended.rulePack.rulesStrings.12>
-  <GR_Transcended.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun] is smiling with grim joy.</GR_Transcended.rulePack.rulesStrings.13>
-  <GR_Transcended.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] seems to be fully in control of the situation (but reaaaally isn't).</GR_Transcended.rulePack.rulesStrings.14>
-  <GR_Transcended.rulePack.rulesStrings.15>desc_sentence->There is a trace of ozone in the air.</GR_Transcended.rulePack.rulesStrings.15>
-  <GR_Transcended.rulePack.rulesStrings.16>desc_sentence->A nearby [Animal] is looking up, startled.</GR_Transcended.rulePack.rulesStrings.16>
-  <GR_Transcended.rulePack.rulesStrings.17>desc_sentence->A [Animal] is fleeing the lab in fear.</GR_Transcended.rulePack.rulesStrings.17>
-  <GR_Transcended.rulePack.rulesStrings.18>desc_sentence->There is a [TerrainFeature] in the background.</GR_Transcended.rulePack.rulesStrings.18>
-  <GR_Transcended.rulePack.rulesStrings.19>desc_sentence->A [PersonJob] watches silently from afar, fearing for his future.</GR_Transcended.rulePack.rulesStrings.19>
+  <GR_Transcended.rulePack.rulesStrings.1>image->[PAWN_nameFull] переключает на архотек ИИ [circumstance_group]</GR_Transcended.rulePack.rulesStrings.1>
+  <GR_Transcended.rulePack.rulesStrings.2>image->[PAWN_nameFull] дрожит от страха перед архотеком ИИ [circumstance_group]</GR_Transcended.rulePack.rulesStrings.2>
+  <GR_Transcended.rulePack.rulesStrings.3>image->[PAWN_nameFull] с беспокойством смотрит на архотек ИИ [circumstance_group]</GR_Transcended.rulePack.rulesStrings.3>
+  <GR_Transcended.rulePack.rulesStrings.4>image->[PAWN_nameFull] проверяет целостность проекта архотек [circumstance_group]</GR_Transcended.rulePack.rulesStrings.4>
+  <GR_Transcended.rulePack.rulesStrings.5>circumstance_phrase->перед [TerrainFeature]</GR_Transcended.rulePack.rulesStrings.5>
+  <GR_Transcended.rulePack.rulesStrings.6>circumstance_phrase->с невероятным интеллектом</GR_Transcended.rulePack.rulesStrings.6>
+  <GR_Transcended.rulePack.rulesStrings.7>circumstance_phrase->в лабораторном халате</GR_Transcended.rulePack.rulesStrings.7>
+  <GR_Transcended.rulePack.rulesStrings.8>circumstance_phrase->с электричеством драматично наматывает</GR_Transcended.rulePack.rulesStrings.8>
+  <GR_Transcended.rulePack.rulesStrings.9>circumstance_phrase->безумно хихикает</GR_Transcended.rulePack.rulesStrings.9>
+  <GR_Transcended.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun] концентрируется на контроле.</GR_Transcended.rulePack.rulesStrings.10>
+  <GR_Transcended.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun] имеет [PAWN_possessive] глаза наклонены и выглядят уверенно.</GR_Transcended.rulePack.rulesStrings.11>
+  <GR_Transcended.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun] волнуется, [PAWN_possessive] глаза широко открыты.</GR_Transcended.rulePack.rulesStrings.12>
+  <GR_Transcended.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun] улыбается с мрачной радостью.</GR_Transcended.rulePack.rulesStrings.13>
+  <GR_Transcended.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] кажется, полностью контролирует ситуацию (но не совсем).</GR_Transcended.rulePack.rulesStrings.14>
+  <GR_Transcended.rulePack.rulesStrings.15>desc_sentence->В воздухе есть след озона.</GR_Transcended.rulePack.rulesStrings.15>
+  <GR_Transcended.rulePack.rulesStrings.16>desc_sentence->Поблизости [Animal] испуганно смотрит вверх</GR_Transcended.rulePack.rulesStrings.16>
+  <GR_Transcended.rulePack.rulesStrings.17>desc_sentence->[Animal] бежит из лаборатории в страхе.</GR_Transcended.rulePack.rulesStrings.17>
+  <GR_Transcended.rulePack.rulesStrings.18>desc_sentence->Eсть [TerrainFeature] на заднем фоне.</GR_Transcended.rulePack.rulesStrings.18>
+  <GR_Transcended.rulePack.rulesStrings.19>desc_sentence->[PersonJob] молча наблюдает издалека, опасаясь за свое будущее.</GR_Transcended.rulePack.rulesStrings.19>
 
 
 </LanguageData>

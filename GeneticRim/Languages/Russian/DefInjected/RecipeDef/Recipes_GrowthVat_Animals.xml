@@ -45,7 +45,7 @@
   <!-- Eyes -->
 
   <GR_CanidEye.label>Животный имплант: собачий глаз (уровень 1)</GR_CanidEye.label>
-  <GR_CanidEye.description>Создает глазного имплантата, который использует генетическое соединение с генами собак, чтобы дать старому (или поврежденному) глазу достойное зрение. Этот имплантат не предназначен для замены здоровых глаз.</GR_CanidEye.description>
+  <GR_CanidEye.description>Создает глазной имплантат, который использует генетическое соединение с генами собак, чтобы дать старому (или поврежденному) глазу достойное зрение. Этот имплантат не предназначен для замены здоровых глаз.</GR_CanidEye.description>
   <GR_CanidEye.jobString>Делает имплант собачьих глаз.</GR_CanidEye.jobString>
 
   <GR_InsectileEye.label>Животный имплант: инсектоидный глаз (уровень 2)</GR_InsectileEye.label>
@@ -113,7 +113,7 @@
   <GR_CrocodileSpine.jobString>Делает имплант позвоночника крокодила.</GR_CrocodileSpine.jobString>
 
   <GR_MechaSpine.label>Животный имплант: позвоночник механоида (уровень 3)</GR_MechaSpine.label>
-  <GR_MechaSpine.description>Создает бионический имплантат, добавив пласталевую структуру с активными механитами в скелетную систему существа..</GR_MechaSpine.description>
+  <GR_MechaSpine.description>Создает бионический имплантат, добавив пласталевую структуру с активными механитами в скелетную систему существа.</GR_MechaSpine.description>
   <GR_MechaSpine.jobString>Делает имплант позвоночника механоида.</GR_MechaSpine.jobString>
 
 

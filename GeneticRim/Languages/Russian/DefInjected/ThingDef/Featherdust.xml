@@ -2,9 +2,9 @@
 <LanguageData>
 
   <GR_FeatherdustJoint.label>пыльник</GR_FeatherdustJoint.label>
-  <GR_FeatherdustJoint.description>Bearchicken feathers can be gathered and processed into a fine powder, which produces a mild euphoric sensation when burned and inhaled. Featherdust use can produce a dependency.</GR_FeatherdustJoint.description>
-  <GR_FeatherdustJoint.ingestible.ingestCommandString>Smoke {0}</GR_FeatherdustJoint.ingestible.ingestCommandString>
-  <GR_FeatherdustJoint.ingestible.ingestReportString>Smoking {0}.</GR_FeatherdustJoint.ingestible.ingestReportString>
+  <GR_FeatherdustJoint.description>Перья медвецыпа могут быть собраны и переработаны в мелкий порошок, который вызывает легкое эйфорическое ощущение при сжигании и вдыхании. Использование Пыльника может привести к зависимости.</GR_FeatherdustJoint.description>
+  <GR_FeatherdustJoint.ingestible.ingestCommandString>Курить {0}</GR_FeatherdustJoint.ingestible.ingestCommandString>
+  <GR_FeatherdustJoint.ingestible.ingestReportString>Курит {0}.</GR_FeatherdustJoint.ingestible.ingestReportString>
 
 
 </LanguageData>

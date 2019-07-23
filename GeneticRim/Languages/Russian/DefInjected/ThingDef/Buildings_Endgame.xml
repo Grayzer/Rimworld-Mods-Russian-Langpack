@@ -3,56 +3,56 @@
 
   <!-- Reactor - Platform -->
 
-  <GR_ArchotechPlatform.label>archotech construction platform</GR_ArchotechPlatform.label>
-  <GR_ArchotechPlatform.description>This construction platform houses the technology necessary to assemble an Archotech Centipede, a bio-mechanical creature powered by an Archotech AI under the control of your colonists.\n\nWhoever controls an Archotech Centipede controls the planet. Bear in mind however that activation of this project will attract A LOT of unwanted attention.</GR_ArchotechPlatform.description>
-  <GR_ArchotechPlatform_Blueprint.label>archotech construction platform (blueprint)</GR_ArchotechPlatform_Blueprint.label>
-  <GR_ArchotechPlatform_Frame.label>archotech construction platform (building)</GR_ArchotechPlatform_Frame.label>
-  <GR_ArchotechPlatform_Frame.description>This construction platform houses the technology necessary to assemble an Archotech Centipede, a bio-mechanical creature powered by an Archotech AI under the control of your colonists.\n\nWhoever controls an Archotech Centipede controls the planet. Bear in mind however that activation of this project will attract A LOT of unwanted attention.</GR_ArchotechPlatform_Frame.description>
+  <GR_ArchotechPlatform.label>строительная платформа архотек</GR_ArchotechPlatform.label>
+  <GR_ArchotechPlatform.description>На этой строительной платформе размещена технология, необходимая для сборки Многоножки Архотек, биомеханического существа, управляемого Архотек ИИ под контролем ваших колонистов.\n\nКто контролирует Многоножку Архотека - тот контролирует планету. Имейте в виду, однако, что активация этого проекта привлечет МНОГО нежелательного внимания.</GR_ArchotechPlatform.description>
+  <GR_ArchotechPlatform_Blueprint.label>строительная платформа архотек (чертеж)</GR_ArchotechPlatform_Blueprint.label>
+  <GR_ArchotechPlatform_Frame.label>строительная платформа архотек (стройка)</GR_ArchotechPlatform_Frame.label>
+  <GR_ArchotechPlatform_Frame.description>На этой строительной платформе размещена технология, необходимая для сборки Многоножки Архотек, биомеханического существа, управляемого Архотек ИИ под контролем ваших колонистов.\n\nКто контролирует Многоножку Архотека - тот контролирует планету. Имейте в виду, однако, что активация этого проекта привлечет МНОГО нежелательного внимания.</GR_ArchotechPlatform_Frame.description>
 
-  <GR_SpentArchotechPlatform.label>archotech construction platform</GR_SpentArchotechPlatform.label>
-  <GR_SpentArchotechPlatform.description>This construction platform has already been used.</GR_SpentArchotechPlatform.description>
+  <GR_SpentArchotechPlatform.label>строительная платформа архотек</GR_SpentArchotechPlatform.label>
+  <GR_SpentArchotechPlatform.description>Эта строительная платформа уже была использована.</GR_SpentArchotechPlatform.description>
 
 
   <!-- Beam - Refrigerated Coils -->
 
-  <GR_RefrigeratedCoils.label>refrigerated coils</GR_RefrigeratedCoils.label>
-  <GR_RefrigeratedCoils.description>Structural cryofuel coils to connect all the parts of the Archotech Project. At least one needs to be built to keep the sensitive components properly refrigerated.</GR_RefrigeratedCoils.description>
-  <GR_RefrigeratedCoils_Blueprint.label>refrigerated coils (blueprint)</GR_RefrigeratedCoils_Blueprint.label>
-  <GR_RefrigeratedCoils_Frame.label>refrigerated coils (building)</GR_RefrigeratedCoils_Frame.label>
-  <GR_RefrigeratedCoils_Frame.description>Structural cryofuel coils to connect all the parts of the Archotech Project. At least one needs to be built to keep the sensitive components properly refrigerated.</GR_RefrigeratedCoils_Frame.description>
+  <GR_RefrigeratedCoils.label>охлаждающие катушки</GR_RefrigeratedCoils.label>
+  <GR_RefrigeratedCoils.description>Структуры криотопливных катушек для соединения всех частей проекта Архотек. По крайней мере, одна должна быть построена, чтобы держать чувствительные компоненты должным образом охлажденными.</GR_RefrigeratedCoils.description>
+  <GR_RefrigeratedCoils_Blueprint.label>охлаждающие катушки (чертеж)</GR_RefrigeratedCoils_Blueprint.label>
+  <GR_RefrigeratedCoils_Frame.label>охлаждающие катушки (стройка)</GR_RefrigeratedCoils_Frame.label>
+  <GR_RefrigeratedCoils_Frame.description>Структуры криотопливных катушек для соединения всех частей проекта Архотек. По крайней мере, одна должна быть построена, чтобы держать чувствительные компоненты должным образом охлажденными.</GR_RefrigeratedCoils_Frame.description>
 
 
   <!-- Engine - Cryos -->
 
-  <GR_TurboChargedCryostabilizedEngine.label>turbocharged cryo-stabilized engine</GR_TurboChargedCryostabilizedEngine.label>
-  <GR_TurboChargedCryostabilizedEngine.description>This engine supplies the archotech platform with stabilized cryofuel to power the whole project.\n\nCryofuel is produced by Boomalope / Muffalo hybrids.</GR_TurboChargedCryostabilizedEngine.description>
-  <GR_TurboChargedCryostabilizedEngine_Blueprint.label>turbocharged cryo-stabilized engine (blueprint)</GR_TurboChargedCryostabilizedEngine_Blueprint.label>
-  <GR_TurboChargedCryostabilizedEngine_Frame.label>turbocharged cryo-stabilized engine (building)</GR_TurboChargedCryostabilizedEngine_Frame.label>
-  <GR_TurboChargedCryostabilizedEngine_Frame.description>This engine supplies the archotech platform with stabilized cryofuel to power the whole project.\n\nCryofuel is produced by Boomalope / Muffalo hybrids.</GR_TurboChargedCryostabilizedEngine_Frame.description>
+  <GR_TurboChargedCryostabilizedEngine.label>турбозарядный криостабилизированный двигатель</GR_TurboChargedCryostabilizedEngine.label>
+  <GR_TurboChargedCryostabilizedEngine.description>Этот двигатель снабжает платформу архотек стабилизированным криотопливом для обеспечения работы всего проекта.\n\nКриотопливо производится гибридом Бумалопа / Муффало.</GR_TurboChargedCryostabilizedEngine.description>
+  <GR_TurboChargedCryostabilizedEngine_Blueprint.label>турбозарядный криостабилизированный двигатель (чертеж)</GR_TurboChargedCryostabilizedEngine_Blueprint.label>
+  <GR_TurboChargedCryostabilizedEngine_Frame.label>турбозарядный криостабилизированный двигатель (стройка)</GR_TurboChargedCryostabilizedEngine_Frame.label>
+  <GR_TurboChargedCryostabilizedEngine_Frame.description>Этот двигатель снабжает платформу архотек стабилизированным криотопливом для обеспечения работы всего проекта.\n\nКриотопливо производится гибридом Бумалопа / Муффало.</GR_TurboChargedCryostabilizedEngine_Frame.description>
 
 
   <!-- Computer core - archotech database -->
 
-  <GR_ArchotechDatabase.label>master archotech database</GR_ArchotechDatabase.label>
-  <GR_ArchotechDatabase.description>This database stabilizes and subjugates the archotech AI, keeping it under control of the colonists. This technology is very advanced and has inherent risks, such as the archotech AI going rogue, killing everyone in the planet, and using their corpses as batteries to power a martial arts simulation. Or sending robots to the past.\n\nMechanoid interface chips, can be obtained from crashed mechanoid ships (both psychic and poison) or very expensively built in a Fabrication Table if you research Advanced Fabrication.</GR_ArchotechDatabase.description>
-  <GR_ArchotechDatabase_Blueprint.label>master archotech database (blueprint)</GR_ArchotechDatabase_Blueprint.label>
-  <GR_ArchotechDatabase_Frame.label>master archotech database (building)</GR_ArchotechDatabase_Frame.label>
-  <GR_ArchotechDatabase_Frame.description>This database stabilizes and subjugates the archotech AI, keeping it under control of the colonists. This technology is very advanced and has inherent risks, such as the archotech AI going rogue, killing everyone in the planet, and using their corpses as batteries to power a martial arts simulation. Or sending robots to the past.\n\nMechanoid interface chips, can be obtained from crashed mechanoid ships (both psychic and poison) or very expensively built in a Fabrication Table if you research Advanced Fabrication.</GR_ArchotechDatabase_Frame.description>
+  <GR_ArchotechDatabase.label>основная база данных архотек</GR_ArchotechDatabase.label>
+  <GR_ArchotechDatabase.description>Эта база данных стабилизирует и подчиняет архотек ИИ, держа его под контролем колонистов. Эта технология очень продвинута и сопряжена с рисками, такими как сбой искусственного интеллекта архотек, убийства всех людей на планете и использование их трупов в качестве батарей для тактических симуляции. Или отправка роботов в прошлое.\n\nЧипы интерфейса механоидов, могут быть получены с разбившихся кораблей Механоидов (как психических, так и ядовитых) или очень дорого построены, если вы исследуете Продвинутая фабрикация.</GR_ArchotechDatabase.description>
+  <GR_ArchotechDatabase_Blueprint.label>основная база данных архотек (чертеж)</GR_ArchotechDatabase_Blueprint.label>
+  <GR_ArchotechDatabase_Frame.label>основная база данных архотек (стройка)</GR_ArchotechDatabase_Frame.label>
+  <GR_ArchotechDatabase_Frame.description>Эта база данных стабилизирует и подчиняет архотек ИИ, держа его под контролем колонистов. Эта технология очень продвинута и сопряжена с рисками, такими как сбой искусственного интеллекта архотек, убийства всех людей на планете и использование их трупов в качестве батарей для тактических симуляции. Или отправка роботов в прошлое.\n\nЧипы интерфейса механоидов, могут быть получены с разбившихся кораблей Механоидов (как психических, так и ядовитых) или очень дорого построены, если вы исследуете Продвинутая фабрикация.</GR_ArchotechDatabase_Frame.description>
 
 
   <!-- Sensor Cluster - Genetic Repository -->
 
-  <GR_GeneticRepository.label>centralized genetic repository</GR_GeneticRepository.label>
-  <GR_GeneticRepository.description>The centralized genetic repository stores large amounts of genetic material from different species. The archotect construction platform will use these materials to re-sample the DNA and turn it into a custom tailored genetic structure to fill the organic parts of the archotech centipede.\n\nNote: this building will need 1 of each genetic material obtainable, and the project needs 5 repositories in total. Use the Recombinator extensively if, for example, muffalos do not appear in your map.</GR_GeneticRepository.description>
-  <GR_GeneticRepository_Blueprint.label>centralized genetic repository (blueprint)</GR_GeneticRepository_Blueprint.label>
-  <GR_GeneticRepository_Frame.label>centralized genetic repository (building)</GR_GeneticRepository_Frame.label>
-  <GR_GeneticRepository_Frame.description>The centralized genetic repository stores large amounts of genetic material from different species. The archotect construction platform will use these materials to re-sample the DNA and turn it into a custom tailored genetic structure to fill the organic parts of the archotech centipede.\n\nNote: this building will need 1 of each genetic material obtainable, and the project needs 5 repositories in total. Use the Recombinator extensively if, for example, muffalos do not appear in your map.</GR_GeneticRepository_Frame.description>
+  <GR_GeneticRepository.label>централизованное генетическое хранилище</GR_GeneticRepository.label>
+  <GR_GeneticRepository.description>Централизованное генетическое хранилище хранит большое количество генетического материала от разных видов. Строительная платформа archotect будет использовать эти материалы для повторной выборки ДНК и превращения ее в индивидуально подобранную генетическую структуру, чтобы заполнить органические части многоножки архотек.\n\nПримечание: для этого здания потребуется по 1 каждого доступного генетического материала, а проекту нужно всего 5 хранилищ. Используйте активно Рекомбинатор, если, например, муффало не появлялись на вашей карте.</GR_GeneticRepository.description>
+  <GR_GeneticRepository_Blueprint.label>централизованное генетическое хранилище (чертеж)</GR_GeneticRepository_Blueprint.label>
+  <GR_GeneticRepository_Frame.label>централизованное генетическое хранилище (стройка)</GR_GeneticRepository_Frame.label>
+  <GR_GeneticRepository_Frame.description>Централизованное генетическое хранилище хранит большое количество генетического материала от разных видов. Строительная платформа archotect будет использовать эти материалы для повторной выборки ДНК и превращения ее в индивидуально подобранную генетическую структуру, чтобы заполнить органические части многоножки архотек.\n\nПримечание: для этого здания потребуется по 1 каждого доступного генетического материала, а проекту нужно всего 5 хранилищ. Используйте активно Рекомбинатор, если, например, муффало не появлялись на вашей карте.</GR_GeneticRepository_Frame.description>
 
-  <GR_MechanoidTinkeringTable.label>mechanoid tinkering table</GR_MechanoidTinkeringTable.label>
-  <GR_MechanoidTinkeringTable.description>A workbench equipped with advanced tools to dissasemble mechanoids and use the acquired knowledge to create the Archotech Centipede.\n\nNote: bear in mind that this building is not a real workbench!</GR_MechanoidTinkeringTable.description>
-  <GR_MechanoidTinkeringTable_Blueprint.label>mechanoid tinkering table (blueprint)</GR_MechanoidTinkeringTable_Blueprint.label>
-  <GR_MechanoidTinkeringTable_Frame.label>mechanoid tinkering table (building)</GR_MechanoidTinkeringTable_Frame.label>
-  <GR_MechanoidTinkeringTable_Frame.description>A workbench equipped with advanced tools to dissasemble mechanoids and use the acquired knowledge to create the Archotech Centipede.\n\nNote: bear in mind that this building is not a real workbench!</GR_MechanoidTinkeringTable_Frame.description>
+  <GR_MechanoidTinkeringTable.label>паяльная станция механоидов</GR_MechanoidTinkeringTable.label>
+  <GR_MechanoidTinkeringTable.description>Верстак, оснащенный передовыми инструментами для разборки механоидов и использования полученных знаний для создания Многоножки Архотек.\n\nПримечание: имейте в виду, что это здание не настоящий верстак!</GR_MechanoidTinkeringTable.description>
+  <GR_MechanoidTinkeringTable_Blueprint.label>паяльная станция механоидов (чертеж)</GR_MechanoidTinkeringTable_Blueprint.label>
+  <GR_MechanoidTinkeringTable_Frame.label>паяльная станция механоидов (стройка)</GR_MechanoidTinkeringTable_Frame.label>
+  <GR_MechanoidTinkeringTable_Frame.description>Верстак, оснащенный передовыми инструментами для разборки механоидов и использования полученных знаний для создания Многоножки Архотек.\n\nПримечание: имейте в виду, что это здание не настоящий верстак!</GR_MechanoidTinkeringTable_Frame.description>
 
 
 </LanguageData>

@@ -2,10 +2,10 @@
 <LanguageData>
 
   <GR_CryostabilizedEngine.label>криостабилизированный генератор</GR_CryostabilizedEngine.label>
-  <GR_CryostabilizedEngine.description>The cryo-stabilized generator is a chemfuel generator that has been modified to accept cryogenically refrigerated fuel. Produces power by consuming cryofuel and must be fueled by hand.</GR_CryostabilizedEngine.description>
-  <GR_CryostabilizedEngine_Blueprint.label>cryo-stabilized generator (blueprint)</GR_CryostabilizedEngine_Blueprint.label>
-  <GR_CryostabilizedEngine_Frame.label>cryo-stabilized generator (building)</GR_CryostabilizedEngine_Frame.label>
-  <GR_CryostabilizedEngine_Frame.description>The cryo-stabilized generator is a chemfuel generator that has been modified to accept cryogenically refrigerated fuel. Produces power by consuming cryofuel and must be fueled by hand.</GR_CryostabilizedEngine_Frame.description>
+  <GR_CryostabilizedEngine.description>Криостабилизированный генератор представляет собой генератор химического топлива, который был модифицирован для приема криогенно охлажденного топлива. Производит электроэнергию, потребляя криотопливо, и должен заправляться вручную.</GR_CryostabilizedEngine.description>
+  <GR_CryostabilizedEngine_Blueprint.label>криостабилизированный генератор (чертеж)</GR_CryostabilizedEngine_Blueprint.label>
+  <GR_CryostabilizedEngine_Frame.label>криостабилизированный генератор (стройка)</GR_CryostabilizedEngine_Frame.label>
+  <GR_CryostabilizedEngine_Frame.description>Криостабилизированный генератор представляет собой генератор химического топлива, который был модифицирован для приема криогенно охлажденного топлива. Производит электроэнергию, потребляя криотопливо, и должен заправляться вручную.</GR_CryostabilizedEngine_Frame.description>
 
 
 </LanguageData>

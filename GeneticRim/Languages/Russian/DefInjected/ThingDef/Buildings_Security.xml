@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_NitroMilkTrap.label>IED nitromilk trap</GR_NitroMilkTrap.label>
-  <GR_NitroMilkTrap.description>A bucket of Muffalope milk connected to a homemade battery and electrodes. When the trigger is disturbed, an electrical current excites the unstable milk, and the device explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</GR_NitroMilkTrap.description>
-  <GR_NitroMilkTrap_Blueprint.label>IED nitromilk trap (blueprint)</GR_NitroMilkTrap_Blueprint.label>
-  <GR_NitroMilkTrap_Frame.label>IED nitromilk trap (building)</GR_NitroMilkTrap_Frame.label>
-  <GR_NitroMilkTrap_Frame.description>A bucket of Muffalope milk connected to a homemade battery and electrodes. When the trigger is disturbed, an electrical current excites the unstable milk, and the device explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</GR_NitroMilkTrap_Frame.description>
+  <GR_NitroMilkTrap.label>ИЭУ нитромолчная ловушка</GR_NitroMilkTrap.label>
+  <GR_NitroMilkTrap.description>Ведро с муфалоповым молоком, соединенное с самодельной батареей и электродами. При срабатывании триггера электрический ток возбуждает нестабильное молоко, и устройство взрывается. Импровизированный триггер имеет случайную задержку, которая может позволить ловкому врагу убежать.</GR_NitroMilkTrap.description>
+  <GR_NitroMilkTrap_Blueprint.label>ИЭУ нитромолчная ловушка (чертеж)</GR_NitroMilkTrap_Blueprint.label>
+  <GR_NitroMilkTrap_Frame.label>ИЭУ нитромолчная ловушка (стройка)</GR_NitroMilkTrap_Frame.label>
+  <GR_NitroMilkTrap_Frame.description>Ведро с муфалоповым молоком, соединенное с самодельной батареей и электродами. При срабатывании триггера электрический ток возбуждает нестабильное молоко, и устройство взрывается. Импровизированный триггер имеет случайную задержку, которая может позволить ловкому врагу убежать.</GR_NitroMilkTrap_Frame.description>
 
 
 </LanguageData>

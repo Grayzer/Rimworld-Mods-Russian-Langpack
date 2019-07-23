@@ -2,9 +2,9 @@
 <LanguageData>
 
   <GR_AgePills.label>пилюли растишки</GR_AgePills.label>
-  <GR_AgePills.description>These capsules are filled with a mixture of chemicals and nanomachines, able to modify an organism's age by carefully manipulating its DNA. Every pill taken increases age by 1 year. Useful for animals to make them mature quickly.\n\nOnce consumed, the animal will be extremely dizzy for at least a day, and additional pills administered during that period won't be effective.\n\nOh, your colonists can also consume them...</GR_AgePills.description>
-  <GR_AgePills.ingestible.ingestCommandString>Take {0}</GR_AgePills.ingestible.ingestCommandString>
-  <GR_AgePills.ingestible.ingestReportString>Taking {0}.</GR_AgePills.ingestible.ingestReportString>
+  <GR_AgePills.description>Эти капсулы заполнены смесью химических веществ и наномашин, способных изменять возраст организма, аккуратно манипулируя его ДНК. Каждая принятая таблетка увеличивает возраст на 1 год. Полезно для животных, чтобы они быстро созрели.\n\nПосле употребления животное будет испытывать головокружение в течение как минимум одного дня, и дополнительные таблетки, принимаемые в течение этого периода, не будут эффективными.\n\nО, ваши колонисты тоже могут их потреблять...</GR_AgePills.description>
+  <GR_AgePills.ingestible.ingestCommandString>Взять {0}</GR_AgePills.ingestible.ingestCommandString>
+  <GR_AgePills.ingestible.ingestReportString>Берет {0}.</GR_AgePills.ingestible.ingestReportString>
 
 
 </LanguageData>
