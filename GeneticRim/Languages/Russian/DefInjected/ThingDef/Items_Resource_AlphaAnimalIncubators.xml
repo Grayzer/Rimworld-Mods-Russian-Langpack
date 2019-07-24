@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_AlphaBearIncubator.label>paragon bear incubator</GR_AlphaBearIncubator.label>
-  <GR_AlphaBearIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon grizzly bear</GR_AlphaBearIncubator.description>
+  <GR_AlphaBearIncubator.label>инкубатор образцового медведя</GR_AlphaBearIncubator.label>
+  <GR_AlphaBearIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцового медведя гризли</GR_AlphaBearIncubator.description>
 
-  <GR_AlphaBoarIncubator.label>paragon wild boar incubator</GR_AlphaBoarIncubator.label>
-  <GR_AlphaBoarIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon wild boar</GR_AlphaBoarIncubator.description>
+  <GR_AlphaBoarIncubator.label>инкубатор образцового кабана</GR_AlphaBoarIncubator.label>
+  <GR_AlphaBoarIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцового кабана</GR_AlphaBoarIncubator.description>
 
-  <GR_AlphaBoomalopeIncubator.label>paragon boomalope incubator</GR_AlphaBoomalopeIncubator.label>
-  <GR_AlphaBoomalopeIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon boomalope</GR_AlphaBoomalopeIncubator.description>
+  <GR_AlphaBoomalopeIncubator.label>инкубатор образцовой бумалопы</GR_AlphaBoomalopeIncubator.label>
+  <GR_AlphaBoomalopeIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцовую бумалопу</GR_AlphaBoomalopeIncubator.description>
 
-  <GR_AlphaChickenIncubator.label>paragon chicken incubator</GR_AlphaChickenIncubator.label>
-  <GR_AlphaChickenIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon chicken</GR_AlphaChickenIncubator.description>
+  <GR_AlphaChickenIncubator.label>инкубатор образцовой курицы</GR_AlphaChickenIncubator.label>
+  <GR_AlphaChickenIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцовую курицу</GR_AlphaChickenIncubator.description>
 
-  <GR_AlphaEmuIncubator.label>paragon emu incubator</GR_AlphaEmuIncubator.label>
-  <GR_AlphaEmuIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon emu</GR_AlphaEmuIncubator.description>
+  <GR_AlphaEmuIncubator.label>инкубатор образцового эму</GR_AlphaEmuIncubator.label>
+  <GR_AlphaEmuIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцового эму</GR_AlphaEmuIncubator.description>
 
-  <GR_AlphaMuffaloIncubator.label>paragon muffalo incubator</GR_AlphaMuffaloIncubator.label>
-  <GR_AlphaMuffaloIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon muffalo</GR_AlphaMuffaloIncubator.description>
+  <GR_AlphaMuffaloIncubator.label>инкубатор образцового муффало</GR_AlphaMuffaloIncubator.label>
+  <GR_AlphaMuffaloIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцового муффало</GR_AlphaMuffaloIncubator.description>
 
-  <GR_AlphaOstrichIncubator.label>paragon ostrich incubator</GR_AlphaOstrichIncubator.label>
-  <GR_AlphaOstrichIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon ostrich</GR_AlphaOstrichIncubator.description>
+  <GR_AlphaOstrichIncubator.label>инкубатор образцового страуса</GR_AlphaOstrichIncubator.label>
+  <GR_AlphaOstrichIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцового страуса</GR_AlphaOstrichIncubator.description>
 
-  <GR_AlphaRhinoIncubator.label>paragon rhino incubator</GR_AlphaRhinoIncubator.label>
-  <GR_AlphaRhinoIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon rhino</GR_AlphaRhinoIncubator.description>
+  <GR_AlphaRhinoIncubator.label>инкубатор образцового носорога</GR_AlphaRhinoIncubator.label>
+  <GR_AlphaRhinoIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцового носорога</GR_AlphaRhinoIncubator.description>
 
-  <GR_AlphaWolfIncubator.label>paragon wolf incubator</GR_AlphaWolfIncubator.label>
-  <GR_AlphaWolfIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon timber wolf</GR_AlphaWolfIncubator.description>
+  <GR_AlphaWolfIncubator.label>инкубатор образцового волка</GR_AlphaWolfIncubator.label>
+  <GR_AlphaWolfIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцового лесного волка</GR_AlphaWolfIncubator.description>
 
-  <GR_AlphaHareIncubator.label>paragon hare incubator</GR_AlphaHareIncubator.label>
-  <GR_AlphaHareIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon hare</GR_AlphaHareIncubator.description>
+  <GR_AlphaHareIncubator.label>инкубатор образцового зайца</GR_AlphaHareIncubator.label>
+  <GR_AlphaHareIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцового зайца</GR_AlphaHareIncubator.description>
 
-  <GR_AlphaIguanaIncubator.label>paragon iguana incubator</GR_AlphaIguanaIncubator.label>
-  <GR_AlphaIguanaIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon iguana</GR_AlphaIguanaIncubator.description>
+  <GR_AlphaIguanaIncubator.label>инкубатор образцовой игуаны</GR_AlphaIguanaIncubator.label>
+  <GR_AlphaIguanaIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцовую игуану</GR_AlphaIguanaIncubator.description>
 
-  <GR_AlphaPigIncubator.label>paragon pig incubator</GR_AlphaPigIncubator.label>
-  <GR_AlphaPigIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon pig</GR_AlphaPigIncubator.description>
+  <GR_AlphaPigIncubator.label>инкубатор образцовой свиньи</GR_AlphaPigIncubator.label>
+  <GR_AlphaPigIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцовую свинью</GR_AlphaPigIncubator.description>
 
-  <GR_AlphaRatIncubator.label>paragon rat incubator</GR_AlphaRatIncubator.label>
-  <GR_AlphaRatIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon rat</GR_AlphaRatIncubator.description>
+  <GR_AlphaRatIncubator.label>инкубатор образцовой крысы</GR_AlphaRatIncubator.label>
+  <GR_AlphaRatIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцовую крысу</GR_AlphaRatIncubator.description>
 
-  <GR_AlphaTortoiseIncubator.label>paragon tortoise incubator</GR_AlphaTortoiseIncubator.label>
-  <GR_AlphaTortoiseIncubator.description>This incubator has to be kept at a temperature between 0 and 50 degrees Celsius until the genetically modified organism is ready to hatch. The embryo will develop into a paragon tortoise</GR_AlphaTortoiseIncubator.description>
+  <GR_AlphaTortoiseIncubator.label>инкубатор образцовой черепахи</GR_AlphaTortoiseIncubator.label>
+  <GR_AlphaTortoiseIncubator.description>Этот инкубатор должен поддерживаться при температуре от 0 до 50 градусов Цельсия, пока генетически модифицированный организм не будет готов к выводу. Эмбрион превратится в образцовую черепаху</GR_AlphaTortoiseIncubator.description>
 
 
 </LanguageData>

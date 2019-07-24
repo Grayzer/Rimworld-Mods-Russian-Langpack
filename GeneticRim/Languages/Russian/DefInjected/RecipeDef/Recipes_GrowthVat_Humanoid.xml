@@ -60,7 +60,7 @@
   <GR_CraftNeuronReinforcement.jobString>Делает нейронное усиление</GR_CraftNeuronReinforcement.jobString>
 
   <GR_CraftMousePheromones.label>Человеческий имплант: мышиные феромоны</GR_CraftMousePheromones.label>
-  <GR_CraftMousePheromones.description>Создает мышиные феромоны, бионический назальный орган, который позволяет субъекту феромональное общение с другими животными, увеличивая вероятность приручения и обучения их успешно.</GR_CraftMousePheromones.description>
+  <GR_CraftMousePheromones.description>Создает мышиные феромоны, бионический назальный орган, который позволяет субъекту феромональное общение с другими животными, увеличивая вероятность приручения и успешного их обучения.</GR_CraftMousePheromones.description>
   <GR_CraftMousePheromones.jobString>Делает мышиные феромоны</GR_CraftMousePheromones.jobString>
 
   <GR_CraftMoleratNerveDampener.label>Человеческий имплант: крото-крысовый нерводемфпер</GR_CraftMoleratNerveDampener.label>
