@@ -3,80 +3,80 @@
 
   <!-- Bear - Boomalope -->
 
-  <GR_Bearalope.label>bearalope</GR_Bearalope.label>
-  <GR_Bearalope.description>A bear / boomalope hybrid. Not as strong in melee as a pure bear, but its unstable chemical reservoirs explode with great force when it dies. Unfortunately, the extreme virulence of these chemicals is harmful to the creature, and they have very short, miserable lifespans.\n\nUseful abilities: Big explosion produced on hybrid's death. Decent chemfuel production.</GR_Bearalope.description>
-  <GR_Bearalope.tools.0.label>left claw</GR_Bearalope.tools.0.label>
-  <GR_Bearalope.tools.1.label>right claw</GR_Bearalope.tools.1.label>
-  <GR_Bearalope.tools.3.label>head</GR_Bearalope.tools.3.label>
+  <GR_Bearalope.label>медвелопа</GR_Bearalope.label>
+  <GR_Bearalope.description>Это гибрид медведя и бумалопы. Не такой сильный в ближнем бою, как чистый медведь, но его нестабильные химические резервуары взрываются с большой силой, когда он умирает. К сожалению, чрезвычайная вирулентность этих химических веществ вредна для существа, и у них очень короткая, жалкая продолжительность жизни.\n\nПолезные способности: Большой взрыв, производимый после смерти гибрида. Приличное производство химического топлива.</GR_Bearalope.description>
+  <GR_Bearalope.tools.0.label>левый коготь</GR_Bearalope.tools.0.label>
+  <GR_Bearalope.tools.1.label>правый коготь</GR_Bearalope.tools.1.label>
+  <GR_Bearalope.tools.3.label>голова</GR_Bearalope.tools.3.label>
   <!-- Use Leather From: Bear_Grizzly -->
   <!-- Use Meat From: Bear_Grizzly -->
-  <GR_Bearalope_Corpse.label>bearalope corpse</GR_Bearalope_Corpse.label>
-  <GR_Bearalope_Corpse.description>bearalope corpse</GR_Bearalope_Corpse.description>
+  <GR_Bearalope_Corpse.label>труп медвелопы</GR_Bearalope_Corpse.label>
+  <GR_Bearalope_Corpse.description>труп медвелопы</GR_Bearalope_Corpse.description>
 
 
   <!-- Bear - Chicken -->
 
-  <GR_Bearchicken.label>bearchicken</GR_Bearchicken.label>
-  <GR_Bearchicken.description>A bear / chicken hybrid. Nicknamed "owlbear" by the colonists. Much weaker in melee than a bear, but it lays eggs, and can obviously defend itself in combat much better than a chicken.\n\nUseful abilities: Lays eggs and regularly produces feathers, which can be converted into Featherdust joints.</GR_Bearchicken.description>
-  <GR_Bearchicken.tools.0.label>left claw</GR_Bearchicken.tools.0.label>
-  <GR_Bearchicken.tools.1.label>right claw</GR_Bearchicken.tools.1.label>
-  <GR_Bearchicken.tools.3.label>head</GR_Bearchicken.tools.3.label>
+  <GR_Bearchicken.label>медвекура</GR_Bearchicken.label>
+  <GR_Bearchicken.description>Это гибрид медведя и курицы. Колонисты прозвали его совомедведем. Гораздо слабее в ближнем бою, чем медведь, но он откладывает яйца и, очевидно, может защитить себя в бою намного лучше, чем курица.\n\nПолезные способности: Откладывает яйца и регулярно производит перья, которые могут быть переработаны в Пыльник.</GR_Bearchicken.description>
+  <GR_Bearchicken.tools.0.label>левый коготь</GR_Bearchicken.tools.0.label>
+  <GR_Bearchicken.tools.1.label>правый коготь</GR_Bearchicken.tools.1.label>
+  <GR_Bearchicken.tools.3.label>голова</GR_Bearchicken.tools.3.label>
   <!-- Use Leather From: Bear_Grizzly -->
   <!-- Use Meat From: Bear_Grizzly -->
-  <GR_Bearchicken_Corpse.label>bearchicken corpse</GR_Bearchicken_Corpse.label>
-  <GR_Bearchicken_Corpse.description>bearchicken corpse</GR_Bearchicken_Corpse.description>
+  <GR_Bearchicken_Corpse.label>труп медвекуры</GR_Bearchicken_Corpse.label>
+  <GR_Bearchicken_Corpse.description>труп медвекуры</GR_Bearchicken_Corpse.description>
 
 
   <!-- Bear - Muffalo -->
 
-  <GR_Bearffalo.label>bearffalo</GR_Bearffalo.label>
-  <GR_Bearffalo.description>A bear / muffalo hybrid. This hulking, wooly bear is a very temperamental pack animal, valued for its hardiness.\n\nUseful abilities: Produces specific high-quality milk and wool. Acts as a pack beast.</GR_Bearffalo.description>
-  <GR_Bearffalo.tools.0.label>left claw</GR_Bearffalo.tools.0.label>
-  <GR_Bearffalo.tools.1.label>right claw</GR_Bearffalo.tools.1.label>
-  <GR_Bearffalo.tools.3.label>head</GR_Bearffalo.tools.3.label>
+  <GR_Bearffalo.label>медвеффало</GR_Bearffalo.label>
+  <GR_Bearffalo.description>Это гибрид медведя и муффало. Этот неуклюжий шерстистый медведь - очень темпераментное вьючное животное, которое ценится за свою выносливость.\n\nПолезные способности: Производит высококачественные молоко и шерсть. Действует как стая зверя.</GR_Bearffalo.description>
+  <GR_Bearffalo.tools.0.label>левый коготь</GR_Bearffalo.tools.0.label>
+  <GR_Bearffalo.tools.1.label>правый коготь</GR_Bearffalo.tools.1.label>
+  <GR_Bearffalo.tools.3.label>голова</GR_Bearffalo.tools.3.label>
   <!-- Use Leather From: Bear_Grizzly -->
   <!-- Use Meat From: Bear_Grizzly -->
-  <GR_Bearffalo_Corpse.label>bearffalo corpse</GR_Bearffalo_Corpse.label>
-  <GR_Bearffalo_Corpse.description>bearffalo corpse</GR_Bearffalo_Corpse.description>
+  <GR_Bearffalo_Corpse.label>труп медвеффало</GR_Bearffalo_Corpse.label>
+  <GR_Bearffalo_Corpse.description>труп медвеффало</GR_Bearffalo_Corpse.description>
 
 
   <!-- Bear - Wolf -->
 
-  <GR_Bearwolf.label>bearwolf</GR_Bearwolf.label>
-  <GR_Bearwolf.description>A bear / wolf hybrid. Strong like a bear, and fast like a wolf. Excellent as a rapid strike force, but their fast metabolism means they need a lot of food.\n\nUseful abilities: Good guard animal. Butchering gives Bearwolf Fangs, which can be sold.</GR_Bearwolf.description>
-  <GR_Bearwolf.tools.0.label>left claw</GR_Bearwolf.tools.0.label>
-  <GR_Bearwolf.tools.1.label>right claw</GR_Bearwolf.tools.1.label>
-  <GR_Bearwolf.tools.3.label>head</GR_Bearwolf.tools.3.label>
+  <GR_Bearwolf.label>медвеволк</GR_Bearwolf.label>
+  <GR_Bearwolf.description>Это гибрид медведя и волка. Сильный, как медведь, и быстрый, как волк. Отлично для быстрого удара, но их быстрый обмен веществ означает, что им нужно много еды.\n\nПолезные навыки: Хороший охранник животных. Разделка дает клыки медвеволка, которые могут быть проданы.</GR_Bearwolf.description>
+  <GR_Bearwolf.tools.0.label>левый коготь</GR_Bearwolf.tools.0.label>
+  <GR_Bearwolf.tools.1.label>правый коготь</GR_Bearwolf.tools.1.label>
+  <GR_Bearwolf.tools.3.label>голова</GR_Bearwolf.tools.3.label>
   <!-- Use Leather From: Bear_Grizzly -->
   <!-- Use Meat From: Bear_Grizzly -->
-  <GR_Bearwolf_Corpse.label>bearwolf corpse</GR_Bearwolf_Corpse.label>
-  <GR_Bearwolf_Corpse.description>bearwolf corpse</GR_Bearwolf_Corpse.description>
+  <GR_Bearwolf_Corpse.label>труп медвеволка</GR_Bearwolf_Corpse.label>
+  <GR_Bearwolf_Corpse.description>труп медвеволка</GR_Bearwolf_Corpse.description>
 
 
   <!-- Bear - Rodent -->
 
-  <GR_Bearmole.label>bearmole</GR_Bearmole.label>
-  <GR_Bearmole.description>A Bear / Mole hybrid. This blind animal has a very acute sense of vibrations, alllowing it to detect its prey even better than a sighted animal.\n\nUseful abilities: Good guard animal. Very fast breeding.</GR_Bearmole.description>
-  <GR_Bearmole.tools.0.label>left claw</GR_Bearmole.tools.0.label>
-  <GR_Bearmole.tools.1.label>right claw</GR_Bearmole.tools.1.label>
-  <GR_Bearmole.tools.3.label>head</GR_Bearmole.tools.3.label>
+  <GR_Bearmole.label>медвекрот</GR_Bearmole.label>
+  <GR_Bearmole.description>Это гибрид медведя и крота. У этого слепого животного очень острое чувство вибрации, что позволяет ему обнаружить свою жертву даже лучше, чем зрячее животное.\n\nПолезные навыки: Хороший охранник животных. Очень быстрое размножение.</GR_Bearmole.description>
+  <GR_Bearmole.tools.0.label>левый коготь</GR_Bearmole.tools.0.label>
+  <GR_Bearmole.tools.1.label>правый коготь</GR_Bearmole.tools.1.label>
+  <GR_Bearmole.tools.3.label>голова</GR_Bearmole.tools.3.label>
   <!-- Use Leather From: Alphabeaver -->
   <!-- Use Meat From: Alphabeaver -->
-  <GR_Bearmole_Corpse.label>bearmole corpse</GR_Bearmole_Corpse.label>
-  <GR_Bearmole_Corpse.description>bearmole corpse</GR_Bearmole_Corpse.description>
+  <GR_Bearmole_Corpse.label>труп медвекрота</GR_Bearmole_Corpse.label>
+  <GR_Bearmole_Corpse.description>труп медвекрота</GR_Bearmole_Corpse.description>
 
 
   <!-- Bear - Cat -->
 
-  <GR_Bearcat.label>bearcat</GR_Bearcat.label>
-  <GR_Bearcat.description>A Bear / Cat hybrid. This hybrid is like a beefed up cougar. A solitary hunter that stalks its prey and attacks it with blinding speed.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. The Bearcat can also be slaughtered for its valuable pelt.</GR_Bearcat.description>
-  <GR_Bearcat.tools.0.label>left claw</GR_Bearcat.tools.0.label>
-  <GR_Bearcat.tools.1.label>right claw</GR_Bearcat.tools.1.label>
-  <GR_Bearcat.tools.3.label>head</GR_Bearcat.tools.3.label>
+  <GR_Bearcat.label>медвекот</GR_Bearcat.label>
+  <GR_Bearcat.description>Это гибрид медведя и кота. Этот гибрид походит на усиленную пуму. Одинокий охотник, который преследует свою жертву и атакует ее с ослепительной скоростью.\n\nПолезные способности: Как и все гибриды кошек, они обладают улучшенной способностью к уклонению в ближнем бою, что делает их идеальными для передовой линии и коротким периодом обнюхивания. Медвекот также может быть убит из-за его ценной шкуры.</GR_Bearcat.description>
+  <GR_Bearcat.tools.0.label>левый коготь</GR_Bearcat.tools.0.label>
+  <GR_Bearcat.tools.1.label>правый коготь</GR_Bearcat.tools.1.label>
+  <GR_Bearcat.tools.3.label>голова</GR_Bearcat.tools.3.label>
   <!-- Use Leather From: Cougar -->
   <!-- Use Meat From: Bear_Grizzly -->
-  <GR_Bearcat_Corpse.label>bearcat corpse</GR_Bearcat_Corpse.label>
-  <GR_Bearcat_Corpse.description>bearcat corpse</GR_Bearcat_Corpse.description>
+  <GR_Bearcat_Corpse.label>труп медвекота</GR_Bearcat_Corpse.label>
+  <GR_Bearcat_Corpse.description>труп медвекота</GR_Bearcat_Corpse.description>
 
 
 </LanguageData>

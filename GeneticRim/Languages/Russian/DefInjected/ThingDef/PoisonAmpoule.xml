@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_PoisonAmpoule.label>poison ampoule</GR_PoisonAmpoule.label>
-  <GR_PoisonAmpoule.description>This tiny vial is filled with a concentrated solution of Muffalokomodo saliva, which acts as a powerful neuromuscular-blocking drug. This effectively paralyses anyone foolish enough to drink it, though it is not lethal. Useful for prisoner control.</GR_PoisonAmpoule.description>
-  <GR_PoisonAmpoule.ingestible.ingestCommandString>Take {0}</GR_PoisonAmpoule.ingestible.ingestCommandString>
-  <GR_PoisonAmpoule.ingestible.ingestReportString>Taking {0}.</GR_PoisonAmpoule.ingestible.ingestReportString>
+  <GR_PoisonAmpoule.label>ядовитая ампула</GR_PoisonAmpoule.label>
+  <GR_PoisonAmpoule.description>Этот крошечный флакон заполнен концентрированным раствором слюны Муффалоящера, который действует как мощный нервно-мышечный блокирующий препарат. Это эффективно парализует любого достаточно глупого, чтобы выпить это, хотя это не смертельно. Полезно для контроля заключенных.</GR_PoisonAmpoule.description>
+  <GR_PoisonAmpoule.ingestible.ingestCommandString>Взять {0}</GR_PoisonAmpoule.ingestible.ingestCommandString>
+  <GR_PoisonAmpoule.ingestible.ingestReportString>Берет {0}.</GR_PoisonAmpoule.ingestible.ingestReportString>
 
 
 </LanguageData>

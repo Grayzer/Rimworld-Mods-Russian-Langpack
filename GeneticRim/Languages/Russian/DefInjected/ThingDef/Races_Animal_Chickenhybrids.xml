@@ -3,74 +3,74 @@
 
   <!-- Chicken - Bear -->
 
-  <GR_Chickenbear.label>chickenbear</GR_Chickenbear.label>
-  <GR_Chickenbear.description>A chicken / bear hybrid. Lays eggs, and can defend itself in combat slightly better than a chicken. \n\nUseful abilities: Their sharp, small teeth can be harvested when butchering them, and they are slightly valuable and lightweight.</GR_Chickenbear.description>
-  <GR_Chickenbear.tools.0.label>claws</GR_Chickenbear.tools.0.label>
-  <GR_Chickenbear.tools.2.label>head</GR_Chickenbear.tools.2.label>
+  <GR_Chickenbear.label>куромедведь</GR_Chickenbear.label>
+  <GR_Chickenbear.description>Это гибрид курицы и медведя. Откладывает яйца и может защищаться в бою чуть лучше, чем курица. \n\nПолезные способности: их острые маленькие зубы могут быть собраны при их разделке, и они немного ценны и легки.</GR_Chickenbear.description>
+  <GR_Chickenbear.tools.0.label>когти</GR_Chickenbear.tools.0.label>
+  <GR_Chickenbear.tools.2.label>голова</GR_Chickenbear.tools.2.label>
   <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Chicken -->
-  <GR_Chickenbear_Corpse.label>chickenbear corpse</GR_Chickenbear_Corpse.label>
-  <GR_Chickenbear_Corpse.description>chickenbear corpse</GR_Chickenbear_Corpse.description>
+  <GR_Chickenbear_Corpse.label>труп куромедведя</GR_Chickenbear_Corpse.label>
+  <GR_Chickenbear_Corpse.description>труп куромедведя</GR_Chickenbear_Corpse.description>
 
 
   <!-- Chicken - Boomalope -->
 
-  <GR_Chickenlope.label>chickenlope</GR_Chickenlope.label>
-  <GR_Chickenlope.description>A chicken / boomalope hybrid. This sickly looking creature is basically useless. Now, if you gather a lot of them, and kill them in a chain reaction... \n\nUseful abilities: Explodes on death. Produces minute amounts of chemfuel every day.</GR_Chickenlope.description>
-  <GR_Chickenlope.tools.0.label>claws</GR_Chickenlope.tools.0.label>
-  <GR_Chickenlope.tools.2.label>head</GR_Chickenlope.tools.2.label>
+  <GR_Chickenlope.label>куролопа</GR_Chickenlope.label>
+  <GR_Chickenlope.description>Это гибрид курицы и бумалопы. Это болезненно выглядящее существо в основном бесполезно. Теперь, если вы соберете их много и убьете - будет ЦЫПная реакция... \n\nПолезные способности: взрывается при смерти. Производит незначительное количество химического топлива каждый день.</GR_Chickenlope.description>
+  <GR_Chickenlope.tools.0.label>когти</GR_Chickenlope.tools.0.label>
+  <GR_Chickenlope.tools.2.label>голова</GR_Chickenlope.tools.2.label>
   <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Chicken -->
-  <GR_Chickenlope_Corpse.label>chickenlope corpse</GR_Chickenlope_Corpse.label>
-  <GR_Chickenlope_Corpse.description>chickenlope corpse</GR_Chickenlope_Corpse.description>
+  <GR_Chickenlope_Corpse.label>труп куролопы</GR_Chickenlope_Corpse.label>
+  <GR_Chickenlope_Corpse.description>труп куролопы</GR_Chickenlope_Corpse.description>
 
 
   <!-- Chicken - Muffalo -->
 
-  <GR_Chickenffalo.label>chickenffalo</GR_Chickenffalo.label>
-  <GR_Chickenffalo.description>A chicken / muffalo hybrid. Lays eggs, produces milk, wool and can be used as a pack beast. Of course, it doesn't excel at ANY of those things, but it's the price you pay for convenience. They are so cute, though, wearing their tiny bags...</GR_Chickenffalo.description>
-  <GR_Chickenffalo.tools.0.label>claws</GR_Chickenffalo.tools.0.label>
-  <GR_Chickenffalo.tools.1.label>head</GR_Chickenffalo.tools.1.label>
+  <GR_Chickenffalo.label>куроффало</GR_Chickenffalo.label>
+  <GR_Chickenffalo.description>Это гибрид курицы и муффало. Откладывает яйца, вырабатывает молоко, шерсть и может использоваться как стая зверя. Конечно, он не превосходит ЛЮБЫЕ из этих вещей, но это цена, которую вы платите за удобство. Они такие милые, носят свои крошечные сумки...</GR_Chickenffalo.description>
+  <GR_Chickenffalo.tools.0.label>когти</GR_Chickenffalo.tools.0.label>
+  <GR_Chickenffalo.tools.1.label>голова</GR_Chickenffalo.tools.1.label>
   <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Chicken -->
-  <GR_Chickenffalo_Corpse.label>chickenffalo corpse</GR_Chickenffalo_Corpse.label>
-  <GR_Chickenffalo_Corpse.description>chickenffalo corpse</GR_Chickenffalo_Corpse.description>
+  <GR_Chickenffalo_Corpse.label>труп куроффало</GR_Chickenffalo_Corpse.label>
+  <GR_Chickenffalo_Corpse.description>труп куроффало</GR_Chickenffalo_Corpse.description>
 
 
   <!-- Chicken - Wolf -->
 
-  <GR_Chickenwolf.label>chickenwolf</GR_Chickenwolf.label>
-  <GR_Chickenwolf.description>A chicken / wolf hybrid. Fast moving, and with a nasty bite! \n\nUseful abilities: Their sharp, small teeth can be harvested when butchering them, and they are slightly valuable and lightweight.</GR_Chickenwolf.description>
-  <GR_Chickenwolf.tools.0.label>claws</GR_Chickenwolf.tools.0.label>
-  <GR_Chickenwolf.tools.2.label>head</GR_Chickenwolf.tools.2.label>
+  <GR_Chickenwolf.label>куроволк</GR_Chickenwolf.label>
+  <GR_Chickenwolf.description>Это гибрид курицы и волка. Быстро движется и с неприятным укусом! \n\nПолезные способности: их острые маленькие зубы могут быть собраны при их разделке, и они немного ценны и легки.</GR_Chickenwolf.description>
+  <GR_Chickenwolf.tools.0.label>когти</GR_Chickenwolf.tools.0.label>
+  <GR_Chickenwolf.tools.2.label>голова</GR_Chickenwolf.tools.2.label>
   <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Chicken -->
-  <GR_Chickenwolf_Corpse.label>chickenwolf corpse</GR_Chickenwolf_Corpse.label>
-  <GR_Chickenwolf_Corpse.description>chickenwolf corpse</GR_Chickenwolf_Corpse.description>
+  <GR_Chickenwolf_Corpse.label>труп куроволка</GR_Chickenwolf_Corpse.label>
+  <GR_Chickenwolf_Corpse.description>труп куроволка</GR_Chickenwolf_Corpse.description>
 
 
   <!-- Chicken - Rabbit -->
 
-  <GR_Chickenrabbit.label>chickenrabbit</GR_Chickenrabbit.label>
-  <GR_Chickenrabbit.description>A Chicken / Rabbit hybrid. What happens when you artificially crossbreed two fast breeding creatures? The chickenrabbit is an ecological disaster waiting to happen.\n\nUseful abilities: Egg layer. EXTREMELY fast breeding.</GR_Chickenrabbit.description>
-  <GR_Chickenrabbit.tools.0.label>claws</GR_Chickenrabbit.tools.0.label>
-  <GR_Chickenrabbit.tools.2.label>head</GR_Chickenrabbit.tools.2.label>
+  <GR_Chickenrabbit.label>курозаяц</GR_Chickenrabbit.label>
+  <GR_Chickenrabbit.description>Это гибрид курицы и зайца. Что происходит, когда вы искусственно скрещиваете двух быстро размножающихся существ? Куриный кролик - это экологическая катастрофа, ожидающая своего появления.\n\nПолезные способности: Яйценос. ЧРЕЗВЫЧАЙНО быстрое размножение.</GR_Chickenrabbit.description>
+  <GR_Chickenrabbit.tools.0.label>когти</GR_Chickenrabbit.tools.0.label>
+  <GR_Chickenrabbit.tools.2.label>голова</GR_Chickenrabbit.tools.2.label>
   <!-- Use Leather From: Chicken -->
   <!-- Use Meat From: Chicken -->
-  <GR_Chickenrabbit_Corpse.label>chickenrabbit corpse</GR_Chickenrabbit_Corpse.label>
-  <GR_Chickenrabbit_Corpse.description>chickenrabbit corpse</GR_Chickenrabbit_Corpse.description>
+  <GR_Chickenrabbit_Corpse.label>труп курозайца</GR_Chickenrabbit_Corpse.label>
+  <GR_Chickenrabbit_Corpse.description>труп курозайца</GR_Chickenrabbit_Corpse.description>
 
 
   <!-- Chicken - Wolf -->
 
-  <GR_Chickencat.label>chickencat</GR_Chickencat.label>
-  <GR_Chickencat.description>A chicken / cat hybrid. Fast moving, specially intelligent. It is one of the few chicken hybrids that can be somewhat trained.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, making them perfect for the front lines, and a short nuzzle period. The chickencat obviously produces eggs.</GR_Chickencat.description>
-  <GR_Chickencat.tools.0.label>claws</GR_Chickencat.tools.0.label>
-  <GR_Chickencat.tools.2.label>head</GR_Chickencat.tools.2.label>
+  <GR_Chickencat.label>курокот</GR_Chickencat.label>
+  <GR_Chickencat.description>Это гибрид курицы и кота. Быстро движущийся, особенно умный. Это один из немногих куриных гибридов, который можно неплохо обучить.\n\nПолезные способности: Как и все гибриды кошек, они обладают улучшенной способностью к уклонению в ближнем бою, что делает их идеальными для передовой линии и коротким периодом обнюхивания. Курокот явно производит яйца.</GR_Chickencat.description>
+  <GR_Chickencat.tools.0.label>когти</GR_Chickencat.tools.0.label>
+  <GR_Chickencat.tools.2.label>голова</GR_Chickencat.tools.2.label>
   <!-- Use Leather From: Chicken -->
   <!-- Use Meat From: Chicken -->
-  <GR_Chickencat_Corpse.label>chickencat corpse</GR_Chickencat_Corpse.label>
-  <GR_Chickencat_Corpse.description>chickencat corpse</GR_Chickencat_Corpse.description>
+  <GR_Chickencat_Corpse.label>труп курокота</GR_Chickencat_Corpse.label>
+  <GR_Chickencat_Corpse.description>труп курокота</GR_Chickencat_Corpse.description>
 
 
 </LanguageData>

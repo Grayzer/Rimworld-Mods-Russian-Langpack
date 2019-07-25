@@ -3,14 +3,14 @@
 
   <!-- Genetic Material -->
 
-  <GR_StabilizingGenes.label>stabilizing genes</GR_StabilizingGenes.label>
-  <GR_StabilizingGenes.description>This genetic cocktail hasn't differentiated yet.</GR_StabilizingGenes.description>
+  <GR_StabilizingGenes.label>стабилизированные гены</GR_StabilizingGenes.label>
+  <GR_StabilizingGenes.description>Этот генетический коктейль еще не дифференцирован.</GR_StabilizingGenes.description>
 
-  <GR_StabilizingSerum.label>stabilizing serum</GR_StabilizingSerum.label>
-  <GR_StabilizingSerum.description>This genetic cocktail hasn't differentiated yet.</GR_StabilizingSerum.description>
+  <GR_StabilizingSerum.label>стабилизированная сыворотка</GR_StabilizingSerum.label>
+  <GR_StabilizingSerum.description>Этот генетический коктейль еще не дифференцирован.</GR_StabilizingSerum.description>
 
-  <GR_RuinedGenetic.label>ruined genetic material</GR_RuinedGenetic.label>
-  <GR_RuinedGenetic.description>This genetic material is ruined. Useless, though some merchant may pay a pittance for the glass shards.</GR_RuinedGenetic.description>
+  <GR_RuinedGenetic.label>разрушенный генетический материал</GR_RuinedGenetic.label>
+  <GR_RuinedGenetic.description>Этот генетический материал разрушен. Бесполезен, хотя некоторые торговцы могут платить гроши за его осколки.</GR_RuinedGenetic.description>
 
 
 </LanguageData>

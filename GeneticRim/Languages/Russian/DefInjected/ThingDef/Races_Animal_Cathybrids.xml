@@ -3,76 +3,76 @@
 
   <!-- Cat - Bear -->
 
-  <GR_Catbear.label>catbear</GR_Catbear.label>
-  <GR_Catbear.description>A cat / bear hybrid. Catbears are intelligent and affectionate, a perfect companion. They are also quite more resilient than your average cat.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period.</GR_Catbear.description>
-  <GR_Catbear.tools.0.label>left claw</GR_Catbear.tools.0.label>
-  <GR_Catbear.tools.1.label>right claw</GR_Catbear.tools.1.label>
-  <GR_Catbear.tools.3.label>head</GR_Catbear.tools.3.label>
+  <GR_Catbear.label>котомедведь</GR_Catbear.label>
+  <GR_Catbear.description>Это гибрид кота и медведя. Котомедведи умны и ласковы, идеальные компаньоны. Они также более устойчивы, чем ваш средний кот.\n\nПолезные способности: Как и у всех гибридов кошек, они обладают улучшенной способностью к уклонению в ближнем бою, что в случае с этими маленькими животными идеально подходит для выхода из боя, и с коротким периодом обнюхивания.</GR_Catbear.description>
+  <GR_Catbear.tools.0.label>левый коготь</GR_Catbear.tools.0.label>
+  <GR_Catbear.tools.1.label>правый коготь</GR_Catbear.tools.1.label>
+  <GR_Catbear.tools.3.label>голова</GR_Catbear.tools.3.label>
   <!-- Use Leather From: Cat -->
   <!-- Use Meat From: Cat -->
-  <GR_Catbear_Corpse.label>catbear corpse</GR_Catbear_Corpse.label>
-  <GR_Catbear_Corpse.description>catbear corpse</GR_Catbear_Corpse.description>
+  <GR_Catbear_Corpse.label>труп котомедведя</GR_Catbear_Corpse.label>
+  <GR_Catbear_Corpse.description>труп котомедведя</GR_Catbear_Corpse.description>
 
 
   <!-- Cat - Boomalope -->
 
-  <GR_Catalope.label>catalope</GR_Catalope.label>
-  <GR_Catalope.description>A cat / boomalope hybrid. It's like a miniature boomalope! Or a exploding kitten! Terrifying either way.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. The catalope produces small quantities of chemfuel, and explodes with a tiny hairball cloud.</GR_Catalope.description>
-  <GR_Catalope.tools.1.label>head</GR_Catalope.tools.1.label>
+  <GR_Catalope.label>коталопа</GR_Catalope.label>
+  <GR_Catalope.description>Это гибрид кота и бумалопы. Это как миниатюрный бумалоп! Или взрывающийся котенок! Страшно в любом случае.\n\nПолезные способности: Как и у всех гибридов кошек, они обладают улучшенной способностью к уклонению в ближнем бою, что в случае с этими маленькими животными идеально подходит для выхода из боя, и с коротким периодом обнюхивания. Коталопа производит небольшое количество химического топлива и взрывается крошечным облаком лохматиков.</GR_Catalope.description>
+  <GR_Catalope.tools.1.label>голова</GR_Catalope.tools.1.label>
   <!-- Use Leather From: Cat -->
   <!-- Use Meat From: Boomalope -->
-  <GR_Catalope_Corpse.label>catalope corpse</GR_Catalope_Corpse.label>
-  <GR_Catalope_Corpse.description>catalope corpse</GR_Catalope_Corpse.description>
+  <GR_Catalope_Corpse.label>труп коталопы</GR_Catalope_Corpse.label>
+  <GR_Catalope_Corpse.description>труп коталопы</GR_Catalope_Corpse.description>
 
 
   <!-- Cat - Chicken -->
 
-  <GR_Catchicken.label>catchicken</GR_Catchicken.label>
-  <GR_Catchicken.description>A cat / chicken hybrid. Catchicken might not be as intelligent as other cat hybrids, but they make up for it with their ability to lay eggs quickly.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. Quite fast egg laying.</GR_Catchicken.description>
-  <GR_Catchicken.tools.1.label>head</GR_Catchicken.tools.1.label>
+  <GR_Catchicken.label>котокур</GR_Catchicken.label>
+  <GR_Catchicken.description>Это гибрид кота и курицы. Котокур может быть не таким умным, как другие гибриды кошек, но они восполняют это своей способностью быстро откладывать яйца.\n\nПолезные способности: Как и у всех гибридов кошек, они обладают улучшенной способностью к уклонению в ближнем бою, что в случае с этими маленькими животными идеально подходит для выхода из боя, и с коротким периодом обнюхивания. Довольно быстрая кладка яиц.</GR_Catchicken.description>
+  <GR_Catchicken.tools.1.label>голова</GR_Catchicken.tools.1.label>
   <!-- Use Leather From: Cat -->
   <!-- Use Meat From: Chicken -->
-  <GR_Catchicken_Corpse.label>catchicken corpse</GR_Catchicken_Corpse.label>
-  <GR_Catchicken_Corpse.description>catchicken corpse</GR_Catchicken_Corpse.description>
+  <GR_Catchicken_Corpse.label>труп котокура</GR_Catchicken_Corpse.label>
+  <GR_Catchicken_Corpse.description>труп котокура</GR_Catchicken_Corpse.description>
 
 
   <!-- Cat - Muffalo -->
 
-  <GR_Catfallo.label>catfallo</GR_Catfallo.label>
-  <GR_Catfallo.description>A cat / muffalo hybrid. The catfallo is slightly larger than other cat hybrids, and can be used as a miniature pack beast.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. It produces milk and wool in small amounts.</GR_Catfallo.description>
-  <GR_Catfallo.tools.0.label>head</GR_Catfallo.tools.0.label>
-  <GR_Catfallo.tools.1.label>left hoof</GR_Catfallo.tools.1.label>
-  <GR_Catfallo.tools.2.label>right hoof</GR_Catfallo.tools.2.label>
+  <GR_Catfallo.label>котоффало</GR_Catfallo.label>
+  <GR_Catfallo.description>Это гибрид кота и муффало. Котоффало немного больше, чем другие гибриды кошек, и может использоваться в качестве миниатюрной стаи зверей.\n\nПолезные способности: Как и у всех гибридов кошек, они обладают улучшенной способностью к уклонению в ближнем бою, что в случае с этими маленькими животными идеально подходит для выхода из боя, и с коротким периодом обнюхивания. Он производит молоко и шерсть в небольших количествах.</GR_Catfallo.description>
+  <GR_Catfallo.tools.0.label>голова</GR_Catfallo.tools.0.label>
+  <GR_Catfallo.tools.1.label>левое копыто</GR_Catfallo.tools.1.label>
+  <GR_Catfallo.tools.2.label>правое копыто</GR_Catfallo.tools.2.label>
   <!-- Use Leather From: Cat -->
   <!-- Use Meat From: Cat -->
-  <GR_Catfallo_Corpse.label>catfallo corpse</GR_Catfallo_Corpse.label>
-  <GR_Catfallo_Corpse.description>catfallo corpse</GR_Catfallo_Corpse.description>
+  <GR_Catfallo_Corpse.label>труп котоффало</GR_Catfallo_Corpse.label>
+  <GR_Catfallo_Corpse.description>труп котоффало</GR_Catfallo_Corpse.description>
 
 
   <!-- Cat - Rabbit -->
 
-  <GR_Catrabbit.label>catrabbit</GR_Catrabbit.label>
-  <GR_Catrabbit.description>A cat / rabbit hybrid. This long-eared cat breeds extremely fast, and is intelligent enough to be trained in the most basic sense.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. Very fast breeding.</GR_Catrabbit.description>
-  <GR_Catrabbit.tools.0.label>left claw</GR_Catrabbit.tools.0.label>
-  <GR_Catrabbit.tools.1.label>right claw</GR_Catrabbit.tools.1.label>
-  <GR_Catrabbit.tools.3.label>head</GR_Catrabbit.tools.3.label>
+  <GR_Catrabbit.label>котозаяц</GR_Catrabbit.label>
+  <GR_Catrabbit.description>Это гибрид кота и зайца. Эта ушастая кошка размножается очень быстро и достаточно умна, чтобы ее можно было обучить в самом простом смысле.\n\nПолезные способности: Как и у всех гибридов кошек, они обладают улучшенной способностью к уклонению в ближнем бою, что в случае с этими маленькими животными идеально подходит для выхода из боя, и с коротким периодом обнюхивания. Очень быстрое размножение.</GR_Catrabbit.description>
+  <GR_Catrabbit.tools.0.label>левый коготь</GR_Catrabbit.tools.0.label>
+  <GR_Catrabbit.tools.1.label>правый коготь</GR_Catrabbit.tools.1.label>
+  <GR_Catrabbit.tools.3.label>голова</GR_Catrabbit.tools.3.label>
   <!-- Use Leather From: Cat -->
   <!-- Use Meat From: Cat -->
-  <GR_Catrabbit_Corpse.label>catrabbit corpse</GR_Catrabbit_Corpse.label>
-  <GR_Catrabbit_Corpse.description>catrabbit corpse</GR_Catrabbit_Corpse.description>
+  <GR_Catrabbit_Corpse.label>труп котозайца</GR_Catrabbit_Corpse.label>
+  <GR_Catrabbit_Corpse.description>труп котозайца</GR_Catrabbit_Corpse.description>
 
 
   <!-- Cat - Wolf -->
 
-  <GR_Catwolf.label>catwolf</GR_Catwolf.label>
-  <GR_Catwolf.description>A cat / wolf hybrid. Catwolves are extremely intelligent cat hybrids, and they can be trained to haul. Not much, mind you, since they are quite small, but if you have an army of them the net result will be the same. Another positive note is that you will have hauling cats without needing to delve into the depths of weird weeaboo catgirl mods. NO SIR, we have enough weirdness here with the ovipositors and such.\n\nUseful abilities: Like all cat hybrids, they have an improved melee dodge ability, which in the case of these small animals is ideal to get out of a fight, and a short nuzzle period. Fast and intelligent.</GR_Catwolf.description>
-  <GR_Catwolf.tools.0.label>left claw</GR_Catwolf.tools.0.label>
-  <GR_Catwolf.tools.1.label>right claw</GR_Catwolf.tools.1.label>
-  <GR_Catwolf.tools.3.label>head</GR_Catwolf.tools.3.label>
+  <GR_Catwolf.label>котоволк</GR_Catwolf.label>
+  <GR_Catwolf.description>Это гибрид кота и волка. Котоволк - чрезвычайно умные гибриды кошки, и они могут быть обучены, чтобы вытащить. Заметьте, не так много, поскольку они довольно малы, но если у вас их армия, чистый результат будет таким же. Еще одно положительное замечание: вы будете получать кошек без необходимости вникать в глубины странных кошачьих модов. Нет, сэр, у нас достаточно странностей с яйцеклетками и тому подобным.\n\nПолезные способности: Как и у всех гибридов кошек, они обладают улучшенной способностью к уклонению в ближнем бою, что в случае с этими маленькими животными идеально подходит для выхода из боя, и с коротким периодом обнюхивания. Быстры и умны.</GR_Catwolf.description>
+  <GR_Catwolf.tools.0.label>левый коготь</GR_Catwolf.tools.0.label>
+  <GR_Catwolf.tools.1.label>правый коготь</GR_Catwolf.tools.1.label>
+  <GR_Catwolf.tools.3.label>голова</GR_Catwolf.tools.3.label>
   <!-- Use Leather From: Cat -->
   <!-- Use Meat From: Cat -->
-  <GR_Catwolf_Corpse.label>catwolf corpse</GR_Catwolf_Corpse.label>
-  <GR_Catwolf_Corpse.description>catwolf corpse</GR_Catwolf_Corpse.description>
+  <GR_Catwolf_Corpse.label>труп котоволка</GR_Catwolf_Corpse.label>
+  <GR_Catwolf_Corpse.description>труп котоволка</GR_Catwolf_Corpse.description>
 
 
 </LanguageData>

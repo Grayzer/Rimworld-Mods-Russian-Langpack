@@ -3,171 +3,171 @@
 
   <!-- Bear -->
 
-  <GR_AlphaBear.label>paragon bear</GR_AlphaBear.label>
-  <GR_AlphaBear.description>This massive bear can grow to sizes dwarfing regular grizzly bears, reaching up to a metrical ton in weight. Their thick pelt is an almost perfect adaptation to cold climates, allowing them to survive for months in hibernation if necessary. While still omnivorous, their teeth are better suited to a higher degree of herbivory than grizzly bears.\n\nUseful abilities: Paragon bear pelts can be sold for profit, or converted into decorational rugs.</GR_AlphaBear.description>
-  <GR_AlphaBear.tools.0.label>left claw</GR_AlphaBear.tools.0.label>
-  <GR_AlphaBear.tools.1.label>right claw</GR_AlphaBear.tools.1.label>
-  <GR_AlphaBear.tools.3.label>head</GR_AlphaBear.tools.3.label>
+  <GR_AlphaBear.label>образцовый медведь</GR_AlphaBear.label>
+  <GR_AlphaBear.description>Этот массивный медведь может вырасти до размеров медведей гризли, его вес достигает метрической тонны. Их толстая шкура является почти идеальной адаптацией к холодному климату, позволяя им при необходимости выживать в течение нескольких месяцев в спячке. Хотя все еще всеядны, их зубы лучше подходят для более высокой степени травоядности, чем медведи гризли.\n\nПолезные способности: шкура образцового медведя может быть проданы с целью получения прибыли или переработана в декоративный ковер.</GR_AlphaBear.description>
+  <GR_AlphaBear.tools.0.label>левый коготь</GR_AlphaBear.tools.0.label>
+  <GR_AlphaBear.tools.1.label>правый коготь</GR_AlphaBear.tools.1.label>
+  <GR_AlphaBear.tools.3.label>голова</GR_AlphaBear.tools.3.label>
   <!-- Use Leather From: Bear_Grizzly -->
   <!-- Use Meat From: Bear_Grizzly -->
-  <GR_AlphaBear_Corpse.label>paragon bear corpse</GR_AlphaBear_Corpse.label>
-  <GR_AlphaBear_Corpse.description>paragon bear corpse</GR_AlphaBear_Corpse.description>
+  <GR_AlphaBear_Corpse.label>труп образцового медведя</GR_AlphaBear_Corpse.label>
+  <GR_AlphaBear_Corpse.description>труп образцового медведя</GR_AlphaBear_Corpse.description>
 
 
   <!-- Wildboar -->
 
-  <GR_AlphaWildBoar.label>paragon wild boar</GR_AlphaWildBoar.label>
-  <GR_AlphaWildBoar.description>This strong, muscular creature is fiercely territorial, and its powerful curved tusks can be extremely dangerous for the unwary hunter.\n\nUseful abilities: Paragon wild boar tusks are prized for their ivory, and can be carved into statuettes.</GR_AlphaWildBoar.description>
-  <GR_AlphaWildBoar.tools.0.label>tusk</GR_AlphaWildBoar.tools.0.label>
-  <GR_AlphaWildBoar.tools.2.label>head</GR_AlphaWildBoar.tools.2.label>
+  <GR_AlphaWildBoar.label>образцовый дикий кабан</GR_AlphaWildBoar.label>
+  <GR_AlphaWildBoar.description>Это сильное, мускулистое существо является чрезвычайно территориальным, и его мощные изогнутые клыки могут быть чрезвычайно опасными для неосторожного охотника.\n\nПолезные способности: бивни образцового дикого кабана ценятся как слоновая кость и из них могут быть вырезаны статуэтки.</GR_AlphaWildBoar.description>
+  <GR_AlphaWildBoar.tools.0.label>клык</GR_AlphaWildBoar.tools.0.label>
+  <GR_AlphaWildBoar.tools.2.label>голова</GR_AlphaWildBoar.tools.2.label>
   <!-- Use Leather From: Pig -->
   <!-- Use Meat From: Pig -->
-  <GR_AlphaWildBoar_Corpse.label>paragon wild boar corpse</GR_AlphaWildBoar_Corpse.label>
-  <GR_AlphaWildBoar_Corpse.description>paragon wild boar corpse</GR_AlphaWildBoar_Corpse.description>
+  <GR_AlphaWildBoar_Corpse.label>труп образцового дикого кабана</GR_AlphaWildBoar_Corpse.label>
+  <GR_AlphaWildBoar_Corpse.description>труп образцового дикого кабана</GR_AlphaWildBoar_Corpse.description>
 
 
   <!-- Boomalope -->
 
-  <GR_AlphaBoomalope.label>paragon boomalope</GR_AlphaBoomalope.label>
-  <GR_AlphaBoomalope.description>This tall, lean ungulate usually acts as the dominant individual on a herd of boomalopes. More resistant and stronger than regular boomalopes, the paragon boomalopes also carry greater quantities of unstable chemical filled sacs, so no predator wants to even get close to them.\n\nUseful abilities: Paragon boomalopes explode when killed, with greater force than regular boomalopes. They also produce large amounts of chemfuel.</GR_AlphaBoomalope.description>
-  <GR_AlphaBoomalope.tools.0.label>head</GR_AlphaBoomalope.tools.0.label>
+  <GR_AlphaBoomalope.label>образцовая бумалопа</GR_AlphaBoomalope.label>
+  <GR_AlphaBoomalope.description>Это высокое, стройное копытное обычно выступает в качестве доминирующего в стаде бумалоп. Более устойчивые и прочные, чем обычные бумалопы, образцовые бумалопы также несут большее количество нестабильных, заполненных химическими веществами, мешков, поэтому ни один хищник не хочет даже приблизиться к ним.\n\nПолезные способности: образцовые бумалопы взрываются, когда их убивают, с большей силой, чем обычные бумалопы. Они также производят большое количество химического топлива.</GR_AlphaBoomalope.description>
+  <GR_AlphaBoomalope.tools.0.label>голова</GR_AlphaBoomalope.tools.0.label>
   <!-- Use Leather From: Boomalope -->
   <!-- Use Meat From: Boomalope -->
-  <GR_AlphaBoomalope_Corpse.label>paragon boomalope corpse</GR_AlphaBoomalope_Corpse.label>
-  <GR_AlphaBoomalope_Corpse.description>paragon boomalope corpse</GR_AlphaBoomalope_Corpse.description>
+  <GR_AlphaBoomalope_Corpse.label>труп образцовой бумалопы</GR_AlphaBoomalope_Corpse.label>
+  <GR_AlphaBoomalope_Corpse.description>труп образцовой бумалопы</GR_AlphaBoomalope_Corpse.description>
 
 
   <!-- Chicken -->
 
-  <GR_AlphaChicken.label>paragon chicken</GR_AlphaChicken.label>
-  <GR_AlphaChicken.description>This huge chicken towers above its regular brethren. Eggs laid by this species are the stuff of legends.\n\nUseful abilities: Fast breeding, more meat than regular chickens, and delicious eggs. A nice farm animal!</GR_AlphaChicken.description>
-  <GR_AlphaChicken.tools.0.label>claws</GR_AlphaChicken.tools.0.label>
-  <GR_AlphaChicken.tools.2.label>head</GR_AlphaChicken.tools.2.label>
+  <GR_AlphaChicken.label>образцовая курица</GR_AlphaChicken.label>
+  <GR_AlphaChicken.description>Эта огромная курица возвышается над своими обычными собратьями. Яйца, откладываемые этим видом, являются легендой.\n\nПолезные способности: быстрое размножение, больше мяса, чем у обычных кур, и вкусные яйца. Хорошее фермерское животное!</GR_AlphaChicken.description>
+  <GR_AlphaChicken.tools.0.label>когти</GR_AlphaChicken.tools.0.label>
+  <GR_AlphaChicken.tools.2.label>голова</GR_AlphaChicken.tools.2.label>
   <!-- Leather Amount: 0 -->
-  <GR_AlphaChicken_Meat.label>paragon chicken meat</GR_AlphaChicken_Meat.label>
-  <GR_AlphaChicken_Meat.description>paragon chicken meat</GR_AlphaChicken_Meat.description>
-  <GR_AlphaChicken_Corpse.label>paragon chicken corpse</GR_AlphaChicken_Corpse.label>
-  <GR_AlphaChicken_Corpse.description>paragon chicken corpse</GR_AlphaChicken_Corpse.description>
+  <GR_AlphaChicken_Meat.label>мясо образцовой курицы</GR_AlphaChicken_Meat.label>
+  <GR_AlphaChicken_Meat.description>мясо образцовой курицы</GR_AlphaChicken_Meat.description>
+  <GR_AlphaChicken_Corpse.label>труп образцовой курицы</GR_AlphaChicken_Corpse.label>
+  <GR_AlphaChicken_Corpse.description>труп образцовой курицы</GR_AlphaChicken_Corpse.description>
 
 
   <!-- Emu -->
 
-  <GR_AlphaEmu.label>paragon emu</GR_AlphaEmu.label>
-  <GR_AlphaEmu.description>This huge flightless bird is incredibly bad tempered and ugly as sin. However, it produces some enormous eggs, and its fat can be rubbed on skin and used as a primitive bush medicine.\n\nUseful abilities: Very nutritive eggs. Once slaughtered, its fat can be used as a basic medicine.</GR_AlphaEmu.description>
-  <GR_AlphaEmu.tools.0.label>claws</GR_AlphaEmu.tools.0.label>
-  <GR_AlphaEmu.tools.2.label>head</GR_AlphaEmu.tools.2.label>
+  <GR_AlphaEmu.label>образцовый эму</GR_AlphaEmu.label>
+  <GR_AlphaEmu.description>Эта огромная нелетающая птица невероятно злая и уродливая как грех. Тем не менее, она производит несколько огромных яиц, и ее жир можно растирать на коже и использовать в качестве примитивного лекарства.\n\nПолезные способности: Очень питательные яйца. После забоя ее жир можно использовать как базовое лекарство.</GR_AlphaEmu.description>
+  <GR_AlphaEmu.tools.0.label>когти</GR_AlphaEmu.tools.0.label>
+  <GR_AlphaEmu.tools.2.label>голова</GR_AlphaEmu.tools.2.label>
   <!-- No Leather: Butcher Products -->
   <!-- Use Meat From: Cassowary -->
-  <GR_AlphaEmu_Corpse.label>paragon emu corpse</GR_AlphaEmu_Corpse.label>
-  <GR_AlphaEmu_Corpse.description>paragon emu corpse</GR_AlphaEmu_Corpse.description>
+  <GR_AlphaEmu_Corpse.label>труп образцового эму</GR_AlphaEmu_Corpse.label>
+  <GR_AlphaEmu_Corpse.description>труп образцового эму</GR_AlphaEmu_Corpse.description>
 
 
   <!-- Muffalo -->
 
-  <GR_AlphaMuffalo.label>paragon muffalo</GR_AlphaMuffalo.label>
-  <GR_AlphaMuffalo.description>A huge, hairy quadruped perfectly adapted to extreme cold climates. Peaceful unless disturbed.\n\nUseful abilities: Pack animal. Produces milk and wool in slightly greater quantities than a regular muffalo. It's pelt is valuable, and can be used as a decorative rug.</GR_AlphaMuffalo.description>
-  <GR_AlphaMuffalo.tools.0.label>head</GR_AlphaMuffalo.tools.0.label>
+  <GR_AlphaMuffalo.label>образцовый муффало</GR_AlphaMuffalo.label>
+  <GR_AlphaMuffalo.description>Огромный волосатый четвероногий, идеально приспособленный к экстремально холодному климату. Мирный, если не беспокоить.\n\nПолезные способности: вьючное животное. Производит молоко и шерсть в несколько больших количествах, чем обычный муффало. Его шкура ценна и может быть использована в качестве декоративного коврика.</GR_AlphaMuffalo.description>
+  <GR_AlphaMuffalo.tools.0.label>голова</GR_AlphaMuffalo.tools.0.label>
   <!-- Use Leather From: Muffalo -->
   <!-- Use Meat From: Muffalo -->
-  <GR_AlphaMuffalo_Corpse.label>paragon muffalo corpse</GR_AlphaMuffalo_Corpse.label>
-  <GR_AlphaMuffalo_Corpse.description>paragon muffalo corpse</GR_AlphaMuffalo_Corpse.description>
+  <GR_AlphaMuffalo_Corpse.label>труп образцового муффало</GR_AlphaMuffalo_Corpse.label>
+  <GR_AlphaMuffalo_Corpse.description>труп образцового муффало</GR_AlphaMuffalo_Corpse.description>
 
 
   <!-- Ostrich -->
 
-  <GR_AlphaOstrich.label>paragon ostrich</GR_AlphaOstrich.label>
-  <GR_AlphaOstrich.description>A truly enormous ostrich. This flightless bird lays huge eggs, very nutritive.\n\nUseful abilities: Lays the biggest eggs of any non-hybrid creature.</GR_AlphaOstrich.description>
-  <GR_AlphaOstrich.tools.0.label>claws</GR_AlphaOstrich.tools.0.label>
-  <GR_AlphaOstrich.tools.2.label>head</GR_AlphaOstrich.tools.2.label>
+  <GR_AlphaOstrich.label>образцовый страус</GR_AlphaOstrich.label>
+  <GR_AlphaOstrich.description>Поистине огромный страус. Эта нелетающая птица откладывает огромные яйца, очень питательные.\n\nПолезные способности: Откладывает самые большие яйца из любых негибридных существ.</GR_AlphaOstrich.description>
+  <GR_AlphaOstrich.tools.0.label>когти</GR_AlphaOstrich.tools.0.label>
+  <GR_AlphaOstrich.tools.2.label>голова</GR_AlphaOstrich.tools.2.label>
   <!-- Use Leather From: Ostrich -->
   <!-- Use Meat From: Cassowary -->
-  <GR_AlphaOstrich_Corpse.label>paragon ostrich corpse</GR_AlphaOstrich_Corpse.label>
-  <GR_AlphaOstrich_Corpse.description>paragon ostrich corpse</GR_AlphaOstrich_Corpse.description>
+  <GR_AlphaOstrich_Corpse.label>труп образцового страуса</GR_AlphaOstrich_Corpse.label>
+  <GR_AlphaOstrich_Corpse.description>труп образцового страуса</GR_AlphaOstrich_Corpse.description>
 
 
   <!-- Rhino -->
 
-  <GR_AlphaRhinoceros.label>paragon rhinoceros</GR_AlphaRhinoceros.label>
-  <GR_AlphaRhinoceros.description>The very ground trembles when this massive herbivore moves. Although usually quite peaceful, it can be very aggressive when provoked. Its horn is considered to be very valuable, despite lack of scientific evidence of it being useful at all in fields like medicine.\n\nUseful abilities: It's horn is valuable, and... you don't want to be in the path of a charging paragon rhinoceros.</GR_AlphaRhinoceros.description>
-  <GR_AlphaRhinoceros.tools.0.label>horn</GR_AlphaRhinoceros.tools.0.label>
-  <GR_AlphaRhinoceros.tools.1.label>horn</GR_AlphaRhinoceros.tools.1.label>
-  <GR_AlphaRhinoceros.tools.3.label>head</GR_AlphaRhinoceros.tools.3.label>
+  <GR_AlphaRhinoceros.label>образцовый носорог</GR_AlphaRhinoceros.label>
+  <GR_AlphaRhinoceros.description>Сама земля дрожит, когда движется это массивное травоядное животное. Хотя обычно довольно мирный, он может быть очень агрессивным, когда его провоцируют. Его рог считается очень ценным, несмотря на отсутствие научных доказательств его полезности в таких областях, как медицина.\n\nПолезные способности: его рог ценен, и... вы не захотите быть на пути бегущего образцового носорога.</GR_AlphaRhinoceros.description>
+  <GR_AlphaRhinoceros.tools.0.label>рог</GR_AlphaRhinoceros.tools.0.label>
+  <GR_AlphaRhinoceros.tools.1.label>рог</GR_AlphaRhinoceros.tools.1.label>
+  <GR_AlphaRhinoceros.tools.3.label>голова</GR_AlphaRhinoceros.tools.3.label>
   <!-- Use Leather From: Rhinoceros -->
   <!-- Use Meat From: Rhinoceros -->
-  <GR_AlphaRhinoceros_Corpse.label>paragon rhinoceros corpse</GR_AlphaRhinoceros_Corpse.label>
-  <GR_AlphaRhinoceros_Corpse.description>paragon rhinoceros corpse</GR_AlphaRhinoceros_Corpse.description>
+  <GR_AlphaRhinoceros_Corpse.label>труп образцового носорога</GR_AlphaRhinoceros_Corpse.label>
+  <GR_AlphaRhinoceros_Corpse.description>труп образцового носорога</GR_AlphaRhinoceros_Corpse.description>
 
 
   <!-- Wolf -->
 
-  <GR_AlphaWolfTimber.label>paragon timber wolf</GR_AlphaWolfTimber.label>
-  <GR_AlphaWolfTimber.description>This huge wolf can be turned into a fierce, loyal companion if properly trained. Wolf pelts have long been used as trade goods.\n\nUseful abilities: The paragon wolf's pelt can be traded for a profit, or used to craft a wolf pelt rug, which isn't tacky at all. Nope.</GR_AlphaWolfTimber.description>
-  <GR_AlphaWolfTimber.tools.0.label>left claw</GR_AlphaWolfTimber.tools.0.label>
-  <GR_AlphaWolfTimber.tools.1.label>right claw</GR_AlphaWolfTimber.tools.1.label>
-  <GR_AlphaWolfTimber.tools.3.label>head</GR_AlphaWolfTimber.tools.3.label>
+  <GR_AlphaWolfTimber.label>образцовый лесной волк</GR_AlphaWolfTimber.label>
+  <GR_AlphaWolfTimber.description>Этот огромный волк может быть превращен в свирепого, верного компаньона, если его правильно обучить. Шкуры волка издавна использовались как товар для торговли.\n\nПолезные способности: шкуру волка-образца можно прибыльно обменять или использовать для изготовления коврика, который совсем не липкий. Совсем.</GR_AlphaWolfTimber.description>
+  <GR_AlphaWolfTimber.tools.0.label>левый коготь</GR_AlphaWolfTimber.tools.0.label>
+  <GR_AlphaWolfTimber.tools.1.label>правый коготь</GR_AlphaWolfTimber.tools.1.label>
+  <GR_AlphaWolfTimber.tools.3.label>голова</GR_AlphaWolfTimber.tools.3.label>
   <!-- Use Leather From: Wolf_Timber -->
   <!-- Use Meat From: Wolf_Timber -->
-  <GR_AlphaWolfTimber_Corpse.label>paragon timber wolf corpse</GR_AlphaWolfTimber_Corpse.label>
-  <GR_AlphaWolfTimber_Corpse.description>paragon timber wolf corpse</GR_AlphaWolfTimber_Corpse.description>
+  <GR_AlphaWolfTimber_Corpse.label>труп образцового лесного волка</GR_AlphaWolfTimber_Corpse.label>
+  <GR_AlphaWolfTimber_Corpse.description>труп образцового лесного волка</GR_AlphaWolfTimber_Corpse.description>
 
 
   <!-- Hare -->
 
-  <GR_AlphaHare.label>paragon hare</GR_AlphaHare.label>
-  <GR_AlphaHare.description>This small creature has a fierce gaze and quite a poor disposition. Be careful with these critters, since they breed like... well... rabbits.\n\nUseful abilities: Due to a terrible sense of humour in your scientists, this creatures lays edible chocolate eggs...</GR_AlphaHare.description>
-  <GR_AlphaHare.tools.1.label>head</GR_AlphaHare.tools.1.label>
+  <GR_AlphaHare.label>образцовый заяц</GR_AlphaHare.label>
+  <GR_AlphaHare.description>Это маленькое существо обладает жестким взглядом и довольно плохим нравом. Будьте осторожны с этими твари, так как они размножаются как... ну... кролики.\n\nПолезные способности: из-за ужасного чувства юмора у ваших ученых это существо откладывает съедобные шоколадные яйца...</GR_AlphaHare.description>
+  <GR_AlphaHare.tools.1.label>голова</GR_AlphaHare.tools.1.label>
   <!-- Use Leather From: Hare -->
   <!-- Use Meat From: Hare -->
-  <GR_AlphaHare_Corpse.label>paragon hare corpse</GR_AlphaHare_Corpse.label>
-  <GR_AlphaHare_Corpse.description>paragon hare corpse</GR_AlphaHare_Corpse.description>
+  <GR_AlphaHare_Corpse.label>труп образцового зайца</GR_AlphaHare_Corpse.label>
+  <GR_AlphaHare_Corpse.description>труп образцового зайца</GR_AlphaHare_Corpse.description>
 
 
   <!-- Iguana -->
 
-  <GR_AlphaIguana.label>paragon iguana</GR_AlphaIguana.label>
-  <GR_AlphaIguana.description>This large lizard has a beautiful iridiscent sheen on its scales. Contrary to the regular iguanas, this paragon specimen has a nasty venomous bite.\n\nUseful abilities: Lays eggs and has a venomous bite.</GR_AlphaIguana.description>
-  <GR_AlphaIguana.tools.0.label>left claw</GR_AlphaIguana.tools.0.label>
-  <GR_AlphaIguana.tools.1.label>right claw</GR_AlphaIguana.tools.1.label>
-  <GR_AlphaIguana.tools.3.label>head</GR_AlphaIguana.tools.3.label>
+  <GR_AlphaIguana.label>образцовая игуана</GR_AlphaIguana.label>
+  <GR_AlphaIguana.description>Эта крупная ящерица имеет красивый переливающийся блеск на чешуе. В отличие от обычных игуан, эта имеет неприятный ядовитый укус.\n\nПолезные способности: откладывает яйца и имеет ядовитый укус.</GR_AlphaIguana.description>
+  <GR_AlphaIguana.tools.0.label>левый коготь</GR_AlphaIguana.tools.0.label>
+  <GR_AlphaIguana.tools.1.label>правый коготь</GR_AlphaIguana.tools.1.label>
+  <GR_AlphaIguana.tools.3.label>голова</GR_AlphaIguana.tools.3.label>
   <!-- Use Leather From: Iguana -->
   <!-- Use Meat From: Iguana -->
-  <GR_AlphaIguana_Corpse.label>paragon iguana corpse</GR_AlphaIguana_Corpse.label>
-  <GR_AlphaIguana_Corpse.description>paragon iguana corpse</GR_AlphaIguana_Corpse.description>
+  <GR_AlphaIguana_Corpse.label>труп образцовой игуаны</GR_AlphaIguana_Corpse.label>
+  <GR_AlphaIguana_Corpse.description>труп образцовой игуаны</GR_AlphaIguana_Corpse.description>
 
 
   <!-- Pig -->
 
-  <GR_AlphaPig.label>paragon pig</GR_AlphaPig.label>
-  <GR_AlphaPig.description>This huge pig has a voracious appetite, but the quality of its meat is legendary.\n\nUseful abilities: The butchering process will produce bacon jerky and jamón serrano, two delicacies that can be stored for months without refrigeration.</GR_AlphaPig.description>
-  <GR_AlphaPig.tools.1.label>head</GR_AlphaPig.tools.1.label>
+  <GR_AlphaPig.label>образцовая свинья</GR_AlphaPig.label>
+  <GR_AlphaPig.description>У этой огромной свиньи ненасытный аппетит, но качество ее мяса легендарно.\n\nПолезные способности: в процессе разделки мяса образуется бекон и хамон серрано, два деликатеса, которые можно хранить месяцами без охлаждения.</GR_AlphaPig.description>
+  <GR_AlphaPig.tools.1.label>голова</GR_AlphaPig.tools.1.label>
   <!-- No Leather: Butcher Products -->
   <!-- Use Meat From: Pig -->
-  <GR_AlphaPig_Corpse.label>paragon pig corpse</GR_AlphaPig_Corpse.label>
-  <GR_AlphaPig_Corpse.description>paragon pig corpse</GR_AlphaPig_Corpse.description>
+  <GR_AlphaPig_Corpse.label>труп образцовой свиньи</GR_AlphaPig_Corpse.label>
+  <GR_AlphaPig_Corpse.description>труп образцовой свиньи</GR_AlphaPig_Corpse.description>
 
 
   <!-- Rat -->
 
-  <GR_AlphaRat.label>paragon rat</GR_AlphaRat.label>
-  <GR_AlphaRat.description>This rat is obviously disease ridden.\n\nUseful abilities: Paragon rats spread the bubonic plague when they bite. Careful!</GR_AlphaRat.description>
-  <GR_AlphaRat.tools.0.label>left claw</GR_AlphaRat.tools.0.label>
-  <GR_AlphaRat.tools.1.label>right claw</GR_AlphaRat.tools.1.label>
-  <GR_AlphaRat.tools.3.label>head</GR_AlphaRat.tools.3.label>
+  <GR_AlphaRat.label>образцовая крыса</GR_AlphaRat.label>
+  <GR_AlphaRat.description>Эта крыса явно страдает от болезней.\n\nПолезные способности: образцовые крысы распространяют бубонную чуму при укусе. Осторожно!</GR_AlphaRat.description>
+  <GR_AlphaRat.tools.0.label>левый коготь</GR_AlphaRat.tools.0.label>
+  <GR_AlphaRat.tools.1.label>правый коготь</GR_AlphaRat.tools.1.label>
+  <GR_AlphaRat.tools.3.label>голова</GR_AlphaRat.tools.3.label>
   <!-- Use Leather From: Rat -->
   <!-- Use Meat From: Rat -->
-  <GR_AlphaRat_Corpse.label>paragon rat corpse</GR_AlphaRat_Corpse.label>
-  <GR_AlphaRat_Corpse.description>paragon rat corpse</GR_AlphaRat_Corpse.description>
+  <GR_AlphaRat_Corpse.label>труп образцовой крысы</GR_AlphaRat_Corpse.label>
+  <GR_AlphaRat_Corpse.description>труп образцовой крысы</GR_AlphaRat_Corpse.description>
 
 
   <!-- Tortoise -->
 
-  <GR_AlphaTortoise.label>paragon tortoise</GR_AlphaTortoise.label>
-  <GR_AlphaTortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite.\n\nUseful abilities: Paragon tortoises can be butchered to obtain their shells, and with a big enough tortoise farm it could probably be used as a building material.</GR_AlphaTortoise.description>
-  <GR_AlphaTortoise.tools.1.label>head</GR_AlphaTortoise.tools.1.label>
+  <GR_AlphaTortoise.label>образцовая черепаха</GR_AlphaTortoise.label>
+  <GR_AlphaTortoise.description>Эта сильно бронированная наземная рептилия известна своей медленной скоростью передвижения и удивительно жестоким укусом.\n\nПолезные способности: с образцовой черепахи можно добыть укрепленную оболочку, а с достаточно большой черепаховой фермой, вероятно, можно использовать в качестве строительного материала.</GR_AlphaTortoise.description>
+  <GR_AlphaTortoise.tools.1.label>голова</GR_AlphaTortoise.tools.1.label>
   <!-- No Leather: Butcher Products -->
   <!-- Use Meat From: Tortoise -->
-  <GR_AlphaTortoise_Corpse.label>paragon tortoise corpse</GR_AlphaTortoise_Corpse.label>
-  <GR_AlphaTortoise_Corpse.description>paragon tortoise corpse</GR_AlphaTortoise_Corpse.description>
+  <GR_AlphaTortoise_Corpse.label>труп образцовой черепахи</GR_AlphaTortoise_Corpse.label>
+  <GR_AlphaTortoise_Corpse.description>труп образцовой черепахи</GR_AlphaTortoise_Corpse.description>
 
 
 </LanguageData>

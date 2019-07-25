@@ -3,13 +3,13 @@
 
   <!-- Aberrant Fleshbeast -->
 
-  <GR_AberrantFleshbeast.label>aberrant fleshbeast</GR_AberrantFleshbeast.label>
-  <GR_AberrantFleshbeast.description>Something went terribly wrong. This wretched creature is struggling to keep breathing.</GR_AberrantFleshbeast.description>
-  <GR_AberrantFleshbeast.tools.0.label>bite</GR_AberrantFleshbeast.tools.0.label>
+  <GR_AberrantFleshbeast.label>искаженная плоть</GR_AberrantFleshbeast.label>
+  <GR_AberrantFleshbeast.description>Что-то пошло не так. Это жалкое существо изо всех сил пытается дышать.</GR_AberrantFleshbeast.description>
+  <GR_AberrantFleshbeast.tools.0.label>укус</GR_AberrantFleshbeast.tools.0.label>
   <!-- Leather Amount: 0 -->
   <!-- Meat Amount: 0 -->
-  <GR_AberrantFleshbeast_Corpse.label>aberrant fleshbeast corpse</GR_AberrantFleshbeast_Corpse.label>
-  <GR_AberrantFleshbeast_Corpse.description>aberrant fleshbeast corpse</GR_AberrantFleshbeast_Corpse.description>
+  <GR_AberrantFleshbeast_Corpse.label>труп искаженной плоти</GR_AberrantFleshbeast_Corpse.label>
+  <GR_AberrantFleshbeast_Corpse.description>труп искаженной плоти</GR_AberrantFleshbeast_Corpse.description>
 
 
 </LanguageData>
