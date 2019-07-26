@@ -3,123 +3,123 @@
 
   <!-- Mechanoid - Bear -->
 
-  <GR_Mechabear.label>mechabear</GR_Mechabear.label>
-  <GR_Mechabear.description>This cybernetic beast has been mutated far beyond its original form. Heavily armoured to withstand heavy fire, and armed with a terrifying plasma cannon. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechabear is an effective weapons platform, akin to a rocket turret. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechabear.description>
-  <GR_Mechabear.tools.0.label>head</GR_Mechabear.tools.0.label>
+  <GR_Mechabear.label>мехмедведь</GR_Mechabear.label>
+  <GR_Mechabear.description>Этот кибернетический зверь мутировал далеко за пределы своей первоначальной формы. Тяжело бронированный, чтобы противостоять сильному огню, и вооруженный ужасающей плазменной пушкой. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить свои органические компоненты.\n\nПолезные способности: пока укротитель находится рядом, чтобы направлять его, мехмедведь является эффективной платформой оружия, сродни ракетной башне. Как и все гибриды механоидов, он производит промышленные компоненты каждые пару дней.</GR_Mechabear.description>
+  <GR_Mechabear.tools.0.label>голова</GR_Mechabear.tools.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mechabear_Meat.label>mechabear meat</GR_Mechabear_Meat.label>
-  <GR_Mechabear_Meat.description>mechabear meat</GR_Mechabear_Meat.description>
-  <GR_Mechabear_Corpse.label>mechabear corpse</GR_Mechabear_Corpse.label>
-  <GR_Mechabear_Corpse.description>mechabear corpse</GR_Mechabear_Corpse.description>
+  <GR_Mechabear_Meat.label>мясо мехмедведя</GR_Mechabear_Meat.label>
+  <GR_Mechabear_Meat.description>мясо мехмедведя</GR_Mechabear_Meat.description>
+  <GR_Mechabear_Corpse.label>труп мехмедведя</GR_Mechabear_Corpse.label>
+  <GR_Mechabear_Corpse.description>труп мехмедведя</GR_Mechabear_Corpse.description>
 
 
   <!-- Mechanoid - Boomalope -->
 
-  <GR_Mechalope.label>mechalope</GR_Mechalope.label>
-  <GR_Mechalope.description>This cybernetic boomalope has been outfitted with four mechanized chemfuel reservoirs. The creature can use these reservoirs to produce a jet of burning fuel similar to a flamethrower, not incredibly harmful, but perfect for starting huge fires. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechalope is an effective weapons platform, akin to a flamethrower. Like all mechanoid hybrids it produces industrial components every couple days, and chemfuel like any other boomalope.</GR_Mechalope.description>
-  <GR_Mechalope.tools.0.label>head</GR_Mechalope.tools.0.label>
+  <GR_Mechalope.label>мехалопа</GR_Mechalope.label>
+  <GR_Mechalope.description>Этот кибернетический бумалоп был снабжен четырьмя механизированными резервуарами с химическим топливом. Существо может использовать эти резервуары для производства струи горящего топлива, похожего на огнемет, не невероятно вредного, но идеального для запуска огромных пожаров. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить свои органические компоненты.\n\nПолезные способности: пока укротитель находится рядом, чтобы управлять им, мехалопа является эффективной платформой оружия, похожей на огнемет. Как и все механоидные гибриды, он производит промышленные компоненты каждые пару дней, и химическое топливо - как любой другой бумалоп.</GR_Mechalope.description>
+  <GR_Mechalope.tools.0.label>голова</GR_Mechalope.tools.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mechalope_Meat.label>mechalope meat</GR_Mechalope_Meat.label>
-  <GR_Mechalope_Meat.description>mechalope meat</GR_Mechalope_Meat.description>
-  <GR_Mechalope_Corpse.label>mechalope corpse</GR_Mechalope_Corpse.label>
-  <GR_Mechalope_Corpse.description>mechalope corpse</GR_Mechalope_Corpse.description>
+  <GR_Mechalope_Meat.label>мясо мехалопы</GR_Mechalope_Meat.label>
+  <GR_Mechalope_Meat.description>мясо мехалопы</GR_Mechalope_Meat.description>
+  <GR_Mechalope_Corpse.label>труп мехалопы</GR_Mechalope_Corpse.label>
+  <GR_Mechalope_Corpse.description>труп мехалопы</GR_Mechalope_Corpse.description>
 
 
   <!-- Mechanoid - Chicken -->
 
-  <GR_Mechachicken.label>mecha-chicken</GR_Mechachicken.label>
-  <GR_Mechachicken.description>This cybernetic organism is adept at reconnaissance and infiltration, due to its small size and speed. It is armed with a small sniper flechette gun. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mecha-chicken can strike targets from very far away. Like all mechanoid hybrids it produces industrial components every couple days, and eggs. I'm not sure I'd eat the eggs, though.</GR_Mechachicken.description>
-  <GR_Mechachicken.tools.0.label>head</GR_Mechachicken.tools.0.label>
-  <GR_Mechachicken.verbs.0.label>sniper flechette</GR_Mechachicken.verbs.0.label>
+  <GR_Mechachicken.label>мехацып</GR_Mechachicken.label>
+  <GR_Mechachicken.description>Этот кибернетический организм отлично разбирается в разведке и проникновении благодаря своим небольшим размерам и скорости. Он вооружен небольшим снайперским ружьем. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить свои органические компоненты.\n\nПолезные способности: Пока укротитель находится рядом, чтобы направлять его, мехацып может поражать цели очень далеко. Как и все механоидные гибриды, он производит промышленные компоненты каждые пару дней и яйца. Я не уверен, что ел бы эти яйца, хотя...</GR_Mechachicken.description>
+  <GR_Mechachicken.tools.0.label>голова</GR_Mechachicken.tools.0.label>
+  <GR_Mechachicken.verbs.0.label>снайперская флешетка</GR_Mechachicken.verbs.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mechachicken_Meat.label>mecha-chicken meat</GR_Mechachicken_Meat.label>
-  <GR_Mechachicken_Meat.description>mecha-chicken meat</GR_Mechachicken_Meat.description>
-  <GR_Mechachicken_Corpse.label>mecha-chicken corpse</GR_Mechachicken_Corpse.label>
-  <GR_Mechachicken_Corpse.description>mecha-chicken corpse</GR_Mechachicken_Corpse.description>
+  <GR_Mechachicken_Meat.label>мясо мехацыпа</GR_Mechachicken_Meat.label>
+  <GR_Mechachicken_Meat.description>мясо мехацыпа</GR_Mechachicken_Meat.description>
+  <GR_Mechachicken_Corpse.label>труп мехацыпа</GR_Mechachicken_Corpse.label>
+  <GR_Mechachicken_Corpse.description>труп мехацыпа</GR_Mechachicken_Corpse.description>
 
 
   <!-- Mechanoid - Insectoid -->
 
-  <GR_Mechaspider.label>mechaspider</GR_Mechaspider.label>
-  <GR_Mechaspider.description>This cybernetic organism has traits from both its insectoid and mechanoid origins. The mechaspider is armed with a powerful twin-coiled laser machine gun, perfect to obliterate enemies in a rain of laser fire. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechaspider can rain death upon enemies. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechaspider.description>
-  <GR_Mechaspider.tools.0.label>head</GR_Mechaspider.tools.0.label>
+  <GR_Mechaspider.label>мехапаук</GR_Mechaspider.label>
+  <GR_Mechaspider.description>Этот кибернетический организм имеет черты как от насекомых, так и от механоидов. Мехапаук вооружен мощным сдвоенным лазерным пулеметом, идеально подходящим для уничтожения врагов под дождем лазерного огня. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить органические компоненты.\n\nПолезные способности: пока укротитель находится рядом, чтобы направлять его, мехапаук может пролить смерть на врагов. Как и все гибриды механоидов, он производит промышленные компоненты каждые пару дней.</GR_Mechaspider.description>
+  <GR_Mechaspider.tools.0.label>голова</GR_Mechaspider.tools.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mechaspider_Meat.label>mechaspider meat</GR_Mechaspider_Meat.label>
-  <GR_Mechaspider_Meat.description>mechaspider meat</GR_Mechaspider_Meat.description>
-  <GR_Mechaspider_Corpse.label>mechaspider corpse</GR_Mechaspider_Corpse.label>
-  <GR_Mechaspider_Corpse.description>mechaspider corpse</GR_Mechaspider_Corpse.description>
+  <GR_Mechaspider_Meat.label>мясо мехапаука</GR_Mechaspider_Meat.label>
+  <GR_Mechaspider_Meat.description>мясо мехапаука</GR_Mechaspider_Meat.description>
+  <GR_Mechaspider_Corpse.label>труп мехапаука</GR_Mechaspider_Corpse.label>
+  <GR_Mechaspider_Corpse.description>труп мехапаука</GR_Mechaspider_Corpse.description>
 
 
   <!-- Mechanoid - Muffalo -->
 
-  <GR_Mechamuffalo.label>mecha-muffalo</GR_Mechamuffalo.label>
-  <GR_Mechamuffalo.description>This hulking cybernetic organism has been reinforced with an adaptive plasteel mesh, enabling it to carry an incredible amount of stuff. The mecha-muffalo is the perfect pack animal, but it is quite useless in an offensive role. Defensively, however, it is armed with a smoke cannon that it can use to cover the battlefield in a dense cloud of dust. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components. (due to game limitations, the Mechamuffalo consumes around 0.01 nutrition, enough to avoid messing up caravan calculations)\n\nUseful abilities: As long as a tamer is near to direct it, the mecha-muffalo can use its smoke cannon to scramble enemy sight. Like all mechanoid hybrids it produces industrial components every couple days. It also produces a weird metallic wool, and metallic tasting milk.</GR_Mechamuffalo.description>
-  <GR_Mechamuffalo.tools.0.label>head</GR_Mechamuffalo.tools.0.label>
+  <GR_Mechamuffalo.label>мехамуффало</GR_Mechamuffalo.label>
+  <GR_Mechamuffalo.description>Этот гигантский кибернетический организм был усилен адаптивной сеткой из пластали, что позволяет ему нести невероятное количество вещей. Мехамуффало - идеальное вьючное животное, но оно совершенно бесполезно в атакующей роли. Однако в обороне он вооружен дымовой пушкой, которую он может использовать для покрытия поля битвы густым облаком пыли. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить органические компоненты. (из-за ограничений игры, Мехамуффало потребляет около 0,01 пищи, что достаточно, чтобы избежать путаницы с караваном)\n\nПолезные способности: Пока укротитель находится рядом, чтобы направлять его, мехамуффало может использовать свою дымовую пушку, чтобы взломать вражеский прицел. Как и все гибриды механоидов, он производит промышленные компоненты каждые пару дней. А также производит странную металлическую шерсть и металлическое молоко.</GR_Mechamuffalo.description>
+  <GR_Mechamuffalo.tools.0.label>голова</GR_Mechamuffalo.tools.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mechamuffalo_Meat.label>mecha-muffalo meat</GR_Mechamuffalo_Meat.label>
-  <GR_Mechamuffalo_Meat.description>mecha-muffalo meat</GR_Mechamuffalo_Meat.description>
-  <GR_Mechamuffalo_Corpse.label>mecha-muffalo corpse</GR_Mechamuffalo_Corpse.label>
-  <GR_Mechamuffalo_Corpse.description>mecha-muffalo corpse</GR_Mechamuffalo_Corpse.description>
+  <GR_Mechamuffalo_Meat.label>мясо мехамуффало</GR_Mechamuffalo_Meat.label>
+  <GR_Mechamuffalo_Meat.description>мясо мехамуффало</GR_Mechamuffalo_Meat.description>
+  <GR_Mechamuffalo_Corpse.label>труп мехамуффало</GR_Mechamuffalo_Corpse.label>
+  <GR_Mechamuffalo_Corpse.description>труп мехамуффало</GR_Mechamuffalo_Corpse.description>
 
 
   <!-- Mechanoid - Rodent -->
 
-  <GR_Mecharat.label>mecha-rat</GR_Mecharat.label>
-  <GR_Mecharat.description>This tiny cybernetic organism can be mass-produced as a kind of "suicide weapon". It is very fast, and armed with a short ranged stun gun, so hordes of mecha-rats can be sent to the front lines to keep enemies stunned and in check. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, mecha-rats can be sent to the enemy to stun them. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mecharat.description>
-  <GR_Mecharat.tools.0.label>head</GR_Mecharat.tools.0.label>
+  <GR_Mecharat.label>мехакрыс</GR_Mecharat.label>
+  <GR_Mecharat.description>Этот крошечный кибернетический организм можно массово производить как своего рода зерг-раш. Он очень быстрый и вооружен электрошокером, поэтому орды механических крыс могут быть отправлены на передовую, чтобы держать врагов в оглушении и контроле. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить органические компоненты.\n\nПолезные способности: Пока укротитель находится рядом, чтобы направлять, можно направить на противника механических крыс, чтобы оглушить его. Как и все гибриды механоидов, он производит промышленные компоненты каждые пару дней.</GR_Mecharat.description>
+  <GR_Mecharat.tools.0.label>голова</GR_Mecharat.tools.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mecharat_Meat.label>mecha-rat meat</GR_Mecharat_Meat.label>
-  <GR_Mecharat_Meat.description>mecha-rat meat</GR_Mecharat_Meat.description>
-  <GR_Mecharat_Corpse.label>mecha-rat corpse</GR_Mecharat_Corpse.label>
-  <GR_Mecharat_Corpse.description>mecha-rat corpse</GR_Mecharat_Corpse.description>
+  <GR_Mecharat_Meat.label>мясо мехакрысы</GR_Mecharat_Meat.label>
+  <GR_Mecharat_Meat.description>мясо мехакрысы</GR_Mecharat_Meat.description>
+  <GR_Mecharat_Corpse.label>труп мехакрысы</GR_Mecharat_Corpse.label>
+  <GR_Mecharat_Corpse.description>труп мехакрысы</GR_Mecharat_Corpse.description>
 
 
   <!-- Mechanoid - Reptile -->
 
-  <GR_Mechaturtle.label>mechaturtle</GR_Mechaturtle.label>
-  <GR_Mechaturtle.description>This cybernetic beast is heavily armoured with a plasteel-encased biomechanical shell. It is armed with a poison spitting cannon. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechaturtle can hurl poison projectiles to the enemy. Like all mechanoid hybrids it produces industrial components every couple days. It is, of course, quite slow.</GR_Mechaturtle.description>
-  <GR_Mechaturtle.tools.0.label>head</GR_Mechaturtle.tools.0.label>
+  <GR_Mechaturtle.label>мехачерепаха</GR_Mechaturtle.label>
+  <GR_Mechaturtle.description>Этот кибернетический зверь в большой степени защищен биомеханической оболочкой с пласталевым покрытием. Он вооружен пушкой с ядом. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить органические компоненты.\n\nПолезные способности: пока укротитель находится рядом, чтобы направлять его, мехачерепаха может метать во врага ядовитые снаряды. Как и все гибриды механоидов, он производит промышленные компоненты каждые пару дней. И, конечно, довольно медленно.</GR_Mechaturtle.description>
+  <GR_Mechaturtle.tools.0.label>голова</GR_Mechaturtle.tools.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mechaturtle_Meat.label>mechaturtle meat</GR_Mechaturtle_Meat.label>
-  <GR_Mechaturtle_Meat.description>mechaturtle meat</GR_Mechaturtle_Meat.description>
-  <GR_Mechaturtle_Corpse.label>mechaturtle corpse</GR_Mechaturtle_Corpse.label>
-  <GR_Mechaturtle_Corpse.description>mechaturtle corpse</GR_Mechaturtle_Corpse.description>
+  <GR_Mechaturtle_Meat.label>мясо мехачерепахи</GR_Mechaturtle_Meat.label>
+  <GR_Mechaturtle_Meat.description>мясо мехачерепахи</GR_Mechaturtle_Meat.description>
+  <GR_Mechaturtle_Corpse.label>труп мехачерепахи</GR_Mechaturtle_Corpse.label>
+  <GR_Mechaturtle_Corpse.description>труп мехачерепахи</GR_Mechaturtle_Corpse.description>
 
 
   <!-- Mechanoid - Wolf -->
 
-  <GR_Mechawolf.label>mechawolf</GR_Mechawolf.label>
-  <GR_Mechawolf.description>This cybernetic beast has been augmented with a powerful synthetic structure capable of generating waves of cryogenic liquid. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechawolf can launch cryo projectiles that freeze the ground (and enemies!) in contact. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechawolf.description>
-  <GR_Mechawolf.tools.0.label>head</GR_Mechawolf.tools.0.label>
+  <GR_Mechawolf.label>мехаволк</GR_Mechawolf.label>
+  <GR_Mechawolf.description>Этот кибернетический зверь был дополнен мощной синтетической структурой, способной генерировать волны криогенной жидкости. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить органические компоненты.\n\nПолезные способности: Пока укротитель находится рядом, чтобы направлять его, мехаволк может запускать крио снаряды, которые замораживают землю (и врагов!) при контакте. Как и все гибриды механоидов, он производит промышленные компоненты каждые пару дней.</GR_Mechawolf.description>
+  <GR_Mechawolf.tools.0.label>голова</GR_Mechawolf.tools.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mechawolf_Meat.label>mechawolf meat</GR_Mechawolf_Meat.label>
-  <GR_Mechawolf_Meat.description>mechawolf meat</GR_Mechawolf_Meat.description>
-  <GR_Mechawolf_Corpse.label>mechawolf corpse</GR_Mechawolf_Corpse.label>
-  <GR_Mechawolf_Corpse.description>mechawolf corpse</GR_Mechawolf_Corpse.description>
+  <GR_Mechawolf_Meat.label>мясо мехаволка</GR_Mechawolf_Meat.label>
+  <GR_Mechawolf_Meat.description>мясо мехаволка</GR_Mechawolf_Meat.description>
+  <GR_Mechawolf_Corpse.label>труп мехаволка</GR_Mechawolf_Corpse.label>
+  <GR_Mechawolf_Corpse.description>труп мехаволка</GR_Mechawolf_Corpse.description>
 
 
   <!-- Mechanoid - Thrumbo -->
 
-  <GR_Mechathrumbo.label>mechathrumbo</GR_Mechathrumbo.label>
-  <GR_Mechathrumbo.description>This hulking cybernetic behemoth is why you don't need tanks in the Rim. Its huge plasteel carapace hides a miniaturized synchrotron that constantly generates small amounts of antimatter, which is instantly used to fill a miniature antigrain warhead. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechathrumbo is like a mortar turret, armed with self-replenishing miniature antigrain warheads. This is SO end game... Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechathrumbo.description>
-  <GR_Mechathrumbo.tools.0.label>head</GR_Mechathrumbo.tools.0.label>
+  <GR_Mechathrumbo.label>мехатрумбо</GR_Mechathrumbo.label>
+  <GR_Mechathrumbo.description>Этот гигантский кибернетический бегемот - вот почему вам не нужны танки в Rim. Его огромный пласталевый панцирь скрывает миниатюрный синхротрон, который постоянно генерирует небольшое количество антивещества, который мгновенно используется для заполнения миниатюрной боеголовки с антиматерией. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить органические компоненты.\n\nПолезные способности: пока укротитель находится рядом, чтобы направлять его, мехатрумбо похож на минометную башню, вооруженную самовосстанавливающимися миниатюрными боеголовками с антиматерией. Это конец игры... Как и все механоидные гибриды, он производит промышленные компоненты каждые пару дней.</GR_Mechathrumbo.description>
+  <GR_Mechathrumbo.tools.0.label>голова</GR_Mechathrumbo.tools.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mechathrumbo_Meat.label>mechathrumbo meat</GR_Mechathrumbo_Meat.label>
-  <GR_Mechathrumbo_Meat.description>mechathrumbo meat</GR_Mechathrumbo_Meat.description>
-  <GR_Mechathrumbo_Corpse.label>mechathrumbo corpse</GR_Mechathrumbo_Corpse.label>
-  <GR_Mechathrumbo_Corpse.description>mechathrumbo corpse</GR_Mechathrumbo_Corpse.description>
+  <GR_Mechathrumbo_Meat.label>мясо мехатрумбо</GR_Mechathrumbo_Meat.label>
+  <GR_Mechathrumbo_Meat.description>мясо мехатрумбо</GR_Mechathrumbo_Meat.description>
+  <GR_Mechathrumbo_Corpse.label>труп мехатрумбо</GR_Mechathrumbo_Corpse.label>
+  <GR_Mechathrumbo_Corpse.description>труп мехатрумбо</GR_Mechathrumbo_Corpse.description>
 
 
   <!-- Mechanoid - Cat -->
 
-  <GR_Mechacat.label>mechacat</GR_Mechacat.label>
-  <GR_Mechacat.description>The tail of this robotic creature has been crafted from an amalgamation of scyther blades and mechanite self-replicators. This allows the mechacat to use its tail as a throwable weapon, and quickly regenerate it to use it again. Like all mechanoid hybrids, it doesn't need to eat, it can't reproduce and it doesn't age. It needs to rest a bit to recharge its organic components.\n\nUseful abilities: As long as a tamer is near to direct it, the mechacat can use its tail as a dangerous throwable scythe. Like all mechanoid hybrids it produces industrial components every couple days.</GR_Mechacat.description>
-  <GR_Mechacat.tools.0.label>head</GR_Mechacat.tools.0.label>
+  <GR_Mechacat.label>мехакот</GR_Mechacat.label>
+  <GR_Mechacat.description>Хвост этого роботизированного существа был создан из слияния лезвий косы и механических саморепликаторов. Это позволяет мехакоту использовать свой хвост в качестве метательного оружия и быстро регенерировать его, чтобы использовать его снова. Как и все механоидные гибриды, ему не нужно есть, он не может размножаться и не стареет. Нужно лишь немного отдохнуть, чтобы перезарядить органические компоненты.\n\nПолезные способности: пока укротитель находится рядом, чтобы направлять его, мехакот может использовать свой хвост в качестве опасной бросаемой косы. Как и все гибриды механоидов, он производит промышленные компоненты каждые пару дней.</GR_Mechacat.description>
+  <GR_Mechacat.tools.0.label>голова</GR_Mechacat.tools.0.label>
   <!-- No Leather: Butcher Products -->
-  <GR_Mechacat_Meat.label>mechacat meat</GR_Mechacat_Meat.label>
-  <GR_Mechacat_Meat.description>mechacat meat</GR_Mechacat_Meat.description>
-  <GR_Mechacat_Corpse.label>mechacat corpse</GR_Mechacat_Corpse.label>
-  <GR_Mechacat_Corpse.description>mechacat corpse</GR_Mechacat_Corpse.description>
+  <GR_Mechacat_Meat.label>мясо мехакота</GR_Mechacat_Meat.label>
+  <GR_Mechacat_Meat.description>мясо мехакота</GR_Mechacat_Meat.description>
+  <GR_Mechacat_Corpse.label>труп мехакота</GR_Mechacat_Corpse.label>
+  <GR_Mechacat_Corpse.description>труп мехакота</GR_Mechacat_Corpse.description>
 
 
 </LanguageData>

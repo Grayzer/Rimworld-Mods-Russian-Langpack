@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_FeatherdustHigh.stages.0.label>high on featherdust</GR_FeatherdustHigh.stages.0.label>
-  <GR_FeatherdustHigh.stages.0.description>I just smoked ground feathers from a scientific abomination and... I feel fine.</GR_FeatherdustHigh.stages.0.description>
+  <GR_FeatherdustHigh.stages.0.label>одурманен пыльником</GR_FeatherdustHigh.stages.0.label>
+  <GR_FeatherdustHigh.stages.0.description>Я только выкурил перья из научной мерзости и... чувствую себя хорошо.</GR_FeatherdustHigh.stages.0.description>
 
 
   <!-- Smokeleaf addiction -->
 
-  <GR_FeatherdustWithdrawal.stages.1.label>Featherdust withdrawal</GR_FeatherdustWithdrawal.stages.1.label>
-  <GR_FeatherdustWithdrawal.stages.1.description>I really wish I could smoke.</GR_FeatherdustWithdrawal.stages.1.description>
+  <GR_FeatherdustWithdrawal.stages.1.label>ломка от пыльника</GR_FeatherdustWithdrawal.stages.1.label>
+  <GR_FeatherdustWithdrawal.stages.1.description>Я действительно хотел бы курить.</GR_FeatherdustWithdrawal.stages.1.description>
 
 
 </LanguageData>

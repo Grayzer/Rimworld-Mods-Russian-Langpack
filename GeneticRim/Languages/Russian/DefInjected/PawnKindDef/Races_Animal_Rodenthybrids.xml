@@ -143,30 +143,30 @@
 
   <!-- Beaver - Wolf -->
 
-  <GR_Beaverwolf.label>медвеволк</GR_Beaverwolf.label>
-  <GR_Beaverwolf.labelPlural>медвеволки</GR_Beaverwolf.labelPlural>
-  <GR_Beaverwolf.lifeStages.0.label>щенок медвеволка</GR_Beaverwolf.lifeStages.0.label>
-  <GR_Beaverwolf.lifeStages.0.labelPlural>щенки медвеволка</GR_Beaverwolf.lifeStages.0.labelPlural>
-  <GR_Beaverwolf.lifeStages.0.labelMale>щенок медвеволка</GR_Beaverwolf.lifeStages.0.labelMale>
-  <GR_Beaverwolf.lifeStages.0.labelMalePlural>щенки медвеволка</GR_Beaverwolf.lifeStages.0.labelMalePlural>
-  <GR_Beaverwolf.lifeStages.0.labelFemale>щена медвеволка</GR_Beaverwolf.lifeStages.0.labelFemale>
-  <GR_Beaverwolf.lifeStages.0.labelFemalePlural>щены медвеволка</GR_Beaverwolf.lifeStages.0.labelFemalePlural>
-  <GR_Beaverwolf.lifeStages.1.label>медвеволк</GR_Beaverwolf.lifeStages.1.label>
-  <GR_Beaverwolf.lifeStages.1.labelPlural>медвеволки</GR_Beaverwolf.lifeStages.1.labelPlural>
-  <GR_Beaverwolf.lifeStages.1.labelMale>медвеволк</GR_Beaverwolf.lifeStages.1.labelMale>
-  <GR_Beaverwolf.lifeStages.1.labelMalePlural>медвеволки</GR_Beaverwolf.lifeStages.1.labelMalePlural>
-  <GR_Beaverwolf.lifeStages.1.labelFemale>медвеволчица</GR_Beaverwolf.lifeStages.1.labelFemale>
-  <GR_Beaverwolf.lifeStages.1.labelFemalePlural>медвеволчицы</GR_Beaverwolf.lifeStages.1.labelFemalePlural>
-  <GR_Beaverwolf.lifeStages.2.label>медвеволк</GR_Beaverwolf.lifeStages.2.label>
-  <GR_Beaverwolf.lifeStages.2.labelPlural>медвеволк</GR_Beaverwolf.lifeStages.2.labelPlural>
-  <GR_Beaverwolf.lifeStages.2.labelMale>медвеволк</GR_Beaverwolf.lifeStages.2.labelMale>
-  <GR_Beaverwolf.lifeStages.2.labelMalePlural>медвеволки</GR_Beaverwolf.lifeStages.2.labelMalePlural>
-  <GR_Beaverwolf.lifeStages.2.labelFemale>медвеволчица</GR_Beaverwolf.lifeStages.2.labelFemale>
-  <GR_Beaverwolf.lifeStages.2.labelFemalePlural>медвеволчицы</GR_Beaverwolf.lifeStages.2.labelFemalePlural>
-  <GR_Beaverwolf.labelMale>медвеволк</GR_Beaverwolf.labelMale>
-  <GR_Beaverwolf.labelMalePlural>медвеволки</GR_Beaverwolf.labelMalePlural>
-  <GR_Beaverwolf.labelFemale>медвеволчица</GR_Beaverwolf.labelFemale>
-  <GR_Beaverwolf.labelFemalePlural>медвеволчицы</GR_Beaverwolf.labelFemalePlural>
+  <GR_Beaverwolf.label>боброволк</GR_Beaverwolf.label>
+  <GR_Beaverwolf.labelPlural>боброволки</GR_Beaverwolf.labelPlural>
+  <GR_Beaverwolf.lifeStages.0.label>щенок боброволка</GR_Beaverwolf.lifeStages.0.label>
+  <GR_Beaverwolf.lifeStages.0.labelPlural>щенки боброволка</GR_Beaverwolf.lifeStages.0.labelPlural>
+  <GR_Beaverwolf.lifeStages.0.labelMale>щенок боброволка</GR_Beaverwolf.lifeStages.0.labelMale>
+  <GR_Beaverwolf.lifeStages.0.labelMalePlural>щенки боброволка</GR_Beaverwolf.lifeStages.0.labelMalePlural>
+  <GR_Beaverwolf.lifeStages.0.labelFemale>щена боброволка</GR_Beaverwolf.lifeStages.0.labelFemale>
+  <GR_Beaverwolf.lifeStages.0.labelFemalePlural>щены боброволка</GR_Beaverwolf.lifeStages.0.labelFemalePlural>
+  <GR_Beaverwolf.lifeStages.1.label>боброволк</GR_Beaverwolf.lifeStages.1.label>
+  <GR_Beaverwolf.lifeStages.1.labelPlural>боброволки</GR_Beaverwolf.lifeStages.1.labelPlural>
+  <GR_Beaverwolf.lifeStages.1.labelMale>боброволк</GR_Beaverwolf.lifeStages.1.labelMale>
+  <GR_Beaverwolf.lifeStages.1.labelMalePlural>боброволки</GR_Beaverwolf.lifeStages.1.labelMalePlural>
+  <GR_Beaverwolf.lifeStages.1.labelFemale>боброволчица</GR_Beaverwolf.lifeStages.1.labelFemale>
+  <GR_Beaverwolf.lifeStages.1.labelFemalePlural>боброволчицы</GR_Beaverwolf.lifeStages.1.labelFemalePlural>
+  <GR_Beaverwolf.lifeStages.2.label>боброволк</GR_Beaverwolf.lifeStages.2.label>
+  <GR_Beaverwolf.lifeStages.2.labelPlural>боброволк</GR_Beaverwolf.lifeStages.2.labelPlural>
+  <GR_Beaverwolf.lifeStages.2.labelMale>боброволк</GR_Beaverwolf.lifeStages.2.labelMale>
+  <GR_Beaverwolf.lifeStages.2.labelMalePlural>боброволки</GR_Beaverwolf.lifeStages.2.labelMalePlural>
+  <GR_Beaverwolf.lifeStages.2.labelFemale>боброволчица</GR_Beaverwolf.lifeStages.2.labelFemale>
+  <GR_Beaverwolf.lifeStages.2.labelFemalePlural>боброволчицы</GR_Beaverwolf.lifeStages.2.labelFemalePlural>
+  <GR_Beaverwolf.labelMale>боброволк</GR_Beaverwolf.labelMale>
+  <GR_Beaverwolf.labelMalePlural>боброволки</GR_Beaverwolf.labelMalePlural>
+  <GR_Beaverwolf.labelFemale>боброволчица</GR_Beaverwolf.labelFemale>
+  <GR_Beaverwolf.labelFemalePlural>боброволчицы</GR_Beaverwolf.labelFemalePlural>
 
 
   <!-- Rabbit - Cat -->

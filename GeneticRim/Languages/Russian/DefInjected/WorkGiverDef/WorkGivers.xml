@@ -1,61 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_DoBillsGenetics.label>works at genetics table</GR_DoBillsGenetics.label>
-  <GR_DoBillsGenetics.verb>extract genetic materials</GR_DoBillsGenetics.verb>
-  <GR_DoBillsGenetics.gerund>extracting genetic material at</GR_DoBillsGenetics.gerund>
+  <GR_DoBillsGenetics.label>работает за столом генетической экстракции</GR_DoBillsGenetics.label>
+  <GR_DoBillsGenetics.verb>извлечение генетического материала</GR_DoBillsGenetics.verb>
+  <GR_DoBillsGenetics.gerund>извлечение генетического материала из</GR_DoBillsGenetics.gerund>
 
-  <GR_DoBillsGenePod.label>works at genepod</GR_DoBillsGenePod.label>
-  <GR_DoBillsGenePod.verb>combining genetic materials</GR_DoBillsGenePod.verb>
-  <GR_DoBillsGenePod.gerund>combining genetic material at</GR_DoBillsGenePod.gerund>
+  <GR_DoBillsGenePod.label>работает за генным баком</GR_DoBillsGenePod.label>
+  <GR_DoBillsGenePod.verb>комбинирование генетического материала</GR_DoBillsGenePod.verb>
+  <GR_DoBillsGenePod.gerund>комбинирование генетического материала</GR_DoBillsGenePod.gerund>
 
-  <GR_DoBillsAdvancedGenePod.label>works at advanced genepod</GR_DoBillsAdvancedGenePod.label>
-  <GR_DoBillsAdvancedGenePod.verb>combining genetic materials</GR_DoBillsAdvancedGenePod.verb>
-  <GR_DoBillsAdvancedGenePod.gerund>combining genetic material at</GR_DoBillsAdvancedGenePod.gerund>
+  <GR_DoBillsAdvancedGenePod.label>работает за продвинутым генным баком</GR_DoBillsAdvancedGenePod.label>
+  <GR_DoBillsAdvancedGenePod.verb>комбинирование генетического материала</GR_DoBillsAdvancedGenePod.verb>
+  <GR_DoBillsAdvancedGenePod.gerund>комбинирование генетического материала</GR_DoBillsAdvancedGenePod.gerund>
 
-  <GR_DoBillsPulper.label>works at wood pulper</GR_DoBillsPulper.label>
-  <GR_DoBillsPulper.verb>pulping wood</GR_DoBillsPulper.verb>
-  <GR_DoBillsPulper.gerund>pulping wood at</GR_DoBillsPulper.gerund>
+  <GR_DoBillsPulper.label>работает за измельчителем</GR_DoBillsPulper.label>
+  <GR_DoBillsPulper.verb>измельчение дерева</GR_DoBillsPulper.verb>
+  <GR_DoBillsPulper.gerund>измельчение дерева</GR_DoBillsPulper.gerund>
 
-  <GR_DoBillsRecycler.label>works at recycler</GR_DoBillsRecycler.label>
-  <GR_DoBillsRecycler.verb>pulping corpse</GR_DoBillsRecycler.verb>
-  <GR_DoBillsRecycler.gerund>pulping corpse at</GR_DoBillsRecycler.gerund>
+  <GR_DoBillsRecycler.label>работает за утилизатором</GR_DoBillsRecycler.label>
+  <GR_DoBillsRecycler.verb>измельчение трупов</GR_DoBillsRecycler.verb>
+  <GR_DoBillsRecycler.gerund>измельчение трупа</GR_DoBillsRecycler.gerund>
 
-  <GR_DoBillsGeneRecombinator.label>works at gene recombinator</GR_DoBillsGeneRecombinator.label>
-  <GR_DoBillsGeneRecombinator.verb>recombining genes</GR_DoBillsGeneRecombinator.verb>
-  <GR_DoBillsGeneRecombinator.gerund>recombining genes at</GR_DoBillsGeneRecombinator.gerund>
+  <GR_DoBillsGeneRecombinator.label>работает за рекомбинатором генов</GR_DoBillsGeneRecombinator.label>
+  <GR_DoBillsGeneRecombinator.verb>рекомбинация генов</GR_DoBillsGeneRecombinator.verb>
+  <GR_DoBillsGeneRecombinator.gerund>рекомбинация генов</GR_DoBillsGeneRecombinator.gerund>
 
-  <GR_DoBillsGeneDuplicator.label>works at gene duplicator</GR_DoBillsGeneDuplicator.label>
-  <GR_DoBillsGeneDuplicator.verb>duplicating genes</GR_DoBillsGeneDuplicator.verb>
-  <GR_DoBillsGeneDuplicator.gerund>duplicating genes at</GR_DoBillsGeneDuplicator.gerund>
+  <GR_DoBillsGeneDuplicator.label>работает за дубликатором генов</GR_DoBillsGeneDuplicator.label>
+  <GR_DoBillsGeneDuplicator.verb>дубликация генов</GR_DoBillsGeneDuplicator.verb>
+  <GR_DoBillsGeneDuplicator.gerund>дубликация генов</GR_DoBillsGeneDuplicator.gerund>
 
-  <GR_DoBillsVat.label>works at tissue growing vat</GR_DoBillsVat.label>
-  <GR_DoBillsVat.verb>growing tissues</GR_DoBillsVat.verb>
-  <GR_DoBillsVat.gerund>growing tissues at</GR_DoBillsVat.gerund>
+  <GR_DoBillsVat.label>работает за чаном клонирования</GR_DoBillsVat.label>
+  <GR_DoBillsVat.verb>выращивается</GR_DoBillsVat.verb>
+  <GR_DoBillsVat.gerund>выращивается</GR_DoBillsVat.gerund>
 
-  <GR_DoBillsSerumTable.label>works at paragon serum extraction table</GR_DoBillsSerumTable.label>
-  <GR_DoBillsSerumTable.verb>extracting serum</GR_DoBillsSerumTable.verb>
-  <GR_DoBillsSerumTable.gerund>extracting serum at</GR_DoBillsSerumTable.gerund>
+  <GR_DoBillsSerumTable.label>работает за столом экстракции образцовой сыворотки</GR_DoBillsSerumTable.label>
+  <GR_DoBillsSerumTable.verb>извлечение сыворотки</GR_DoBillsSerumTable.verb>
+  <GR_DoBillsSerumTable.gerund>извлечение сыворотки</GR_DoBillsSerumTable.gerund>
 
-  <GR_DoBillsGenetrainerBench.label>works at genetrainer bench</GR_DoBillsGenetrainerBench.label>
-  <GR_DoBillsGenetrainerBench.verb>crafting genetrainer</GR_DoBillsGenetrainerBench.verb>
-  <GR_DoBillsGenetrainerBench.gerund>crafting genetrainer at</GR_DoBillsGenetrainerBench.gerund>
+  <GR_DoBillsGenetrainerBench.label>работает за машиной генномодификаторов</GR_DoBillsGenetrainerBench.label>
+  <GR_DoBillsGenetrainerBench.verb>создание генномодификатора</GR_DoBillsGenetrainerBench.verb>
+  <GR_DoBillsGenetrainerBench.gerund>создание генномодификатора</GR_DoBillsGenetrainerBench.gerund>
 
-  <GR_DoBillsAnimalEnrichment.label>works at animal enrichment center</GR_DoBillsAnimalEnrichment.label>
-  <GR_DoBillsAnimalEnrichment.verb>mixing alpha serum</GR_DoBillsAnimalEnrichment.verb>
-  <GR_DoBillsAnimalEnrichment.gerund>mixing alpha serum at</GR_DoBillsAnimalEnrichment.gerund>
+  <GR_DoBillsAnimalEnrichment.label>работает в центре улучшения животных</GR_DoBillsAnimalEnrichment.label>
+  <GR_DoBillsAnimalEnrichment.verb>смешивание альфа сыворотки</GR_DoBillsAnimalEnrichment.verb>
+  <GR_DoBillsAnimalEnrichment.gerund>смешивание альфа сыворотки</GR_DoBillsAnimalEnrichment.gerund>
 
-  <GR_AnimalResource.label>gather animal resource</GR_AnimalResource.label>
-  <GR_AnimalResource.verb>gather animal resource from</GR_AnimalResource.verb>
-  <GR_AnimalResource.gerund>gathering animal resource from</GR_AnimalResource.gerund>
+  <GR_AnimalResource.label>собрать животный ресурс</GR_AnimalResource.label>
+  <GR_AnimalResource.verb>собрать животный ресурс с</GR_AnimalResource.verb>
+  <GR_AnimalResource.gerund>собрать животный ресурс из</GR_AnimalResource.gerund>
 
-  <GR_InsertGenesIntoGenePod.label>inserting genetic material on gene pod</GR_InsertGenesIntoGenePod.label>
-  <GR_InsertGenesIntoGenePod.verb>insert genetic material on gene pod</GR_InsertGenesIntoGenePod.verb>
-  <GR_InsertGenesIntoGenePod.gerund>inserting genetic material on gene pod</GR_InsertGenesIntoGenePod.gerund>
+  <GR_InsertGenesIntoGenePod.label>инжекция генетического материала в генный бак</GR_InsertGenesIntoGenePod.label>
+  <GR_InsertGenesIntoGenePod.verb>инжекция генетического материала в генный бак</GR_InsertGenesIntoGenePod.verb>
+  <GR_InsertGenesIntoGenePod.gerund>инжекция генетического материала в генный бак</GR_InsertGenesIntoGenePod.gerund>
 
-  <GR_InsertGenesIntoGenePod2.label>inserting genetic material on gene pod</GR_InsertGenesIntoGenePod2.label>
-  <GR_InsertGenesIntoGenePod2.verb>insert genetic material on gene pod</GR_InsertGenesIntoGenePod2.verb>
-  <GR_InsertGenesIntoGenePod2.gerund>inserting genetic material on gene pod</GR_InsertGenesIntoGenePod2.gerund>
+  <GR_InsertGenesIntoGenePod2.label>инжекция генетического материала в генный бак</GR_InsertGenesIntoGenePod2.label>
+  <GR_InsertGenesIntoGenePod2.verb>инжекция генетического материала в генный бак</GR_InsertGenesIntoGenePod2.verb>
+  <GR_InsertGenesIntoGenePod2.gerund>инжекция генетического материала в генный бак</GR_InsertGenesIntoGenePod2.gerund>
 
 
 </LanguageData>

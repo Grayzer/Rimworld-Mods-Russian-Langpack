@@ -8,18 +8,18 @@
   <FeatherGrowth>Рост пера</FeatherGrowth>
   <JellyGrowth>Маточное молочко</JellyGrowth>
   <VanillaJellyGrowth>Насыщенность желе</VanillaJellyGrowth>
-  <SacGrowth>Взрывной рост мешка</SacGrowth>
+  <SacGrowth>Рост взрывного мешка</SacGrowth>
   <SilkGrowth>Рост шелка</SilkGrowth>
-  <PoisonGrowth>Полнота яда</PoisonGrowth>
-  <SkinShed>Время распостранения кожи</SkinShed>
+  <PoisonGrowth>Наполненность яда</PoisonGrowth>
+  <SkinShed>Время наростания кожи</SkinShed>
   <TentacleGrowth>Обрезной рост щупальца</TentacleGrowth>
   <JellyGrowth2>Жуткая насыщенность желе</JellyGrowth2>
   <ChocolateEgg>Рост шоколадных яиц</ChocolateEgg>
   <Cryofuel>Производство криотоплива</Cryofuel>
-  <ChemfuelProd>Производство химического топлива</ChemfuelProd>
+  <ChemfuelProd>Производство химтоплива</ChemfuelProd>
   <NeutroglycerinProd>Производство нейтроглицерина</NeutroglycerinProd>
-  <ComponentIndustrialDesc>Производство промышленных компонентов</ComponentIndustrialDesc>
-  <CastoreumProd>Кастореум производство</CastoreumProd>
+  <ComponentIndustrialDesc>Производство компонентов</ComponentIndustrialDesc>
+  <CastoreumProd>Производство касториума</CastoreumProd>
 
 
 
@@ -55,8 +55,8 @@
   <GR_CreatureRageAttackDesc>Отправить существо в кровожадном гневе против своей цели</GR_CreatureRageAttackDesc>
   <GR_DetonateChemfuel>Детонировать химическое топливо</GR_DetonateChemfuel>
   <GR_DetonateChemfuelDesc>Удаленно взорвать резервуары химического топлива этого существа. Это убивает бедного зверя, очевидно</GR_DetonateChemfuelDesc>
-  <GR_InflictChickenRimPox>Inflict Chicken RimPox</GR_InflictChickenRimPox>
-  <GR_InflictChickenRimPoxDesc>Атакует цель и вызывает куриную RimБолезнь изнурительное заболевание</GR_InflictChickenRimPoxDesc>
+  <GR_InflictChickenRimPox>Наложить куриный Rimфилис</GR_InflictChickenRimPox>
+  <GR_InflictChickenRimPoxDesc>Атакует цель и вызывает куриный Rimфилис - изнурительное заболевание</GR_InflictChickenRimPoxDesc>
   <GR_CarryMore>Перенос большего веса</GR_CarryMore>
   <GR_CarryMoreDesc>Этот гибрид несет больший вес, чем обычно, из-за влияния центра контроля животных</GR_CarryMoreDesc>
   <GR_StartAdrenalineBurst>Взрыв адреналина</GR_StartAdrenalineBurst>
@@ -92,19 +92,19 @@
 
   <GR_ANewCreatureWasBorn>Инкубатор готов!</GR_ANewCreatureWasBorn>
   <GR_ANewCreatureWasBornMutant>Инкубатор создал сущ ... Подождите, что это такое???</GR_ANewCreatureWasBornMutant>
-  <GR_CantUseMoreGenetrainers>Генетрейнер был потрачен впустую. К этому колонисту уже применен генетрейнер.</GR_CantUseMoreGenetrainers>
-  <GR_CommandArchotechReport>Показать отчет по проекту</GR_CommandArchotechReport>
-  <GR_CommandArchotechReportDesc>Покажите отчет о готовности к проекту сороконожки archotech.</GR_CommandArchotechReportDesc>
-  <GR_CommandArchotechStartup>Начать проект archotech</GR_CommandArchotechStartup>
-  <GR_CommandArchotechStartupDesc>Активируйте строительную платформу archotech, чтобы начать проект сороконожки archotech.</GR_CommandArchotechStartupDesc>
-  <GR_ArchotechProjectText>Вы готовы начать проект сороконожки archotech.\n\nЭтот процесс займет около 15 дней, и энергетическая сигнатура будет обнаружена на большом расстоянии. Этот вид энергетической подписи указывает на то, что кто-то вмешивается в технологии, выходящие далеко за пределы человеческого понимания, и привлечет банды отчаянных рейдеров и рой смертельных механоидов.\n\nНа вас нападут с такой интенсивностью, которую вы никогда не видели. Сначала убедитесь, что ваша защита подготовлена.\n\nОбратите внимание, что вам все равно понадобится подключить все здания проекта к платформе, чтобы активировать многоножку archotech.</GR_ArchotechProjectText>
-  <GR_ArchotechProjectLaunch>Активировать многоножку archotech</GR_ArchotechProjectLaunch>
-  <GR_ArchotechProjectLaunchDesc>Активируйте многоножку archotech, чтобы уничтожить своих врагов. Или убить всех, включая всех колонистов. Сейчас пятьдесят на пятьдесят.</GR_ArchotechProjectLaunchDesc>
+  <GR_CantUseMoreGenetrainers>Генетрейнер был потрачен впустую. К этому колонисту уже применен генномодификатор.</GR_CantUseMoreGenetrainers>
+  <GR_CommandАрхотекReport>Показать отчет по проекту</GR_CommandАрхотекReport>
+  <GR_CommandАрхотекReportDesc>Покажите отчет о готовности к проекту многоножки архотек.</GR_CommandАрхотекReportDesc>
+  <GR_CommandАрхотекStartup>Начать проект архотек</GR_CommandАрхотекStartup>
+  <GR_CommandАрхотекStartupDesc>Активируйте строительную платформу архотек, чтобы начать проект сороконожки архотек.</GR_CommandАрхотекStartupDesc>
+  <GR_АрхотекProjectText>Вы готовы начать проект сороконожки архотек.\n\nЭтот процесс займет около 15 дней, и энергетическая сигнатура будет обнаружена на большом расстоянии. Этот вид энергетической подписи указывает на то, что кто-то вмешивается в технологии, выходящие далеко за пределы человеческого понимания, и привлечет банды отчаянных рейдеров и рой смертельных механоидов.\n\nНа вас нападут с такой интенсивностью, которую вы никогда не видели. Сначала убедитесь, что ваша защита подготовлена.\n\nОбратите внимание, что вам все равно понадобится подключить все здания проекта к платформе, чтобы активировать многоножку архотек.</GR_АрхотекProjectText>
+  <GR_АрхотекProjectLaunch>Активировать многоножку архотек</GR_АрхотекProjectLaunch>
+  <GR_АрхотекProjectLaunchDesc>Активируйте многоножку архотек, чтобы уничтожить своих врагов. Или убить всех, включая всех колонистов. Сейчас пятьдесят на пятьдесят.</GR_АрхотекProjectLaunchDesc>
 
-  <GR_ArchotechReportCannotLaunch>Невозможно активировать Многоножку Archotech.</GR_ArchotechReportCannotLaunch>
-  <GR_ArchotechReportCanLaunch>Готов активировать Archotech Многоножку.</GR_ArchotechReportCanLaunch>
+  <GR_АрхотекReportCannotLaunch>Невозможно активировать Многоножку Архотек.</GR_АрхотекReportCannotLaunch>
+  <GR_АрхотекReportCanLaunch>Готов активировать Архотек Многоножку.</GR_АрхотекReportCanLaunch>
 
-  <GR_GameOverArchotech>Вы активировали проект Archotech! Эти колонисты присутствовали на пробуждении archotech:\n\n{0}\n\nМногоножка Archotech теперь находится под их контролем, и вы можете уничтожать своих врагов и контролировать планету без сопротивления.\n\nПоздравляем, вы выиграли игру с модом Genetic Rim!</GR_GameOverArchotech>
+  <GR_GameOverАрхотек>Вы активировали проект Архотек! Эти колонисты присутствовали на пробуждении архотек:\n\n{0}\n\nМногоножка Архотек теперь находится под их контролем, и вы можете уничтожать своих врагов и контролировать планету без сопротивления.\n\nПоздравляем, вы выиграли игру с модом Genetic Rim!</GR_GameOverАрхотек>
 
 
 

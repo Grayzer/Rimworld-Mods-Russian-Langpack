@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_RoyalJellyHigh.stages.0.label>royal jelly warmth</GR_RoyalJellyHigh.stages.0.label>
-  <GR_RoyalJellyHigh.stages.0.description>Royal jelly is delicious... I want to eat more of it!</GR_RoyalJellyHigh.stages.0.description>
+  <GR_RoyalJellyHigh.stages.0.label>под действием маточного молочка</GR_RoyalJellyHigh.stages.0.label>
+  <GR_RoyalJellyHigh.stages.0.description>Маточное молочко очень вкусное... Я хочу больше!</GR_RoyalJellyHigh.stages.0.description>
 
 
   <!-- Ambrosia addiction -->
 
-  <GR_RoyalJellyWithdrawal.stages.1.label>royal jelly withdrawal</GR_RoyalJellyWithdrawal.stages.1.label>
-  <GR_RoyalJellyWithdrawal.stages.1.description>I really would love to eat some royal jelly right now.</GR_RoyalJellyWithdrawal.stages.1.description>
+  <GR_RoyalJellyWithdrawal.stages.1.label>ломка от маточного молочка</GR_RoyalJellyWithdrawal.stages.1.label>
+  <GR_RoyalJellyWithdrawal.stages.1.description>Я действительно хотел бы съесть немного маточного молочка прямо сейчас.</GR_RoyalJellyWithdrawal.stages.1.description>
 
 
 </LanguageData>

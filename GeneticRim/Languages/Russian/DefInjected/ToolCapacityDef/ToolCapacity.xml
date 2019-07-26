@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_VeryToxicBite.label>virulent toxic bite</GR_VeryToxicBite.label>
-  <GR_LightToxicBite.label>light toxic bite</GR_LightToxicBite.label>
-  <GR_ToxicExplosion.label>toxic explosion</GR_ToxicExplosion.label>
-  <GR_PlagueBite.label>plagued bite</GR_PlagueBite.label>
-  <GR_HairballBite.label>hairball bite</GR_HairballBite.label>
+  <GR_VeryToxicBite.label>вирулентный токсичный укус</GR_VeryToxicBite.label>
+  <GR_LightToxicBite.label>легкий токсичный укус</GR_LightToxicBite.label>
+  <GR_ToxicExplosion.label>токсичный взрыв</GR_ToxicExplosion.label>
+  <GR_PlagueBite.label>чумной укус</GR_PlagueBite.label>
+  <GR_HairballBite.label>лохматиковый укус</GR_HairballBite.label>
 
 
 </LanguageData>
