@@ -33,5 +33,9 @@
   <WG_Fap_bed.verb>fap</WG_Fap_bed.verb>
   <WG_Fap_bed.gerund>faping</WG_Fap_bed.gerund>
 
+  <WG_HaveSex.label>Havin' sex</WG_HaveSex.label>
+  <WG_HaveSex.verb>have sex</WG_HaveSex.verb>
+  <WG_HaveSex.gerund>having sex</WG_HaveSex.gerund>
+
 
 </LanguageData>

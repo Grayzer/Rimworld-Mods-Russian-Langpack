@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnimalTab.LabelHeaderTip>Click: сортировка по имени\nCtrl + click: сортировка по виду</AnimalTab.LabelHeaderTip>
+  <AnimalTab.AnimalRenamed>{0} теперь известен как {1}.</AnimalTab.AnimalRenamed>
+  <AnimalTab.CtrlClickToRename>Ctrl + click: переименовать</AnimalTab.CtrlClickToRename>
+  <AnimalTab.GatherableTip>{0} x{1}</AnimalTab.GatherableTip>
+  <AnimalTab.AllowedAreaTip>Shift + click: массовое ограничение разрешенной площади\nCtrl + click: управление областями</AnimalTab.AllowedAreaTip>
+  <AnimalTab.MasterHeaderTip>Shift + click: массовое назначение хозяина</AnimalTab.MasterHeaderTip>
+  <AnimalTab.MassAssignMasterNone>Отменить назначения</AnimalTab.MassAssignMasterNone>
+  <AnimalTab.MassAssignMasterBonded>Назначить колонистам</AnimalTab.MassAssignMasterBonded>
+  <AnimalTab.MassAssignMaster>Назначить всех на {0} ( Навык {1}, {2}/{3} можно назначить )</AnimalTab.MassAssignMaster>
+  <AnimalTab.NoObedientAnimals>Нет послушных животных, чтобы назначить</AnimalTab.NoObedientAnimals>
+
+  <AnimalTab.Not>не {0}</AnimalTab.Not>
+  <AnimalTab.Any>любое</AnimalTab.Any>
+  <AnimalTab.All>Все</AnimalTab.All>
+  <AnimalTab.And> и </AnimalTab.And>
+  <AnimalTab.Or> или </AnimalTab.Or>
+  <AnimalTab.Comma>, </AnimalTab.Comma>
+
+  <AnimalTab.FilterTip>Показаны {0} животных\n\nClick для показа {1} животных</AnimalTab.FilterTip>
+  <AnimalTab.TrainableFilterTip>Показывать животных, обученных в {0}\n\nClick для выбора фильтра</AnimalTab.TrainableFilterTip>
+  <AnimalTab.IntelligenceFilterTip>Показывать животных с интеллектом {0} or higher\n\nClick для выбора фильтра</AnimalTab.IntelligenceFilterTip>
+  <AnimalTab.PawnKindFilterTip>Показывать {0}\n\nClick для выбора фильтра</AnimalTab.PawnKindFilterTip>
+  <AnimalTab.FilterInactiveTip>Показывать всех животных\n\nClick для выбора фильтра</AnimalTab.FilterInactiveTip>
+  <AnimalTab.XofYShown>{0} из {1} животных показано</AnimalTab.XofYShown>
+
+  <!-- Because for some odd reason, TrainableIntelligendeDefs have their labels defined with keyed translations
+    and vanilla doesn't define the label for 'Super Advanced', presumably because it is not used. -->
+  <TrainableIntelligence_SuperAdvanced>super advanced</TrainableIntelligence_SuperAdvanced>
+
+  <!-- training tooltip status lines -->
+  <Fluffy.AnimalTab.XHasMasteredY>{0} освоил {1}</Fluffy.AnimalTab.XHasMasteredY>
+  <Fluffy.AnimalTab.XHasLearnedYOutOfZ>{0} выучил {1}/{2} из этого навыка</Fluffy.AnimalTab.XHasLearnedYOutOfZ>
+  <Fluffy.AnimalTab.XHasForgottenYOutOfZ>{0} забыл {1}/{2} из этого навыка</Fluffy.AnimalTab.XHasForgottenYOutOfZ>
+  <Fluffy.AnimalTab.XIsDesignatedTrainY>{0} предназначен для тренировки {1}</Fluffy.AnimalTab.XIsDesignatedTrainY>
+  <Fluffy.AnimalTab.XIsNotDesignatedTrainY>{0} не предназначен для тренировки {2}, и со временем потеряет навык</Fluffy.AnimalTab.XIsNotDesignatedTrainY>
+
+  <!-- handler restrictions -->
+  <Fluffy.AnimalTab.HandlerX>Дрессировщик: {0}</Fluffy.AnimalTab.HandlerX>
+  <Fluffy.AnimalTab.Handler>Дрессировщик</Fluffy.AnimalTab.Handler>
+  <Fluffy.AnimalTab.HandlerMode.Any>Любой</Fluffy.AnimalTab.HandlerMode.Any>
+  <Fluffy.AnimalTab.HandlerMode.Level>По навыку</Fluffy.AnimalTab.HandlerMode.Level>
+  <Fluffy.AnimalTab.HandlerMode.Specific>Специальная пешка</Fluffy.AnimalTab.HandlerMode.Specific>
+  <Fluffy.AnimalTab.Level>навык {0}-{1}</Fluffy.AnimalTab.Level>
+  <Fluffy.AnimalTab.CanNeverDoHandling>, никогда не сможет дрессировать</Fluffy.AnimalTab.CanNeverDoHandling>
+  <Fluffy.AnimalTab.NotAssignedToHandling>, нельзя назначить дрессировать</Fluffy.AnimalTab.NotAssignedToHandling>
+  <Fluffy.AnimalTab.InsufficientSkill>, слишком низкий навык</Fluffy.AnimalTab.InsufficientSkill>
+  <Fluffy.AnimalTab.NotAllowed.SpecificHandler>нельзя дрессировать {0}, только {1} позволено.</Fluffy.AnimalTab.NotAllowed.SpecificHandler>
+  <Fluffy.AnimalTab.NotAllowed.SkillTooLow>нельзя дрессировать {0}, слишком низкий навык ({1}&lt;{2})</Fluffy.AnimalTab.NotAllowed.SkillTooLow>
+  <Fluffy.AnimalTab.NotAllowed.SkillTooHigh>нельзя дрессировать {0}, слишком высокий навык ({1}&gt;{2})</Fluffy.AnimalTab.NotAllowed.SkillTooHigh>
+  <Fluffy.AnimalTab.RightClickToChangeHandler>Right click: выбрать дрессировщика</Fluffy.AnimalTab.RightClickToChangeHandler>
+  <Fluffy.AnimalTab.HandlerHeaderTip>Shift + click: массовый выбор дрессировщика</Fluffy.AnimalTab.HandlerHeaderTip>
+  <Fluffy.AnimalTab.HandlerHeaderTip_RightClick>Shift + right click: массовое назначение дрессировщика</Fluffy.AnimalTab.HandlerHeaderTip_RightClick>
+
+  <Fluffy.AnimalTab.NoHandlerInRange>Нет подходящего дрессировщика</Fluffy.AnimalTab.NoHandlerInRange>
+  <Fluffy.AnimalTab.NoHandlerInRange.Tip>Там нет дрессировщика с навыком в диапазоне:\n\n    {0}\n\nВы можете ослабить ограничения дрессировщиков.</Fluffy.AnimalTab.NoHandlerInRange.Tip>
+
+  <Fluffy.AnimalTab.InvalidHandlers>Неподходящий дрессировщик</Fluffy.AnimalTab.InvalidHandlers>
+  <Fluffy.AnimalTab.InvalidHandlers.Tip>Дрессировщик, назначенный на это животное, не может выполнять эту работу:\n\n    {0}\n\nВы можете назначить более способных дрессировщиков и включить задание дрессировки.</Fluffy.AnimalTab.InvalidHandlers.Tip>
+
+</LanguageData>

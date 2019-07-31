@@ -48,6 +48,8 @@
   <RPG_direct_control_desc>Player can manually tell pawn to do sex related activities if pawn meets conditions/agrees</RPG_direct_control_desc>
   <RPG_hero_control_name>Hero mode</RPG_hero_control_name>
   <RPG_hero_control_desc>Player can set 1 pawn as a player character and have direct unconditional control</RPG_hero_control_desc>
+  <RPG_hero_control_HC_name>Hero mode (HC)</RPG_hero_control_HC_name>
+  <RPG_hero_control_HC_desc>HARDCORE: Player can only control hero, get some lube, you'll need a lot of it./n(intended for multiplayer)</RPG_hero_control_HC_desc>
 
   <!-- Rape stuff-->
   <rape_enabled>Enable rape</rape_enabled>
@@ -112,6 +114,8 @@
   <OffspringIsHuman_desc>100% означает что все новорожденные будут людьми. 0% для случайного монстра.
 
 Возможные значения: 0 - 100%</OffspringIsHuman_desc>
+  <OffspringIsHuman2>Bestiality DNA inheritance</OffspringIsHuman2>
+  <OffspringIsHuman2_desc>Governs Humanlike-Animal pregnancies.\n\n left - born babies will be of beast race. \n\n right - born babies will be of humanlike race.</OffspringIsHuman2_desc>
   <RJWI_pregnancy>Enable RJW insect pregnancies</RJWI_pregnancy>
   <RJWI_pregnancy_desc>Use RJW pregnancy for human-insect pregnancies.</RJWI_pregnancy_desc>
   <RJWA_pregnancy>Enable RJW animal pregnancies</RJWA_pregnancy>
@@ -138,6 +142,8 @@
   <InterspeciesMaximum>Equal to same-species.</InterspeciesMaximum>
   <AlwaysMother>Always mother's species.</AlwaysMother>
   <AlwaysFather>Always father's species.</AlwaysFather>
+  <AlwaysBeast>Beast species.</AlwaysBeast>
+  <AlwaysHumanlike>Humanlike species.</AlwaysHumanlike>
   <ComplexImpregnation>Enable complex interspecies impregnation calculation</ComplexImpregnation>
   <ComplexImpregnation_desc>When enabled, the impregnation chance between species depends on the difference in the body structure and size.
 Examples:
@@ -284,6 +290,8 @@ Note that the chance is futher lowered by the base animal and human pregnancy sl
 -Can only be set once.
 -Can't be turned off.
 </ForHeroDesc>
+  <ForHeroRefuse1Desc>This is hero of other player</ForHeroRefuse1Desc>
+  <ForHeroRefuse2Desc>You have no right to change designation</ForHeroRefuse2Desc>
 
   <!--Sexuality card-->
   <SexcardTooltip>Show sexuality</SexcardTooltip>

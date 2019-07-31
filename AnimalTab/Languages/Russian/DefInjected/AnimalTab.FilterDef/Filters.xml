@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Filter_PawnKind.label>вид пешки</Filter_PawnKind.label>
+  <Filter_Training.label>обучение</Filter_Training.label>
+  <Filter_Intelligence.label>интеллект</Filter_Intelligence.label>
+  <Filter_Age.label>возраст</Filter_Age.label>
+  <Filter_Gender.label>пол</Filter_Gender.label>
+  <Filter_Milkable.label>молочность</Filter_Milkable.label>
+  <Filter_Shearable.label>меринос</Filter_Shearable.label>
+  <Filter_Reproductive.label>репродуктивность</Filter_Reproductive.label>
+  <Filter_Pregnant.label>беременность</Filter_Pregnant.label>
+  <Filter_PackAnimal.label>стак</Filter_PackAnimal.label>
+
+
+</LanguageData>

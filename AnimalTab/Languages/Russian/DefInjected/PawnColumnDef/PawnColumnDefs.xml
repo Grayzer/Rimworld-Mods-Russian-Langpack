@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnimalTabAllowedArea.label>разрешенная зона</AnimalTabAllowedArea.label>
+  <Wool.headerTip>Шерстяной прогресс</Wool.headerTip>
+  <Milk.headerTip>Молочный прогресс</Milk.headerTip>
+  <Meat.headerTip>Ожидаемое количество мяса</Meat.headerTip>
+  <Age.headerTip>Возраст в годах</Age.headerTip>
+
+  <Handler.label>Дрессировщик</Handler.label>
+  <Handler.headerTip>Назначен дрессировщик</Handler.headerTip>
+
+
+</LanguageData>
