@@ -234,6 +234,11 @@
   <FM.Livestock.MasterMode.NonViolent>Не агрессивный</FM.Livestock.MasterMode.NonViolent>
   <FM.Livestock.MasterMode.All>Все</FM.Livestock.MasterMode.All>
 
+  <!-- Right click job fail reasons -->
+  <Fluffy.ColonyManager.CannotManage.NoPower>no power</Fluffy.ColonyManager.CannotManage.NoPower>
+  <Fluffy.ColonyManager.CannotManage.NoJobs>no jobs set</Fluffy.ColonyManager.CannotManage.NoJobs>
+  <Fluffy.ColonyManager.CannotManage.NoActiveJobs>all jobs are done</Fluffy.ColonyManager.CannotManage.NoActiveJobs>
+
   <!--<FM.JobSuspendedTooltip>Работа приостановлена.\n\nНажмите для возобновления.</FM.JobSuspendedTooltip>-->
   <!--<FMH.HuntingGrounds>Разрешить охоту в зоне: </FMH.HuntingGrounds>-->
   <!--<FMH.Options>Опции</FMH.Options>-->

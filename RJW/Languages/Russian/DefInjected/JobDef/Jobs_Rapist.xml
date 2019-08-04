@@ -2,12 +2,12 @@
 <LanguageData>
 
   <ComfortPrisonerRapin.reportString>насилует</ComfortPrisonerRapin.reportString>
-  <RandomRape.reportString>Случайное изнасилование.</RandomRape.reportString>
-  <RapeEnemy.reportString>Rapin' Enemy</RapeEnemy.reportString>
-  <RapeEnemyByInsect.reportString>Rapin' Enemy</RapeEnemyByInsect.reportString>
-  <RapeEnemyByAnimal.reportString>Rapin' Enemy</RapeEnemyByAnimal.reportString>
-  <RapeEnemyByMech.reportString>Rapin' Enemy</RapeEnemyByMech.reportString>
-  <RapeEnemyToParasite.reportString>Rapin' Enemy</RapeEnemyToParasite.reportString>
+  <RandomRape.reportString>случайное изнасилование.</RandomRape.reportString>
+  <RapeEnemy.reportString>Насилует врага</RapeEnemy.reportString>
+  <RapeEnemyByInsect.reportString>Насилует врага</RapeEnemyByInsect.reportString>
+  <RapeEnemyByAnimal.reportString>Насилует врага</RapeEnemyByAnimal.reportString>
+  <RapeEnemyByMech.reportString>Насилует врага</RapeEnemyByMech.reportString>
+  <RapeEnemyToParasite.reportString>Насилует врага</RapeEnemyToParasite.reportString>
 
 
 </LanguageData>

@@ -13,7 +13,7 @@
 
   <!-- Recipe Users: CraftingSpot, DrugLab -->
 
-  <Make_Aphrodisiac.label>сделать Aphrodisiac drug</Make_Aphrodisiac.label>
+  <Make_Aphrodisiac.label>сделать Афродозиак</Make_Aphrodisiac.label>
   <Make_Aphrodisiac.description>Создает Афродозиак.</Make_Aphrodisiac.description>
   <Make_Aphrodisiac.jobString>Делает Афродозиак.</Make_Aphrodisiac.jobString>
 

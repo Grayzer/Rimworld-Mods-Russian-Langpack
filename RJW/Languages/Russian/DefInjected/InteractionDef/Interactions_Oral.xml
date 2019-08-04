@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Rimming.label>rimming</Rimming.label>
-  <Rimming.logRulesInitiator.rulesStrings.0>r_logentry->Rimmed [RECIPIENT_nameDef].</Rimming.logRulesInitiator.rulesStrings.0>
-  <Rimming.logRulesRecipient.rulesStrings.0>r_logentry->Was rimmed.</Rimming.logRulesRecipient.rulesStrings.0>
+  <Rimming.label>Анилингус</Rimming.label>
+  <Rimming.logRulesInitiator.rulesStrings.0>r_logentry->Делает анилингус [RECIPIENT_nameDef].</Rimming.logRulesInitiator.rulesStrings.0>
+  <Rimming.logRulesRecipient.rulesStrings.0>r_logentry->Был анилингус.</Rimming.logRulesRecipient.rulesStrings.0>
 
-  <Cunnilingus.label>cunnilingus</Cunnilingus.label>
-  <Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->Gave cunnilingus.</Cunnilingus.logRulesInitiator.rulesStrings.0>
-  <Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->Received cunnilingus.</Cunnilingus.logRulesRecipient.rulesStrings.0>
+  <Cunnilingus.label>Куннилингус</Cunnilingus.label>
+  <Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->Сделал(а) кунилингус.</Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->Получила кунилингус.</Cunnilingus.logRulesRecipient.rulesStrings.0>
 
-  <Fellatio.label>Fellatio</Fellatio.label>
-  <Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->Fellated [RECIPIENT_nameDef].</Fellatio.logRulesInitiator.rulesStrings.0>
-  <Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->Was fellated.</Fellatio.logRulesRecipient.rulesStrings.0>
+  <Fellatio.label>Фелляция</Fellatio.label>
+  <Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->Делает минет [RECIPIENT_nameDef].</Fellatio.logRulesInitiator.rulesStrings.0>
+  <Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->Был минет.</Fellatio.logRulesRecipient.rulesStrings.0>
 
 
 </LanguageData>

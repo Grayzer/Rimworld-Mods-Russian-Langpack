@@ -71,6 +71,10 @@
   <GR_InstallBunnyEars.description>Установить ухо кролика.</GR_InstallBunnyEars.description>
   <GR_InstallBunnyEars.jobString>Установка уха кролика.</GR_InstallBunnyEars.jobString>
 
+  <GR_InstallCompoundEye.label>&lt;color=#E89D1B&gt;install compound eye&lt;/color&gt;</GR_InstallCompoundEye.label>
+  <GR_InstallCompoundEye.description>Installs compound eye.</GR_InstallCompoundEye.description>
+  <GR_InstallCompoundEye.jobString>Installing compound eye.</GR_InstallCompoundEye.jobString>
+
   <GR_InstallInsectoidAntennae.label>&lt;color=#E89D1B&gt;установить антенны инсектоидов&lt;/color&gt;</GR_InstallInsectoidAntennae.label>
   <GR_InstallInsectoidAntennae.description>Установить антенны инсектоидов.</GR_InstallInsectoidAntennae.description>
   <GR_InstallInsectoidAntennae.jobString>Установка антенн инсектоидов.</GR_InstallInsectoidAntennae.jobString>

@@ -4,11 +4,11 @@
   <SexAbility.label>сексуальные навыки</SexAbility.label>
   <SexAbility.description>Отображает на сколько поселенец хорош в сексе</SexAbility.description>
 
-  <Vulnerability.label>vulnerability</Vulnerability.label>
-  <Vulnerability.description>Отображает на сколько вероятен захват сексуального пруимущества.</Vulnerability.description>
+  <Vulnerability.label>ранимость</Vulnerability.label>
+  <Vulnerability.description>Отображает на сколько вероятен захват сексуального преимущества.</Vulnerability.description>
 
-  <SexFrequency.label>sex drive</SexFrequency.label>
-  <SexFrequency.description>Measures how sexually active the pawn is.</SexFrequency.description>
+  <SexFrequency.label>сексуальное влечение</SexFrequency.label>
+  <SexFrequency.description>Измеряет насколько сексуально активна пешка.</SexFrequency.description>
 
 
 </LanguageData>

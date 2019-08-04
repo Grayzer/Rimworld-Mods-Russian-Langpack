@@ -16,7 +16,7 @@
 
   <RJW_RemovelIUD.label>удалить Спираль</RJW_RemovelIUD.label>
   <RJW_RemovelIUD.description>Восстанавливает возможность размножения.</RJW_RemovelIUD.description>
-  <RJW_RemovelIUD.jobString>ужаление Спирали.</RJW_RemovelIUD.jobString>
+  <RJW_RemovelIUD.jobString>удаление Спирали.</RJW_RemovelIUD.jobString>
 
   <InstallPegArm.label>установить деревянную руку</InstallPegArm.label>
   <InstallPegArm.description>Устанавливает деревянную руку.</InstallPegArm.description>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PlantHumpShroom.label>humpshroom shroom</PlantHumpShroom.label>
+  <PlantHumpShroom.label>гриб казановника</PlantHumpShroom.label>
   <PlantHumpShroom.description>Thick shroom with tough flesh, thick juice and smooth soft skin. Exhibits aphrodisiac effects when consumed.</PlantHumpShroom.description>
 
-  <HumpShroom.label>Hump shroom</HumpShroom.label>
+  <HumpShroom.label>казановник</HumpShroom.label>
   <HumpShroom.description>A shroom with tough flesh, thick juice and smooth soft skin. Exhibits aphrodisiac effects when consumed.</HumpShroom.description>
 
 
@@ -15,7 +15,7 @@
   <RJW_Contraceptive.ingestible.ingestCommandString>Take {0}</RJW_Contraceptive.ingestible.ingestCommandString>
   <RJW_Contraceptive.ingestible.ingestReportString>Taking {0}.</RJW_Contraceptive.ingestible.ingestReportString>
 
-  <Aphrodisiac.label>Aphrodisiac drug</Aphrodisiac.label>
+  <Aphrodisiac.label>Афродозиак</Aphrodisiac.label>
   <Aphrodisiac.description>A smokable drug made from humpshroom.</Aphrodisiac.description>
   <Aphrodisiac.ingestible.ingestCommandString>Smoke {0}</Aphrodisiac.ingestible.ingestCommandString>
   <Aphrodisiac.ingestible.ingestReportString>Smoking {0}.</Aphrodisiac.ingestible.ingestReportString>

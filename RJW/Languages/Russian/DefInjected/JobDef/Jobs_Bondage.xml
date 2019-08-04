@@ -2,8 +2,8 @@
 <LanguageData>
 
   <StruggleInBondageGear.reportString>бореться</StruggleInBondageGear.reportString>
-  <UnlockBondageGear.reportString>снимает блокировку</UnlockBondageGear.reportString>
-  <GiveBondageGear.reportString>Одевает</GiveBondageGear.reportString>
+  <UnlockBondageGear.reportString>снимает бондаж</UnlockBondageGear.reportString>
+  <GiveBondageGear.reportString>одевает бондаж</GiveBondageGear.reportString>
 
 
 </LanguageData>

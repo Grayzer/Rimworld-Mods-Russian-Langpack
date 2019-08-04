@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <GR_ToxicDamage.label>токсическое повреждение</GR_ToxicDamage.label>
@@ -11,7 +11,7 @@
 
   <GR_HairballDamage.label>повреждение лохматиком</GR_HairballDamage.label>
   <GR_HairballDamage.stages.0.label>начально-скрытое</GR_HairballDamage.stages.0.label>
-  <GR_HairballDamage.stages.1.labe>начальное</GR_HairballDamage.stages.1.label>
+  <GR_HairballDamage.stages.1.label>начальное</GR_HairballDamage.stages.1.label>
   <GR_HairballDamage.stages.2.label>незначительное</GR_HairballDamage.stages.2.label>
   <GR_HairballDamage.stages.3.label>умеренное</GR_HairballDamage.stages.3.label>
   <GR_HairballDamage.stages.4.label>серьезное</GR_HairballDamage.stages.4.label>
@@ -19,8 +19,8 @@
   <GR_HairballDamage.stages.6.label>тошнотворное</GR_HairballDamage.stages.6.label>
 
   <GR_Kamikaze.label>внезапная детонация</GR_Kamikaze.label>
-  <GR_Kamikaze.stages.0.label>начально-скрытый</GR_Kamikaze.stages.0.label>
-  <GR_Kamikaze.stages.1.label>критичный</GR_Kamikaze.stages.1.label>
+  <GR_Kamikaze.stages.0.label>начально-скрытое</GR_Kamikaze.stages.0.label>
+  <GR_Kamikaze.stages.1.label>критичное</GR_Kamikaze.stages.1.label>
 
   <GR_AdrenalineBurst.label>выброс адреналина</GR_AdrenalineBurst.label>
   <GR_AdrenalineBurst.stages.1.label>истощение</GR_AdrenalineBurst.stages.1.label>
@@ -46,7 +46,7 @@
   <GR_CausedPoisonCloud.label>недавно выпущенное облако яда</GR_CausedPoisonCloud.label>
   <GR_CausedPoisonCloud.stages.0.label>востановление</GR_CausedPoisonCloud.stages.0.label>
 
-  <GR_CausedHorror.label>недавно вызвал безумие</GR_CausedHorror.label>
+  <GR_CausedHorror.label>недавно вызванное безумие</GR_CausedHorror.label>
   <GR_CausedHorror.stages.0.label>востановление</GR_CausedHorror.stages.0.label>
 
   <GR_CausedPowerBeam.label>недавно вызвал мощный орбитальный луч</GR_CausedPowerBeam.label>

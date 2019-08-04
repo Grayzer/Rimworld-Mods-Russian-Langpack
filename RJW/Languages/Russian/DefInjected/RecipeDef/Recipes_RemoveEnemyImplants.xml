@@ -29,9 +29,9 @@
   <RemoveMicroComputer.description>Удаляет МикроКомпьютер.</RemoveMicroComputer.description>
   <RemoveMicroComputer.jobString>Удаление МикроКомпьютера.</RemoveMicroComputer.jobString>
 
-  <RJW_RemoveRestraints.label>удаление сдерживаний</RJW_RemoveRestraints.label>
-  <RJW_RemoveRestraints.description>Удаление сдерживания.</RJW_RemoveRestraints.description>
-  <RJW_RemoveRestraints.jobString>Удаление сдерживания.</RJW_RemoveRestraints.jobString>
+  <RJW_RemoveRestraints.label>удаление цепей</RJW_RemoveRestraints.label>
+  <RJW_RemoveRestraints.description>Удаление цепей.</RJW_RemoveRestraints.description>
+  <RJW_RemoveRestraints.jobString>Удаление цепей.</RJW_RemoveRestraints.jobString>
 
   <RJW_RemoveCocoon.label>удалить член</RJW_RemoveCocoon.label>
   <RJW_RemoveCocoon.description>Удаляет член.</RJW_RemoveCocoon.description>

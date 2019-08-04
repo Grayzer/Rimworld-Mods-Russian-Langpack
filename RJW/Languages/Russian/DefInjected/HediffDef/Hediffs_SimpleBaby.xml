@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RJW_BabyState.label>рост ребенка</RJW_BabyState.label>
-  <RJW_BabyState.stages.0.label>новорожденный</RJW_BabyState.stages.0.label>
-  <RJW_BabyState.stages.1.label>младенец</RJW_BabyState.stages.1.label>
-  <RJW_BabyState.stages.2.label>ребенок</RJW_BabyState.stages.2.label>
+  <RJW_BabyState.label>взросление</RJW_BabyState.label>
+  <RJW_BabyState.stages.0.label>младенец</RJW_BabyState.stages.0.label>
+  <RJW_BabyState.stages.1.label>ребенок</RJW_BabyState.stages.1.label>
+  <RJW_BabyState.stages.2.label>подросток</RJW_BabyState.stages.2.label>
 
 
   <!-- This only exists separately from BabyState to get around a bug making children drop their weapons on savegame load. -->

@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- <rjw.MiscTranslationDef>
-		<defName>DesignatorComfortPrisoner</defName>
-		<targetClass>rjw.Designator_ComfortPrisoner</targetClass>
-		<label>comfort prisoner</label>
-		<description>Designate the prisoner as a tool to satisfy everyone's sexual need.</description>
-	</rjw.MiscTranslationDef> -->
-
   <rjw_vatgrown_sex_slave.label>Вырощенный(ая) секс рабыня</rjw_vatgrown_sex_slave.label>
   <rjw_vatgrown_sex_slave.description>NAME сделан скорее секс-машиной, чем человеком. На протяжении своего взросления на фабрике, HIS обучался(лась) социальным и сексуальным навыкам для того чтобы удовлетворять различные сексуальные приказы.</rjw_vatgrown_sex_slave.description>
 
@@ -39,15 +32,5 @@
 		Возможно, NAME перенес некоторые ужасные вещи, он выглядит довольно истощенным, и никто не хочет разговаривать с HIM. \n
 		HECAP немного живляется, глядя на некоторые вещи, похожие на стержни.
 	</rjw_broken.description>
-
-
-  <!--<DesignatorComfortPrisoner.label>заключенный-блядь</DesignatorComfortPrisoner.label>-->
-  <!--<DesignatorComfortPrisoner.description>Обозначить заключенного как средство для сексуального удовлетворения всех желающих.</DesignatorComfortPrisoner.description>-->
-  <!--<rjw_vatgrown_sex_slave.stringA>Секс Рабыня</rjw_vatgrown_sex_slave.stringA>-->
-  <!--<rjw_feisty.stringA>Нимфоман</rjw_feisty.stringA>-->
-  <!--<rjw_curious.stringA>Нимфоман</rjw_curious.stringA>-->
-  <!--<rjw_tender.stringA>Нимфоман</rjw_tender.stringA>-->
-  <!--<rjw_chatty.stringA>Нимфоман</rjw_chatty.stringA>-->
-  <!--<rjw_broken.stringA>Нимфоман</rjw_broken.stringA>-->
 
 </LanguageData>

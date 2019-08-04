@@ -6,80 +6,9 @@
 </Armbinder.description>
   <Armbinder.comps.2.useLabel>Надеть</Armbinder.comps.2.useLabel>
 
-
-  <!-- <rjw.bondage_gear_def ParentName="BondageGearBase">
-		<defName>Yoke</defName>
-		<label>yoke</label>
-		<description>A high-tech yoke. It prevents any pawn it's attached to from using their arms.</description>
-		<thingClass>rjw.yoke</thingClass>
-		<graphicData>
-			<texPath>Things\Pawn\Humanlike\Apparel\Bondage\Armbinder\armbinder</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<statBases>
-			<MaxHitPoints>250</MaxHitPoints>
-			<Flammability>0.3</Flammability>
-			<DeteriorationRate>1.0</DeteriorationRate>
-			<Beauty>-6</Beauty>
-			<MarketValue>850</MarketValue>
-			<Mass>4</Mass>
-			<ArmorRating_Blunt>0.15</ArmorRating_Blunt>
-			<ArmorRating_Sharp>0.25</ArmorRating_Sharp>
-			<Insulation_Cold>-4</Insulation_Cold>
-		</statBases>
-		<apparel>
-			<bodyPartGroups>
-				<li>Arms</li>
-				<li>LeftHand</li>
-				<li>RightHand</li>
-			</bodyPartGroups>
-			<wornGraphicPath>Things\Pawn\Humanlike\Apparel\Bondage\Armbinder\</wornGraphicPath>
-			<layers>
-				<li>Shell</li>
-			</layers>
-		</apparel>
-		<soul_type>rjw.bondage_gear_soul</soul_type>
-		<equipped_hediff>Yoke</equipped_hediff>
-		<gives_bound_moodlet>true</gives_bound_moodlet>
-		<gives_gagged_moodlet>false</gives_gagged_moodlet>
-	</rjw.bondage_gear_def> -->
-
   <Gag.label>кляп</Gag.label>
   <Gag.description>Высокотехнологичный кляп. Не позволяет говорить, тому кто его носит.</Gag.description>
   <Gag.comps.2.useLabel>Надеть</Gag.comps.2.useLabel>
-
-
-  <!-- <rjw.bondage_gear_def ParentName="BondageGearBase">
-		<defName>OpenGag</defName>
-		<label>open gag</label>
-		<description>A high-tech open gag. It prevents any pawn it's attached to from talking, allows oral interaction and feeding.</description>
-		<thingClass>rjw.bondage_gear</thingClass>
-		<graphicData>
-			<texPath>Things\Pawn\Humanlike\Apparel\Bondage\Gag\gag</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<statBases>
-			<MaxHitPoints>150</MaxHitPoints>
-			<Flammability>0.2</Flammability>
-			<DeteriorationRate>1.0</DeteriorationRate>
-			<Beauty>-6</Beauty>
-			<MarketValue>550</MarketValue>
-			<Mass>1</Mass>
-		</statBases>
-		<apparel>
-			<bodyPartGroups>
-				<li>FullHead</li>
-			</bodyPartGroups>
-			<wornGraphicPath>Things\Pawn\Humanlike\Apparel\Bondage\Gag\</wornGraphicPath>
-			<layers>
-				<li>OnSkin</li>
-			</layers>
-		</apparel>
-		<soul_type>rjw.bondage_gear_soul</soul_type>
-		<equipped_hediff>OpenGag</equipped_hediff>
-		<gives_bound_moodlet>false</gives_bound_moodlet>
-		<gives_gagged_moodlet>true</gives_gagged_moodlet>
-	</rjw.bondage_gear_def> -->
 
   <ChastityBelt.label>пояс верности</ChastityBelt.label>
   <ChastityBelt.description>Высокотехнологичный пояс верности. Не дает заниматься сексом и мастурбировать.</ChastityBelt.description>

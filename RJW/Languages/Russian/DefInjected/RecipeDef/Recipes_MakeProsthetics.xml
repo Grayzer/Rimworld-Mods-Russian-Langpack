@@ -13,14 +13,6 @@
   <MakeBionicPenis.description>Сделать бионический пенис из гиперткани, пластали, и копмонентов.</MakeBionicPenis.description>
   <MakeBionicPenis.jobString>Делает бионический пенис. </MakeBionicPenis.jobString>
 
-  <!--[Duplicated] <MakeHydraulicVagina.label>craft hydraulic vagina</MakeHydraulicVagina.label>-->
-  <!--[Duplicated] <MakeHydraulicVagina.description>Crafts a hydraulic vagina from steel and components.</MakeHydraulicVagina.description>-->
-  <!--[Duplicated] <MakeHydraulicVagina.jobString>Crafting hydraulic vagina.</MakeHydraulicVagina.jobString>-->
-
-  <!--[Duplicated] <MakeBionicVagina.label>craft bionic vagina</MakeBionicVagina.label>-->
-  <!--[Duplicated] <MakeBionicVagina.description>Crafts a bionic vagina from hyperweave, plasteel, and components.</MakeBionicVagina.description>-->
-  <!--[Duplicated] <MakeBionicVagina.jobString>Crafting bionic vagina.</MakeBionicVagina.jobString>-->
-
   <MakeHydraulicVagina.label>собрать гидравлическую вагину</MakeHydraulicVagina.label>
   <MakeHydraulicVagina.description>Собрать гидравлическую вагину из стали и компонентов. </MakeHydraulicVagina.description>
   <MakeHydraulicVagina.jobString>Собирает гидравлическую вагину.</MakeHydraulicVagina.jobString>
