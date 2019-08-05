@@ -14,10 +14,10 @@
   <ChastityBelt.description>Высокотехнологичный пояс верности. Не дает заниматься сексом и мастурбировать.</ChastityBelt.description>
   <ChastityBelt.comps.2.useLabel>Надеть</ChastityBelt.comps.2.useLabel>
 
-  <PrisonerChains.label>chains</PrisonerChains.label>
-  <PrisonerChains.description>Chains with cuffs. Useful for restricting someone's movement and manipulation freedom. Prevents* hand-to-hand fighting attempts.
-*gag is advised for complete neutralization</PrisonerChains.description>
-  <PrisonerChains.comps.2.useLabel>Equip</PrisonerChains.comps.2.useLabel>
+  <PrisonerChains.label>цепи</PrisonerChains.label>
+  <PrisonerChains.description>Цепочки с манжетами. Полезно для ограничения чьей-либо свободы передвижения и манипуляции. Предотвращает* попытки рукопашного боя.
+*кляп рекомендуется для полной нейтрализации</PrisonerChains.description>
+  <PrisonerChains.comps.2.useLabel>Надеть</PrisonerChains.comps.2.useLabel>
 
 
 </LanguageData>

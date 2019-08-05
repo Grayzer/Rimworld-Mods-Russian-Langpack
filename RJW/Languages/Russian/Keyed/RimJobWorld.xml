@@ -80,6 +80,8 @@
   <submit_button_enabled_desc>Submit button allows you to skip more deadly part and get right to more humilating one. \nDisable ths if honor comes before life for you. \nRemember, if you change your mind, it will always be here, waiting for you.</submit_button_enabled_desc>
   <RJW_designation_box>Show RJW designations</RJW_designation_box>
   <RJW_designation_box_desc>Toggles showing RJW group of buttons in the pawn control GUI.</RJW_designation_box_desc>
+  <DebugLogJoinInBed>Debug log hookup search info</DebugLogJoinInBed>
+  <DebugLogJoinInBed_desc>Enables some very spamming debug logs to help find bugs in JoinInBed operations. \nOnly devs (or someone helping them find a bug) should enable this.</DebugLogJoinInBed_desc>
   <WildMode_name>Дикий мод</WildMode_name>
   <WildMode_desc>ЭКСПЕРЕМЕНТАЛЬНО. Нет правил для секса. Все ограничения сняты. Наслаждайтесь дикой стороной RimWorld.</WildMode_desc>
   <DevMode_name>Development mode</DevMode_name>

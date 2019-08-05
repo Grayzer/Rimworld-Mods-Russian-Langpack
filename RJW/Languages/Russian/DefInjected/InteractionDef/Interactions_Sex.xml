@@ -2,8 +2,8 @@
 <LanguageData>
 
   <AnalSex.label>анальный секс</AnalSex.label>
-  <AnalSex.logRulesInitiator.rulesStrings.0>logentry->Анально изнасиловал [other_nameShortIndef].</AnalSex.logRulesInitiator.rulesStrings.0>
-  <AnalSex.logRulesRecipient.rulesStrings.0>logentry->Был анально изнасилован [other_nameShortIndef].</AnalSex.logRulesRecipient.rulesStrings.0>
+  <AnalSex.logRulesInitiator.rulesStrings.0>logentry->Анальный секс с [other_nameShortIndef].</AnalSex.logRulesInitiator.rulesStrings.0>
+  <AnalSex.logRulesRecipient.rulesStrings.0>logentry->Был анальный секс с [other_nameShortIndef].</AnalSex.logRulesRecipient.rulesStrings.0>
 
   <VaginalSex.label>вагинальный секс</VaginalSex.label>
   <VaginalSex.logRulesInitiator.rulesStrings.0>r_logentry->Имел секс с [RECIPIENT_nameDef].</VaginalSex.logRulesInitiator.rulesStrings.0>
@@ -23,11 +23,11 @@
 
   <Footjob.label>мастурбация ногами</Footjob.label>
   <Footjob.logRulesInitiator.rulesStrings.0>r_logentry->Сделал мастурбацию ногами.</Footjob.logRulesInitiator.rulesStrings.0>
-  <Footjob.logRulesRecipient.rulesStrings.0>r_logentry->>Мастурбировали ногами.</Footjob.logRulesRecipient.rulesStrings.0>
+  <Footjob.logRulesRecipient.rulesStrings.0>r_logentry->Мастурбировали ногами.</Footjob.logRulesRecipient.rulesStrings.0>
 
   <Beakjob.label>мастурбация птицей</Beakjob.label>
   <Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->Сделал мастурбацию птицей.</Beakjob.logRulesInitiator.rulesStrings.0>
-  <Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->>Мастурбировали птицей.</Beakjob.logRulesRecipient.rulesStrings.0>
+  <Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->Мастурбировали птицей.</Beakjob.logRulesRecipient.rulesStrings.0>
 
   <Fingering.label>фингеринг</Fingering.label>
   <Fingering.logRulesInitiator.rulesStrings.0>r_logentry->Фингерил [RECIPIENT_nameDef].</Fingering.logRulesInitiator.rulesStrings.0>

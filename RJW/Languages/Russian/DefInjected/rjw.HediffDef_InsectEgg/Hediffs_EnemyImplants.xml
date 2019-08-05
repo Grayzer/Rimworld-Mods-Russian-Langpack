@@ -3,9 +3,9 @@
 
   <!-- Vanilla -->
 
-  <RJW_MegascarabEgg.label>Megascarab Egg</RJW_MegascarabEgg.label>
-  <RJW_SpelopedeEgg.label>Spelopede Egg</RJW_SpelopedeEgg.label>
-  <RJW_MegaspiderEgg.label>Megaspider Egg</RJW_MegaspiderEgg.label>
+  <RJW_MegascarabEgg.label>Яйцо Мегаскарабея</RJW_MegascarabEgg.label>
+  <RJW_SpelopedeEgg.label>Яйцо Скалоножки</RJW_SpelopedeEgg.label>
+  <RJW_MegaspiderEgg.label>Яйцо Мегапаука</RJW_MegaspiderEgg.label>
 
 
   <!-- Docile Hive -->
@@ -41,7 +41,7 @@
 
   <!-- Ni'Hal -->
 
-  <RJW_NiHalEgg.label>Ni'Hal Egg</RJW_NiHalEgg.label>
+  <RJW_NiHalEgg.label>Яйцо Ни'Хал</RJW_NiHalEgg.label>
 
 
 </LanguageData>
