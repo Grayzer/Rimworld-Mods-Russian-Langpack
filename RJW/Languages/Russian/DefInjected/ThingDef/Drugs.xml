@@ -2,23 +2,23 @@
 <LanguageData>
 
   <PlantHumpShroom.label>гриб казановника</PlantHumpShroom.label>
-  <PlantHumpShroom.description>Thick shroom with tough flesh, thick juice and smooth soft skin. Exhibits aphrodisiac effects when consumed.</PlantHumpShroom.description>
+  <PlantHumpShroom.description>Толстый гриб с жесткой плотью, густым соком и гладкой мягкой кожей. Демонстрирует эффекты афродизиака при потреблении.</PlantHumpShroom.description>
 
   <HumpShroom.label>казановник</HumpShroom.label>
-  <HumpShroom.description>A shroom with tough flesh, thick juice and smooth soft skin. Exhibits aphrodisiac effects when consumed.</HumpShroom.description>
+  <HumpShroom.description>Это толстый гриб с жесткой плотью, густым соком и гладкой мягкой кожей. Демонстрирует эффекты афродизиака при потреблении.</HumpShroom.description>
 
 
   <!-- As usual stolen from CnP -->
 
-  <RJW_Contraceptive.label>Contraception pills</RJW_Contraceptive.label>
-  <RJW_Contraceptive.description>Deliver severe hit to fertility for one quadrum.</RJW_Contraceptive.description>
-  <RJW_Contraceptive.ingestible.ingestCommandString>Take {0}</RJW_Contraceptive.ingestible.ingestCommandString>
-  <RJW_Contraceptive.ingestible.ingestReportString>Taking {0}.</RJW_Contraceptive.ingestible.ingestReportString>
+  <RJW_Contraceptive.label>Контрацептивы</RJW_Contraceptive.label>
+  <RJW_Contraceptive.description>Наносит сильный удар по плодовитости за один прием.</RJW_Contraceptive.description>
+  <RJW_Contraceptive.ingestible.ingestCommandString>Взять {0}</RJW_Contraceptive.ingestible.ingestCommandString>
+  <RJW_Contraceptive.ingestible.ingestReportString>Берет {0}.</RJW_Contraceptive.ingestible.ingestReportString>
 
   <Aphrodisiac.label>Афродозиак</Aphrodisiac.label>
-  <Aphrodisiac.description>A smokable drug made from humpshroom.</Aphrodisiac.description>
-  <Aphrodisiac.ingestible.ingestCommandString>Smoke {0}</Aphrodisiac.ingestible.ingestCommandString>
-  <Aphrodisiac.ingestible.ingestReportString>Smoking {0}.</Aphrodisiac.ingestible.ingestReportString>
+  <Aphrodisiac.description>Курительный препарат, изготовленный из казановника.</Aphrodisiac.description>
+  <Aphrodisiac.ingestible.ingestCommandString>Курить {0}</Aphrodisiac.ingestible.ingestCommandString>
+  <Aphrodisiac.ingestible.ingestReportString>Курит {0}.</Aphrodisiac.ingestible.ingestReportString>
 
 
 </LanguageData>

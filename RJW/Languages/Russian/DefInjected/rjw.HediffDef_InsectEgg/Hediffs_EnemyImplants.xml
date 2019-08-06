@@ -10,33 +10,33 @@
 
   <!-- Docile Hive -->
 
-  <RJW_MegascarabDocileEgg.label>Docile Megascarab Egg</RJW_MegascarabDocileEgg.label>
-  <RJW_SpelopedeDocileEgg.label>Docile Spelopede Egg</RJW_SpelopedeDocileEgg.label>
-  <RJW_MegaspiderDocileEgg.label>Docile Megaspider Egg</RJW_MegaspiderDocileEgg.label>
+  <RJW_MegascarabDocileEgg.label>Яйцо Покорного Мегаскарабея</RJW_MegascarabDocileEgg.label>
+  <RJW_SpelopedeDocileEgg.label>Яйцо Покорной Скалоножки</RJW_SpelopedeDocileEgg.label>
+  <RJW_MegaspiderDocileEgg.label>Яйцо Покорного Мегапаука</RJW_MegaspiderDocileEgg.label>
 
 
   <!-- Rim of Madness - Arachnophobia -->
 
-  <RJW_ROMA_SpiderEgg.label>Spider Egg</RJW_ROMA_SpiderEgg.label>
-  <RJW_ROMA_GiantSpiderEgg.label>Giant Spider Egg</RJW_ROMA_GiantSpiderEgg.label>
-  <RJW_ROMA_GiantQueenSpiderEgg.label>Giant Spider Queen Egg</RJW_ROMA_GiantQueenSpiderEgg.label>
-  <RJW_AA_BarbslingerEgg.label>Barbslinger Egg</RJW_AA_BarbslingerEgg.label>
-  <RJW_AA_BedBugEgg.label>Bedbug Egg</RJW_AA_BedBugEgg.label>
-  <RJW_AA_BlackScarabEgg.label>Black scarab Egg</RJW_AA_BlackScarabEgg.label>
-  <RJW_AA_BlackSpelopedeEgg.label>Black spelopede Egg</RJW_AA_BlackSpelopedeEgg.label>
-  <RJW_AA_BlackSpiderEgg.label>Blackspider Egg</RJW_AA_BlackSpiderEgg.label>
-  <RJW_AA_BlizzariskEgg.label>Blizzarisk Egg</RJW_AA_BlizzariskEgg.label>
-  <RJW_AA_BlizzariskClutchMotherEgg.label>Blizzarisk clutch mother Egg</RJW_AA_BlizzariskClutchMotherEgg.label>
-  <RJW_AA_BumbledroneEgg.label>Bumbledrone Egg</RJW_AA_BumbledroneEgg.label>
-  <RJW_AA_BumbledroneQueenEgg.label>Bumbledrone queen Egg</RJW_AA_BumbledroneQueenEgg.label>
-  <RJW_AA_DunealiskEgg.label>Dunealisk Egg</RJW_AA_DunealiskEgg.label>
-  <RJW_AA_DunealiskClutchMotherEgg.label>Dunealisk clutch mother Egg</RJW_AA_DunealiskClutchMotherEgg.label>
-  <RJW_AA_FeraliskEgg.label>Feralisk Egg</RJW_AA_FeraliskEgg.label>
-  <RJW_AA_FeraliskClutchMotherEgg.label>Feralisk clutch mother Egg</RJW_AA_FeraliskClutchMotherEgg.label>
-  <RJW_AA_FrostmiteEgg.label>Frostmite Egg</RJW_AA_FrostmiteEgg.label>
-  <RJW_AA_MammothWormEgg.label>Mammoth worm Egg</RJW_AA_MammothWormEgg.label>
-  <RJW_AA_MegaLouseEgg.label>Megalouse Egg</RJW_AA_MegaLouseEgg.label>
-  <RJW_AA_ThermadonEgg.label>Thermadon Egg</RJW_AA_ThermadonEgg.label>
+  <RJW_ROMA_SpiderEgg.label>Яйцо Паука</RJW_ROMA_SpiderEgg.label>
+  <RJW_ROMA_GiantSpiderEgg.label>Яйцо Гиганского Паука</RJW_ROMA_GiantSpiderEgg.label>
+  <RJW_ROMA_GiantQueenSpiderEgg.label>Яйцо Королевы Гиганских Пауков</RJW_ROMA_GiantQueenSpiderEgg.label>
+  <RJW_AA_BarbslingerEgg.label>Яйцо Шиповяза</RJW_AA_BarbslingerEgg.label>
+  <RJW_AA_BedBugEgg.label>Яйцо Клопа</RJW_AA_BedBugEgg.label>
+  <RJW_AA_BlackScarabEgg.label>Яйцо Черного скарабея</RJW_AA_BlackScarabEgg.label>
+  <RJW_AA_BlackSpelopedeEgg.label>Яйцо Черной Скалоножки</RJW_AA_BlackSpelopedeEgg.label>
+  <RJW_AA_BlackSpiderEgg.label>Яйцо Черного Паука</RJW_AA_BlackSpiderEgg.label>
+  <RJW_AA_BlizzariskEgg.label>Яйцо Пургалиска</RJW_AA_BlizzariskEgg.label>
+  <RJW_AA_BlizzariskClutchMotherEgg.label>Яйцо Матери выводка Пургалисков</RJW_AA_BlizzariskClutchMotherEgg.label>
+  <RJW_AA_BumbledroneEgg.label>Яйцо Шмеледрона</RJW_AA_BumbledroneEgg.label>
+  <RJW_AA_BumbledroneQueenEgg.label>Яйцо Кролевый Шмеледронов</RJW_AA_BumbledroneQueenEgg.label>
+  <RJW_AA_DunealiskEgg.label>Яйцо Дюналиска</RJW_AA_DunealiskEgg.label>
+  <RJW_AA_DunealiskClutchMotherEgg.label>Яйцо Матери выводка Дюналисков</RJW_AA_DunealiskClutchMotherEgg.label>
+  <RJW_AA_FeraliskEgg.label>Яйцо Диколиска</RJW_AA_FeraliskEgg.label>
+  <RJW_AA_FeraliskClutchMotherEgg.label>Яйцо Матери выводка Диколисков</RJW_AA_FeraliskClutchMotherEgg.label>
+  <RJW_AA_FrostmiteEgg.label>Яйцо Ледоклеща</RJW_AA_FrostmiteEgg.label>
+  <RJW_AA_MammothWormEgg.label>Яйцо Червемамонта</RJW_AA_MammothWormEgg.label>
+  <RJW_AA_MegaLouseEgg.label>Яйцо Мегалуза</RJW_AA_MegaLouseEgg.label>
+  <RJW_AA_ThermadonEgg.label>Яйцо Термадона</RJW_AA_ThermadonEgg.label>
 
 
   <!-- Ni'Hal -->

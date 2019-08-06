@@ -3,14 +3,14 @@
 
   <!-- Insect privates parts -->
 
-  <OvipositorM.label>ovipositor (Male)</OvipositorM.label>
-  <OvipositorM.description>Ovipositor used by insects to fertilize eggs.</OvipositorM.description>
+  <OvipositorM.label>яйцеклад (мужской)</OvipositorM.label>
+  <OvipositorM.description>Яйцеклад используется насекомыми для оплодотворения яиц.</OvipositorM.description>
 
-  <OvipositorF.label>ovipositor (Female)</OvipositorF.label>
-  <OvipositorF.description>Ovipositor used by insects to lay eggs.</OvipositorF.description>
+  <OvipositorF.label>яйцеклад (женский)</OvipositorF.label>
+  <OvipositorF.description>Яйцеклад используется насекомыми, чтобы отложить яйца.</OvipositorF.description>
 
-  <InsectAnus.label>insect anus</InsectAnus.label>
-  <InsectAnus.description>Insect anus.</InsectAnus.description>
+  <InsectAnus.label>инсектоидный анус</InsectAnus.label>
+  <InsectAnus.description>Просто анус насекомых.</InsectAnus.description>
 
 
 </LanguageData>

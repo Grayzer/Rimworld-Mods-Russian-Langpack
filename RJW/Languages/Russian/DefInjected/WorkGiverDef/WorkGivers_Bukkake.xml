@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CleanSelf.label>clean self</CleanSelf.label>
-  <CleanSelf.verb>clean self</CleanSelf.verb>
-  <CleanSelf.gerund>cleaning self</CleanSelf.gerund>
+  <CleanSelf.label>очистить себя</CleanSelf.label>
+  <CleanSelf.verb>очистить себя</CleanSelf.verb>
+  <CleanSelf.gerund>очищает себя</CleanSelf.gerund>
 
 
 </LanguageData>

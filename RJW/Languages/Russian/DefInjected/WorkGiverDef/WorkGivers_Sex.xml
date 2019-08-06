@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WG_Rape.label>Rapin'</WG_Rape.label>
-  <WG_Rape.verb>rape</WG_Rape.verb>
-  <WG_Rape.gerund>raping</WG_Rape.gerund>
+  <WG_Rape.label>Насиловать</WG_Rape.label>
+  <WG_Rape.verb>насилие</WG_Rape.verb>
+  <WG_Rape.gerund>насилует</WG_Rape.gerund>
 
-  <WG_RapeEnemy.label>Rapin' enemy</WG_RapeEnemy.label>
-  <WG_RapeEnemy.verb>rape enemy</WG_RapeEnemy.verb>
-  <WG_RapeEnemy.gerund>raping enemy</WG_RapeEnemy.gerund>
+  <WG_RapeEnemy.label>Насиловать врага</WG_RapeEnemy.label>
+  <WG_RapeEnemy.verb>насилие врага</WG_RapeEnemy.verb>
+  <WG_RapeEnemy.gerund>насилует врага</WG_RapeEnemy.gerund>
 
-  <WG_RapeCP.label>Rapin' comfort prisoner</WG_RapeCP.label>
-  <WG_RapeCP.verb>rape CP</WG_RapeCP.verb>
-  <WG_RapeCP.gerund>raping CP</WG_RapeCP.gerund>
+  <WG_RapeCP.label>Насиловать Заключенных Комфорта</WG_RapeCP.label>
+  <WG_RapeCP.verb>насилие ЗК</WG_RapeCP.verb>
+  <WG_RapeCP.gerund>насилует ЗК</WG_RapeCP.gerund>
 
-  <WG_ViolateCorpse.label>Violatin' corpse</WG_ViolateCorpse.label>
-  <WG_ViolateCorpse.verb>violate corpse</WG_ViolateCorpse.verb>
-  <WG_ViolateCorpse.gerund>violating corpse</WG_ViolateCorpse.gerund>
+  <WG_ViolateCorpse.label>Осквернить тело</WG_ViolateCorpse.label>
+  <WG_ViolateCorpse.verb>осквернение тела</WG_ViolateCorpse.verb>
+  <WG_ViolateCorpse.gerund>оскверняет тело</WG_ViolateCorpse.gerund>
 
-  <WG_BestialityFM.label>Sexin' animal</WG_BestialityFM.label>
-  <WG_BestialityFM.verb>breed(active)</WG_BestialityFM.verb>
-  <WG_BestialityFM.gerund>breeding(active)</WG_BestialityFM.gerund>
+  <WG_BestialityFM.label>Спариваться с животным</WG_BestialityFM.label>
+  <WG_BestialityFM.verb>спаривание (актив)</WG_BestialityFM.verb>
+  <WG_BestialityFM.gerund>спаривание (актив)</WG_BestialityFM.gerund>
 
-  <WG_BestialityFF.label>Sexin' animal</WG_BestialityFF.label>
-  <WG_BestialityFF.verb>breed(passive)</WG_BestialityFF.verb>
-  <WG_BestialityFF.gerund>breeding(passive)</WG_BestialityFF.gerund>
+  <WG_BestialityFF.label>Спариваться с животным</WG_BestialityFF.label>
+  <WG_BestialityFF.verb>спаривание(пассив)</WG_BestialityFF.verb>
+  <WG_BestialityFF.gerund>спаривание(пассив)</WG_BestialityFF.gerund>
 
-  <WG_Fap.label>Fappin'</WG_Fap.label>
-  <WG_Fap.verb>fap</WG_Fap.verb>
-  <WG_Fap.gerund>faping</WG_Fap.gerund>
+  <WG_Fap.label>Мастурбировать</WG_Fap.label>
+  <WG_Fap.verb>мастурбация</WG_Fap.verb>
+  <WG_Fap.gerund>мастурбирует</WG_Fap.gerund>
 
-  <WG_Fap_bed.label>Fappin' in bed</WG_Fap_bed.label>
-  <WG_Fap_bed.verb>fap</WG_Fap_bed.verb>
-  <WG_Fap_bed.gerund>faping</WG_Fap_bed.gerund>
+  <WG_Fap_bed.label>Мастурбировать в кровати</WG_Fap_bed.label>
+  <WG_Fap_bed.verb>мастурбация</WG_Fap_bed.verb>
+  <WG_Fap_bed.gerund>мастурбирует</WG_Fap_bed.gerund>
 
-  <WG_HaveSex.label>Havin' sex</WG_HaveSex.label>
-  <WG_HaveSex.verb>have sex</WG_HaveSex.verb>
-  <WG_HaveSex.gerund>having sex</WG_HaveSex.gerund>
+  <WG_HaveSex.label>Заняться сексом</WG_HaveSex.label>
+  <WG_HaveSex.verb>занятие сексом</WG_HaveSex.verb>
+  <WG_HaveSex.gerund>занимается сексом</WG_HaveSex.gerund>
 
 
 </LanguageData>

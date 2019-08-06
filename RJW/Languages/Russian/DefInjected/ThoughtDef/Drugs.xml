@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HumpShroomEffect.stages.0.label>Humpshroom aftertaste</HumpShroomEffect.stages.0.label>
-  <HumpShroomEffect.stages.0.description>Tastes funny.</HumpShroomEffect.stages.0.description>
+  <HumpShroomEffect.stages.0.label>послевкусие от казановника</HumpShroomEffect.stages.0.label>
+  <HumpShroomEffect.stages.0.description>Забавное послевкусие.</HumpShroomEffect.stages.0.description>
 
 
   <!-- Ambrosia addiction -->
 
-  <HumpShroomWithdrawal.stages.1.label>humpshroom withdrawal</HumpShroomWithdrawal.stages.1.label>
-  <HumpShroomWithdrawal.stages.1.description>I just feel nothing down there.</HumpShroomWithdrawal.stages.1.description>
+  <HumpShroomWithdrawal.stages.1.label>ломка от казановника</HumpShroomWithdrawal.stages.1.label>
+  <HumpShroomWithdrawal.stages.1.description>Я просто ничего не чувствую там внизу.</HumpShroomWithdrawal.stages.1.description>
 
 
 </LanguageData>
