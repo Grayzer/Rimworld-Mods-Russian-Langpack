@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ArtificialPregnancy -->
+
+  <ArtificiallyImpregnate.label>искусственно оплодотворить</ArtificiallyImpregnate.label>
+  <ArtificiallyImpregnate.description>Искусственно оплодотворяет существо. (нужно лучше, чем простая медицина!)</ArtificiallyImpregnate.description>
+  <ArtificiallyImpregnate.jobString>Искусственное оплодотворение.</ArtificiallyImpregnate.jobString>
+
+
+  <!-- RemovePregnancy -->
+
+  <RemovePregnancy.label>удалить беременность</RemovePregnancy.label>
+  <RemovePregnancy.description>Удалить беременность у существа.</RemovePregnancy.description>
+  <RemovePregnancy.jobString>Удаление беременности.</RemovePregnancy.jobString>
+
+
+  <!-- DiscoverPregnancy -->
+
+  <DiscoverPregnancy.label>проверить беременность</DiscoverPregnancy.label>
+  <DiscoverPregnancy.description>Обнаружение/проверка беременности существа (беременность обычно не видна в течение первой трети его продолжительности).</DiscoverPregnancy.description>
+  <DiscoverPregnancy.jobString>Обнаружение/проверка беременности.</DiscoverPregnancy.jobString>
+
+
+  <!-- RemoveOneChildOnly -->
+
+  <RemoveOneChildOnly.label>удалить Была одна беременность уже</RemoveOneChildOnly.label>
+  <RemoveOneChildOnly.description>Удаляет Была одна беременность уже.</RemoveOneChildOnly.description>
+  <RemoveOneChildOnly.jobString>Удаление Была одна беременность уже.</RemoveOneChildOnly.jobString>
+
+
+</LanguageData>

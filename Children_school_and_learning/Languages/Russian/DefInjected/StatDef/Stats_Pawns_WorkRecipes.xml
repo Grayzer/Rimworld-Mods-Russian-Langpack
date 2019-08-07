@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Learning -->
+
+  <SchoolLearnGeneralEfficiency.label>эффективность обучения в общеобразовательной школе</SchoolLearnGeneralEfficiency.label>
+  <SchoolLearnGeneralEfficiency.description>Множитель на количество выученных при изучении общих предметов.</SchoolLearnGeneralEfficiency.description>
+
+  <SchoolLearnGeneralSpeed.label>скорость обучения в общеобразовательной школе</SchoolLearnGeneralSpeed.label>
+  <SchoolLearnGeneralSpeed.description>Скорость, с которой этот человек может изучать общие предметы.</SchoolLearnGeneralSpeed.description>
+
+
+  <!-- Teaching -->
+
+  <SchoolTeachGeneralEfficiency.label>эффективность преподавания в общеобразовательной школе</SchoolTeachGeneralEfficiency.label>
+  <SchoolTeachGeneralEfficiency.description>Множитель на количество выученных при изучении общих предметов.</SchoolTeachGeneralEfficiency.description>
+
+  <SchoolTeachGeneralSpeed.label>скорость преподавания в общеобразовательной школе</SchoolTeachGeneralSpeed.label>
+  <SchoolTeachGeneralSpeed.description>Скорость, с которой этот человек может преподавать общие предметы.</SchoolTeachGeneralSpeed.description>
+
+
+</LanguageData>

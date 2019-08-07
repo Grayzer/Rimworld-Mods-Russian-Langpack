@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PregnancyTest.label>тест на беременность</PregnancyTest.label>
+  <PregnancyTest.description>Обнаружение/проверка на беременности существа (беременность обычно не видна в течение первой трети его продолжительности).</PregnancyTest.description>
+  <PregnancyTest.ingestible.ingestCommandString>Взять {0}</PregnancyTest.ingestible.ingestCommandString>
+  <PregnancyTest.ingestible.ingestReportString>Берет {0}.</PregnancyTest.ingestible.ingestReportString>
+
+
+</LanguageData>

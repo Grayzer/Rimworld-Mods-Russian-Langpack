@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChildrenDislikesChildren.degreeDatas.0.label>не любит детей</ChildrenDislikesChildren.degreeDatas.0.label>
+  <ChildrenDislikesChildren.degreeDatas.0.description>[PAWN_nameDef] не любит детей.</ChildrenDislikesChildren.degreeDatas.0.description>
+
+  <ChildrenWerewolfChild.degreeDatas.0.label>Оборотень-ребенок</ChildrenWerewolfChild.degreeDatas.0.label>
+  <ChildrenWerewolfChild.degreeDatas.0.description>[PAWN_nameDef] это дитя оборотня, которое сначала достигнет совершеннолетия перед первой трансформацией.</ChildrenWerewolfChild.degreeDatas.0.description>
+
+  <ChildrenToYoungToWork.degreeDatas.0.label>молодым на работу</ChildrenToYoungToWork.degreeDatas.0.label>
+  <ChildrenToYoungToWork.degreeDatas.0.description>[PAWN_nameDef] может молодым работать.</ChildrenToYoungToWork.degreeDatas.0.description>
+
+
+</LanguageData>

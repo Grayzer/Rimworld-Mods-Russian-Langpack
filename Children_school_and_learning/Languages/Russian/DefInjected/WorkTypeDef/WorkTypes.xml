@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Study.label>Изучение</Study.label>
+  <Study.description>Учиться, чтобы улучшить и определить навыки.</Study.description>
+  <Study.labelShort>Изучение</Study.labelShort>
+  <Study.pawnLabel>Ученик</Study.pawnLabel>
+  <Study.gerundLabel>Учащийся</Study.gerundLabel>
+  <Study.verb>Учится</Study.verb>
+
+  <Teach.label>Преподавать</Teach.label>
+  <Teach.description>Научите совершенствовать и определять навыки.</Teach.description>
+  <Teach.labelShort>Преподавать</Teach.labelShort>
+  <Teach.pawnLabel>Преподаватель</Teach.pawnLabel>
+  <Teach.gerundLabel>Преподавание</Teach.gerundLabel>
+  <Teach.verb>Преподает</Teach.verb>
+
+
+</LanguageData>

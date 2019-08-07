@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- General -->
+
+  <TeachAtSchoolGeneral.label>учить в школе (Вспомогательное обучение)</TeachAtSchoolGeneral.label>
+  <TeachAtSchoolGeneral.description>Ускорение обучения через преподавание (все предметы, но ограниченное усиление для студентов).</TeachAtSchoolGeneral.description>
+  <TeachAtSchoolGeneral.jobString>Обучние в школе. (Вспомогательное обучение)</TeachAtSchoolGeneral.jobString>
+
+
+  <!-- Researching -->
+
+  <LearnAtSchoolResearching.label>учиться исследованиям в школе</LearnAtSchoolResearching.label>
+  <LearnAtSchoolResearching.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolResearching.description>
+  <LearnAtSchoolResearching.jobString>Обучение исследованиям в школе.</LearnAtSchoolResearching.jobString>
+
+  <TeachAtSchoolResearching.label>преподавать исследования в школе</TeachAtSchoolResearching.label>
+  <TeachAtSchoolResearching.description>Ускорьте обучение через преподавание.</TeachAtSchoolResearching.description>
+  <TeachAtSchoolResearching.jobString>Преподавание исследований в школе.</TeachAtSchoolResearching.jobString>
+
+
+  <!-- Social -->
+
+  <LearnAtSchoolSocial.label>изучать социальные навыки в школе</LearnAtSchoolSocial.label>
+  <LearnAtSchoolSocial.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolSocial.description>
+  <LearnAtSchoolSocial.jobString>Изучение социальных навыков в школе.</LearnAtSchoolSocial.jobString>
+
+  <TeachAtSchoolSocial.label>преподавать социальные навыки в школе</TeachAtSchoolSocial.label>
+  <TeachAtSchoolSocial.description>Ускорьте обучение через преподавание.</TeachAtSchoolSocial.description>
+  <TeachAtSchoolSocial.jobString>Обучение социальным навыкам в школе.</TeachAtSchoolSocial.jobString>
+
+
+  <!-- Melee -->
+
+  <LearnAtSchoolMelee.label>учиться борьбе в школе</LearnAtSchoolMelee.label>
+  <LearnAtSchoolMelee.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolMelee.description>
+  <LearnAtSchoolMelee.jobString>Обучение борьбе в школе.</LearnAtSchoolMelee.jobString>
+
+  <TeachAtSchoolMelee.label>преподавать борьбу в школе</TeachAtSchoolMelee.label>
+  <TeachAtSchoolMelee.description>Ускорьте обучение через преподавание.</TeachAtSchoolMelee.description>
+  <TeachAtSchoolMelee.jobString>Обучение боевым действиям в школе.</TeachAtSchoolMelee.jobString>
+
+
+  <!-- Shooting -->
+
+  <LearnAtSchoolShooting.label>учиться стрельбе в школе</LearnAtSchoolShooting.label>
+  <LearnAtSchoolShooting.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolShooting.description>
+  <LearnAtSchoolShooting.jobString>Обучение стрельбе в школе.</LearnAtSchoolShooting.jobString>
+
+  <TeachAtSchoolShooting.label>преподавать стрельбу в школе</TeachAtSchoolShooting.label>
+  <TeachAtSchoolShooting.description>Ускорьте обучение через преподавание.</TeachAtSchoolShooting.description>
+  <TeachAtSchoolShooting.jobString>Обучение стрельбе в школе.</TeachAtSchoolShooting.jobString>
+
+
+  <!-- Animals -->
+
+  <LearnAtSchoolAnimals.label>учиться животноводству в школе</LearnAtSchoolAnimals.label>
+  <LearnAtSchoolAnimals.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolAnimals.description>
+  <LearnAtSchoolAnimals.jobString>Обучение животноводству в школе.</LearnAtSchoolAnimals.jobString>
+
+  <TeachAtSchoolAnimals.label>преподавать животноводство в школе</TeachAtSchoolAnimals.label>
+  <TeachAtSchoolAnimals.description>Ускорьте обучение через преподавание.</TeachAtSchoolAnimals.description>
+  <TeachAtSchoolAnimals.jobString>Обучение животноводству в школе.</TeachAtSchoolAnimals.jobString>
+
+
+  <!-- Artistic -->
+
+  <LearnAtSchoolArtistic.label>учиться искусству в школе</LearnAtSchoolArtistic.label>
+  <LearnAtSchoolArtistic.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolArtistic.description>
+  <LearnAtSchoolArtistic.jobString>Изучение искусства в школе.</LearnAtSchoolArtistic.jobString>
+
+  <TeachAtSchoolArtistic.label>преподавать искусство в школе</TeachAtSchoolArtistic.label>
+  <TeachAtSchoolArtistic.description>Ускорьте обучение через преподавание.</TeachAtSchoolArtistic.description>
+  <TeachAtSchoolArtistic.jobString>Преподавание искусства в школе.</TeachAtSchoolArtistic.jobString>
+
+
+  <!-- Cooking -->
+
+  <LearnAtSchoolCooking.label>учиться кулинарии в школе</LearnAtSchoolCooking.label>
+  <LearnAtSchoolCooking.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolCooking.description>
+  <LearnAtSchoolCooking.jobString>Учимся кулинарии в школе.</LearnAtSchoolCooking.jobString>
+
+  <TeachAtSchoolCooking.label>преподавать кулинарию в школе</TeachAtSchoolCooking.label>
+  <TeachAtSchoolCooking.description>Ускорьте обучение через преподавание.</TeachAtSchoolCooking.description>
+  <TeachAtSchoolCooking.jobString>Обучение кулинарии в школе.</TeachAtSchoolCooking.jobString>
+
+
+  <!-- Medicine -->
+
+  <LearnAtSchoolMedicine.label>учиться медицине в школе</LearnAtSchoolMedicine.label>
+  <LearnAtSchoolMedicine.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolMedicine.description>
+  <LearnAtSchoolMedicine.jobString>Изучение медицины в школе.</LearnAtSchoolMedicine.jobString>
+
+  <TeachAtSchoolMedicine.label>преподавать медицину в школе</TeachAtSchoolMedicine.label>
+  <TeachAtSchoolMedicine.description>Ускорьте обучение через преподавание.</TeachAtSchoolMedicine.description>
+  <TeachAtSchoolMedicine.jobString>Преподавание медицины в школе.</TeachAtSchoolMedicine.jobString>
+
+
+  <!-- Mining -->
+
+  <LearnAtSchoolMining.label>учиться горнодобыче в школе</LearnAtSchoolMining.label>
+  <LearnAtSchoolMining.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolMining.description>
+  <LearnAtSchoolMining.jobString>Учимся горнодобыче в школе.</LearnAtSchoolMining.jobString>
+
+  <TeachAtSchoolMining.label>преподавать горнодобычу в школе</TeachAtSchoolMining.label>
+  <TeachAtSchoolMining.description>Ускорьте обучение через преподавание.</TeachAtSchoolMining.description>
+  <TeachAtSchoolMining.jobString>Преподавание горнодобычи в школе.</TeachAtSchoolMining.jobString>
+
+
+  <!-- Construction -->
+
+  <LearnAtSchoolConstruction.label>учиться строительству в школе</LearnAtSchoolConstruction.label>
+  <LearnAtSchoolConstruction.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolConstruction.description>
+  <LearnAtSchoolConstruction.jobString>Учимся строительству в школе.</LearnAtSchoolConstruction.jobString>
+
+  <TeachAtSchoolConstruction.label>преподавать строительству в школе</TeachAtSchoolConstruction.label>
+  <TeachAtSchoolConstruction.description>Ускорьте обучение через преподавание.</TeachAtSchoolConstruction.description>
+  <TeachAtSchoolConstruction.jobString>Преподавание строительства в школе.</TeachAtSchoolConstruction.jobString>
+
+
+  <!-- Tailoring(Crafting) -->
+
+  <LearnAtSchoolTailoring.label>учиться шитью в школе</LearnAtSchoolTailoring.label>
+  <LearnAtSchoolTailoring.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolTailoring.description>
+  <LearnAtSchoolTailoring.jobString>Обучение шитью в школе.</LearnAtSchoolTailoring.jobString>
+
+  <TeachAtSchoolTailoring.label>преподавать шитье в школе</TeachAtSchoolTailoring.label>
+  <TeachAtSchoolTailoring.description>Ускорьте обучение через преподавание.</TeachAtSchoolTailoring.description>
+  <TeachAtSchoolTailoring.jobString>Обучение пшитью в школе.</TeachAtSchoolTailoring.jobString>
+
+
+  <!-- Crafting -->
+
+  <LearnAtSchoolCrafting.label>учиться ремеслу в школе</LearnAtSchoolCrafting.label>
+  <LearnAtSchoolCrafting.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolCrafting.description>
+  <LearnAtSchoolCrafting.jobString>Обучение ремеслу в школе.</LearnAtSchoolCrafting.jobString>
+
+  <TeachAtSchoolCrafting.label>преподавать ремесло в школе</TeachAtSchoolCrafting.label>
+  <TeachAtSchoolCrafting.description>Ускорьте обучение через преподавание.</TeachAtSchoolCrafting.description>
+  <TeachAtSchoolCrafting.jobString>Обучение ремеслу в школе.</TeachAtSchoolCrafting.jobString>
+
+
+  <!-- Plants(Prev. Growing) -->
+
+  <LearnAtSchoolGrowing.label>изучать ботанику в школе</LearnAtSchoolGrowing.label>
+  <LearnAtSchoolGrowing.description>Улучшение и определение навыков с помощью обучения (для людей моложе 16 лет).</LearnAtSchoolGrowing.description>
+  <LearnAtSchoolGrowing.jobString>Изучение ботаники в школе.</LearnAtSchoolGrowing.jobString>
+
+  <TeachAtSchoolGrowing.label>преподавать ботанику в школе</TeachAtSchoolGrowing.label>
+  <TeachAtSchoolGrowing.description>Ускорьте обучение через преподавание.</TeachAtSchoolGrowing.description>
+  <TeachAtSchoolGrowing.jobString>Преподавание ботаники в школе.</TeachAtSchoolGrowing.jobString>
+
+
+</LanguageData>

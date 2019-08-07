@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <School_Study.label>изучение</School_Study.label>
+  <School_Study.verb>изучение</School_Study.verb>
+  <School_Study.gerund>изучает</School_Study.gerund>
+
+  <School_Teach.label>преподавание</School_Teach.label>
+  <School_Teach.verb>преподавание</School_Teach.verb>
+  <School_Teach.gerund>преподает</School_Teach.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Children_DisableChildren_Title>Отключить детей</Children_DisableChildren_Title>
+  <Children_DisableChildren_Desc>Колонисты больше не должны иметь детей из этого мода. (Не удаляет существующих детей или беременностей, которые также могут быть скрыты. Для деактивации некоторых частей требуется перезапуск игры)</Children_DisableChildren_Desc>
+
+  <Children_GeneratedChildrenAge_Title>Детский возраст (человек)</Children_GeneratedChildrenAge_Title>
+  <Children_GeneratedChildrenAge_Desc>Возраст сформированных детей</Children_GeneratedChildrenAge_Desc>
+
+  <GeneratedChildrenLifeStage_Title>Детский возраст (чужие)</GeneratedChildrenLifeStage_Title>
+  <GeneratedChildrenLifeStage_Desc>Устанавливает продолжительность жизни, в которой рождаются дети-инопланетяне (вместо нормального возраста, поскольку они могут сильно различаться в зависимости от расы - использует возраст человека (выше), если не может быть найден действительный возраст)</GeneratedChildrenLifeStage_Desc>
+
+  <GeneratedChildrenLifeStage_Desc_Baby>Младенец</GeneratedChildrenLifeStage_Desc_Baby>
+  <GeneratedChildrenLifeStage_Desc_Toddler>Ползунок</GeneratedChildrenLifeStage_Desc_Toddler>
+  <GeneratedChildrenLifeStage_Desc_Child>Малыш</GeneratedChildrenLifeStage_Desc_Child>
+  <GeneratedChildrenLifeStage_Desc_Teenager>Подросток</GeneratedChildrenLifeStage_Desc_Teenager>
+  <GeneratedChildrenLifeStage_Desc_Adult>Взрослый</GeneratedChildrenLifeStage_Desc_Adult>
+  <GeneratedChildrenLifeStage_Desc_HumanAge>То же, что и человек (выше)</GeneratedChildrenLifeStage_Desc_HumanAge>
+
+  <Children_GeneratedChildrenLearnMinAge_Title>Мин. возраст обучения</Children_GeneratedChildrenLearnMinAge_Title>
+  <Children_GeneratedChildrenLearnMinAge_Desc>Минимальный возраст для обучения в школе</Children_GeneratedChildrenLearnMinAge_Desc>
+
+  <Children_GeneratedChildrenLearnMinAgeAndroid_Title>Мин. возраст обучения (Андроид/Дроид)</Children_GeneratedChildrenLearnMinAgeAndroid_Title>
+  <Children_GeneratedChildrenLearnMinAgeAndroid_Desc>Минимальный возраст для обучения в школе для андроидов и дроидов</Children_GeneratedChildrenLearnMinAgeAndroid_Desc>
+
+  <Children_GeneratedChildrenLearnMaxAge_Title>Макс. возраст обучения</Children_GeneratedChildrenLearnMaxAge_Title>
+  <Children_GeneratedChildrenLearnMaxAge_Desc>Максимальный возраст для обучения в школе</Children_GeneratedChildrenLearnMaxAge_Desc>
+
+  <Children_GeneratedChildrenTeachMinAge_Title>Мин. возраст преподавания</Children_GeneratedChildrenTeachMinAge_Title>
+  <Children_GeneratedChildrenTeachMinAge_Desc>Минимальный возраст для преподавания</Children_GeneratedChildrenTeachMinAge_Desc>
+
+  <Children_GeneratedChildrenChance_Title>Базовый шанс на беременность</Children_GeneratedChildrenChance_Title>
+  <Children_GeneratedChildrenChance_Desc>0 - 100% значение влияет на фертильность</Children_GeneratedChildrenChance_Desc>
+
+  <Children_PregnancyDuration_Title>Модификатор: продолжительность беременности</Children_PregnancyDuration_Title>
+  <Children_PregnancyDuration_Desc>0 - 100% (Стандарт для людей: 100% = 45 дней) [Rimworld необходимо перезагрузить, чтобы это повлияло на игру!]</Children_PregnancyDuration_Desc>
+
+  <Children_ReverseFertilityEnabled_Title>Обратная фертильность</Children_ReverseFertilityEnabled_Title>
+  <Children_ReverseFertilityEnabled_Desc>[Необходимо перезагрузить!] По умолчанию отключает фертильность для всех колонистов - препараты Усилитель фертильности или медицинская операция будут необходимы для того, чтобы забеременеть (не для животных)</Children_ReverseFertilityEnabled_Desc>
+
+  <Children_AlwaysShowPregnancyEnabled_Title>Всегда показывать беременность</Children_AlwaysShowPregnancyEnabled_Title>
+  <Children_AlwaysShowPregnancyEnabled_Desc>Обычно в основной игре первая треть продолжительности беременности скрыта, это отключает ее для колонистов (не для животных)</Children_AlwaysShowPregnancyEnabled_Desc>
+
+  <Children_GetReproductionFromLifeStageEnabled_Title>Фертильность от стадии жизни</Children_GetReproductionFromLifeStageEnabled_Title>
+  <Children_GetReproductionFromLifeStageEnabled_Desc>Устанавливает фертильность на 0, если пешка не является репродуктивной на текущей стадии жизни</Children_GetReproductionFromLifeStageEnabled_Desc>
+
+  <Children_GetReproductionFromOldAgeEnabled_Title>Фертильность при старости</Children_GetReproductionFromOldAgeEnabled_Title>
+  <Children_GetReproductionFromOldAgeEnabled_Desc>Устанавливает фертильность на 0 за 3 шага, если пешка имеет преклонный возраст. (Отключено с птицами и пчелами) ((Ожидаемая продолжительность жизни - Возраст на последнем этапе жизни) / 5, 2/5 = 100%, 3/5 = 80%, 4/5 = 50%, 5 / 5 = 0%)</Children_GetReproductionFromOldAgeEnabled_Desc>
+
+  <Children_AlwaysHaveChildren_Title>Всегда беременеть (ТЕСТ)</Children_AlwaysHaveChildren_Title>
+  <Children_AlwaysHaveChildren_Desc>Все факторы игнорируются, и секс всегда приводит к беременности (в основном для тестирования/проверки совместимости модов)</Children_AlwaysHaveChildren_Desc>
+
+  <Children_MixedSpeciesChildrenAllowed_Title>Смешанные виды разрешены</Children_MixedSpeciesChildrenAllowed_Title>
+  <Children_MixedSpeciesChildrenAllowed_Desc>Могут ли пары смешанных видов иметь детей? Когда есть вероятность 50/50, к какому виду относится ребенок</Children_MixedSpeciesChildrenAllowed_Desc>
+
+  <Children_ShowChildSpeciesDialogIfUnclearEnabled_Title>Показать диалог с дочерними видами, если неясно</Children_ShowChildSpeciesDialogIfUnclearEnabled_Title>
+  <Children_ShowChildSpeciesDialogIfUnclearEnabled_Desc>Иногда виды родителей не могут быть определены на 100%, показать диалог, чтобы выбрать его, когда это произойдет.</Children_ShowChildSpeciesDialogIfUnclearEnabled_Desc>
+
+  <Children_AlwaysShowChildSpeciesDialogEnabled_Title>Всегда показывать диалог с дочерними видами</Children_AlwaysShowChildSpeciesDialogEnabled_Title>
+  <Children_AlwaysShowChildSpeciesDialogEnabled_Desc>Всегда показывайте диалоговое окно, чтобы выбрать вид ребенка при рождении.</Children_AlwaysShowChildSpeciesDialogEnabled_Desc>
+
+  <Children_AndroidChildrenAllowed_Title>Андроиды разрешены</Children_AndroidChildrenAllowed_Title>
+  <Children_AndroidChildrenAllowed_Desc>[Необходимо перезагрузить!] Могут ли андроиды иметь детей? (Необходимо перезагрузить, чтобы получить полный эффект!)</Children_AndroidChildrenAllowed_Desc>
+
+  <Children_DroidChildrenAllowed_Title>Дроиды разрешены</Children_DroidChildrenAllowed_Title>
+  <Children_DroidChildrenAllowed_Desc>[Необходимо перезагрузить!] Могут ли дроиды/роботы иметь детей? (Необходимо перезагрузить, чтобы получить полный эффект!)</Children_DroidChildrenAllowed_Desc>
+
+  <Children_AvaliChildrenAllowed_Title>Авали разрешены</Children_AvaliChildrenAllowed_Title>
+  <Children_AvaliChildrenAllowed_Desc>Может использоваться для отключения Mod-Routine для Avali</Children_AvaliChildrenAllowed_Desc>
+
+  <Children_VampireChildrenAllowed_Title>Вампиры разрешены</Children_VampireChildrenAllowed_Title>
+  <Children_VampireChildrenAllowed_Desc>Могут ли вампиры иметь детей?</Children_VampireChildrenAllowed_Desc>
+
+  <Children_VampireChildrenAreVampires_Title>Наследие вампиров</Children_VampireChildrenAreVampires_Title>
+  <Children_VampireChildrenAreVampires_Desc>Дети вампиров тоже вампиры?</Children_VampireChildrenAreVampires_Desc>
+
+  <Children_WerewolfChildrenAreWerewolfs_Title>Наследие оборотней</Children_WerewolfChildrenAreWerewolfs_Title>
+  <Children_WerewolfChildrenAreWerewolfs_Desc>Являются ли дети оборотней также оборотнями?</Children_WerewolfChildrenAreWerewolfs_Desc>
+
+  <Children_WerewolfChildrenMinAgeFirstTransformation_Title>Мин. возраст оборотня до трансформы</Children_WerewolfChildrenMinAgeFirstTransformation_Title>
+  <Children_WerewolfChildrenMinAgeFirstTransformation_Desc>В каком возрасте дети-оборотни трансформируются в первый раз?</Children_WerewolfChildrenMinAgeFirstTransformation_Desc>
+
+  <Children_WerewolfChildrenPregnancyDuration_Title>Оборотень: продолжительность беременности</Children_WerewolfChildrenPregnancyDuration_Title>
+  <Children_WerewolfChildrenPregnancyDuration_Desc>0 - 100% от нормальной продолжительности (100% = нет разницы от нормы)</Children_WerewolfChildrenPregnancyDuration_Desc>
+
+  <Children_PostpartumEnabled_Title>Добавить послеродовой переод</Children_PostpartumEnabled_Title>
+  <Children_PostpartumEnabled_Desc>Добавляет дебафф к плодовитости в течение 50 дней в 3 этапа (-100%,-80%,-50%)</Children_PostpartumEnabled_Desc>
+
+  <Children_OneChildEnabled_Title>Опция Только одна беременность</Children_OneChildEnabled_Title>
+  <Children_OneChildEnabled_Desc>Отключена фертильность после родов, так что у всех есть только одна беременность. (Это можно удалить с помощью операции. Требуется перезапуск игры!)</Children_OneChildEnabled_Desc>
+
+  <Children_ShowFatherEnabled_Title>Показать отцы</Children_ShowFatherEnabled_Title>
+  <Children_ShowFatherEnabled_Desc>Показать отца в закладке здоровья</Children_ShowFatherEnabled_Desc>
+
+  <Children_DebugTickDisabled_Title>Отключить увеличенный шанс секса</Children_DebugTickDisabled_Title>
+  <Children_DebugTickDisabled_Desc>Там может быть проблема с базовыми шансами в игре, поэтому эти моды повышают их</Children_DebugTickDisabled_Desc>
+
+  <Children_RandomBackstoryEnabled_Title>Включить случайные предыстории</Children_RandomBackstoryEnabled_Title>
+  <Children_RandomBackstoryEnabled_Desc>Выбирает одну из предысторий основной игры, которая в основном нормальная, вместо Дитя колонии</Children_RandomBackstoryEnabled_Desc>
+
+  <GeneratedChildrenInheritPercentage_Title>Наследование навыков %</GeneratedChildrenInheritPercentage_Title>
+  <GeneratedChildrenInheritPercentage_Desc>Процент унаследованных навыков родителей (0 = 1 уровень всех навыков) ((Родитель1 + Родитель2 уровень навыков / 2) * Процент наследования) (Случайно = Обычное поколение навыков)</GeneratedChildrenInheritPercentage_Desc>
+
+  <GeneratedChildrenInheritPercentage_Desc_0>0%</GeneratedChildrenInheritPercentage_Desc_0>
+  <GeneratedChildrenInheritPercentage_Desc_25>25%</GeneratedChildrenInheritPercentage_Desc_25>
+  <GeneratedChildrenInheritPercentage_Desc_50>50%</GeneratedChildrenInheritPercentage_Desc_50>
+  <GeneratedChildrenInheritPercentage_Desc_75>75%</GeneratedChildrenInheritPercentage_Desc_75>
+  <GeneratedChildrenInheritPercentage_Desc_100>100%</GeneratedChildrenInheritPercentage_Desc_100>
+  <GeneratedChildrenInheritPercentage_Desc_RandomSkills>Случайно</GeneratedChildrenInheritPercentage_Desc_RandomSkills>
+  <GeneratedChildrenInheritPercentage_Desc_StrongestAndRandom>Наследовать 3 лучших +Случайно</GeneratedChildrenInheritPercentage_Desc_StrongestAndRandom>
+
+  <GeneratedChildrenInheritTraits_Title>Наследование черт</GeneratedChildrenInheritTraits_Title>
+  <GeneratedChildrenInheritTraits_Desc>Определяет какие черты характера генерируются для детей</GeneratedChildrenInheritTraits_Desc>
+
+  <GeneratedChildrenInheritTraits_Desc_NoTraits>Без черт</GeneratedChildrenInheritTraits_Desc_NoTraits>
+  <GeneratedChildrenInheritTraits_Desc_InheritedTraits>Унаследованные черты</GeneratedChildrenInheritTraits_Desc_InheritedTraits>
+  <GeneratedChildrenInheritTraits_Desc_InheritedAndRandomTraits>Унаследовано и случайно</GeneratedChildrenInheritTraits_Desc_InheritedAndRandomTraits>
+  <GeneratedChildrenInheritTraits_Desc_RandomTraits>Случайные черты</GeneratedChildrenInheritTraits_Desc_RandomTraits>
+
+  <GeneratedChildrenInheritTraitCount_Title>Унаследованное количество черт</GeneratedChildrenInheritTraitCount_Title>
+  <GeneratedChildrenInheritTraitCount_Desc>Сколько черт унаследовано от родителей, когда активна функция Наследовать черты (Макс. черт удаляют некоторые из них при превышении лимита)</GeneratedChildrenInheritTraitCount_Desc>
+
+  <GeneratedChildrenInheritTraitCount_Desc_1each>1 от каждого</GeneratedChildrenInheritTraitCount_Desc_1each>
+  <GeneratedChildrenInheritTraitCount_Desc_2each>2 от каждого</GeneratedChildrenInheritTraitCount_Desc_2each>
+  <GeneratedChildrenInheritTraitCount_Desc_3each>3 от каждого</GeneratedChildrenInheritTraitCount_Desc_3each>
+  <GeneratedChildrenInheritTraitCount_Desc_1father>1 от отца</GeneratedChildrenInheritTraitCount_Desc_1father>
+  <GeneratedChildrenInheritTraitCount_Desc_2father>2 от отца</GeneratedChildrenInheritTraitCount_Desc_2father>
+  <GeneratedChildrenInheritTraitCount_Desc_3father>3 от отца</GeneratedChildrenInheritTraitCount_Desc_3father>
+  <GeneratedChildrenInheritTraitCount_Desc_1mother>1 от матери</GeneratedChildrenInheritTraitCount_Desc_1mother>
+  <GeneratedChildrenInheritTraitCount_Desc_2mother>2 от матери</GeneratedChildrenInheritTraitCount_Desc_2mother>
+  <GeneratedChildrenInheritTraitCount_Desc_3mother>3 от матери</GeneratedChildrenInheritTraitCount_Desc_3mother>
+  <GeneratedChildrenInheritTraitCount_Desc_all>унаследовать все</GeneratedChildrenInheritTraitCount_Desc_all>
+
+  <GeneratedChildrenTraitMax_Title>Макс. черт</GeneratedChildrenTraitMax_Title>
+  <GeneratedChildrenTraitMax_Desc>Определяет, сколько черт максимум может иметь ребенок (удаляет черты случайным образом после генерации, пока не будет достигнуто максимальное значение)</GeneratedChildrenTraitMax_Desc>
+
+  <GeneratedChildrenTraitMax_Desc_One>1</GeneratedChildrenTraitMax_Desc_One>
+  <GeneratedChildrenTraitMax_Desc_Two>2</GeneratedChildrenTraitMax_Desc_Two>
+  <GeneratedChildrenTraitMax_Desc_Three>3 (По умолчанию)</GeneratedChildrenTraitMax_Desc_Three>
+  <GeneratedChildrenTraitMax_Desc_Four>4</GeneratedChildrenTraitMax_Desc_Four>
+  <GeneratedChildrenTraitMax_Desc_Five>5</GeneratedChildrenTraitMax_Desc_Five>
+  <GeneratedChildrenTraitMax_Desc_NoLimit>Нет ограничений</GeneratedChildrenTraitMax_Desc_NoLimit>
+
+  <GeneratedChildrenTraitScenario_Title>Сценария черты</GeneratedChildrenTraitScenario_Title>
+  <GeneratedChildrenTraitScenario_Desc>Другие параметры черт могут предотвращать/переопределять черты сценария + Новые пешки обычно не учитывают начальные черты из сценария, который этот параметр может повторно включить</GeneratedChildrenTraitScenario_Desc>
+
+  <GeneratedChildrenTraitScenario_Desc_Off>Не считается (Выкл)</GeneratedChildrenTraitScenario_Desc_Off>
+  <GeneratedChildrenTraitScenario_Desc_OnTop>Макс. после черты</GeneratedChildrenTraitScenario_Desc_OnTop>
+  <GeneratedChildrenTraitScenario_Desc_Inherit>Наследуется до макс. черт</GeneratedChildrenTraitScenario_Desc_Inherit>
+  <GeneratedChildrenTraitScenario_Desc_InheritOnTop>Наследуется после макс. черт (По умолчанию)</GeneratedChildrenTraitScenario_Desc_InheritOnTop>
+
+  <GeneratedChildrenLastName_Title>Фамилия</GeneratedChildrenLastName_Title>
+  <GeneratedChildrenLastName_Desc>Определяет, чью фамилию получают дети</GeneratedChildrenLastName_Desc>
+
+  <GeneratedChildrenLastName_Desc_NameMother>Матери</GeneratedChildrenLastName_Desc_NameMother>
+  <GeneratedChildrenLastName_Desc_NameFather>Отца</GeneratedChildrenLastName_Desc_NameFather>
+
+  <SchoolsOutMinFireDanger_Title>(Школьная зона) Покинуть школу - пожарная опасность</SchoolsOutMinFireDanger_Title>
+  <SchoolsOutMinFireDanger_Desc>Определяет, какая пожарная опасность приводит к тому, что школьная территория больше не соблюдается в школьное время.</SchoolsOutMinFireDanger_Desc>
+
+  <SchoolsOutMinFireDanger_Desc_AllFires0>Все пожары</SchoolsOutMinFireDanger_Desc_AllFires0>
+  <SchoolsOutMinFireDanger_Desc_SmallFire30>Небольшие пожары</SchoolsOutMinFireDanger_Desc_SmallFire30>
+  <SchoolsOutMinFireDanger_Desc_MediumFire60>Средние пожары</SchoolsOutMinFireDanger_Desc_MediumFire60>
+  <SchoolsOutMinFireDanger_Desc_LargeFire90>Большие пожары</SchoolsOutMinFireDanger_Desc_LargeFire90>
+  <SchoolsOutMinFireDanger_Desc_Off999>Выключено (Игнорировать пожары)</SchoolsOutMinFireDanger_Desc_Off999>
+
+  <Children_TeacherNotTeaching>Преподаватель, не преподающий или не преподающий другой предмет</Children_TeacherNotTeaching>
+  <Children_MissingTeacher>Нет преподавателя</Children_MissingTeacher>
+  <Children_MissingBlackboard>Нет классной доски</Children_MissingBlackboard>
+
+  <Children_PawnToYoungSeeOptions>Слишком молод, смотрите опции модов</Children_PawnToYoungSeeOptions>
+  <Children_PawnToOldSeeOptions>Слишком старый, смотрите опции модов</Children_PawnToOldSeeOptions>
+
+  <ChildrenMessageMedicalOperationPregFailure>{1} не мог забеременеть искусственно, причина: {0}</ChildrenMessageMedicalOperationPregFailure>
+  <ChildrenMessageMedicalOperationPregFailureMale>{1} не может стать искусственно беременной, потому что он мужчина</ChildrenMessageMedicalOperationPregFailureMale>
+  <ChildrenMessageMedicalOperationPregFailureFertile>{1} не имеет фертильности и не может стать искусственно беременной</ChildrenMessageMedicalOperationPregFailureFertile>
+
+  <ChildrenMessageMedicalOperationPregSuccessPartner>{1} сейчас искусственно беременна от {0}</ChildrenMessageMedicalOperationPregSuccessPartner>
+  <ChildrenMessageMedicalOperationPregSuccessSelf>{1} сейчас искусственно беременна без партнера</ChildrenMessageMedicalOperationPregSuccessSelf>
+
+  <ChildrenMessageMedicalOperationRemovePregFailure>{1} не была беременна (операция не дала эффекта)</ChildrenMessageMedicalOperationRemovePregFailure>
+  <ChildrenMessageMedicalOperationRemovePregSuccess>Во время операции беременность {1} была успешно прервана</ChildrenMessageMedicalOperationRemovePregSuccess>
+
+  <ChildrenMessageMedicalOperationDiscoverPregFailure>{1} не беременна</ChildrenMessageMedicalOperationDiscoverPregFailure>
+  <ChildrenMessageMedicalOperationDiscoverPregSuccess>{1} беременна! ({2} до рождения)</ChildrenMessageMedicalOperationDiscoverPregSuccess>
+
+  <ChildrenMessageMedicalOperationRemoveOneChildFailure>{1} не имела дебаффа Только одна беременность (операция не дала эффекта)</ChildrenMessageMedicalOperationRemoveOneChildFailure>
+  <ChildrenMessageMedicalOperationRemoveOneChildSuccess>Дебафф Только одна беременность у {1} был успешно удален с помощью операции</ChildrenMessageMedicalOperationRemoveOneChildSuccess>
+
+  <ChildrenMessageNotLearningMuch>{1} больше не может ничему научиться у {0} (сообщение можно отключить)</ChildrenMessageNotLearningMuch>
+
+  <ChildrenMessageOldEnoughToWork>{1} достаточно взрослый, чтобы работать</ChildrenMessageOldEnoughToWork>
+
+  <Children_PawnSizeEnabled_Title>Включить масштабирование</Children_PawnSizeEnabled_Title>
+  <Children_PawnSizeEnabled_Desc>[Необходимо перезагрузить!] Младших колонистов привлекают меньше, в зависимости от их продолжительности жизни. НУЖНО ПЕРЕГРУЗИТЬ!</Children_PawnSizeEnabled_Desc>
+
+  <Children_NoWorkYoungEnabled_Title>Молодые не могут работать</Children_NoWorkYoungEnabled_Title>
+  <Children_NoWorkYoungEnabled_Desc>[Необходимо перезагрузить!] Молодые колонисты не могут выполнять задачи (люди 0-3 /, когда им 4 года, они могут работать). НУЖНО ПЕРЕГРУЗИТЬ!</Children_NoWorkYoungEnabled_Desc>
+
+  <Children_NotLearningMessageEnabled_Title>Сообщение: больше не учусь</Children_NotLearningMessageEnabled_Title>
+  <Children_NotLearningMessageEnabled_Desc>Покажет сообщение: X больше не может ничему научиться у Y</Children_NotLearningMessageEnabled_Desc>
+
+  <Children_AlwaysRenameFirstNameEnabled_Title>Всегда переопределить переименование</Children_AlwaysRenameFirstNameEnabled_Title>
+  <Children_AlwaysRenameFirstNameEnabled_Desc>Позволяет переименовать любое имя колонистов, но переопределяет обычные диалоги псевдонимов и заголовков (должен быть отключен после переименования, и в основном предназначен для перехода со старой версии без этой функции)</Children_AlwaysRenameFirstNameEnabled_Desc>
+
+  <Children_DebugInfoMessagesEnabled_Title>Журнал сообщений отладочной информации</Children_DebugInfoMessagesEnabled_Title>
+  <Children_DebugInfoMessagesEnabled_Desc>Журнал сообщений отладочной информации</Children_DebugInfoMessagesEnabled_Desc>
+
+  <Children_DebugErrorMessagesEnabled_Title>Журнал сообщений об ошибках</Children_DebugErrorMessagesEnabled_Title>
+  <Children_DebugErrorMessagesEnabled_Desc>Журнал сообщений об ошибках</Children_DebugErrorMessagesEnabled_Desc>
+
+  <Children_RemoveMod_Title>Удалить мод</Children_RemoveMod_Title>
+  <Children_RemoveMod_Desc>Открывает диалоговое окно для удаления большей части содержимого модов из игры. (Должен быть нажат в текущей игре)</Children_RemoveMod_Desc>
+
+  <Children_RemoveModMessage>Это попытается удалить большинство частей мода из этой игры. После его завершения вы должны сначала сохранить игру, ничего не делая, а затем удалить мод из порядка загрузки и перезагрузить сохранение. (При первой перезагрузке будут сообщения об ошибках (возможно, также и при первом сохранении), но это не должно быть большой проблемой)</Children_RemoveModMessage>
+  <Children_RemoveModCompeted>Большинство связанных с модом частей теперь должны быть удалены, сохраните игру, прежде чем делать что-либо еще.</Children_RemoveModCompeted>
+
+  <ChildrenMessageSecondMother>Вторая мать</ChildrenMessageSecondMother>
+  <ChildrenMessagePartner>Партнер</ChildrenMessagePartner>
+  <ChildrenMessageFather>Отец</ChildrenMessageFather>
+  <ChildrenMessageNoPartner>Нет партнера</ChildrenMessageNoPartner>
+
+  <ChildrenMessageChooseSpecies>Выберите вид для детей {0}</ChildrenMessageChooseSpecies>
+  <ChildrenMessageChooseSpeciesInfo>(Этот диалог показывается, потому что вид не может быть определен на 100%)</ChildrenMessageChooseSpeciesInfo>
+  <ChildrenMessageChooseSpeciesButton>Выбранные виды: </ChildrenMessageChooseSpeciesButton>
+
+  <Children_School>Школа</Children_School>
+
+  <Children_SchoolTooltipOverride>Переопределено из школьного времени</Children_SchoolTooltipOverride>
+
+  <Children_DesignatorAreaSchoolExpand>Переназначиться в школьную зону</Children_DesignatorAreaSchoolExpand>
+  <Children_DesignatorAreaSchoolExpandDesc>Колонисты, которым назначено школьное время, будут заблокированы в этой области на это время.</Children_DesignatorAreaSchoolExpandDesc>
+  <Children_DesignatorAreaSchoolClear>Очистить школьную зону</Children_DesignatorAreaSchoolClear>
+  <Children_DesignatorAreaSchoolClearDesc>Очистить школьную зону</Children_DesignatorAreaSchoolClearDesc>
+
+</LanguageData>

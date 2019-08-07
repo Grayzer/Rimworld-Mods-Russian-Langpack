@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BirthControl.label>контроль рождаемости</BirthControl.label>
+  <BirthControl.description>100% Предотвращает беременность в течение 5 дней. (работает для обоих полов, по крайней мере, один должен принять это) - (Настройки по умолчанию из основной игры скрывают беременность в течение первой трети продолжительности, это можно отключить в настройках мода)</BirthControl.description>
+  <BirthControl.ingestible.ingestCommandString>Взять {0}</BirthControl.ingestible.ingestCommandString>
+  <BirthControl.ingestible.ingestReportString>Берет {0}.</BirthControl.ingestible.ingestReportString>
+
+
+</LanguageData>

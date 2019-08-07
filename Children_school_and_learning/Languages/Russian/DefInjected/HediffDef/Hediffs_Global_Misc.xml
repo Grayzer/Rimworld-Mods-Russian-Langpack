@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Postpartum.label>в послеродовом периоде</Postpartum.label>
+  <Postpartum.stages.0.label>поздняя стадия</Postpartum.stages.0.label>
+  <Postpartum.stages.1.label>средняя стадия</Postpartum.stages.1.label>
+  <Postpartum.stages.2.label>ранняя стадия</Postpartum.stages.2.label>
+  <Postpartum.labelNoun>послеродовой переод</Postpartum.labelNoun>
+
+  <OneChildOnly.label>была уже одна беременность</OneChildOnly.label>
+  <OneChildOnly.labelNoun>была уже одна беременность</OneChildOnly.labelNoun>
+
+  <NoReproductionLifestage.label>не репродуктивный</NoReproductionLifestage.label>
+  <NoReproductionLifestage.labelNoun>не репродуктивный</NoReproductionLifestage.labelNoun>
+
+  <NoReproductionAndroid.label>не репродуктивный (Андроид)</NoReproductionAndroid.label>
+  <NoReproductionAndroid.labelNoun>не репродуктивный (Андроид)</NoReproductionAndroid.labelNoun>
+
+  <NoReproductionLifestageOldAge.label>низкая рождаемость (старость)</NoReproductionLifestageOldAge.label>
+  <NoReproductionLifestageOldAge.stages.0.label>ранняя стадия</NoReproductionLifestageOldAge.stages.0.label>
+  <NoReproductionLifestageOldAge.stages.1.label>средняя стадия</NoReproductionLifestageOldAge.stages.1.label>
+  <NoReproductionLifestageOldAge.stages.2.label>поздняя стадия</NoReproductionLifestageOldAge.stages.2.label>
+  <NoReproductionLifestageOldAge.labelNoun>низкая рождаемость (старость)</NoReproductionLifestageOldAge.labelNoun>
+
+  <PregnancyDiscovered.label>беременность обнаружена</PregnancyDiscovered.label>
+  <PregnancyDiscovered.stages.0.label>скрыто</PregnancyDiscovered.stages.0.label>
+  <PregnancyDiscovered.labelNoun>беременность обнаружена</PregnancyDiscovered.labelNoun>
+
+  <ChildRenamePending.label>ожидание переименования ребенка</ChildRenamePending.label>
+  <ChildRenamePending.stages.0.label>скрыто</ChildRenamePending.stages.0.label>
+  <ChildRenamePending.labelNoun>ожидание переименования ребенка</ChildRenamePending.labelNoun>
+
+  <ChildBirthInProgress.label>ребенок рождается</ChildBirthInProgress.label>
+  <ChildBirthInProgress.stages.0.label>скрыто</ChildBirthInProgress.stages.0.label>
+  <ChildBirthInProgress.labelNoun>ребенок рождается</ChildBirthInProgress.labelNoun>
+
+  <FertilityDisabledDefault.label>фертильность отключена по умолчанию (ModOption)</FertilityDisabledDefault.label>
+  <FertilityDisabledDefault.labelNoun>фертильность отключена по умолчанию (ModOption)</FertilityDisabledDefault.labelNoun>
+
+
+</LanguageData>
