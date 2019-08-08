@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gun_AnestheticGun.label>анастетик пистолет</Gun_AnestheticGun.label>
+  <Gun_AnestheticGun.description>Древний образец болтового ружья которое стреляет анестезирующими пулями.</Gun_AnestheticGun.description>
+  <Gun_AnestheticGun.tools.0.label>склад</Gun_AnestheticGun.tools.0.label>
+  <Gun_AnestheticGun.tools.1.label>бочка</Gun_AnestheticGun.tools.1.label>
+
+  <Bullet_AnestheticGun.label>анастетик патрон для пистолета</Bullet_AnestheticGun.label>
+
+
+</LanguageData>

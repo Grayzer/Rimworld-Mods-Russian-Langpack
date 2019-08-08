@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_AnestheticBullet.label>анастетик патрон</Hediff_AnestheticBullet.label>
+  <Hediff_AnestheticBullet.stages.0.label>начальная 1</Hediff_AnestheticBullet.stages.0.label>
+  <Hediff_AnestheticBullet.stages.1.label>начальная 2</Hediff_AnestheticBullet.stages.1.label>
+  <Hediff_AnestheticBullet.stages.2.label>начальная 3</Hediff_AnestheticBullet.stages.2.label>
+  <Hediff_AnestheticBullet.stages.3.label>начальная 4</Hediff_AnestheticBullet.stages.3.label>
+  <Hediff_AnestheticBullet.stages.4.label>незначительная 1</Hediff_AnestheticBullet.stages.4.label>
+  <Hediff_AnestheticBullet.stages.5.label>незначительная 2</Hediff_AnestheticBullet.stages.5.label>
+  <Hediff_AnestheticBullet.stages.6.label>незначительная 3</Hediff_AnestheticBullet.stages.6.label>
+  <Hediff_AnestheticBullet.stages.7.label>серьезная</Hediff_AnestheticBullet.stages.7.label>
+  <Hediff_AnestheticBullet.stages.8.label>крайняя 1</Hediff_AnestheticBullet.stages.8.label>
+  <Hediff_AnestheticBullet.stages.9.label>крайняя 2</Hediff_AnestheticBullet.stages.9.label>
+  <Hediff_AnestheticBullet.stages.10.label>крайняя 3</Hediff_AnestheticBullet.stages.10.label>
+
+
+</LanguageData>

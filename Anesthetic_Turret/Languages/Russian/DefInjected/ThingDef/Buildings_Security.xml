@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Turret_AnestheticTurret.label>анестетик-туррель</Turret_AnestheticTurret.label>
+  <Turret_AnestheticTurret.description>Портативная автоматическая анестезиологическая туррель. Способна нейтрализовать врагов практически невредимыми. Требуется лекарство, чтобы перезарядиться. Может взорваться при повреждении.</Turret_AnestheticTurret.description>
+  <Turret_AnestheticTurret_Blueprint.label>анестетик-туррель (чертеж)</Turret_AnestheticTurret_Blueprint.label>
+  <Turret_AnestheticTurret_Blueprint_Install.label>анестетик-туррель (чертеж)</Turret_AnestheticTurret_Blueprint_Install.label>
+  <Turret_AnestheticTurret_Frame.label>анестетик-туррель (стройка)</Turret_AnestheticTurret_Frame.label>
+  <Turret_AnestheticTurret_Frame.description>Портативная автоматическая анестезиологическая туррель. Способна нейтрализовать врагов практически невредимыми. Требуется лекарство, чтобы перезарядиться. Может взорваться при повреждении.</Turret_AnestheticTurret_Frame.description>
+
+  <Gun_AnestheticTurret.label>анестетик-туррельный пистолет</Gun_AnestheticTurret.label>
+  <Gun_AnestheticTurret.description>Простой автоматический анестезиологический пистолет, предназначенный для установки на башне.</Gun_AnestheticTurret.description>
+
+  <Bullet_AnestheticTurret.label>анестетик-туррельный патрон</Bullet_AnestheticTurret.label>
+
+
+</LanguageData>
