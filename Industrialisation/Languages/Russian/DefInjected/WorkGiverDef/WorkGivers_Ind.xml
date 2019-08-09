@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- misc -->
+
+  <Ind_DoBillsMixconcrete.label>Работать на бетономешалке</Ind_DoBillsMixconcrete.label>
+  <Ind_DoBillsMixconcrete.verb>работа</Ind_DoBillsMixconcrete.verb>
+  <Ind_DoBillsMixconcrete.gerund>работа на</Ind_DoBillsMixconcrete.gerund>
+
+  <Ind_DoBillsDeepMine.label>Работать на глубокой шахте</Ind_DoBillsDeepMine.label>
+  <Ind_DoBillsDeepMine.verb>работа</Ind_DoBillsDeepMine.verb>
+  <Ind_DoBillsDeepMine.gerund>работа на</Ind_DoBillsDeepMine.gerund>
+
+  <Ind_DoBillsElectricArcFurnace.label>Работать на электродуговой печи</Ind_DoBillsElectricArcFurnace.label>
+  <Ind_DoBillsElectricArcFurnace.verb>работа</Ind_DoBillsElectricArcFurnace.verb>
+  <Ind_DoBillsElectricArcFurnace.gerund>работа на</Ind_DoBillsElectricArcFurnace.gerund>
+
+
+</LanguageData>

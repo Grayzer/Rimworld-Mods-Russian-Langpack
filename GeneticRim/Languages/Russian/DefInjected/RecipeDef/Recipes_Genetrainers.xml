@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_CraftBearGenetrainer.label>создать геномодификатор гибридизации генов вмедведя</GR_CraftBearGenetrainer.label>
+  <GR_CraftBearGenetrainer.label>создать геномодификатор гибридизации генов медведя</GR_CraftBearGenetrainer.label>
   <GR_CraftBearGenetrainer.description>Создает генномодификатор гибридизации. Геномодификатор - это имплант, который не заменяет какой-либо конкретный орган. Это потребует перепрофилирования любой механической сыворотки.</GR_CraftBearGenetrainer.description>
   <GR_CraftBearGenetrainer.jobString>Создает генномодификатор гибридизации из заданых генов.</GR_CraftBearGenetrainer.jobString>
 

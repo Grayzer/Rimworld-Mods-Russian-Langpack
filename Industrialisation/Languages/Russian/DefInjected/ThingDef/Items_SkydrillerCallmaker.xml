@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ind_SkydrillerCallmaker.label>Вызов Skydriller</Ind_SkydrillerCallmaker.label>
+  <Ind_SkydrillerCallmaker.description>Вызывает Skydriller, плазменный бурильщик на низкой орбите. Skydriller будет запускать плазменный луч по координатам маяка, создавая глубокую шахту и уничтожая маяк в процессе. Колонист должен быть выбран и отдан приказ активировать маяк. ПРИМЕЧАНИЕ. Сигнал от создателя вызова блокируется внутри пещер и сооружений, поэтому его следует размещать снаружи.</Ind_SkydrillerCallmaker.description>
+  <Ind_SkydrillerCallmaker.comps.0.useLabel>Активировать вызов Skydriller</Ind_SkydrillerCallmaker.comps.0.useLabel>
+  <Ind_SkydrillerCallmaker_Blueprint_Install.label>Вызов Skydriller (чертеж)</Ind_SkydrillerCallmaker_Blueprint_Install.label>
+
+  <Ind_SkydrillerCallmaker_Calling.label>Вызов Skydriller (активен)</Ind_SkydrillerCallmaker_Calling.label>
+  <Ind_SkydrillerCallmaker_Calling.description>Вызывает Skydriller, плазменный бурильщик на низкой орбите. Skydriller будет запускать плазменный луч по координатам маяка, создавая глубокую шахту и уничтожая маяк в процессе. Колонист должен быть выбран и отдан приказ активировать маяк. ПРИМЕЧАНИЕ. Сигнал от создателя вызова блокируется внутри пещер и сооружений, поэтому его следует размещать снаружи.</Ind_SkydrillerCallmaker_Calling.description>
+
+  <Ind_SkydrillerCallmaker_Drilling.label>Skydriller бурит (активен)</Ind_SkydrillerCallmaker_Drilling.label>
+  <Ind_SkydrillerCallmaker_Drilling.description>Плазменное бурение в процессе. Очистить территорию!!!</Ind_SkydrillerCallmaker_Drilling.description>
+
+  <Ind_MiningHole.label>скважина</Ind_MiningHole.label>
+  <Ind_MiningHole.description>Это скважина для глубокой шахты.</Ind_MiningHole.description>
+
+
+</LanguageData>

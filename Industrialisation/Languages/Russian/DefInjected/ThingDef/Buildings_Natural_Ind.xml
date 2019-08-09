@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Resource rocks -->
+
+  <Ind_MineableCopper.label>уплотненная медь</Ind_MineableCopper.label>
+  <Ind_MineableCopper.description>Остатки какого-то древнего рухнувшего строения. Богат медью.</Ind_MineableCopper.description>
+
+  <Ind_MineableAluminium.label>уплотненный алюминий</Ind_MineableAluminium.label>
+  <Ind_MineableAluminium.description>Остатки какого-то древнего рухнувшего строения. Богатый алюминием.</Ind_MineableAluminium.description>
+
+
+</LanguageData>

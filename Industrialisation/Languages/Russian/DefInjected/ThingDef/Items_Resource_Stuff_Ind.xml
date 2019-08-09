@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concrete -->
+
+  <Ind_Concrete.label>бетон</Ind_Concrete.label>
+  <Ind_Concrete.description>широко используемый строительный материал.</Ind_Concrete.description>
+  <Ind_Concrete.stuffProps.stuffAdjective>бетон</Ind_Concrete.stuffProps.stuffAdjective>
+
+
+  <!-- Metal -->
+
+  <Ind_HighGradeSteel.label>высококачественная сталь</Ind_HighGradeSteel.label>
+  <Ind_HighGradeSteel.description>Высококачественная сталь используется для строительства более прочных конструкций, инструментов и оружия.</Ind_HighGradeSteel.description>
+  <Ind_HighGradeSteel.stuffProps.stuffAdjective>высококачественная сталь</Ind_HighGradeSteel.stuffProps.stuffAdjective>
+
+  <Ind_Copper.label>медь</Ind_Copper.label>
+  <Ind_Copper.description>мягкий, но красивый металл, в основном используемый для искусства.</Ind_Copper.description>
+  <Ind_Copper.stuffProps.stuffAdjective>медь</Ind_Copper.stuffProps.stuffAdjective>
+
+  <Ind_Aluminium.label>алюминий</Ind_Aluminium.label>
+  <Ind_Aluminium.description>Алюминий - это серебристо-белый, мягкий, немагнитный, пластичный металл, отличающийся низкой плотностью металла и способностью противостоять коррозии в результате явления пассивации.</Ind_Aluminium.description>
+  <Ind_Aluminium.stuffProps.stuffAdjective>алюминий</Ind_Aluminium.stuffProps.stuffAdjective>
+
+
+</LanguageData>

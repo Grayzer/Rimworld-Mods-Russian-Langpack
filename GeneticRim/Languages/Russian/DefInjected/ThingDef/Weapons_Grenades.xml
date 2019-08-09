@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_Weapon_ThrownSac.label>взрывной мешок</GR_Weapon_ThrownSac.label>
+  <GR_Weapon_ThrownSac.label>метательный мешок</GR_Weapon_ThrownSac.label>
   <GR_Weapon_ThrownSac.description>Этот органический мешок заполнен нестабильным химическим веществом, которое взорвется при контакте.</GR_Weapon_ThrownSac.description>
   <GR_Weapon_ThrownSac.verbs.0.label>метнуть взрывной мешок</GR_Weapon_ThrownSac.verbs.0.label>
 

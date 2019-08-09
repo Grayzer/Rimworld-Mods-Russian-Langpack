@@ -18,11 +18,11 @@
   <Make10Shell_Firefoam.jobString>Изготовляет партию пожарных снарядов(10)</Make10Shell_Firefoam.jobString>
 
   <Make10ChemfuelFromWood.label>Получить химтопливо из древесины(10)</Make10ChemfuelFromWood.label>
-  <Make10ChemfuelFromWood.description>Сделать партию химического топлива путем гизификации древестных брёвен.</Make10ChemfuelFromWood.description>
+  <Make10ChemfuelFromWood.description>Сделать партию химического топлива путем газификации древестных брёвен.</Make10ChemfuelFromWood.description>
   <Make10ChemfuelFromWood.jobString>Производит партию химтоплива из древесины(10)</Make10ChemfuelFromWood.jobString>
 
   <Make10ChemfuelFromOrganics.label>Получить химтопливо из органики(10)</Make10ChemfuelFromOrganics.label>
-  <Make10ChemfuelFromOrganics.description>Сделать партию химического топлива путем извлечения биовктивных компонентов из органического сырья.</Make10ChemfuelFromOrganics.description>
+  <Make10ChemfuelFromOrganics.description>Сделать партию химического топлива путем извлечения биоактивных компонентов из органического сырья.</Make10ChemfuelFromOrganics.description>
   <Make10ChemfuelFromOrganics.jobString>Производит партию химтоплива из органики(10)</Make10ChemfuelFromOrganics.jobString>
 
   <Make10Component.label>Сделать компонент(10)</Make10Component.label>
@@ -33,9 +33,9 @@
   <Make10AdvancedComponent.description>Сделать партию продвинутых компонентов.</Make10AdvancedComponent.description>
   <Make10AdvancedComponent.jobString>Изготовляет партию продвинутых компонентов(10)</Make10AdvancedComponent.jobString>
 
-  <Make10Patchleather.label>make patchleather in bulk (10)</Make10Patchleather.label>
+  <Make10Patchleather.label>Сделать обрывки кожи(10)</Make10Patchleather.label>
   <Make10Patchleather.description>Комбинируйте различные виды кожи для создания слабой кожи.</Make10Patchleather.description>
-  <Make10Patchleather.jobString>Making patchleather.</Make10Patchleather.jobString>
+  <Make10Patchleather.jobString>Изготовляет обрывки кожи.</Make10Patchleather.jobString>
 
 
 </LanguageData>

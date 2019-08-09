@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Make Concrete -->
+
+  <Ind_MakeConcreteFromAny.label>производить бетон из кусков камней</Ind_MakeConcreteFromAny.label>
+  <Ind_MakeConcreteFromAny.description>превратить куски камней в бетон.</Ind_MakeConcreteFromAny.description>
+  <Ind_MakeConcreteFromAny.jobString>Производит бетон.</Ind_MakeConcreteFromAny.jobString>
+
+  <Ind_MakeConcreteFromSandstone.label>производить бетон из кусков песчанника</Ind_MakeConcreteFromSandstone.label>
+  <Ind_MakeConcreteFromSandstone.description>превратить куски песчанника в бетон.</Ind_MakeConcreteFromSandstone.description>
+  <Ind_MakeConcreteFromSandstone.jobString>Производит бетон.</Ind_MakeConcreteFromSandstone.jobString>
+
+  <Ind_MakeConcreteFromGranite.label>производить бетон из кусков гранита</Ind_MakeConcreteFromGranite.label>
+  <Ind_MakeConcreteFromGranite.description>превратить куски гранита в бетон.</Ind_MakeConcreteFromGranite.description>
+  <Ind_MakeConcreteFromGranite.jobString>Производит бетон.</Ind_MakeConcreteFromGranite.jobString>
+
+  <Ind_MakeConcreteFromLimestone.label>производить бетон из кусков известняка</Ind_MakeConcreteFromLimestone.label>
+  <Ind_MakeConcreteFromLimestone.description>превратить куски известняка в бетон.</Ind_MakeConcreteFromLimestone.description>
+  <Ind_MakeConcreteFromLimestone.jobString>Производит бетон.</Ind_MakeConcreteFromLimestone.jobString>
+
+  <Ind_MakeConcreteFromSlate.label>производить бетон из кусков сланца</Ind_MakeConcreteFromSlate.label>
+  <Ind_MakeConcreteFromSlate.description>превратить куски сланца в бетон.</Ind_MakeConcreteFromSlate.description>
+  <Ind_MakeConcreteFromSlate.jobString>Производит бетон.</Ind_MakeConcreteFromSlate.jobString>
+
+  <Ind_MakeConcreteFromMarble.label>производить бетон из кусков мрамора</Ind_MakeConcreteFromMarble.label>
+  <Ind_MakeConcreteFromMarble.description>превратить куски мрамора в бетон.</Ind_MakeConcreteFromMarble.description>
+  <Ind_MakeConcreteFromMarble.jobString>Производит бетон.</Ind_MakeConcreteFromMarble.jobString>
+
+
+  <!-- Electric Arc Furnace -->
+
+  <Ind_MakeHighGradeSteelEAF.label>производить выскокачественную сталь</Ind_MakeHighGradeSteelEAF.label>
+  <Ind_MakeHighGradeSteelEAF.description>Производство высококачественной стали из стали с использованием электродуговой печи.</Ind_MakeHighGradeSteelEAF.description>
+  <Ind_MakeHighGradeSteelEAF.jobString>Производит выскокачественную сталь из стали.</Ind_MakeHighGradeSteelEAF.jobString>
+
+
+  <!-- Deep Mine Metal -->
+
+  <Ind_DeepMineSteel.label>глубокая добыча стали</Ind_DeepMineSteel.label>
+  <Ind_DeepMineSteel.description>Глубокая добыча стали.</Ind_DeepMineSteel.description>
+  <Ind_DeepMineSteel.jobString>Глубокая добыча в шахте.</Ind_DeepMineSteel.jobString>
+
+  <Ind_DeepMineCopper.label>глубокая добыча меди</Ind_DeepMineCopper.label>
+  <Ind_DeepMineCopper.description>Глубокая добыча меди.</Ind_DeepMineCopper.description>
+  <Ind_DeepMineCopper.jobString>Глубокая добыча в шахте.</Ind_DeepMineCopper.jobString>
+
+  <Ind_DeepMineAluminium.label>глубокая добыча алюминия</Ind_DeepMineAluminium.label>
+  <Ind_DeepMineAluminium.description>Глубокая добыча aluminium.</Ind_DeepMineAluminium.description>
+  <Ind_DeepMineAluminium.jobString>Глубокая добыча в шахте.</Ind_DeepMineAluminium.jobString>
+
+  <Ind_DeepMinePlasteel.label>глубокая добыча пластали</Ind_DeepMinePlasteel.label>
+  <Ind_DeepMinePlasteel.description>Глубокая добыча plasteel.</Ind_DeepMinePlasteel.description>
+  <Ind_DeepMinePlasteel.jobString>Глубокая добыча в шахте.</Ind_DeepMinePlasteel.jobString>
+
+  <Ind_DeepMineSilver.label>глубокая добыча серебра</Ind_DeepMineSilver.label>
+  <Ind_DeepMineSilver.description>Глубокая добыча silver.</Ind_DeepMineSilver.description>
+  <Ind_DeepMineSilver.jobString>Глубокая добыча в шахте.</Ind_DeepMineSilver.jobString>
+
+  <Ind_DeepMineGold.label>глубокая добыча золота</Ind_DeepMineGold.label>
+  <Ind_DeepMineGold.description>Глубокая добыча gold.</Ind_DeepMineGold.description>
+  <Ind_DeepMineGold.jobString>Глубокая добыча в шахте.</Ind_DeepMineGold.jobString>
+
+  <Ind_DeepMineUranium.label>глубокая добыча урана</Ind_DeepMineUranium.label>
+  <Ind_DeepMineUranium.description>Глубокая добыча uranium.</Ind_DeepMineUranium.description>
+  <Ind_DeepMineUranium.jobString>Глубокая добыча в шахте.</Ind_DeepMineUranium.jobString>
+
+
+  <!-- Deep Mine Stone -->
+
+  <Ind_DeepMineJade.label>глубокая добыча нефрита</Ind_DeepMineJade.label>
+  <Ind_DeepMineJade.description>Глубокая добыча нефрита.</Ind_DeepMineJade.description>
+  <Ind_DeepMineJade.jobString>Глубокая добыча в шахте.</Ind_DeepMineJade.jobString>
+
+  <Ind_DeepMineChunkSandstone.label>глубокая добыча кусков песчанника</Ind_DeepMineChunkSandstone.label>
+  <Ind_DeepMineChunkSandstone.description>Глубокая добыча кусков песчанника.</Ind_DeepMineChunkSandstone.description>
+  <Ind_DeepMineChunkSandstone.jobString>Глубокая добыча в шахте.</Ind_DeepMineChunkSandstone.jobString>
+
+  <Ind_DeepMineChunkGranite.label>глубокая добыча кусков гранита</Ind_DeepMineChunkGranite.label>
+  <Ind_DeepMineChunkGranite.description>Глубокая добыча кусков гранита.</Ind_DeepMineChunkGranite.description>
+  <Ind_DeepMineChunkGranite.jobString>Глубокая добыча в шахте.</Ind_DeepMineChunkGranite.jobString>
+
+  <Ind_DeepMineChunkLimestone.label>глубокая добыча кусков известняка</Ind_DeepMineChunkLimestone.label>
+  <Ind_DeepMineChunkLimestone.description>Глубокая добыча кусков известняка.</Ind_DeepMineChunkLimestone.description>
+  <Ind_DeepMineChunkLimestone.jobString>Глубокая добыча в шахте.</Ind_DeepMineChunkLimestone.jobString>
+
+  <Ind_DeepMineChunkSlate.label>глубокая добыча кусков сланца</Ind_DeepMineChunkSlate.label>
+  <Ind_DeepMineChunkSlate.description>Глубокая добыча кусков сланца.</Ind_DeepMineChunkSlate.description>
+  <Ind_DeepMineChunkSlate.jobString>Глубокая добыча в шахте.</Ind_DeepMineChunkSlate.jobString>
+
+  <Ind_DeepMineChunkMarble.label>глубокая добыча кусков мрамора</Ind_DeepMineChunkMarble.label>
+  <Ind_DeepMineChunkMarble.description>Глубокая добыча кусков мрамора.</Ind_DeepMineChunkMarble.description>
+  <Ind_DeepMineChunkMarble.jobString>Глубокая добыча в шахте.</Ind_DeepMineChunkMarble.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ind_IndustrialCable.label>промышленный кабель</Ind_IndustrialCable.label>
+  <Ind_IndustrialCable.description>Комплект усиленных и огнестойких электрических кабелей для перемещения энергии. Можно разместить под стенами и другими зданиями.</Ind_IndustrialCable.description>
+  <Ind_IndustrialCable_Blueprint.label>промышленный кабель (чертеж)</Ind_IndustrialCable_Blueprint.label>
+  <Ind_IndustrialCable_Frame.label>промышленный кабель (стройка)</Ind_IndustrialCable_Frame.label>
+  <Ind_IndustrialCable_Frame.description>Комплект усиленных и огнестойких электрических кабелей для перемещения энергии. Можно разместить под стенами и другими зданиями.</Ind_IndustrialCable_Frame.description>
+
+  <Ind_IndustrialBattery.label>промышленный акумулятор</Ind_IndustrialBattery.label>
+  <Ind_IndustrialBattery.description>Стабильная и надежная промышленная батарея, более эффективная, чем обычная батарея. Она не загорается и не вызывает короткого замыкания из-за лучшей конструкции безопасности.</Ind_IndustrialBattery.description>
+  <Ind_IndustrialBattery_Blueprint.label>промышленный акумулятор (чертеж)</Ind_IndustrialBattery_Blueprint.label>
+  <Ind_IndustrialBattery_Blueprint_Install.label>промышленный акумулятор (чертеж)</Ind_IndustrialBattery_Blueprint_Install.label>
+  <Ind_IndustrialBattery_Frame.label>промышленный акумулятор (стройка)</Ind_IndustrialBattery_Frame.label>
+  <Ind_IndustrialBattery_Frame.description>Стабильная и надежная промышленная батарея, более эффективная, чем обычная батарея. Она не загорается и не вызывает короткого замыкания из-за лучшей конструкции безопасности.</Ind_IndustrialBattery_Frame.description>
+
+  <Ind_NuclearPowerPlant.label>атомная электростанция</Ind_NuclearPowerPlant.label>
+  <Ind_NuclearPowerPlant.description>Атомная электростанция большой мощности. Использует уран в качестве топлива.</Ind_NuclearPowerPlant.description>
+  <Ind_NuclearPowerPlant_Blueprint.label>атомная электростанция (чертеж)</Ind_NuclearPowerPlant_Blueprint.label>
+  <Ind_NuclearPowerPlant_Frame.label>атомная электростанция (стройка)</Ind_NuclearPowerPlant_Frame.label>
+  <Ind_NuclearPowerPlant_Frame.description>Атомная электростанция большой мощности. Использует уран в качестве топлива.</Ind_NuclearPowerPlant_Frame.description>
+
+
+</LanguageData>

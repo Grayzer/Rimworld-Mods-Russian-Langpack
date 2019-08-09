@@ -91,7 +91,7 @@
   <!-- Misc -->
 
   <GR_ANewCreatureWasBorn>Инкубатор готов!</GR_ANewCreatureWasBorn>
-  <GR_ANewCreatureWasBornMutant>Инкубатор создал сущ ... Подождите, что это такое???</GR_ANewCreatureWasBornMutant>
+  <GR_ANewCreatureWasBornMutant>Инкубатор создал сущ... Подождите, что это такое???</GR_ANewCreatureWasBornMutant>
   <GR_CantUseMoreGenetrainers>Генетрейнер был потрачен впустую. К этому колонисту уже применен генномодификатор.</GR_CantUseMoreGenetrainers>
   <GR_CommandArchotechReport>Показать отчет по проекту</GR_CommandArchotechReport>
   <GR_CommandArchotechReportDesc>Покажите отчет о готовности к проекту многоножки архотек.</GR_CommandArchotechReportDesc>

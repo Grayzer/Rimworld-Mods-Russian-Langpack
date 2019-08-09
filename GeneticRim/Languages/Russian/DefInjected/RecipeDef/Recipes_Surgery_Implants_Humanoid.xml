@@ -3,103 +3,103 @@
 
   <!-- Human Hybrid Implants -->
 
-  <GR_InstallBearClaws.label>&lt;color=#E89D1B&gt;установить медвежьи когти&lt;/color&gt;</GR_InstallBearClaws.label>
+  <GR_InstallBearClaws.label>установить медвежьи когти</GR_InstallBearClaws.label>
   <GR_InstallBearClaws.description>Установить медвежьи когти.</GR_InstallBearClaws.description>
   <GR_InstallBearClaws.jobString>Установка медвежьих когтей.</GR_InstallBearClaws.jobString>
 
-  <GR_InstallDiggingBearClaws.label>&lt;color=#E89D1B&gt;установить медвежьи рытьевые когти&lt;/color&gt;</GR_InstallDiggingBearClaws.label>
+  <GR_InstallDiggingBearClaws.label>установить медвежьи рытьевые когти</GR_InstallDiggingBearClaws.label>
   <GR_InstallDiggingBearClaws.description>Установить медвежьи рытьевые когти.</GR_InstallDiggingBearClaws.description>
   <GR_InstallDiggingBearClaws.jobString>Установка медвежьих рытьевых когтей.</GR_InstallDiggingBearClaws.jobString>
 
-  <GR_InstallBearMuscleTissue.label>&lt;color=#E89D1B&gt;установить медвежья мышечная ткань&lt;/color&gt;</GR_InstallBearMuscleTissue.label>
+  <GR_InstallBearMuscleTissue.label>установить медвежья мышечная ткань</GR_InstallBearMuscleTissue.label>
   <GR_InstallBearMuscleTissue.description>Установить медвежья мышечная ткань.</GR_InstallBearMuscleTissue.description>
   <GR_InstallBearMuscleTissue.jobString>Установка медвежейя мышечной ткани.</GR_InstallBearMuscleTissue.jobString>
 
-  <GR_InstallHibernationModule.label>&lt;color=#E89D1B&gt;установить модуль гибернации&lt;/color&gt;</GR_InstallHibernationModule.label>
+  <GR_InstallHibernationModule.label>установить модуль гибернации</GR_InstallHibernationModule.label>
   <GR_InstallHibernationModule.description>Установить модуль гибернации.</GR_InstallHibernationModule.description>
   <GR_InstallHibernationModule.jobString>Установка модуля гибернации.</GR_InstallHibernationModule.jobString>
 
-  <GR_InstallOvipositor.label>&lt;color=#E89D1B&gt;установить яйцеклад&lt;/color&gt;</GR_InstallOvipositor.label>
+  <GR_InstallOvipositor.label>установить яйцеклад</GR_InstallOvipositor.label>
   <GR_InstallOvipositor.description>Установить яйцеклад.</GR_InstallOvipositor.description>
   <GR_InstallOvipositor.jobString>Установка яйцеклада.</GR_InstallOvipositor.jobString>
 
-  <GR_InstallMuffaloMuscles.label>&lt;color=#E89D1B&gt;установить мускулы муффало&lt;/color&gt;</GR_InstallMuffaloMuscles.label>
+  <GR_InstallMuffaloMuscles.label>установить мускулы муффало</GR_InstallMuffaloMuscles.label>
   <GR_InstallMuffaloMuscles.description>Установить мускулы муффало.</GR_InstallMuffaloMuscles.description>
   <GR_InstallMuffaloMuscles.jobString>Установка мускулов муффало.</GR_InstallMuffaloMuscles.jobString>
 
-  <GR_InstallMuffaloMammaries.label>&lt;color=#E89D1B&gt;установить молочные железы муффало&lt;/color&gt;</GR_InstallMuffaloMammaries.label>
+  <GR_InstallMuffaloMammaries.label>установить молочные железы муффало</GR_InstallMuffaloMammaries.label>
   <GR_InstallMuffaloMammaries.description>Установить молочные железы муффало.</GR_InstallMuffaloMammaries.description>
   <GR_InstallMuffaloMammaries.jobString>Установка молочных желез муффало.</GR_InstallMuffaloMammaries.jobString>
 
-  <GR_InstallMuffaloSkin.label>&lt;color=#E89D1B&gt;установить кожа муффало&lt;/color&gt;</GR_InstallMuffaloSkin.label>
+  <GR_InstallMuffaloSkin.label>установить кожа муффало</GR_InstallMuffaloSkin.label>
   <GR_InstallMuffaloSkin.description>Установить кожа муффало.</GR_InstallMuffaloSkin.description>
   <GR_InstallMuffaloSkin.jobString>Установка кожи муффало.</GR_InstallMuffaloSkin.jobString>
 
-  <GR_InstallBoomalopeNodules.label>&lt;color=#E89D1B&gt;установить наросты бумалопы&lt;/color&gt;</GR_InstallBoomalopeNodules.label>
+  <GR_InstallBoomalopeNodules.label>установить наросты бумалопы</GR_InstallBoomalopeNodules.label>
   <GR_InstallBoomalopeNodules.description>Установить наросты бумалопы.</GR_InstallBoomalopeNodules.description>
   <GR_InstallBoomalopeNodules.jobString>Установка наростов бумалопы.</GR_InstallBoomalopeNodules.jobString>
 
-  <GR_InstallChemfuelStomach.label>&lt;color=#E89D1B&gt;установить химтопливный желудок&lt;/color&gt;</GR_InstallChemfuelStomach.label>
+  <GR_InstallChemfuelStomach.label>установить химтопливный желудок</GR_InstallChemfuelStomach.label>
   <GR_InstallChemfuelStomach.description>Установить химтопливный желудок.</GR_InstallChemfuelStomach.description>
   <GR_InstallChemfuelStomach.jobString>Установка химтопливного желудка.</GR_InstallChemfuelStomach.jobString>
 
-  <GR_InstallChemfuelHeart.label>&lt;color=#E89D1B&gt;установить химтопливное сердце&lt;/color&gt;</GR_InstallChemfuelHeart.label>
+  <GR_InstallChemfuelHeart.label>установить химтопливное сердце</GR_InstallChemfuelHeart.label>
   <GR_InstallChemfuelHeart.description>Установить химтопливное сердце.</GR_InstallChemfuelHeart.description>
   <GR_InstallChemfuelHeart.jobString>Установка химтопливного сердца.</GR_InstallChemfuelHeart.jobString>
 
-  <GR_InstallWolfMuscularFibers.label>&lt;color=#E89D1B&gt;установить мышечные волокна волка&lt;/color&gt;</GR_InstallWolfMuscularFibers.label>
+  <GR_InstallWolfMuscularFibers.label>установить мышечные волокна волка</GR_InstallWolfMuscularFibers.label>
   <GR_InstallWolfMuscularFibers.description>Установить мышечные волокна волка.</GR_InstallWolfMuscularFibers.description>
   <GR_InstallWolfMuscularFibers.jobString>Установка мышечных волокон волка.</GR_InstallWolfMuscularFibers.jobString>
 
-  <GR_InstallDevouringJaws.label>&lt;color=#E89D1B&gt;установить всепожирающие челюсти&lt;/color&gt;</GR_InstallDevouringJaws.label>
+  <GR_InstallDevouringJaws.label>установить всепожирающие челюсти</GR_InstallDevouringJaws.label>
   <GR_InstallDevouringJaws.description>Установить всепожирающие челюсти.</GR_InstallDevouringJaws.description>
   <GR_InstallDevouringJaws.jobString>Установка всепожирающих челюстей.</GR_InstallDevouringJaws.jobString>
 
-  <GR_InstallNeuronReinforcement.label>&lt;color=#E89D1B&gt;установить нейронное усиление&lt;/color&gt;</GR_InstallNeuronReinforcement.label>
+  <GR_InstallNeuronReinforcement.label>установить нейронное усиление</GR_InstallNeuronReinforcement.label>
   <GR_InstallNeuronReinforcement.description>Установить нейронное усиление.</GR_InstallNeuronReinforcement.description>
   <GR_InstallNeuronReinforcement.jobString>Установка нейронного усиления.</GR_InstallNeuronReinforcement.jobString>
 
-  <GR_InstallMousePheromones.label>&lt;color=#E89D1B&gt;установить мышиные феромоны&lt;/color&gt;</GR_InstallMousePheromones.label>
+  <GR_InstallMousePheromones.label>установить мышиные феромоны</GR_InstallMousePheromones.label>
   <GR_InstallMousePheromones.description>Установить мышиные феромоны.</GR_InstallMousePheromones.description>
   <GR_InstallMousePheromones.jobString>Установка мышиных феромонов.</GR_InstallMousePheromones.jobString>
 
-  <GR_InstallMoleratNerveDampener.label>&lt;color=#E89D1B&gt;установить крото-крысовый нерводемфпер&lt;/color&gt;</GR_InstallMoleratNerveDampener.label>
+  <GR_InstallMoleratNerveDampener.label>установить крото-крысовый нерводемфпер</GR_InstallMoleratNerveDampener.label>
   <GR_InstallMoleratNerveDampener.description>Установить крото-крысовый нерводемфпер.</GR_InstallMoleratNerveDampener.description>
   <GR_InstallMoleratNerveDampener.jobString>Установка крото-крысового нерводемфпера.</GR_InstallMoleratNerveDampener.jobString>
 
-  <GR_InstallBunnyEars.label>&lt;color=#E89D1B&gt;установить ухо кролика&lt;/color&gt;</GR_InstallBunnyEars.label>
+  <GR_InstallBunnyEars.label>установить ухо кролика</GR_InstallBunnyEars.label>
   <GR_InstallBunnyEars.description>Установить ухо кролика.</GR_InstallBunnyEars.description>
   <GR_InstallBunnyEars.jobString>Установка уха кролика.</GR_InstallBunnyEars.jobString>
 
-  <GR_InstallCompoundEye.label>&lt;color=#E89D1B&gt;install compound eye&lt;/color&gt;</GR_InstallCompoundEye.label>
-  <GR_InstallCompoundEye.description>Installs compound eye.</GR_InstallCompoundEye.description>
-  <GR_InstallCompoundEye.jobString>Installing compound eye.</GR_InstallCompoundEye.jobString>
+  <GR_InstallCompoundEye.label>установить фасеточный глаз</GR_InstallCompoundEye.label>
+  <GR_InstallCompoundEye.description>Установить фасеточный глаз.</GR_InstallCompoundEye.description>
+  <GR_InstallCompoundEye.jobString>Установка фасеточного глаза.</GR_InstallCompoundEye.jobString>
 
-  <GR_InstallInsectoidAntennae.label>&lt;color=#E89D1B&gt;установить антенны инсектоидов&lt;/color&gt;</GR_InstallInsectoidAntennae.label>
+  <GR_InstallInsectoidAntennae.label>установить антенны инсектоидов</GR_InstallInsectoidAntennae.label>
   <GR_InstallInsectoidAntennae.description>Установить антенны инсектоидов.</GR_InstallInsectoidAntennae.description>
   <GR_InstallInsectoidAntennae.jobString>Установка антенн инсектоидов.</GR_InstallInsectoidAntennae.jobString>
 
-  <GR_InstallPsychicDampeners.label>&lt;color=#E89D1B&gt;установить экстрасенсорные демпферы&lt;/color&gt;</GR_InstallPsychicDampeners.label>
+  <GR_InstallPsychicDampeners.label>установить экстрасенсорные демпферы</GR_InstallPsychicDampeners.label>
   <GR_InstallPsychicDampeners.description>Установить экстрасенсорные демпферы.</GR_InstallPsychicDampeners.description>
   <GR_InstallPsychicDampeners.jobString>Установка экстрасенсорных демпферов.</GR_InstallPsychicDampeners.jobString>
 
-  <GR_InstallKidneyToxicFilters.label>&lt;color=#E89D1B&gt;установить токсические фильтры почек&lt;/color&gt;</GR_InstallKidneyToxicFilters.label>
+  <GR_InstallKidneyToxicFilters.label>установить токсические фильтры почек</GR_InstallKidneyToxicFilters.label>
   <GR_InstallKidneyToxicFilters.description>Установить токсические фильтры почек.</GR_InstallKidneyToxicFilters.description>
   <GR_InstallKidneyToxicFilters.jobString>Установка токсических фильтров почек.</GR_InstallKidneyToxicFilters.jobString>
 
-  <GR_InstallHumanThrumboHorn.label>&lt;color=#E89D1B&gt;установить рог трумбо&lt;/color&gt;</GR_InstallHumanThrumboHorn.label>
+  <GR_InstallHumanThrumboHorn.label>установить рог трумбо</GR_InstallHumanThrumboHorn.label>
   <GR_InstallHumanThrumboHorn.description>Установить рог трумбо.</GR_InstallHumanThrumboHorn.description>
   <GR_InstallHumanThrumboHorn.jobString>Установка рога трумбо.</GR_InstallHumanThrumboHorn.jobString>
 
-  <GR_InstallThrumboSkin.label>&lt;color=#E89D1B&gt;установить кожа трумбо&lt;/color&gt;</GR_InstallThrumboSkin.label>
+  <GR_InstallThrumboSkin.label>установить кожа трумбо</GR_InstallThrumboSkin.label>
   <GR_InstallThrumboSkin.description>Установить кожа трумбо.</GR_InstallThrumboSkin.description>
   <GR_InstallThrumboSkin.jobString>Установка кожи трумбо.</GR_InstallThrumboSkin.jobString>
 
-  <GR_InstallVenomousFangs.label>&lt;color=#E89D1B&gt;установить ядовитые клыки&lt;/color&gt;</GR_InstallVenomousFangs.label>
+  <GR_InstallVenomousFangs.label>установить ядовитые клыки</GR_InstallVenomousFangs.label>
   <GR_InstallVenomousFangs.description>Установить ядовитые клыки.</GR_InstallVenomousFangs.description>
   <GR_InstallVenomousFangs.jobString>Установка ядовитых клыков.</GR_InstallVenomousFangs.jobString>
 
-  <GR_InstallIguanaScales.label>&lt;color=#E89D1B&gt;установить шкура игуаны&lt;/color&gt;</GR_InstallIguanaScales.label>
+  <GR_InstallIguanaScales.label>установить шкура игуаны</GR_InstallIguanaScales.label>
   <GR_InstallIguanaScales.description>Установить шкура игуаны.</GR_InstallIguanaScales.description>
   <GR_InstallIguanaScales.jobString>Установка шкуры игуаны.</GR_InstallIguanaScales.jobString>
 

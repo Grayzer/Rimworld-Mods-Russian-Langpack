@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <Ind_ConcreteMixer.label>бетономешалка</Ind_ConcreteMixer.label>
+  <Ind_ConcreteMixer.description>Это бетономешалка.</Ind_ConcreteMixer.description>
+  <Ind_ConcreteMixer_Blueprint.label>бетономешалка (чертеж)</Ind_ConcreteMixer_Blueprint.label>
+  <Ind_ConcreteMixer_Frame.label>бетономешалка (стройка)</Ind_ConcreteMixer_Frame.label>
+  <Ind_ConcreteMixer_Frame.description>Это бетономешалка.</Ind_ConcreteMixer_Frame.description>
+
+  <Ind_ElectricArcFurnace.label>электродуговая печь</Ind_ElectricArcFurnace.label>
+  <Ind_ElectricArcFurnace.description>Электродуговая печь для производства стали, эффективная, но очень энергоемкая.</Ind_ElectricArcFurnace.description>
+  <Ind_ElectricArcFurnace_Blueprint.label>электродуговая печь (чертеж)</Ind_ElectricArcFurnace_Blueprint.label>
+  <Ind_ElectricArcFurnace_Frame.label>электродуговая печь (стройка)</Ind_ElectricArcFurnace_Frame.label>
+  <Ind_ElectricArcFurnace_Frame.description>Электродуговая печь для производства стали, эффективная, но очень энергоемкая.</Ind_ElectricArcFurnace_Frame.description>
+
+  <Ind_DeepMine.label>глубокая шахта</Ind_DeepMine.label>
+  <Ind_DeepMine.description>Вы можете добывать несколько видов ресурсов из глубокой шахты, она может быть построена только на скважине. (закажите плазменное бурение у skydriller, он сделает шахтную скважину в месте бурения.)</Ind_DeepMine.description>
+  <Ind_DeepMine_Blueprint.label>глубокая шахта (чертеж)</Ind_DeepMine_Blueprint.label>
+  <Ind_DeepMine_Frame.label>глубокая шахта (стройка)</Ind_DeepMine_Frame.label>
+  <Ind_DeepMine_Frame.description>Вы можете добывать несколько видов ресурсов из глубокой шахты, она может быть построена только на скважине. (закажите плазменное бурение у skydriller, он сделает шахтную скважину в месте бурения.)</Ind_DeepMine_Frame.description>
+
+
+</LanguageData>

@@ -57,14 +57,14 @@
   <GR_InsectoidAntennae.label>человеческий имплант: антенны инсектоидов</GR_InsectoidAntennae.label>
   <GR_InsectoidAntennae.description>Создает гибридные гуманоидо-инсектоидные придатки, которые могут быть имплантированы в голову субъекта, полностью изменяя способ, которым субъект воспринимает окружающий мир. Опыт может быть немного подавляющим из-за сенсорной перегрузки.</GR_InsectoidAntennae.description>
 
-  <GR_CompoundEye.label>human Implant: compund eye</GR_CompoundEye.label>
-  <GR_CompoundEye.description>This hybrid humanoid / insectoid eye provides improved vision in a wide range of different wavelengths, including those usually outside the human range, completely modifying the way the subject perceives his surroundings.</GR_CompoundEye.description>
+  <GR_CompoundEye.label>человеческий имплант: фасеточный глаз</GR_CompoundEye.label>
+  <GR_CompoundEye.description>Этот гибридный гуманоидный / инсектоидный глаз обеспечивает улучшенное зрение в широком диапазоне различных длин волн, включая те, которые обычно находятся за пределами человеческого диапазона, полностью изменяя способ восприятия субъектом своего окружения.</GR_CompoundEye.description>
 
   <GR_PsychicDampeners.label>человеческий имплант: экстрасенсорные демпферы</GR_PsychicDampeners.label>
   <GR_PsychicDampeners.description>Создает психические демпферы, искусственные слуховые аппараты, которые блокируют психические излучения, оказывая значительное сопротивление психическим атакам механоидов.</GR_PsychicDampeners.description>
 
   <GR_KidneyToxicFilters.label>человеческий имплант: токсические фильтры почек</GR_KidneyToxicFilters.label>
-  <GR_KidneyToxicFilters.description>&gt;Создает почечные токсичные фильтры, биоэлектронные почечные протезы, которые значительно повышают эффективность работы почек субъекта с помощью насекомых, обеспечивая устойчивость к токсическим веществам.</GR_KidneyToxicFilters.description>
+  <GR_KidneyToxicFilters.description>Создает почечные токсичные фильтры, биоэлектронные почечные протезы, которые значительно повышают эффективность работы почек субъекта с помощью насекомых, обеспечивая устойчивость к токсическим веществам.</GR_KidneyToxicFilters.description>
 
   <GR_HumanThrumboHorn.label>человеческий имплант: рог трумбо</GR_HumanThrumboHorn.label>
   <GR_HumanThrumboHorn.description>Создает генетически модифицированный рог трумбо, который может быть имплантирован в лоб субъекта. Гадко.</GR_HumanThrumboHorn.description>

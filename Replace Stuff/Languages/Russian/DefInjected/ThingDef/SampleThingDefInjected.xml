@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Cooler_Over.label>встроенный кондиционер</Cooler_Over.label>
+	<Cooler_Over.description>Кондиционер будет размещен в стене.</Cooler_Over.description>
+	<Blueprint_Cooler_Over.label>кондиционер (план)</Blueprint_Cooler_Over.label>
+	<Blueprint_Cooler_Over.description>Кондиционер будет размещен в стене.</Blueprint_Cooler_Over.description>
+	<Frame_Cooler_Over.label>встроенный кондиционер (строится)</Frame_Cooler_Over.label>
+	<Frame_Cooler_Over.description>Кондиционер будет размещен в стене.</Frame_Cooler_Over.description>
+	<Cooler_Over2W.label>встроенный кондиционер (широкий)</Cooler_Over2W.label>
+	<Cooler_Over2W.description>Кондиционер будет размещен в стене.</Cooler_Over2W.description>
+	<Blueprint_Cooler_Over2W.label>встроенный (план)</Blueprint_Cooler_Over2W.label>
+	<Blueprint_Cooler_Over2W.description>Кондиционер будет размещен в стене.</Blueprint_Cooler_Over2W.description>
+	<Frame_Cooler_Over2Wlabel>встроенный кондиционер (строится)</Frame_Cooler_Over2W.label>
+	<Frame_Cooler_Over2W.description>Кондиционер будет размещен в стене.</Frame_Cooler_Over2W.description>
+	<Vent_Over.label>встроенная вентиляция</Vent_Over.label>
+	<Vent_Over.description>Вентиляция будет размещена в стене</Vent_Over.description>
+	<Blueprint_Vent_Over.label>встроенная вентиляция (план)</Blueprint_Vent_Over.label>
+	<Blueprint_Vent_Over.description>Ввентиляция будет размещена в стене</Blueprint_Vent_Over.description>
+	<Frame_Vent_Over.label>встроенная вентиляция (строится)</Frame_Vent_Over.label>
+	<Frame_Vent_Over.description>Вентиляция будет размещена в стене</Frame_Vent_Over.description>
+
+</LanguageData>

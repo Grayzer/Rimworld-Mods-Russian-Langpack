@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TD.ReplaceStuff>Заменить материал</TD.ReplaceStuff>
+  <TD.Replace>Заменить</TD.Replace>
+  <TD.ReplaceDesc>Заменить материал, например, заменить деревянную стену камнем</TD.ReplaceDesc>
+  <TD.ReplacingTag> (Замена)</TD.ReplacingTag>
+  <TD.ToggleBlueprintOverRock>Поместите чертежи на горную скалу</TD.ToggleBlueprintOverRock>
+  <TD.SettingsNoOverwallCoolers>Скрыть эти супер-изящные настенные кулеры из меню сборки</TD.SettingsNoOverwallCoolers>
+  <TD.SettingsNoNormalCoolers>Скрыть нормальные кулеры из меню строительства</TD.SettingsNoNormalCoolers>
+  <TD.SettingsCornerBuildable>Угловые плитки можно строить и добывать изнутри</TD.SettingsCornerBuildable>
+  <TD.SettingsCornerBuildableDesc>Это может иногда вызывать странные проблемы с путями - отключите его, чтобы исправить это.</TD.SettingsCornerBuildableDesc>
+  <TD.IncapableOfSmoothing>неспособный к сглаживанию</TD.IncapableOfSmoothing>
+  <TD.FailedStuffBeingReplaced>заменяемый материал</TD.FailedStuffBeingReplaced>
+
+</LanguageData>

@@ -89,12 +89,12 @@
 
   <GR_AlphaChicken.label>образцовая курица</GR_AlphaChicken.label>
   <GR_AlphaChicken.labelPlural>образцовые курицы</GR_AlphaChicken.labelPlural>
-  <GR_AlphaChicken.lifeStages.0.label>образцовый ципленок</GR_AlphaChicken.lifeStages.0.label>
-  <GR_AlphaChicken.lifeStages.0.labelPlural>образцовые циплята</GR_AlphaChicken.lifeStages.0.labelPlural>
-  <GR_AlphaChicken.lifeStages.0.labelMale>образцовый ципленок</GR_AlphaChicken.lifeStages.0.labelMale>
-  <GR_AlphaChicken.lifeStages.0.labelMalePlural>образцовые циплята</GR_AlphaChicken.lifeStages.0.labelMalePlural>
-  <GR_AlphaChicken.lifeStages.0.labelFemale>образцовая ципка</GR_AlphaChicken.lifeStages.0.labelFemale>
-  <GR_AlphaChicken.lifeStages.0.labelFemalePlural>образцовые ципки</GR_AlphaChicken.lifeStages.0.labelFemalePlural>
+  <GR_AlphaChicken.lifeStages.0.label>образцовый цыпленок</GR_AlphaChicken.lifeStages.0.label>
+  <GR_AlphaChicken.lifeStages.0.labelPlural>образцовые цыплята</GR_AlphaChicken.lifeStages.0.labelPlural>
+  <GR_AlphaChicken.lifeStages.0.labelMale>образцовый цыпленок</GR_AlphaChicken.lifeStages.0.labelMale>
+  <GR_AlphaChicken.lifeStages.0.labelMalePlural>образцовые цыплята</GR_AlphaChicken.lifeStages.0.labelMalePlural>
+  <GR_AlphaChicken.lifeStages.0.labelFemale>образцовая цыпка</GR_AlphaChicken.lifeStages.0.labelFemale>
+  <GR_AlphaChicken.lifeStages.0.labelFemalePlural>образцовые цыпки</GR_AlphaChicken.lifeStages.0.labelFemalePlural>
   <GR_AlphaChicken.lifeStages.1.label>образцовая курица</GR_AlphaChicken.lifeStages.1.label>
   <GR_AlphaChicken.lifeStages.1.labelPlural>образцовая курица</GR_AlphaChicken.lifeStages.1.labelPlural>
   <GR_AlphaChicken.lifeStages.1.labelMale>образцовый петушок</GR_AlphaChicken.lifeStages.1.labelMale>
@@ -192,7 +192,7 @@
   <GR_AlphaOstrich.lifeStages.2.labelFemale>образцовая страусиха</GR_AlphaOstrich.lifeStages.2.labelFemale>
   <GR_AlphaOstrich.lifeStages.2.labelFemalePlural>образцовые страусихи</GR_AlphaOstrich.lifeStages.2.labelFemalePlural>
   <GR_AlphaOstrich.labelMale>образцовый страус</GR_AlphaOstrich.labelMale>
-  <GR_AlphaOstrich.labelMalePlural>male paragon ostriches</GR_AlphaOstrich.labelMalePlural>
+  <GR_AlphaOstrich.labelMalePlural>образцовые страусы</GR_AlphaOstrich.labelMalePlural>
   <GR_AlphaOstrich.labelFemale>образцовая страусиха</GR_AlphaOstrich.labelFemale>
   <GR_AlphaOstrich.labelFemalePlural>образцовые страусихи</GR_AlphaOstrich.labelFemalePlural>
 

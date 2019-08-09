@@ -9,7 +9,7 @@
   <Turret_AnestheticTurret_Frame.description>Портативная автоматическая анестезиологическая туррель. Способна нейтрализовать врагов практически невредимыми. Требуется лекарство, чтобы перезарядиться. Может взорваться при повреждении.</Turret_AnestheticTurret_Frame.description>
 
   <Gun_AnestheticTurret.label>анестетик-туррельный пистолет</Gun_AnestheticTurret.label>
-  <Gun_AnestheticTurret.description>Простой автоматический анестезиологический пистолет, предназначенный для установки на башне.</Gun_AnestheticTurret.description>
+  <Gun_AnestheticTurret.description>Простой автоматический анестезиологический пистолет, предназначенный для установки на туррели.</Gun_AnestheticTurret.description>
 
   <Bullet_AnestheticTurret.label>анестетик-туррельный патрон</Bullet_AnestheticTurret.label>
 

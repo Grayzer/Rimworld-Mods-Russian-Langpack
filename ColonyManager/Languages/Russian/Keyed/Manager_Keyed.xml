@@ -98,7 +98,7 @@
   <FM.Hunting.HerdAnimals.Tip>Переключить на всех стадных животных</FM.Hunting.HerdAnimals.Tip>
   <FM.Hunting.Exploding>Взрывающиеся</FM.Hunting.Exploding>
   <FM.Hunting.Exploding.Tip>Переключить на всех взрывающихся животных</FM.Hunting.Exploding.Tip>
-  <FM.Hunting.AreaRestriction>Restrict hunting to</FM.Hunting.AreaRestriction>
+  <FM.Hunting.AreaRestriction>Ограничить охоту</FM.Hunting.AreaRestriction>
 
   <!-- Forestry Tab -->
   <FMF.Forestry>Лесозаготовка</FMF.Forestry>
@@ -235,61 +235,9 @@
   <FM.Livestock.MasterMode.All>Все</FM.Livestock.MasterMode.All>
 
   <!-- Right click job fail reasons -->
-  <Fluffy.ColonyManager.CannotManage.NoPower>no power</Fluffy.ColonyManager.CannotManage.NoPower>
-  <Fluffy.ColonyManager.CannotManage.NoJobs>no jobs set</Fluffy.ColonyManager.CannotManage.NoJobs>
-  <Fluffy.ColonyManager.CannotManage.NoActiveJobs>all jobs are done</Fluffy.ColonyManager.CannotManage.NoActiveJobs>
+  <Fluffy.ColonyManager.CannotManage.NoPower>нет энергии</Fluffy.ColonyManager.CannotManage.NoPower>
+  <Fluffy.ColonyManager.CannotManage.NoJobs>не задана работа</Fluffy.ColonyManager.CannotManage.NoJobs>
+  <Fluffy.ColonyManager.CannotManage.NoActiveJobs>вся работа выполнена</Fluffy.ColonyManager.CannotManage.NoActiveJobs>
 
-  <!--<FM.JobSuspendedTooltip>Работа приостановлена.\n\nНажмите для возобновления.</FM.JobSuspendedTooltip>-->
-  <!--<FMH.HuntingGrounds>Разрешить охоту в зоне: </FMH.HuntingGrounds>-->
-  <!--<FMH.Options>Опции</FMH.Options>-->
-  <!-- Production Tab -->
-  <!-- Miscelaneous -->
-  <!--<FMP.Production>Производство</FMP.Production>-->
-  <!--<FMP.ManageBillTooltip>Это задание будет контролироваться менеджером.</FMP.ManageBillTooltip>-->
-  <!--<FMP.DeleteBillTooltip>Прекратить контролировать это задание и отменить связанные задачи</FMP.DeleteBillTooltip>-->
-  <!--<FMP.FilterDesc>Начните печатать, чтобы отфильтровать</FMP.FilterDesc>-->
-  <!--<FMP.ClearFilterDesc>Очистить фильтр</FMP.ClearFilterDesc>-->
-  <!--<FMP.MainProduct>Основной продукт: {0} x{1}</FMP.MainProduct>-->
-  <!--<FMP.NoThreshold>Бесконечно</FMP.NoThreshold>-->
-  <!--<FMP.NoThresholdTooltip>Лимит не установлен</FMP.NoThresholdTooltip>-->
-  <!--<FMP.SnapToHighestSkill>Приравнять к умению лучшего специалиста</FMP.SnapToHighestSkill>-->
-  <!--<FMP.Options>Опции</FMP.Options>-->
-  <!--<FMP.Bill>Поручение</FMP.Bill>-->
-  <!--<FMP.Recipe>Рецепт</FMP.Recipe>-->
-  <!--<FMP.AllowedIngredients>Доступные ингредиенты:</FMP.AllowedIngredients>-->
-  <!--<FMP.AllowedSkillRange>Допустимый диапазон умения:</FMP.AllowedSkillRange>-->
-  <!--<FMP.PrioritizeManual>Приоритет ручным назначениям</FMP.PrioritizeManual>-->
-  <!--<FMP.OtherRecipeAvailable>Другие доступные рецепты</FMP.OtherRecipeAvailable>-->
-  <!--<FMP.OtherRecipeAvailableTooltip>Достпны другие рецепты этого продукта.\nКликни для изменения рецепта.</FMP.OtherRecipeAvailableTooltip>-->
-  <!-- BillGivers -->
-  <!--<FMP.BillGiversCount>Рабочие места ({0}/{1}/{2})</FMP.BillGiversCount>-->
-  <!--<FMP.BillGiversTooltip>Нажмите для изменения назначенных ??мест.\n\nДоступные:\n{0}\n\nВыбрано:\n{1}\n\nНазначено:\n{2}</FMP.BillGiversTooltip>-->
-  <!--<FMP.BillGiversDetails>Выберите рабочее место</FMP.BillGiversDetails>-->
-  <!-- BillGiversDetailsWindow -->
-  <!--<FMP.AllWorkstations>Все рабочие места</FMP.AllWorkstations>-->
-  <!--<FMP.AllWorkstationsTooltip>??Назначьте менеджера, чтобы выполнять эту задачу на всех доступных рабочих местах.</FMP.AllWorkstationsTooltip>-->
-  <!--<FMP.ByAreaAndCount>По зоне / количеству</FMP.ByAreaAndCount>-->
-  <!--<FMP.ByAreaAndCountTooltip>??Назначьте менеджера, чтобы выполнять эту задачу на конкретных рабочих местах и в отведенной зоне</FMP.ByAreaAndCountTooltip>-->
-  <!--<FMP.AllowedAreas>Зона:</FMP.AllowedAreas>-->
-  <!--<FMP.AllowedWorkstationCount>Макс:</FMP.AllowedWorkstationCount>-->
-  <!--<FMP.SpecificWorkstations>Определить рабочее место</FMP.SpecificWorkstations>-->
-  <!--<FMP.SpecificWorkstationsTooltip>??Назначьте менеджера, чтобы выполнять эту задачу на конкретных рабочих местах.</FMP.SpecificWorkstationsTooltip>-->
-  <!-- Recursive job creator -->
-  <!--<FMP.IngredientDialogTitle>Добавить задачи для ингредиентов</FMP.IngredientDialogTitle>-->
-  <!--<FMP.SelectRecipe>Выбрать...</FMP.SelectRecipe>-->
-  <!--<FMP.SelectRecipeTooltip>Нажмите для выбора рецепта для {0}</FMP.SelectRecipeTooltip>-->
-  <!--<FMP.SelectRecipeTooltipSelected>\n\nДля рецепта нужно:</FMP.SelectRecipeTooltipSelected>-->
-  <!--<FMP.DoNotUseRecipe>(ничего)</FMP.DoNotUseRecipe>-->
-  <!--<FMP.SelectIngredient>Выбрать...</FMP.SelectIngredient>-->
-  <!--<FMP.SelectIngredientTooltip>Выбор ингредиента для {0} (нужно {1})</FMP.SelectIngredientTooltip>-->
-  <!--<FMP.IngredientCount>\n{0} ({1})</FMP.IngredientCount>-->
-  <!--<FMP.RawResource>(сырье)</FMP.RawResource>-->
-  <!--<FMP.RawResourceTooltip>{0} - это сырье (не найдено рецептов для {0})</FMP.RawResourceTooltip>-->
-  <!--<FMP.AddIngredientBills>Добавить задания</FMP.AddIngredientBills>-->
-  <!--<FMP.IncreasedThreshold>Целевое значение для {0} увеличено до {1}.</FMP.IncreasedThreshold>-->
-  <!--<FMP.AddedJob>Добавлено задание: {0}.</FMP.AddedJob>-->
-  <!--<FMP.CouldNotAddJob>Не получилось добавить задание: {0}.</FMP.CouldNotAddJob>-->
-  <!--<FML.Animals>Животные</FML.Animals>-->
-  <!--<FML.SlaughterArea>Зона охоты</FML.SlaughterArea>-->
 
 </LanguageData>

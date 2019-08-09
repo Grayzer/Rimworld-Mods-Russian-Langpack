@@ -5,7 +5,7 @@
 
   <GR_ArchotechCentipede.label>архотек многоножка</GR_ArchotechCentipede.label>
   <GR_ArchotechCentipede.description>Многоножка Архотек является конечным результатом проекта Архотек, направленного на создание дружественной машинной суперинтеллекта со способным телом. Даже несмотря на то, что эта многоножка сильно предана колонистам и может в какой-то степени ими управляться, большинство других жителей планеты будут считать ее существование мерзостью, так как баловство в архотехе обычно сигнализирует конец приемлемой человеческой жизни.\n\nПолезные способности: что вы имеете в виду под полезными? Вы выиграли игру. Многоножка Архотек в основном неубиваема обычными средствами, просто используйте ее, чтобы уничтожить все на планете. Теперь у вас нет врагов, у вас есть домашнее животные. Ооооо... архотех может убить всех ваших колонистов. Одно из двух.</GR_ArchotechCentipede.description>
-  <GR_ArchotechCentipede.tools.0.label>head</GR_ArchotechCentipede.tools.0.label>
+  <GR_ArchotechCentipede.tools.0.label>голова</GR_ArchotechCentipede.tools.0.label>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
   <GR_ArchotechCentipede_Corpse.label>труп архотек многоножки</GR_ArchotechCentipede_Corpse.label>
