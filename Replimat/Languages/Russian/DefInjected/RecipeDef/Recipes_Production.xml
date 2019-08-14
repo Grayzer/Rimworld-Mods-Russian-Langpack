@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReplimatDisassembleAiCore.label>Разобрать ядро ИИ</ReplimatDisassembleAiCore.label>
+  <ReplimatDisassembleAiCore.description>Разберите ядро ИИ для полезных частей.</ReplimatDisassembleAiCore.description>
+  <ReplimatDisassembleAiCore.jobString>Разбор ядра ИИ.</ReplimatDisassembleAiCore.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReplicatedMeal>Реплицировать мясо</ReplicatedMeal>
+
+  <FeedstockStored>Хранится в резервуаре {0} / {1} L</FeedstockStored>
+  <TotalFeedstockStored>Всего хранится в резервуаре {0} / {1} L</TotalFeedstockStored>
+
+  <LetterLabelReplimatSpill>Утечка из репликатора</LetterLabelReplimatSpill>
+  <LetterTextReplimatSpill>{0} неисправен, разливая питательное сырье повсюду.</LetterTextReplimatSpill>
+
+  <LetterLabelReplimatMalfunctionKibble>Неисправность репликатора</LetterLabelReplimatMalfunctionKibble>
+  <LetterTextReplimatMalfunctionKibble>{0} неисправен, производя большое количество корма для животных.</LetterTextReplimatMalfunctionKibble>
+
+  <NotConnectedToComputer>Требуется подключение к компьютеру репликатора</NotConnectedToComputer>
+  <NotEnoughFeedstock>Недостаточно резервуаров</NotEnoughFeedstock>
+
+  <BatchMakeSurvivalMeals>Партия сухих пайков</BatchMakeSurvivalMeals>
+  <BatchMakeSurvivalMeals_Desc>Реплицируйте партию упакованных сухих пайков для использования в караванах или чрезвычайных ситуациях.</BatchMakeSurvivalMeals_Desc>
+
+  <MessageCannotBatchMakeSurvivalMeals>Невозможно пакетное копирование сухих пайков: в терминале недостаточно сырья или он не подключен к компьютеру и резервуарам сырья.</MessageCannotBatchMakeSurvivalMeals>
+
+  <SetSurvivalMealBatchSize>Сделать {0} сухих пайков\n(Не более: {1})</SetSurvivalMealBatchSize>
+
+  <Replimat_SettingsCategory_Heading>Репликатор</Replimat_SettingsCategory_Heading>
+
+  <Replimat_Settings_HeaderGeneral>Основные</Replimat_Settings_HeaderGeneral>
+  <Replimat_Settings_HeaderIncidents>Инциденты</Replimat_Settings_HeaderIncidents>
+
+  <Replimat_Settings_PrioritizeFoodQuality_Title>Приоритет качесвенной пищи</Replimat_Settings_PrioritizeFoodQuality_Title>
+  <Replimat_Settings_PrioritizeFoodQuality_Desc>По умолчанию пешки будут копировать пищу с наивысшим качеством, разрешенным их действующей политикой ограничения на питание.\n\nОтключение этого позволяет пешкам копировать любую пищу в рамках своей политики ограничения на питание независимо от качества.</Replimat_Settings_PrioritizeFoodQuality_Desc>
+
+  <Replimat_Settings_EnableIncidentSpill_Title>Включить поломку</Replimat_Settings_EnableIncidentSpill_Title>
+  <Replimat_Settings_EnableIncidentSpill_Desc>Позволяет любому терминалу или кормушке для животных иметь небольшую вероятность неправильной работы и разлива сырья.</Replimat_Settings_EnableIncidentSpill_Desc>
+
+  <Replimat_Settings_EnableIncidentKibble_Title>Включить кусочки</Replimat_Settings_EnableIncidentKibble_Title>
+  <Replimat_Settings_EnableIncidentKibble_Desc>Позволяет любому терминалу иметь небольшую вероятность сбоя и репликации большого количества кусочков по собственному желанию.</Replimat_Settings_EnableIncidentKibble_Desc>
+
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Replimat Terminal -->
+
+  <ReplimatTerminal.label>Терминал репликатора</ReplimatTerminal.label>
+  <ReplimatTerminal.description>Синтезирует еду и напитки путем молекулярного секвенирования. Требуется подключение к резервуару-сырцу репликатора и компьютеру репликатора через кабелепроводы.</ReplimatTerminal.description>
+  <ReplimatTerminal_Blueprint.label>ерминал репликатора (чертеж)</ReplimatTerminal_Blueprint.label>
+  <ReplimatTerminal_Blueprint_Install.label>ерминал репликатора (чертеж)</ReplimatTerminal_Blueprint_Install.label>
+  <ReplimatTerminal_Frame.label>ерминал репликатора (стройка)</ReplimatTerminal_Frame.label>
+  <ReplimatTerminal_Frame.description>Синтезирует еду и напитки путем молекулярного секвенирования. Требуется подключение к резервуару-сырцу репликатора и компьютеру репликатора через кабелепроводы.</ReplimatTerminal_Frame.description>
+
+
+  <!-- Репликатор кормушка -->
+
+  <ReplimatAnimalFeeder.label>Репликатор кормушка</ReplimatAnimalFeeder.label>
+  <ReplimatAnimalFeeder.description>Синтезирует корм для домашних животных и других колониальных животных путем молекулярного секвенирования. Требуется подключение к резервуару-сырцу репликатора и компьютеру репликатора через кабелепроводы.</ReplimatAnimalFeeder.description>
+  <ReplimatAnimalFeeder_Blueprint.label>Репликатор кормушка (чертеж)</ReplimatAnimalFeeder_Blueprint.label>
+  <ReplimatAnimalFeeder_Blueprint_Install.label>Репликатор кормушка (чертеж)</ReplimatAnimalFeeder_Blueprint_Install.label>
+  <ReplimatAnimalFeeder_Frame.label>Репликатор кормушка (стройка)</ReplimatAnimalFeeder_Frame.label>
+  <ReplimatAnimalFeeder_Frame.description>Синтезирует корм для домашних животных и других колониальных животных путем молекулярного секвенирования. Требуется подключение к резервуару-сырцу репликатора и компьютеру репликатора через кабелепроводы.</ReplimatAnimalFeeder_Frame.description>
+
+
+  <!-- Резервуар сырца репликатора -->
+
+  <ReplimatFeedTank.label>Резервуар сырца репликатора</ReplimatFeedTank.label>
+  <ReplimatFeedTank.description>Хранит суспензию органических частиц для использования Терминалами репликатора. Поставляется воронками репликатора.</ReplimatFeedTank.description>
+  <ReplimatFeedTank_Blueprint.label>Резервуар сырца репликатора (чертеж)</ReplimatFeedTank_Blueprint.label>
+  <ReplimatFeedTank_Blueprint_Install.label>Резервуар сырца репликатора (чертеж)</ReplimatFeedTank_Blueprint_Install.label>
+  <ReplimatFeedTank_Frame.label>Резервуар сырца репликатора (стройка)</ReplimatFeedTank_Frame.label>
+  <ReplimatFeedTank_Frame.description>Хранит суспензию органических частиц для использования Терминалами репликатора. Поставляется воронками репликатора.</ReplimatFeedTank_Frame.description>
+
+
+  <!-- Воронка репликатора -->
+
+  <ReplimatHopper.label>Воронка репликатора</ReplimatHopper.label>
+  <ReplimatHopper.description>Содержит охлажденную сырую пищу и разбирает ее на молекулярном уровне в суспензию органических частиц для питания систем репликатора.</ReplimatHopper.description>
+  <ReplimatHopper_Blueprint.label>Воронка репликатора (чертеж)</ReplimatHopper_Blueprint.label>
+  <ReplimatHopper_Blueprint_Install.label>Воронка репликатора (чертеж)</ReplimatHopper_Blueprint_Install.label>
+  <ReplimatHopper_Frame.label>Воронка репликатора (стройка)</ReplimatHopper_Frame.label>
+  <ReplimatHopper_Frame.description>Содержит охлажденную сырую пищу и разбирает ее на молекулярном уровне в суспензию органических частиц для питания систем репликатора.</ReplimatHopper_Frame.description>
+
+
+  <!-- Компьютер репликатора -->
+
+  <ReplimatComputer.label>Компьютер репликатора</ReplimatComputer.label>
+  <ReplimatComputer.description>Предоставляет широкий выбор рецептов блюд и напитков всем терминалам репликатора.</ReplimatComputer.description>
+  <ReplimatComputer_Blueprint.label>Компьютер репликатора (чертеж)</ReplimatComputer_Blueprint.label>
+  <ReplimatComputer_Blueprint_Install.label>Компьютер репликатора (чертеж)</ReplimatComputer_Blueprint_Install.label>
+  <ReplimatComputer_Frame.label>Компьютер репликатора (стройка)</ReplimatComputer_Frame.label>
+  <ReplimatComputer_Frame.description>Предоставляет широкий выбор рецептов блюд и напитков всем терминалам репликатора.</ReplimatComputer_Frame.description>
+
+
+</LanguageData>

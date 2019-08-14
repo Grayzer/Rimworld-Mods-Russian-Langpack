@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReplimatSpill.label>Разлив репликатора</ReplimatSpill.label>
+  <ReplimatSpill.letterText>{0} неисправен, разливая питательное сырье повсюду.</ReplimatSpill.letterText>
+  <ReplimatSpill.letterLabel>Разлив репликатора</ReplimatSpill.letterLabel>
+
+  <ReplimatMalfunctionKibble.label>Неисправность репликатора</ReplimatMalfunctionKibble.label>
+  <ReplimatMalfunctionKibble.letterText>{0} неисправен, производя большое количества корма для животных.</ReplimatMalfunctionKibble.letterText>
+  <ReplimatMalfunctionKibble.letterLabel>Неисправность репликатора\n(кусочки)</ReplimatMalfunctionKibble.letterLabel>
+
+
+</LanguageData>
