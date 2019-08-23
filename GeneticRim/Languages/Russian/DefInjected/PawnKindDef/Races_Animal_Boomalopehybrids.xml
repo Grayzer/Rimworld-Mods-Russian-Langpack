@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Boomalope - Bear -->
@@ -72,17 +72,17 @@
   <GR_Boomffalo.lifeStages.1.labelMale>бумффало</GR_Boomffalo.lifeStages.1.labelMale>
   <GR_Boomffalo.lifeStages.1.labelMalePlural>бумффало</GR_Boomffalo.lifeStages.1.labelMalePlural>
   <GR_Boomffalo.lifeStages.1.labelFemale>телка бумффало</GR_Boomffalo.lifeStages.1.labelFemale>
-  <GR_Boomffalo.lifeStages.1.labelFemalePlura>телки бумффало</GR_Boomffalo.lifeStages.1.labelFemalePlural>
+  <GR_Boomffalo.lifeStages.1.labelFemalePlural>телки бумффало</GR_Boomffalo.lifeStages.1.labelFemalePlural>
   <GR_Boomffalo.lifeStages.2.label>бумффало</GR_Boomffalo.lifeStages.2.label>
   <GR_Boomffalo.lifeStages.2.labelPlural>бумффало</GR_Boomffalo.lifeStages.2.labelPlural>
   <GR_Boomffalo.lifeStages.2.labelMale>бумффало</GR_Boomffalo.lifeStages.2.labelMale>
   <GR_Boomffalo.lifeStages.2.labelMalePlural>бумффало</GR_Boomffalo.lifeStages.2.labelMalePlural>
   <GR_Boomffalo.lifeStages.2.labelFemale>телка бумффало</GR_Boomffalo.lifeStages.2.labelFemale>
-  <GR_Boomffalo.lifeStages.2.labelFemalePlura>телки бумффало</GR_Boomffalo.lifeStages.2.labelFemalePlural>
+  <GR_Boomffalo.lifeStages.2.labelFemalePlural>телки бумффало</GR_Boomffalo.lifeStages.2.labelFemalePlural>
   <GR_Boomffalo.labelMale>бумффало</GR_Boomffalo.labelMale>
   <GR_Boomffalo.labelMalePlural>бумффало</GR_Boomffalo.labelMalePlural>
   <GR_Boomffalo.labelFemale>телка бумффало</GR_Boomffalo.labelFemale>
-  <GR_Boomffalo.labelFemalePlura>телки бумффало</GR_Boomffalo.labelFemalePlural>
+  <GR_Boomffalo.labelFemalePlural>телки бумффало</GR_Boomffalo.labelFemalePlural>
 
 
   <!-- Boomalope - Wolf -->

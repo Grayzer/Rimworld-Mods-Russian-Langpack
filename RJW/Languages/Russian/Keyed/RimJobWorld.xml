@@ -74,6 +74,37 @@
 Возможные значения: 0 - 300%</Rapee_MinVulnerability_animals_desc>
 
 
+  <RJWSettingsFour>RimJobWorld - Казуальные Секс Настройки</RJWSettingsFour>
+  <SettingHookupsEnabled>Включить контакты (общие)</SettingHookupsEnabled>
+  <SettingHookupsEnabled_desc>Контролирует, могут ли одиночные пешки заниматься случайным сексом с другими одиночными пешками</SettingHookupsEnabled_desc>
+  <SettingColonistsCanHookup>Колонисты могут иметь контакты</SettingColonistsCanHookup>
+  <SettingColonistsCanHookup_desc>Контролирует, разрешено ли колонистам искать случайный секс.</SettingColonistsCanHookup_desc>
+  <SettingColonistsCanHookupWithVisitor>Колонисты могут иметь контакты с визитерами</SettingColonistsCanHookupWithVisitor>
+  <SettingColonistsCanHookupWithVisitor_desc>Контролирует, могут ли пешки заниматься случайным сексом с посетителями колонии.</SettingColonistsCanHookupWithVisitor_desc>
+  <SettingCanHookupWithPrisoner>Не заключенные могут иметь контакты с заключенными</SettingCanHookupWithPrisoner>
+  <SettingCanHookupWithPrisoner_desc>Контролирует, могут ли пешки, не являющиеся заключенными, искать секс с заключенными по обоюдному согласию.\nНа это не влияет назначение ЗК, и обе стороны считают это согласованным.</SettingCanHookupWithPrisoner_desc>
+  <SettingVisitorsCanHookupWithColonists>Посетители могут иметь контакты с колонистами</SettingVisitorsCanHookupWithColonists>
+  <SettingVisitorsCanHookupWithColonists_desc>Контролирует, включают ли посещающие пешки колонистов в качестве потенциальных партнеров для случайного секса.</SettingVisitorsCanHookupWithColonists_desc>
+  <SettingVisitorsCanHookupWithVisitors>Посетители могут иметь контакты с другими посетителями</SettingVisitorsCanHookupWithVisitors>
+  <SettingVisitorsCanHookupWithVisitors_desc>Определяет, включают ли посещающие пешки других посетителей в качестве потенциальных партнеров для случайного секса.</SettingVisitorsCanHookupWithVisitors_desc>
+  <SettingPrisonersCanHookupWithNonPrisoner>Заключенные могут иметь контакты с колонистами</SettingPrisonersCanHookupWithNonPrisoner>
+  <SettingPrisonersCanHookupWithNonPrisoner_desc>Контролирует, включают ли заключенные не заключенных в качестве потенциальных партнеров для случайного секса.\nПешки, включая заключенных, могут заниматься сексом только с кем-то, с кем они могут связаться, поэтому, если заключенный не может покинуть свою камеру, это спорный вопрос.</SettingPrisonersCanHookupWithNonPrisoner_desc>
+  <SettingPrisonersCanHookupWithPrisoner>Заключенные могут иметь контакты с заключенными</SettingPrisonersCanHookupWithPrisoner>
+  <SettingPrisonersCanHookupWithPrisoner_desc>Контролирует, включают ли заключенные других заключенных в качестве потенциальных партнеров для случайного секса.\nПешки, включая заключенных, могут заниматься сексом только с кем-то, с кем они могут связаться, поэтому, если заключенный не может покинуть свою камеру, это спорный вопрос.</SettingPrisonersCanHookupWithPrisoner_desc>
+  <SettingNymphosCanPickAnyone>Нимфы могут выбрать любого</SettingNymphosCanPickAnyone>
+  <SettingNymphosCanPickAnyone_desc>Определяет, выберут ли пешки нифоманки (черта Гиперсексуальность) кого-либо из доступных.\nОни все еще соблюдают настройки мошенничества и доморощения, приведенные ниже.</SettingNymphosCanPickAnyone_desc>
+  <SettingNymphosCanCheat>Нимфы могут обмануть</SettingNymphosCanCheat>
+  <SettingNymphosCanCheat_desc>Определяет, могут ли пешки нимфоманки (черта Гиперсексуальность) обманывать, если они сексуально расстроены.</SettingNymphosCanCheat_desc>
+  <SettingNymphosCanHomewreck>Нимфы рушат связи</SettingNymphosCanHomewreck>
+  <SettingNymphosCanHomewreck_desc>Контролирует, будут ли пешки нимфоманки (черта Гиперсексуальность) рушить связи людей, у которых уже есть партнеры.</SettingNymphosCanHomewreck_desc>
+  <SettingNymphosCanHomewreckReverse>Нимфы рушат связи(Реверс)</SettingNymphosCanHomewreckReverse>
+  <SettingNymphosCanHomewreckReverse_desc>Определяет, будут ли пешки нимфоманки (черта Гиперсексуальность) принимать секс, даже если у них есть партнер.</SettingNymphosCanHomewreckReverse_desc>
+  <SettingHookupChanceForNonNymphos>Вероятность контактов % в час</SettingHookupChanceForNonNymphos>
+  <SettingHookupChanceForNonNymphos_desc>Вероятность того, что возбужденная пешка будет искать случайный секс.\nOПроверяется только один раз в час и только когда пешка заканчивает свое текущее задание. По умолчанию 30%</SettingHookupChanceForNonNymphos_desc>
+  <SettingMinimumAttractivenessToHookup>Минимальная привлекательность для контактов</SettingMinimumAttractivenessToHookup>
+  <SettingMinimumAttractivenessToHookup_desc>Контролирует, насколько привлекательные пешки должны находить друг друга, чтобы рассмотреть возможность контакта. По умолчанию 10%.\nВы не можете видеть их оценку друг друга прямо сейчас, кроме отладочных журналов, но расчет учитывает их сексуальную ориентацию, мнение друг друга, черты характера и причуды, а также возбуждение.</SettingMinimumAttractivenessToHookup_desc>
+
+
   <RJWDebugSettings>RimJobWorld - Отладка</RJWDebugSettings>
   <!-- debug stuff-->
   <submit_button_enabled>Включить кнопку Отправить на составленных пешках</submit_button_enabled>

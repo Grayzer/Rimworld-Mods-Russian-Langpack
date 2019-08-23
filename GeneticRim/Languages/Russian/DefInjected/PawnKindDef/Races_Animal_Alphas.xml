@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Bear -->
@@ -38,23 +38,23 @@
   <GR_AlphaWildBoar.lifeStages.0.labelMale>образцовый кабан</GR_AlphaWildBoar.lifeStages.0.labelMale>
   <GR_AlphaWildBoar.lifeStages.0.labelMalePlural>образцовые кабаны</GR_AlphaWildBoar.lifeStages.0.labelMalePlural>
   <GR_AlphaWildBoar.lifeStages.0.labelFemale>образцовая кабаниха</GR_AlphaWildBoar.lifeStages.0.labelFemale>
-  <GR_AlphaWildBoar.lifeStages.0.labelFemalePlura>образцовые кабанихи</GR_AlphaWildBoar.lifeStages.0.labelFemalePlural>
+  <GR_AlphaWildBoar.lifeStages.0.labelFemalePlural>образцовые кабанихи</GR_AlphaWildBoar.lifeStages.0.labelFemalePlural>
   <GR_AlphaWildBoar.lifeStages.1.label>образцовый кабан</GR_AlphaWildBoar.lifeStages.1.label>
   <GR_AlphaWildBoar.lifeStages.1.labelPlural>образцовый кабан</GR_AlphaWildBoar.lifeStages.1.labelPlural>
   <GR_AlphaWildBoar.lifeStages.1.labelMale>образцовый кабан</GR_AlphaWildBoar.lifeStages.1.labelMale>
   <GR_AlphaWildBoar.lifeStages.1.labelMalePlural>образцовые кабаны</GR_AlphaWildBoar.lifeStages.1.labelMalePlural>
   <GR_AlphaWildBoar.lifeStages.1.labelFemale>образцовая кабаниха</GR_AlphaWildBoar.lifeStages.1.labelFemale>
-  <GR_AlphaWildBoar.lifeStages.1.labelFemalePlura>образцовые кабанихи</GR_AlphaWildBoar.lifeStages.1.labelFemalePlural>
+  <GR_AlphaWildBoar.lifeStages.1.labelFemalePlural>образцовые кабанихи</GR_AlphaWildBoar.lifeStages.1.labelFemalePlural>
   <GR_AlphaWildBoar.lifeStages.2.label>образцовый кабан</GR_AlphaWildBoar.lifeStages.2.label>
   <GR_AlphaWildBoar.lifeStages.2.labelPlural>образцовый кабан</GR_AlphaWildBoar.lifeStages.2.labelPlural>
   <GR_AlphaWildBoar.lifeStages.2.labelMale>образцовый кабан</GR_AlphaWildBoar.lifeStages.2.labelMale>
   <GR_AlphaWildBoar.lifeStages.2.labelMalePlural>образцовые кабаны</GR_AlphaWildBoar.lifeStages.2.labelMalePlural>
   <GR_AlphaWildBoar.lifeStages.2.labelFemale>образцовая кабаниха</GR_AlphaWildBoar.lifeStages.2.labelFemale>
-  <GR_AlphaWildBoar.lifeStages.2.labelFemalePlura>образцовые кабанихи</GR_AlphaWildBoar.lifeStages.2.labelFemalePlural>
+  <GR_AlphaWildBoar.lifeStages.2.labelFemalePlural>образцовые кабанихи</GR_AlphaWildBoar.lifeStages.2.labelFemalePlural>
   <GR_AlphaWildBoar.labelMale>образцовый кабан</GR_AlphaWildBoar.labelMale>
   <GR_AlphaWildBoar.labelMalePlural>образцовые кабаны</GR_AlphaWildBoar.labelMalePlural>
   <GR_AlphaWildBoar.labelFemale>образцовая кабаниха</GR_AlphaWildBoar.labelFemale>
-  <GR_AlphaWildBoar.labelFemalePlura>образцовые кабанихи</GR_AlphaWildBoar.labelFemalePlural>
+  <GR_AlphaWildBoar.labelFemalePlural>образцовые кабанихи</GR_AlphaWildBoar.labelFemalePlural>
 
 
   <!-- Boomalope -->

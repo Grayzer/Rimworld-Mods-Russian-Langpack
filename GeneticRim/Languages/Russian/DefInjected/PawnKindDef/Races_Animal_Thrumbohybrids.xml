@@ -87,7 +87,7 @@
 
   <!-- Muffalo - Thrumbo -->
 
-  <GR_Thrumffalo.labe>трумффало</GR_Thrumffalo.label>
+  <GR_Thrumffalo.label>трумффало</GR_Thrumffalo.label>
   <GR_Thrumffalo.labelPlural>трумффалы</GR_Thrumffalo.labelPlural>
   <GR_Thrumffalo.lifeStages.0.label>теленок трумффало</GR_Thrumffalo.lifeStages.0.label>
   <GR_Thrumffalo.lifeStages.0.labelPlural>телята трумффало</GR_Thrumffalo.lifeStages.0.labelPlural>
@@ -95,21 +95,21 @@
   <GR_Thrumffalo.lifeStages.0.labelMalePlural>телята трумффало</GR_Thrumffalo.lifeStages.0.labelMalePlural>
   <GR_Thrumffalo.lifeStages.0.labelFemale>телушка трумффало</GR_Thrumffalo.lifeStages.0.labelFemale>
   <GR_Thrumffalo.lifeStages.0.labelFemalePlural>телушки трумффало</GR_Thrumffalo.lifeStages.0.labelFemalePlural>
-  <GR_Thrumffalo.lifeStages.1.labe>трумффало</GR_Thrumffalo.lifeStages.1.label>
-  <GR_Thrumffalo.lifeStages.1.labelPlura>трумффалы</GR_Thrumffalo.lifeStages.1.labelPlural>
+  <GR_Thrumffalo.lifeStages.1.label>трумффало</GR_Thrumffalo.lifeStages.1.label>
+  <GR_Thrumffalo.lifeStages.1.labelPlural>трумффалы</GR_Thrumffalo.lifeStages.1.labelPlural>
   <GR_Thrumffalo.lifeStages.1.labelMale>трумффал</GR_Thrumffalo.lifeStages.1.labelMale>
   <GR_Thrumffalo.lifeStages.1.labelMalePlural>трумффалы</GR_Thrumffalo.lifeStages.1.labelMalePlural>
-  <GR_Thrumffalo.lifeStages.1.labelFemal>трумффала</GR_Thrumffalo.lifeStages.1.labelFemale>
+  <GR_Thrumffalo.lifeStages.1.labelFemale>трумффала</GR_Thrumffalo.lifeStages.1.labelFemale>
   <GR_Thrumffalo.lifeStages.1.labelFemalePlural>трумффалы</GR_Thrumffalo.lifeStages.1.labelFemalePlural>
-  <GR_Thrumffalo.lifeStages.2.labe>трумффало</GR_Thrumffalo.lifeStages.2.label>
-  <GR_Thrumffalo.lifeStages.2.labelPlura>трумффалы</GR_Thrumffalo.lifeStages.2.labelPlural>
+  <GR_Thrumffalo.lifeStages.2.label>трумффало</GR_Thrumffalo.lifeStages.2.label>
+  <GR_Thrumffalo.lifeStages.2.labelPlural>трумффалы</GR_Thrumffalo.lifeStages.2.labelPlural>
   <GR_Thrumffalo.lifeStages.2.labelMale>трумффал</GR_Thrumffalo.lifeStages.2.labelMale>
   <GR_Thrumffalo.lifeStages.2.labelMalePlural>трумффалы</GR_Thrumffalo.lifeStages.2.labelMalePlural>
-  <GR_Thrumffalo.lifeStages.2.labelFemal>трумффала</GR_Thrumffalo.lifeStages.2.labelFemale>
+  <GR_Thrumffalo.lifeStages.2.labelFemale>трумффала</GR_Thrumffalo.lifeStages.2.labelFemale>
   <GR_Thrumffalo.lifeStages.2.labelFemalePlural>трумффалы</GR_Thrumffalo.lifeStages.2.labelFemalePlural>
   <GR_Thrumffalo.labelMale>трумффал</GR_Thrumffalo.labelMale>
   <GR_Thrumffalo.labelMalePlural>трумффалы</GR_Thrumffalo.labelMalePlural>
-  <GR_Thrumffalo.labelFemal>трумффала</GR_Thrumffalo.labelFemale>
+  <GR_Thrumffalo.labelFemale>трумффала</GR_Thrumffalo.labelFemale>
   <GR_Thrumffalo.labelFemalePlural>трумффалы</GR_Thrumffalo.labelFemalePlural>
 
 

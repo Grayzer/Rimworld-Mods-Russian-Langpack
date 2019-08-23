@@ -29,12 +29,13 @@
   <GR_DuplicateWolf.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateWolf.description>
   <GR_DuplicateWolf.jobString>Дублирование генетического материала</GR_DuplicateWolf.jobString>
 
-  <GR_DuplicateInsectoid.label>дублировать гены рептилий</GR_DuplicateInsectoid.label>
+  <GR_DuplicateInsectoid.label>дублировать гены инсектов</GR_DuplicateInsectoid.label>
   <GR_DuplicateInsectoid.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateInsectoid.description>
   <GR_DuplicateInsectoid.jobString>Дублирование генетического материала</GR_DuplicateInsectoid.jobString>
 
   <GR_DuplicateHumanoid.label>дублировать гены гуманоидов</GR_DuplicateHumanoid.label>
   <GR_DuplicateHumanoid.description>Дублирует генетический материал из большого количества органической пульпы.</GR_DuplicateHumanoid.description>
   <GR_DuplicateHumanoid.jobString>Дублирование генетического материала</GR_DuplicateHumanoid.jobString>
+
 
 </LanguageData>

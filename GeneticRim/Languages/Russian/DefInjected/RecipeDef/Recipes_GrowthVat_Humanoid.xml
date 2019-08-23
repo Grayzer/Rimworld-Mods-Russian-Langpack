@@ -71,6 +71,10 @@
   <GR_CraftBunnyEars.description>Создает ухо зайчика. Это огромное ухо дает удивительно улучшенный слух. Кроме того, это супер каваи!</GR_CraftBunnyEars.description>
   <GR_CraftBunnyEars.jobString>Делает ухо кролика</GR_CraftBunnyEars.jobString>
 
+  <GR_CraftCompoundEye.label>Человеческий имплант: фасеточный глаз</GR_CraftCompoundEye.label>
+  <GR_CraftCompoundEye.description>Создание сложного глаза. Этот гибрид гуманоидного и инсектоидного глаза обеспечивает улучшенное зрение в широком диапазоне различных длин волн, включая те, которые обычно находятся за пределами человеческого диапазона, полностью изменяя способ восприятия субъектом своего окружения.</GR_CraftCompoundEye.description>
+  <GR_CraftCompoundEye.jobString>Делает фасеточный глаз</GR_CraftCompoundEye.jobString>
+
   <GR_CraftInsectoidAntennae.label>Человеческий имплант: антенны инсектоидов</GR_CraftInsectoidAntennae.label>
   <GR_CraftInsectoidAntennae.description>Создает гибридные гуманоидо-инсектоидные придатки, которые могут быть имплантированы в голову субъекта, полностью изменяя способ, которым субъект воспринимает окружающий мир. Опыт может быть немного подавляющим из-за сенсорной перегрузки.</GR_CraftInsectoidAntennae.description>
   <GR_CraftInsectoidAntennae.jobString>Делает антенны инсектоидов</GR_CraftInsectoidAntennae.jobString>
