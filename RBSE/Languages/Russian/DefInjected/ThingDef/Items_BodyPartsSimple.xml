@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <ArtificialBone.label>искусственная кость</ArtificialBone.label>
+  <ArtificialBone.description>Заменяет поврежденные кости.</ArtificialBone.description>
+
+  <ArtificialNose.label>искусственный нос</ArtificialNose.label>
+  <ArtificialNose.description>Заменяет поврежденный нос.</ArtificialNose.description>
+
+  <SimpleProstheticHand.label>простой протез кисти</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>Заменяет поврежденную кисть. Более эстетично чем крюк пирата.</SimpleProstheticHand.description>
+
+  <SimpleProstheticFoot.label>простой протез ступни</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>Заменяет поврежденную ступню.</SimpleProstheticFoot.description>
+
+  <ArtificialPelvis.label>искусственный таз</ArtificialPelvis.label>
+  <ArtificialPelvis.description>Заменяет поврежденный таз.</ArtificialPelvis.description>
+
+</LanguageData>

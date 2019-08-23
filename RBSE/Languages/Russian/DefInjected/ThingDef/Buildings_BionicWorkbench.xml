@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicWorkbench.label>верстак бионики</BionicWorkbench.label>
+  <BionicWorkbench.description>Верстак для производства как простых, так и бионических протезов.</BionicWorkbench.description>
+  <BionicWorkbench_Blueprint.label>верстак бионики (чертеж)</BionicWorkbench_Blueprint.label>
+  <BionicWorkbench_Blueprint_Install.label>верстак бионики (чертеж)</BionicWorkbench_Blueprint_Install.label>
+  <BionicWorkbench_Frame.label>верстак бионики (стройка)</BionicWorkbench_Frame.label>
+  <BionicWorkbench_Frame.description>Верстак для производства как простых, так и бионических протезов.</BionicWorkbench_Frame.description>
+
+
+</LanguageData>

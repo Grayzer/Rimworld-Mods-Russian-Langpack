@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeNeurostimulator.label>создать нейростимулятор</MakeNeurostimulator.label>
+  <MakeNeurostimulator.description>Создать нейростимулятор.</MakeNeurostimulator.description>
+  <MakeNeurostimulator.jobString>создает нейростимулятор.</MakeNeurostimulator.jobString>
+
+  <MakeHyporegulator.label>создать гипорегулятор</MakeHyporegulator.label>
+  <MakeHyporegulator.description>Создает гипорегулятор. Требуется ядро ИИ.\n\nВысокоразвитый мозговой имплантат, который пытается повысить умственную и физическую устойчивость субъекта. Имплантат помещается в гипоталамус, что повышает эффективность оси HPA и терморегуляцию организма.</MakeHyporegulator.description>
+  <MakeHyporegulator.jobString>создает гипорегулятор.</MakeHyporegulator.jobString>
+
+  <MakeCortexaugmentor.label>создать кортексаугментатор</MakeCortexaugmentor.label>
+  <MakeCortexaugmentor.description>Создает кортексаугментатор. Требуется ядро ИИ.\n\nВысокоразвитый мозговой имплантат, который пытается улучшить общий интеллект субъекта. Имплант помещается в префронтальную кору, что увеличивает когнитивные способности, такие как язык и скорость обучения.</MakeCortexaugmentor.description>
+  <MakeCortexaugmentor.jobString>создает кортексаугментатор.</MakeCortexaugmentor.jobString>
+
+  <MakeJoywire.label>создать чип счaстья</MakeJoywire.label>
+  <MakeJoywire.description>Создать чип счaстья.</MakeJoywire.description>
+  <MakeJoywire.jobString>создает чип счaстья.</MakeJoywire.jobString>
+
+  <MakePainstopper.label>создать чип обезболивания</MakePainstopper.label>
+  <MakePainstopper.description>Создать чип обезболивания.</MakePainstopper.description>
+  <MakePainstopper.jobString>создает чип обезболивaния.</MakePainstopper.jobString>
+
+  <MakeSyntheticLung.label>создать синтетическое лёгкое</MakeSyntheticLung.label>
+  <MakeSyntheticLung.description>Создать синтетическое лёгкое.</MakeSyntheticLung.description>
+  <MakeSyntheticLung.jobString>создает синтетическое лёгкое.</MakeSyntheticLung.jobString>
+
+  <MakeSyntheticStomach.label>создать синтетический желудок</MakeSyntheticStomach.label>
+  <MakeSyntheticStomach.description>Создать синтетический желудок.</MakeSyntheticStomach.description>
+  <MakeSyntheticStomach.jobString>создает синтетический желудок.</MakeSyntheticStomach.jobString>
+
+  <MakeSyntheticLiver.label>создать синтетическую печень</MakeSyntheticLiver.label>
+  <MakeSyntheticLiver.description>Создать синтетическую печень.</MakeSyntheticLiver.description>
+  <MakeSyntheticLiver.jobString>создает синтетическую печень.</MakeSyntheticLiver.jobString>
+
+  <MakeSyntheticKidney.label>создать синтетическую почку</MakeSyntheticKidney.label>
+  <MakeSyntheticKidney.description>Создать синтетическую почку.</MakeSyntheticKidney.description>
+  <MakeSyntheticKidney.jobString>создает синтетическую почку.</MakeSyntheticKidney.jobString>
+
+  <MakeSyntheticHeart.label>создать синтетическое сердце</MakeSyntheticHeart.label>
+  <MakeSyntheticHeart.description>Создать синтетическое сердце.</MakeSyntheticHeart.description>
+  <MakeSyntheticHeart.jobString>создает синтетическое сердце.</MakeSyntheticHeart.jobString>
+
+
+</LanguageData>

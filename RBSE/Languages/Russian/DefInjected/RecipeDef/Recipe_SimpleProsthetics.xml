@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mod -->
+
+  <InstallHookHand.label>вживить крюк для руки</InstallHookHand.label>
+  <InstallHookHand.description>Вживить крюк для руки.</InstallHookHand.description>
+  <InstallHookHand.jobString>вживляет крюк для руки.</InstallHookHand.jobString>
+
+  <InstallSimpleProstheticHand.label>вживить простой протез кисти</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Вживить простой протез кисти.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>вживляет простой протез кисти.</InstallSimpleProstheticHand.jobString>
+
+  <InstallSimpleProstheticFoot.label>вживить простой протез стопы</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Вживить простой протез стопы.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>вживляет простой протез стопы.</InstallSimpleProstheticFoot.jobString>
+
+  <InstallArtificialNose.label>вживить искусственный нос</InstallArtificialNose.label>
+  <InstallArtificialNose.description>Вживить искусственный нос.</InstallArtificialNose.description>
+  <InstallArtificialNose.jobString>вживляет искусственный нос.</InstallArtificialNose.jobString>
+
+  <InstallArtificialPelvis.label>вживить искусственный таз</InstallArtificialPelvis.label>
+  <InstallArtificialPelvis.description>Вживить искусственный таз.</InstallArtificialPelvis.description>
+  <InstallArtificialPelvis.jobString>вживляет искусственный таз.</InstallArtificialPelvis.jobString>
+
+</LanguageData>

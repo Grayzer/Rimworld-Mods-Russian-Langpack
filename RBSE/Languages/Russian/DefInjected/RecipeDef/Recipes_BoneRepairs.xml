@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallSpinalFusion.label>вживить протез для позвонков</InstallSpinalFusion.label>
+  <InstallSpinalFusion.description>Вживить протез для позвонков.</InstallSpinalFusion.description>
+  <InstallSpinalFusion.jobString>вживляет протез для позвонков.</InstallSpinalFusion.jobString>
+
+  <InstallHumerus.label>вживить плечевую кость</InstallHumerus.label>
+  <InstallHumerus.description>Вживить плечевую кость.</InstallHumerus.description>
+  <InstallHumerus.jobString>вживляет плечевую кость.</InstallHumerus.jobString>
+
+  <InstallRadius.label>вживить лучевую кость</InstallRadius.label>
+  <InstallRadius.description>Вживить лучевую кость.</InstallRadius.description>
+  <InstallRadius.jobString>вживляет лучевую кость.</InstallRadius.jobString>
+
+  <InstallTibia.label>вживить берцовую кость</InstallTibia.label>
+  <InstallTibia.description>Вживить берцовую кость.</InstallTibia.description>
+  <InstallTibia.jobString>вживляет берцовую кость.</InstallTibia.jobString>
+
+  <InstallFemur.label>вживить бедренную кость</InstallFemur.label>
+  <InstallFemur.description>Вживить бедренную кость.</InstallFemur.description>
+  <InstallFemur.jobString>вживляет бедренную кость.</InstallFemur.jobString>
+
+  <InstallClavicle.label>вживить ключицу</InstallClavicle.label>
+  <InstallClavicle.description>Вживить ключицу.</InstallClavicle.description>
+  <InstallClavicle.jobString>вживляет ключицу.</InstallClavicle.jobString>
+
+  <InstallSternum.label>вживить грудину</InstallSternum.label>
+  <InstallSternum.description>Вживить грудину</InstallSternum.description>
+  <InstallSternum.jobString>вживляет грудину</InstallSternum.jobString>
+
+  <InstallRibcage.label>вживить грудную клетку</InstallRibcage.label>
+  <InstallRibcage.description>Вживить грудную клетку</InstallRibcage.description>
+  <InstallRibcage.jobString>вживляет грудную клетку</InstallRibcage.jobString>
+
+</LanguageData>

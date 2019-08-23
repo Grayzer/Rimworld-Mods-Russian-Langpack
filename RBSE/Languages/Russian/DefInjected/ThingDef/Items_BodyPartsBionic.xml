@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <PowerArm.label>усиленная рука</PowerArm.label>
+  <PowerArm.description>Дополнительная сила и ловкость с острыми, убирающимися когтями. Потрясающий дизайн руки!</PowerArm.description>
+
+  <BionicHand.label>бионическая кисть</BionicHand.label>
+  <BionicHand.description>Позволяет выполнять задачи быстрее, чем простыми руками.</BionicHand.description>
+
+  <BionicFoot.label>бионическая ступня</BionicFoot.label>
+  <BionicFoot.description>Этот протез позволяет ходить быстрее и не спотыкаться.</BionicFoot.description>
+
+  <BionicJaw.label>бионический имплант челюсти</BionicJaw.label>
+  <BionicJaw.description>Помимо впечатляющего набора зубов, также включает и модулятор голоса.</BionicJaw.description>
+
+</LanguageData>

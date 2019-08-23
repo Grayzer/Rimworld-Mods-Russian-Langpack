@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChronicKidneyDisease.label>хроническое заболевание почек</ChronicKidneyDisease.label>
+  <ChronicKidneyDisease.stages.0.label>слабое</ChronicKidneyDisease.stages.0.label>
+  <ChronicKidneyDisease.stages.1.label>небольшое</ChronicKidneyDisease.stages.1.label>
+  <ChronicKidneyDisease.stages.2.label>умеренное</ChronicKidneyDisease.stages.2.label>
+  <ChronicKidneyDisease.stages.3.label>сильное</ChronicKidneyDisease.stages.3.label>
+  <ChronicKidneyDisease.stages.4.label>критическое</ChronicKidneyDisease.stages.4.label>
+
+  <CongenitalHeartDefect.label>врожденный порок сердца</CongenitalHeartDefect.label>
+  <CongenitalHeartDefect.stages.0.label>умеренный</CongenitalHeartDefect.stages.0.label>
+  <CongenitalHeartDefect.stages.1.label>сильный</CongenitalHeartDefect.stages.1.label>
+
+  <ChronicStomachDisorder.label>хроническое расстройство желудка</ChronicStomachDisorder.label>
+
+
+</LanguageData>

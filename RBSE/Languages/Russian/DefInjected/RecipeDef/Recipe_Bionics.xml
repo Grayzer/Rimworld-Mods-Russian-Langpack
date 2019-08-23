@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallPowerArm.label>вживить усиленную руку</InstallPowerArm.label>
+  <InstallPowerArm.description>Вживить усиленную руку.</InstallPowerArm.description>
+  <InstallPowerArm.jobString>вживляет усиленную руку.</InstallPowerArm.jobString>
+
+  <InstallBionicHand.label>вживить бионическую кисть</InstallBionicHand.label>
+  <InstallBionicHand.description>Вживить бионическую кисть.</InstallBionicHand.description>
+  <InstallBionicHand.jobString>вживляет бионическую кисть.</InstallBionicHand.jobString>
+
+  <InstallBionicFoot.label>вживить бионическую ступню</InstallBionicFoot.label>
+  <InstallBionicFoot.description>Вживить бионическую ступню.</InstallBionicFoot.description>
+  <InstallBionicFoot.jobString>вживляет бионическую ступню.</InstallBionicFoot.jobString>
+
+  <InstallBionicJaw.label>вживить бионическую челюсть</InstallBionicJaw.label>
+  <InstallBionicJaw.description>Вживить бионическую челюсть.</InstallBionicJaw.description>
+  <InstallBionicJaw.jobString>вживляет бионическую челюсть.</InstallBionicJaw.jobString>
+
+</LanguageData>

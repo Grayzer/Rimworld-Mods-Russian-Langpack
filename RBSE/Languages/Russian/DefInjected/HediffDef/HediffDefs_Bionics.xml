@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <PowerArm.label>усиленная рука</PowerArm.label>
+  <PowerArm.comps.0.tools.0.label>fist</PowerArm.comps.0.tools.0.label>
+  <PowerArm.labelNoun>бионическая усиленная рука</PowerArm.labelNoun>
+
+  <BionicHand.label>бионическая кисть</BionicHand.label>
+  <BionicHand.comps.0.tools.0.label>fist</BionicHand.comps.0.tools.0.label>
+  <BionicHand.labelNoun>бионическая кисть</BionicHand.labelNoun>
+
+  <BionicFoot.label>бионическая ступня</BionicFoot.label>
+  <BionicFoot.labelNoun>бионическая ступня</BionicFoot.labelNoun>
+
+  <BionicJaw.label>бионический имплант челюсти</BionicJaw.label>
+  <BionicJaw.labelNoun>бионическая челюсть</BionicJaw.labelNoun>
+
+</LanguageData>

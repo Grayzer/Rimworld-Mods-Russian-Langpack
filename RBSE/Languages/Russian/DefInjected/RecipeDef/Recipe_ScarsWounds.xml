@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Injury: Burn -->
+
+  <CureInjuryBurn.label>вылечить ожог</CureInjuryBurn.label>
+  <CureInjuryBurn.description>Лечить burn.</CureInjuryBurn.description>
+  <CureInjuryBurn.jobString>лечит burn.</CureInjuryBurn.jobString>
+
+
+  <!-- Injury: Crush -->
+
+  <CureInjuryCrush.label>вылечить раздробленную рану</CureInjuryCrush.label>
+  <CureInjuryCrush.description>Лечить раздробленную рану.</CureInjuryCrush.description>
+  <CureInjuryCrush.jobString>лечит раздробленную рану.</CureInjuryCrush.jobString>
+
+
+  <!-- Injury: Crack -->
+
+  <CureInjuryCrack.label>вылечить трещину</CureInjuryCrack.label>
+  <CureInjuryCrack.description>Лечить трещину.</CureInjuryCrack.description>
+  <CureInjuryCrack.jobString>лечит трещину.</CureInjuryCrack.jobString>
+
+
+  <!-- Injury: Cut -->
+
+  <CureInjuryCut.label>вылечить резанную рану</CureInjuryCut.label>
+  <CureInjuryCut.description>Лечить резанную рану.</CureInjuryCut.description>
+  <CureInjuryCut.jobString>лечит резанную рану.</CureInjuryCut.jobString>
+
+
+  <!-- Injury: SurgicalCut -->
+
+  <CureInjurySurgicalCut.label>вылечить порез</CureInjurySurgicalCut.label>
+  <CureInjurySurgicalCut.description>Лечить порез.</CureInjurySurgicalCut.description>
+  <CureInjurySurgicalCut.jobString>лечит порез.</CureInjurySurgicalCut.jobString>
+
+
+  <!-- Injury: Scratch -->
+
+  <CureInjuryScratch.label>вылечить ссадины</CureInjuryScratch.label>
+  <CureInjuryScratch.description>Лечить ссадины.</CureInjuryScratch.description>
+  <CureInjuryScratch.jobString>лечит ссадины.</CureInjuryScratch.jobString>
+
+
+  <!-- Injury: Bite -->
+
+  <CureInjuryBite.label>вылечить укус</CureInjuryBite.label>
+  <CureInjuryBite.description>Лечить укус.</CureInjuryBite.description>
+  <CureInjuryBite.jobString>лечит укус.</CureInjuryBite.jobString>
+
+
+  <!-- Injury: Stab -->
+
+  <CureInjuryStab.label>вылечить колотую рану</CureInjuryStab.label>
+  <CureInjuryStab.description>Лечить колотую рану.</CureInjuryStab.description>
+  <CureInjuryStab.jobString>лечит колотую рану.</CureInjuryStab.jobString>
+
+
+  <!-- Injury: Gunshot -->
+
+  <CureInjuryGunshot.label>вылечить огнестрельную рану</CureInjuryGunshot.label>
+  <CureInjuryGunshot.description>Лечить огнестрельную рану.</CureInjuryGunshot.description>
+  <CureInjuryGunshot.jobString>лечит огнестрельную рану.</CureInjuryGunshot.jobString>
+
+
+  <!-- Injury: Shredded -->
+
+  <CureInjuryShredded.label>вылечить рваную рану</CureInjuryShredded.label>
+  <CureInjuryShredded.description>Лечить рваную рану.</CureInjuryShredded.description>
+  <CureInjuryShredded.jobString>лечит рваную рану.</CureInjuryShredded.jobString>
+
+
+  <!-- Injury: Bruise -->
+
+  <CureInjuryBruise.label>вылечить ушиб</CureInjuryBruise.label>
+  <CureInjuryBruise.description>Лечить ушиб.</CureInjuryBruise.description>
+  <CureInjuryBruise.jobString>лечит ушиб.</CureInjuryBruise.jobString>
+
+  <CureInjuryFrostbite.label>вылечить обморожение</CureInjuryFrostbite.label>
+  <CureInjuryFrostbite.description>Лечить обморожение.</CureInjuryFrostbite.description>
+  <CureInjuryFrostbite.jobString>лечит обморожение.</CureInjuryFrostbite.jobString>
+  <CureInjuryFrostbite.successfullyRemovedHediffMessage>{0} успешно излечивает {1} обморожение.</CureInjuryFrostbite.successfullyRemovedHediffMessage>
+
+</LanguageData>

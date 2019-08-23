@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <Neurostimulator.label>нейростимулятор</Neurostimulator.label>
+  <Hyporegulator.label>гипорегулятор</Hyporegulator.label>
+  <Cortexaugmentor.label>кортексаугументатор</Cortexaugmentor.label>
+
+  <SyntheticLung.label>синтетическое лёгкое</SyntheticLung.label>
+  <SyntheticLung.stages.0.label>адаптация</SyntheticLung.stages.0.label>
+  <SyntheticLung.stages.1.label>адаптация</SyntheticLung.stages.1.label>
+
+  <SyntheticLiver.label>синтетическая печень</SyntheticLiver.label>
+  <SyntheticLiver.stages.0.label>адаптация</SyntheticLiver.stages.0.label>
+  <SyntheticLiver.stages.1.label>адаптация</SyntheticLiver.stages.1.label>
+
+  <SyntheticKidney.label>синтетическая почка</SyntheticKidney.label>
+  <SyntheticKidney.stages.0.label>адаптация</SyntheticKidney.stages.0.label>
+  <SyntheticKidney.stages.1.label>адаптация</SyntheticKidney.stages.1.label>
+
+  <SyntheticHeart.label>синтетическое сердце</SyntheticHeart.label>
+  <SyntheticHeart.stages.0.label>адаптация</SyntheticHeart.stages.0.label>
+  <SyntheticHeart.stages.1.label>адаптация</SyntheticHeart.stages.1.label>
+
+  <SyntheticStomach.label>синтетический желудок</SyntheticStomach.label>
+  <SyntheticStomach.stages.0.label>адаптация</SyntheticStomach.stages.0.label>
+  <SyntheticStomach.stages.1.label>адаптация</SyntheticStomach.stages.1.label>
+
+
+</LanguageData>

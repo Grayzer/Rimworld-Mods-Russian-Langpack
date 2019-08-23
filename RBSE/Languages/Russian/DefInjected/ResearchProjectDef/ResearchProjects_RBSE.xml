@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 1 -->
+
+  <RegenerativeMedicine.label>регенеративная медицина</RegenerativeMedicine.label>
+  <RegenerativeMedicine.description>Передовые исследования в области регенерации тканей. Доступно лечение шрамов и старых ран с помощью препаратов glitterworld.</RegenerativeMedicine.description>
+
+  <OrganTransplantation.label>трансплантация органов</OrganTransplantation.label>
+  <OrganTransplantation.description>Изучение трансплантационной медицины и отторжения органов. Доступна трансплантация донорских органов пациентам.</OrganTransplantation.description>
+
+
+  <!-- Tier 2 -->
+
+  <!-- Tier 2.5 -->
+
+  <AdvancedBionics.label>передовая бионика</AdvancedBionics.label>
+  <AdvancedBionics.description>Дальнейшее изучение бионики. Открывает улучшенную медицинскую станцию и мощные бионическими улучшения.</AdvancedBionics.description>
+
+  <SyntheticOrgans.label>синтетические органы</SyntheticOrgans.label>
+  <SyntheticOrgans.description>Передовые исследования в области нанотехнологий. Открывает высокоэффективные синтетические органы без симптомов отторжения трансплантата.</SyntheticOrgans.description>
+
+  <Neuroscience.label>нейробиология</Neuroscience.label>
+  <Neuroscience.description>Позволяет выполнять операции на головном мозге. Разблокирует имплантанты мозга.</Neuroscience.description>
+
+</LanguageData>

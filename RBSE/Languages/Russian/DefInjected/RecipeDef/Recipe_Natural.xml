@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla -->
+
+  <InstallNaturalStomach.label>вживить желудок</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>Вживить желудок.</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>вживляет желудок.</InstallNaturalStomach.jobString>
+
+</LanguageData>

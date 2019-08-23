@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <SpinalFusion.label>протез для позвонков</SpinalFusion.label>
+  <SpinalFusion.labelNoun>протез от перелома позвоночника</SpinalFusion.labelNoun>
+
+  <HookHand.label>крюк для руки</HookHand.label>
+  <HookHand.comps.0.tools.0.label>fist</HookHand.comps.0.tools.0.label>
+  <HookHand.labelNoun>простая рука с крюком</HookHand.labelNoun>
+
+  <SimpleProstheticHand.label>простой протез кисти</SimpleProstheticHand.label>
+  <SimpleProstheticHand.comps.0.tools.0.label>fist</SimpleProstheticHand.comps.0.tools.0.label>
+  <SimpleProstheticHand.labelNoun>простой протез кисти</SimpleProstheticHand.labelNoun>
+
+  <SimpleProstheticFoot.label>простой протез ступни</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.labelNoun>простой протез ступни</SimpleProstheticFoot.labelNoun>
+
+  <ArtificialNose.label>искусственный нос</ArtificialNose.label>
+  <ArtificialNose.labelNoun>искусственный нос</ArtificialNose.labelNoun>
+
+  <ArtificialPelvis.label>искусственный таз</ArtificialPelvis.label>
+  <ArtificialPelvis.labelNoun>искусственный таз</ArtificialPelvis.labelNoun>
+
+  <ArtificialHumerus.label>искусственная плечевая кость</ArtificialHumerus.label>
+  <ArtificialHumerus.labelNoun>искусственная плечевая кость</ArtificialHumerus.labelNoun>
+
+  <ArtificialRadius.label>искусственная лучевая кость</ArtificialRadius.label>
+  <ArtificialRadius.labelNoun>искусственная лучевая кость</ArtificialRadius.labelNoun>
+
+  <ArtificialTibia.label>искусственная берцовая кость</ArtificialTibia.label>
+  <ArtificialTibia.labelNoun>искусственная берцовая кость</ArtificialTibia.labelNoun>
+
+  <ArtificialFemur.label>искусственная бедренная кость</ArtificialFemur.label>
+  <ArtificialFemur.labelNoun>искусственная бедренная кость</ArtificialFemur.labelNoun>
+
+  <ArtificialClavicle.label>искусственная ключица</ArtificialClavicle.label>
+  <ArtificialClavicle.labelNoun>искусственная ключица</ArtificialClavicle.labelNoun>
+
+  <ArtificialRibcage.label>искусственная грудная клетка</ArtificialRibcage.label>
+  <ArtificialRibcage.labelNoun>искусственная грудная клетка</ArtificialRibcage.labelNoun>
+
+  <ArtificialSternum.label>искусственная грудина</ArtificialSternum.label>
+  <ArtificialSternum.labelNoun>искусственная грудина</ArtificialSternum.labelNoun>
+
+</LanguageData>

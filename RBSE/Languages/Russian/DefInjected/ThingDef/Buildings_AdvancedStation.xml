@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedMedicalStation.label>передовая медицинская станция</AdvancedMedicalStation.label>
+  <AdvancedMedicalStation.description>Медицинская станция для производства улучшенной бионики, синтетических органов и имплантов головного мозга.</AdvancedMedicalStation.description>
+  <AdvancedMedicalStation_Blueprint.label>передовая медицинская станция (чертеж)</AdvancedMedicalStation_Blueprint.label>
+  <AdvancedMedicalStation_Blueprint_Install.label>передовая медицинская станция (чертеж)</AdvancedMedicalStation_Blueprint_Install.label>
+  <AdvancedMedicalStation_Frame.label>передовая медицинская станция (стройка)</AdvancedMedicalStation_Frame.label>
+  <AdvancedMedicalStation_Frame.description>Медицинская станция для производства улучшенной бионики, синтетических органов и имплантов головного мозга.</AdvancedMedicalStation_Frame.description>
+
+
+</LanguageData>
