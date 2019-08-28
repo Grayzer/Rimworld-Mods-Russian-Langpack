@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MapEditTools.DesignatorBuildRoof>Построить крышу</MapEditTools.DesignatorBuildRoof>
+  <MapEditTools.DesignatorBuildRoofDesc>Мгновенно строит любую крышу.</MapEditTools.DesignatorBuildRoofDesc>
+
+  <MapEditTools.DesignatorRemoveRoof>Удалить крышу</MapEditTools.DesignatorRemoveRoof>
+  <MapEditTools.DesignatorRemoveRoofDesc>Мгновенно удаляет любую крышу.</MapEditTools.DesignatorRemoveRoofDesc>
+
+  <MapEditTools.DesignatorSetTerrain>Установить местность</MapEditTools.DesignatorSetTerrain>
+  <MapEditTools.DesignatorSetTerrainDesc>Устанавливает местность.</MapEditTools.DesignatorSetTerrainDesc>
+
+</LanguageData>

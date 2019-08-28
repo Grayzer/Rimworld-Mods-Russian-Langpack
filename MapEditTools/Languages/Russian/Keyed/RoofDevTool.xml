@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RoofDevTool.DesignatorBuildRoof>Построить крышу</RoofDevTool.DesignatorBuildRoof>
+  <RoofDevTool.DesignatorBuildRoofDesc>Мгновенно строит любую крышу.</RoofDevTool.DesignatorBuildRoofDesc>
+
+  <RoofDevTool.DesignatorRemoveRoof>Удалить крышу</RoofDevTool.DesignatorRemoveRoof>
+  <RoofDevTool.DesignatorRemoveRoofDesc>Мгновенно удаляет любую крышу.</RoofDevTool.DesignatorRemoveRoofDesc>
+
+</LanguageData>

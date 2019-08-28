@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Laser Pistol -->
+
+  <Bullet_Laser_Pistol.label>заряд лазерного пистолета</Bullet_Laser_Pistol.label>
+
+  <Laser_Pistol.label>лазерный пистолет</Laser_Pistol.label>
+  <Laser_Pistol.description>Лазерный пистолет обычно используют космические фракции. Слабый огонь и короткая дистанция, но быстрая стрельба.</Laser_Pistol.description>
+  <Laser_Pistol.tools.0.label>рукоять</Laser_Pistol.tools.0.label>
+  <Laser_Pistol.tools.1.label>ствол</Laser_Pistol.tools.1.label>
+
+
+  <!-- Laser SMG -->
+
+  <Bullet_Laser_SMG.label>заряд лазерного автомата</Bullet_Laser_SMG.label>
+
+  <Laser_SMG.label>лазерный автомат</Laser_SMG.label>
+  <Laser_SMG.description>Компактный лазерный автомат, используемый космическими фракциями. Очень короткая дистанция, но он хорошо справляется со стаями и ударами в ближнем бою.</Laser_SMG.description>
+  <Laser_SMG.tools.0.label>рукоять</Laser_SMG.tools.0.label>
+  <Laser_SMG.tools.1.label>ствол</Laser_SMG.tools.1.label>
+
+
+  <!-- Laser Rifle -->
+
+  <Bullet_Laser_Rifle.label>заряд лазерного ружья</Bullet_Laser_Rifle.label>
+
+  <Laser_Rifle.label>лазерное ружье</Laser_Rifle.label>
+  <Laser_Rifle.description>Штурмовое лазерное оружие, используемое космическими фракциями.</Laser_Rifle.description>
+  <Laser_Rifle.tools.0.label>ложе</Laser_Rifle.tools.0.label>
+  <Laser_Rifle.tools.1.label>ствол</Laser_Rifle.tools.1.label>
+
+
+  <!-- Laser LMG -->
+
+  <Bullet_Laser_LMG.label>заряд лазерного ручного пулемета</Bullet_Laser_LMG.label>
+
+  <Laser_LMG.label>лазерный ручной пулемет</Laser_LMG.label>
+  <Laser_LMG.description>Лазерный ручной пулемет, используемый космическими фракциями.</Laser_LMG.description>
+  <Laser_LMG.tools.0.label>ложе</Laser_LMG.tools.0.label>
+  <Laser_LMG.tools.1.label>ствол</Laser_LMG.tools.1.label>
+
+
+  <!-- Laser Sniper -->
+
+  <Bullet_Laser_Sniper.label>заряд лазерной снайперки</Bullet_Laser_Sniper.label>
+
+  <Laser_Sniper.label>лазерная снайперка</Laser_Sniper.label>
+  <Laser_Sniper.description>Военная лазерная снайперская винтовка, используемая космическими группировками. Она имеет длительную перезарядку, но имеет большой радиус действия, высокую точность и мощность.</Laser_Sniper.description>
+  <Laser_Sniper.tools.0.label>ложе</Laser_Sniper.tools.0.label>
+  <Laser_Sniper.tools.1.label>ствол</Laser_Sniper.tools.1.label>
+
+
+</LanguageData>

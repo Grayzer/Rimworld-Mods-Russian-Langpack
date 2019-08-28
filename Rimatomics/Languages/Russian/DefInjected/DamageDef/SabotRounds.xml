@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- STANDARD -->
+
+  <Bomb_Sabot.label>бомба</Bomb_Sabot.label>
+  <Bomb_Sabot.deathMessage>{0} погиб в результате взрыва.</Bomb_Sabot.deathMessage>
+
+
+  <!-- DU Sabot -->
+
+  <Bomb_DUSabot.label>бомба</Bomb_DUSabot.label>
+  <Bomb_DUSabot.deathMessage>{0} погиб в результате взрыва.</Bomb_DUSabot.deathMessage>
+
+
+</LanguageData>

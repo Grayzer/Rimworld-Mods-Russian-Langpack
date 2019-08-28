@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Laser Pistol -->
+
+  <Bullet_Laser_Pistol.label>pistol laser</Bullet_Laser_Pistol.label>
+
+  <Laser_Pistol.label>laser pistol</Laser_Pistol.label>
+  <Laser_Pistol.description>A laser pistol spacer factions commonly use. Weak and short range, but quick to fire.</Laser_Pistol.description>
+  <Laser_Pistol.tools.0.label>grip</Laser_Pistol.tools.0.label>
+  <Laser_Pistol.tools.1.label>barrel</Laser_Pistol.tools.1.label>
+
+
+  <!-- Laser SMG -->
+
+  <Bullet_Laser_SMG.label>heavy SMG bullet</Bullet_Laser_SMG.label>
+
+  <Laser_SMG.label>laser SMG</Laser_SMG.label>
+  <Laser_SMG.description>A compact laser rifle used by spacer factions. Very short range, but it packs a punch and handles quite well.</Laser_SMG.description>
+  <Laser_SMG.tools.0.label>grip</Laser_SMG.tools.0.label>
+  <Laser_SMG.tools.1.label>barrel</Laser_SMG.tools.1.label>
+
+
+  <!-- Laser Rifle -->
+
+  <Bullet_Laser_Rifle.label>rifle laser</Bullet_Laser_Rifle.label>
+
+  <Laser_Rifle.label>laser rifle</Laser_Rifle.label>
+  <Laser_Rifle.description>An assault laser weapon, used by spacer factions.</Laser_Rifle.description>
+  <Laser_Rifle.tools.0.label>stock</Laser_Rifle.tools.0.label>
+  <Laser_Rifle.tools.1.label>barrel</Laser_Rifle.tools.1.label>
+
+
+  <!-- Laser LMG -->
+
+  <Bullet_Laser_LMG.label>Laser LMG bullet</Bullet_Laser_LMG.label>
+
+  <Laser_LMG.label>laser LMG</Laser_LMG.label>
+  <Laser_LMG.description>A laser LMG, used by spacer factions.</Laser_LMG.description>
+  <Laser_LMG.tools.0.label>stock</Laser_LMG.tools.0.label>
+  <Laser_LMG.tools.1.label>barrel</Laser_LMG.tools.1.label>
+
+
+  <!-- Laser Sniper -->
+
+  <Bullet_Laser_Sniper.label>laser sniper bullet</Bullet_Laser_Sniper.label>
+
+  <Laser_Sniper.label>laser sniper</Laser_Sniper.label>
+  <Laser_Sniper.description>A military laser sniper rifle used by spacer factions. It has a semi-long charge, but has long range, great accuracy, and power.</Laser_Sniper.description>
+  <Laser_Sniper.tools.0.label>stock</Laser_Sniper.tools.0.label>
+  <Laser_Sniper.tools.1.label>barrel</Laser_Sniper.tools.1.label>
+
+
+</LanguageData>

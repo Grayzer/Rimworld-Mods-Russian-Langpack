@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NuclearFuelCracked.label>Разрешить потрескавшиеся</NuclearFuelCracked.label>
+  <NuclearFuelCracked.description>Разрешить потрескавшиеся топливные стержни, которые будут храниться здесь.</NuclearFuelCracked.description>
+
+  <NuclearFuelNotCracked.label>Разрешить не потрескавшиеся</NuclearFuelNotCracked.label>
+  <NuclearFuelNotCracked.description>Разрешить не потрескавшиеся топливные стержни, которые будут храниться здесь.</NuclearFuelNotCracked.description>
+
+  <NuclearFuelProcessable.label>Разрешить обработанные</NuclearFuelProcessable.label>
+  <NuclearFuelProcessable.description>Разрешить хранение обработанного топлива здесь.</NuclearFuelProcessable.description>
+
+  <NuclearFuelNotProcessable.label>Разрешить не обработанные</NuclearFuelNotProcessable.label>
+  <NuclearFuelNotProcessable.description>Разрешить хранение не обработанного топлива здесь.</NuclearFuelNotProcessable.description>
+
+
+</LanguageData>

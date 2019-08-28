@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--  MSPainless -->
+
+  <MSPainless.Name>Контроль лекарств</MSPainless.Name>
+  <MSPainless.Warning>Внимание: игра не загружена, предполагается, что исследование завершено.</MSPainless.Warning>
+
+  <MSPainless.UsePainManagement>Использовать ИИ для обезболивания</MSPainless.UsePainManagement>
+  <MSPainless.UseNonMedical>Использовать немедицинские препараты</MSPainless.UseNonMedical>
+  <MSPainless.ShowResearched>Показывать только уже исследованные препараты</MSPainless.ShowResearched>
+  <MSPainless.PainReliefWaitPeriod>Период ожидания облегчения боли (час)</MSPainless.PainReliefWaitPeriod>
+  <MSPainless.ShowReliefMsg>Показывать уведомления о облегчении боли</MSPainless.ShowReliefMsg>
+  <MSPainless.MethodRelief>Делать обезболивание используя хирургические списки</MSPainless.MethodRelief>
+
+  <MSPainless.UseDrugResponse>Использовать ИИ при болезнях</MSPainless.UseDrugResponse>
+  <MSPainless.DRWaitPeriod>Период ожидания реакции болезни (час)</MSPainless.DRWaitPeriod>
+  <MSPainless.ShowResponseMsg>Показывать уведомления о реакции болезни</MSPainless.ShowResponseMsg>
+  <MSPainless.MethodResponse>Реагировать на болезнь используя хирургические списки</MSPainless.MethodResponse>
+
+  <MSPainless.None>Отсутствует</MSPainless.None>
+  <MSPainless.Yes>Да</MSPainless.Yes>
+  <MSPainless.No>Нет</MSPainless.No>
+
+  <MSPainless.DrugMild>Легкая боль</MSPainless.DrugMild>
+  <MSPainless.DrugMinor>Незначительная боль</MSPainless.DrugMinor>
+  <MSPainless.DrugSerious>Серьезная боль</MSPainless.DrugSerious>
+  <MSPainless.DrugIntense>Сильная боль</MSPainless.DrugIntense>
+  <MSPainless.DrugExtreme>Крайняя боль</MSPainless.DrugExtreme>
+
+  <MSPainless.DrugMinorLevels>Боль ниже 15%</MSPainless.DrugMinorLevels>
+  <MSPainless.DrugSeriousLevels>Боль от 15% до 39%</MSPainless.DrugSeriousLevels>
+  <MSPainless.DrugIntenseLevels>Боль от 40% до 80%</MSPainless.DrugIntenseLevels>
+  <MSPainless.DrugExtremeLevels>Боль выше 80%</MSPainless.DrugExtremeLevels>
+
+  <MSPainless.ReliefMsg>{0} принимает обезболивающее лекарством: {1}</MSPainless.ReliefMsg>
+  <MSPainless.ResponseMsg>{0} отвечает на {1} лекарством: {2}</MSPainless.ResponseMsg>
+
+  <MSPainless.Malady>Болезнь</MSPainless.Malady>
+  <MSPainless.MaladyDrug>Реакция</MSPainless.MaladyDrug>
+  <MSPainless.Set>Установить</MSPainless.Set>
+  <MSPainless.Clear>Очистить</MSPainless.Clear>
+  <MSPainless.ClearAll>Очистить все</MSPainless.ClearAll>
+
+  <MSPainless.ErrDrugPolicy>{0} текущая политика в отношении лекарств не содержит записи для {1}. Пожалуйста, обновите политику.</MSPainless.ErrDrugPolicy>
+
+</LanguageData>

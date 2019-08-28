@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PPC.label>импульсный силовой конденсатор (ИСК)</PPC.label>
+  <PPC.description>Импульсный силовой конденсатор RA-P3 хранит большое количество энергии в банке ультраконденсаторов, которые могут быть разряжены за один импульс с помощью совместимого с Rimatomics энергетического оружия.</PPC.description>
+  <PPC_Blueprint.label>импульсный силовой конденсатор (чертеж)</PPC_Blueprint.label>
+  <PPC_Frame.label>импульсный силовой конденсатор (стройка)</PPC_Frame.label>
+  <PPC_Frame.description>Импульсный силовой конденсатор RA-P3 хранит большое количество энергии в банке ультраконденсаторов, которые могут быть разряжены за один импульс с помощью совместимого с Rimatomics энергетического оружия.</PPC_Frame.description>
+
+  <PPCWeaponsConsole.label>полуавтоматическая командная станция (ПАКС)</PPCWeaponsConsole.label>
+  <PPCWeaponsConsole.description>Полуавтоматическая командная станция RA-c85, необходимая для всех видов энергетического оружия Rimatomics, может потребовать комплектования некоторых видов оружия для полноценной работы.</PPCWeaponsConsole.description>
+  <PPCWeaponsConsole_Blueprint.label>полуавтоматическая командная станция (чертеж)</PPCWeaponsConsole_Blueprint.label>
+  <PPCWeaponsConsole_Frame.label>полуавтоматическая командная станция (стройка)</PPCWeaponsConsole_Frame.label>
+  <PPCWeaponsConsole_Frame.description>Полуавтоматическая командная станция RA-c85, необходимая для всех видов энергетического оружия Rimatomics, может потребовать комплектования некоторых видов оружия для полноценной работы.</PPCWeaponsConsole_Frame.description>
+
+  <RadarDish.label>СОЦИС</RadarDish.label>
+  <RadarDish.description>Система обнаружения целей и связи RA-92 использует комбинацию технологий для отслеживания наземных и воздушных целей и связи с системами вооружения.</RadarDish.description>
+  <RadarDish_Blueprint.label>СОЦИС (чертеж)</RadarDish_Blueprint.label>
+  <RadarDish_Frame.label>СОЦИС (стройка)</RadarDish_Frame.label>
+  <RadarDish_Frame.description>Система обнаружения целей и связи RA-92 использует комбинацию технологий для отслеживания наземных и воздушных целей и связи с системами вооружения.</RadarDish_Frame.description>
+
+  <PPCADS.label>САС</PPCADS.label>
+  <PPCADS.description>САС (Система Активного Сдерживания) RA-22 является нелетальным оружием направленной энергии, которое использует микроволны для котроля зоны и сдерживания толпы. Он нагревает кожу целей, заставляя их нарушать строй и убегать. Не требует прямой видимости. Требуется пилотируемый SACS.</PPCADS.description>
+  <PPCADS_Blueprint.label>САС (чертеж)</PPCADS_Blueprint.label>
+  <PPCADS_Frame.label>САС (стройка)</PPCADS_Frame.label>
+  <PPCADS_Frame.description>САС (Система Активного Сдерживания) RA-22 является нелетальным оружием направленной энергии, которое использует микроволны для котроля зоны и сдерживания толпы. Он нагревает кожу целей, заставляя их нарушать строй и убегать. Не требует прямой видимости. Требуется пилотируемый SACS.</PPCADS_Frame.description>
+
+  <ADS_Dish.label>САС объект</ADS_Dish.label>
+  <ADS_Dish.description>Система Активного Сдерживания.</ADS_Dish.description>
+
+  <PPCTeslaCoil.label>катушка тесла</PPCTeslaCoil.label>
+  <PPCTeslaCoil.description>Катушка Тесла RA-42T доставляет огромный электрический дуговой разряд к своим целям, что приводит к серьезным ожогам или смерти. 100% точность, средний радиус действия, поджигает цели. Автоматический прицел и стрельба. Для ручной стрельбы необходим пилотируемый SACS.</PPCTeslaCoil.description>
+  <PPCTeslaCoil_Blueprint.label>катушка тесла (чертеж)</PPCTeslaCoil_Blueprint.label>
+  <PPCTeslaCoil_Frame.label>катушка тесла (стройка)</PPCTeslaCoil_Frame.label>
+  <PPCTeslaCoil_Frame.description>Катушка Тесла RA-42T доставляет огромный электрический дуговой разряд к своим целям, что приводит к серьезным ожогам или смерти. 100% точность, средний радиус действия, поджигает цели. Автоматический прицел и стрельба. Для ручной стрельбы необходим пилотируемый SACS.</PPCTeslaCoil_Frame.description>
+
+  <Tesla_Coil_Arc_Discharger.label>Дуговой разрядник Тесла</Tesla_Coil_Arc_Discharger.label>
+  <Tesla_Coil_Arc_Discharger.description>Дуговой разрядник Тесла.</Tesla_Coil_Arc_Discharger.description>
+
+  <PPCHEL.label>ВЭЛ</PPCHEL.label>
+  <PPCHEL.description>Высокоэнергетический лазер RA-702 (ВЭЛ) уничтожает воздушные снаряды противника, такие как минометные снаряды. Когда из миномета стреляют, система проверит, пройдет ли снаряд в радиусе действия ВЭЛ, и попытается отследить цель и выстрелить, как только она окажется в радиусе действия.</PPCHEL.description>
+  <PPCHEL_Blueprint.label>ВЭЛ (чертеж)</PPCHEL_Blueprint.label>
+  <PPCHEL_Frame.label>ВЭЛ (стройка)</PPCHEL_Frame.label>
+  <PPCHEL_Frame.description>Высокоэнергетический лазер RA-702 (ВЭЛ) уничтожает воздушные снаряды противника, такие как минометные снаряды. Когда из миномета стреляют, система проверит, пройдет ли снаряд в радиусе действия ВЭЛ, и попытается отследить цель и выстрелить, как только она окажется в радиусе действия.</PPCHEL_Frame.description>
+
+  <HEL_Laser.label>ВЭЛ лазер</HEL_Laser.label>
+  <HEL_Laser.description>ВЭЛ лазер.</HEL_Laser.description>
+
+  <PPCRailgun.label>Палач</PPCRailgun.label>
+  <PPCRailgun.description>Рельсотрон RA-1802D Палач - это 25-позиционная железнодорожная платформа, которая использует мощные электромагнитные импульсы для запуска снарядов с экстремальной скоростью и дальностью. Требуется прямой видимости. Огневая миссия не требует прямой видимости. Для ручной стрельбы необходим пилотируемый SACS. Требуется пилотируемая SACS.</PPCRailgun.description>
+  <PPCRailgun_Blueprint.label>Палач (чертеж)</PPCRailgun_Blueprint.label>
+  <PPCRailgun_Frame.label>Палач (стройка)</PPCRailgun_Frame.label>
+  <PPCRailgun_Frame.description>Рельсотрон RA-1802D Палач - это 25-позиционная железнодорожная платформа, которая использует мощные электромагнитные импульсы для запуска снарядов с экстремальной скоростью и дальностью. Требуется прямой видимости. Огневая миссия не требует прямой видимости. Для ручной стрельбы необходим пилотируемый SACS. Требуется пилотируемая SACS.</PPCRailgun_Frame.description>
+
+  <Railgun_Cannon.label>рельсотрон Палач</Railgun_Cannon.label>
+  <Railgun_Cannon.description>рельсотрон Палач</Railgun_Cannon.description>
+
+  <PPCObelisk.label>обелиск</PPCObelisk.label>
+  <PPCObelisk.description>Обелиск RA-2152-X - это оружие направленной энергии, которое использует сфокусированный твердотельный лазер для испарения целей. 100% точность с большой дальностью и разрушительной силой. Автоматический прицел и стрельба. Для ручной стрельбы необходим пилотируемый SACS.</PPCObelisk.description>
+  <PPCObelisk_Blueprint.label>обелиск (чертеж)</PPCObelisk_Blueprint.label>
+  <PPCObelisk_Frame.label>обелиск (стройка)</PPCObelisk_Frame.label>
+  <PPCObelisk_Frame.description>Обелиск RA-2152-X - это оружие направленной энергии, которое использует сфокусированный твердотельный лазер для испарения целей. 100% точность с большой дальностью и разрушительной силой. Автоматический прицел и стрельба. Для ручной стрельбы необходим пилотируемый SACS.</PPCObelisk_Frame.description>
+
+  <Obelisk_Laser.label>лазер обелиска</Obelisk_Laser.label>
+  <Obelisk_Laser.description>Лазер Обелиска.</Obelisk_Laser.description>
+
+  <PPCMarauder.label>Мародер</PPCMarauder.label>
+  <PPCMarauder.description>RA-3b Мародер - это многоствольная коаксиальная плазменная рельсовая платформа, мощные электромагнитные импульсы запускают очередь ускоренных плазменных тороидов на экстремальных скоростях, вызывающих взрывное воздействие излучениями. Требуется пилотируемая SACS.</PPCMarauder.description>
+  <PPCMarauder_Blueprint.label>Мародер (чертеж)</PPCMarauder_Blueprint.label>
+  <PPCMarauder_Frame.label>Мародер (стройка)</PPCMarauder_Frame.label>
+  <PPCMarauder_Frame.description>RA-3b Мародер - это многоствольная коаксиальная плазменная рельсовая платформа, мощные электромагнитные импульсы запускают очередь ускоренных плазменных тороидов на экстремальных скоростях, вызывающих взрывное воздействие излучениями. Требуется пилотируемая SACS.</PPCMarauder_Frame.description>
+
+  <Marauder_Railgun.label>рельсотрон Мародер</Marauder_Railgun.label>
+  <Marauder_Railgun.description>рельсотрон Мародер.</Marauder_Railgun.description>
+
+  <Bullet_PlasmaToroid.label>плазменный тороид</Bullet_PlasmaToroid.label>
+
+
+  <!-- Liberator -->
+
+  <MissileSilo.label>Освободитель</MissileSilo.label>
+  <MissileSilo.description>Освободитель RA-1776b - это автономное комплексное производственное и пусковое устройство МБР с вместимостью в 5 ракетных групп. Требуется пилотируемая SACS для функционирования.</MissileSilo.description>
+  <MissileSilo_Blueprint.label>Освободитель (чертеж)</MissileSilo_Blueprint.label>
+  <MissileSilo_Frame.label>Освободитель (стройка)</MissileSilo_Frame.label>
+  <MissileSilo_Frame.description>Освободитель RA-1776b - это автономное комплексное производственное и пусковое устройство МБР с вместимостью в 5 ракетных групп. Требуется пилотируемая SACS для функционирования.</MissileSilo_Frame.description>
+
+  <notReal.label>не реальное</notReal.label>
+
+
+  <!-- ICBM -->
+
+</LanguageData>

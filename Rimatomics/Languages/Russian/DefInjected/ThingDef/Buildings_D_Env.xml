@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RadiationShielding.label>радиационная защита</RadiationShielding.label>
+  <RadiationShielding.description>Непроходимая стена. Способная удерживать крышу. И с усиленной защитой от радиации.</RadiationShielding.description>
+  <RadiationShielding_Blueprint.label>радиационная защита (чертеж)</RadiationShielding_Blueprint.label>
+  <RadiationShielding_Frame.label>радиационная защита (стройка)</RadiationShielding_Frame.label>
+  <RadiationShielding_Frame.description>Непроходимая стена. Способная удерживать крышу. И с усиленной защитой от радиации.</RadiationShielding_Frame.description>
+
+  <ReactorSacrophagus.label>саркофаг Тип А</ReactorSacrophagus.label>
+  <ReactorSacrophagus.description>Бетонная структура, предназначенная для содержания расплавленного ядра ядерного реактора, который подвергся инциденту расплавления ядра.</ReactorSacrophagus.description>
+  <ReactorSacrophagus_Blueprint.label>саркофаг Тип А (чертеж)</ReactorSacrophagus_Blueprint.label>
+  <ReactorSacrophagus_Frame.label>саркофаг Тип А (стройка)</ReactorSacrophagus_Frame.label>
+  <ReactorSacrophagus_Frame.description>Бетонная структура, предназначенная для содержания расплавленного ядра ядерного реактора, который подвергся инциденту расплавления ядра.</ReactorSacrophagus_Frame.description>
+
+  <ReactorSacrophagusB.label>саркофаг Тип Х</ReactorSacrophagusB.label>
+  <ReactorSacrophagusB.description>Бетонная структура, предназначенная для содержания расплавленного ядра ядерного реактора, который подвергся инциденту расплавления ядра.</ReactorSacrophagusB.description>
+  <ReactorSacrophagusB_Blueprint.label>саркофаг Тип Х (чертеж)</ReactorSacrophagusB_Blueprint.label>
+  <ReactorSacrophagusB_Frame.label>саркофаг Тип Х (стройка)</ReactorSacrophagusB_Frame.label>
+  <ReactorSacrophagusB_Frame.description>Бетонная структура, предназначенная для содержания расплавленного ядра ядерного реактора, который подвергся инциденту расплавления ядра.</ReactorSacrophagusB_Frame.description>
+
+  <ReactorSacrophagusC.label>саркофаг Тип V</ReactorSacrophagusC.label>
+  <ReactorSacrophagusC.description>Бетонная структура, предназначенная для содержания расплавленного ядра ядерного реактора, который подвергся инциденту расплавления ядра.</ReactorSacrophagusC.description>
+  <ReactorSacrophagusC_Blueprint.label>саркофаг Тип V (чертеж)</ReactorSacrophagusC_Blueprint.label>
+  <ReactorSacrophagusC_Frame.label>саркофаг Тип V (стройка)</ReactorSacrophagusC_Frame.label>
+  <ReactorSacrophagusC_Frame.description>Бетонная структура, предназначенная для содержания расплавленного ядра ядерного реактора, который подвергся инциденту расплавления ядра.</ReactorSacrophagusC_Frame.description>
+
+  <PoppedReactorCoreA.label>расплавленное ядро</PoppedReactorCoreA.label>
+  <PoppedReactorCoreA.description>Расплавленное ядро реактора.</PoppedReactorCoreA.description>
+
+  <PoppedReactorCoreB.label>расплавленное ядро</PoppedReactorCoreB.label>
+  <PoppedReactorCoreB.description>Расплавленное ядро реактора.</PoppedReactorCoreB.description>
+
+  <PoppedReactorCoreC.label>расплавленное ядро</PoppedReactorCoreC.label>
+  <PoppedReactorCoreC.description>Расплавленное ядро реактора.</PoppedReactorCoreC.description>
+
+  <DU_Blastdoor.label>взрывоустойчивая дверь</DU_Blastdoor.label>
+  <DU_Blastdoor.description>Очень прочные взрывоустойчивые двери, усиленные обедненным ураном, обеспечивающие полную защиту от радиации.</DU_Blastdoor.description>
+  <DU_Blastdoor_Blueprint.label>взрывоустойчивая дверь (чертеж)</DU_Blastdoor_Blueprint.label>
+  <DU_Blastdoor_Frame.label>взрывоустойчивая дверь (стройка)</DU_Blastdoor_Frame.label>
+  <DU_Blastdoor_Frame.description>Очень прочные взрывоустойчивые двери, усиленные обедненным ураном, обеспечивающие полную защиту от радиации.</DU_Blastdoor_Frame.description>
+
+
+  <!--<CrashedRadioactiveShipPart.label>разбитая радиоактивная часть корабля</CrashedRadioactiveShipPart.label>-->
+  <!--<CrashedRadioactiveShipPart.description>Таинственный кусок разбитого космического корабля. Он может содержать экзотические материалы, компьютеры, ИИ. Кажется, что он излучает высокий уровень радиации.</CrashedRadioactiveShipPart.description>-->
+
+</LanguageData>
