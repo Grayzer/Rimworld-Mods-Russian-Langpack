@@ -111,14 +111,16 @@
   <submit_button_enabled_desc>Кнопка Отправить позволяет вам пропустить более смертоносную часть и получить право на более унизительную. \nВыключите  если честь превыше жизни для вас. \nПомните, что если вы передумаете, оно всегда будет здесь и ждет вас.</submit_button_enabled_desc>
   <RJW_designation_box>Показать обозначения RJW</RJW_designation_box>
   <RJW_designation_box_desc>Переключает отображение группы кнопок RJW в графическом интерфейсе управления пешкой.</RJW_designation_box_desc>
-  <DebugLogJoinInBed>Информация о поиске подключения журнала отладки</DebugLogJoinInBed>
-  <DebugLogJoinInBed_desc>Включает некоторые очень спамовые журналы отладки, чтобы помочь найти ошибки в операциях JoinInBed. \nТолько разработчики (или кто-то, кто помогает им найти ошибку) должны включить это.</DebugLogJoinInBed_desc>
+  <StackRjwParts_name>Rjw складывать части</StackRjwParts_name>
+  <StackRjwParts_desc>Сладывать RJW части во вкладке здоровья пешки \n(Метка x кол-во)</StackRjwParts_desc>
   <WildMode_name>Дикий мод</WildMode_name>
   <WildMode_desc>ЭКСПЕРЕМЕНТАЛЬНО. Нет правил для секса. Все ограничения сняты. Наслаждайтесь дикой стороной RimWorld.</WildMode_desc>
-  <DevMode_name>Режим Разработчика</DevMode_name>
-  <DevMode_desc>Включает ведение журнала RimJobWorld и прочее. Вы обычно не хотите, чтобы это было включено.</DevMode_desc>
   <GenderlessAsFuta_name>БесполыеКакФутанари</GenderlessAsFuta_name>
   <GenderlessAsFuta_desc>ИСПОЛЬЗУЙТЕНАСВОЙСТРАХИРИСК. \n\nБесполые пешки будут установлены как женщины и имеют оба набора гениталий.</GenderlessAsFuta_desc>
+  <DevMode_name>Режим Разработчика</DevMode_name>
+  <DevMode_desc>Включает ведение журнала RimJobWorld и прочее. Вы обычно не хотите, чтобы это было включено.</DevMode_desc>
+  <DebugLogJoinInBed>Информация о поиске подключения журнала отладки</DebugLogJoinInBed>
+  <DebugLogJoinInBed_desc>Включает некоторые очень спамовые журналы отладки, чтобы помочь найти ошибки в операциях JoinInBed. \nТолько разработчики (или кто-то, кто помогает им найти ошибку) должны включить это.</DebugLogJoinInBed_desc>
 
   <!-- Pregnancy stuff-->
   <RJWSettingsTwo>RimJobWorld - Настройки беременности</RJWSettingsTwo>
@@ -222,7 +224,16 @@
   <fisting_desc>Частота анального фистинга (вагинальный еще не реализован). Требуется чтобы один партнер имел рабочую руку. Обратите внимание, что эта частота дополнительно регулируется такими факторами, как порка, изнасилование и т.д.\n\nДопустимый диапазон: 1 - 200\nПо умолчанию: 30</fisting_desc>
   <sixtynine>Частота позы 69 frequency</sixtynine>
   <sixtynine_desc>Частота 69 (взаимный орал). Требуется, чтобы оба партнера имели гениталии. Обратите внимание, что эта частота дополнительно регулируется такими факторами, как порка, изнасилование и т.д.\n\nДопустимый диапазон: 1 - 200\nПо умолчанию: 69</sixtynine_desc>
-  <!--[Core] <Reset>Сбросить</Reset>-->
+  <FapEverywhere>Дрочка везде</FapEverywhere>
+  <FapEverywhere_desc>Пешка будет мастурбировать там, где захочет.</FapEverywhere_desc>
+  <FapInBed>Дрочка в кровати</FapInBed>
+  <FapInBed_desc>Пешка будет мастурбировать в своей постели.</FapInBed_desc>
+
+  <Malesex>Допускается мужской секс: </Malesex>
+  <FeMalesex>Допускается женский секс: </FeMalesex>
+  <AllowedSex.All>Все</AllowedSex.All>
+  <AllowedSex.Homo>Геи</AllowedSex.Homo>
+  <AllowedSex.Nohomo>Гетеро</AllowedSex.Nohomo>
 
   <SexClothing>Предпочитаемая одежда для секса: </SexClothing>
   <SexClothingNude>Без одежды</SexClothingNude>
@@ -245,13 +256,13 @@
   <SexualityPansexual>  Пансексуал: </SexualityPansexual>
   <SexualityHeterosexual>  Гетеросексуал: </SexualityHeterosexual>
   <SexualityBisexual>  Бисексуал: </SexualityBisexual>
-  <SexualityGay>  Гэй: </SexualityGay>
+  <SexualityGay>  Гей: </SexualityGay>
 
   <SexualityAsexual_desc>Низкое или несуществующее сексуальное влечение, как правило, не заинтересованное в сексе.</SexualityAsexual_desc>
   <SexualityPansexual_desc>Пансексуалы полностью игнорируют пол.</SexualityPansexual_desc>
   <SexualityHeterosexual_desc>Гетеросексуалов привлекает противоположный пол.</SexualityHeterosexual_desc>
   <SexualityBisexual_desc>Бисексуалов привлекают как мужчины, так и женщины. (мальчик, девочка... какая в жопу разница...)</SexualityBisexual_desc>
-  <SexualityGay_desc>Гомосексуалистов привлекают к тому же полу.</SexualityGay_desc>
+  <SexualityGay_desc>Гомосексуалистов привлекает к тому же полу.</SexualityGay_desc>
 
 
   <!-- Mod strings -->
@@ -272,7 +283,7 @@
   <PawnCantRapeCP2>Существо не зоофил, не может насиловать животных.</PawnCantRapeCP2>
 
   <!--Submit button-->
-  <CommandSubmit>Отправить</CommandSubmit>
+  <CommandSubmit>Сдасться</CommandSubmit>
   <CommandSubmitDesc>Ложись и прими все, что нужно чтобы кончить.</CommandSubmitDesc>
 
   <!--Preganancy messages-->
@@ -297,7 +308,7 @@
 
   <!--Whore-->
   <ForService>Назначить шлюхой</ForService>  <!-- This field is not visible -->
-  <ForServiceDesc>Включить зацепку
+  <ForServiceDesc>Включить обслуживание
 - Постарается пообщаться с посетителями.
 - Развлекает других колонистов, если не занят.
 - Попытки воздержаться от мастурбации во время работы могут вызвать разочарование.
@@ -365,7 +376,7 @@
 - Привлекается к пешкам с умными чертами, такими как Быстрое обучение и Очень умный.
 - Отбрасывает пешек, неспособных к интеллектуальному.
 </SapiosexualQuirk>
-  <FertileQuirk>Плодородность
+  <FertileQuirk>Плодовитость
 - Обладает необычно высокой базовой плодовитостью.
 </FertileQuirk>
   <InfertileQuirk>Бесплодие

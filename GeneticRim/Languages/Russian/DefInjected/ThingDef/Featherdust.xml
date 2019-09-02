@@ -2,7 +2,7 @@
 <LanguageData>
 
   <GR_FeatherdustJoint.label>пыльник</GR_FeatherdustJoint.label>
-  <GR_FeatherdustJoint.description>Перья медвецыпа могут быть собраны и переработаны в мелкий порошок, который вызывает легкое эйфорическое ощущение при сжигании и вдыхании. Использование Пыльника может привести к зависимости.</GR_FeatherdustJoint.description>
+  <GR_FeatherdustJoint.description>Перья медвекура могут быть собраны и переработаны в мелкий порошок, который вызывает легкое эйфорическое ощущение при сжигании и вдыхании. Использование Пыльника может привести к зависимости.</GR_FeatherdustJoint.description>
   <GR_FeatherdustJoint.ingestible.ingestCommandString>Курить {0}</GR_FeatherdustJoint.ingestible.ingestCommandString>
   <GR_FeatherdustJoint.ingestible.ingestReportString>Курит {0}.</GR_FeatherdustJoint.ingestible.ingestReportString>
 

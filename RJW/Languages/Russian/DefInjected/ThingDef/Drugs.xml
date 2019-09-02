@@ -10,7 +10,7 @@
 
   <!-- As usual stolen from CnP -->
 
-  <RJW_Contraceptive.label>Контрацептивы</RJW_Contraceptive.label>
+  <RJW_Contraceptive.label>Противозачаточные</RJW_Contraceptive.label>
   <RJW_Contraceptive.description>Наносит сильный удар по плодовитости за один прием.</RJW_Contraceptive.description>
   <RJW_Contraceptive.ingestible.ingestCommandString>Взять {0}</RJW_Contraceptive.ingestible.ingestCommandString>
   <RJW_Contraceptive.ingestible.ingestReportString>Берет {0}.</RJW_Contraceptive.ingestible.ingestReportString>
