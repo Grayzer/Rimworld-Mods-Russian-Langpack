@@ -77,25 +77,25 @@
   <Make_ControlRodActuator.description>Сделать привод управления стержнем.</Make_ControlRodActuator.description>
   <Make_ControlRodActuator.jobString>делает привод управления стержнем.</Make_ControlRodActuator.jobString>
 
-  <Make_ATOM.label>сделать ATOM</Make_ATOM.label>
-  <Make_ATOM.description>Сделать ATOM.</Make_ATOM.description>
-  <Make_ATOM.jobString>делает ATOM.</Make_ATOM.jobString>
+  <Make_ATOM.label>сделать ПДУ</Make_ATOM.label>
+  <Make_ATOM.description>Сделать ПДУ.</Make_ATOM.description>
+  <Make_ATOM.jobString>делает ПДУ.</Make_ATOM.jobString>
 
-  <Make_SCAD.label>сделать SCAD</Make_SCAD.label>
-  <Make_SCAD.description>Сделать SCAD.</Make_SCAD.description>
-  <Make_SCAD.jobString>делает SCAD.</Make_SCAD.jobString>
+  <Make_SCAD.label>сделать СДЗ</Make_SCAD.label>
+  <Make_SCAD.description>Сделать СДЗ.</Make_SCAD.description>
+  <Make_SCAD.jobString>делает СДЗ.</Make_SCAD.jobString>
 
-  <Make_MEPS.label>сделать МСЭ</Make_MEPS.label>
-  <Make_MEPS.description>Сделать МСЭ.</Make_MEPS.description>
-  <Make_MEPS.jobString>делает МСЭ.</Make_MEPS.jobString>
+  <Make_MEPS.label>сделать МЭС</Make_MEPS.label>
+  <Make_MEPS.description>Сделать МЭС.</Make_MEPS.description>
+  <Make_MEPS.jobString>делает МЭС.</Make_MEPS.jobString>
 
   <Make_ALC.label>сделать ПЖО</Make_ALC.label>
   <Make_ALC.description>Сделать ПЖО.</Make_ALC.description>
   <Make_ALC.jobString>делает ПЖО.</Make_ALC.jobString>
 
-  <Make_ERS.label>сделать СРЭ</Make_ERS.label>
-  <Make_ERS.description>Сделать СРЭ.</Make_ERS.description>
-  <Make_ERS.jobString>делает СРЭ.</Make_ERS.jobString>
+  <Make_ERS.label>сделать СЭР</Make_ERS.label>
+  <Make_ERS.description>Сделать СЭР.</Make_ERS.description>
+  <Make_ERS.jobString>делает СЭР.</Make_ERS.jobString>
 
   <Make_DriveActuator.label>сделать привод управления</Make_DriveActuator.label>
   <Make_DriveActuator.description>Сделать привод управления.</Make_DriveActuator.description>

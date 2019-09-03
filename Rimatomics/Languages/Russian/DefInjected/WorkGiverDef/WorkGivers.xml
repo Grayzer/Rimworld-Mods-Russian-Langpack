@@ -45,9 +45,9 @@
   <RimatomicsResearch.verb>исследование</RimatomicsResearch.verb>
   <RimatomicsResearch.gerund>исследовать на</RimatomicsResearch.gerund>
 
-  <RimatomicsSuperviseResearch.label>do Supervise research</RimatomicsSuperviseResearch.label>
-  <RimatomicsSuperviseResearch.verb>Supervise research</RimatomicsSuperviseResearch.verb>
-  <RimatomicsSuperviseResearch.gerund>researching at</RimatomicsSuperviseResearch.gerund>
+  <RimatomicsSuperviseResearch.label>надзор за исследованиями</RimatomicsSuperviseResearch.label>
+  <RimatomicsSuperviseResearch.verb>Надзор за исследованиями</RimatomicsSuperviseResearch.verb>
+  <RimatomicsSuperviseResearch.gerund>исследуется</RimatomicsSuperviseResearch.gerund>
 
   <RimatomicsConstruction.label>исследование</RimatomicsConstruction.label>
   <RimatomicsConstruction.verb>исследование</RimatomicsConstruction.verb>

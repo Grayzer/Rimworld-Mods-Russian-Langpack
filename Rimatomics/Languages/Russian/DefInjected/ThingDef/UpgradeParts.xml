@@ -4,20 +4,20 @@
   <ControlRodActuator.label>привод управления стержнем</ControlRodActuator.label>
   <ControlRodActuator.description>Части для модернизации ядерного реактора Rimatomics.</ControlRodActuator.description>
 
-  <ATOM.label>ATOM</ATOM.label>
-  <ATOM.description>Части для модернизации TACS (Total Access Communications System -  система связи общего доступа)</ATOM.description>
+  <ATOM.label>ПДУ</ATOM.label>
+  <ATOM.description>Продвинутый детектор угроз (ПДУ). Модуль для ручной модернизации СОЦИС. (ATOM - Advanced Thread Detection Module)</ATOM.description>
 
-  <SCAD.label>SCAD</SCAD.label>
-  <SCAD.description>Части для модернизации энергетического оружия Rimatomics.</SCAD.description>
+  <SCAD.label>СДЗ</SCAD.label>
+  <SCAD.description>Суперконденсатор Дуговой Защиты. Части для модернизации энергетического оружия Rimatomics. (SCAD - Super Capacitor Arc Defence system)</SCAD.description>
 
-  <MEPS.label>МСЭ</MEPS.label>
-  <MEPS.description>Части для модернизации энергетического оружия Rimatomics.</MEPS.description>
+  <MEPS.label>МЭС</MEPS.label>
+  <MEPS.description>Модульная Электро Система (МЭС). Части для модернизации энергетического оружия Rimatomics. (MEPS - Modular Electric Power System)</MEPS.description>
 
   <ALC.label>ПЖО</ALC.label>
-  <ALC.description>Части для модернизации энергетического оружия Rimatomics.</ALC.description>
+  <ALC.description>Продвинутый Жидкостный Охладитель (ПЖО). Части для модернизации энергетического оружия Rimatomics. (ALC - Advanced Liquid Cooler)</ALC.description>
 
-  <ERS.label>СРЭ</ERS.label>
-  <ERS.description>Части для модернизации энергетического оружия Rimatomics.</ERS.description>
+  <ERS.label>СЭР</ERS.label>
+  <ERS.description>Система Энергетической Рекуперации (СЭР).Части для модернизации энергетического оружия Rimatomics. (ERS - Energy Recovery System)</ERS.description>
 
   <DriveActuator.label>привод управления</DriveActuator.label>
   <DriveActuator.description>Части для модернизации энергетического оружия Rimatomics.</DriveActuator.description>

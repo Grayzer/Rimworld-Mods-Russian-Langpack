@@ -25,8 +25,8 @@
   <RADIATIONLEAK>    ::УТЕЧКА РАДИАЦИИ::</RADIATIONLEAK>
   <RADIATIONLEAKSYSTEM>    ::РАДИАЦИЯ В СИСТЕМЕ::</RADIATIONLEAKSYSTEM>
 
-  <PodsScrambledOK>Вражеская точка высадки была зашифрована TACS</PodsScrambledOK>
-  <PodsScrambledDesc>Системы наведения высадки капсул противника зашифрованы TACS с использованием импульса в {0} кВт</PodsScrambledDesc>
+  <PodsScrambledOK>Вражеская точка высадки была зашифрована СОЦИС</PodsScrambledOK>
+  <PodsScrambledDesc>Системы наведения высадки капсул противника зашифрованы СОЦИС с использованием импульса в {0} кВт</PodsScrambledDesc>
   <PodsScrambledFail>Не удалось зашифровать вражескую точку высадки</PodsScrambledFail>
   <PodsScrambledFailDesc>Импульс в {0} квт, необходимый для дешифровки этого рейда, был недоступен</PodsScrambledFailDesc>
   <ScrambleDropPods>Шифровка точки высадки</ScrambleDropPods>
@@ -79,8 +79,8 @@
   <ATOMattackGround>через землю</ATOMattackGround>
   <ATOMattackPods>через капсулы высадки</ATOMattackPods>
   <ATOMdetection>Угроза обнаружена!</ATOMdetection>
-  <ATOMdetectionDesc>TACS обнаружил возможную угрозу, по оценкам, {0} атакует {1} примерно через {2}</ATOMdetectionDesc>
-  <ScadLivesMatter>SCAD HP: {0}</ScadLivesMatter>
+  <ATOMdetectionDesc>СОЦИС обнаружил возможную угрозу, по оценкам, {0} атакует {1} примерно через {2}</ATOMdetectionDesc>
+  <ScadLivesMatter>СДЗ HP: {0}</ScadLivesMatter>
   <Detonating>Детонация...</Detonating>
   <KillCounter>Убийств: {0}</KillCounter>
   <energyWepLoadedShell>Загружено: {0}</energyWepLoadedShell>
@@ -127,7 +127,7 @@
   <fuelCracked>Трещина!</fuelCracked>
   <Managefuel>Управлять</Managefuel>
   <RoofedTower>Башня перекрыта крышей</RoofedTower>
-  <TurbineRPM>RPM: {0} ({1}%)</TurbineRPM>
+  <TurbineRPM>Обороты: {0} ({1}%)</TurbineRPM>
   <TradeShipWait>Торговое судно Rimatomics готово в {0}</TradeShipWait>
   <critsetid>Выбрать ID</critsetid>
   <critCoolingCapShare>Доля мощности охлаждения: {0} с {1} турбинами</critCoolingCapShare>

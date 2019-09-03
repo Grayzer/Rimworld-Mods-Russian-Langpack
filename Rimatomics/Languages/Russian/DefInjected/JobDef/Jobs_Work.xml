@@ -2,8 +2,8 @@
 <LanguageData>
 
   <RimatomicsResearch.reportString>исследует на TargetA.</RimatomicsResearch.reportString>
-  <SuperviseConstruction.reportString>Constructing TargetA.</SuperviseConstruction.reportString>
-  <SuperviseResearch.reportString>Researching at TargetA.</SuperviseResearch.reportString>
+  <SuperviseConstruction.reportString>строит TargetA.</SuperviseConstruction.reportString>
+  <SuperviseResearch.reportString>исследует на TargetA.</SuperviseResearch.reportString>
   <UpgradeBuilding.reportString>модернизирует TargetA.</UpgradeBuilding.reportString>
   <FleeADS.reportString>спасается бегством от TargetA.</FleeADS.reportString>
   <LoadRailgunMagazine.reportString>заряжает магазин рельсотрона</LoadRailgunMagazine.reportString>
