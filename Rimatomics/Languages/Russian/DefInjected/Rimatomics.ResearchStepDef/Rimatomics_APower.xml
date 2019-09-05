@@ -4,9 +4,9 @@
 
   <!--Radiation detectors-->
 
-    <Geigercounter.ResearchLabel>Портативные детекторы излучения</Geigercounter.ResearchLabel>
+    <Geigercounter.ResearchLabel>Счетчик Гейгера</Geigercounter.ResearchLabel>
     <Geigercounter.ProjTypeLabel>Пассивная способность</Geigercounter.ProjTypeLabel>
-    <Geigercounter.ResearchDesc>Важно защитить колонистов от воздействия опасного уровня радиации. Rimatomics предлагает портативные устройства, которые могут быть использованы для обнаружения ионизирующего излучения. Все колонисты будут оснащены детекторами излучения, чтобы при ионизирующих событиях слышались щелчки. Мощность дозы отображается в виде текста.</Geigercounter.ResearchDesc>
+    <Geigercounter.ResearchDesc>Портативные детекторы излучения. Важно защитить колонистов от воздействия опасного уровня радиации. Rimatomics предлагает портативные устройства, которые могут быть использованы для обнаружения ионизирующего излучения. Все колонисты будут оснащены детекторами излучения, чтобы при ионизирующих событиях слышались щелчки. Мощность дозы отображается в виде текста.</Geigercounter.ResearchDesc>
     <Geigercounter.ResearchDescDisc>Все колонисты сейчас оснащены детекторами излучения. Ионизирующие события производят слышимые щелчки, а мощность дозы отображается в виде текста с силой в диапазоне от 0 до 5.</Geigercounter.ResearchDescDisc>
 
     <Geigercounter1.label>Исследование радиационных детекторов</Geigercounter1.label>
@@ -30,9 +30,9 @@
 
   <!--Nuclear research-->
 
-    <NuclearResearch.ResearchLabel>Ядерный исследовательский реактор</NuclearResearch.ResearchLabel>
+    <NuclearResearch.ResearchLabel>Исследовательский ЯР</NuclearResearch.ResearchLabel>
     <NuclearResearch.ProjTypeLabel>Исследовательский центр</NuclearResearch.ProjTypeLabel>
-    <NuclearResearch.ResearchDesc>Прежде чем ваши колонисты смогут построить полномасштабные ядерные реакторы Rimatomics или другие ядерные технологии, они должны сначала изучить и исследовать эти технологии, используя исследовательский реактор.</NuclearResearch.ResearchDesc>
+    <NuclearResearch.ResearchDesc>Ядерный исследовательский реактор. Прежде чем ваши колонисты смогут построить полномасштабные ядерные реакторы Rimatomics или другие ядерные технологии, они должны сначала изучить и исследовать эти технологии, используя исследовательский реактор.</NuclearResearch.ResearchDesc>
     <NuclearResearch.ResearchDescDisc>Более продвинутые исследования теперь доступны.</NuclearResearch.ResearchDescDisc>
 
     <NuclearResearch1.label>Технология исследовательских реакторов</NuclearResearch1.label>
@@ -96,9 +96,9 @@
 
   <!--Advanced nuclear power-->
 
-    <AdvReactor.ResearchLabel>Передовая ядерная энергетика</AdvReactor.ResearchLabel>
+    <AdvReactor.ResearchLabel>Передовая ЯЭ</AdvReactor.ResearchLabel>
     <AdvReactor.ProjTypeLabel>Энергия</AdvReactor.ProjTypeLabel>
-    <AdvReactor.ResearchDesc>Исследоватние реакторов, которые могут генерировать больше делящихся материалов, чем они потребляют, и турбинного генератора Зевс, способного генерировать до 1 МВт энергии.</AdvReactor.ResearchDesc>
+    <AdvReactor.ResearchDesc>Передовая ядерная энергетика. Исследоватние реакторов, которые могут генерировать больше делящихся материалов, чем они потребляют, и турбинного генератора Зевс, способного генерировать до 1 МВт энергии.</AdvReactor.ResearchDesc>
     <AdvReactor.ResearchDescDisc>Вы можете построить усовершенствованные реакторы и турбину Зевса.</AdvReactor.ResearchDescDisc>
 
     <AdvReactor1.label>Эксперимент с исследовательскими реакторами (Высокий риск)</AdvReactor1.label>

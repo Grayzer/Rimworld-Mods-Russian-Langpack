@@ -11,7 +11,7 @@
 	<Cooler_Over2W.description>Кондиционер будет размещен в стене.</Cooler_Over2W.description>
 	<Blueprint_Cooler_Over2W.label>встроенный (план)</Blueprint_Cooler_Over2W.label>
 	<Blueprint_Cooler_Over2W.description>Кондиционер будет размещен в стене.</Blueprint_Cooler_Over2W.description>
-	<Frame_Cooler_Over2Wlabel>встроенный кондиционер (строится)</Frame_Cooler_Over2W.label>
+	<Frame_Cooler_Over2W.label>встроенный кондиционер (строится)</Frame_Cooler_Over2W.label>
 	<Frame_Cooler_Over2W.description>Кондиционер будет размещен в стене.</Frame_Cooler_Over2W.description>
 	<Vent_Over.label>встроенная вентиляция</Vent_Over.label>
 	<Vent_Over.description>Вентиляция будет размещена в стене</Vent_Over.description>

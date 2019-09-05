@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <ResearchControlRodActuators.ResearchLabel>Привод Управления Стержнем</ResearchControlRodActuators.ResearchLabel>
+    <ResearchControlRodActuators.ResearchLabel>ПУС</ResearchControlRodActuators.ResearchLabel>
     <ResearchControlRodActuators.ProjTypeLabel>Улучшение</ResearchControlRodActuators.ProjTypeLabel>
-    <ResearchControlRodActuators.ResearchDesc>Увеличивает скорость управляющих стержней, что увеличивает скорость реагирования на изменения уровня потока и увеличивает скорость отключения.</ResearchControlRodActuators.ResearchDesc>
+    <ResearchControlRodActuators.ResearchDesc>Привод Управления Стержнем. Увеличивает скорость управляющих стержней, что увеличивает скорость реагирования на изменения уровня потока и увеличивает скорость отключения.</ResearchControlRodActuators.ResearchDesc>
     <ResearchControlRodActuators.ResearchDescDisc>Теперь вы можете производить Приводы Управления Стержнем на верстаке Rimatomics, чтобы установить их в активную зону реактора, выбрать ядро и переключить Приводы Управления Стержнем. Затем реактор должен быть остановлен перед установкой.</ResearchControlRodActuators.ResearchDescDisc>
 
-    <ResearchControlRodActuators.stats>
-      <li>Увеличивает реакцию управления стержнями</li>
-        </ResearchControlRodActuators.stats>
+    <ResearchControlRodActuators.stats.0>Увеличивает реакцию управления стержнями</ResearchControlRodActuators.stats.0>
 
     <ControlRodActuators1.label>Исследование ядерных реакторов</ControlRodActuators1.label>
     <ControlRodActuators1.description>Эксперимент с исследовательским реактором и план испытаний, которые могут быть выполнены на активной зоне реактора.</ControlRodActuators1.description>
@@ -74,9 +72,7 @@
     <ResearchALC.ResearchDesc>Продвинутый Жидкостный Охладитель (ПЖО) - это универсальная система охлаждения, предназначенная для работы со всем энергетическим оружием Rimatomics. Благодаря увеличению охлаждающей способности оружия и его систем доставки энергии время - перезарядки может быть уменьшено.</ResearchALC.ResearchDesc>
     <ResearchALC.ResearchDescDisc>Теперь вы можете производить модули ПЖО за верстаком Rimatomics, чтобы установить их в энергетическое оружие Rimatomics, выберите оружие и включите кнопку ПЖО.</ResearchALC.ResearchDescDisc>
 
-    <ResearchALC.stats>
-      <li>Перезарядка -15%</li>
-        </ResearchALC.stats>
+    <ResearchALC.stats.0>Перезарядка -15%</ResearchALC.stats.0>
 
     <ALC1.label>Исследования ПЖО (ALC)</ALC1.label>
     <ALC1.description>Опытный исследователь должен спланировать серию испытаний, которые могут быть выполнены на энергетическом оружии Rimatomics, чтобы собрать данные для анализа.</ALC1.description>
@@ -94,9 +90,7 @@
     <ResearchERS.ResearchDesc>Система Энергетической Рекуперации (СЭР) использует комбинацию методов рекуперации энергии для сбора кинетической и тепловой энергии и возврата ее в ИСК после того, как оружие произвело выстрел.</ResearchERS.ResearchDesc>
     <ResearchERS.ResearchDescDisc>Теперь вы можете производить модули СЭР за верстаком Rimatomics, чтобы установить их в энергетическое оружие Rimatomics, выберите оружие и нажмите кнопку СЭР.</ResearchERS.ResearchDescDisc>
 
-    <ResearchERS.stats>
-      <li>Размер импульса -15%</li>
-        </ResearchERS.stats>
+    <ResearchERS.stats.0>Размер импульса -15%</ResearchERS.stats.0>
 
     <ERS1.label>Исследования СЭР (ERS)</ERS1.label>
     <ERS1.description>Опытный исследователь должен спланировать серию испытаний, которые могут быть выполнены на энергетическом оружии Rimatomics, чтобы собрать данные для анализа</ERS1.description>
@@ -114,9 +108,7 @@
     <ResearchSCAD.ResearchDesc>Суперконденсатор Дуговой Защиты (СДЗ) представляет собой дополнительный слой брони, который наносится на энергетическое оружие Rimatomics. Состоит из конструкционных композитных суперконденсаторов. Броня защищает оружие, заряжаясь с помощью гальванического покрытия, а затем высвобождая электромагнитный дуговой разряд, который отклоняет или испаряет поступающие снаряды, уменьшая общий получаемый урон на 90%. СДЗ является расходной системой с ограниченным использованием и нуждается в замене.</ResearchSCAD.ResearchDesc>
     <ResearchSCAD.ResearchDescDisc>Теперь вы можете производить модули СДЗ за верстаком Rimatomics, чтобы установить их в энергетическое оружие Rimatomics, выберите оружие и нажмите кнопку СДЗ.\n\nСДЗ должен быть установлен вручную в каждом новом здании.</ResearchSCAD.ResearchDescDisc>
 
-    <ResearchSCAD.stats>
-      <li>Добавляет щит</li>
-        </ResearchSCAD.stats>
+    <ResearchSCAD.stats.0>Добавляет щит</ResearchSCAD.stats.0>
 
     <SCAD1.label>Исследования СДЗ (SCAD)</SCAD1.label>
     <SCAD1.description>Опытный исследователь должен спланировать серию испытаний, которые могут быть выполнены на энергетическом оружии Rimatomics, чтобы собрать данные для анализа</SCAD1.description>
@@ -134,9 +126,7 @@
     <ResearchDriveActuator.ResearchDesc>Повышение точности стабилизации и скорости поворота для башенного энергетического оружия Rimatomics. Этот двигатель с высоким крутящим моментом устраняет необходимость в коробке передач между двигателем и нагрузкой и обеспечивает низкую инерцию привода для превосходных характеристик стабилизации и высокой жесткости с муфтой без люфта.</ResearchDriveActuator.ResearchDesc>
     <ResearchDriveActuator.ResearchDescDisc>Теперь вы можете производить Привод Управления за верстаком Rimatomics, чтобы установить их в энергетическое оружие на основе башни, выберите оружие и нажмите кнопку Привод Управления для установки.</ResearchDriveActuator.ResearchDescDisc>
 
-    <ResearchDriveActuator.stats>
-      <li>Скорость башни 200%</li>
-        </ResearchDriveActuator.stats>
+    <ResearchDriveActuator.stats.0>Скорость башни 200%</ResearchDriveActuator.stats.0>
 
     <DriveActuator1.label>Исследования Привод Управления</DriveActuator1.label>
     <DriveActuator1.description>Опытный исследователь должен экспериментировать на стенде исследования оружия.</DriveActuator1.description>
@@ -151,10 +141,8 @@
     <ResearchRailgun_TargetingChip.ResearchDesc>Увеличение дальности и точности рельсотрона, Проверьте систему на любой цели, чтобы собрать данные для анализа.</ResearchRailgun_TargetingChip.ResearchDesc>
     <ResearchRailgun_TargetingChip.ResearchDescDisc>Теперь вы можете производить Чип Наведения за верстаком Rimatomics, чтобы установить их в рельсотрон, нужно выбрать рельсотрон и нажать кнопку Чип Наведения.</ResearchRailgun_TargetingChip.ResearchDescDisc>
 
-    <ResearchRailgun_TargetingChip.stats>
-      <li>Разброс Миссии Огонь -50%</li>
-      <li>Дальность +10 клеток</li>
-        </ResearchRailgun_TargetingChip.stats>
+    <ResearchRailgun_TargetingChip.stats.0>Разброс Миссии Огонь -50%</ResearchRailgun_TargetingChip.stats.0>
+    <ResearchRailgun_TargetingChip.stats.1>Дальность +10 клеток</ResearchRailgun_TargetingChip.stats.1>
 
     <Railgun_TargetingChip1.label>Исследования Чип Наведения</Railgun_TargetingChip1.label>
     <Railgun_TargetingChip1.description>Опытный исследователь должен спланировать серию тестов, которые могут быть выполнены на рельсотроне для сбора данных для анализа.</Railgun_TargetingChip1.description>
@@ -172,10 +160,8 @@
     <ResearchObelisk_LenseModule.ResearchDesc>Эффективная дальность действия Обелиска может быть увеличена путем улучшения фокусировки и коллимации основного луча.</ResearchObelisk_LenseModule.ResearchDesc>
     <ResearchObelisk_LenseModule.ResearchDescDisc>Теперь вы можете изготовить Модуль Линзы за верстаком Rimatomics, чтобы установить его в обелиск, нужно выбрать обелиск и нажать кнопку Модуль Линзы.</ResearchObelisk_LenseModule.ResearchDescDisc>
 
-    <ResearchObelisk_LenseModule.stats>
-      <li>Дальность +10</li>
-      <li>Мин. дальность +10</li>
-        </ResearchObelisk_LenseModule.stats>
+    <ResearchObelisk_LenseModule.stats.0>Дальность +10</ResearchObelisk_LenseModule.stats.0>
+    <ResearchObelisk_LenseModule.stats.1>Мин. дальность +10</ResearchObelisk_LenseModule.stats.1>
 
     <LenseModule1.label>Исследования Модуль Линзы</LenseModule1.label>
     <LenseModule1.description>Опытный исследователь должен спланировать серию тестов, которые можно выполнить на Обелиске, чтобы собрать данные для анализа.</LenseModule1.description>
@@ -193,9 +179,7 @@
     <ResearchObelisk_BeamSplitter.ResearchDesc>Лазер Обелиска может быть разделен с использованием светоделителя. Вторичный луч настроен на определенную длину волны и в состояние поляризации, которое отключает персональные щиты. Первичный луч задерживается на долю секунды и затем доставляется с полной мощностью к цели.</ResearchObelisk_BeamSplitter.ResearchDesc>
     <ResearchObelisk_BeamSplitter.ResearchDescDisc>Теперь вы можете производить Делитель Луча на верстаке Rimatomics, чтобы установить их в обелиск, нужно выбирать обелиск и нажать кнопку Делитель Луча.</ResearchObelisk_BeamSplitter.ResearchDescDisc>
 
-    <ResearchObelisk_BeamSplitter.stats>
-      <li>Ломает щиты и наносит урон</li>
-        </ResearchObelisk_BeamSplitter.stats>
+    <ResearchObelisk_BeamSplitter.stats.0>Ломает щиты и наносит урон</ResearchObelisk_BeamSplitter.stats.0>
 
     <BeamSplitter1.label>Исследования Делитель Луча</BeamSplitter1.label>
     <BeamSplitter1.description>Опытный исследователь должен спланировать серию тестов, которые можно выполнить на Обелиске, чтобы собрать данные для анализа.</BeamSplitter1.description>
