@@ -192,7 +192,7 @@
 
   <TradeShipPrice>Заказать торговое судно ({0} серебра)</TradeShipPrice>
   <TradeShipPriceNeed>Нужно {0} серебра, чтобы заказать торговый корабль</TradeShipPriceNeed>
-  <TradeShipCooldown>Охлаждение торгового корабля: {0}</TradeShipCooldown>
+  <TradeShipCooldown>Перезарядка вызова: {0}</TradeShipCooldown>
   <TradeShipArrival>Прибытие торгового корабля: {0}</TradeShipArrival>
 
   <TradeShipReq>Торговое судно Rimatomics отправлено на вашу планету.\n\nПотребуется 2 дня.</TradeShipReq>
