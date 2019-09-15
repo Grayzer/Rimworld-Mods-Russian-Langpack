@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TradingSpot.label>место торговли</TradingSpot.label>
+  <TradingSpot.description>Обозначает место, где остановятся торговцы при посещении вашей колонии.</TradingSpot.description>
+  <TradingSpot_Blueprint.label>место торговли (чертеж)</TradingSpot_Blueprint.label>
+  <TradingSpot_Frame.label>место торговли (стройка)</TradingSpot_Frame.label>
+  <TradingSpot_Frame.description>Обозначает место, где остановятся торговцы при посещении вашей колонии.</TradingSpot_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MachineLearningAssembler.label>Самокорректирующий сборщик</MachineLearningAssembler.label>
+  <MachineLearningAssembler.description>Автоматический крафтер управляется компьютером. Медленно улучшается рецепт, тем больше он их завершает. Тем не менее, он также становится немного хуже с течением времени.</MachineLearningAssembler.description>
+  <MachineLearningAssembler_Blueprint.label>Самокорректирующий сборщик (чертеж)</MachineLearningAssembler_Blueprint.label>
+  <MachineLearningAssembler_Blueprint_Install.label>Самокорректирующий сборщик (чертеж)</MachineLearningAssembler_Blueprint_Install.label>
+  <MachineLearningAssembler_Frame.label>Самокорректирующий сборщик (стройка)</MachineLearningAssembler_Frame.label>
+  <MachineLearningAssembler_Frame.description>Автоматический крафтер управляется компьютером. Медленно улучшается рецепт, тем больше он их завершает. Тем не менее, он также становится немного хуже с течением времени.</MachineLearningAssembler_Frame.description>
+
+  <UniversalAssembler.label>Универсальный сборщик</UniversalAssembler.label>
+  <UniversalAssembler.description>Автоматический крафтер управляется компьютером. Читает инструкции рецептов из базы данных рецептов.</UniversalAssembler.description>
+  <UniversalAssembler_Blueprint.label>Универсальный сборщик (чертеж)</UniversalAssembler_Blueprint.label>
+  <UniversalAssembler_Blueprint_Install.label>Универсальный сборщик (чертеж)</UniversalAssembler_Blueprint_Install.label>
+  <UniversalAssembler_Frame.label>Универсальный сборщик (стройка)</UniversalAssembler_Frame.label>
+  <UniversalAssembler_Frame.description>Автоматический крафтер управляется компьютером. Читает инструкции рецептов из базы данных рецептов.</UniversalAssembler_Frame.description>
+
+  <SelfCooker.label>Автоматическая плита</SelfCooker.label>
+  <SelfCooker.description>Машина, которая может самостоятельно готовить еду. Просто посмотри на это!</SelfCooker.description>
+  <SelfCooker_Blueprint.label>Автоматическая плита (чертеж)</SelfCooker_Blueprint.label>
+  <SelfCooker_Blueprint_Install.label>Автоматическая плита (чертеж)</SelfCooker_Blueprint_Install.label>
+  <SelfCooker_Frame.label>Автоматическая плита (стройка)</SelfCooker_Frame.label>
+  <SelfCooker_Frame.description>Машина, которая может самостоятельно готовить еду. Просто посмотри на это!</SelfCooker_Frame.description>
+
+
+  <!-- Recipe database -->
+
+  <RecipeDatabase.label>База данных рецептов</RecipeDatabase.label>
+  <RecipeDatabase.description>Сохраняет рецепты для использования интеллектуальными ассемблерами и импортирует рецепты из смежных рабочих таблиц. Интересно, что все эти кнопки делают...</RecipeDatabase.description>
+  <RecipeDatabase_Blueprint.label>База данных рецептов (чертеж)</RecipeDatabase_Blueprint.label>
+  <RecipeDatabase_Blueprint_Install.label>База данных рецептов (чертеж)</RecipeDatabase_Blueprint_Install.label>
+  <RecipeDatabase_Frame.label>База данных рецептов (стройка)</RecipeDatabase_Frame.label>
+  <RecipeDatabase_Frame.description>Сохраняет рецепты для использования интеллектуальными ассемблерами и импортирует рецепты из смежных рабочих таблиц. Интересно, что все эти кнопки делают...</RecipeDatabase_Frame.description>
+
+
+</LanguageData>

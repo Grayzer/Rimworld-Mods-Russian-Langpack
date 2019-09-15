@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Harvesting -->
+
+  <R3_BasicHarvesting.label>Базовое препарировани</R3_BasicHarvesting.label>
+  <R3_BasicHarvesting.description>Знание, как извлечь части основной сложности из трупов.</R3_BasicHarvesting.description>
+
+  <R3_AdvancedHarvesting.label>Продвинутое препарирование</R3_AdvancedHarvesting.label>
+  <R3_AdvancedHarvesting.description>Знание, как извлечь части продвинутой сложности из трупов.</R3_AdvancedHarvesting.description>
+
+  <R3_GlittertechHarvesting.label>Блестящее препарирование</R3_GlittertechHarvesting.label>
+  <R3_GlittertechHarvesting.description>Знание, как извлечь части блестящей сложности из трупов.</R3_GlittertechHarvesting.description>
+
+
+  <!-- refurbishment -->
+
+  <R3_BasicRefurbishment.label>Базовое восстановление</R3_BasicRefurbishment.label>
+  <R3_BasicRefurbishment.description>Знание, как стерилизовать и восстанавливать ремонтопригодные части основной сложности.</R3_BasicRefurbishment.description>
+
+  <R3_AdvancedRefurbishment.label>Продвинутое восстановление</R3_AdvancedRefurbishment.label>
+  <R3_AdvancedRefurbishment.description>Знание, как стерилизовать и восстанавливать ремонтопригодные части продвинутой сложности.</R3_AdvancedRefurbishment.description>
+
+  <R3_GlittertechRefurbishment.label>Блестящее восстановление</R3_GlittertechRefurbishment.label>
+  <R3_GlittertechRefurbishment.description>Знание, как стерилизовать и восстанавливать ремонтопригодные части блестящей сложности.</R3_GlittertechRefurbishment.description>
+
+
+</LanguageData>

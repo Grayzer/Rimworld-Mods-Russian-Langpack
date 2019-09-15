@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_NanoMachinery.label>создать наномашины</Make_NanoMachinery.label>
+  <Make_NanoMachinery.description>Создает наномашины.</Make_NanoMachinery.description>
+  <Make_NanoMachinery.jobString>делает наномашины.</Make_NanoMachinery.jobString>
+
+  <Make_PicoMachinery.label>создать пикомашины</Make_PicoMachinery.label>
+  <Make_PicoMachinery.description>Создает пикомашины.</Make_PicoMachinery.description>
+  <Make_PicoMachinery.jobString>делает пикомашины.</Make_PicoMachinery.jobString>
+
+  <Make_AttoMachinery.label>создать аттомашины</Make_AttoMachinery.label>
+  <Make_AttoMachinery.description>Создает аттомашины.</Make_AttoMachinery.description>
+  <Make_AttoMachinery.jobString>делает аттомашины.</Make_AttoMachinery.jobString>
+
+  <Make_Bulk_NanoMachinery.label>создать наномашины(10)</Make_Bulk_NanoMachinery.label>
+  <Make_Bulk_NanoMachinery.description>Создает 10 наномашин.</Make_Bulk_NanoMachinery.description>
+  <Make_Bulk_NanoMachinery.jobString>делает 10 наномашин.</Make_Bulk_NanoMachinery.jobString>
+
+  <Make_Bulk_PicoMachinery.label>создать пикомашины(10)</Make_Bulk_PicoMachinery.label>
+  <Make_Bulk_PicoMachinery.description>Создает 10 пикомашин.</Make_Bulk_PicoMachinery.description>
+  <Make_Bulk_PicoMachinery.jobString>делает 10 пикомашин.</Make_Bulk_PicoMachinery.jobString>
+
+  <Make_Bulk_AttoMachinery.label>создать аттомашины(аттомашины)</Make_Bulk_AttoMachinery.label>
+  <Make_Bulk_AttoMachinery.description>Создает 10 аттомашин.</Make_Bulk_AttoMachinery.description>
+  <Make_Bulk_AttoMachinery.jobString>делает 10 аттомашин.</Make_Bulk_AttoMachinery.jobString>
+
+  <Make_Spacer_Components.label>создать продвинутый компонент</Make_Spacer_Components.label>
+  <Make_Spacer_Components.description>Создает продвинутый компонент.</Make_Spacer_Components.description>
+  <Make_Spacer_Components.jobString>делает продвинутый компонент.</Make_Spacer_Components.jobString>
+
+  <Distill_Silver.label>дистиляция серебра</Distill_Silver.label>
+  <Distill_Silver.description>Дистилировать серебро из аттомашин.</Distill_Silver.description>
+  <Distill_Silver.jobString>дистилирует серебра.</Distill_Silver.jobString>
+
+
+</LanguageData>

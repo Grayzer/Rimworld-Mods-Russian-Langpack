@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 1 -->
+
+  <AutomationBasics.label>Базовая автоматизация</AutomationBasics.label>
+  <AutomationBasics.description>Изучите самые основы автоматизации и механизмов, ворота в индустриальную колонию.</AutomationBasics.description>
+
+  <PRFMachineLearning.label>Машинное обучение</PRFMachineLearning.label>
+  <PRFMachineLearning.description>Научите машины, как улучшить свои способности самостоятельно. Разблокирует ИИ-иследователя. Также позволяет создавать модули дронов на роботизированной рабочей таблице.</PRFMachineLearning.description>
+
+  <!-- Tier 2 -->
+
+  <PRFGoldbachConjecture.label>Гипотеза Гольдбаха</PRFGoldbachConjecture.label>
+  <PRFGoldbachConjecture.description>"Любое четное целое число, большее или равное 4, может быть образовано из суммы двух простых чисел."\nРазблокирует новый массив исследовательских проектов.</PRFGoldbachConjecture.description>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PRFDrone.label>дрон</PRFDrone.label>
+  <PRFDrone.corePart.parts.0.parts.0.parts.1.customLabel>левый датчик зрения</PRFDrone.corePart.parts.0.parts.0.parts.1.customLabel>
+  <PRFDrone.corePart.parts.0.parts.0.parts.2.customLabel>правый датчик зрения</PRFDrone.corePart.parts.0.parts.0.parts.2.customLabel>
+  <PRFDrone.corePart.parts.0.parts.0.parts.3.customLabel>левый датчик слуха</PRFDrone.corePart.parts.0.parts.0.parts.3.customLabel>
+  <PRFDrone.corePart.parts.0.parts.0.parts.4.customLabel>правый датчик слуха</PRFDrone.corePart.parts.0.parts.0.parts.4.customLabel>
+  <PRFDrone.corePart.parts.1.customLabel>левое плечо</PRFDrone.corePart.parts.1.customLabel>
+  <PRFDrone.corePart.parts.1.parts.0.customLabel>левая рука</PRFDrone.corePart.parts.1.parts.0.customLabel>
+  <PRFDrone.corePart.parts.1.parts.0.parts.0.customLabel>левая клешня</PRFDrone.corePart.parts.1.parts.0.parts.0.customLabel>
+  <PRFDrone.corePart.parts.2.customLabel>правое плечо</PRFDrone.corePart.parts.2.customLabel>
+  <PRFDrone.corePart.parts.2.parts.0.customLabel>правая рука</PRFDrone.corePart.parts.2.parts.0.customLabel>
+  <PRFDrone.corePart.parts.2.parts.0.parts.0.customLabel>правая клешня</PRFDrone.corePart.parts.2.parts.0.parts.0.customLabel>
+  <PRFDrone.corePart.parts.3.customLabel>левый пропеллер</PRFDrone.corePart.parts.3.customLabel>
+  <PRFDrone.corePart.parts.3.parts.0.customLabel>лезвие левого пропеллера</PRFDrone.corePart.parts.3.parts.0.customLabel>
+  <PRFDrone.corePart.parts.4.customLabel>правый пропеллер</PRFDrone.corePart.parts.4.customLabel>
+  <PRFDrone.corePart.parts.4.parts.0.customLabel>лезвие правого пропеллера</PRFDrone.corePart.parts.4.parts.0.customLabel>
+
+</LanguageData>

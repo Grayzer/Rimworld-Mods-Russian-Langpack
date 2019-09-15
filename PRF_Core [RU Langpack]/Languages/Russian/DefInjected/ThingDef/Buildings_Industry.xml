@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PRF_DeepQuarry.label>Глубокий карьер</PRF_DeepQuarry.label>
+  <PRF_DeepQuarry.description>Автоматизированный карьер, который непрерывно извлекает ресурсы из земли, включая куски горных пород, материалы и компоненты. Производит случайный ресурс примерно раз в 6 часов.</PRF_DeepQuarry.description>
+  <PRF_DeepQuarry_Blueprint.label>Глубокий карьер (чертеж)</PRF_DeepQuarry_Blueprint.label>
+  <PRF_DeepQuarry_Frame.label>Глубокий карьер (стройка)</PRF_DeepQuarry_Frame.label>
+  <PRF_DeepQuarry_Frame.description>Автоматизированный карьер, который непрерывно извлекает ресурсы из земли, включая куски горных пород, материалы и компоненты. Производит случайный ресурс примерно раз в 6 часов.</PRF_DeepQuarry_Frame.description>
+
+  <FuelingMachine.label>Заправочная машина</FuelingMachine.label>
+  <FuelingMachine.description>Роботизированная рука построена на небольшой раме машины, которая может автоматически подпитывать здание перед ним.</FuelingMachine.description>
+  <FuelingMachine_Blueprint.label>Заправочная машина (чертеж)</FuelingMachine_Blueprint.label>
+  <FuelingMachine_Blueprint_Install.label>Заправочная машина (чертеж)</FuelingMachine_Blueprint_Install.label>
+  <FuelingMachine_Frame.label>Заправочная машина (стройка)</FuelingMachine_Frame.label>
+  <FuelingMachine_Frame.description>Роботизированная рука построена на небольшой раме машины, которая может автоматически подпитывать здание перед ним.</FuelingMachine_Frame.description>
+
+  <Battery10k.label>10k батарея</Battery10k.label>
+  <Battery10k.description>Аккумулятор, который может хранить 10000 Вт энергии.</Battery10k.description>
+  <Battery10k_Blueprint.label>10k батарея (чертеж)</Battery10k_Blueprint.label>
+  <Battery10k_Blueprint_Install.label>10k батарея (чертеж)</Battery10k_Blueprint_Install.label>
+  <Battery10k_Frame.label>10k батарея (стройка)</Battery10k_Frame.label>
+  <Battery10k_Frame.description>Аккумулятор, который может хранить 10000 Вт энергии.</Battery10k_Frame.description>
+
+  <Battery100k.label>100k батарея</Battery100k.label>
+  <Battery100k.description>Аккумулятор, который может хранить 100000 Вт энергии.</Battery100k.description>
+  <Battery100k_Blueprint.label>100k батарея (чертеж)</Battery100k_Blueprint.label>
+  <Battery100k_Blueprint_Install.label>100k батарея (чертеж)</Battery100k_Blueprint_Install.label>
+  <Battery100k_Frame.label>100k батарея (стройка)</Battery100k_Frame.label>
+  <Battery100k_Frame.description>Аккумулятор, который может хранить 100000 Вт энергии.</Battery100k_Frame.description>
+
+</LanguageData>

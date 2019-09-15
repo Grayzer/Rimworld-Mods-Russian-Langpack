@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ElectricTableRepair.label>электроремонтный верстак</ElectricTableRepair.label>
+  <ElectricTableRepair.description>Верстак оснащен всеми инструментами, необходимыми для ремонта поврежденных предметов. Может работать без электричества на 50% от нормальной скорости.</ElectricTableRepair.description>
+  <ElectricTableRepair_Blueprint.label>электроремонтный верстак (чертеж)</ElectricTableRepair_Blueprint.label>
+  <ElectricTableRepair_Blueprint_Install.label>электроремонтный верстак (чертеж)</ElectricTableRepair_Blueprint_Install.label>
+  <ElectricTableRepair_Frame.label>электроремонтный верстак (стройка)</ElectricTableRepair_Frame.label>
+  <ElectricTableRepair_Frame.description>Верстак оснащен всеми инструментами, необходимыми для ремонта поврежденных предметов. Может работать без электричества на 50% от нормальной скорости.</ElectricTableRepair_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WDReinforcedDoor.label>укрепленная дверь</WDReinforcedDoor.label>
+  <WDReinforcedDoor.description>Укрепленная дверь. Прочнее, чем обычные двери. Разделяет комнаты. Простые двери нужно открывать вручную, что замедляет людей. Степень замедления зависит от того, из чего сделана дверь.</WDReinforcedDoor.description>
+  <WDReinforcedDoor_Blueprint.label>укрепленная дверь (чертеж)</WDReinforcedDoor_Blueprint.label>
+  <WDReinforcedDoor_Frame.label>укрепленная дверь (стройка)</WDReinforcedDoor_Frame.label>
+  <WDReinforcedDoor_Frame.description>Укрепленная дверь. Прочнее, чем обычные двери. Разделяет комнаты. Простые двери нужно открывать вручную, что замедляет людей. Степень замедления зависит от того, из чего сделана дверь.</WDReinforcedDoor_Frame.description>
+
+  <WDReinforcedAutodoor.label>укрепленная авто-дверь</WDReinforcedAutodoor.label>
+  <WDReinforcedAutodoor.description>Разделяет комнаты. Прочнее, чем обычные автодверки. Запитанная энергией позволяет людям проходить через дверь, не замедляясь.</WDReinforcedAutodoor.description>
+  <WDReinforcedAutodoor_Blueprint.label>укрепленная авто-дверь (чертеж)</WDReinforcedAutodoor_Blueprint.label>
+  <WDReinforcedAutodoor_Frame.label>укрепленная авто-дверь (стройка)</WDReinforcedAutodoor_Frame.label>
+  <WDReinforcedAutodoor_Frame.description>Разделяет комнаты. Прочнее, чем обычные автодверки. Запитанная энергией позволяет людям проходить через дверь, не замедляясь.</WDReinforcedAutodoor_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R3_Sterilize_Primitive.label>Стерилизовать примитивную часть тела.</R3_Sterilize_Primitive.label>
+  <R3_Sterilize_Primitive.description>Тщательно очистите ремонтопригодную часть тела и подготовьте ее к повторному использованию.</R3_Sterilize_Primitive.description>
+  <R3_Sterilize_Primitive.jobString>стерилизует ремонтопригодную часть</R3_Sterilize_Primitive.jobString>
+
+  <R3_Sterilize_Advanced.label>Стерилизовать продвинутую часть тела.</R3_Sterilize_Advanced.label>
+  <R3_Sterilize_Advanced.description>Тщательно очистите ремонтопригодную часть тела и подготовьте ее к повторному использованию.</R3_Sterilize_Advanced.description>
+  <R3_Sterilize_Advanced.jobString>стерилизует ремонтопригодную часть</R3_Sterilize_Advanced.jobString>
+
+  <R3_Sterilize_Glittertech.label>Стерилизовать блестящую часть тела.</R3_Sterilize_Glittertech.label>
+  <R3_Sterilize_Glittertech.description>Тщательно очистите ремонтопригодную часть тела и подготовьте ее к повторному использованию.</R3_Sterilize_Glittertech.description>
+  <R3_Sterilize_Glittertech.jobString>стерилизует ремонтопригодную часть</R3_Sterilize_Glittertech.jobString>
+
+  <R3_Refurbish_Primitive.label>Восстановите примитивную часть тела.</R3_Refurbish_Primitive.label>
+  <R3_Refurbish_Primitive.description>Восстановите и очистите поврежденную часть тела и подготовьте ее к повторному использованию.</R3_Refurbish_Primitive.description>
+  <R3_Refurbish_Primitive.jobString>восстанавливает поврежденную часть</R3_Refurbish_Primitive.jobString>
+
+  <R3_Refurbish_Advanced.label>Восстановите продвинутую часть тела.</R3_Refurbish_Advanced.label>
+  <R3_Refurbish_Advanced.description>Восстановите и очистите поврежденную часть тела и подготовьте ее к повторному использованию.</R3_Refurbish_Advanced.description>
+  <R3_Refurbish_Advanced.jobString>восстанавливает поврежденную часть</R3_Refurbish_Advanced.jobString>
+
+  <R3_Refurbish_Glittertech.label>Восстановите блестящую часть тела.</R3_Refurbish_Glittertech.label>
+  <R3_Refurbish_Glittertech.description>Восстановите и очистите поврежденную часть тела и подготовьте ее к повторному использованию.</R3_Refurbish_Glittertech.description>
+  <R3_Refurbish_Glittertech.jobString>восстанавливает поврежденную часть</R3_Refurbish_Glittertech.jobString>
+
+
+</LanguageData>

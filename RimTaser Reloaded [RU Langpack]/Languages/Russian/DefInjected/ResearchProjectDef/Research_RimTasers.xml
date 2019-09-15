@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimTasers_Project.label>Исследования Тазеров</RimTasers_Project.label>
+  <RimTasers_Project.description>Предоставляет базовые знания для того, чтобы создать очень простой тазер.</RimTasers_Project.description>
+
+  <RimTasers_Taser_Pulse.label>Импульстный тазер</RimTasers_Taser_Pulse.label>
+  <RimTasers_Taser_Pulse.description>Первое огнестрельное оружие на основе тазера, очень медленное и неэффективное по дальности.</RimTasers_Taser_Pulse.description>
+
+  <RimTasers_Taser_M26.label>M26 Тазер</RimTasers_Taser_M26.label>
+  <RimTasers_Taser_M26.description>Более усовершенствованный Тазер, более эффективная дальность и быстрая перезарядка, чем у предшественника Импульстного тазера.</RimTasers_Taser_M26.description>
+
+  <RimTasers_Taser_X26.label>X26 Тазер</RimTasers_Taser_X26.label>
+  <RimTasers_Taser_X26.description>X26 - это более модернизированный Тазер, с большей дальностью стрельбы, более быстрой перезарядкой и более надежнйм по сравнению с предыдущими моделями.</RimTasers_Taser_X26.description>
+
+  <RimTasers_Taser_X2.label>X2 Тазер</RimTasers_Taser_X2.label>
+  <RimTasers_Taser_X2.description>X2 имеет расширенную дальность, в два раза выше скорость перезарядки и более высокий шанс быстро оглушить объект.</RimTasers_Taser_X2.description>
+
+  <RimTasers_Taser_X3.label>X3 Тазер</RimTasers_Taser_X3.label>
+  <RimTasers_Taser_X3.description>X3 является самым последним воплощением принципа Тазера, он в три раза быстрее перезаряжается и стреляет, чем его предыдущие модели, и может стрелять сильно издалека.</RimTasers_Taser_X3.description>
+
+  <RimTasers_Taser_X12.label>X12 Тазер</RimTasers_Taser_X12.label>
+  <RimTasers_Taser_X12.description>X12 - это вариант Тазер ружья с прицелом. Он стреляет медленнее, чем варианты с прицелом, но имеет более высокую дальность и режим автоматической стрельбы.</RimTasers_Taser_X12.description>
+
+  <RimTasers_Taser_Rifle.label>Тазер ружье</RimTasers_Taser_Rifle.label>
+  <RimTasers_Taser_Rifle.description>Тазер ружье - вариант штурмовой винтовки Тазер. Он стреляет как обычная штурмовая винтовка, используя только высокоскоростные патроны с питанием от электрода.</RimTasers_Taser_Rifle.description>
+
+  <RimTasers_Taser_Sniper.label>Тазер снайперка</RimTasers_Taser_Sniper.label>
+  <RimTasers_Taser_Sniper.description>Тазер снайперка - это дальний вариант предшественника Тазера. Он перезаряжается медленнее, чем дробовик, однако может стрелять с более дальнего расстояния и имеет больше шансов поразить объект в дали.</RimTasers_Taser_Sniper.description>
+
+
+</LanguageData>

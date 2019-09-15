@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] взволнованно хлопнул рукой [RECIPIENT_possessive].</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] улыбнулся.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.1>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] кивнул в знак согласия.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.2>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef] был готов услышать больше.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.3>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef] выглядел взволнованным.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.4>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef] выглядел польщенным.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.5>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.6>sent->[RECIPIENT_nameDef] уставился на [INITIATOR_nameDef] в изумлении.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.6>
+
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] был раздражен.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.0>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] неодобрительно покачал [RECIPIENT_possessive] головой.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.1>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] не волнует.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.2>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef] уже было достаточно этого.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.3>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef] осмотрел комнату в скуке.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.4>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef] упомянул об уходе в ближайшее время.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.5>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.6>sent->[RECIPIENT_nameDef] закатил [RECIPIENT_possessive] глаза.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.6>
+
+
+</LanguageData>

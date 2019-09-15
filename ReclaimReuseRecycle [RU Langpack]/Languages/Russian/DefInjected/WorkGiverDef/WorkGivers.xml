@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R3_DoWorkHarvestCorpse.label>препарировать тело</R3_DoWorkHarvestCorpse.label>
+  <R3_DoWorkHarvestCorpse.verb>работает</R3_DoWorkHarvestCorpse.verb>
+  <R3_DoWorkHarvestCorpse.gerund>работает на</R3_DoWorkHarvestCorpse.gerund>
+
+  <R3_DoWorkRefurbish.label>отремонтировать/очистить часть</R3_DoWorkRefurbish.label>
+  <R3_DoWorkRefurbish.verb>работает</R3_DoWorkRefurbish.verb>
+  <R3_DoWorkRefurbish.gerund>работает на</R3_DoWorkRefurbish.gerund>
+
+
+</LanguageData>

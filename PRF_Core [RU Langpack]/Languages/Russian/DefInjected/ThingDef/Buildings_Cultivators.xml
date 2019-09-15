@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cultivator -->
+
+  <CultivatorTools_DroneCultivator.label>Культиватор</CultivatorTools_DroneCultivator.label>
+  <CultivatorTools_DroneCultivator.description>Здание, которое может самостоятельно сажать и собирать урожай в 11-ти квадратных клетках вокруг него. Не будут затронуты никакие модификаторы.</CultivatorTools_DroneCultivator.description>
+  <CultivatorTools_DroneCultivator_Blueprint.label>Культиватор (чертеж)</CultivatorTools_DroneCultivator_Blueprint.label>
+  <CultivatorTools_DroneCultivator_Frame.label>Культиватор (стройка)</CultivatorTools_DroneCultivator_Frame.label>
+  <CultivatorTools_DroneCultivator_Frame.description>Здание, которое может самостоятельно сажать и собирать урожай в 11-ти квадратных клетках вокруг него. Не будут затронуты никакие модификаторы.</CultivatorTools_DroneCultivator_Frame.description>
+
+  <CultivatorTools_CultivatorWithLamp.label>Культиватор (с солнечной лампой)</CultivatorTools_CultivatorWithLamp.label>
+  <CultivatorTools_CultivatorWithLamp.description>Здание, которое может самостоятельно сажать и собирать урожай в 11-ти квадратных клетках вокруг него. Имеет солнечную лампу Не будут затронуты никакие модификаторы.</CultivatorTools_CultivatorWithLamp.description>
+  <CultivatorTools_CultivatorWithLamp_Blueprint.label>Культиватор (с солнечной лампой) (чертеж)</CultivatorTools_CultivatorWithLamp_Blueprint.label>
+  <CultivatorTools_CultivatorWithLamp_Frame.label>Культиватор (с солнечной лампой) (стройка)</CultivatorTools_CultivatorWithLamp_Frame.label>
+  <CultivatorTools_CultivatorWithLamp_Frame.description>Здание, которое может самостоятельно сажать и собирать урожай в 11-ти квадратных клетках вокруг него. Имеет солнечную лампу Не будут затронуты никакие модификаторы.</CultivatorTools_CultivatorWithLamp_Frame.description>
+
+
+  <!-- Sprinkler -->
+
+  <CultivatorTools_Sprinkler.label>Спринклер</CultivatorTools_Sprinkler.label>
+  <CultivatorTools_Sprinkler.description>Здание, которое поливает растения в расширяющейся радиусе, увеличивая их рост на один час за раунд. Эффекты наращиваемые, и она работает даже тогда, когда растения отдыхают.</CultivatorTools_Sprinkler.description>
+  <CultivatorTools_Sprinkler_Blueprint.label>Спринклер (чертеж)</CultivatorTools_Sprinkler_Blueprint.label>
+  <CultivatorTools_Sprinkler_Frame.label>Спринклер (стройка)</CultivatorTools_Sprinkler_Frame.label>
+  <CultivatorTools_Sprinkler_Frame.description>Здание, которое поливает растения в расширяющейся радиусе, увеличивая их рост на один час за раунд. Эффекты наращиваемые, и она работает даже тогда, когда растения отдыхают.</CultivatorTools_Sprinkler_Frame.description>
+
+
+</LanguageData>

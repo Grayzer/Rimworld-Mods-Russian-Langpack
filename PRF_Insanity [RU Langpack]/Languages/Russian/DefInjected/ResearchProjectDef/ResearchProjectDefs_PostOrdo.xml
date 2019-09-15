@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 3 -->
+
+  <PRFRiemannHypothesis.label>Гипотеза Римана</PRFRiemannHypothesis.label>
+  <PRFRiemannHypothesis.description>ζ(0.5 ± 1/g + π(g) * i) = 0, где g - число Грэма, а где π - простая счетная функция.\n\nИстория Ордо, Запись {fb640e1a-1021-474b-b4ba-5ffe61bd2649}, Последний раз синхронизированы с галактическим ядром 1208YYtp назад.</PRFRiemannHypothesis.description>
+
+  <PRFPVersusNP.label>P против NP</PRFPVersusNP.label>
+  <PRFPVersusNP.description>Для того, чтобы сломать шифрование RSA, все, что вам нужно, это лекарство от рака.\n\nИстория Ордо, Запись {490c3481-b420-4cf9-aa6d-88bcfe651cb0}, Последний раз синхронизированы с галактическим ядром 1208YYtp назад.</PRFPVersusNP.description>
+
+  <PRFFermiParadox.label>Парадокс Ферми</PRFFermiParadox.label>
+  <PRFFermiParadox.description>Инопланетяне? Какие инопланетяне?\n- Полностью невинный механоид\n\nИстория Ордо, Запись {43039413-a9ad-436d-99e1-63ec2cd944e5}, Впервые опубликовано в журнале Поэтические Размышления (4256CE).\n\nПоследний раз синхронизированы с галактическим ядром 1208YYtp назад.</PRFFermiParadox.description>
+
+  <PRFVanometrics.label>Ванометрика</PRFVanometrics.label>
+  <PRFVanometrics.description>Производить ванометрические силовые ячейки, бесконечные химические реакторы и другие архитектурно-строительные здания. Также разблокирует производство Z-Композита в атомном реконструкторе.</PRFVanometrics.description>
+
+  <PRFSimulationHypothesis.label>Архотехнология</PRFSimulationHypothesis.label>
+  <PRFSimulationHypothesis.description>Узнайте, как создавать вычислительные устройства для улучшения интеллекта существующего ИИ ядра.</PRFSimulationHypothesis.description>
+
+  <PRFPsychics.label>Психология</PRFPsychics.label>
+  <PRFPsychics.description>Разблокирует производство психических предметов.</PRFPsychics.description>
+
+  <PRFTheoryOfEverything.label>Теория всего</PRFTheoryOfEverything.label>
+  <PRFTheoryOfEverything.description>Выясните, как эта симуляция действительно работает, взламывая ее.</PRFTheoryOfEverything.description>
+  <PRFTheoryOfEverything.researchMods.0.text>Странное чувство омывает ваших колонистов. Они предполагают, что психические сигналы могут возникнуть из вашей собственной исследовательской лаборатории по ИИ. Может быть, он пытается вам кое-что сказать...</PRFTheoryOfEverything.researchMods.0.text>
+
+
+</LanguageData>

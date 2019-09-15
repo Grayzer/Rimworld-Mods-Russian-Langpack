@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TTTFurnace.label>продвинутый обогреватель</TTTFurnace.label>
+  <TTTFurnace.description>Устройство, которое преобразует электричество в тепло. Он может автоматически включаться или выключаться для достижения определенной целевой температуры. Более мощный, чем нагреватель, но не может быть переустановлен.</TTTFurnace.description>
+  <TTTFurnace_Blueprint.label>продвинутый обогреватель (чертеж)</TTTFurnace_Blueprint.label>
+  <TTTFurnace_Blueprint_Install.label>продвинутый обогреватель (чертеж)</TTTFurnace_Blueprint_Install.label>
+  <TTTFurnace_Frame.label>продвинутый обогреватель (стройка)</TTTFurnace_Frame.label>
+  <TTTFurnace_Frame.description>Устройство, которое преобразует электричество в тепло. Он может автоматически включаться или выключаться для достижения определенной целевой температуры. Более мощный, чем нагреватель, но не может быть переустановлен.</TTTFurnace_Frame.description>
+
+  <StandingAirConditioner.label>напольный кондиционер</StandingAirConditioner.label>
+  <StandingAirConditioner.description>Устройство, которое преобразует электричество в прохладный воздух. Он может автоматически включаться или выключаться для достижения определенной целевой температуры. Более мощный, чем кулер, и может быть переустановлен. Напольный.</StandingAirConditioner.description>
+  <StandingAirConditioner_Blueprint.label>напольный кондиционер (чертеж)</StandingAirConditioner_Blueprint.label>
+  <StandingAirConditioner_Blueprint_Install.label>напольный кондиционер (чертеж)</StandingAirConditioner_Blueprint_Install.label>
+  <StandingAirConditioner_Frame.label>напольный кондиционер (стройка)</StandingAirConditioner_Frame.label>
+  <StandingAirConditioner_Frame.description>Устройство, которое преобразует электричество в прохладный воздух. Он может автоматически включаться или выключаться для достижения определенной целевой температуры. Более мощный, чем кулер, и может быть переустановлен. Напольный.</StandingAirConditioner_Frame.description>
+
+  <AirConditioner.label>настенный кондиционер</AirConditioner.label>
+  <AirConditioner.description>Машина воздушного охлаждения, которая вписывается в стену. Холодный воздух выходит с одной стороны, а горячий - с другой. Может использоваться для охлаждения помещений летом или для создания морозильной камеры. Более мощный, чем кулер.</AirConditioner.description>
+  <AirConditioner_Blueprint.label>настенный кондиционер (чертеж)</AirConditioner_Blueprint.label>
+  <AirConditioner_Frame.label>настенный кондиционер (стройка)</AirConditioner_Frame.label>
+  <AirConditioner_Frame.description>Машина воздушного охлаждения, которая вписывается в стену. Холодный воздух выходит с одной стороны, а горячий - с другой. Может использоваться для охлаждения помещений летом или для создания морозильной камеры. Более мощный, чем кулер.</AirConditioner_Frame.description>
+
+
+</LanguageData>

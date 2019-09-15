@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <ArchotechDenture.label>архотек челюсть</ArchotechDenture.label>
+  <ArchotechDenture.labelNoun>архотек челюсть</ArchotechDenture.labelNoun>
+
+  <ArchotechHeart.label>архотек сердце</ArchotechHeart.label>
+  <ArchotechHeart.labelNoun>архотек сердце</ArchotechHeart.labelNoun>
+
+  <ArchotechLung.label>архотек легкое</ArchotechLung.label>
+  <ArchotechLung.labelNoun>архотек легкое</ArchotechLung.labelNoun>
+
+  <ArchotechStomach.label>архотек желудок</ArchotechStomach.label>
+  <ArchotechStomach.labelNoun>архотек желудок</ArchotechStomach.labelNoun>
+
+  <ArchotechLiver.label>архотек печень</ArchotechLiver.label>
+  <ArchotechLiver.labelNoun>архотек печень</ArchotechLiver.labelNoun>
+
+  <ArchotechSpine.label>архотек позвоночник</ArchotechSpine.label>
+  <ArchotechSpine.labelNoun>архотек позвоночник</ArchotechSpine.labelNoun>
+
+  <ArchotechPelvis.label>архотек таз</ArchotechPelvis.label>
+  <ArchotechPelvis.labelNoun>архотек таз</ArchotechPelvis.labelNoun>
+
+  <ArchotechKidney.label>архотек почка</ArchotechKidney.label>
+  <ArchotechKidney.labelNoun>архотек почка</ArchotechKidney.labelNoun>
+
+  <ArchotechEar.label>архотек ухо</ArchotechEar.label>
+  <ArchotechEar.labelNoun>архотек ухо</ArchotechEar.labelNoun>
+
+  <ArchotechDeathClaw.label>архотек коготь</ArchotechDeathClaw.label>
+  <ArchotechDeathClaw.comps.0.tools.0.label>Claw</ArchotechDeathClaw.comps.0.tools.0.label>
+  <ArchotechDeathClaw.labelNoun>архотек коготь</ArchotechDeathClaw.labelNoun>
+
+  <AdvancedArchotechLeg.label>улучшенная архотек нога</AdvancedArchotechLeg.label>
+  <AdvancedArchotechLeg.labelNoun>улучшенная архотек нога</AdvancedArchotechLeg.labelNoun>
+
+  <AdvancedArchotechArm.label>улучшенная архотек рука</AdvancedArchotechArm.label>
+  <AdvancedArchotechArm.labelNoun>улучшенная архотек рука</AdvancedArchotechArm.labelNoun>
+
+  <ArchotechObliterator.label>архотек облитератор</ArchotechObliterator.label>
+  <ArchotechObliterator.comps.0.tools.0.label>fist</ArchotechObliterator.comps.0.tools.0.label>
+  <ArchotechObliterator.labelNoun>архотек облитератор</ArchotechObliterator.labelNoun>
+
+
+</LanguageData>

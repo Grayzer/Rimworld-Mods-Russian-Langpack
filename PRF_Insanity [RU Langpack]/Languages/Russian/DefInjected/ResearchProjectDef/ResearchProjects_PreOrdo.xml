@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PRFQuantumComputing.label>Квантовые вычисления</PRFQuantumComputing.label>
+  <PRFQuantumComputing.description>Узнайте, как создавать квантовые компьютеры, чтобы помочь в исследовательских проектах.</PRFQuantumComputing.description>
+
+  <PRFAtomicReconstruction.label>Атомная реконструкция</PRFAtomicReconstruction.label>
+  <PRFAtomicReconstruction.description>Позволяет колонистам превращать скрепки в сырье.</PRFAtomicReconstruction.description>
+
+  <PRFNanoMaterials.label>Нано-материалы</PRFNanoMaterials.label>
+  <PRFNanoMaterials.description>Позволяет атомному реконструктору создавать X-Композит и Y-Композит.</PRFNanoMaterials.description>
+
+  <PRFEdiblesSynthesis.label>Синтез съедобных веществ</PRFEdiblesSynthesis.label>
+  <PRFEdiblesSynthesis.description>Создавайте продукты, манипулируя молекулярной структурой скрепки.</PRFEdiblesSynthesis.description>
+
+  <PRFManufacturablesProduction.label>Технологичное производство</PRFManufacturablesProduction.label>
+  <PRFManufacturablesProduction.description>Позволяет колонистам также конвертировать скрепки в товары категории Произведено.</PRFManufacturablesProduction.description>
+
+  <PRFAIPersonaProduction.label>Производство ИИ ядра</PRFAIPersonaProduction.label>
+  <PRFAIPersonaProduction.description>Позволяет колонистам сплавлять слабые ИИ-чипы, чтобы сделать ИИ ядро.</PRFAIPersonaProduction.description>
+
+  <PRFOrdoDataRummaging.label>Ротация данных Ордо</PRFOrdoDataRummaging.label>
+  <PRFOrdoDataRummaging.description>ИИ-иследователь обнаружил скремблированный радиосигнал, происходящий из глубины планеты, транслирующий записи Истории Ордо. Раскройте сигнал и выполните поиск записей в надежде обнаружить больше технологий.</PRFOrdoDataRummaging.description>
+
+
+</LanguageData>

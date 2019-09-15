@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PainSensitivity.label>болевая чувствительность</PainSensitivity.label>
+  <PainSensitivity.stages.0.label>слабая-скрыта</PainSensitivity.stages.0.label>
+  <PainSensitivity.stages.1.label>средняя-скрыта</PainSensitivity.stages.1.label>
+  <PainSensitivity.stages.2.label>сильная-скрыта</PainSensitivity.stages.2.label>
+  <PainSensitivity.stages.3.label>огромная-скрыта</PainSensitivity.stages.3.label>
+  <PainSensitivity.stages.4.label>невыносимая-скрыта</PainSensitivity.stages.4.label>
+  <PainSensitivity.labelNoun>увеличение болевой чувствительности</PainSensitivity.labelNoun>
+
+
+</LanguageData>

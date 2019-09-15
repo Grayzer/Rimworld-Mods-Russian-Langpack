@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<!-- ===RJW=== -->
+
+<!-- Animal and Other -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "HorsePenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "HorseVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "CatPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "CatVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "DogPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "DogVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "DragonPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "DragonVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "RaccoonPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "Hemipenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(221,82,167)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "CrocodilianPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "DemonTentaclesPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(221,82,98)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "DemonPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(221,82,98)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "DemonVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(221,82,98)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "DemonAnus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(221,82,98)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "Udder"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "InsectAnus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(133,145,231)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "OvipositorM"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(133,145,231)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "OvipositorF"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(133,145,231)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+<!-- Natural -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "Penis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "MicroPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "SmallPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "BigPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "HugePenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "Vagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "MicroVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "TightVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "LooseVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "GapingVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "Breasts"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "FlatBreasts"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "SmallBreasts"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "LargeBreasts"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "HugeBreasts"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "FeaturelessChest"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "Anus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "MicroAnus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "TightAnus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "LooseAnus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "GapingAnus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			</graphicData>
+		</value>
+	</Operation>
+
+<!-- Prosthetic -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "ProstheticPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,160,130)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "ProstheticVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,160,130)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "ProstheticAnus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,160,130)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "ProstheticBreasts"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,160,130)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+<!-- Bionic -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "BionicPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(255,230,150)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "BionicVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(255,230,150)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "BionicAnus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(255,230,150)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "BionicBreasts"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(255,230,150)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+<!-- Artificial -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "ArchotechPenis"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,220,180)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "ArchotechVagina"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,220,180)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "ArchotechAnus"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,220,180)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "ArchotechBreasts"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,220,180)</color>
+			</graphicData>
+		</value>
+	</Operation>
+	
+</Patch>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Recruiter.label>вербовать посетителей и заключенных</Recruiter.label>
+  <Recruiter.verb>вербовка</Recruiter.verb>
+  <Recruiter.gerund>вербует</Recruiter.gerund>
+
+  <Diplomat.label>развлекать гостей</Diplomat.label>
+  <Diplomat.verb>заниматься</Diplomat.verb>
+  <Diplomat.gerund>занимается</Diplomat.gerund>
+
+
+</LanguageData>

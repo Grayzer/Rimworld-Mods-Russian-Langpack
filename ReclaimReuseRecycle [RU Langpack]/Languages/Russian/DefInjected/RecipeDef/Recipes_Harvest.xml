@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- flesh harvesting recipes -->
+
+  <R3_HarvestCorpseFlesh_Primitive.label>препарирование тела (примитивный)</R3_HarvestCorpseFlesh_Primitive.label>
+  <R3_HarvestCorpseFlesh_Primitive.description>Разделайте труп для извлечения ремонтопригодных частей и имплантатов примитивной сложности.</R3_HarvestCorpseFlesh_Primitive.description>
+  <R3_HarvestCorpseFlesh_Primitive.jobString>препарирует тело</R3_HarvestCorpseFlesh_Primitive.jobString>
+
+  <R3_HarvestCorpseFlesh_Advanced.label>препарирование тела (продвинутый)</R3_HarvestCorpseFlesh_Advanced.label>
+  <R3_HarvestCorpseFlesh_Advanced.description>Разделайте труп для извлечения ремонтопригодных частей и имплантатов повышенной сложности или ниже.</R3_HarvestCorpseFlesh_Advanced.description>
+  <R3_HarvestCorpseFlesh_Advanced.jobString>препарирует тело</R3_HarvestCorpseFlesh_Advanced.jobString>
+
+  <R3_HarvestCorpseFlesh_Glittertech.label>препарирование тела (блестящий)</R3_HarvestCorpseFlesh_Glittertech.label>
+  <R3_HarvestCorpseFlesh_Glittertech.description>Разделайте труп для извлечения ремонтопригодных частей и имплантатов блестящей сложности или ниже.</R3_HarvestCorpseFlesh_Glittertech.description>
+  <R3_HarvestCorpseFlesh_Glittertech.jobString>препарирует тело</R3_HarvestCorpseFlesh_Glittertech.jobString>
+
+
+  <!-- mechanoid harvesting recipes -->
+
+  <R3_HarvestCorpseMechanoid_Primitive.label>препарирование механоида (примитивный)</R3_HarvestCorpseMechanoid_Primitive.label>
+  <R3_HarvestCorpseMechanoid_Primitive.description>Разделайте труп механоида для извлечения ремонтопригодных частей примитивной сложности.</R3_HarvestCorpseMechanoid_Primitive.description>
+  <R3_HarvestCorpseMechanoid_Primitive.jobString>препарирует тело</R3_HarvestCorpseMechanoid_Primitive.jobString>
+
+  <R3_HarvestCorpseMechanoid_Advanced.label>препарирование механоида (продвинутый)</R3_HarvestCorpseMechanoid_Advanced.label>
+  <R3_HarvestCorpseMechanoid_Advanced.description>Разделайте труп механоида для извлечения ремонтопригодных частей повышенной сложности или ниже.</R3_HarvestCorpseMechanoid_Advanced.description>
+  <R3_HarvestCorpseMechanoid_Advanced.jobString>препарирует тело</R3_HarvestCorpseMechanoid_Advanced.jobString>
+
+  <R3_HarvestCorpseMechanoid_Glittertech.label>препарирование механоида (блестящий)</R3_HarvestCorpseMechanoid_Glittertech.label>
+  <R3_HarvestCorpseMechanoid_Glittertech.description>Разделайте труп механоида для извлечения ремонтопригодных частей блестящей сложности или ниже.</R3_HarvestCorpseMechanoid_Glittertech.description>
+  <R3_HarvestCorpseMechanoid_Glittertech.jobString>препарирует тело</R3_HarvestCorpseMechanoid_Glittertech.jobString>
+
+
+</LanguageData>

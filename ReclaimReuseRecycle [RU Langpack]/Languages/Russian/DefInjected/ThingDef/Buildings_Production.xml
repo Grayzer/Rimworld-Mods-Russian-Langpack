@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <R3_TableHarvesting.label>стол препарации</R3_TableHarvesting.label>
+  <R3_TableHarvesting.description>Рабочий стол для сбора частей и имплантатов от умерших существ и механоидов. Выгода от размещения рядом с восстановительным столом.</R3_TableHarvesting.description>
+  <R3_TableHarvesting_Blueprint.label>стол препарации (чертеж)</R3_TableHarvesting_Blueprint.label>
+  <R3_TableHarvesting_Frame.label>стол препарации (стройка)</R3_TableHarvesting_Frame.label>
+  <R3_TableHarvesting_Frame.description>Рабочий стол для сбора частей и имплантатов от умерших существ и механоидов. Выгода от размещения рядом с восстановительным столом.</R3_TableHarvesting_Frame.description>
+
+  <R3_TableRefurbishment.label>стол восстановления</R3_TableRefurbishment.label>
+  <R3_TableRefurbishment.description>Рабочий стол для восстановления и очистки ремонтопригодных частей и имплантатов. Преимущества от размещения рядом со столом препарации.</R3_TableRefurbishment.description>
+  <R3_TableRefurbishment_Blueprint.label>стол восстановления (чертеж)</R3_TableRefurbishment_Blueprint.label>
+  <R3_TableRefurbishment_Frame.label>стол восстановления (стройка)</R3_TableRefurbishment_Frame.label>
+  <R3_TableRefurbishment_Frame.description>Рабочий стол для восстановления и очистки ремонтопригодных частей и имплантатов. Преимущества от размещения рядом со столом препарации.</R3_TableRefurbishment_Frame.description>
+
+
+</LanguageData>

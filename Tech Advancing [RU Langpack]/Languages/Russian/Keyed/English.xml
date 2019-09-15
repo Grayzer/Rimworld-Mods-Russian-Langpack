@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TAcfgmenulabel>Настройки Техноложи</TAcfgmenulabel>
+
+  <newTechLevelLetterTitle>Новый технологический уровень</newTechLevelLetterTitle>
+  <newTechLevelLetterContents>Поздравляем, исследователь только что закончил исследовательский проект, который сделал вас {0} умнее. Новый технический уровень</newTechLevelLetterContents>
+
+  <ConfigEditTechlevelChange>Из-за того, что Техноложа влияет на вашу игру, вы изменили уровень своей технологии на</ConfigEditTechlevelChange>
+
+  <configHeader>Вы можете редактировать правила здесь:</configHeader>
+  <configRuleAdesc>Правило А: \nЕсли игрок исследовал все технологии уровня техники X и ниже, уровень технологий поднимается до уровня X +</configRuleAdesc>
+  <configRuleBdesc>Правило Б: \nЕсли игрок исследовал более 50% технологий технического уровня Y, технический уровень поднимается до Y +</configRuleBdesc>
+  <configRuleBSliderdesc>Этот слайдер контролирует порог для правила Б.</configRuleBSliderdesc>
+  <configRadioBtnNeolithic>Неолит / Племя</configRadioBtnNeolithic>
+  <configRadioBtnAutoDetect>Авто (по умолчанию)</configRadioBtnAutoDetect>
+  <configRadioBtnIndustrial>Индустриальный / Колония</configRadioBtnIndustrial>
+  <configBaseTechLvl>Базовый уровень технологии</configBaseTechLvl>
+  <configTribe>Племя</configTribe>
+  <configColony>Колония</configColony>
+  <configSetToTribe>Установить как Племя</configSetToTribe>
+  <configSetToColony>Установить как Колония</configSetToColony>
+  <configNeolithic>Неолит</configNeolithic>
+  <configIndustrial>Индустриальный</configIndustrial>
+  <configWordDefault>по умолчанию:</configWordDefault>
+  <configExpectedTechLvl>Ожидаемый уровень технологии для этого правила:</configExpectedTechLvl>
+  <configResultingTechLvl>Результирующий уровень технологии:</configResultingTechLvl>
+  <configCheckboxNeedTechColonists>Если эта опция включена, то вы не сможете продвинуть свой технический уровень \nвыше '{0}' если в вашей колонии / племени есть только племенные члены.</configCheckboxNeedTechColonists>
+  <configCheckboxNeedTechColonists_CappedAt>В результате ваш технический уровень ограничен '{0}' пока ваша колония / племя не получит не-племенного человека.</configCheckboxNeedTechColonists_CappedAt>
+  <configCheckboxDisableCostMultiplicatorCap>Снимите ванильный предел в 200% для расчета штрафа за скорость исследовательского проекта. (как в A18 и раньше).</configCheckboxDisableCostMultiplicatorCap>
+
+  <newTechLevelMedievalCapRemLetterTitle>Продвинутые уровни разблокированы</newTechLevelMedievalCapRemLetterTitle>
+  <newTechLevelMedievalCapRemLetterContents>Ваш {0} только что получил другого участника, который научил их новым трюкам. Из-за этого средневековый лимит технологий теперь исчез. Поздравляем!</newTechLevelMedievalCapRemLetterContents>
+  <newTechLevelMedievalCapRemLetterTitleRev>Продвинутые уровни заблокированы</newTechLevelMedievalCapRemLetterTitleRev>
+  <newTechLevelMedievalCapRemLetterContentsRev>Не осталось людей, знакомых с этими высокотехнологичными вещами. По этой причине средневековый лимит технологий вернулся!</newTechLevelMedievalCapRemLetterContentsRev>
+
+  <TAcfgunavailable>Кнопка конфигурации доступна только во время воспроизведения карты.</TAcfgunavailable>
+
+  <availableTechLvls>Доступны следующие технологические уровни:</availableTechLvls>
+
+  <TA_TL_Archotech>Архотек</TA_TL_Archotech>
+  <TA_TL_Ultra>Ультра</TA_TL_Ultra>
+  <TA_TL_Spacer>Космический</TA_TL_Spacer>
+  <TA_TL_Industrial>Индустриальный</TA_TL_Industrial>
+  <TA_TL_Medieval>Средневековый</TA_TL_Medieval>
+  <TA_TL_Neolithic>Неолит</TA_TL_Neolithic>
+  <TA_TL_Animal>Животный</TA_TL_Animal>
+  <TA_TL_Undefined>Неопределенный</TA_TL_Undefined>
+
+
+</LanguageData>

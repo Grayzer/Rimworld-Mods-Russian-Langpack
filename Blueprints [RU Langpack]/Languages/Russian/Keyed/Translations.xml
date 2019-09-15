@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fluffy.Blueprints.DefaultBlueprintName>Чертеж</Fluffy.Blueprints.DefaultBlueprintName>
+  <Fluffy.Blueprints.NameAlreadyTaken>"{0}" уже существует. Пожалуйста, выберите уникальное имя.</Fluffy.Blueprints.NameAlreadyTaken>
+  <Fluffy.Blueprints.InvalidBlueprintName>"{0}" неверное имя. \nПожалуйста, используйте только буквенно-цифровые символы и символы подчеркивания (a-Z, _). Пробелы не допускаются.</Fluffy.Blueprints.InvalidBlueprintName>
+  <Fluffy.Blueprints.LoadFromXML>Импорт чертежа "{0}"</Fluffy.Blueprints.LoadFromXML>
+  <Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>Невозможно создать план; ничего не выбрано.</Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>
+  <Fluffy.Blueprint.Cost>Общая стоимость:</Fluffy.Blueprint.Cost>
+  <Fluffy.Blueprints.Remove>Удалить чертеж</Fluffy.Blueprints.Remove>
+  <Fluffy.Blueprints.SaveToXML>Экспорт чертежа</Fluffy.Blueprints.SaveToXML>
+  <Fluffy.Blueprints.RemoveAndDeleteXML>Удалить чертеж и удалить экспортированный чертеж</Fluffy.Blueprints.RemoveAndDeleteXML>
+  <Fluffy.Blueprints.Rename>Переименовать чертеж</Fluffy.Blueprints.Rename>
+  <Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>Экспортированный проект с именем "{0}" уже существует.\nПожалуйста, выберите другое имя.</Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>
+  <Fluffy.Blueprints.Create>Создать</Fluffy.Blueprints.Create>
+  <Fluffy.Blueprints.CreateHelp>ЛКМ чтобы создать новый план.\nПКМ чтобы импортировать план.</Fluffy.Blueprints.CreateHelp>
+  <Fluffy.Blueprints.NoStoredBlueprints>Нет экспортированных чертежей (или они все уже загружены).</Fluffy.Blueprints.NoStoredBlueprints>
+  <Fluffy.Blueprints.NothingAvailableInBlueprint>Ни один из элементов в {0} не может быть собран с использованием текущих технологий.</Fluffy.Blueprints.NothingAvailableInBlueprint>
+  <Fluffy.Blueprints.XNotAvailableInBlueprint>Некоторые элементы в {0} не могут быть собраны с использованием текущих технологий: {1}</Fluffy.Blueprints.XNotAvailableInBlueprint>
+
+  <Fluffy.Blueprints.UnFlippable.HasInteractionCell>{0} не может вращаться и имеет место взаимодействия. Отражение может привести к неправильному размещению.</Fluffy.Blueprints.UnFlippable.HasInteractionCell>
+  <Fluffy.Blueprints.UnRotatable.HasInteractionCell>{0} не может вращаться и имеет место взаимодействия. Вращение может привести к неправильному размещению.</Fluffy.Blueprints.UnRotatable.HasInteractionCell>
+  <Fluffy.Blueprints.UnRotatable.NonSquare>{0} не может быть повернут и не является квадратным. Вращение чертежа приведет к неправильному размещению {0}.</Fluffy.Blueprints.UnRotatable.NonSquare>
+
+  <!-- I'm aware this is a _very_ suboptimal solution, but short of writing a custom languageWorker like thing for each language, this will have to do. It's only for default blueprint names anyway. -->
+  <Fluffy.Blueprints.Plural>{0}s</Fluffy.Blueprints.Plural>
+
+</LanguageData>

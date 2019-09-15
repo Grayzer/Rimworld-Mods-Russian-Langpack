@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- CompOpenManually -->
+  <OpenDoorManually.CommandDoorCloseLabel>Закрыть</OpenDoorManually.CommandDoorCloseLabel>
+  <OpenDoorManually.CommandDoorCloseDesc>Дверь закрыта.</OpenDoorManually.CommandDoorCloseDesc>
+  <OpenDoorManually.CommandDoorOpenLabel>Открыть</OpenDoorManually.CommandDoorOpenLabel>
+  <OpenDoorManually.CommandDoorOpenDesc>Дверь открыта.</OpenDoorManually.CommandDoorOpenDesc>
+
+</LanguageData>

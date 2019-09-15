@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeDataDisk.label>сделать диск с данными</MakeDataDisk.label>
+  <MakeDataDisk.description>Сделать рулон магнитной ленты данных.</MakeDataDisk.description>
+  <MakeDataDisk.jobString>Создание диска с данными</MakeDataDisk.jobString>
+
+</LanguageData>

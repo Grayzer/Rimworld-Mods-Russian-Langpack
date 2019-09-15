@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RequestForTenancyTitle>Запрос на аренду в {0}</RequestForTenancyTitle>
+  <RequestForTenancyInitial>{PAWN_nameDef} ищет место для укрытия на некоторое время, и {PAWN_pronoun} готов заплатить вам за это. Не могли бы вы рассмотреть это предложение?</RequestForTenancyInitial>
+  <RequestForTenancyOpportunity>{PAWN_nameDef} прослушал вашу трансляцию и спрашивает, может ли {PAWN_pronoun} некоторое время жить с вами.</RequestForTenancyOpportunity>
+  <RequestForTenancyContinued>{PAWN_nameDef} просит продлить договор. Хотите продлить контракт?</RequestForTenancyContinued>
+  <RequestForTenancyContract>{PAWN_nameDef} живет с вами в общей сложности {0} дней и платит {1} серебра в день. Вы должны следить за всеми потребностями {PAWN_possessive}, включая безопасность. Невыполнение этого требования может привести в будущем к последствиям.\n\n{PAWN_pronoun} может расторгнуть договор в любое время. Полная оплата будет получена в конце срока действия контракта или всякий раз, когда {PAWN_pronoun} прекращает его. Вы можете расторгнуть договор, но любой платеж будет аннулирован.</RequestForTenancyContract>
+  <RequestForTenancyRejected>{1_labelShort} бормочет что-то вроде - кто бы хотел жить с тобой в любом случае...</RequestForTenancyRejected>
+  <RequestForTenancyContinuedRejected>{1_labelShort} опечален, но, тем не менее, принимает ваше решение.</RequestForTenancyContinuedRejected>
+
+  <RequestTenantWantToJoinTitle>Запрос от арендатора в {0}</RequestTenantWantToJoinTitle>
+  <RequestTenantWantToJoin>{PAWN_nameDef} любит находиться здесь и хочет остаться навсегда! Вы примете {PAWN_objective}? </RequestTenantWantToJoin>
+  <RequestTenantWantToJoinRejected>{PAWN_nameDef} утверждает, что {PAWN_pronoun} ваше мнение изменится!</RequestTenantWantToJoinRejected>
+
+  <ContractNew>Новый контракт</ContractNew>
+  <ContractEnd>Контракт заканчивается</ContractEnd>
+  <ContractBreach>Нарушение контракта</ContractBreach>
+  <ContractRenewedMessage>{PAWN_nameDef} продлевает {PAWN_possessive} договор аренды.</ContractRenewedMessage>
+  <ContractDoneHappy>Контракт с {PAWN_nameDef} заключен и полный платеж {0} получен. {PAWN_nameDef} очень доволен пребыванием с {PAWN_possessive}.</ContractDoneHappy>
+  <ContractDoneSad>Контракт с {PAWN_nameDef} заключен и полный платеж {0} получен. {PAWN_nameDef} несколько недоволен...</ContractDoneSad>
+  <ContractDone>Контракт с {PAWN_nameDef} заключен и полный платеж {0} получен.</ContractDone>
+  <ContractDoneTerminated>Контракт с {PAWN_nameDef} расторгнут и полный платеж {0} получен. {PAWN_nameDef} уходит несколько расстроенным...</ContractDoneTerminated>
+  <ContractDonePlayerTerminated>Контракт с {PAWN_nameDef} расторгается, и {PAWN_pronoun} вынужден уйти.</ContractDonePlayerTerminated>
+  <ContractDoneTheft>{PAWN_nameDef} решил уйти рано, не заплатив. {PAWN_pronoun} также имеет смелость, чтобы попытаться украсть у вас! Преступная мразь, такая как {PAWN_nameDef}, заслуживает наказания, и вы имеете право использовать {PAWN_objective} как вам угодно.</ContractDoneTheft>
+
+  <ContractEndDate>Заканчивается: {0}</ContractEndDate>
+  <ContractPayment>Оплата: {0}</ContractPayment>
+  <ContractLength>Дни: {0}</ContractLength>
+  <ContractDaily>Оплата/день: {0}</ContractDaily>
+  <TenantDescription>{PAWN_nameDef} имеет возраст {0} и равен {1}.</TenantDescription>
+
+  <ContractAgree>Согласен</ContractAgree>
+  <ContractReject>Отказать</ContractReject>
+  <MayJoin>Присоединить</MayJoin>
+  <MayJoinTip>Может ли арендатор потребовать постоянного присоединения к вашей колонии.</MayJoinTip>
+  <Terminate>Расторгнуть</Terminate>
+  <TerminateTip>Расторгнуть договор досрочно без оплаты.</TerminateTip>
+  <AutoRenew>Автопродление</AutoRenew>
+  <AutoRenewTip>Может ли арендатор автоматически продлить договор до истечения срока действия.</AutoRenewTip>
+  <InviteTenant>Широковещательное приглашение</InviteTenant>
+  <InviteTenantMessage>Трансляция отправляется по всему Rim с вашим местоположением. В сообщении утверждается, что для тех, у кого есть серебро, есть еда и удобные кровати.</InviteTenantMessage>
+
+</LanguageData>

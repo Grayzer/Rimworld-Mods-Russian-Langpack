@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Repair.tableTab>Предметы</Repair.tableTab>
+  <Repair.tabSuspend>Приостановить</Repair.tabSuspend>
+  <Repair.tabStockpile>Перенос на склад</Repair.tabStockpile>
+  <Repair.tabOutside>Внешние предметы</Repair.tabOutside>
+  <Repair.tabSearch>Радиус поиска:</Repair.tabSearch>
+
+  <Repair.BenchNoItems>Нет предметов для ремонта.</Repair.BenchNoItems>
+  <Repair.BenchNoMats>Недостает материалов для ремонта любых поврежденных предметов.</Repair.BenchNoMats>
+
+  <Repair.Mcm.ResourceModePrefix>Материалы</Repair.Mcm.ResourceModePrefix>
+  <Repair.Mcm.ResourceModeTip>Ресурсы используются для ремонта предмета.</Repair.Mcm.ResourceModeTip>
+  <Repair.Mcm.RepairRateText>Тик / HP</Repair.Mcm.RepairRateText>
+  <Repair.Mcm.RepairRateTip>Сколько тиков требуется для восстановления 1 HP (60 тиков = 1 секунда).</Repair.Mcm.RepairRateTip>
+  <Repair.Mcm.HpPerPackText>HP / Ремкомплект</Repair.Mcm.HpPerPackText>
+  <Repair.Mcm.HpPerPackTip>Сколько всего востанавливает ремкомплект.</Repair.Mcm.HpPerPackTip>
+  <Repair.Mcm.SkillMultText>Множитель умений пешки</Repair.Mcm.SkillMultText>
+  <Repair.Mcm.SkillMultTip>Множитель усиления навыка за восстановленное HP. Это базовый навык, а не числа, которые вы видите в игре (по умолчанию: 0,55).</Repair.Mcm.SkillMultTip>
+  <Repair.Mcm.PercentModeText>Режим процентов</Repair.Mcm.PercentModeText>
+  <Repair.Mcm.PercentModeTip>Наборы восстанавливают процент от HP вместо фиксированного значения.</Repair.Mcm.PercentModeTip>
+
+</LanguageData>

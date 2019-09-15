@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R3_AllowHarvested.label>препарирован</R3_AllowHarvested.label>
+  <R3_AllowHarvested.description>Разрешить трупы без оставшихся добавленных частей или имплантатов.</R3_AllowHarvested.description>
+
+  <R3_AllowUnharvested_Primitive.label>непрепарирован (примитивный)</R3_AllowUnharvested_Primitive.label>
+  <R3_AllowUnharvested_Primitive.description>Разрешить трупы с оставшимися добавленными частями или имплантатами примитивной сложности, которые могут быть отремонтированы.</R3_AllowUnharvested_Primitive.description>
+
+  <R3_AllowUnharvested_Advanced.label>непрепарирован (продвинутый)</R3_AllowUnharvested_Advanced.label>
+  <R3_AllowUnharvested_Advanced.description>Разрешить трупы с оставшимися добавленными частями или имплантатами продвинутой сложности, которые могут быть отремонтированы.</R3_AllowUnharvested_Advanced.description>
+
+  <R3_AllowUnharvested_Glittertech.label>непрепарирован (блестящий)</R3_AllowUnharvested_Glittertech.label>
+  <R3_AllowUnharvested_Glittertech.description>Разрешить трупы с оставшимися добавленными частями или имплантатами блестящей сложности, которые могут быть отремонтированы.</R3_AllowUnharvested_Glittertech.description>
+
+
+</LanguageData>

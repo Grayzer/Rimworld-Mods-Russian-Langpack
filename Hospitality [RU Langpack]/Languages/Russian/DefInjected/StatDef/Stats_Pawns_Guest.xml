@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RecruitRelationshipDamage.label>ущерб отношениям рекрута</RecruitRelationshipDamage.label>
+  <RecruitRelationshipDamage.description>Ущерб, нанесенный отношениям с фракцией этого человека при успешной вербовке.</RecruitRelationshipDamage.description>
+
+  <ForcedRecruitRelationshipDamage.label>ущерб отношениям принудительного рекрута</ForcedRecruitRelationshipDamage.label>
+  <ForcedRecruitRelationshipDamage.description>Ущерб, нанесенный отношениям с фракцией этого человека при насильственной вербовке.</ForcedRecruitRelationshipDamage.description>
+
+  <RecruitEffectivity.label>фактор эффективности вербовки</RecruitEffectivity.label>
+  <RecruitEffectivity.description>Эффективность при попытке очаровать посетителей присоединиться к вашей фракции.</RecruitEffectivity.description>
+
+
+</LanguageData>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Taser Electrode Cartridge -->
+
+  <Taser_Electrode_Cartridge.label>Тазерный картидж электродов</Taser_Electrode_Cartridge.label>
+
+
+  <!-- Taser Bullet Cartridge -->
+
+  <Taser_Bullet_Cartridge.label>Тазерный картидж пуль</Taser_Bullet_Cartridge.label>
+
+
+  <!-- Taser Shell Cartridge -->
+
+  <Taser_Shell_Cartridge.label>Тазерный картидж патронов</Taser_Shell_Cartridge.label>
+
+
+  <!-- Bolt Taser -->
+
+  <TaserBolt.label>Стрелочный Тазер</TaserBolt.label>
+  <TaserBolt.description>Первое оружие типа Тазер.</TaserBolt.description>
+  <TaserBolt.tools.0.label>рукоять</TaserBolt.tools.0.label>
+  <TaserBolt.tools.1.label>ствол</TaserBolt.tools.1.label>
+
+
+  <!-- Pulse Taser -->
+
+  <RimTaserPulse.label>Импульный Тазер</RimTaserPulse.label>
+  <RimTaserPulse.description>Первый формальный тип Тазера огнестрельного типа.</RimTaserPulse.description>
+  <RimTaserPulse.tools.0.label>рукоять</RimTaserPulse.tools.0.label>
+  <RimTaserPulse.tools.1.label>ствол</RimTaserPulse.tools.1.label>
+
+
+  <!-- M26 Taser -->
+
+  <M26RimTaser.label>M26 Тазер</M26RimTaser.label>
+  <M26RimTaser.description>Более вооруженная версия Импульсного Тазера.</M26RimTaser.description>
+  <M26RimTaser.tools.0.label>рукоять</M26RimTaser.tools.0.label>
+  <M26RimTaser.tools.1.label>ствол</M26RimTaser.tools.1.label>
+
+
+  <!-- X26 Taser -->
+
+  <X26RimTaser.label>X26 Тазер</X26RimTaser.label>
+  <X26RimTaser.description>Более изысканная версия M26 Тазера.</X26RimTaser.description>
+  <X26RimTaser.tools.0.label>рукоять</X26RimTaser.tools.0.label>
+  <X26RimTaser.tools.1.label>ствол</X26RimTaser.tools.1.label>
+
+
+  <!-- X2 Taser -->
+
+  <X2RimTaser.label>X2 Тазер</X2RimTaser.label>
+  <X2RimTaser.description>Следующий шаг от X26 Тазера.</X2RimTaser.description>
+  <X2RimTaser.tools.0.label>рукоять</X2RimTaser.tools.0.label>
+  <X2RimTaser.tools.1.label>ствол</X2RimTaser.tools.1.label>
+
+
+  <!-- X3 Taser -->
+
+  <X3RimTaser.label>X3 Тазер</X3RimTaser.label>
+  <X3RimTaser.description>Самый современный тип ручных тазеров.</X3RimTaser.description>
+  <X3RimTaser.tools.0.label>рукоять</X3RimTaser.tools.0.label>
+  <X3RimTaser.tools.1.label>ствол</X3RimTaser.tools.1.label>
+
+
+  <!-- X12 Taser -->
+
+  <X12RimTaser.label>X12 Тазер</X12RimTaser.label>
+  <X12RimTaser.description>Вариант Тазера-дробовика.</X12RimTaser.description>
+  <X12RimTaser.tools.0.label>рукоять</X12RimTaser.tools.0.label>
+  <X12RimTaser.tools.1.label>ствол</X12RimTaser.tools.1.label>
+
+
+  <!-- Taser Rifle -->
+
+  <RimTaserRifle.label>Тазер ружье</RimTaserRifle.label>
+  <RimTaserRifle.description>Вариант штурмового тазера.</RimTaserRifle.description>
+  <RimTaserRifle.tools.0.label>рукоять</RimTaserRifle.tools.0.label>
+  <RimTaserRifle.tools.1.label>ствол</RimTaserRifle.tools.1.label>
+
+
+  <!-- Taser Sniper -->
+
+  <RimTaserSniper.label>Тазер снайперка</RimTaserSniper.label>
+  <RimTaserSniper.description>Сверх-дальний, снайперский вариант тазера.</RimTaserSniper.description>
+  <RimTaserSniper.tools.0.label>рукоять</RimTaserSniper.tools.0.label>
+  <RimTaserSniper.tools.1.label>ствол</RimTaserSniper.tools.1.label>
+
+
+</LanguageData>

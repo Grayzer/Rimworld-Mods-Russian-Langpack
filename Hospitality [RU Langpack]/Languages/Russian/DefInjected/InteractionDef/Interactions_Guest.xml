@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestDiplomacy.label>улучшить отношения</GuestDiplomacy.label>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] провел дипломатический разговор с [RECIPIENT_nameDef] о [TalkTopicLight].</GuestDiplomacy.logRulesInitiator.rulesStrings.0>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] обсудил политическую значимость [subject] с [RECIPIENT_nameDef].</GuestDiplomacy.logRulesInitiator.rulesStrings.1>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</GuestDiplomacy.logRulesInitiator.rulesStrings.2>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] [complimented] фракцию [RECIPIENT_nameDef].</GuestDiplomacy.logRulesInitiator.rulesStrings.3>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] [complimented] отношения с [RECIPIENT_factionName].</GuestDiplomacy.logRulesInitiator.rulesStrings.4>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] передал привет [RECIPIENT_nameDef] [PersonFamily].</GuestDiplomacy.logRulesInitiator.rulesStrings.5>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef] попытался связаться с [RECIPIENT_nameDef] относительно их общем [opinion].</GuestDiplomacy.logRulesInitiator.rulesStrings.6>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.7>opinion->поддерживании [ConceptPositive]</GuestDiplomacy.logRulesInitiator.rulesStrings.7>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.8>opinion->отвращении к [ConceptNegative]</GuestDiplomacy.logRulesInitiator.rulesStrings.8>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.9>opinion->страхе [ConceptNegative]</GuestDiplomacy.logRulesInitiator.rulesStrings.9>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.10>opinion->мнении о [ConceptAny]</GuestDiplomacy.logRulesInitiator.rulesStrings.10>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.11>opinion->желании для [ConceptPositive]</GuestDiplomacy.logRulesInitiator.rulesStrings.11>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.12>complimented->превозносил</GuestDiplomacy.logRulesInitiator.rulesStrings.12>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.13>complimented->хвалил</GuestDiplomacy.logRulesInitiator.rulesStrings.13>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.14>complimented->славил</GuestDiplomacy.logRulesInitiator.rulesStrings.14>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.15>complimented->одобряет</GuestDiplomacy.logRulesInitiator.rulesStrings.15>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.16>complimented->прославляет</GuestDiplomacy.logRulesInitiator.rulesStrings.16>
+
+  <CharmGuestAttempt.label>попытка очарования</CharmGuestAttempt.label>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [saidwords] [RECIPIENT_nameDef].</CharmGuestAttempt.logRulesInitiator.rulesStrings.0>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] рассказал [RECIPIENT_nameDef] обо всех [ConceptPositive] в [INITIATOR_factionName].</CharmGuestAttempt.logRulesInitiator.rulesStrings.1>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] рассказал [RECIPIENT_nameDef] [adjwords] вещях у других колонистов.</CharmGuestAttempt.logRulesInitiator.rulesStrings.2>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] представил [RECIPIENT_nameDef] другому колонисту.</CharmGuestAttempt.logRulesInitiator.rulesStrings.3>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.4>saidwords->said [adjwords] слова для</CharmGuestAttempt.logRulesInitiator.rulesStrings.4>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.5>saidwords->экспрессивно [ConceptPositive] в сторону</CharmGuestAttempt.logRulesInitiator.rulesStrings.5>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.6>saidwords->сделал [adjwords] жест в сторону</CharmGuestAttempt.logRulesInitiator.rulesStrings.6>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.7>adjwords->интригующий</CharmGuestAttempt.logRulesInitiator.rulesStrings.7>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.8>adjwords->любезный</CharmGuestAttempt.logRulesInitiator.rulesStrings.8>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.9>adjwords->приглашающий</CharmGuestAttempt.logRulesInitiator.rulesStrings.9>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.10>adjwords->дружелюбный</CharmGuestAttempt.logRulesInitiator.rulesStrings.10>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.11>adjwords->чарующий</CharmGuestAttempt.logRulesInitiator.rulesStrings.11>
+
+
+</LanguageData>

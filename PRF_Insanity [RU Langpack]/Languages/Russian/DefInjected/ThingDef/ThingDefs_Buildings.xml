@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PRFQuantumComputer.label>Квантовый компьютер</PRFQuantumComputer.label>
+  <PRFQuantumComputer.description>Требуется для исследований автоматизации уровня 3 - увеличивает скорость исследования на 75%. Нужно размещаться вблизи иследовательского стола с ИИ. Потребляет значительную энергию. Один исследовательский стол может быть связан только с одним квантовым компьютером.</PRFQuantumComputer.description>
+
+  <PaperclipFactory.label>Завод скрепки</PaperclipFactory.label>
+  <PaperclipFactory.description>Машина, которая превращает в скрепки любой материал - металл, растение или труп.</PaperclipFactory.description>
+
+  <PRFPaperclipPowerGenerator.label>Генератор на скрепках</PRFPaperclipPowerGenerator.label>
+  <PRFPaperclipPowerGenerator.description>Производит энергию, потребляя скрепки. Должен подпитываться вручную.</PRFPaperclipPowerGenerator.description>
+
+  <AtomicReconstructor.label>Атомный реконструктор</AtomicReconstructor.label>
+  <AtomicReconstructor.description>Преобразует скрепки в нечто более полезное.</AtomicReconstructor.description>
+
+  <PRFMegaCapacitor.label>Мега-Конденсатор</PRFMegaCapacitor.label>
+  <PRFMegaCapacitor.description>>Аккумулятор, который может хранить 1000000 Вт энергии. Имеет 100% эффективность. Он также водонепроницаем.</PRFMegaCapacitor.description>
+
+  <PRFHexCapacitor.label>Хекс-Конденсатор</PRFHexCapacitor.label>
+  <PRFHexCapacitor.description>>Аккумулятор, который использует шестнадцатеричные ячейки для хранения энергии в 16 миллионов ватт. Имеет 100% эффективность. Он также водонепроницаем.</PRFHexCapacitor.description>
+
+  <PRFPaperclipDuplicator.label>Дубликатор скрепки</PRFPaperclipDuplicator.label>
+  <PRFPaperclipDuplicator.description>Дупликатор Банаха-Тарского должен дублировать скрепки. Ежедневно количество скрепки увеличивается на 5%. Любые попытки вмешаться с дубликатором скрепки уничтожают все сохраненные скрепки.</PRFPaperclipDuplicator.description>
+
+
+</LanguageData>

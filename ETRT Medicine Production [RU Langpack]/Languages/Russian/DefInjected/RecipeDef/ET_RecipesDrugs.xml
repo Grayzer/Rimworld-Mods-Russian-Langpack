@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Drugs and Medicine Crafting -->
+
+  <ET_MakeNeutroamine.label>сделать нейтроамин</ET_MakeNeutroamine.label>
+  <ET_MakeNeutroamine.description>Сделать нейтроамин.</ET_MakeNeutroamine.description>
+  <ET_MakeNeutroamine.jobString>делает нейтроамин</ET_MakeNeutroamine.jobString>
+
+  <ET_MakeLuciferium.label>сделать люцефериум</ET_MakeLuciferium.label>
+  <ET_MakeLuciferium.description>Сделать люцефериум.</ET_MakeLuciferium.description>
+  <ET_MakeLuciferium.jobString>делает люцефериум</ET_MakeLuciferium.jobString>
+
+  <ET_Make5Neutroamine.label>сделать нейтроамин(5)</ET_Make5Neutroamine.label>
+  <ET_Make5Neutroamine.description>Сделать нейтроамин(5).</ET_Make5Neutroamine.description>
+  <ET_Make5Neutroamine.jobString>делает 5 Neutroamine</ET_Make5Neutroamine.jobString>
+
+  <ET_Make5Luciferium.label>сделать люцефериум(5)</ET_Make5Luciferium.label>
+  <ET_Make5Luciferium.description>Сделать люцефериум(5).</ET_Make5Luciferium.description>
+  <ET_Make5Luciferium.jobString>делает люцефериум(5)</ET_Make5Luciferium.jobString>
+
+  <ET_MakeUltratech.label>сделать передовую медицину</ET_MakeUltratech.label>
+  <ET_MakeUltratech.description>Сделать передовую медицину.</ET_MakeUltratech.description>
+  <ET_MakeUltratech.jobString>делает передовую медицину</ET_MakeUltratech.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TradingSpot>Место торговли</TradingSpot>
+  <TradingSpot.AlreadyOnMap>На одну карту разрешено только одно торговое место. Удалите старую точку.</TradingSpot.AlreadyOnMap>
+  <TradingSpot.VisitorsGoToTradeSpot>Посетители идут на место торговли.</TradingSpot.VisitorsGoToTradeSpot>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tazed.label>шокирован</Tazed.label>
+  <Tazed.stages.0.label>слабо</Tazed.stages.0.label>
+  <Tazed.stages.1.label>средне</Tazed.stages.1.label>
+  <Tazed.stages.2.label>сильно</Tazed.stages.2.label>
+  <Tazed.stages.3.label>критично</Tazed.stages.3.label>
+  <Tazed.stages.4.label>фатально</Tazed.stages.4.label>
+  <Tazed.injuryProps.destroyedLabel>Эвтаназирован</Tazed.injuryProps.destroyedLabel>
+  <Tazed.injuryProps.destroyedOutLabel>Эвтаназирован</Tazed.injuryProps.destroyedOutLabel>
+  <Tazed.labelNoun>находится в шоке</Tazed.labelNoun>
+
+
+</LanguageData>

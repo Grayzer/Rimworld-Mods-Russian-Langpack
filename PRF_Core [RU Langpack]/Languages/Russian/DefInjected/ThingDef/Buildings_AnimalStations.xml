@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shearer.label>Косарь</Shearer.label>
+  <Shearer.description>Ящик для кормления 2x2 для ваших прирученных животных, но под коробкой находится набор роботизированных рук и ножниц для сбора шерсти с минимальной инвазивностью. Падает шерсть, где стоит животное. Работает на любом прирученном животном.</Shearer.description>
+  <Shearer_Blueprint.label>Косарь (чертеж)</Shearer_Blueprint.label>
+  <Shearer_Frame.label>Косарь (стройка)</Shearer_Frame.label>
+  <Shearer_Frame.description>Ящик для кормления 2x2 для ваших прирученных животных, но под коробкой находится набор роботизированных рук и ножниц для сбора шерсти с минимальной инвазивностью. Падает шерсть, где стоит животное. Работает на любом прирученном животном.</Shearer_Frame.description>
+
+  <Milker.label>Дояр</Milker.label>
+  <Milker.description>Ящик для кормления 2x2 для ваших прирученных животных, но под коробкой находится набор роботизированных рук и сборщиков для сбора молока с минимальной инвазивностью. Падает шерсть, где стоит животное. Работает на любом прирученном животном.</Milker.description>
+  <Milker_Blueprint.label>Дояр (чертеж)</Milker_Blueprint.label>
+  <Milker_Frame.label>Дояр (стройка)</Milker_Frame.label>
+  <Milker_Frame.description>Ящик для кормления 2x2 для ваших прирученных животных, но под коробкой находится набор роботизированных рук и сборщиков для сбора молока с минимальной инвазивностью. Падает шерсть, где стоит животное. Работает на любом прирученном животном.</Milker_Frame.description>
+
+  <GenericAnimalHarvester.label>Универсальный комбайн для животных</GenericAnimalHarvester.label>
+  <GenericAnimalHarvester.description>Более продвинутая версия дойщика/косаря, которая может собирать любой продукт у животного.</GenericAnimalHarvester.description>
+  <GenericAnimalHarvester_Blueprint.label>Универсальный комбайн для животных (чертеж)</GenericAnimalHarvester_Blueprint.label>
+  <GenericAnimalHarvester_Frame.label>Универсальный комбайн для животных (стройка)</GenericAnimalHarvester_Frame.label>
+  <GenericAnimalHarvester_Frame.description>>Более продвинутая версия дойщика/косаря, которая может собирать любой продукт у животного.</GenericAnimalHarvester_Frame.description>
+
+
+</LanguageData>

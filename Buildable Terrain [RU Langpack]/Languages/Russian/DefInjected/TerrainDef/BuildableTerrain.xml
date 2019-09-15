@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Soil.label>земля</Soil.label>-->
+  <Soil.description>Основная почва, идеально подходит для выращивания.</Soil.description>
+  <!--[Core] <Soil.tools.0.label>dirt</Soil.tools.0.label>-->
+
+  <!--[Core] <Sand.label>песок</Sand.label>-->
+  <Sand.description>Песок: это раздражает, и он проникает повсюду.</Sand.description>
+  <!--[Core] <Sand.tools.0.label>sand</Sand.tools.0.label>-->
+
+  <!--[Core] <MarshyTerrain.label>заболоченное место</MarshyTerrain.label>-->
+  <MarshyTerrain.description>Болотистая почва, ужасная грязная местность, идеально подходящая для замедления движения друзей и врагов.</MarshyTerrain.description>
+  <!--[Core] <MarshyTerrain.tools.0.label>mud</MarshyTerrain.tools.0.label>-->
+
+  <!--[Core] <SoilRich.label>плодородная почва</SoilRich.label>-->
+  <SoilRich.description>Богатая почва идеально подходит для выращивания.</SoilRich.description>
+  <!--[Core] <SoilRich.tools.0.label>dirt</SoilRich.tools.0.label>-->
+
+  <!--[Core] <Mud.label>грязь</Mud.label>-->
+  <Mud.description>Грязь влажная и липкая.</Mud.description>
+  <!--[Core] <Mud.tools.0.label>mud</Mud.tools.0.label>-->
+
+  <!--[Core] <Gravel.label>каменистый грунт</Gravel.label>-->
+  <Gravel.description>Гравий - бедная фертильность, но хорош для крайнего случая.</Gravel.description>
+  <!--[Core] <Gravel.tools.0.label>gravel</Gravel.tools.0.label>-->
+
+  <!--[Core] <MossyTerrain.label>замшелая почва</MossyTerrain.label>-->
+  <MossyTerrain.description>Лишайник покрывает грязь.</MossyTerrain.description>
+
+  <!--[Core] <SoftSand.label>мягкий песок</SoftSand.label>-->
+  <SoftSand.description>Он мягкий и сыпучий.</SoftSand.description>
+  <!--[Core] <SoftSand.tools.0.label>sand</SoftSand.tools.0.label>-->
+
+  <!--[Core] <Ice.label>лёд</Ice.label>-->
+  <Ice.description>Сплошное скользкое пятно льда.</Ice.description>
+
+  <!--[Core] <Marsh.label>болото</Marsh.label>-->
+  <Marsh.description>Болото - ужасная грязная местность, хороша для замедления как друзей, так и врагов.</Marsh.description>
+  <!--[Core] <Marsh.tools.0.label>water</Marsh.tools.0.label>-->
+
+  <!--[Core] <WaterDeep.label>глубокая вода</WaterDeep.label>-->
+  <!--[Core] <WaterDeep.tools.0.label>water</WaterDeep.tools.0.label>-->
+
+  <!--[Core] <WaterOceanDeep.label>глубины океана</WaterOceanDeep.label>-->
+  <!--[Core] <WaterOceanDeep.tools.0.label>water</WaterOceanDeep.tools.0.label>-->
+
+  <!--[Core] <WaterMovingChestDeep.label>течение по грудь</WaterMovingChestDeep.label>-->
+  <!--[Core] <WaterMovingChestDeep.tools.0.label>water</WaterMovingChestDeep.tools.0.label>-->
+
+  <!--[Core] <WaterShallow.label>мелководье</WaterShallow.label>-->
+  <!--[Core] <WaterShallow.tools.0.label>water</WaterShallow.tools.0.label>-->
+
+  <!--[Core] <WaterOceanShallow.label>океаническое мелководье</WaterOceanShallow.label>-->
+  <!--[Core] <WaterOceanShallow.tools.0.label>water</WaterOceanShallow.tools.0.label>-->
+
+  <!--[Core] <WaterMovingShallow.label>мелководное течение</WaterMovingShallow.label>-->
+  <!--[Core] <WaterMovingShallow.tools.0.label>water</WaterMovingShallow.tools.0.label>-->
+
+  <Smooth_Sandstone.label>гладкий песчаник</Smooth_Sandstone.label>
+  <Smooth_Sandstone.description>Сглаженная скала из песчаника.</Smooth_Sandstone.description>
+
+  <Smooth_Marble.label>гладкий мрамор</Smooth_Marble.label>
+  <Smooth_Marble.description>Сглаженный мрамор из песчаника.</Smooth_Marble.description>
+
+  <Smooth_Granite.label>гладкий гранит</Smooth_Granite.label>
+  <Smooth_Granite.description>Сглаженная гранитная скала.</Smooth_Granite.description>
+
+  <Smooth_Slate.label>гладкий сланец</Smooth_Slate.label>
+  <Smooth_Slate.description>Сглаженная сланцевая порода.</Smooth_Slate.description>
+
+  <Smooth_Limestone.label>гладкий известняк</Smooth_Limestone.label>
+  <Smooth_Limestone.description>Сглаженная известняковая скала.</Smooth_Limestone.description>
+
+
+</LanguageData>

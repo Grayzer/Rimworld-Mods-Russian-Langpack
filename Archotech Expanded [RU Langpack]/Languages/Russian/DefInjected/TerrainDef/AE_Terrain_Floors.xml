@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AttomachineryFloor.label>аттомашины</AttomachineryFloor.label>
+  <AttomachineryFloor.description>Ультра чистый пол, который выглядит совершенно потрясающе. Этот этаж выглядит почти живым с количеством деталей. Любой был бы в восторге, просто стоя на плитке.</AttomachineryFloor.description>
+
+  <AttomachineryWood.label>аттодревесина</AttomachineryWood.label>
+  <AttomachineryWood.description>Аттомашины, которые перестроили и покрасили себя в текстуру и цвет натурального дуба. Он практически неотличим от дерева, кроме частей узоров.</AttomachineryWood.description>
+
+  <AttomachineryRedCarpet.label>красный аттоковер</AttomachineryRedCarpet.label>
+  <AttomachineryRedCarpet.description>Аттомашины, которые перестроили и покрасили себя в текстуру и цвет богатого красного ковра. Этот аналог ковра кажется похожим на красный ковер. Это очень мило.</AttomachineryRedCarpet.description>
+
+  <AttomachineryBlueCarpet.label>синий аттоковер</AttomachineryBlueCarpet.label>
+  <AttomachineryBlueCarpet.description>Аттомашины, которые перестроили и покрасили себя в текстуру и цвет темно-синего ковра. Этот ковровый аналог ощущается как мелкий ручей, идеальная температура. Не оставляет следов или неприятных ощущений.</AttomachineryBlueCarpet.description>
+
+  <AttomachineryGreenCarpet.label>зеленый аттоковер</AttomachineryGreenCarpet.label>
+  <AttomachineryGreenCarpet.description>Аттомашины, которые перестроили и покрасили себя в текстуру и цвет мшистого зеленого ковра. Это похоже на короткую, густую и сочную траву под ногами. Для любителей природы.</AttomachineryGreenCarpet.description>
+
+  <AttomachineryCreamCarpet.label>кремовый аттоковер</AttomachineryCreamCarpet.label>
+  <AttomachineryCreamCarpet.description>Аттомашины, которые перестроили и покрасили себя до текстуры и цвета кремово-белого ковра. Это похоже на ходьбу через взбитые сливки, хотя и не оставляет следов или запаха, которые бы указывали на иное.</AttomachineryCreamCarpet.description>
+
+  <AttomachineryGrayCarpet.label>серый аттоковер</AttomachineryGrayCarpet.label>
+  <AttomachineryGrayCarpet.description>Аттомашины, которые перестроили и покрасили себя в текстуру и цвет темно-серого ковра. Удивительно, но этот аналог ковра кажется настолько нейтральным, что нельзя не чувствовать себя равнодушным к нему. Это не скучно, просто профессионально.</AttomachineryGrayCarpet.description>
+
+  <AttomachineryNaturalState.label>натуральные аттомашины</AttomachineryNaturalState.label>
+  <AttomachineryNaturalState.description>Естественное состояние аттомашин. С этим глубоким зеленым цветом кажется, что он находится между аналогом бетона и ковра.</AttomachineryNaturalState.description>
+
+  <AttomachineryNaturalsoil.label>аттопочва</AttomachineryNaturalsoil.label>
+  <AttomachineryNaturalsoil.description>Аттомашины извлекают энергию из квантовой пены для того, чтобы питать растение. Она прекрасно собирается таким образом, что растение прекрасно растет в кратчайшие сроки.</AttomachineryNaturalsoil.description>
+
+  <PicomachineryFloor.label>пикомашины</PicomachineryFloor.label>
+  <PicomachineryFloor.description>Ультра чистый пол, который выглядит потрясающе. Этот этаж выглядит почти живым с количеством деталей. Любой был бы в восторге, просто стоя на плитке.</PicomachineryFloor.description>
+
+  <PicomachineryWood.label>пикодревесина</PicomachineryWood.label>
+  <PicomachineryWood.description>Пикомашины, которые перестроили и покрасили себя в текстуру и цвет натурального красного дерева. Он практически неотличим от дерева, кроме узоров.</PicomachineryWood.description>
+
+  <PicomachineryRedCarpet.label>красный пикоковер</PicomachineryRedCarpet.label>
+  <PicomachineryRedCarpet.description>Пикомашины, которые перестроили и покрасили себя в текстуру и цвет богатого красного ковра. Этот аналог ковра кажется похожим на красный ковер. Это очень мило.</PicomachineryRedCarpet.description>
+
+  <PicomachineryBlueCarpet.label>синий пикоковер</PicomachineryBlueCarpet.label>
+  <PicomachineryBlueCarpet.description>Пикомашины, которые перестроили и покрасили себя в текстуру и цвет темно-синего ковра. Этот ковровый аналог ощущается как мелкий ручей, идеальная температура. Не оставляет следов или неприятных ощущений.</PicomachineryBlueCarpet.description>
+
+  <PicomachineryGreenCarpet.label>зеленый пикоковер</PicomachineryGreenCarpet.label>
+  <PicomachineryGreenCarpet.description>Picomachines, которые перестроили и покрасили себя в текстуру и цвет мшистого зеленого ковра. Это похоже на короткую, густую и сочную траву под ногами. Для любителей природы.</PicomachineryGreenCarpet.description>
+
+  <PicomachineryCreamCarpet.label>кремовый пикоковер</PicomachineryCreamCarpet.label>
+  <PicomachineryCreamCarpet.description>Пикомашины, которые перестроили и покрасили себя в текстуру и цвет кремово-белого ковра. Это похоже на ходьбу через взбитые сливки, хотя и не оставляет следов или запаха, которые бы указывали на иное.</PicomachineryCreamCarpet.description>
+
+  <PicomachineryGrayCarpet.label>серый пикоковер</PicomachineryGrayCarpet.label>
+  <PicomachineryGrayCarpet.description>Пикомашины, которые перестроили и покрасили себя в текстуру и цвет темно-серого ковра. Удивительно, но этот аналог ковра кажется настолько нейтральным, что нельзя не чувствовать себя равнодушным к нему. Это не скучно, просто профессионально.</PicomachineryGrayCarpet.description>
+
+  <PicomachineryNaturalState.label>натуральные пикомашины</PicomachineryNaturalState.label>
+  <PicomachineryNaturalState.description>Естественное состояние пикомашины. С этим темно-фиолетовым цветом кажется, что он находится между аналогом бетона, ковра и дерева.</PicomachineryNaturalState.description>
+
+  <PicomachineryNaturalsoil.label>пикопочва</PicomachineryNaturalsoil.label>
+  <PicomachineryNaturalsoil.description>Пикомашины, которые имитируют практически идеальную среду для любого растения. Сначала он сканирует растение, выясняет, что ему нужно, а затем идеально его снабжает, обеспечивая идеальные темпы роста.</PicomachineryNaturalsoil.description>
+
+  <NanomachineryFloor.label>наномашины</NanomachineryFloor.label>
+  <NanomachineryFloor.description>Ультра чистый пол, который выглядит потрясающе. Этот этаж выглядит почти живым с количеством деталей. Любой был бы в восторге, просто стоя на плитке.</NanomachineryFloor.description>
+
+  <NanomachineryWood.label>нанодревесина</NanomachineryWood.label>
+  <NanomachineryWood.description>Наномашины, которые перестроились и покрасились под текстуру и цвет натурального каштана. Он практически неотличим от дерева, кроме узоров.</NanomachineryWood.description>
+
+  <NanomachineryRedCarpet.label>красный наноковер</NanomachineryRedCarpet.label>
+  <NanomachineryRedCarpet.description>Наномашины, которые перестроились и покрасились под фактуру и цвет богатого красного ковра. Этот аналог ковра кажется похожим на красный ковер. Это очень мило.</NanomachineryRedCarpet.description>
+
+  <NanomachineryBlueCarpet.label>синий наноковер</NanomachineryBlueCarpet.label>
+  <NanomachineryBlueCarpet.description>Наномашины, которые перестроили и покрасили в текстуру и цвет темно-синего ковра. Этот ковровый аналог ощущается как мелкий ручей, идеальная температура. Не оставляет следов или неприятных ощущений.</NanomachineryBlueCarpet.description>
+
+  <NanomachineryGreenCarpet.label>зеленый наноковер</NanomachineryGreenCarpet.label>
+  <NanomachineryGreenCarpet.description>Наномашины, которые перестроились и покрасились под текстуру и цвет мшистого зеленого ковра. Это похоже на короткую, густую и сочную траву под ногами. Для любителей природы.</NanomachineryGreenCarpet.description>
+
+  <NanomachineryCreamCarpet.label>кремовый наноковер</NanomachineryCreamCarpet.label>
+  <NanomachineryCreamCarpet.description>Наномашины, которые перестроили и покрасили себя до текстуры и цвета кремово-белого ковра. Это похоже на ходьбу через взбитые сливки, хотя и не оставляет следов или запаха, которые бы указывали на иное.</NanomachineryCreamCarpet.description>
+
+  <NanomachineryGrayCarpet.label>серый наноковер</NanomachineryGrayCarpet.label>
+  <NanomachineryGrayCarpet.description>Наномашины, которые перестроили и покрасили себя в текстуру и цвет темно-серого ковра. Удивительно, но этот аналог ковра кажется настолько нейтральным, что нельзя не чувствовать себя равнодушным к нему. Это не скучно, просто профессионально.</NanomachineryGrayCarpet.description>
+
+  <NanomachineryNaturalState.label>натуральные наномашины</NanomachineryNaturalState.label>
+  <NanomachineryNaturalState.description>Естественное состояние наномашин. С этим глубоким синим цветом кажется, что он находится между аналогом бетона, ковра и дерева.</NanomachineryNaturalState.description>
+
+  <NanomachineryNaturalsoil.label>нанопочва</NanomachineryNaturalsoil.label>
+  <NanomachineryNaturalsoil.description>Наномашины превращаются в почву, похожую на аналог, а также имитируют питательные вещества и некоторые микроэлементы, идеально подходящие для выращивания. Хотя и не так хорошо, как пикопочва или аттопочва, но это, безусловно, шаг вперед от обычной грязи.</NanomachineryNaturalsoil.description>
+
+
+</LanguageData>

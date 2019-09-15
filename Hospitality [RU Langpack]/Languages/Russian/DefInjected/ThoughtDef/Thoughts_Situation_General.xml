@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestCantAffordBed.stages.0.label>не могу позволить себе кровать</GuestCantAffordBed.stages.0.label>
+  <GuestCantAffordBed.stages.0.description>Я не могу позволить себе одну из свободных кроватей.</GuestCantAffordBed.stages.0.description>
+
+  <GuestBedCount.stages.0.label>нет гостевых кроватей</GuestBedCount.stages.0.label>
+  <GuestBedCount.stages.0.description>У них здесь даже нет кроватей.</GuestBedCount.stages.0.description>
+  <GuestBedCount.stages.1.label>недостаточно гостевых кроватей</GuestBedCount.stages.1.label>
+  <GuestBedCount.stages.1.description>Там должно быть больше кроватей для гостей.</GuestBedCount.stages.1.description>
+  <GuestBedCount.stages.2.label>достаточно кроватей</GuestBedCount.stages.2.label>
+  <GuestBedCount.stages.2.description>В нашей комнате достаточно кроватей для всех нас.</GuestBedCount.stages.2.description>
+  <GuestBedCount.stages.3.label>много кроватей</GuestBedCount.stages.3.label>
+  <GuestBedCount.stages.3.description>Вау, так много кроватей!</GuestBedCount.stages.3.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BodyPartsReclaimed.label>Починенные части тела</BodyPartsReclaimed.label>
+  <BodyPartsNonSterile.label>Нестерильная часть тела</BodyPartsNonSterile.label>
+  <BodyPartsNonSterile_Primitive.label>Примитивная нестерильная часть тела</BodyPartsNonSterile_Primitive.label>
+  <BodyPartsNonSterile_Advanced.label>Продвинутая нестерильная часть тела</BodyPartsNonSterile_Advanced.label>
+  <BodyPartsNonSterile_Glittertech.label>Блестящяя нестерильная часть тела</BodyPartsNonSterile_Glittertech.label>
+  <BodyPartsMangled.label>Поврежденные части тела</BodyPartsMangled.label>
+  <BodyPartsMangled_Primitive.label>Примитивная поврежденная часть тела</BodyPartsMangled_Primitive.label>
+  <BodyPartsMangled_Advanced.label>Продвинутая поврежденная часть тела</BodyPartsMangled_Advanced.label>
+  <BodyPartsMangled_Glittertech.label>Блестящяя поврежденная часть тела</BodyPartsMangled_Glittertech.label>
+
+
+</LanguageData>

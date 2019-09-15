@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallArchotechDenture.label>вживить архотек челюсть</InstallArchotechDenture.label>
+  <InstallArchotechDenture.description>Вживить архотек челюсть.</InstallArchotechDenture.description>
+  <InstallArchotechDenture.jobString>вживляет архотек челюсть.</InstallArchotechDenture.jobString>
+
+  <InstallArchotechHeart.label>вживить архотек сердце</InstallArchotechHeart.label>
+  <InstallArchotechHeart.description>Вживить архотек сердце.</InstallArchotechHeart.description>
+  <InstallArchotechHeart.jobString>вживляет архотек сердце.</InstallArchotechHeart.jobString>
+
+  <InstallArchotechLung.label>вживить архотек легкое</InstallArchotechLung.label>
+  <InstallArchotechLung.description>Вживить архотек легкое.</InstallArchotechLung.description>
+  <InstallArchotechLung.jobString>вживляет архотек легкое.</InstallArchotechLung.jobString>
+
+  <InstallArchotechSpine.label>вживить архотек позвоночник</InstallArchotechSpine.label>
+  <InstallArchotechSpine.description>Вживить архотек позвоночник.</InstallArchotechSpine.description>
+  <InstallArchotechSpine.jobString>вживляет архотек позвоночник.</InstallArchotechSpine.jobString>
+
+  <InstallArchotechPelvis.label>вживить архотек таз</InstallArchotechPelvis.label>
+  <InstallArchotechPelvis.description>Вживить архотек таз.</InstallArchotechPelvis.description>
+  <InstallArchotechPelvis.jobString>вживляет архотек таз.</InstallArchotechPelvis.jobString>
+
+  <InstallArchotechStomach.label>вживить архотек желудок</InstallArchotechStomach.label>
+  <InstallArchotechStomach.description>Вживить архотек желудок.</InstallArchotechStomach.description>
+  <InstallArchotechStomach.jobString>вживляет архотек желудок.</InstallArchotechStomach.jobString>
+
+  <InstallArchotechLiver.label>вживить архотек печень</InstallArchotechLiver.label>
+  <InstallArchotechLiver.description>Вживить архотек печень.</InstallArchotechLiver.description>
+  <InstallArchotechLiver.jobString>вживляет архотек печень.</InstallArchotechLiver.jobString>
+
+  <InstallArchotechKidney.label>вживить архотек почку</InstallArchotechKidney.label>
+  <InstallArchotechKidney.description>Вживить архотек почку.</InstallArchotechKidney.description>
+  <InstallArchotechKidney.jobString>вживляет архотек почку.</InstallArchotechKidney.jobString>
+
+  <InstallArchotechEar.label>вживить архотек ухо</InstallArchotechEar.label>
+  <InstallArchotechEar.description>Вживить архотек ухо.</InstallArchotechEar.description>
+  <InstallArchotechEar.jobString>вживляет архотек ухо.</InstallArchotechEar.jobString>
+
+  <InstallArchotechDeathClaw.label>вживить архотек коготь</InstallArchotechDeathClaw.label>
+  <InstallArchotechDeathClaw.description>Вживить архотек коготь.</InstallArchotechDeathClaw.description>
+  <InstallArchotechDeathClaw.jobString>вживляет архотек коготь.</InstallArchotechDeathClaw.jobString>
+
+  <InstallArchotechBrainMelder.label>вживить архотек когнитатор</InstallArchotechBrainMelder.label>
+  <InstallArchotechBrainMelder.description>Вживить архотек когнитатор.</InstallArchotechBrainMelder.description>
+  <InstallArchotechBrainMelder.jobString>вживляет aархотек когнитатор.</InstallArchotechBrainMelder.jobString>
+
+  <InstallAdvancedArchotechLeg.label>вживить улучшенную архотек ногу</InstallAdvancedArchotechLeg.label>
+  <InstallAdvancedArchotechLeg.description>Вживить улучшенную архотек ногу.</InstallAdvancedArchotechLeg.description>
+  <InstallAdvancedArchotechLeg.jobString>вживляет улучшенную архотек ногу.</InstallAdvancedArchotechLeg.jobString>
+
+  <InstallAdvancedArchotechArm.label>вживить улучшенную архотек руку</InstallAdvancedArchotechArm.label>
+  <InstallAdvancedArchotechArm.description>Вживить улучшенную архотек руку.</InstallAdvancedArchotechArm.description>
+  <InstallAdvancedArchotechArm.jobString>вживляет улучшенную архотек руку.</InstallAdvancedArchotechArm.jobString>
+
+  <InstallArchotechObliterator.label>вживить архотек облитератор</InstallArchotechObliterator.label>
+  <InstallArchotechObliterator.description>Вживить архотек облитератор.</InstallArchotechObliterator.description>
+  <InstallArchotechObliterator.jobString>вживляет архотек облитератор.</InstallArchotechObliterator.jobString>
+
+
+</LanguageData>

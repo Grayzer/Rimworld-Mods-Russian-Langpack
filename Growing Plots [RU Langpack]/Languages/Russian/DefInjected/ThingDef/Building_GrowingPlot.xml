@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrowingPlot.label>участок грядки</GrowingPlot.label>
+  <GrowingPlot.description>Выращивает растения на специально выделенном участке почвы.</GrowingPlot.description>
+  <GrowingPlot_Blueprint.label>участок грядки (чертеж)</GrowingPlot_Blueprint.label>
+  <GrowingPlot_Frame.label>участок грядки (стройка)</GrowingPlot_Frame.label>
+  <GrowingPlot_Frame.description>Выращивает растения на специально выделенном участке почвы.</GrowingPlot_Frame.description>
+
+  <RichGrowingPlot.label>богатый участок грядки</RichGrowingPlot.label>
+  <RichGrowingPlot.description>Выращивает растения на специально выделенном участке с богатой почвой.</RichGrowingPlot.description>
+  <RichGrowingPlot_Blueprint.label>богатый участок грядки (чертеж)</RichGrowingPlot_Blueprint.label>
+  <RichGrowingPlot_Frame.label>богатый участок грядки (стройка)</RichGrowingPlot_Frame.label>
+  <RichGrowingPlot_Frame.description>Выращивает растения на специально выделенном участке с богатой почвой.</RichGrowingPlot_Frame.description>
+
+
+</LanguageData>

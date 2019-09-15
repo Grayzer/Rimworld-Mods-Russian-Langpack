@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RepairItem.label>ремонт предметов</RepairItem.label>
+  <RepairItem.verb>ремонт предмета</RepairItem.verb>
+  <RepairItem.gerund>ремонтирует предмет</RepairItem.gerund>
+
+
+</LanguageData>

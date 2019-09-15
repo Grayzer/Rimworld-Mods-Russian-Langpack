@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Synthread.label>создать синтеткань</Make_Synthread.label>
+  <Make_Synthread.description>Создает синтеткань из сырья химических материалов.</Make_Synthread.description>
+  <Make_Synthread.jobString>создает синтеткань.</Make_Synthread.jobString>
+
+
+</LanguageData>

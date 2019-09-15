@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Captured>Захваченный</Captured>
+  <TenantCaptured>Вы захватили {PAWN_nameDef}!\n\nОжидайте теперь гнев друзей и родственников {PAWN_nameDef}.</TenantCaptured>
+
+  <TenantCapturedRetribution>Здравствуйте, меня зовут {PAWN_nameDef}, вы не уважали {0}. Готовься к смерти.</TenantCapturedRetribution>
+  <Retribution>Возмездие</Retribution>
+
+  <TenantDeath>{PAWN_nameDef} умер!\n\nВы не выполнили свои обязанности хозяина. Ожидайте теперь гнев друзей и родственников {PAWN_nameDef}.</TenantDeath>
+  <TenantDeathRetribution>Здравствуйте, меня зовут {PAWN_nameDef}, вы убили {0}. Готовься к смерти.</TenantDeathRetribution>
+
+  <Opportunists>Оппортунисты</Opportunists>
+  <TenantOpportunists>Группа рейдеров вмешалась и убила возможного арендатора, и теперь они уже здесь!</TenantOpportunists>
+
+</LanguageData>

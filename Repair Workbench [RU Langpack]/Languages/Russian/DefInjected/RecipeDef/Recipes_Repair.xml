@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeRepairKit.label>создать ремкомплект</MakeRepairKit.label>
+  <MakeRepairKit.description>Создать 10 ремкомплектов.</MakeRepairKit.description>
+  <MakeRepairKit.jobString>делает ремкоплекты.</MakeRepairKit.jobString>
+
+  <RepairItemApparel.label>ремонтировать одежду</RepairItemApparel.label>
+  <RepairItemApparel.description>Ремонт одежды на ремонтном верстаке.</RepairItemApparel.description>
+  <RepairItemApparel.jobString>ремонтирует одежду.</RepairItemApparel.jobString>
+
+  <RepairItemMisc.label>ремонтировать прочее</RepairItemMisc.label>
+  <RepairItemMisc.description>Ремонт прочих предметов на ремонтном верстаке.</RepairItemMisc.description>
+  <RepairItemMisc.jobString>ремонтирует прочие предметы.</RepairItemMisc.jobString>
+
+  <RepairItemWeapon.label>ремонтировать оружие</RepairItemWeapon.label>
+  <RepairItemWeapon.description>Ремонт оружия на ремонтном верстаке.</RepairItemWeapon.description>
+  <RepairItemWeapon.jobString>ремонтирует оружие.</RepairItemWeapon.jobString>
+
+
+</LanguageData>

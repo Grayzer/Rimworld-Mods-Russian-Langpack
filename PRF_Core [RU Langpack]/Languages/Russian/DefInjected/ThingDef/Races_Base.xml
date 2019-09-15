@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PRFDrone.label>дрон</PRFDrone.label>
+  <PRFDrone.description>Небольшой, низколетящий дрон.</PRFDrone.description>
+  <PRFDrone.tools.0.label>голова</PRFDrone.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <PRFDrone_Corpse.label>труп дрона</PRFDrone_Corpse.label>
+  <PRFDrone_Corpse.description>труп дрона</PRFDrone_Corpse.description>
+
+
+</LanguageData>

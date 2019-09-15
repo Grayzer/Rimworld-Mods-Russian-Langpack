@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BasicArchotechWorkbench.label>простой архотек верстак</BasicArchotechWorkbench.label>
+  <BasicArchotechWorkbench.description>Очень элементарный способ создания как различных уровней наномашин, так и их базовых крупномасштабных компонентов.</BasicArchotechWorkbench.description>
+  <BasicArchotechWorkbench_Blueprint.label>простой архотек верстак (чертеж)</BasicArchotechWorkbench_Blueprint.label>
+  <BasicArchotechWorkbench_Blueprint_Install.label>простой архотек верстак (чертеж)</BasicArchotechWorkbench_Blueprint_Install.label>
+  <BasicArchotechWorkbench_Frame.label>простой архотек верстак (стройка)</BasicArchotechWorkbench_Frame.label>
+  <BasicArchotechWorkbench_Frame.description>Очень элементарный способ создания как различных уровней наномашин, так и их базовых крупномасштабных компонентов.</BasicArchotechWorkbench_Frame.description>
+
+
+</LanguageData>
