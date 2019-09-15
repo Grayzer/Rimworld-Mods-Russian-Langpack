@@ -4,11 +4,6 @@
 
   <!--Radiation detectors-->
 
-    <Geigercounter.ResearchLabel>Счетчик Гейгера</Geigercounter.ResearchLabel>
-    <Geigercounter.ProjTypeLabel>Пассивная способность</Geigercounter.ProjTypeLabel>
-    <Geigercounter.ResearchDesc>Портативные детекторы излучения. Важно защитить колонистов от воздействия опасного уровня радиации. Rimatomics предлагает портативные устройства, которые могут быть использованы для обнаружения ионизирующего излучения. Все колонисты будут оснащены детекторами излучения, чтобы при ионизирующих событиях слышались щелчки. Мощность дозы отображается в виде текста.</Geigercounter.ResearchDesc>
-    <Geigercounter.ResearchDescDisc>Все колонисты сейчас оснащены детекторами излучения. Ионизирующие события производят слышимые щелчки, а мощность дозы отображается в виде текста с силой в диапазоне от 0 до 5.</Geigercounter.ResearchDescDisc>
-
     <Geigercounter1.label>Исследование радиационных детекторов</Geigercounter1.label>
     <Geigercounter1.description>Опытный исследователь должен изучить конструкции и узнать, как работают детекторы излучения.</Geigercounter1.description>
 
@@ -17,11 +12,6 @@
 
   <!--Radiation suits-->
 
-    <RadSuits.ResearchLabel>Радиационные костюмы</RadSuits.ResearchLabel>
-    <RadSuits.ProjTypeLabel>Одежда</RadSuits.ProjTypeLabel>
-    <RadSuits.ResearchDesc>Защитите своих колонистов от радиации с помощью защитной одежды. Что еще более важно, радиационные костюмы предотвращают прямой контакт или вдыхание радиоактивных частиц или газа.</RadSuits.ResearchDesc>
-    <RadSuits.ResearchDescDisc>Теперь вы можете изготовить свои собственные костюмы для радиации и костюмы MOPP за столом Rimatomics.</RadSuits.ResearchDescDisc>
-
     <RadiationSuits1.label>Исследование радиационных костюмов</RadiationSuits1.label>
     <RadiationSuits1.description>Опытный исследователь должен изучить проекты и узнать, как работают радиационные костюмы, прежде чем мы сможем начать создавать свои собственные.</RadiationSuits1.description>
 
@@ -29,11 +19,6 @@
     <RadiationSuits2.description>Опытный мастер должен составить планы по изготовлению костюмов для радиации, используя доступные нам ресурсы и инструменты.</RadiationSuits2.description>
 
   <!--Nuclear research-->
-
-    <NuclearResearch.ResearchLabel>Исследовательский ЯР</NuclearResearch.ResearchLabel>
-    <NuclearResearch.ProjTypeLabel>Исследовательский центр</NuclearResearch.ProjTypeLabel>
-    <NuclearResearch.ResearchDesc>Ядерный исследовательский реактор. Прежде чем ваши колонисты смогут построить полномасштабные ядерные реакторы Rimatomics или другие ядерные технологии, они должны сначала изучить и исследовать эти технологии, используя исследовательский реактор.</NuclearResearch.ResearchDesc>
-    <NuclearResearch.ResearchDescDisc>Более продвинутые исследования теперь доступны.</NuclearResearch.ResearchDescDisc>
 
     <NuclearResearch1.label>Технология исследовательских реакторов</NuclearResearch1.label>
     <NuclearResearch1.description>Опытный исследователь должен изучить конструкции и узнать, как работает исследовательский реактор, прежде чем мы сможем построить свой собственный.</NuclearResearch1.description>

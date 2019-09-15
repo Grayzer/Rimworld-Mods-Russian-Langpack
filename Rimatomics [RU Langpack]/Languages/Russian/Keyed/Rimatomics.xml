@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-
+  <TargetAllShells>Цель все снаряды</TargetAllShells>
+  <TargetEnemyShells>Цель вражеские снаряды</TargetEnemyShells>
+  <ThreatDetection>Обнаружение угрозы</ThreatDetection>
+  <PoolLoading>Загрузка</PoolLoading>
+  <PoolUnloading>Выгрузка</PoolUnloading>
+  <NextResearchStep>Следующий шаг:</NextResearchStep>
 
   <!--ALERTS-->
   <AlertNeedsTurbine>Ядру нужны турбины</AlertNeedsTurbine>
