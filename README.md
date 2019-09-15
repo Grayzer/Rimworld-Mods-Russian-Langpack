@@ -16,4 +16,4 @@ https://github.com/RimWorld-zh/RimTrans
 
 Если вдруг у кого то появится желание отблагодарить:
 <br>
-[![image](https://github.com/Grayzer/Rimworld-Mods-Russian-Langpack/money2[1].png)](https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C&targets-hint=&default-sum=50&button-text=13&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410012503904381)
+[![image](https://mstnw.net/img/other/money2.png)](https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C&targets-hint=&default-sum=50&button-text=13&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410012503904381)
