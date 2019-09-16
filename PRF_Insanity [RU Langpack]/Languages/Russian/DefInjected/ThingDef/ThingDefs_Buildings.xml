@@ -14,10 +14,10 @@
   <AtomicReconstructor.description>Преобразует скрепки в нечто более полезное.</AtomicReconstructor.description>
 
   <PRFMegaCapacitor.label>Мега-Конденсатор</PRFMegaCapacitor.label>
-  <PRFMegaCapacitor.description>>Аккумулятор, который может хранить 1000000 Вт энергии. Имеет 100% эффективность. Он также водонепроницаем.</PRFMegaCapacitor.description>
+  <PRFMegaCapacitor.description>Аккумулятор, который может хранить 1000000 Вт энергии. Имеет 100% эффективность. Он также водонепроницаем.</PRFMegaCapacitor.description>
 
   <PRFHexCapacitor.label>Хекс-Конденсатор</PRFHexCapacitor.label>
-  <PRFHexCapacitor.description>>Аккумулятор, который использует шестнадцатеричные ячейки для хранения энергии в 16 миллионов ватт. Имеет 100% эффективность. Он также водонепроницаем.</PRFHexCapacitor.description>
+  <PRFHexCapacitor.description>Аккумулятор, который использует шестнадцатеричные ячейки для хранения энергии в 16 миллионов ватт. Имеет 100% эффективность. Он также водонепроницаем.</PRFHexCapacitor.description>
 
   <PRFPaperclipDuplicator.label>Дубликатор скрепки</PRFPaperclipDuplicator.label>
   <PRFPaperclipDuplicator.description>Дупликатор Банаха-Тарского должен дублировать скрепки. Ежедневно количество скрепки увеличивается на 5%. Любые попытки вмешаться с дубликатором скрепки уничтожают все сохраненные скрепки.</PRFPaperclipDuplicator.description>

@@ -5,7 +5,7 @@
   <AIResearchBench.description>Иследовательский стол с установленным ИИ. Требуется для исследований автоматизации уровня 2 и не является заменой высокотехнологичного исследовательского стола. Требуется энергия.</AIResearchBench.description>
   <AIResearchBench_Blueprint.label>Иследовательский стол с ИИ (чертеж)</AIResearchBench_Blueprint.label>
   <AIResearchBench_Frame.label>Иследовательский стол с ИИ (стройка)</AIResearchBench_Frame.label>
-  <AIResearchBench_Frame.description>>Иследовательский стол с установленным ИИ. Требуется для исследований автоматизации уровня 2 и не является заменой высокотехнологичного исследовательского стола. Требуется энергия.</AIResearchBench_Frame.description>
+  <AIResearchBench_Frame.description>Иследовательский стол с установленным ИИ. Требуется для исследований автоматизации уровня 2 и не является заменой высокотехнологичного исследовательского стола. Требуется энергия.</AIResearchBench_Frame.description>
 
   <TableRoboticMachining.label>Роботизированный стол обработки</TableRoboticMachining.label>
   <TableRoboticMachining.description>Рабочая станция для создания деталей для зданий автоматизации.</TableRoboticMachining.description>
