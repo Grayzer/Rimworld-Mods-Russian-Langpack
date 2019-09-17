@@ -18,3 +18,5 @@ https://github.com/RimWorld-zh/RimTrans
 
 <p><a href="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C&targets-hint=&default-sum=50&button-text=13&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410012503904381"><img src="https://image.prntscr.com/image/XVt-yhQXSzeix7H0ZhxAAQ.jpeg" width="50" 
   height="50" alt="Спасибо"></a></p>
+  <br>
+  или вот так https://money.yandex.ru/to/410012503904381
