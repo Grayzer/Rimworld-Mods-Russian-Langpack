@@ -4,6 +4,17 @@
 <!-- ===RJW=== -->
 
 <!-- Animal and Other -->
+PegDick
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "PegDick"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(162,202,102)</color>
+			</graphicData>
+		</value>
+	</Operation>
 
 	<Operation Class="PatchOperationAdd">
 		<xpath>*/ThingDef[defName = "HorsePenis"]</xpath>
@@ -429,7 +440,7 @@
 <!-- Prosthetic -->
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "ProstheticPenis"]</xpath>
+		<xpath>*/ThingDef[defName = "HydraulicPenis"]</xpath>
 		<value>
 			<graphicData Inherit="False">
 			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
@@ -440,7 +451,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "ProstheticVagina"]</xpath>
+		<xpath>*/ThingDef[defName = "HydraulicVagina"]</xpath>
 		<value>
 			<graphicData Inherit="False">
 			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
@@ -451,7 +462,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "ProstheticAnus"]</xpath>
+		<xpath>*/ThingDef[defName = "HydraulicAnus"]</xpath>
 		<value>
 			<graphicData Inherit="False">
 			  <texPath>Things/Item/Health/HealthItemAnus</texPath>
@@ -462,7 +473,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "ProstheticBreasts"]</xpath>
+		<xpath>*/ThingDef[defName = "HydraulicBreasts"]</xpath>
 		<value>
 			<graphicData Inherit="False">
 			  <texPath>Things/Item/Health/HealthItemBreast</texPath>
