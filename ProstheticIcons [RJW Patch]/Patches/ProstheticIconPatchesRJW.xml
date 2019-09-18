@@ -207,7 +207,7 @@ PegDick
 		<xpath>*/ThingDef[defName = "OvipositorM"]</xpath>
 		<value>
 			<graphicData Inherit="False">
-			  <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+			  <texPath>Things/Item/Health/HealthItemOvipositor</texPath>
 			  <graphicClass>Graphic_StackCount</graphicClass>
 			  <color>(133,145,231)</color>
 			</graphicData>
@@ -218,7 +218,7 @@ PegDick
 		<xpath>*/ThingDef[defName = "OvipositorF"]</xpath>
 		<value>
 			<graphicData Inherit="False">
-			  <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+			  <texPath>Things/Item/Health/HealthItemOvipositor</texPath>
 			  <graphicClass>Graphic_StackCount</graphicClass>
 			  <color>(133,145,231)</color>
 			</graphicData>
