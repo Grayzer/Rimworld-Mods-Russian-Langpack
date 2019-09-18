@@ -483,6 +483,65 @@ PegDick
 		</value>
 	</Operation>
 
+<!-- Natural -->
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "SyntheticLung"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemLung</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,230,150)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "SyntheticHeart"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemHeart</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,230,150)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "SyntheticStomach"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemStomach</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,230,150)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "SyntheticLiver"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemLiver</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,230,150)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName = "SyntheticKidney"]</xpath>
+		<value>
+			<graphicData Inherit="False">
+			  <texPath>Things/Item/Health/HealthItemKidney</texPath>
+			  <graphicClass>Graphic_StackCount</graphicClass>
+			  <color>(200,230,150)</color>
+			</graphicData>
+		</value>
+	</Operation>
+
+
+
 <!-- Bionic -->
 
 	<Operation Class="PatchOperationAdd">
