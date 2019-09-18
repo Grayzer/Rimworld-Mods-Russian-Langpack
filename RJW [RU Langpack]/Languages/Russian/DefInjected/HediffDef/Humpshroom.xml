@@ -1,5 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- Consumable item -->
 
   <HumpShroomEffect.label>индуцированное либидо</HumpShroomEffect.label>
 
@@ -14,12 +16,6 @@
 
   <HumpShroomAddiction.label>зависимость от казановника</HumpShroomAddiction.label>
   <HumpShroomAddiction.stages.1.label>отходняк</HumpShroomAddiction.stages.1.label>
-
-
-  <!-- As usual stolen from CnP -->
-
-  <RJW_Contraceptive.label>контрацептивы</RJW_Contraceptive.label>
-  <RJW_Contraceptive.stages.0.label>предохраняется</RJW_Contraceptive.stages.0.label>
 
 
 </LanguageData>
