@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <GR_PulpWood.label>извлечь ораническую пульпу из дерева</GR_PulpWood.label>
@@ -16,6 +16,9 @@
   <GR_RecycleIncubator.label>извлечь ораническую пульпу из ненужных инкубаторов</GR_RecycleIncubator.label>
   <GR_RecycleIncubator.description>Извлечь ораническую пульпу из ненужных инкубаторов. Осторожно, эта операция захватит ближайший инкубатор. Планируйте соответственно.</GR_RecycleIncubator.description>
   <GR_RecycleIncubator.jobString>Извлечение пульпы</GR_RecycleIncubator.jobString>
-
+	
+  <GR_PulpHay.label>извлечь ораническую пульпу из сена</GR_PulpHay.label>
+  <GR_PulpHay.description>Извлекает ораническую пульпу из сена.</GR_PulpHay.description>
+  <GR_PulpHay.jobString>Извлечение пульпы</GR_PulpHay.jobString>
 
 </LanguageData>

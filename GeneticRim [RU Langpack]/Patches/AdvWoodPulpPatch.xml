@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+						<RecipeDef>
+		<defName>GR_PulpWoodExpensive</defName>
+		<label>extract organic pulp from wood</label>
+		<description>Extract organic pulp from hay.</description>
+		<jobString>Extracting Pulp</jobString>
+		<effectWorking>Cremate</effectWorking>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<workAmount>500</workAmount>
+		<recipeUsers>
+			<li>GR_AlphaSerumExtractionTable</li>	  
+		</recipeUsers>	
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>WoodLog</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>WoodLog</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<defaultIngredientFilter>
+			<thingDefs>
+				<li>WoodLog</li>
+			</thingDefs>
+		</defaultIngredientFilter>
+		<products>
+			<GR_OrganicPulp>5</GR_OrganicPulp>
+		</products>
+	</RecipeDef>
+
+				</value>
+			</li>
+
+		
+
+
+		</operations>
+	</Operation>
+
+
+</Patch>
