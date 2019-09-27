@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Body Parts -->
+
+  <InstallFSFAdvBionicArm.label>установить продвинутую бионическую руку</InstallFSFAdvBionicArm.label>
+  <InstallFSFAdvBionicArm.description>Установить продвинутую бионическую руку.</InstallFSFAdvBionicArm.description>
+  <InstallFSFAdvBionicArm.jobString>Устананавливает продвинутую бионическую руку.</InstallFSFAdvBionicArm.jobString>
+
+  <InstallFSFAdvBionicLeg.label>установить продвинутую бионическую ногу</InstallFSFAdvBionicLeg.label>
+  <InstallFSFAdvBionicLeg.description>Установить продвинутую бионическую ногу.</InstallFSFAdvBionicLeg.description>
+  <InstallFSFAdvBionicLeg.jobString>Устананавливает продвинутую бионическую ногу.</InstallFSFAdvBionicLeg.jobString>
+
+  <InstallFSFAdvBionicEye.label>установить продвинутый бионический глаз</InstallFSFAdvBionicEye.label>
+  <InstallFSFAdvBionicEye.description>Установить продвинутый бионический глаз.</InstallFSFAdvBionicEye.description>
+  <InstallFSFAdvBionicEye.jobString>Устананавливает продвинутый бионический глаз.</InstallFSFAdvBionicEye.jobString>
+
+  <InstallFSFAdvBionicPowerArm.label>установить продвинутую бионическую силовую руку</InstallFSFAdvBionicPowerArm.label>
+  <InstallFSFAdvBionicPowerArm.description>Установить продвинутую бионическую силовую руку.</InstallFSFAdvBionicPowerArm.description>
+  <InstallFSFAdvBionicPowerArm.jobString>Устананавливает продвинутую бионическую силовую руку.</InstallFSFAdvBionicPowerArm.jobString>
+
+  <InstallFSFAdvBionicEar.label>установить продвинутое бионическое ухо</InstallFSFAdvBionicEar.label>
+  <InstallFSFAdvBionicEar.description>Установить продвинутое бионическое ухо.</InstallFSFAdvBionicEar.description>
+  <InstallFSFAdvBionicEar.jobString>Устананавливает продвинутое бионическое ухо.</InstallFSFAdvBionicEar.jobString>
+
+  <InstallFSFAdvBionicJaw.label>установить продвинутую бионическую челюсть</InstallFSFAdvBionicJaw.label>
+  <InstallFSFAdvBionicJaw.description>Установить продвинутую бионическую челюсть.</InstallFSFAdvBionicJaw.description>
+  <InstallFSFAdvBionicJaw.jobString>Устананавливает продвинутую бионическую челюсть.</InstallFSFAdvBionicJaw.jobString>
+
+  <InstallFSFAdvBionicSpine.label>установить продвинутый бионический позвоночник</InstallFSFAdvBionicSpine.label>
+  <InstallFSFAdvBionicSpine.description>Установить продвинутый бионический позвоночник.</InstallFSFAdvBionicSpine.description>
+  <InstallFSFAdvBionicSpine.jobString>Устананавливает продвинутый бионический позвоночник.</InstallFSFAdvBionicSpine.jobString>
+
+  <InstallFSFAdvBionicHeart.label>установить продвинутое бионическое сердце</InstallFSFAdvBionicHeart.label>
+  <InstallFSFAdvBionicHeart.description>Установить продвинутое бионическое сердце.</InstallFSFAdvBionicHeart.description>
+  <InstallFSFAdvBionicHeart.jobString>Устананавливает продвинутое бионическое сердце.</InstallFSFAdvBionicHeart.jobString>
+
+  <InstallFSFAdvBionicLung.label>установить продвинутое бионическое легкое</InstallFSFAdvBionicLung.label>
+  <InstallFSFAdvBionicLung.description>Установить продвинутое бионическое легкое.</InstallFSFAdvBionicLung.description>
+  <InstallFSFAdvBionicLung.jobString>Устананавливает продвинутое бионическое легкое.</InstallFSFAdvBionicLung.jobString>
+
+  <InstallFSFAdvBionicKidney.label>установить продвинутую бионическую почку</InstallFSFAdvBionicKidney.label>
+  <InstallFSFAdvBionicKidney.description>Установить продвинутую бионическую почку.</InstallFSFAdvBionicKidney.description>
+  <InstallFSFAdvBionicKidney.jobString>Устананавливает продвинутую бионическую почку.</InstallFSFAdvBionicKidney.jobString>
+
+  <InstallFSFAdvBionicLiver.label>установить продвинутую бионическую печень</InstallFSFAdvBionicLiver.label>
+  <InstallFSFAdvBionicLiver.description>Установить продвинутую бионическую печень.</InstallFSFAdvBionicLiver.description>
+  <InstallFSFAdvBionicLiver.jobString>Устананавливает продвинутую бионическую печень.</InstallFSFAdvBionicLiver.jobString>
+
+  <InstallFSFAdvBionicStomach.label>установить продвинутый бионический желудок</InstallFSFAdvBionicStomach.label>
+  <InstallFSFAdvBionicStomach.description>Установить продвинутый бионический желудок.</InstallFSFAdvBionicStomach.description>
+  <InstallFSFAdvBionicStomach.jobString>Устананавливает продвинутый бионический желудок.</InstallFSFAdvBionicStomach.jobString>
+
+
+</LanguageData>

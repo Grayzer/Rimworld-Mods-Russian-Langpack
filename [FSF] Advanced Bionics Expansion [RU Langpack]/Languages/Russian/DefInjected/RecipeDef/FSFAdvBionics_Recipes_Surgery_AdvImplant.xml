@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ribcage Implants -->
+
+  <InstallFSFImplantCombatModule.label>установить Продвинутый Боевой Модуль</InstallFSFImplantCombatModule.label>
+  <InstallFSFImplantCombatModule.description>Установить Продвинутый Боевой Модуль.</InstallFSFImplantCombatModule.description>
+  <InstallFSFImplantCombatModule.jobString>Устананавливает Продвинутый Боевой Модуль.</InstallFSFImplantCombatModule.jobString>
+
+  <InstallFSFImplantHazardModule.label>установить Продвинутый Модуль Экзогенной Опасности</InstallFSFImplantHazardModule.label>
+  <InstallFSFImplantHazardModule.description>Установить Продвинутый Модуль Экзогенной Опасности.</InstallFSFImplantHazardModule.description>
+  <InstallFSFImplantHazardModule.jobString>Устананавливает Продвинутый Модуль Экзогенной Опасности.</InstallFSFImplantHazardModule.jobString>
+
+
+  <!-- Skull Implants -->
+
+  <InstallFSFImplantSkullArmor.label>установить Продвинутый черепной экран</InstallFSFImplantSkullArmor.label>
+  <InstallFSFImplantSkullArmor.description>Установить Продвинутый черепной экран.</InstallFSFImplantSkullArmor.description>
+  <InstallFSFImplantSkullArmor.jobString>Устананавливает Продвинутый черепной экран.</InstallFSFImplantSkullArmor.jobString>
+
+
+  <!-- Torso Implants -->
+
+  <InstallFSFImplantTorsoMovement.label>установить Продвинутую беговую раму</InstallFSFImplantTorsoMovement.label>
+  <InstallFSFImplantTorsoMovement.description>Установить Продвинутая беговая рама.</InstallFSFImplantTorsoMovement.description>
+  <InstallFSFImplantTorsoMovement.jobString>Устананавливает Продвинутую беговую раму.</InstallFSFImplantTorsoMovement.jobString>
+
+  <InstallFSFImplantAugmentedSkeleton.label>установить Продвинутый аугментированный скелет</InstallFSFImplantAugmentedSkeleton.label>
+  <InstallFSFImplantAugmentedSkeleton.description>Установить Продвинутый аугментированный скелет.</InstallFSFImplantAugmentedSkeleton.description>
+  <InstallFSFImplantAugmentedSkeleton.jobString>Устананавливает Продвинутый аугментированный скелет.</InstallFSFImplantAugmentedSkeleton.jobString>
+
+  <InstallFSFImplantSubdermalArmor.label>установить Продвинутую Суб-дермальную Броню</InstallFSFImplantSubdermalArmor.label>
+  <InstallFSFImplantSubdermalArmor.description>Установить Продвинутая Суб-дермальная Броня.</InstallFSFImplantSubdermalArmor.description>
+  <InstallFSFImplantSubdermalArmor.jobString>Устананавливает Продвинутую Суб-дермальную Броню.</InstallFSFImplantSubdermalArmor.jobString>
+
+
+</LanguageData>

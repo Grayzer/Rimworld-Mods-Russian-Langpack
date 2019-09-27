@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Ai Chips -->
+
+  <InstallFSFArchotechAIChipGlobalSpeed.label>установить Архотек ИИ-чип (Универсальный)</InstallFSFArchotechAIChipGlobalSpeed.label>
+  <InstallFSFArchotechAIChipGlobalSpeed.description>Установить Архотек ИИ-чип (Универсальный).</InstallFSFArchotechAIChipGlobalSpeed.description>
+  <InstallFSFArchotechAIChipGlobalSpeed.jobString>Устананавливает Архотек ИИ-чип (Универсальный).</InstallFSFArchotechAIChipGlobalSpeed.jobString>
+
+
+  <!-- Archotech Implants -->
+
+  <InstallFSFArchotechImplantSubdermalArmor.label>установить Архотек Суб-дермальную Броню</InstallFSFArchotechImplantSubdermalArmor.label>
+  <InstallFSFArchotechImplantSubdermalArmor.description>Установить Архотек Суб-дермальную Броню.</InstallFSFArchotechImplantSubdermalArmor.description>
+  <InstallFSFArchotechImplantSubdermalArmor.jobString>Устананавливает Архотек Суб-дермальную Броню.</InstallFSFArchotechImplantSubdermalArmor.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableSyrProsthetics.label>верстак протезирования</TableSyrProsthetics.label>
+  <TableSyrProsthetics.description>Рабочая станция для изготовления протезов всех видов.</TableSyrProsthetics.description>
+  <TableSyrProsthetics_Blueprint.label>верстак протезирования (чертеж)</TableSyrProsthetics_Blueprint.label>
+  <TableSyrProsthetics_Blueprint_Install.label>верстак протезирования (чертеж)</TableSyrProsthetics_Blueprint_Install.label>
+  <TableSyrProsthetics_Frame.label>верстак протезирования (стройка)</TableSyrProsthetics_Frame.label>
+  <TableSyrProsthetics_Frame.description>Рабочая станция для изготовления протезов всех видов.</TableSyrProsthetics_Frame.description>
+
+
+</LanguageData>

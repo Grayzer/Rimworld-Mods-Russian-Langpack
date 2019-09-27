@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Main Manager Tab -->
+  <FM.Manager>Менеджер</FM.Manager>
+  <FM.Details>Детали</FM.Details>
+  <FM.Manage>Назначить!</FM.Manage>
+  <FM.Delete>Удалить</FM.Delete>
+  <FM.All>Все</FM.All>
+  <FM.TabDisabledBecause>(выключено: {0})</FM.TabDisabledBecause>
+
+  <!-- Help and alert messages for the lexically challenged. -->
+  <FM.HelpTitle>Менеджер Колонии</FM.HelpTitle>
+  <FM.HelpMessage>Добро пожаловать в Менеджер Колонии.\n\nМенеджер Колонии позволяет устанавливать цели для производства, охоты, лесозаготовки и животноводства. Эти задачи настраиваются на различных экранах и доступны посредством кнопок вверху экрана, также есть другие удобные экраны. \n\nКогда вы настраиваете задачу, поселенец с навыком менеджера будет время от времени пересматривать задания других колонистов, проверять ваши склады и изменять выполняемые задачи в соответствии с потребностями.\n\nДля работы мода требуются:\n    - Поселенец с навыком менеджера.\n    - Стол менеджера.</FM.HelpMessage>
+  <FM.AlertNoTableLabel>Нужен стол менеджера</FM.AlertNoTableLabel>
+  <FM.AlertNoTable>Есть задания, но нет доступного стола менеджера</FM.AlertNoTable>
+  <FM.AlertNoManagerLabel>Нужен менеджер</FM.AlertNoManagerLabel>
+  <FM.AlertNoManager>Есть задания, но нет менеджера</FM.AlertNoManager>
+
+  <!-- Common -->
+  <FM.LastUpdateTooltip>Эта задача обновлялась {0} назад.</FM.LastUpdateTooltip>
+  <FM.OrderUp>Увеличить приоритет</FM.OrderUp>
+  <FM.OrderDown>Снизить приоритет</FM.OrderDown>
+  <FM.OrderTop>Максимальный приоритет</FM.OrderTop>
+  <FM.OrderBottom>Минимальный приоритет</FM.OrderBottom>
+  <multiple>[многократно]</multiple>
+  <FM.Threshold>Порог</FM.Threshold>
+  <FM.CheckReachability>Проверьте, достижимы ли цели</FM.CheckReachability>
+  <FM.CheckReachability.Tip>Вычислите, существует ли путь к цели (для любой пешки) перед созданием обозначения.</FM.CheckReachability.Tip>
+  <FM.Expensive.Tip>Включение этого параметра может снизить производительность, особенно на больших картах, горных картах, работах с большим количеством потенциальных целей и колониях с большим количеством колонистов.</FM.Expensive.Tip>
+  <FM.PathBasedDistance>Рассчитать расстояние на основе фактического пути</FM.PathBasedDistance>
+  <FM.PathBasedDistance.Tip>Если включено, расстояния будут рассчитываться на основе реальных путей. Если отключено, расстояния будут рассчитываться По прямой линии. \n\nПРИМЕЧАНИЕ. Включение этой опции для заданий с большим количеством возможных целей может привести к значительным скачкам задержки.</FM.PathBasedDistance.Tip>
+  <FM.CountAllOnMap>Посчитать все на карте</FM.CountAllOnMap>
+  <FM.CountAllOnMap.Tip>Если включено, подсчитывает все элементы, разрешенные фильтром порогов на карте. Если отключено, учитываются только те, которые находятся в складах и складских зданиях.</FM.CountAllOnMap.Tip>
+  <FM.None>Нет</FM.None>
+  <!-- 0: target (thing), 1: distance (int), 2: yield amount (int), 3: yield type (def) -->
+  <Fluffy.Manager.DesignationLabel>{0}\n  дистанция: {1}\n  доход: {2}x {3}</Fluffy.Manager.DesignationLabel>
+
+  <!-- time periods for update interval -->
+  <FM.DefaultUpdateInterval>Интервал обновления по умолчанию</FM.DefaultUpdateInterval>
+  <FM.Hourly>Каждый час</FM.Hourly>
+  <FM.MultiHourly>Каждые {0} часа\ов</FM.MultiHourly>
+  <FM.Daily>Ежедневно</FM.Daily>
+  <FM.Monthly>Ежемесячно</FM.Monthly>
+  <FM.Yearly>Ежегодно</FM.Yearly>
+
+  <!-- History graphs -->
+  <FM.HistoryPeriod>Период</FM.HistoryPeriod>
+  <FM.HistoryShowHideLegend>Показать/скрыть легенду</FM.HistoryShowHideLegend>
+  <FM.HistoryClickToEnable>\n\nНажмите {0} {1} в графике.\nПравый клик - показать только {1}.</FM.HistoryClickToEnable>
+  <FM.HistoryNoChapters>Нечего отображать.</FM.HistoryNoChapters>
+
+  <!-- Power Tab (E for energy) -->
+  <FME.PeriodShown>Период: {0}</FME.PeriodShown>
+  <FME.PeriodShownTooltip>Показано выработка и потребление энергии за последние {0}.\n\nНажмите для изменения периода.</FME.PeriodShownTooltip>
+  <FME.Power>Энергия</FME.Power>
+  <FME.NotResearched>Управление энергией не было исследовано</FME.NotResearched>
+  <FME.NoPoweredStation>Нет станций управления энергией</FME.NoPoweredStation>
+
+  <!-- Overview Tab -->
+  <FM.Overview>Обзор</FM.Overview>
+  <FM.NoJobs>Нет задач.</FM.NoJobs>
+  <FM.Activity>Текущая активность</FM.Activity>
+  <FM.Enabled>Вкл</FM.Enabled>
+  <FM.Priority>Работа</FM.Priority>
+  <FM.ClickToJumpTo>Перейти к {0}</FM.ClickToJumpTo>
+  <FM.JobCompletedTooltip>Достигнут предел выполнения.</FM.JobCompletedTooltip>
+  <FM.UnsuspendJobTooltip>Работа была приостановлена.\n\nClick для запуска.</FM.UnsuspendJobTooltip>
+  <FM.SuspendJobTooltip>Click чтобы приостановить эту работу.</FM.SuspendJobTooltip>
+  <FM.PluralSuffix>s</FM.PluralSuffix>
+
+  <!--Import/Export Tab-->
+  <FM.ImportExport>Импорт &amp; Экспорт</FM.ImportExport>
+  <FM.CurrentJobs>Текущие задания:</FM.CurrentJobs>
+  <FM.Export>Экспорт</FM.Export>
+  <FM.ConfirmOverwrite>{0} существует.\n\nХотите перезаписать?</FM.ConfirmOverwrite>
+  <FM.JobsExported>{0} работ эспортировано</FM.JobsExported>
+  <FM.JobsImported>{0} работ импортировано</FM.JobsImported>
+  <FM.InvalidJobsDeleted>{0} некорректных работ удалено</FM.InvalidJobsDeleted>
+  <FM.Import>Импорт</FM.Import>
+  <FM.NoSaves>Не найдено экспортированных.</FM.NoSaves>
+
+  <!-- Hunting Tab -->
+  <FMH.Hunting>Охота</FMH.Hunting>
+  <FMH.NewHuntingJob>Новая задача</FMH.NewHuntingJob>
+  <FMH.NewHuntingJobTooltip>Добавить новое охотничье задание</FMH.NewHuntingJobTooltip>
+  <FMH.AllowHumanMeat>Считая человеческое мясо</FMH.AllowHumanMeat>
+  <FMH.AllowHumanMeat.Tip>Нужно ли считать мясо человека? \n\nПРИМЕЧАНИЕ. Это ярлык для переключения гуманоидного мяса в пороговом фильтре. Вы можете установить дополнительные параметры в деталях порога.</FMH.AllowHumanMeat.Tip>
+  <FMH.AllowInsectMeat>Считая мясо насекомых</FMH.AllowInsectMeat>
+  <FMH.AllowInsectMeat.Tip>Следует ли считать мясо насекомых? \n\nПРИМЕЧАНИЕ. Это ярлык для переключения мяса насекомых в пороговом фильтре. Вы можете установить дополнительные параметры в деталях порога.</FMH.AllowInsectMeat.Tip>
+  <FMH.UnforbidCorpses>Разрешить подбирать  трупы</FMH.UnforbidCorpses>
+  <FMH.UnforbidCorpses.Tip>Автоматически разрешать (свежие) трупы видов животных, на которых охотятся.</FMH.UnforbidCorpses.Tip>
+  <FMH.Animals>Разрешённые животные</FMH.Animals>
+  <FMH.TargetCount>Целевое значение: {0}+{1}+{2}/{3}</FMH.TargetCount>
+  <FMH.TargetCountTooltip>Цель: {3}\n{0} на складе\n{1} ожидается от разделки\n{2} ожидается от текущих задач.</FMH.TargetCountTooltip>
+  <FM.Hunting.Predators>Хищники</FM.Hunting.Predators>
+  <FM.Hunting.Predators.Tip>Переключить на всех хищников</FM.Hunting.Predators.Tip>
+  <FM.Hunting.HerdAnimals>Стадные животные</FM.Hunting.HerdAnimals>
+  <FM.Hunting.HerdAnimals.Tip>Переключить на всех стадных животных</FM.Hunting.HerdAnimals.Tip>
+  <FM.Hunting.Exploding>Взрывающиеся</FM.Hunting.Exploding>
+  <FM.Hunting.Exploding.Tip>Переключить на всех взрывающихся животных</FM.Hunting.Exploding.Tip>
+  <FM.Hunting.AreaRestriction>Ограничить охоту</FM.Hunting.AreaRestriction>
+
+  <!-- Forestry Tab -->
+  <FMF.Forestry>Лесозаготовка</FMF.Forestry>
+  <FMF.NewForestryJob>Новое задание</FMF.NewForestryJob>
+  <FMF.NewForestryJobTooltip>Добавить новое задание по заготовке</FMF.NewForestryJobTooltip>
+  <FMF.Options>Опции</FMF.Options>
+  <FMF.ClearWindCells>Очищать рабочую зону ветряков</FMF.ClearWindCells>
+  <FMF.ClearWindCells.Tip>Очистить все ячейки, которые находятся в зоне действия ветряных турбин</FMF.ClearWindCells.Tip>
+  <FMF.AllowSaplings>Разрешить рубку молодых деревьев</FMF.AllowSaplings>
+  <FMF.AllowSaplings.Tip>Должно ли лесное хозяйство быть ограничено только полностью зрелыми деревьями?</FMF.AllowSaplings.Tip>
+  <FMF.LoggingArea>Разрешить лесозаготовку в зоне: </FMF.LoggingArea>
+  <FMF.TargetCount>Целевое значение: {0}+{1}/{2}</FMF.TargetCount>
+  <FMF.TargetCountTooltip>Цель: {2}\n{0} на складе\n{1} ожидается от текущих задач.</FMF.TargetCountTooltip>
+  <FMF.ClearAreas>Очистка территории от всей растительности:</FMF.ClearAreas>
+  <FMF.JobType>Тип задания</FMF.JobType>
+  <FMF.JobType.ClearArea>Очистить области</FMF.JobType.ClearArea>
+  <FMF.JobType.ClearArea.Tip>Расчистка территорий для обеспечения бесперебойной работы ветряных турбин и защиты врагов от возможного укрытия на полях смерти.</FMF.JobType.ClearArea.Tip>
+  <FMF.JobType.Logging>Лесозаготовка</FMF.JobType.Logging>
+  <FMF.JobType.Logging.Tip>Рубить деревья для древесины</FMF.JobType.Logging.Tip>
+
+  <FMF.Clear>Очистить {0}</FMF.Clear>
+  <FMF.TurbineArea>ветряные турбины</FMF.TurbineArea>
+
+  <FMF.Trees>Разрешенные деревья</FMF.Trees>
+  <FMF.Trees.Tip>Выбрать все деревья</FMF.Trees.Tip>
+  <FMF.Flammable>Легковоспламеняющийся</FMF.Flammable>
+  <FMF.Flammable.Tip>Выбрать все легковоспламеняющиеся растения</FMF.Flammable.Tip>
+  <FMF.Ugly>Уродливые</FMF.Ugly>
+  <FMF.Ugly.Tip>Выберать все уродливые растения</FMF.Ugly.Tip>
+  <FMF.ProvidesCover>Покрытие</FMF.ProvidesCover>
+  <FMF.ProvidesCover.Tip>Выберать все растения, которые обеспечивают покрытие</FMF.ProvidesCover.Tip>
+  <FMF.BlocksWind>Блокирующие ветер</FMF.BlocksWind>
+  <FMF.BlocksWind.Tip>Выберать все растения, которые блокируют ветер</FMF.BlocksWind.Tip>
+
+
+  <!-- Foraging (Gathering) tab -->
+  <FMG.Foraging>Сбор</FMG.Foraging>
+  <FMG.NewForagingJob>Новое задание</FMG.NewForagingJob>
+  <FMG.NewForagingJobTooltip>Добавить новое задание по сбору</FMG.NewForagingJobTooltip>
+  <FMG.Options>Опции</FMG.Options>
+  <FMG.TargetCount>Целевое значение: {0}+{1}/{2}</FMG.TargetCount>
+  <FMG.TargetCountTooltip>Цель: {2}\n{0} на складе\n{1} ожидается от текущих задач.</FMG.TargetCountTooltip>
+  <FMG.ForceMature>Только созревшие растения</FMG.ForceMature>
+  <FMG.ForceMature.Tip>Следует ли ограничивать сбор только полностью зрелыми растениями?</FMG.ForceMature.Tip>
+  <FMG.ForagingArea>Разрешить сбор в зоне:</FMG.ForagingArea>
+  <FMG.Plants>Разрешенные растения</FMG.Plants>
+  <FM.Foraging.Edible>Съедобные растения</FM.Foraging.Edible>
+  <FM.Foraging.Edible.Tip>Выбрать все съедобные растения</FM.Foraging.Edible.Tip>
+  <FM.Foraging.Mushrooms>Грибы</FM.Foraging.Mushrooms>
+  <FM.Foraging.Mushrooms.Tip>Выбрать все грибы</FM.Foraging.Mushrooms.Tip>
+
+  <!-- Thresholds -->
+  <FMP.ThresholdCount>Лимит: {0}/{1}</FMP.ThresholdCount>
+  <FMP.ThresholdCountTooltip>Кликни, чтобы открыть данные по лимиту.\n\nЦель: {1}\nВ производстве: {0}</FMP.ThresholdCountTooltip>
+  <FMP.ThresholdDetails>Данные о лимите</FMP.ThresholdDetails>
+
+  <!-- Tab headers -->
+  <FMP.Current>Текущий</FMP.Current>
+  <FMP.Available>Доступно</FMP.Available>
+
+  <!-- Livestock tab -->
+  <FML.Livestock>Животноводство</FML.Livestock>
+  <FML.TargetCounts>Целевое значение</FML.TargetCounts>
+  <FML.Adult>Взрослый</FML.Adult>
+  <FML.Juvenile>Молодой</FML.Juvenile>
+  <FML.Training>Тренировка</FML.Training>
+  <FML.RestrictToArea>Назначить животным зону?</FML.RestrictToArea>
+  <FML.RestrictToArea.Tip>Ограничьте животных определенной областью, возможно разделенной по полу и продолжительности жизни</FML.RestrictToArea.Tip>
+  <FML.ButcherExcess>Забой лишних животных</FML.ButcherExcess>
+  <FML.ButcherExcess.Tip>Следует ли убивать лишний скот на мясо?</FML.ButcherExcess.Tip>
+  <FML.ButcherTrained>обучен</FML.ButcherTrained>
+  <FML.ButcherTrained.Tip>Разрешено ли дрессировать дрессированных животных?</FML.ButcherTrained.Tip>
+  <FML.ButcherPregnant>беременый</FML.ButcherPregnant>
+  <FML.ButcherPregnant.Tip>Разрешено ли убивать беременных животных?</FML.ButcherPregnant.Tip>
+  <FML.ButcherBonded>привязан</FML.ButcherBonded>
+  <FML.ButcherBonded.Tip>Разрешено ли разделывать привязанных животных?</FML.ButcherBonded.Tip>
+  <FML.TameMore>Автоматически находить животных для приручения</FML.TameMore>
+  <FML.TameMore.Tip>Должен ли менеджер назначать диких животных для приручения?</FML.TameMore.Tip>
+  <FML.TameArea>Разрешить приручение:</FML.TameArea>
+  <FML.ListEntryTooltip>{0}:\n{1}/{5} взрослые самки\n{2}/{6} взрослые самцы\n{3}/{7} молодые самки\n{4}/{8} молодые самцы</FML.ListEntryTooltip>
+  <FML.TameWildCount>{0} прирученных, {1} диких</FML.TameWildCount>
+  <FML.NoAnimals>нет животных: {0}</FML.NoAnimals>
+  <FML.GenderHeader>Пол</FML.GenderHeader>
+  <FML.AgeHeader>Возраст</FML.AgeHeader>
+  <FML.MeatHeader>Ожидаемое количество мяса</FML.MeatHeader>
+  <FML.MilkHeader>До следующего доения</FML.MilkHeader>
+  <FML.WoolHeader>До следующей стрижки</FML.WoolHeader>
+  <FML.Yields>приносит {0} x{1}</FML.Yields>
+  <FML.TrainYoung>Тренировать молодняк</FML.TrainYoung>
+  <FML.SendToSlaughterArea>Установить лимит на убийство животных</FML.SendToSlaughterArea>
+  <FML.SendToSlaughterArea.Tip>Ограничить животных, предназначенных для убоя, на определенную территорию</FML.SendToSlaughterArea.Tip>
+  <FM.Livestock.TargetCountsHeader>Целевые показатели</FM.Livestock.TargetCountsHeader>
+  <FM.Livestock.AreaRestrictionsHeader>Область ограничения</FM.Livestock.AreaRestrictionsHeader>
+  <FM.Livestock.TrainingHeader>Тренировка</FM.Livestock.TrainingHeader>
+  <FM.Livestock.ButcherHeader>Разделка</FM.Livestock.ButcherHeader>
+  <FM.Livestock.TamingHeader>Приручение</FM.Livestock.TamingHeader>
+  <FML.Tame>приручать</FML.Tame>
+  <FML.Wild>дикие</FML.Wild>
+  <FM.Livestock.AnimalsHeader>{0} {1}</FM.Livestock.AnimalsHeader>
+  <FM.Livestock.SelectPawnKind>Работа не выбрана</FM.Livestock.SelectPawnKind>
+  <FM.Livestock.DisabledBecauseSlaughterExcessDisabled>Отключено, потому что лишний скот не убивают.</FM.Livestock.DisabledBecauseSlaughterExcessDisabled>
+  <FML.SendToTrainingArea>Ограничить животных, помеченных для обучения</FML.SendToTrainingArea>
+  <FML.SendToTrainingArea.Tip>Ограничьте животных, предназначенных для обучения, определенной областью.</FML.SendToTrainingArea.Tip>
+  <FM.Livestock.DisabledBecauseNoTrainingSet>Отключено, потому что цель тренировки не установлена.</FM.Livestock.DisabledBecauseNoTrainingSet>
+  <FM.Livestock.CannotTrainTooSmall>{0} слишком малы, чтобы тренировать их.</FM.Livestock.CannotTrainTooSmall>
+
+  <!-- following -->
+  <FM.Livestock.FollowHeader>Следование</FM.Livestock.FollowHeader>
+  <FM.Livestock.MasterDefault>Назначить хояина</FM.Livestock.MasterDefault>
+  <FM.Livestock.MasterDefault.Tip>Назначьте животных конкретному хозяину или группам колонистов. Может перезаписать пользовательские настройки при включении.</FM.Livestock.MasterDefault.Tip>
+  <FM.Livestock.RespectBonds>Уважать связи</FM.Livestock.RespectBonds>
+  <FM.Livestock.RespectBonds.Tip>Если включено, всегда назначает животных, которые связаны с колонистом к этому колонисту. Если отключено, связи игнорируются.</FM.Livestock.RespectBonds.Tip>
+  <FM.Livestock.RespectBonds.DisabledBecauseMastersNotSet>Отключено, поскольку мастер установлен на конкретную пешку или установлен вручную.</FM.Livestock.RespectBonds.DisabledBecauseMastersNotSet>
+  <FM.Livestock.Follow>Установить хозяина следования</FM.Livestock.Follow>
+  <FM.Livestock.FollowTip>Установите основные настройки следования, перезапишет пользовательские настройки при включении. Если отключено, последующие настройки могут быть назначены вручную.</FM.Livestock.FollowTip>
+  <FM.Livestock.FollowDrafted>Призыв</FM.Livestock.FollowDrafted>
+  <FM.Livestock.FollowDrafted.Tip>Должны ли животные следовать за назначенными им хозяевами, когда хозяин призван?</FM.Livestock.FollowDrafted.Tip>
+  <FM.Livestock.FollowFieldwork>Полевые работы</FM.Livestock.FollowFieldwork>
+  <FM.Livestock.FollowFieldwork.Tip>Должны ли животные следовать назначенным им хозяевам, когда хозяин выполняет полевые работы (например, охоту)?</FM.Livestock.FollowFieldwork.Tip>
+  <FM.Livestock.FollowTraining>Следовать за тренером</FM.Livestock.FollowTraining>
+  <FM.Livestock.FollowTraining.Tip>Сделать так, чтобы животные, помеченные для обучения, старались следовать за их дрессировщиком.</FM.Livestock.FollowTraining.Tip>
+  <FM.Livestock.MasterTraining>Назначить тренера</FM.Livestock.MasterTraining>
+  <FM.Livestock.MasterTraining.Tip>Назначит животных, помеченных для обучения, конкретному мастеру (дрессировщику) или всем дрессировщикам. Может перезаписать пользовательские настройки при включении.</FM.Livestock.MasterTraining.Tip>
+  <FM.Livestock.Master>{0} ({1})</FM.Livestock.Master>  <!-- 0; pawn name, 1; skill level -->
+
+  <!-- MasterMode enum -->
+  <FM.Livestock.MasterMode.Default>Вручную</FM.Livestock.MasterMode.Default>
+  <FM.Livestock.MasterMode.Hunters>Охотники</FM.Livestock.MasterMode.Hunters>
+  <FM.Livestock.MasterMode.Trainers>Тренеры</FM.Livestock.MasterMode.Trainers>
+  <FM.Livestock.MasterMode.Melee>Ближний бой</FM.Livestock.MasterMode.Melee>
+  <FM.Livestock.MasterMode.Ranged>Дальний бой</FM.Livestock.MasterMode.Ranged>
+  <FM.Livestock.MasterMode.Violent>Агрессивный</FM.Livestock.MasterMode.Violent>
+  <FM.Livestock.MasterMode.NonViolent>Не агрессивный</FM.Livestock.MasterMode.NonViolent>
+  <FM.Livestock.MasterMode.All>Все</FM.Livestock.MasterMode.All>
+
+  <!-- Right click job fail reasons -->
+  <Fluffy.ColonyManager.CannotManage.NoPower>нет энергии</Fluffy.ColonyManager.CannotManage.NoPower>
+  <Fluffy.ColonyManager.CannotManage.NoJobs>не задана работа</Fluffy.ColonyManager.CannotManage.NoJobs>
+  <Fluffy.ColonyManager.CannotManage.NoActiveJobs>вся работа выполнена</Fluffy.ColonyManager.CannotManage.NoActiveJobs>
+
+
+</LanguageData>

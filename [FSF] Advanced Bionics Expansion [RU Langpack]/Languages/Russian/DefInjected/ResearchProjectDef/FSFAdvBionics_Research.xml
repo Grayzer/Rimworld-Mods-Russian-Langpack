@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced Bionics Research -->
+
+  <FSFAdvancedBionics.label>Продвинутая Бионика</FSFAdvancedBionics.label>
+  <FSFAdvancedBionics.description>Создавайте высокотехнологичные современные бионические части тела, чтобы заменить потерянные конечности и глаза. Требуется опытный врач для прикрепления.</FSFAdvancedBionics.description>
+
+
+  <!-- Advanced Implants Research -->
+
+  <FSFAdvancedImplants.label>Продвинутые Импланты</FSFAdvancedImplants.label>
+  <FSFAdvancedImplants.description>Создавайте высокотехнологичные передовые имплантаты, которые выводят тело за пределы нормы и обеспечивают интеллектуальную поддержку со стороны искусственного интеллекта. Требуется опытный врач для прикрепления.</FSFAdvancedImplants.description>
+
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Body Parts -->
+
+  <InstallFSFArchotechEar.label>установить архотек ухо</InstallFSFArchotechEar.label>
+  <InstallFSFArchotechEar.description>Установить архотек ухо.</InstallFSFArchotechEar.description>
+  <InstallFSFArchotechEar.jobString>Устанавливает архотек ухо.</InstallFSFArchotechEar.jobString>
+
+  <InstallFSFArchotechJaw.label>установить архотек челюсть</InstallFSFArchotechJaw.label>
+  <InstallFSFArchotechJaw.description>Установить архотек челюсть.</InstallFSFArchotechJaw.description>
+  <InstallFSFArchotechJaw.jobString>Устанавливает архотек челюсть.</InstallFSFArchotechJaw.jobString>
+
+  <InstallFSFArchotechSpine.label>установить архотек позвоночник</InstallFSFArchotechSpine.label>
+  <InstallFSFArchotechSpine.description>Установить архотек позвоночник.</InstallFSFArchotechSpine.description>
+  <InstallFSFArchotechSpine.jobString>Устанавливает архотек позвоночник.</InstallFSFArchotechSpine.jobString>
+
+  <InstallFSFArchotechHeart.label>установить архотек сердце</InstallFSFArchotechHeart.label>
+  <InstallFSFArchotechHeart.description>Установить архотек сердце.</InstallFSFArchotechHeart.description>
+  <InstallFSFArchotechHeart.jobString>Устанавливает архотек сердце.</InstallFSFArchotechHeart.jobString>
+
+  <InstallFSFArchotechLung.label>установить архотек легкое</InstallFSFArchotechLung.label>
+  <InstallFSFArchotechLung.description>Установить архотек легкое.</InstallFSFArchotechLung.description>
+  <InstallFSFArchotechLung.jobString>Устанавливает архотек легкое.</InstallFSFArchotechLung.jobString>
+
+  <InstallFSFArchotechKidney.label>установить архотек почку</InstallFSFArchotechKidney.label>
+  <InstallFSFArchotechKidney.description>Установить архотек почку.</InstallFSFArchotechKidney.description>
+  <InstallFSFArchotechKidney.jobString>Устанавливает архотек почку.</InstallFSFArchotechKidney.jobString>
+
+  <InstallFSFArchotechLiver.label>установить архотек печень</InstallFSFArchotechLiver.label>
+  <InstallFSFArchotechLiver.description>Установить архотек печень.</InstallFSFArchotechLiver.description>
+  <InstallFSFArchotechLiver.jobString>Устанавливает архотек печень.</InstallFSFArchotechLiver.jobString>
+
+  <InstallFSFArchotechStomach.label>установить архотек желудок</InstallFSFArchotechStomach.label>
+  <InstallFSFArchotechStomach.description>Установить архотек желудок.</InstallFSFArchotechStomach.description>
+  <InstallFSFArchotechStomach.jobString>Устанавливает архотек желудок.</InstallFSFArchotechStomach.jobString>
+
+
+</LanguageData>

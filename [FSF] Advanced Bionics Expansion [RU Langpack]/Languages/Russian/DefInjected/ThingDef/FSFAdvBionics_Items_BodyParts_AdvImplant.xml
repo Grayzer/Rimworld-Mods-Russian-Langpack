@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ribcage Implants -->
+
+  <FSFImplantCombatModule.label>Продвинутый Боевой Модуль</FSFImplantCombatModule.label>
+  <FSFImplantCombatModule.description>Сложный модуль привит к ткани под кожей, которая стимулирует нервную систему организма. Это увеличивает подвижность, зрение и уменьшает боль.</FSFImplantCombatModule.description>
+
+  <FSFImplantHazardModule.label>Продвинутый Модуль Экзогенной Опасности</FSFImplantHazardModule.label>
+  <FSFImplantHazardModule.description>Сложный модуль привит к ткани под кожей, чтобы помочь с многими опасностями агрессивных сред. Он включает в себя систему регулирования естественной температуры тела, чтобы лучше справляться с экстремальными температурами. Система для фильтрации вдыхаемых токсичных элементов и система, помогающая отфильтровывать инородные элементы из крови организма.</FSFImplantHazardModule.description>
+
+
+  <!-- Skull Implants -->
+
+  <FSFImplantSkullArmor.label>Продвинутый черепной экран</FSFImplantSkullArmor.label>
+  <FSFImplantSkullArmor.description>Набор металлических пластин привит к черепу для защиты от психических атак.</FSFImplantSkullArmor.description>
+
+
+  <!-- Torso Implants -->
+
+  <FSFImplantTorsoMovement.label>Продвинутая беговая рама</FSFImplantTorsoMovement.label>
+  <FSFImplantTorsoMovement.description>Различные металлические и синтетические дополнения для структуры скелета. Модифицируя и изменяя форму скелета пользователя, его тело становится более плавным и быстрее реагирует, давая большую скорость движения и шансы увернуться.</FSFImplantTorsoMovement.description>
+
+  <FSFImplantAugmentedSkeleton.label>Продвинутый аугментированный скелет</FSFImplantAugmentedSkeleton.label>
+  <FSFImplantAugmentedSkeleton.description>Различные металлические и синтетические дополнения для структуры скелета. Усиления и изменения в суставах предоставляют пользователю большую мобильность и манипуляцию.</FSFImplantAugmentedSkeleton.description>
+
+  <FSFImplantSubdermalArmor.label>Продвинутая Суб-дермальная Броня</FSFImplantSubdermalArmor.label>
+  <FSFImplantSubdermalArmor.description>Серия прочных гибких синтетических волокон, аккуратно привитых к ткани под кожей по всему телу. Эта подкожная броня усиливает защиту человека, защищая его жизненно важные органы.</FSFImplantSubdermalArmor.description>
+
+
+</LanguageData>

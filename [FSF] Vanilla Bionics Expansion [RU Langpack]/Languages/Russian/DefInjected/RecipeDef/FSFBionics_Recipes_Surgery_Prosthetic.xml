@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Prosthetic Body Parts -->
+
+  <InstallFSFProstheticEye.label>установить протез глаза</InstallFSFProstheticEye.label>
+  <InstallFSFProstheticEye.description>Установить протез глаза.</InstallFSFProstheticEye.description>
+  <InstallFSFProstheticEye.jobString>Устанавливает pпротез глаза.</InstallFSFProstheticEye.jobString>
+
+  <InstallFSFProstheticHand.label>установить протез ладони</InstallFSFProstheticHand.label>
+  <InstallFSFProstheticHand.description>Установить протез ладони.</InstallFSFProstheticHand.description>
+  <InstallFSFProstheticHand.jobString>Устанавливает протез ладони.</InstallFSFProstheticHand.jobString>
+
+  <InstallFSFProstheticSpine.label>установить протез позвоночника</InstallFSFProstheticSpine.label>
+  <InstallFSFProstheticSpine.description>Установить протез позвоночника.</InstallFSFProstheticSpine.description>
+  <InstallFSFProstheticSpine.jobString>Устанавливает протез позвоночника.</InstallFSFProstheticSpine.jobString>
+
+  <InstallFSFSimpleProstheticLung.label>установить протез легкого</InstallFSFSimpleProstheticLung.label>
+  <InstallFSFSimpleProstheticLung.description>Установить протез легкого.</InstallFSFSimpleProstheticLung.description>
+  <InstallFSFSimpleProstheticLung.jobString>Устанавливает протез легкого.</InstallFSFSimpleProstheticLung.jobString>
+
+  <InstallFSFSimpleProstheticKidney.label>установить протез почки</InstallFSFSimpleProstheticKidney.label>
+  <InstallFSFSimpleProstheticKidney.description>Установить протез почки.</InstallFSFSimpleProstheticKidney.description>
+  <InstallFSFSimpleProstheticKidney.jobString>Устанавливает протез почки.</InstallFSFSimpleProstheticKidney.jobString>
+
+  <InstallFSFSimpleProstheticLiver.label>установить протез печени</InstallFSFSimpleProstheticLiver.label>
+  <InstallFSFSimpleProstheticLiver.description>Установить протез печени.</InstallFSFSimpleProstheticLiver.description>
+  <InstallFSFSimpleProstheticLiver.jobString>Устанавливает протез печени.</InstallFSFSimpleProstheticLiver.jobString>
+
+  <InstallFSFSimpleProstheticStomach.label>установить протез желудка</InstallFSFSimpleProstheticStomach.label>
+  <InstallFSFSimpleProstheticStomach.description>Установить протез желудка.</InstallFSFSimpleProstheticStomach.description>
+  <InstallFSFSimpleProstheticStomach.jobString>Устанавливает протез желудка.</InstallFSFSimpleProstheticStomach.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TenantTurnedColonist>Колонист</TenantTurnedColonist>
+  <Tenant>Аредатор</Tenant>
+  <Tenants>Арендаторы</Tenants>
+  <FireFighting>Пожарный</FireFighting>
+  <FireFightingTip>Должен ли арендатор помогать с тушением пожаров.</FireFightingTip>
+  <FireFightingError>{PAWN_nameDef} не тушит пожары!</FireFightingError>
+  <Basic>Чернорабочий</Basic>
+  <BasicTip>Должен ли арендатор помогать с основной работой</BasicTip>
+  <BasicError>{PAWN_nameDef} не будет выполнять основную работу!</BasicError>
+  <Hauling>Переноска</Hauling>
+  <HaulingTip>Должен ли арендатор помогать с переноской.</HaulingTip>
+  <HaulingError>{PAWN_nameDef} не переносит!</HaulingError>
+  <Cleaning>Уборка</Cleaning>
+  <CleaningTip>Должен ли арендатор помогать с уборкой.</CleaningTip>
+  <CleaningError>{PAWN_nameDef} не убирает!</CleaningError>
+
+
+  <TenantMood>Настроение</TenantMood>
+  <TenantSad>{0} жильцы расстроены.</TenantSad>
+  <TenantSadDesc>Эти жильцы расстроены:\n\n{0}\nВозможно, вам стоит разобраться с этим вопросом.</TenantSadDesc>
+
+</LanguageData>

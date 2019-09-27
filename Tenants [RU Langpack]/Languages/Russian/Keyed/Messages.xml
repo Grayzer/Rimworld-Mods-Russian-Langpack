@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TenantSurgeryWarning>{PAWN_nameDef} находит ваше предложение об операции оскорбительным! {PAWN_pronoun} не будет участвовать в таких вещах!</TenantSurgeryWarning>
+  <TenantSurgeryLeave>{PAWN_nameDef} устал от ваших выходок и решает уйти. Вы явно не серьезно относитесь к соблюдению контракта, так почему {PAWN_pronoun}.</TenantSurgeryLeave>
+
+</LanguageData>

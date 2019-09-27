@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <FM_BasicManagerStation.label>Базовый стол менеджера</FM_BasicManagerStation.label>
+  <FM_BasicManagerStation.description>Простой стол с самым необходимым для работы менеджера.</FM_BasicManagerStation.description>
+  <FM_BasicManagerStation_Blueprint.label>Базовый стол менеджера (чертеж)</FM_BasicManagerStation_Blueprint.label>
+  <FM_BasicManagerStation_Blueprint_Install.label>Базовый стол менеджера (чертеж)</FM_BasicManagerStation_Blueprint_Install.label>
+  <FM_BasicManagerStation_Frame.label>Базовый стол менеджера (стройка)</FM_BasicManagerStation_Frame.label>
+  <FM_BasicManagerStation_Frame.description>Простой стол с самым необходимым для работы менеджера.</FM_BasicManagerStation_Frame.description>
+
+  <FM_ManagerStation.label>Стол менеджера</FM_ManagerStation.label>
+  <FM_ManagerStation.description>Стол с компьютером и всем необходимым для работы менеджера.</FM_ManagerStation.description>
+  <FM_ManagerStation_Blueprint.label>Стол менеджера (чертеж)</FM_ManagerStation_Blueprint.label>
+  <FM_ManagerStation_Blueprint_Install.label>Стол менеджера (чертеж)</FM_ManagerStation_Blueprint_Install.label>
+  <FM_ManagerStation_Frame.label>Стол менеджера (стройка)</FM_ManagerStation_Frame.label>
+  <FM_ManagerStation_Frame.description>Стол с компьютером и всем необходимым для работы менеджера.</FM_ManagerStation_Frame.description>
+
+  <FM_AIManager.label>ИИ-менеджер</FM_AIManager.label>
+  <FM_AIManager.description>Суперкомпьютер, способный самостоятельно управлять колонией. Утверждения, что в ИИ встроена подпрограмма злобного психопата - враки. Мы гарантируем вашу безопасность!</FM_AIManager.description>
+  <FM_AIManager_Blueprint.label>ИИ-менеджер (чертеж)</FM_AIManager_Blueprint.label>
+  <FM_AIManager_Blueprint_Install.label>ИИ-менеджер (чертеж)</FM_AIManager_Blueprint_Install.label>
+  <FM_AIManager_Frame.label>ИИ-менеджер (стройка)</FM_AIManager_Frame.label>
+  <FM_AIManager_Frame.description>Суперкомпьютер, способный самостоятельно управлять колонией. Утверждения, что в ИИ встроена подпрограмма злобного психопата - враки. Мы гарантируем вашу безопасность!</FM_AIManager_Frame.description>
+
+
+</LanguageData>

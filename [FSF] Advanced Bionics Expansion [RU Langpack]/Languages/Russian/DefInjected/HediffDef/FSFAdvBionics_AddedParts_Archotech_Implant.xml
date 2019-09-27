@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Ai Chips -->
+
+  <FSFArchotechAIChipGlobalSpeed.label>Архотек ИИ-чип (Универсальный)</FSFArchotechAIChipGlobalSpeed.label>
+  <FSFArchotechAIChipGlobalSpeed.labelNoun>это Архотек ИИ-чип (Универсальный)</FSFArchotechAIChipGlobalSpeed.labelNoun>
+
+
+  <!-- Archotech Implants -->
+
+  <FSFArchotechImplantSubdermalArmor.label>Архотек Суб-дермальная Броня</FSFArchotechImplantSubdermalArmor.label>
+  <FSFArchotechImplantSubdermalArmor.labelNoun>это Архотек Суб-дермальная Броня</FSFArchotechImplantSubdermalArmor.labelNoun>
+
+
+</LanguageData>

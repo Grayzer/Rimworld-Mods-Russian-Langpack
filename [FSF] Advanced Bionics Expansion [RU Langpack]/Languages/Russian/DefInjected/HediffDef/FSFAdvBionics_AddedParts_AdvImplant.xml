@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ribcage Implants -->
+
+  <FSFImplantCombatModule.label>Продвинутый Боевой Модуль</FSFImplantCombatModule.label>
+  <FSFImplantCombatModule.labelNoun>это Продвинутый Боевой Модуль</FSFImplantCombatModule.labelNoun>
+
+  <FSFImplantHazardModule.label>Продвинутый Модуль Экзогенной Опасности</FSFImplantHazardModule.label>
+  <FSFImplantHazardModule.labelNoun>это Продвинутый Модуль Экзогенной Опасности</FSFImplantHazardModule.labelNoun>
+
+
+  <!-- Skull Implants -->
+
+  <FSFImplantSkullArmor.label>Продвинутый черепной экран</FSFImplantSkullArmor.label>
+  <FSFImplantSkullArmor.labelNoun>это Продвинутый черепной экран</FSFImplantSkullArmor.labelNoun>
+
+
+  <!-- Torso Implants -->
+
+  <FSFImplantTorsoMovement.label>Продвинутая беговая рама</FSFImplantTorsoMovement.label>
+  <FSFImplantTorsoMovement.labelNoun>это Продвинутая беговая рама</FSFImplantTorsoMovement.labelNoun>
+
+  <FSFImplantAugmentedSkeleton.label>Продвинутый аугментированный скелет</FSFImplantAugmentedSkeleton.label>
+  <FSFImplantAugmentedSkeleton.labelNoun>это Продвинутый аугментированный скелет</FSFImplantAugmentedSkeleton.labelNoun>
+
+  <FSFImplantSubdermalArmor.label>Продвинутая Суб-дермальная Броня</FSFImplantSubdermalArmor.label>
+  <FSFImplantSubdermalArmor.labelNoun>это Продвинутая Суб-дермальная Броня</FSFImplantSubdermalArmor.labelNoun>
+
+
+</LanguageData>

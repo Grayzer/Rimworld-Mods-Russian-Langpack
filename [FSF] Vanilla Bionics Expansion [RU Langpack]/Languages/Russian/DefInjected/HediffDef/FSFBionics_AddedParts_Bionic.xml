@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic Body Parts -->
+
+  <FSFBionicPowerArm.label>бионическая силовая рука</FSFBionicPowerArm.label>
+  <FSFBionicPowerArm.comps.0.tools.0.label>claw</FSFBionicPowerArm.comps.0.tools.0.label>
+  <FSFBionicPowerArm.labelNoun>это бионическая силовая рука</FSFBionicPowerArm.labelNoun>
+
+  <FSFBionicJaw.label>бионическая челюсть</FSFBionicJaw.label>
+  <FSFBionicJaw.comps.0.tools.0.label>teeth</FSFBionicJaw.comps.0.tools.0.label>
+  <FSFBionicJaw.labelNoun>это бионическая челюсть</FSFBionicJaw.labelNoun>
+
+  <FSFBionicLung.label>бионическое легкое</FSFBionicLung.label>
+  <FSFBionicLung.labelNoun>это бионическое легкое</FSFBionicLung.labelNoun>
+
+  <FSFBionicKidney.label>бионическая почка</FSFBionicKidney.label>
+  <FSFBionicKidney.labelNoun>это бионическая почка</FSFBionicKidney.labelNoun>
+
+  <FSFBionicLiver.label>бионическая печень</FSFBionicLiver.label>
+  <FSFBionicLiver.labelNoun>это бионическая печень</FSFBionicLiver.labelNoun>
+
+
+</LanguageData>

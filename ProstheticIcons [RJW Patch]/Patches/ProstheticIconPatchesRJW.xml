@@ -4,7 +4,7 @@
 <!-- ===RJW=== -->
 
 <!-- Animal and Other -->
-PegDick
+
 	<Operation Class="PatchOperationAdd">
 		<xpath>*/ThingDef[defName = "PegDick"]</xpath>
 		<value>

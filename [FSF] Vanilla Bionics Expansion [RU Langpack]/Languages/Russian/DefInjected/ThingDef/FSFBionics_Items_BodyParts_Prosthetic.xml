@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Prosthetic Body Parts -->
+
+  <FSFProstheticEye.label>протез глаза</FSFProstheticEye.label>
+  <FSFProstheticEye.description>Глазной протез. Это не так эффективно, как реальная вещь, но лучше, чем ничего.</FSFProstheticEye.description>
+
+  <FSFProstheticHand.label>протез ладони</FSFProstheticHand.label>
+  <FSFProstheticHand.description>Протез ладони. Несмотря на отсутствие нейронного интерфейса, её сложное расположение внутренних суставов позволяет достаточно убедительно имитировать естественные движения. Тем не менее, она уступает настоящей руке.</FSFProstheticHand.description>
+
+  <FSFProstheticSpine.label>протез позвоночника</FSFProstheticSpine.label>
+  <FSFProstheticSpine.description>Протез позвоночника. Это не так эффективно, как реальная вещь, но лучше, чем ничего.</FSFProstheticSpine.description>
+
+  <FSFSimpleProstheticLung.label>протез легкого</FSFSimpleProstheticLung.label>
+  <FSFSimpleProstheticLung.description>Протез легкого. Это не так эффективно, как реальная вещь, но лучше, чем ничего.</FSFSimpleProstheticLung.description>
+
+  <FSFSimpleProstheticKidney.label>протез почки</FSFSimpleProstheticKidney.label>
+  <FSFSimpleProstheticKidney.description>Протез почки. Это не так эффективно, как реальная вещь, но лучше, чем ничего.</FSFSimpleProstheticKidney.description>
+
+  <FSFSimpleProstheticLiver.label>протез печени</FSFSimpleProstheticLiver.label>
+  <FSFSimpleProstheticLiver.description>Протез печени. Это не так эффективно, как реальная вещь, но лучше, чем ничего.</FSFSimpleProstheticLiver.description>
+
+  <FSFSimpleProstheticStomach.label>протез желудка</FSFSimpleProstheticStomach.label>
+  <FSFSimpleProstheticStomach.description>Протез желудка. Это не так эффективно, как реальная вещь, но лучше, чем ничего.</FSFSimpleProstheticStomach.description>
+
+
+</LanguageData>

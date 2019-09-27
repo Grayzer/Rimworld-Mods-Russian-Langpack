@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+	<!-- RJW Bionics -->
+
+	<Operation Class="PatchOperationFindMod">
+
+    	<mods>
+        	<li>Elite Bionics Framework</li>
+    	</mods>
+
+    	<match Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+
+			<li Class="PatchOperationAdd">
+				<xpath>*/HediffDef[defName = "BionicBreasts"]</xpath>
+				<value>
+					<comps>
+        				<li Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            				<linearAdjustment>5</linearAdjustment>
+        				</li>
+    				</comps>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>*/HediffDef[defName = "BionicAnus"]/comps</xpath>
+				<value>
+        			<li Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            			<linearAdjustment>10</linearAdjustment>
+        			</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>*/HediffDef[defName = "BionicVagina"]</xpath>
+				<value>
+					<comps>
+        				<li Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            				<linearAdjustment>10</linearAdjustment>
+        				</li>
+    				</comps>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>*/HediffDef[defName = "BionicPenis"]</xpath>
+				<value>
+					<comps>
+        				<li Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            				<linearAdjustment>5</linearAdjustment>
+        				</li>
+    				</comps>
+				</value>
+			</li>
+        </operations>
+    	</match>
+
+	</Operation>
+
+</Patch>

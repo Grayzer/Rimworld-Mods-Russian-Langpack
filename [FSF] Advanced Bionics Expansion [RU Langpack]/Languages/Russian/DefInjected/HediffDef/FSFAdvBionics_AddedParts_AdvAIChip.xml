@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced AI Chips -->
+
+  <FSFAIChipMelee.label>Продвинутый ИИ-чип (Ближний бой)</FSFAIChipMelee.label>
+  <FSFAIChipMelee.labelNoun>это Продвинутый ИИ-чип (Ближний бой)</FSFAIChipMelee.labelNoun>
+
+  <FSFAIChipShooting.label>Продвинутый ИИ-чип (Дальний бой)</FSFAIChipShooting.label>
+  <FSFAIChipShooting.labelNoun>это Продвинутый ИИ-чип (Дальний бой)</FSFAIChipShooting.labelNoun>
+
+  <FSFAIChipGlobalSpeed.label>Продвинутый ИИ-чип (Универсальный)</FSFAIChipGlobalSpeed.label>
+  <FSFAIChipGlobalSpeed.labelNoun>это Продвинутый ИИ-чип (Универсальный)</FSFAIChipGlobalSpeed.labelNoun>
+
+  <FSFAIChipArt.label>Продвинутый ИИ-чип (Исскуство)</FSFAIChipArt.label>
+  <FSFAIChipArt.labelNoun>это Продвинутый ИИ-чип (Исскуство)</FSFAIChipArt.labelNoun>
+
+  <FSFAIChipConstruction.label>Продвинутый ИИ-чип (Строительство)</FSFAIChipConstruction.label>
+  <FSFAIChipConstruction.labelNoun>это Продвинутый ИИ-чип (Строительство)</FSFAIChipConstruction.labelNoun>
+
+  <FSFAIChipCooking.label>Продвинутый ИИ-чип (Готовка)</FSFAIChipCooking.label>
+  <FSFAIChipCooking.labelNoun>это Продвинутый ИИ-чип (Готовка)</FSFAIChipCooking.labelNoun>
+
+  <FSFAIChipCrafting.label>Продвинутый ИИ-чип (Работа)</FSFAIChipCrafting.label>
+  <FSFAIChipCrafting.labelNoun>это Продвинутый ИИ-чип (Работа)</FSFAIChipCrafting.labelNoun>
+
+  <FSFAIChipEducation.label>Продвинутый ИИ-чип (Образование)</FSFAIChipEducation.label>
+  <FSFAIChipEducation.labelNoun>это Продвинутый ИИ-чип (Образование)</FSFAIChipEducation.labelNoun>
+
+  <FSFAIChipMedical.label>Продвинутый ИИ-чип (Медицина)</FSFAIChipMedical.label>
+  <FSFAIChipMedical.labelNoun>это Продвинутый ИИ-чип (Медицина)</FSFAIChipMedical.labelNoun>
+
+  <FSFAIChipMining.label>Продвинутый ИИ-чип (Горняк)</FSFAIChipMining.label>
+  <FSFAIChipMining.labelNoun>это Продвинутый ИИ-чип (Горняк)</FSFAIChipMining.labelNoun>
+
+  <FSFAIChipPlants.label>Продвинутый ИИ-чип (Фермер)</FSFAIChipPlants.label>
+  <FSFAIChipPlants.labelNoun>это Продвинутый ИИ-чип (Фермер)</FSFAIChipPlants.labelNoun>
+
+  <FSFAIChipResearch.label>Продвинутый ИИ-чип (Исследователь)</FSFAIChipResearch.label>
+  <FSFAIChipResearch.labelNoun>это Продвинутый ИИ-чип (Исследователь)</FSFAIChipResearch.labelNoun>
+
+  <FSFAIChipSocial.label>Продвинутый ИИ-чип (Общение)</FSFAIChipSocial.label>
+  <FSFAIChipSocial.labelNoun>это Продвинутый ИИ-чип (Общение)</FSFAIChipSocial.labelNoun>
+
+
+</LanguageData>

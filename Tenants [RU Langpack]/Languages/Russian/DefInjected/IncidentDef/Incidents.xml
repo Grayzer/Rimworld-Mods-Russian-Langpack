@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <RequestForTenancy.label>Запрос на аренду</RequestForTenancy.label>
   <RetributionForDead.label>Возмездие за умершего арендатора</RetributionForDead.label>
   <RetributionForCaptured.label>Возмездие за захваченного арендатора</RetributionForCaptured.label>
   <Opportunists.label>Оппортунисты</Opportunists.label>
+  <MoleRaid.label>Рейд по наводке</MoleRaid.label>
 
 
 </LanguageData>

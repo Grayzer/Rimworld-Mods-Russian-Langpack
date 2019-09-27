@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+
   <RequestForTenancyTitle>Запрос на аренду в {0}</RequestForTenancyTitle>
   <RequestForTenancyInitial>{PAWN_nameDef} ищет место для укрытия на некоторое время, и {PAWN_pronoun} готов заплатить вам за это. Не могли бы вы рассмотреть это предложение?</RequestForTenancyInitial>
   <RequestForTenancyOpportunity>{PAWN_nameDef} прослушал вашу трансляцию и спрашивает, может ли {PAWN_pronoun} некоторое время жить с вами.</RequestForTenancyOpportunity>
@@ -10,7 +11,7 @@
   <RequestForTenancyContinuedRejected>{1_labelShort} опечален, но, тем не менее, принимает ваше решение.</RequestForTenancyContinuedRejected>
 
   <RequestTenantWantToJoinTitle>Запрос от арендатора в {0}</RequestTenantWantToJoinTitle>
-  <RequestTenantWantToJoin>{PAWN_nameDef} любит находиться здесь и хочет остаться навсегда! Вы примете {PAWN_objective}? </RequestTenantWantToJoin>
+  <RequestTenantWantToJoin{PAWN_nameDef} любит находиться здесь и хочет остаться навсегда! Вы примете {PAWN_objective}? </RequestTenantWantToJoin>
   <RequestTenantWantToJoinRejected>{PAWN_nameDef} утверждает, что {PAWN_pronoun} ваше мнение изменится!</RequestTenantWantToJoinRejected>
 
   <ContractNew>Новый контракт</ContractNew>
@@ -23,12 +24,13 @@
   <ContractDoneTerminated>Контракт с {PAWN_nameDef} расторгнут и полный платеж {0} получен. {PAWN_nameDef} уходит несколько расстроенным...</ContractDoneTerminated>
   <ContractDonePlayerTerminated>Контракт с {PAWN_nameDef} расторгается, и {PAWN_pronoun} вынужден уйти.</ContractDonePlayerTerminated>
   <ContractDoneTheft>{PAWN_nameDef} решил уйти рано, не заплатив. {PAWN_pronoun} также имеет смелость, чтобы попытаться украсть у вас! Преступная мразь, такая как {PAWN_nameDef}, заслуживает наказания, и вы имеете право использовать {PAWN_objective} как вам угодно.</ContractDoneTheft>
+  <ContractTerminateFail>Вы не можете расторгнуть договор в это время.</ContractTerminateFail>
 
   <ContractEndDate>Заканчивается: {0}</ContractEndDate>
   <ContractPayment>Оплата: {0}</ContractPayment>
-  <ContractLength>Дни: {0}</ContractLength>
+  <ContractLength>Дней: {0}</ContractLength>
   <ContractDaily>Оплата/день: {0}</ContractDaily>
-  <TenantDescription>{PAWN_nameDef} имеет возраст {0} и равен {1}.</TenantDescription>
+  <TenantDescription>{PAWN_nameDef} имеет возраст {0} и является {1}.</TenantDescription>
 
   <ContractAgree>Согласен</ContractAgree>
   <ContractReject>Отказать</ContractReject>
@@ -39,6 +41,7 @@
   <AutoRenew>Автопродление</AutoRenew>
   <AutoRenewTip>Может ли арендатор автоматически продлить договор до истечения срока действия.</AutoRenewTip>
   <InviteTenant>Широковещательное приглашение</InviteTenant>
+
   <InviteTenantMessage>Трансляция отправляется по всему Rim с вашим местоположением. В сообщении утверждается, что для тех, у кого есть серебро, есть еда и удобные кровати.</InviteTenantMessage>
 
 </LanguageData>

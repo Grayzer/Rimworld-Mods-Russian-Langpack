@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Tenant.label>Арендатор</Tenant.label>
-  <Tenant.description>Текущие Арендаторы.</Tenant.description>
+  <Tenant.label>арендатор</Tenant.label>
+  <Tenant.description>Текущий арендатор.</Tenant.description>
 
 
 </LanguageData>

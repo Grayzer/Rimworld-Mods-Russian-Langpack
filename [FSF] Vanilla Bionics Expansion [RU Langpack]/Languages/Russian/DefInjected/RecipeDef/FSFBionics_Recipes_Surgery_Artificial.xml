@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artificial Body Parts -->
+
+  <InstallFSFArtificialNose.label>установить архотек нос</InstallFSFArtificialNose.label>
+  <InstallFSFArtificialNose.description>Установить архотек нос.</InstallFSFArtificialNose.description>
+  <InstallFSFArtificialNose.jobString>Устанавливает архотек нос.</InstallFSFArtificialNose.jobString>
+
+
+</LanguageData>

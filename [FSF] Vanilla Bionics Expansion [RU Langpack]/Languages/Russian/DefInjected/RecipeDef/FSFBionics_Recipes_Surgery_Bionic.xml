@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic Body Parts -->
+
+  <InstallFSFBionicPowerArm.label>установить бионичскую силовую руку/InstallFSFBionicPowerArm.label>
+  <InstallFSFBionicPowerArm.description>Установить бионичскую силовую руку.</InstallFSFBionicPowerArm.description>
+  <InstallFSFBionicPowerArm.jobString>Устанавливает бионичскую силовую руку.</InstallFSFBionicPowerArm.jobString>
+
+  <InstallFSFBionicJaw.label>установить бионическую челюсть</InstallFSFBionicJaw.label>
+  <InstallFSFBionicJaw.description>Установить бионическую челюсть.</InstallFSFBionicJaw.description>
+  <InstallFSFBionicJaw.jobString>Устанавливает бионическую челюсть.</InstallFSFBionicJaw.jobString>
+
+  <InstallFSFBionicLung.label>установить бионическое легкое</InstallFSFBionicLung.label>
+  <InstallFSFBionicLung.description>Установить бионическое легкое.</InstallFSFBionicLung.description>
+  <InstallFSFBionicLung.jobString>Устанавливает бионическое легкое.</InstallFSFBionicLung.jobString>
+
+  <InstallFSFBionicKidney.label>установить бионическую почку</InstallFSFBionicKidney.label>
+  <InstallFSFBionicKidney.description>Установить бионическую почку.</InstallFSFBionicKidney.description>
+  <InstallFSFBionicKidney.jobString>Устанавливает бионическую почку.</InstallFSFBionicKidney.jobString>
+
+  <InstallFSFBionicLiver.label>установить бионическую печень</InstallFSFBionicLiver.label>
+  <InstallFSFBionicLiver.description>Установить бионическую печень.</InstallFSFBionicLiver.description>
+  <InstallFSFBionicLiver.jobString>Устанавливает бионическую печень.</InstallFSFBionicLiver.jobString>
+
+
+</LanguageData>

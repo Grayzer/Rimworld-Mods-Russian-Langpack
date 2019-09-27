@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced AI Chip Body Parts -->
+
+  <InstallFSFAIChipMelee.label>установить Продвинутый ИИ-чип (Ближний бой)</InstallFSFAIChipMelee.label>
+  <InstallFSFAIChipMelee.description>Установить Продвинутый ИИ-чип (Ближний бой).</InstallFSFAIChipMelee.description>
+  <InstallFSFAIChipMelee.jobString>Устананавливает Продвинутый ИИ-чип (Ближний бой).</InstallFSFAIChipMelee.jobString>
+
+  <InstallFSFAIChipShooting.label>установить Продвинутый ИИ-чип (Дальний бой)</InstallFSFAIChipShooting.label>
+  <InstallFSFAIChipShooting.description>Установить Продвинутый ИИ-чип (Дальний бой).</InstallFSFAIChipShooting.description>
+  <InstallFSFAIChipShooting.jobString>Устананавливает Продвинутый ИИ-чип (Дальний бой).</InstallFSFAIChipShooting.jobString>
+
+  <InstallFSFAIChipGlobalSpeed.label>установить Продвинутый ИИ-чип (Универсальный)</InstallFSFAIChipGlobalSpeed.label>
+  <InstallFSFAIChipGlobalSpeed.description>Установить Продвинутый ИИ-чип (Универсальный).</InstallFSFAIChipGlobalSpeed.description>
+  <InstallFSFAIChipGlobalSpeed.jobString>Устананавливает Продвинутый ИИ-чип (Универсальный).</InstallFSFAIChipGlobalSpeed.jobString>
+
+  <InstallFSFAIChipArt.label>установить Продвинутый ИИ-чип (Исскуство)</InstallFSFAIChipArt.label>
+  <InstallFSFAIChipArt.description>Установить Продвинутый ИИ-чип (Исскуство).</InstallFSFAIChipArt.description>
+  <InstallFSFAIChipArt.jobString>Устананавливает Продвинутый ИИ-чип (Исскуство).</InstallFSFAIChipArt.jobString>
+
+  <InstallFSFAIChipConstruction.label>установить Продвинутый ИИ-чип (Строительство)</InstallFSFAIChipConstruction.label>
+  <InstallFSFAIChipConstruction.description>Установить Продвинутый ИИ-чип (Строительство).</InstallFSFAIChipConstruction.description>
+  <InstallFSFAIChipConstruction.jobString>Устананавливает Продвинутый ИИ-чип (Строительство).</InstallFSFAIChipConstruction.jobString>
+
+  <InstallFSFAIChipCooking.label>установить Продвинутый ИИ-чип (Готовка)</InstallFSFAIChipCooking.label>
+  <InstallFSFAIChipCooking.description>Установить Продвинутый ИИ-чип (Готовка).</InstallFSFAIChipCooking.description>
+  <InstallFSFAIChipCooking.jobString>Устананавливает Продвинутый ИИ-чип (Готовка).</InstallFSFAIChipCooking.jobString>
+
+  <InstallFSFAIChipCrafting.label>установить Продвинутый ИИ-чип (Работа)</InstallFSFAIChipCrafting.label>
+  <InstallFSFAIChipCrafting.description>Установить Продвинутый ИИ-чип (Работа).</InstallFSFAIChipCrafting.description>
+  <InstallFSFAIChipCrafting.jobString>Устананавливает Продвинутый ИИ-чип (Работа).</InstallFSFAIChipCrafting.jobString>
+
+  <InstallFSFAIChipEducation.label>установить Продвинутый ИИ-чип (Образование)</InstallFSFAIChipEducation.label>
+  <InstallFSFAIChipEducation.description>Установить Продвинутый ИИ-чип (Образование).</InstallFSFAIChipEducation.description>
+  <InstallFSFAIChipEducation.jobString>Устананавливает Продвинутый ИИ-чип (Образование).</InstallFSFAIChipEducation.jobString>
+
+  <InstallFSFAIChipMedical.label>установить Продвинутый ИИ-чип (Медицина)</InstallFSFAIChipMedical.label>
+  <InstallFSFAIChipMedical.description>Установить Продвинутый ИИ-чип (Медицина).</InstallFSFAIChipMedical.description>
+  <InstallFSFAIChipMedical.jobString>Устананавливает Продвинутый ИИ-чип (Медицина).</InstallFSFAIChipMedical.jobString>
+
+  <InstallFSFAIChipMining.label>установить Продвинутый ИИ-чип (Горняк)</InstallFSFAIChipMining.label>
+  <InstallFSFAIChipMining.description>Установить Продвинутый ИИ-чип (Горняк).</InstallFSFAIChipMining.description>
+  <InstallFSFAIChipMining.jobString>Устананавливает Продвинутый ИИ-чип (Горняк).</InstallFSFAIChipMining.jobString>
+
+  <InstallFSFAIChipPlants.label>установить Продвинутый ИИ-чип (Фермер)</InstallFSFAIChipPlants.label>
+  <InstallFSFAIChipPlants.description>Установить Продвинутый ИИ-чип (Фермер).</InstallFSFAIChipPlants.description>
+  <InstallFSFAIChipPlants.jobString>Устананавливает Продвинутый ИИ-чип (Фермер).</InstallFSFAIChipPlants.jobString>
+
+  <InstallFSFAIChipResearch.label>установить Продвинутый ИИ-чип (Исследователь)</InstallFSFAIChipResearch.label>
+  <InstallFSFAIChipResearch.description>Установить Продвинутый ИИ-чип (Исследователь).</InstallFSFAIChipResearch.description>
+  <InstallFSFAIChipResearch.jobString>Устананавливает Продвинутый ИИ-чип (Исследователь).</InstallFSFAIChipResearch.jobString>
+
+  <InstallFSFAIChipSocial.label>установить Продвинутый ИИ-чип (Общение)</InstallFSFAIChipSocial.label>
+  <InstallFSFAIChipSocial.description>Установить Продвинутый ИИ-чип (Общение).</InstallFSFAIChipSocial.description>
+  <InstallFSFAIChipSocial.jobString>Устананавливает Продвинутый ИИ-чип (Общение).</InstallFSFAIChipSocial.jobString>
+
+
+</LanguageData>

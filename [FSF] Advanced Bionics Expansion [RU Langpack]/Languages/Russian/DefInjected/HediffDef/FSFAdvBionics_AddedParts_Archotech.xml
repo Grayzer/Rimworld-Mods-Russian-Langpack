@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla Archotech Body Parts -->
+
+
+
+  <!-- Archotech Body Parts -->
+
+  <FSFArchotechEar.label>архотек ухо</FSFArchotechEar.label>
+  <FSFArchotechEar.labelNoun>это архотек ухо</FSFArchotechEar.labelNoun>
+
+  <FSFArchotechJaw.label>архотек челюсть</FSFArchotechJaw.label>
+  <FSFArchotechJaw.comps.0.tools.0.label>teeth</FSFArchotechJaw.comps.0.tools.0.label>
+  <FSFArchotechJaw.labelNoun>это архотек челюсть</FSFArchotechJaw.labelNoun>
+
+  <FSFArchotechSpine.label>архотек позвоночник</FSFArchotechSpine.label>
+  <FSFArchotechSpine.labelNoun>это архотек позвоночник</FSFArchotechSpine.labelNoun>
+
+  <FSFArchotechHeart.label>архотек сердце</FSFArchotechHeart.label>
+  <FSFArchotechHeart.labelNoun>это архотек сердце</FSFArchotechHeart.labelNoun>
+
+  <FSFArchotechLung.label>архотек легкое</FSFArchotechLung.label>
+  <FSFArchotechLung.labelNoun>это архотек легкое</FSFArchotechLung.labelNoun>
+
+  <FSFArchotechKidney.label>архотек почка</FSFArchotechKidney.label>
+  <FSFArchotechKidney.labelNoun>это архотек почка</FSFArchotechKidney.labelNoun>
+
+  <FSFArchotechLiver.label>архотек печень</FSFArchotechLiver.label>
+  <FSFArchotechLiver.labelNoun>это архотек печень</FSFArchotechLiver.labelNoun>
+
+  <FSFArchotechStomach.label>архотек желудок</FSFArchotechStomach.label>
+  <FSFArchotechStomach.labelNoun>это архотек желудок</FSFArchotechStomach.labelNoun>
+
+
+</LanguageData>

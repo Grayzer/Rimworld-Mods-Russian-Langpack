@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla Prosthetic Body Parts -->
+
+
+
+  <!-- Prosthetic Body Parts -->
+
+  <FSFProstheticEye.label>протез глаза</FSFProstheticEye.label>
+  <FSFProstheticEye.labelNoun>это протез глаза</FSFProstheticEye.labelNoun>
+
+  <FSFProstheticHand.label>протез ладони</FSFProstheticHand.label>
+  <FSFProstheticHand.comps.0.tools.0.label>fist</FSFProstheticHand.comps.0.tools.0.label>
+  <FSFProstheticHand.labelNoun>это протез ладони</FSFProstheticHand.labelNoun>
+
+  <FSFProstheticSpine.label>протез позвоночника</FSFProstheticSpine.label>
+  <FSFProstheticSpine.labelNoun>это протез позвоночника</FSFProstheticSpine.labelNoun>
+
+  <FSFSimpleProstheticLung.label>протез легкого</FSFSimpleProstheticLung.label>
+  <FSFSimpleProstheticLung.labelNoun>это протез легкого</FSFSimpleProstheticLung.labelNoun>
+
+  <FSFSimpleProstheticKidney.label>протез почки</FSFSimpleProstheticKidney.label>
+  <FSFSimpleProstheticKidney.labelNoun>это протез почки</FSFSimpleProstheticKidney.labelNoun>
+
+  <FSFSimpleProstheticLiver.label>протез печени</FSFSimpleProstheticLiver.label>
+  <FSFSimpleProstheticLiver.labelNoun>это протез печени</FSFSimpleProstheticLiver.labelNoun>
+
+  <FSFSimpleProstheticStomach.label>протез желудка</FSFSimpleProstheticStomach.label>
+  <FSFSimpleProstheticStomach.labelNoun>это протез желудка</FSFSimpleProstheticStomach.labelNoun>
+
+
+</LanguageData>

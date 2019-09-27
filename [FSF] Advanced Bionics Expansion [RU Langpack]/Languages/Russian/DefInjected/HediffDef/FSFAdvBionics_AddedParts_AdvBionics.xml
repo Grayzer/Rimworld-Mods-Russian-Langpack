@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced Bionic Body Parts -->
+
+  <FSFAdvBionicEye.label>продвинутый бионический глаз</FSFAdvBionicEye.label>
+  <FSFAdvBionicEye.labelNoun>это продвинутый бионический глаз</FSFAdvBionicEye.labelNoun>
+
+  <FSFAdvBionicArm.label>продвинутая бионическая рука</FSFAdvBionicArm.label>
+  <FSFAdvBionicArm.comps.0.tools.0.label>fist</FSFAdvBionicArm.comps.0.tools.0.label>
+  <FSFAdvBionicArm.labelNoun>это продвинутая бионическая рука</FSFAdvBionicArm.labelNoun>
+
+  <FSFAdvBionicLeg.label>продвинутая бионическая нога</FSFAdvBionicLeg.label>
+  <FSFAdvBionicLeg.labelNoun>это продвинутая бионическая нога</FSFAdvBionicLeg.labelNoun>
+
+  <FSFAdvBionicPowerArm.label>продвинутая бионическая силовая рука</FSFAdvBionicPowerArm.label>
+  <FSFAdvBionicPowerArm.comps.0.tools.0.label>fist</FSFAdvBionicPowerArm.comps.0.tools.0.label>
+  <FSFAdvBionicPowerArm.comps.0.tools.1.label>edge</FSFAdvBionicPowerArm.comps.0.tools.1.label>
+  <FSFAdvBionicPowerArm.comps.0.tools.2.label>point</FSFAdvBionicPowerArm.comps.0.tools.2.label>
+  <FSFAdvBionicPowerArm.labelNoun>это продвинутая бионическая силовая рука</FSFAdvBionicPowerArm.labelNoun>
+
+  <FSFAdvBionicEar.label>продвинутое бионическое ухо</FSFAdvBionicEar.label>
+  <FSFAdvBionicEar.labelNoun>это продвинутое бионическое ухо</FSFAdvBionicEar.labelNoun>
+
+  <FSFAdvBionicJaw.label>продвинутая бионическая челюсть</FSFAdvBionicJaw.label>
+  <FSFAdvBionicJaw.comps.0.tools.0.label>teeth</FSFAdvBionicJaw.comps.0.tools.0.label>
+  <FSFAdvBionicJaw.labelNoun>это продвинутая бионическая челюсть</FSFAdvBionicJaw.labelNoun>
+
+  <FSFAdvBionicSpine.label>продвинутый бионический позвоночник</FSFAdvBionicSpine.label>
+  <FSFAdvBionicSpine.labelNoun>это продвинутый бионический позвоночник</FSFAdvBionicSpine.labelNoun>
+
+  <FSFAdvBionicHeart.label>продвинутое бионическое сердце</FSFAdvBionicHeart.label>
+  <FSFAdvBionicHeart.labelNoun>это продвинутое бионическое сердце</FSFAdvBionicHeart.labelNoun>
+
+  <FSFAdvBionicLung.label>продвинутое бионическое легкое</FSFAdvBionicLung.label>
+  <FSFAdvBionicLung.labelNoun>это продвинутое бионическое легкое</FSFAdvBionicLung.labelNoun>
+
+  <FSFAdvBionicKidney.label>продвинутая бионическая почка</FSFAdvBionicKidney.label>
+  <FSFAdvBionicKidney.labelNoun>это продвинутая бионическая почка</FSFAdvBionicKidney.labelNoun>
+
+  <FSFAdvBionicLiver.label>продвинутая бионическая печень</FSFAdvBionicLiver.label>
+  <FSFAdvBionicLiver.labelNoun>это продвинутая бионическая печень</FSFAdvBionicLiver.labelNoun>
+
+  <FSFAdvBionicStomach.label>продвинутый бионический желудок</FSFAdvBionicStomach.label>
+  <FSFAdvBionicStomach.labelNoun>это продвинутый бионический желудок</FSFAdvBionicStomach.labelNoun>
+
+
+</LanguageData>

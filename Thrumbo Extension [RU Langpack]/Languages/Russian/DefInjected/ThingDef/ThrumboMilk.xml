@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThrumboMilk.label>Молоко Трумбо</ThrumboMilk.label>
+  <ThrumboMilk.description>Молоко этого редкого и долголетнего животного мягкое и пьянящее, оно содержит специальные ингредиенты, питающие желудок и повышающие иммунитет организма. Этим дорогим напитком может наслаждаться только аристократия Блестящих Миров.</ThrumboMilk.description>
+  <ThrumboMilk.ingestible.ingestCommandString>Взять {0}</ThrumboMilk.ingestible.ingestCommandString>
+  <ThrumboMilk.ingestible.ingestReportString>Берет {0}.</ThrumboMilk.ingestible.ingestReportString>
+
+
+</LanguageData>

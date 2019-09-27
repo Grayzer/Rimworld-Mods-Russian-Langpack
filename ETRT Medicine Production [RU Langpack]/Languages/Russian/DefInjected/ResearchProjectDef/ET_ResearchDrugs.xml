@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ET_Neutroamine_Research.label>Синтез нейтроамина</ET_Neutroamine_Research.label>
-  <ET_Neutroamine_Research.description>Узнайте, как синтезировать нейтроамин из психолистьев и лекарственных трав. Нейтроамин является ингредиентом для дальнейших медицины и лекарств.</ET_Neutroamine_Research.description>
+  <ET_Neutroamine_Research.label>Синтез Нейтроамина</ET_Neutroamine_Research.label>
+  <ET_Neutroamine_Research.description>Узнайте, как синтезировать нейтроамин из психолистьев и лекарственных трав. Нейтроамин является ингредиентом для дальнейших медикаментов и лекарств.</ET_Neutroamine_Research.description>
 
-  <ET_Luciferium_Research.label>Синтез люцефериума</ET_Luciferium_Research.label>
-  <ET_Luciferium_Research.description>Узнайте, как синтезировать люциферий из психолистьев и нейтроамина. Люциферий является мощным, но вызывающим смертельное привыкание к лекарству.</ET_Luciferium_Research.description>
+  <ET_Luciferium_Research.label>Синтез Люциферия</ET_Luciferium_Research.label>
+  <ET_Luciferium_Research.description>Узнайте, как синтезировать люциферий из психолистьев и нейтроамина. Люциферий является мощным, но вызывающим смертельное  привыкание.</ET_Luciferium_Research.description>
 
-  <ET_Ultratech_Research.label>Продукция передовой медицины</ET_Ultratech_Research.label>
-  <ET_Ultratech_Research.description>Производит лучшее из возможных лекарств, комбинируя нейтроамин, люциферий и лекарства. Требуется высококвалифицированный медицинский работник.</ET_Ultratech_Research.description>
+  <ET_Ultratech_Research.label>Производство продвинутых медикаментов</ET_Ultratech_Research.label>
+  <ET_Ultratech_Research.description>Производит лучшее из возможных медикаментов, комбинируя нейтроамин, люциферий и медикаменты. Требуется высококвалифицированный медицинский работник.</ET_Ultratech_Research.description>
 
 
 </LanguageData>
