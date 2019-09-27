@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
+
+<!-- Временно не работает-->
+<!--
+
 <Patch>
 <Operation Class="PatchOperationAdd">
 	  <xpath>*/ThingDef[defName = "Human"]/recipes</xpath>
@@ -6,7 +10,9 @@
 			<li>InstallArchotechBreasts<li>
 				<li>InstallArchotechAnus<li>
 					<li>InstallArchotechVagina<li>
-						<li>InstallArchotechPenis<li>	
+						<li>InstallArchotechPenis<li>
 	  </value>
 	</Operation>
 </Patch>
+
+-->
