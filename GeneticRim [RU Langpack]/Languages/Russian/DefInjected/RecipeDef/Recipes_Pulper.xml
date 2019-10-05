@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_PulpWood.label>извлечь ораническую пульпу из дерева</GR_PulpWood.label>
+  <GR_PulpWood.label>извлечь 1x пульпу из 10x дерева</GR_PulpWood.label>
   <GR_PulpWood.description>Извлекает ораническую пульпу из дерева.</GR_PulpWood.description>
   <GR_PulpWood.jobString>Извлечение пульпы</GR_PulpWood.jobString>
 
-  <GR_PulpWoodExpensive.label>извлечь ораническую пульпу из дерева</GR_PulpWoodExpensive.label>
+  <GR_PulpWoodExpensive.label>извлечь 1x пульпу из 25x дерева</GR_PulpWoodExpensive.label>
   <GR_PulpWoodExpensive.description>Извлечь ораническую пульпу из древесины. Этот рецепт более дорогой, чем рецепт, который можно построить с помощью исследований генной инженерии.</GR_PulpWoodExpensive.description>
   <GR_PulpWoodExpensive.jobString>Извлечение пульпы</GR_PulpWoodExpensive.jobString>
 
-  <GR_PulpCorpse.label>извлечь ораническую пульпу из тел</GR_PulpCorpse.label>
+<GR_MorePulpWoodExpensive.label>извлечь 5x пульпы из 25x дерева</GR_MorePulpWoodExpensive.label>
+  <GR_MorePulpWoodExpensive.description>Извлечь ораническую пульпу из древесины.</GR_MorePulpWoodExpensive.description>
+  <GR_MorePulpWoodExpensive.jobString>Извлечение пульпы</GR_MorePulpWoodExpensive.jobString>
+
+
+  <GR_PulpCorpse.label>извлечь пульпу из тел</GR_PulpCorpse.label>
   <GR_PulpCorpse.description>Извлечь ораническую пульпу из тел.</GR_PulpCorpse.description>
   <GR_PulpCorpse.jobString>Извлечение пульпы</GR_PulpCorpse.jobString>
 
-  <GR_RecycleIncubator.label>извлечь ораническую пульпу из ненужных инкубаторов</GR_RecycleIncubator.label>
+  <GR_RecycleIncubator.label>извлечь пульпу из ненужных инкубаторов</GR_RecycleIncubator.label>
   <GR_RecycleIncubator.description>Извлечь ораническую пульпу из ненужных инкубаторов. Осторожно, эта операция захватит ближайший инкубатор. Планируйте соответственно.</GR_RecycleIncubator.description>
   <GR_RecycleIncubator.jobString>Извлечение пульпы</GR_RecycleIncubator.jobString>
 	
