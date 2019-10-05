@@ -21,7 +21,7 @@
   <Make_Bulk_PicoMachinery.description>Создает 10 пикомашин.</Make_Bulk_PicoMachinery.description>
   <Make_Bulk_PicoMachinery.jobString>делает 10 пикомашин.</Make_Bulk_PicoMachinery.jobString>
 
-  <Make_Bulk_AttoMachinery.label>создать аттомашины(аттомашины)</Make_Bulk_AttoMachinery.label>
+  <Make_Bulk_AttoMachinery.label>создать аттомашины(10)</Make_Bulk_AttoMachinery.label>
   <Make_Bulk_AttoMachinery.description>Создает 10 аттомашин.</Make_Bulk_AttoMachinery.description>
   <Make_Bulk_AttoMachinery.jobString>делает 10 аттомашин.</Make_Bulk_AttoMachinery.jobString>
 
