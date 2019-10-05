@@ -8,7 +8,7 @@
 				<xpath>/Defs</xpath>
 				<value>
 						<RecipeDef>
-		<defName>GR_PulpWoodExpensive</defName>
+		<defName>GR_MorePulpWoodExpensive</defName>
 		<label>extract organic pulp from wood</label>
 		<description>Extract organic pulp from hay.</description>
 		<jobString>Extracting Pulp</jobString>
@@ -16,7 +16,7 @@
 		<soundWorking>Recipe_Machining</soundWorking>
 		<workAmount>500</workAmount>
 		<recipeUsers>
-			<li>GR_AlphaSerumExtractionTable</li>	  
+			<li>GR_PulpRecycler</li>	  
 		</recipeUsers>	
 		<ingredients>
 			<li>
