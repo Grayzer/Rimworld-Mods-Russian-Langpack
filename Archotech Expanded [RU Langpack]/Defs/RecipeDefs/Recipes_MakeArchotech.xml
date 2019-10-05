@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RecipeDef Abstract="True" Name="MakePrivates">
+		<workSpeedStat>SmithingSpeed</workSpeedStat>
+		<unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+		<workSkill>Crafting</workSkill>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakePrivates">
+		<defName>Make_Archotech_Breasts</defName>
+		<label>craft Archotech Breasts</label>
+		<description>Crafts a Archotech Breasts from Nanomachinery, Picomachinery, and Silver.</description>
+		<jobString>Crafting Archotech Breasts.</jobString>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<workAmount>5000</workAmount>
+		    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+		<skillRequirements>
+			<Crafting>14</Crafting>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Nanomachinery</li>
+					</thingDefs>
+				</filter>
+				<count>50</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Picomachinery</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Silver</li>
+					</thingDefs>
+				</filter>
+				<count>500</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Nanomachinery</li>
+				<li>Picomachinery</li>
+				<li>Silver</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<ArchotechBreasts>1</ArchotechBreasts>
+		</products>
+		<researchPrerequisite>ArchotechMimicry</researchPrerequisite>
+		<recipeUsers>
+			<li>BasicArchotechWorkbench</li>
+		</recipeUsers>
+
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakePrivates">
+		<defName>Make_Archotech_Anus</defName>
+		<label>craft Archotech Anus</label>
+		<description>Crafts a Archotech Anus from Nanomachinery, Picomachinery, and Silver.</description>
+		<jobString>Crafting Archotech Anus.</jobString>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<workAmount>5000</workAmount>
+		    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+		<skillRequirements>
+			<Crafting>14</Crafting>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Nanomachinery</li>
+					</thingDefs>
+				</filter>
+				<count>30</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Picomachinery</li>
+					</thingDefs>
+				</filter>
+				<count>15</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Silver</li>
+					</thingDefs>
+				</filter>
+				<count>200</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Nanomachinery</li>
+				<li>Picomachinery</li>
+				<li>Silver</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<ArchotechAnus>1</ArchotechAnus>
+		</products>
+		<researchPrerequisite>ArchotechMimicry</researchPrerequisite>
+		<recipeUsers>
+			<li>BasicArchotechWorkbench</li>
+		</recipeUsers>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakePrivates">
+		<defName>Make_Archotech_Vagina</defName>
+		<label>craft Archotech Vagina</label>
+		<description>Crafts a Archotech Vagina from Nanomachinery, Picomachinery, and Silver.</description>
+		<jobString>Crafting Archotech Vagina.</jobString>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<workAmount>6000</workAmount>
+		    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+		<skillRequirements>
+			<Crafting>14</Crafting>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Nanomachinery</li>
+					</thingDefs>
+				</filter>
+				<count>30</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Picomachinery</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Silver</li>
+					</thingDefs>
+				</filter>
+				<count>250</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Nanomachinery</li>
+				<li>Picomachinery</li>
+				<li>Silver</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<ArchotechVagina>1</ArchotechVagina>
+		</products>
+		<researchPrerequisite>ArchotechMimicry</researchPrerequisite>
+		<recipeUsers>
+			<li>BasicArchotechWorkbench</li>
+		</recipeUsers>
+	</RecipeDef>
+
+	<RecipeDef ParentName="MakePrivates">
+		<defName>Make_Archotech_Penis</defName>
+		<label>craft Archotech Penis</label>
+		<description>Crafts a Archotech Penis from Nanomachinery, Picomachinery, and Silver.</description>
+		<jobString>Crafting Archotech Penis.</jobString>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<workAmount>2500</workAmount>
+		    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+		<skillRequirements>
+			<Crafting>14</Crafting>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Nanomachinery</li>
+					</thingDefs>
+				</filter>
+				<count>30</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Picomachinery</li>
+					</thingDefs>
+				</filter>
+				<count>20</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Silver</li>
+					</thingDefs>
+				</filter>
+				<count>200</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Nanomachinery</li>
+				<li>Picomachinery</li>
+				<li>Silver</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<ArchotechPenis>1</ArchotechPenis>
+		</products>
+		<researchPrerequisite>ArchotechMimicry</researchPrerequisite>
+		<recipeUsers>
+			<li>BasicArchotechWorkbench</li>
+		</recipeUsers>
+	</RecipeDef>
+</Defs>
