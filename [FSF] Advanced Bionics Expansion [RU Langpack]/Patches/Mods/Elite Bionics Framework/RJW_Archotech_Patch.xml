@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+	<!-- RJW Archotech -->
+
+	<Operation Class="PatchOperationFindMod">
+
+    	<mods>
+        	<li>Elite Bionics Framework</li>
+    	</mods>
+
+    	<match Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+
+			<li Class="PatchOperationAdd">
+				<xpath>*/HediffDef[defName = "ArchotechBreasts"]</xpath>
+				<stages>
+					<capMods>
+        				<li Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            				<linearAdjustment>50</linearAdjustment>
+        				</li>
+    				</capMods>
+				</stages>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>*/HediffDef[defName = "ArchotechAnus"]</xpath>
+				<stages>
+					<capMods>
+        			<li Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            			<linearAdjustment>25</linearAdjustment>
+        			</li>
+					</capMods>
+				</stages>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>*/HediffDef[defName = "ArchotechVagina"]</xpath>
+				<stages>
+					<capMods>
+        				<li Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            				<linearAdjustment>25</linearAdjustment>
+        				</li>
+    				</capMods>
+				</stages>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>*/HediffDef[defName = "ArchotechPenis"]</xpath>
+				<stages>
+					<capMods>
+								<li Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+										<linearAdjustment>25</linearAdjustment>
+								</li>
+						</capMods>
+				</stages>
+			</li>
+
+        </operations>
+    	</match>
+
+	</Operation>
+
+</Patch>
