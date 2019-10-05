@@ -3,9 +3,9 @@
 
   <!-- Artificial Body Parts -->
 
-  <InstallFSFArtificialNose.label>установить архотек нос</InstallFSFArtificialNose.label>
-  <InstallFSFArtificialNose.description>Установить архотек нос.</InstallFSFArtificialNose.description>
-  <InstallFSFArtificialNose.jobString>Устанавливает архотек нос.</InstallFSFArtificialNose.jobString>
+  <InstallFSFArtificialNose.label>установить искусственный нос</InstallFSFArtificialNose.label>
+  <InstallFSFArtificialNose.description>Установить искусственный нос.</InstallFSFArtificialNose.description>
+  <InstallFSFArtificialNose.jobString>Устанавливает искусственный нос.</InstallFSFArtificialNose.jobString>
 
 
 </LanguageData>
