@@ -6,9 +6,9 @@
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_FSFArtificialNose.label>сделать архотек нос</Make_FSFArtificialNose.label>
-  <Make_FSFArtificialNose.description>Сделать архотек нос.</Make_FSFArtificialNose.description>
-  <Make_FSFArtificialNose.jobString>Делает архотек нос.</Make_FSFArtificialNose.jobString>
+  <Make_FSFArtificialNose.label>сделать искусственный нос</Make_FSFArtificialNose.label>
+  <Make_FSFArtificialNose.description>Сделать искусственный нос.</Make_FSFArtificialNose.description>
+  <Make_FSFArtificialNose.jobString>Делает искусственный нос.</Make_FSFArtificialNose.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
