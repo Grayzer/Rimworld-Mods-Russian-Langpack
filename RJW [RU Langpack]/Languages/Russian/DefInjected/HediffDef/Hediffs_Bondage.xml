@@ -2,18 +2,20 @@
 <LanguageData>
 
   <Armbinder.label>наручники</Armbinder.label>
+  <ChastityBelt.label>пояс верности</ChastityBelt.label>
+  <ChastityCage.label>клетка верности</ChastityCage.label>
   <Chains.label>цепи</Chains.label>
-  <Yoke.label>ярмо</Yoke.label>
+  <Yoke.label>хомут</Yoke.label>
   <BoundHands.label>связанные руки</BoundHands.label>
   <BoundLegs.label>связанные ноги</BoundLegs.label>
-  <Gag.label>кляп</Gag.label>
+  <ClosedGag.label>закрытый кляп</ClosedGag.label>
   <OpenGag.label>открытый кляп</OpenGag.label>
-  <RJW_Restraints.label>Сдерживания</RJW_Restraints.label>
+  <RJW_Restraints.label>Удерживание</RJW_Restraints.label>
 
 
   <!-- insect restraints -->
 
-  <RJW_Cocoon.label>член</RJW_Cocoon.label>
+  <RJW_Cocoon.label>Кокон</RJW_Cocoon.label>
 
 
 </LanguageData>

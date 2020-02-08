@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MorphineHigh.label>воздействие морфина</MorphineHigh.label>
+  <MorphineHigh.labelNoun>под действием морфина</MorphineHigh.labelNoun>
+
+  <MorphineTolerance.label>толерантность к морфину</MorphineTolerance.label>
+  <MorphineTolerance.stages.0.label>слабая</MorphineTolerance.stages.0.label>
+  <MorphineTolerance.stages.1.label>средняя</MorphineTolerance.stages.1.label>
+  <MorphineTolerance.stages.2.label>большая</MorphineTolerance.stages.2.label>
+  <MorphineTolerance.stages.3.label>массивная</MorphineTolerance.stages.3.label>
+
+  <MorphineAddiction.label>морфиновая зависимость</MorphineAddiction.label>
+  <MorphineAddiction.stages.1.label>отходняк</MorphineAddiction.stages.1.label>
+
+
+</LanguageData>

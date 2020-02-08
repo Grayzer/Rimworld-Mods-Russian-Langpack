@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AntibioticProduction.label>производство антибиотиков</AntibioticProduction.label>
+  <AntibioticProduction.description>Производство антибиотиков для лечения инфекций и заболеваний.</AntibioticProduction.description>
+
+  <Coagulation.label>коагуляция</Coagulation.label>
+  <Coagulation.description>Производство антикоагулянтов и прокоагулянтов, чтобы изменить кровотечения.</Coagulation.description>
+
+  <OpiateProduction.label>производство опиатов</OpiateProduction.label>
+  <OpiateProduction.description>Позволяет рафинировать опий для использования в производстве наркотиков.</OpiateProduction.description>
+
+  <OpioidSynthesizing.label>синтез опиоидов</OpioidSynthesizing.label>
+  <OpioidSynthesizing.description>Синтез сильных опиоидов без использования опия.</OpioidSynthesizing.description>
+
+  <RodeoProduction.label>производство родео</RodeoProduction.label>
+  <RodeoProduction.description>Производство родео, это один из самых мрачных секретов жизни.</RodeoProduction.description>
+
+
+</LanguageData>

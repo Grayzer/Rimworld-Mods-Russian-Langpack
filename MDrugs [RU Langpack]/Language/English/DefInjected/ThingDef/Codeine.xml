@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Codeine.label>codeine</Codeine.label>
+  <Codeine.description>A strong painkiller of the opiate class. While effective, opiates often come with side effects and addiction risk with repeated use.</Codeine.description>
+  <Codeine.ingestible.ingestCommandString>Take {0}</Codeine.ingestible.ingestCommandString>
+  <Codeine.ingestible.ingestReportString>Taking {0}.</Codeine.ingestible.ingestReportString>
+
+
+</LanguageData>

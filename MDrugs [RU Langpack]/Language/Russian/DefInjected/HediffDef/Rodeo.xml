@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RodeoHigh.label>воздействие родео</RodeoHigh.label>
+  <RodeoHigh.labelNoun>под действием родео</RodeoHigh.labelNoun>
+
+
+  <!-- rodeo addiction -->
+
+  <RodeoTolerance.label>толерантность к родео</RodeoTolerance.label>
+  <RodeoTolerance.stages.0.label>слабая</RodeoTolerance.stages.0.label>
+  <RodeoTolerance.stages.1.label>средняя</RodeoTolerance.stages.1.label>
+  <RodeoTolerance.stages.2.label>большая</RodeoTolerance.stages.2.label>
+  <RodeoTolerance.stages.3.label>массивная</RodeoTolerance.stages.3.label>
+
+  <RodeoAddiction.label>родео зависимость</RodeoAddiction.label>
+  <RodeoAddiction.stages.1.label>отходняк</RodeoAddiction.stages.1.label>
+
+
+</LanguageData>

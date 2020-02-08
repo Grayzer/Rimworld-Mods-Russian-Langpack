@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Regular privates -->
 
-  <Penis.label>пенис</Penis.label>
+  <Penis.label>средний пенис</Penis.label>
 
 
   <!-- Additional dick sizes -->
@@ -12,7 +12,7 @@
   <SmallPenis.label>маленький пенис</SmallPenis.label>
   <BigPenis.label>большой пенис</BigPenis.label>
   <HugePenis.label>огромный пенис</HugePenis.label>
-  <Vagina.label>вагина</Vagina.label>
+  <Vagina.label>средняя вагина</Vagina.label>
   <MicroVagina.label>микро вагина</MicroVagina.label>
   <TightVagina.label>узкая вагина</TightVagina.label>
   <LooseVagina.label>просторная вагина</LooseVagina.label>
@@ -21,21 +21,21 @@
 
   <!-- Natural Breasts -->
 
-  <Breasts.label>грудь</Breasts.label>
-  <FlatBreasts.label>плоская грудь</FlatBreasts.label>
-  <SmallBreasts.label>маленькая грудь</SmallBreasts.label>
-  <LargeBreasts.label>большая грудь</LargeBreasts.label>
-  <HugeBreasts.label>дойки</HugeBreasts.label>
+  <Breasts.label>средние груди</Breasts.label>
+  <FlatBreasts.label>плоские груди</FlatBreasts.label>
+  <SmallBreasts.label>маленькие груди</SmallBreasts.label>
+  <LargeBreasts.label>большие груди</LargeBreasts.label>
+  <HugeBreasts.label>огромные груди</HugeBreasts.label>
 
 
   <!-- Natural anuses -->
 
-  <Anus.label>анус</Anus.label>
+  <Anus.label>средний анус</Anus.label>
   <MicroAnus.label>микро анус</MicroAnus.label>
   <TightAnus.label>узкий анус</TightAnus.label>
   <LooseAnus.label>просторный анус</LooseAnus.label>
   <GapingAnus.label>зияющий анус</GapingAnus.label>
-  <FeaturelessChest.label>невыразительная грудь</FeaturelessChest.label>
+  <FeaturelessChest.label>бесполая грудь</FeaturelessChest.label>
 
 
 </LanguageData>

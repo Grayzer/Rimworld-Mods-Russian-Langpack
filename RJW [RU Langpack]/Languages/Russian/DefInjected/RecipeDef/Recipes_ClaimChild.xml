@@ -3,9 +3,8 @@
 
   <!-- From core -->
 
-  <claimChild.label>Требовать ребенка</claimChild.label>
-  <claimChild.description>Заставляет ребенка принадлежать колонии.</claimChild.description>
-  <claimChild.jobString>Принятие.</claimChild.jobString>
-
+  <claimChild.label>Притязание на ребенка</claimChild.label>
+  <claimChild.description>Делает чтобы ребенок принадлежал колонии.</claimChild.description>
+  <claimChild.jobString>Усыновление.</claimChild.jobString>
 
 </LanguageData>

@@ -1,0 +1,1970 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<!-- ===xpath=== -->
+<!-- Color Legend -->
+<!--                    IconColor                       HediffColor
+  Natural               <color>(255, 51, 153)</color>   <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+  Prostetic             <color>(255, 153, 102)</color>  <defaultLabelColor>(255, 153, 102)</defaultLabelColor>
+  Syntetic              <color>(102, 255, 51)</color>   <defaultLabelColor>(102, 255, 51)</defaultLabelColor>
+  Hydraulic             <color>(102, 102, 153)</color>  <defaultLabelColor>(102, 102, 153)</defaultLabelColor>
+  Bionic                <color>(51, 153, 255)</color>   <defaultLabelColor>(51, 153, 255)</defaultLabelColor>
+  Advanced Bionic       <color>(0, 77, 153)</color>     <defaultLabelColor>(0, 77, 153)</defaultLabelColor>
+  Archotech             <color>(255, 153, 102)</color>  <defaultLabelColor>(255, 153, 102)</defaultLabelColor>
+  Advanced Archotech    <color>(230, 77, 0)</color>     <defaultLabelColor>(230, 77, 0)</defaultLabelColor>
+-->
+
+<!-- RimJobWorld -->
+<!-- Animal -->
+  <!--
+  +HorsePenis
+  +HorseVagina
+  +CatPenis
+  +CatVagina
+  +DogPenis
+  +DogVagina
+  +DragonPenis
+  +DragonVagina
+  +RaccoonPenis
+  +Hemipenis
+  +CrocodilianPenis
+  +NarrowVagina
+  +NeedlePenis
+  +RodentVagina
+  +RodentPenis
+  +CloacalPenis
+  +CloacalVagina
+  +CloacalAnus
+  +Udder
+  -->
+<!-- Demon -->
+  <!--
+  +DemonTentaclePenis
+  +DemonPenis
+  +DemonVagina
+  +DemonAnus
+  -->
+<!-- Human -->
+  <!--
+  +Penis
+  +MicroPenis
+  +SmallPenis
+  +BigPenis
+  +HugePenis
+  +Vagina
+  +MicroVagina
+  +TightVagina
+  +LooseVagina
+  +GapingVagina
+  +Breasts
+  +FlatBreasts
+  +SmallBreasts
+  +LargeBreasts
+  +HugeBreasts
+  +Anus
+  +MicroAnus
+  +TightAnus
+  +LooseAnus
+  +GapingAnus
+  +FeaturelessChest
+  -->
+<!-- Insect -->
+  <!--
+  +OvipositorM
+  +OvipositorF
+  +InsectAnus
+  -->
+<!-- Slime -->
+  <!--
+  +SlimeGlob
+  -->
+
+<Operation Class="PatchOperationFindMod">
+<mods>
+<li>RimJobWorld</li>
+</mods>
+  <match Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+<!-- Animal -->
+<!-- HorsePenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "HorsePenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "HorsePenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "HorsePenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "HorsePenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "HorsePenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "HorsePenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- HorseVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "HorseVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "HorseVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "HorseVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "HorseVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "HorseVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "HorseVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- CatPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "CatPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "CatPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "CatPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "CatPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "CatPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "CatPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- CatVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "CatVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "CatVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "CatVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "CatVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "CatVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "CatVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- DogPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "DogPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "DogPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "DogPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "DogPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "DogPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "DogPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- DogVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "DogVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "DogVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "DogVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "DogVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "DogVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "DogVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- DragonPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "DragonPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "DragonPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "DragonPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "DragonPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "DragonPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "DragonPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- DragonVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "DragonVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "DragonVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "DragonVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "DragonVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "DragonVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "DragonVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- RaccoonPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "RaccoonPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "RaccoonPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "RaccoonPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "RaccoonPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "RaccoonPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "RaccoonPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- Hemipenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "Hemipenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "Hemipenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "Hemipenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "Hemipenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "Hemipenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "Hemipenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- CrocodilianPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "CrocodilianPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "CrocodilianPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "CrocodilianPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "CrocodilianPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "CrocodilianPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "CrocodilianPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- NarrowVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "NarrowVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "NarrowVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "NarrowVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "NarrowVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "NarrowVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "NarrowVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- NeedlePenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "NeedlePenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "NeedlePenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "NeedlePenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "NeedlePenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "NeedlePenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "NeedlePenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- RodentVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "RodentVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "RodentVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "RodentVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "RodentVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "RodentVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "RodentVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- RodentPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "RodentPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "RodentPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "RodentPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "RodentPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "RodentPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "RodentPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- CloacalPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "CloacalPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "CloacalPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "CloacalPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "CloacalPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "CloacalPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "CloacalPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- CloacalVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "CloacalVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "CloacalVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "CloacalVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "CloacalVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "CloacalVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "CloacalVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- CloacalAnus -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "CloacalAnus"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "CloacalAnus"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "CloacalAnus"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "CloacalAnus"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "CloacalAnus"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "CloacalAnus"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- Udder -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "Udder"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "Udder"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "Udder"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "Udder"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "Udder"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "Udder"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- Demon -->
+<!-- DemonTentaclePenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "DemonTentaclePenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "DemonTentaclePenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemTentacles</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "DemonTentaclePenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemTentacles</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "DemonTentaclePenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "DemonTentaclePenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "DemonTentaclePenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- DemonPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "DemonPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "DemonPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "DemonPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "DemonPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "DemonPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "DemonPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- DemonVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "DemonVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "DemonVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "DemonVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "DemonVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "DemonVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "DemonVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- DemonAnus -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "DemonAnus"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "DemonAnus"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "DemonAnus"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "DemonAnus"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "DemonAnus"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "DemonAnus"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- Human -->
+<!-- Penis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "Penis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "Penis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "Penis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "Penis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "Penis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "Penis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- MicroPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "MicroPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "MicroPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "MicroPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "MicroPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "MicroPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "MicroPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- SmallPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "SmallPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "SmallPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "SmallPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "SmallPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "SmallPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "SmallPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- BigPenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "BigPenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "BigPenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "BigPenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "BigPenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "BigPenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "BigPenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- HugePenis -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "HugePenis"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "HugePenis"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "HugePenis"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenMale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "HugePenis"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "HugePenis"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "HugePenis"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- Vagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "Vagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "Vagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "Vagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "Vagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "Vagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "Vagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- MicroVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "MicroVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "MicroVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "MicroVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "MicroVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "MicroVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "MicroVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- TightVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "TightVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "TightVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "TightVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "TightVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "TightVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "TightVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- LooseVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "LooseVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "LooseVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "LooseVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "LooseVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "LooseVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "LooseVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- GapingVagina -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "GapingVagina"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "GapingVagina"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "GapingVagina"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemGenFemale</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "GapingVagina"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "GapingVagina"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "GapingVagina"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- Breasts -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "Breasts"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "Breasts"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "Breasts"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "Breasts"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "Breasts"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "Breasts"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- FlatBreasts -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "FlatBreasts"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "FlatBreasts"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "FlatBreasts"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "FlatBreasts"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "FlatBreasts"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "FlatBreasts"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- SmallBreasts -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "SmallBreasts"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "SmallBreasts"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "SmallBreasts"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "SmallBreasts"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "SmallBreasts"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "SmallBreasts"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- LargeBreasts -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "LargeBreasts"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "LargeBreasts"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "LargeBreasts"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "LargeBreasts"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "LargeBreasts"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "LargeBreasts"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- HugeBreasts -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "HugeBreasts"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "HugeBreasts"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "HugeBreasts"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "HugeBreasts"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "HugeBreasts"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "HugeBreasts"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- Anus -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "Anus"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "Anus"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "Anus"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "Anus"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "Anus"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "Anus"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- MicroAnus -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "MicroAnus"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "MicroAnus"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "MicroAnus"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "MicroAnus"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "MicroAnus"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "MicroAnus"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- TightAnus -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "TightAnus"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "TightAnus"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "TightAnus"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "TightAnus"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "TightAnus"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "TightAnus"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- LooseAnus -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "LooseAnus"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "LooseAnus"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "LooseAnus"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "LooseAnus"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "LooseAnus"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "LooseAnus"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- GapingAnus -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "GapingAnus"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "GapingAnus"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "GapingAnus"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "GapingAnus"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "GapingAnus"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "GapingAnus"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- FeaturelessChest -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "FeaturelessChest"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "FeaturelessChest"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "FeaturelessChest"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemBreast</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "FeaturelessChest"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "FeaturelessChest"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "FeaturelessChest"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- Insect -->
+<!-- OvipositorM -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "OvipositorM"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "OvipositorM"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemOvipositor</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "OvipositorM"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemOvipositor</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "OvipositorM"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "OvipositorM"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "OvipositorM"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- OvipositorF -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "OvipositorF"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "OvipositorF"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemOvipositor</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "OvipositorF"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemOvipositor</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "OvipositorF"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "OvipositorF"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "OvipositorF"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- InsectAnus -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "InsectAnus"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "InsectAnus"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "InsectAnus"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemAnus</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "InsectAnus"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "InsectAnus"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "InsectAnus"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+<!-- Slime -->
+<!-- SlimeGlob -->
+      <li Class="PatchOperationConditional">
+        <xpath>*/ThingDef[defName = "SlimeGlob"]/graphicData</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/ThingDef[defName = "SlimeGlob"]/graphicData</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemSlimeGlob</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/ThingDef[defName = "SlimeGlob"]</xpath>
+          <value>
+            <graphicData Inherit="False">
+              <texPath>Things/Item/Health/HealthItemSlimeGlob</texPath>
+              <graphicClass>Graphic_StackCount</graphicClass>
+              <color>(255, 51, 153)</color>
+            </graphicData>
+          </value>
+        </nomatch>
+      </li>
+      <li Class="PatchOperationConditional">
+        <xpath>*/HediffDef[defName = "SlimeGlob"]/defaultLabelColor</xpath>
+        <match Class="PatchOperationReplace">
+          <xpath>*/HediffDef[defName = "SlimeGlob"]/defaultLabelColor</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>*/HediffDef[defName = "SlimeGlob"]</xpath>
+          <value>
+            <defaultLabelColor>(255, 51, 153)</defaultLabelColor>
+          </value>
+        </nomatch>
+      </li>
+
+   </operations>
+ </match>
+</Operation>
+</Patch>

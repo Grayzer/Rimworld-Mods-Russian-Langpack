@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dabigatran.label>дабигатран</Dabigatran.label>
+  <Dabigatran.description>Антикоагулянт, используемый для предотвращения свертывания крови и лечения закупорки артерий.</Dabigatran.description>
+  <Dabigatran.ingestible.ingestCommandString>Взять {0}</Dabigatran.ingestible.ingestCommandString>
+  <Dabigatran.ingestible.ingestReportString>Берет {0}.</Dabigatran.ingestible.ingestReportString>
+
+
+</LanguageData>

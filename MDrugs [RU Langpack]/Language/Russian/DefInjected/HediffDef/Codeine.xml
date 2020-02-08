@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CodeineHigh.label>воздействие кодеина</CodeineHigh.label>
+  <CodeineHigh.labelNoun>под действием кодеина</CodeineHigh.labelNoun>
+
+  <CodeineTolerance.label>толерантность к кодеину</CodeineTolerance.label>
+  <CodeineTolerance.stages.0.label>слабая</CodeineTolerance.stages.0.label>
+  <CodeineTolerance.stages.1.label>средняя</CodeineTolerance.stages.1.label>
+  <CodeineTolerance.stages.2.label>большая</CodeineTolerance.stages.2.label>
+  <CodeineTolerance.stages.3.label>массивная</CodeineTolerance.stages.3.label>
+
+  <CodeineAddiction.label>кодеиновая зависимость</CodeineAddiction.label>
+  <CodeineAddiction.stages.1.label>отходняк</CodeineAddiction.stages.1.label>
+
+
+</LanguageData>

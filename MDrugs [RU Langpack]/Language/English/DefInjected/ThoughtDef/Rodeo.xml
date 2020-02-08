@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RodeoHigh.stages.0.label>high on rodeo</RodeoHigh.stages.0.label>
+  <RodeoHigh.stages.0.description>I am above all that is to be human.</RodeoHigh.stages.0.description>
+
+
+  <!-- rodeo addiction -->
+
+  <RodeoWithdrawal.stages.1.label>rodeo withdrawal</RodeoWithdrawal.stages.1.label>
+  <RodeoWithdrawal.stages.1.description>I can't see! I'm so weak and I can't handle any pain.</RodeoWithdrawal.stages.1.description>
+
+
+</LanguageData>

@@ -1,39 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <FeelingBroken.stages.0.label>головокружение</FeelingBroken.stages.0.label>
-  <FeelingBroken.stages.0.description>Я чуствую себя истощенным(ной) моя голова кружиться, после стольких изнасилований.</FeelingBroken.stages.0.description>
+  <FeelingBroken.stages.0.description>Я чувствую истощение, моя голова кружиться, после стольких изнасилований.</FeelingBroken.stages.0.description>
   <FeelingBroken.stages.1.label>мое тело сломлено</FeelingBroken.stages.1.label>
   <FeelingBroken.stages.1.description>Нет...Я не хочу...аах...аххх...мое тело...сломлено...</FeelingBroken.stages.1.description>
   <FeelingBroken.stages.2.label>просит большего</FeelingBroken.stages.2.label>
   <FeelingBroken.stages.2.description>Хозяева, прошу накажите меня, мое смиренное тело полностью ваше. Пожалуйста заполните меня своей спермой.</FeelingBroken.stages.2.description>
 
-  <GotRaped.stages.0.label>изнасилован(а)</GotRaped.stages.0.label>
+  <GotRaped.stages.0.label>жертва насилия</GotRaped.stages.0.label>
   <GotRaped.stages.0.description>Меня изнасиловали.</GotRaped.stages.0.description>
 
-  <GotRapedUnconscious.stages.0.label>изнасилован(а) (Без сознания)</GotRapedUnconscious.stages.0.label>
+  <GotRapedUnconscious.stages.0.label>жертва насилия (Без сознания)</GotRapedUnconscious.stages.0.label>
   <GotRapedUnconscious.stages.0.description>Кто-то использовал мое тело, пока я был без сознания.</GotRapedUnconscious.stages.0.description>
 
-  <MasochistGotRaped.stages.0.label>изнасилован(а) (Мазохист)</MasochistGotRaped.stages.0.label>
+  <MasochistGotRaped.stages.0.label>жертва насилия (Мазохист)</MasochistGotRaped.stages.0.label>
   <MasochistGotRaped.stages.0.description>Меня использовали и выбросили как кусок мяса. Мне кажется.. что так и должно быть.</MasochistGotRaped.stages.0.description>
 
   <HateMyRapist.stages.0.label>изнасиловал меня</HateMyRapist.stages.0.label>
-  <HateMyRapist.stages.0.description>Я был(а) изнасилован(а) {0} раз.</HateMyRapist.stages.0.description>
+  <HateMyRapist.stages.0.description>Я жертва насилия {0} раз.</HateMyRapist.stages.0.description>
 
-  <KindaLikeMyRapist.stages.0.label>изнасиловал(а) меня (Мазохист)</KindaLikeMyRapist.stages.0.label>
-  <KindaLikeMyRapist.stages.0.description>Я был(а) изнасилован(а) {0} раз.</KindaLikeMyRapist.stages.0.description>
+  <KindaLikeMyRapist.stages.0.label>жертва насилия (Мазохист)</KindaLikeMyRapist.stages.0.label>
+  <KindaLikeMyRapist.stages.0.description>Я жертва насилия {0} раз.</KindaLikeMyRapist.stages.0.description>
 
   <AllowedMeToGetRaped.stages.0.label>позволил(а) насиловать меня</AllowedMeToGetRaped.stages.0.label>
   <AllowedMeToGetRaped.stages.0.description>Я страдал(а) пока {0} просто смотрел(а) в сторону.</AllowedMeToGetRaped.stages.0.description>
 
-  <StoleSomeLovin.stages.0.label>насильник</StoleSomeLovin.stages.0.label>
-  <StoleSomeLovin.stages.0.description>Я изнасиловал заключенного. Секс был весьма дерьмовый, но это лучше чем ничего.</StoleSomeLovin.stages.0.description>
+  <StoleSomeLovin.stages.0.label>украл немного любви</StoleSomeLovin.stages.0.label>
+  <StoleSomeLovin.stages.0.description>Я изнасиловал какую то суку. Секс был весьма дерьмовый, но это лучше чем ничего.</StoleSomeLovin.stages.0.description>
 
   <MadeSomeLovin.stages.0.label>сделал немного любви</MadeSomeLovin.stages.0.label>
   <MadeSomeLovin.stages.0.description>Проведите некоторое время, валяясь на сене.</MadeSomeLovin.stages.0.description>
 
-  <BloodlustStoleSomeLovin.stages.0.label>насильник (Кровожадность)</BloodlustStoleSomeLovin.stages.0.label>
-  <BloodlustStoleSomeLovin.stages.0.description>Я изнасиловал заключенного. Крики, слезы, кровь, это было так круто! Я не чуствовал себя так хорошо с тех пор как разбил этих дикарей.</BloodlustStoleSomeLovin.stages.0.description>
+  <BloodlustStoleSomeLovin.stages.0.label>украл немного любви (Кровожадность)</BloodlustStoleSomeLovin.stages.0.label>
+  <BloodlustStoleSomeLovin.stages.0.description>Я изнасиловал какую то суку. Крики, слезы, кровь, это было так круто! Я не чуствовал себя так хорошо с тех пор как разбил этих дикарей.</BloodlustStoleSomeLovin.stages.0.description>
 
 
 </LanguageData>

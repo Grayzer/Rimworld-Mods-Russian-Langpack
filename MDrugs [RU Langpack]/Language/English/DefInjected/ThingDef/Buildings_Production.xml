@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <CraftingSpot.label>рабочее место</CraftingSpot.label>-->
+  <!--[Core] <CraftingSpot.description>Место для создания простых вещей, таких как ножи и луки. Из-за нехватки инструментов производительность труда на таких местах невысока.</CraftingSpot.description>-->
+  <!--[Core] <CraftingSpot_Blueprint.label>crafting spot (blueprint)</CraftingSpot_Blueprint.label>-->
+  <!--[Core] <CraftingSpot_Frame.label>crafting spot (building)</CraftingSpot_Frame.label>-->
+  <!--[Core] <CraftingSpot_Frame.description>A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools.</CraftingSpot_Frame.description>-->
+
+  <!--[Core] <ButcherSpot.label>место разделки</ButcherSpot.label>-->
+  <!--[Core] <ButcherSpot.description>Необорудованное место для разделки. Позволяет получить лишь 70% мяса и кожи разделываемого существа.</ButcherSpot.description>-->
+  <!--[Core] <ButcherSpot_Blueprint.label>butcher spot (blueprint)</ButcherSpot_Blueprint.label>-->
+  <!--[Core] <ButcherSpot_Frame.label>butcher spot (building)</ButcherSpot_Frame.label>-->
+  <!--[Core] <ButcherSpot_Frame.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</ButcherSpot_Frame.description>-->
+
+
+  <!-- Work tables -->
+
+  <!--[Core] <TableSculpting.label>мастерская скульптора</TableSculpting.label>-->
+  <!--[Core] <TableSculpting.description>Стол, оборудованный для ваяния скульптур.</TableSculpting.description>-->
+  <!--[Core] <TableSculpting_Blueprint.label>sculptor's table (blueprint)</TableSculpting_Blueprint.label>-->
+  <!--[Core] <TableSculpting_Blueprint_Install.label>sculptor's table (blueprint)</TableSculpting_Blueprint_Install.label>-->
+  <!--[Core] <TableSculpting_Frame.label>sculptor's table (building)</TableSculpting_Frame.label>-->
+  <!--[Core] <TableSculpting_Frame.description>A workbench equipped for artistic sculpting.</TableSculpting_Frame.description>-->
+
+  <!--[Core] <TableButcher.label>разделочный стол</TableButcher.label>-->
+  <!--[Core] <TableButcher.description>Тяжёлый стол для разделки мёртвых существ на куски сырого мяса и кожу.</TableButcher.description>-->
+  <!--[Core] <TableButcher_Blueprint.label>butcher table (blueprint)</TableButcher_Blueprint.label>-->
+  <!--[Core] <TableButcher_Blueprint_Install.label>butcher table (blueprint)</TableButcher_Blueprint_Install.label>-->
+  <!--[Core] <TableButcher_Frame.label>butcher table (building)</TableButcher_Frame.label>-->
+  <!--[Core] <TableButcher_Frame.description>A heavy table for butchering dead creatures into pieces of raw meat.</TableButcher_Frame.description>-->
+
+  <!--[Core] <HandTailoringBench.label>стол портного</HandTailoringBench.label>-->
+  <!--[Core] <HandTailoringBench.description>Стол для ручного пошива одежды. Работает с эффективностью в 50% от электрического.</HandTailoringBench.description>-->
+  <!--[Core] <HandTailoringBench_Blueprint.label>hand tailor bench (blueprint)</HandTailoringBench_Blueprint.label>-->
+  <!--[Core] <HandTailoringBench_Blueprint_Install.label>hand tailor bench (blueprint)</HandTailoringBench_Blueprint_Install.label>-->
+  <!--[Core] <HandTailoringBench_Frame.label>hand tailor bench (building)</HandTailoringBench_Frame.label>-->
+  <!--[Core] <HandTailoringBench_Frame.description>A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.</HandTailoringBench_Frame.description>-->
+
+  <!--[Core] <ElectricTailoringBench.label>швейная машинка</ElectricTailoringBench.label>-->
+  <!--[Core] <ElectricTailoringBench.description>Верстак со швейной машиной для быстрого пошива одежды. Может использоваться без электроэнергии с эффективностью в 50% от обычной.</ElectricTailoringBench.description>-->
+  <!--[Core] <ElectricTailoringBench_Blueprint.label>electric tailor bench (blueprint)</ElectricTailoringBench_Blueprint.label>-->
+  <!--[Core] <ElectricTailoringBench_Blueprint_Install.label>electric tailor bench (blueprint)</ElectricTailoringBench_Blueprint_Install.label>-->
+  <!--[Core] <ElectricTailoringBench_Frame.label>electric tailor bench (building)</ElectricTailoringBench_Frame.label>-->
+  <!--[Core] <ElectricTailoringBench_Frame.description>A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed.</ElectricTailoringBench_Frame.description>-->
+
+  <!--[Core] <FueledSmithy.label>топливная кузня</FueledSmithy.label>-->
+  <!--[Core] <FueledSmithy.description>Кузня, оборудованная для производства немеханического оружия и инструментов. Нуждается в дереве в качестве топлива.</FueledSmithy.description>-->
+  <!--[Core] <FueledSmithy_Blueprint.label>fueled smithy (blueprint)</FueledSmithy_Blueprint.label>-->
+  <!--[Core] <FueledSmithy_Blueprint_Install.label>fueled smithy (blueprint)</FueledSmithy_Blueprint_Install.label>-->
+  <!--[Core] <FueledSmithy_Frame.label>fueled smithy (building)</FueledSmithy_Frame.label>-->
+  <!--[Core] <FueledSmithy_Frame.description>A wood-fueled station for smithing non-mechanical weapons and tools.</FueledSmithy_Frame.description>-->
+
+  <!--[Core] <ElectricSmithy.label>электрокузня</ElectricSmithy.label>-->
+  <!--[Core] <ElectricSmithy.description>Работающая от электричества кузня, оборудованная для производства немеханического оружия и инструментов.</ElectricSmithy.description>-->
+  <!--[Core] <ElectricSmithy_Blueprint.label>electric smithy (blueprint)</ElectricSmithy_Blueprint.label>-->
+  <!--[Core] <ElectricSmithy_Blueprint_Install.label>electric smithy (blueprint)</ElectricSmithy_Blueprint_Install.label>-->
+  <!--[Core] <ElectricSmithy_Frame.label>electric smithy (building)</ElectricSmithy_Frame.label>-->
+  <!--[Core] <ElectricSmithy_Frame.description>An electric-powered station for smithing non-mechanical weapons and tools.</ElectricSmithy_Frame.description>-->
+
+  <!--[Core] <TableMachining.label>верстак</TableMachining.label>-->
+  <!--[Core] <TableMachining.description>Стол с инструментами для сборки механических изделий и разборки трупов механоидов.</TableMachining.description>-->
+  <!--[Core] <TableMachining_Blueprint.label>machining table (blueprint)</TableMachining_Blueprint.label>-->
+  <!--[Core] <TableMachining_Blueprint_Install.label>machining table (blueprint)</TableMachining_Blueprint_Install.label>-->
+  <!--[Core] <TableMachining_Frame.label>machining table (building)</TableMachining_Frame.label>-->
+  <!--[Core] <TableMachining_Frame.description>A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids.</TableMachining_Frame.description>-->
+
+  <!--[Core] <ElectricStove.label>электроплита</ElectricStove.label>-->
+  <!--[Core] <ElectricStove.description>Стол для приготовления пищи с плитой, работающей от электричества.</ElectricStove.description>-->
+  <!--[Core] <ElectricStove_Blueprint.label>electric stove (blueprint)</ElectricStove_Blueprint.label>-->
+  <!--[Core] <ElectricStove_Blueprint_Install.label>electric stove (blueprint)</ElectricStove_Blueprint_Install.label>-->
+  <!--[Core] <ElectricStove_Frame.label>electric stove (building)</ElectricStove_Frame.label>-->
+  <!--[Core] <ElectricStove_Frame.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove_Frame.description>-->
+
+  <!--[Core] <FueledStove.label>твердотопливная плита</FueledStove.label>-->
+  <!--[Core] <FueledStove.description>Стол для приготовления пищи, оборудованный дровяной печью.</FueledStove.description>-->
+  <!--[Core] <FueledStove_Blueprint.label>fueled stove (blueprint)</FueledStove_Blueprint.label>-->
+  <!--[Core] <FueledStove_Blueprint_Install.label>fueled stove (blueprint)</FueledStove_Blueprint_Install.label>-->
+  <!--[Core] <FueledStove_Frame.label>fueled stove (building)</FueledStove_Frame.label>-->
+  <!--[Core] <FueledStove_Frame.description>A wood-fueled stove with an attached countertop for preparing meals.</FueledStove_Frame.description>-->
+
+  <!--[Core] <TableStonecutter.label>стол для резки камня</TableStonecutter.label>-->
+  <!--[Core] <TableStonecutter.description>Рабочий стол, оснащённый для резки кусков породы на каменные блоки.</TableStonecutter.description>-->
+  <!--[Core] <TableStonecutter_Blueprint.label>stonecutter's table (blueprint)</TableStonecutter_Blueprint.label>-->
+  <!--[Core] <TableStonecutter_Blueprint_Install.label>stonecutter's table (blueprint)</TableStonecutter_Blueprint_Install.label>-->
+  <!--[Core] <TableStonecutter_Frame.label>stonecutter's table (building)</TableStonecutter_Frame.label>-->
+  <!--[Core] <TableStonecutter_Frame.description>A work table with saws and chisels for cutting stone chunks into usable blocks.</TableStonecutter_Frame.description>-->
+
+  <!--[Core] <Brewery.label>пивоварня</Brewery.label>-->
+  <!--[Core] <Brewery.description>Рабочий стол, оснащённый всем необходимым для приготовления пивного сусла. Для получения пива сусло нужно подвергнуть брожению в специальных бочках.</Brewery.description>-->
+  <!--[Core] <Brewery_Blueprint.label>brewery (blueprint)</Brewery_Blueprint.label>-->
+  <!--[Core] <Brewery_Blueprint_Install.label>brewery (blueprint)</Brewery_Blueprint_Install.label>-->
+  <!--[Core] <Brewery_Frame.label>brewery (building)</Brewery_Frame.label>-->
+  <!--[Core] <Brewery_Frame.description>A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer.</Brewery_Frame.description>-->
+
+  <!--[Core] <DrugLab.label>химическая лаборатория</DrugLab.label>-->
+  <!--[Core] <DrugLab.description>Рабочий стол, оснащённый различными ёмкостями, нагревателями и измерителями для изготовления разных видов препаратов и наркотиков.</DrugLab.description>-->
+  <!--[Core] <DrugLab_Blueprint.label>drug lab (blueprint)</DrugLab_Blueprint.label>-->
+  <!--[Core] <DrugLab_Blueprint_Install.label>drug lab (blueprint)</DrugLab_Blueprint_Install.label>-->
+  <!--[Core] <DrugLab_Frame.label>drug lab (building)</DrugLab_Frame.label>-->
+  <!--[Core] <DrugLab_Frame.description>A work bench equipped with containers, heaters, and measurement devices for producing various drugs.</DrugLab_Frame.description>-->
+
+  <!--[Core] <ElectricSmelter.label>электроплавильня</ElectricSmelter.label>-->
+  <!--[Core] <ElectricSmelter.description>Извлекает металл из кусков металлолома и других предметов, которые могут содержать металл. Потребляет много энергии.</ElectricSmelter.description>-->
+  <!--[Core] <ElectricSmelter_Blueprint.label>electric smelter (blueprint)</ElectricSmelter_Blueprint.label>-->
+  <!--[Core] <ElectricSmelter_Blueprint_Install.label>electric smelter (blueprint)</ElectricSmelter_Blueprint_Install.label>-->
+  <!--[Core] <ElectricSmelter_Frame.label>electric smelter (building)</ElectricSmelter_Frame.label>-->
+  <!--[Core] <ElectricSmelter_Frame.description>Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.</ElectricSmelter_Frame.description>-->
+
+  <!--[Core] <BiofuelRefinery.label>перегонный аппарат</BiofuelRefinery.label>-->
+  <!--[Core] <BiofuelRefinery.description>Используется для получения химического топлива из древесины или растительного сырья.</BiofuelRefinery.description>-->
+  <!--[Core] <BiofuelRefinery_Blueprint.label>biofuel refinery (blueprint)</BiofuelRefinery_Blueprint.label>-->
+  <!--[Core] <BiofuelRefinery_Frame.label>biofuel refinery (building)</BiofuelRefinery_Frame.label>-->
+  <!--[Core] <BiofuelRefinery_Frame.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery_Frame.description>-->
+
+  <!--[Core] <FabricationBench.label>высокоточный станок</FabricationBench.label>-->
+  <!--[Core] <FabricationBench.description>Станок, оборудованный продвинутыми инструментами для сборки разнообразных «чудес техники» из более простых материалов.</FabricationBench.description>-->
+  <!--[Core] <FabricationBench_Blueprint.label>fabrication bench (blueprint)</FabricationBench_Blueprint.label>-->
+  <!--[Core] <FabricationBench_Frame.label>fabrication bench (building)</FabricationBench_Frame.label>-->
+  <!--[Core] <FabricationBench_Frame.description>A workbench equipped with advanced tools for producing technological marvels from simpler materials.</FabricationBench_Frame.description>-->
+
+
+  <!-- Non-standard work buildings -->
+
+  <!--[Core] <SimpleResearchBench.label>простой стол для исследований</SimpleResearchBench.label>-->
+  <!--[Core] <SimpleResearchBench.description>Стол для научных изысканий, снабжённый простейшими инструментами. Исследователи работают за ним над освоением новых технологий.</SimpleResearchBench.description>-->
+  <!--[Core] <SimpleResearchBench_Blueprint.label>simple research bench (blueprint)</SimpleResearchBench_Blueprint.label>-->
+  <!--[Core] <SimpleResearchBench_Blueprint_Install.label>simple research bench (blueprint)</SimpleResearchBench_Blueprint_Install.label>-->
+  <!--[Core] <SimpleResearchBench_Frame.label>simple research bench (building)</SimpleResearchBench_Frame.label>-->
+  <!--[Core] <SimpleResearchBench_Frame.description>A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things.</SimpleResearchBench_Frame.description>-->
+
+  <!--[Core] <HiTechResearchBench.label>высокотехнологичный стол для исследований</HiTechResearchBench.label>-->
+  <!--[Core] <HiTechResearchBench.description>Стол для научных изысканий, укомплектованный компьютерами и электронными измерительными инструментами. Позволяет проводить исследования гораздо быстрее. Требует электричество.</HiTechResearchBench.description>-->
+  <!--[Core] <HiTechResearchBench_Blueprint.label>hi-tech research bench (blueprint)</HiTechResearchBench_Blueprint.label>-->
+  <!--[Core] <HiTechResearchBench_Frame.label>hi-tech research bench (building)</HiTechResearchBench_Frame.label>-->
+  <!--[Core] <HiTechResearchBench_Frame.description>A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects.</HiTechResearchBench_Frame.description>-->
+
+  <!--[Core] <ElectricCrematorium.label>электрический крематорий</ElectricCrematorium.label>-->
+  <!--[Core] <ElectricCrematorium.description>Каменный электрический крематорий для сжигания трупов и ненужных вещей.</ElectricCrematorium.description>-->
+  <!--[Core] <ElectricCrematorium_Blueprint.label>electric crematorium (blueprint)</ElectricCrematorium_Blueprint.label>-->
+  <!--[Core] <ElectricCrematorium_Frame.label>electric crematorium (building)</ElectricCrematorium_Frame.label>-->
+  <!--[Core] <ElectricCrematorium_Frame.description>A huge stone crematorium which vaporizes corpses with extremely high temperatures.</ElectricCrematorium_Frame.description>-->
+
+  <!--[Core] <HydroponicsBasin.label>гидропонная ферма</HydroponicsBasin.label>-->
+  <!--[Core] <HydroponicsBasin.description>Позволяет быстро выращивать растения в искусственной питательной среде. Требует электроэнергию; растения погибнут, если её не будет.</HydroponicsBasin.description>-->
+  <!--[Core] <HydroponicsBasin_Blueprint.label>hydroponics basin (blueprint)</HydroponicsBasin_Blueprint.label>-->
+  <!--[Core] <HydroponicsBasin_Frame.label>hydroponics basin (building)</HydroponicsBasin_Frame.label>-->
+  <!--[Core] <HydroponicsBasin_Frame.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut.</HydroponicsBasin_Frame.description>-->
+
+  <!--[Core] <FermentingBarrel.label>бочка для брожения</FermentingBarrel.label>-->
+  <!--[Core] <FermentingBarrel.description>Бочка для получения пива из сусла путём брожения.</FermentingBarrel.description>-->
+  <!--[Core] <FermentingBarrel_Blueprint.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint.label>-->
+  <!--[Core] <FermentingBarrel_Blueprint_Install.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint_Install.label>-->
+  <!--[Core] <FermentingBarrel_Frame.label>fermenting barrel (building)</FermentingBarrel_Frame.label>-->
+  <!--[Core] <FermentingBarrel_Frame.description>A barrel for fermenting raw wort into beer.</FermentingBarrel_Frame.description>-->
+
+  <!--[Core] <DeepDrill.label>буровая установка</DeepDrill.label>-->
+  <!--[Core] <DeepDrill.description>Комплекс бурового оборудования, предназначенный для извлечения полезных ископаемых из недр. Для обнаружения месторождений следует использовать глубинный сканер. При отсутствии полезных ископаемых происходит добыча каменной породы. Можно перемещать с места на место.</DeepDrill.description>-->
+  <!--[Core] <DeepDrill_Blueprint.label>deep drill (blueprint)</DeepDrill_Blueprint.label>-->
+  <!--[Core] <DeepDrill_Blueprint_Install.label>deep drill (blueprint)</DeepDrill_Blueprint_Install.label>-->
+  <!--[Core] <DeepDrill_Frame.label>deep drill (building)</DeepDrill_Frame.label>-->
+  <!--[Core] <DeepDrill_Frame.description>A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely.</DeepDrill_Frame.description>-->
+
+
+  <!-- Nutrient dispenser -->
+
+  <!--[Core] <NutrientPasteDispenser.label>дозатор пасты</NutrientPasteDispenser.label>-->
+  <!--[Core] <NutrientPasteDispenser.description>Аппарат для синтеза питательной пасты из органического сырья, помещённого в примыкающие воронки. Требует меньше ингредиентов и времени, чем приготовление пищи, но пасту никто не любит. С грубым растительным волокном (например, сеном) не работает.</NutrientPasteDispenser.description>-->
+  <!--[Core] <NutrientPasteDispenser_Blueprint.label>nutrient paste dispenser (blueprint)</NutrientPasteDispenser_Blueprint.label>-->
+  <!--[Core] <NutrientPasteDispenser_Frame.label>nutrient paste dispenser (building)</NutrientPasteDispenser_Frame.label>-->
+  <!--[Core] <NutrientPasteDispenser_Frame.description>A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser_Frame.description>-->
+
+  <!--[Core] <Hopper.label>загрузочная воронка</Hopper.label>-->
+  <!--[Core] <Hopper.description>Позволяет складывать ресурсы для загрузки в различные аппараты. Например, в дозатор пасты.</Hopper.description>-->
+  <!--[Core] <Hopper_Blueprint.label>hopper (blueprint)</Hopper_Blueprint.label>-->
+  <!--[Core] <Hopper_Frame.label>hopper (building)</Hopper_Frame.label>-->
+  <!--[Core] <Hopper_Frame.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper_Frame.description>-->
+
+
+</LanguageData>

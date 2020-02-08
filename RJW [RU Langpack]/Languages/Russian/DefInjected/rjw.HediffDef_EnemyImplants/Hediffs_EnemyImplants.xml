@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Ni'Hal -->
+  <!-- Used for JobDriver_RapeEnemyByMech. Mechs implant things when success rape. -->
 
-  <Parasite.label>заражение</Parasite.label>
-  <Parasite.comps.0.discoverLetterLabel>{0} заражен(а)</Parasite.comps.0.discoverLetterLabel>
-  <Parasite.comps.0.discoverLetterText>{0} заражен(а)!</Parasite.comps.0.discoverLetterText>
+  <Parasite.label>беременность</Parasite.label>
+  <Parasite.comps.0.discoverLetterLabel>{0} паразитирован</Parasite.comps.0.discoverLetterLabel>
+  <Parasite.comps.0.discoverLetterText>{0} заражен паразитами</Parasite.comps.0.discoverLetterText>
   <Parasite.stages.0.label>ранняя скрытая стадия</Parasite.stages.0.label>
   <Parasite.stages.1.label>средняя стадия</Parasite.stages.1.label>
   <Parasite.stages.2.label>поздняя стадия</Parasite.stages.2.label>

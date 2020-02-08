@@ -5,7 +5,7 @@
   <HorsePenis.description>Отрезанный член кентавра. Великоват для человека.</HorsePenis.description>
 
   <HorseVagina.label>лошадиная вагина</HorseVagina.label>
-  <HorseVagina.description>Отрезанная лошадиная вагина. Зияющая вагина просто просит вспахать его.</HorseVagina.description>
+  <HorseVagina.description>Отрезанная лошадиная вагина. Зияющая вагина просто просит вспахать ее.</HorseVagina.description>
 
   <CatPenis.label>кошачий член</CatPenis.label>
   <CatPenis.description>Отрезанный член кошкодевочки. Длинный, тонкий и колючий.</CatPenis.description>
@@ -34,8 +34,29 @@
   <CrocodilianPenis.label>крокодилий член</CrocodilianPenis.label>
   <CrocodilianPenis.description>Это член крокодила. Очень жесткий и имеет толстое выпуклое основание, но в остальном похож на гуманоидный член.</CrocodilianPenis.description>
 
+  <NarrowVagina.label>сужающаяся вагина</NarrowVagina.label>
+  <NarrowVagina.description>Отрезанная узкая вагина. Глубокое, но особенно узкое.</NarrowVagina.description>
+
+  <NeedlePenis.label>сужающийся пенис</NeedlePenis.label>
+  <NeedlePenis.description>Отрезанный тонкий пенис. Довольно длинный, но исключительно тонкий.</NeedlePenis.description>
+
+  <RodentVagina.label>грызуновая вагина</RodentVagina.label>
+  <RodentVagina.description>Отрезанная вагина грызунов. Вагина едва ли достаточно большая, чтобы поместиться на человеческом пальце.</RodentVagina.description>
+
+  <RodentPenis.label>грызуновый пенис</RodentPenis.label>
+  <RodentPenis.description>Отрезанный пенис грызуна. Действительно крошечный пенис, созданный для минимума функций.</RodentPenis.description>
+
+  <CloacalPenis.label>клоачный пенис</CloacalPenis.label>
+  <CloacalPenis.description>Отрезанный клоакальный пенис. Мужской половой орган спрятан внутри щели.</CloacalPenis.description>
+
+  <CloacalVagina.label>клоачная вагина</CloacalVagina.label>
+  <CloacalVagina.description>Отрезанная клоакальная вагина. Женский половой орган, откладывающий яйца.</CloacalVagina.description>
+
   <Udder.label>вымя</Udder.label>
   <Udder.description>Большое вымя, возможно, от муффало или другого похожего животного. Предназначено для использования в качестве протезов животных, но может быть прикреплено к гуманоидам для буквального выражения Телка.</Udder.description>
+
+  <CloacalAnus.label>клоачный анус</CloacalAnus.label>
+  <CloacalAnus.description>Отрезанный клоакальный анус. Анус спрятан в общий порт для репродуктивных органов, известный как клоака.</CloacalAnus.description>
 
 
 </LanguageData>

@@ -3,66 +3,77 @@
 
   <!-- natural vaginaes -->
 
-  <AddVagina.label>добавить вагину</AddVagina.label>
-  <AddVagina.description>Добавляет вагину выбранного размера мужчине.</AddVagina.description>
-  <AddVagina.jobString>добавляет вагину.</AddVagina.jobString>
+  <AddVagina.label>добавить среднюю вагину</AddVagina.label>
+  <AddVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</AddVagina.description>
+  <AddVagina.jobString>Добавляет вагину.</AddVagina.jobString>
 
   <AddMicroVagina.label>добавить микро вагину</AddMicroVagina.label>
-  <AddMicroVagina.description>Добавляет вагину выбранного размера мужчине.</AddMicroVagina.description>
-  <AddMicroVagina.jobString>добавляет микро вагину.</AddMicroVagina.jobString>
+  <AddMicroVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</AddMicroVagina.description>
+  <AddMicroVagina.jobString>Добавляет вагину.</AddMicroVagina.jobString>
 
   <addTightVagina.label>добавить узкую вагину</addTightVagina.label>
-  <addTightVagina.description>Добавляет вагину выбранного размера мужчине.</addTightVagina.description>
-  <addTightVagina.jobString>добавляет узкую вагину.</addTightVagina.jobString>
+  <addTightVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addTightVagina.description>
+  <addTightVagina.jobString>Добавляет вагину.</addTightVagina.jobString>
 
   <addLooseVagina.label>добавить просторную вагину</addLooseVagina.label>
-  <addLooseVagina.description>Добавляет вагину выбранного размера мужчине.</addLooseVagina.description>
-  <addLooseVagina.jobString>добавляет просторную вагину.</addLooseVagina.jobString>
+  <addLooseVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addLooseVagina.description>
+  <addLooseVagina.jobString>Добавляет вагину.</addLooseVagina.jobString>
 
   <addGapingVagina.label>добавить зияющую вагину</addGapingVagina.label>
-  <addGapingVagina.description>Добавляет вагину выбранного размера мужчине.</addGapingVagina.description>
-  <addGapingVagina.jobString>добавляет зияющую вагину.</addGapingVagina.jobString>
+  <addGapingVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addGapingVagina.description>
+  <addGapingVagina.jobString>Добавляет вагину.</addGapingVagina.jobString>
 
   <addHorseVagina.label>добавить лошадиную вагину</addHorseVagina.label>
-  <addHorseVagina.description>Добавляет вагину выбранного размера мужчине.</addHorseVagina.description>
-  <addHorseVagina.jobString>добавляет лошадиную вагину.</addHorseVagina.jobString>
+  <addHorseVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addHorseVagina.description>
+  <addHorseVagina.jobString>Добавляет вагину.</addHorseVagina.jobString>
 
   <addCatVagina.label>добавить кошачью вагину</addCatVagina.label>
-  <addCatVagina.description>Добавляет вагину выбранного размера мужчине.</addCatVagina.description>
-  <addCatVagina.jobString>добавляет кошачью вагину.</addCatVagina.jobString>
+  <addCatVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addCatVagina.description>
+  <addCatVagina.jobString>Добавляет вагину.</addCatVagina.jobString>
 
   <addDogVagina.label>добавить собачью вагину</addDogVagina.label>
-  <addDogVagina.description>Добавляет вагину выбранного размера мужчине.</addDogVagina.description>
-  <addDogVagina.jobString>добавляет собачью вагину.</addDogVagina.jobString>
+  <addDogVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addDogVagina.description>
+  <addDogVagina.jobString>Добавляет вагину.</addDogVagina.jobString>
 
   <addDragonVagina.label>добавить драконью вагину</addDragonVagina.label>
-  <addDragonVagina.description>Добавляет вагину выбранного размера мужчине.</addDragonVagina.description>
-  <addDragonVagina.jobString>добавляет драконью вагину.</addDragonVagina.jobString>
+  <addDragonVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addDragonVagina.description>
+  <addDragonVagina.jobString>Добавляет вагину.</addDragonVagina.jobString>
 
   <addOvipositorF.label>добавить яйцеклад</addOvipositorF.label>
-  <addOvipositorF.description>Добавляет яйцеклад мужчине.</addOvipositorF.description>
-  <addOvipositorF.jobString>добавляет яйцеклад.</addOvipositorF.jobString>
+  <addOvipositorF.description>Добавляет женский яйцеклад мужчине.</addOvipositorF.description>
+  <addOvipositorF.jobString>Добавляет яйцеклад.</addOvipositorF.jobString>
 
+  <AddNarrowVagina.label>добавить сужающаюся вагину</AddNarrowVagina.label>
+  <AddNarrowVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</AddNarrowVagina.description>
+  <AddNarrowVagina.jobString>Добавляет вагину.</AddNarrowVagina.jobString>
+
+  <AddCloacalVagina.label>добавить клоачную вагину</AddCloacalVagina.label>
+  <AddCloacalVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</AddCloacalVagina.description>
+  <AddCloacalVagina.jobString>Добавляет вагину.</AddCloacalVagina.jobString>
+
+  <AddRodentVagina.label>добавить грызуновую вагину</AddRodentVagina.label>
+  <AddRodentVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</AddRodentVagina.description>
+  <AddRodentVagina.jobString>Добавляет вагину.</AddRodentVagina.jobString>
 
   <!-- hydraulic vagina -->
 
   <addHydraulicVagina.label>добавить гидравлическую вагину</addHydraulicVagina.label>
-  <addHydraulicVagina.description>Добавляет вагину выбранного размера мужчине.</addHydraulicVagina.description>
-  <addHydraulicVagina.jobString>добавляет гидравлическую вагину.</addHydraulicVagina.jobString>
+  <addHydraulicVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addHydraulicVagina.description>
+  <addHydraulicVagina.jobString>Добавляет вагину.</addHydraulicVagina.jobString>
 
 
   <!-- bionic vagina -->
 
   <addBionicVagina.label>добавить бионическую вагину</addBionicVagina.label>
-  <addBionicVagina.description>Добавляет вагину выбранного размера мужчине.</addBionicVagina.description>
-  <addBionicVagina.jobString>добавляет бионическую вагину.</addBionicVagina.jobString>
+  <addBionicVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addBionicVagina.description>
+  <addBionicVagina.jobString>Добавляет вагину.</addBionicVagina.jobString>
 
 
   <!-- archotech vagina -->
 
   <addArchotechVagina.label>добавить архотек вагину</addArchotechVagina.label>
-  <addArchotechVagina.description>Добавляет вагину выбранного размера мужчине.</addArchotechVagina.description>
-  <addArchotechVagina.jobString>добавляет архотек вагину.</addArchotechVagina.jobString>
+  <addArchotechVagina.description>Добавляет вагину мужчине, превращая его в гермафродита.</addArchotechVagina.description>
+  <addArchotechVagina.jobString>Добавляет вагину.</addArchotechVagina.jobString>
 
 
 </LanguageData>

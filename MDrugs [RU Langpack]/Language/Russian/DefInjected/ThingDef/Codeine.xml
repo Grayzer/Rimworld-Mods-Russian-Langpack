@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Codeine.label>кодеин</Codeine.label>
+  <Codeine.description>Сильное болеутоляющее класса опиатов. Несмотря на свою эффективность, опиаты часто сопровождаются побочными эффектами и риском наркомании при повторном использовании.</Codeine.description>
+  <Codeine.ingestible.ingestCommandString>Взять {0}</Codeine.ingestible.ingestCommandString>
+  <Codeine.ingestible.ingestReportString>Берет {0}.</Codeine.ingestible.ingestReportString>
+
+
+</LanguageData>

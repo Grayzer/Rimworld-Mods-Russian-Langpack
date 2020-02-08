@@ -3,20 +3,17 @@
 
   <!-- Severity will be set to equal (1.0 - blood_filtration) in xxx.update_std_effects -->
 
-  <Immunodeficiency.label>иммунодефицит</Immunodeficiency.label>
+  <Immunodeficiency.label>Иммунодефицит</Immunodeficiency.label>
   <Immunodeficiency.stages.0.label>слабый</Immunodeficiency.stages.0.label>
   <Immunodeficiency.stages.1.label>средний</Immunodeficiency.stages.1.label>
   <Immunodeficiency.stages.2.label>сильный</Immunodeficiency.stages.2.label>
 
   <VirusPerma.label>повреждения вирусами</VirusPerma.label>
-  <VirusPerma.injuryProps.destroyedLabel>уничтожено болезнью</VirusPerma.injuryProps.destroyedLabel>
-  <VirusPerma.injuryProps.destroyedOutLabel>уничтожено болезнью</VirusPerma.injuryProps.destroyedOutLabel>
+  <VirusPerma.injuryProps.destroyedLabel>Уничтожено болезнью</VirusPerma.injuryProps.destroyedLabel>
+  <VirusPerma.injuryProps.destroyedOutLabel>Уничтожено болезнью</VirusPerma.injuryProps.destroyedOutLabel>
 
   <PegArm.label>деревянная рука</PegArm.label>
   <PegArm.labelNoun>это деревянная рука</PegArm.labelNoun>
 
-
-  <!--<VirusPerma.comps.0.oldLabel>повреждено вирусом</VirusPerma.comps.0.oldLabel>-->
-  <!--<VirusPerma.comps.0.instantlyOldLabel>поврежденно вирусом</VirusPerma.comps.0.instantlyOldLabel>-->
 
 </LanguageData>

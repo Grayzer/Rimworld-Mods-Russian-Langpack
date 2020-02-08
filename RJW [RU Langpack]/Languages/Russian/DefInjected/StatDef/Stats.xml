@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SexAbility.label>сексуальные навыки</SexAbility.label>
   <SexAbility.description>Отображает на сколько поселенец хорош в сексе</SexAbility.description>
 
-  <Vulnerability.label>ранимость</Vulnerability.label>
+  <Vulnerability.label>уязвимость</Vulnerability.label>
   <Vulnerability.description>Отображает на сколько вероятен захват сексуального преимущества.</Vulnerability.description>
 
   <SexFrequency.label>сексуальное влечение</SexFrequency.label>

@@ -1,22 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+
   <Armbinder.label>наручники</Armbinder.label>
-  <Armbinder.description>Высокотехнологичные наручники. Они не позволяют использовать руки, тому кто их носит.
-</Armbinder.description>
+  <Armbinder.description>Наручники предотвращают использование оружия любой пешкой.</Armbinder.description>
   <Armbinder.comps.2.useLabel>Надеть</Armbinder.comps.2.useLabel>
 
-  <Gag.label>кляп</Gag.label>
-  <Gag.description>Высокотехнологичный кляп. Не позволяет говорить, тому кто его носит.</Gag.description>
-  <Gag.comps.2.useLabel>Надеть</Gag.comps.2.useLabel>
+  <BallGag.label>шарик-кляп</BallGag.label>
+  <BallGag.description>Шарик-кляп мешает разговаривать.</BallGag.description>
+  <BallGag.comps.2.useLabel>Надеть</BallGag.comps.2.useLabel>
+
+  <RingGag.label>кольцо-кляп</RingGag.label>
+  <RingGag.description>Кольцо-кляп предотвращает разговор, позволяет оральное взаимодействие.</RingGag.description>
+  <RingGag.comps.2.useLabel>Надеть</RingGag.comps.2.useLabel>
 
   <ChastityBelt.label>пояс верности</ChastityBelt.label>
-  <ChastityBelt.description>Высокотехнологичный пояс верности. Не дает заниматься сексом и мастурбировать.</ChastityBelt.description>
+  <ChastityBelt.description>Пояс верности предотвращает секс и мастурбацию.</ChastityBelt.description>
   <ChastityBelt.comps.2.useLabel>Надеть</ChastityBelt.comps.2.useLabel>
 
+  <ChastityBeltO.label>пояс верности(Открытый)</ChastityBeltO.label>
+  <ChastityBeltO.description>Пояс верности позволяет только анальный секс.</ChastityBeltO.description>
+  <ChastityBeltO.comps.2.useLabel>Надеть</ChastityBeltO.comps.2.useLabel>
+
+  <ChastityCage.label>клетка верности</ChastityCage.label>
+  <ChastityCage.description>Клетка верности для мужчин, предотвращает эрекцию.</ChastityCage.description>
+  <ChastityCage.comps.2.useLabel>Надеть</ChastityCage.comps.2.useLabel>
+
   <PrisonerChains.label>цепи</PrisonerChains.label>
-  <PrisonerChains.description>Цепочки с манжетами. Полезно для ограничения чьей-либо свободы передвижения и манипуляции. Предотвращает* попытки рукопашного боя.
-*кляп рекомендуется для полной нейтрализации</PrisonerChains.description>
+  <PrisonerChains.description>Цепочки с манжетами. Полезно для ограничения чьей-либо свободы передвижения и манипуляции. Предотвращает* попытки рукопашного боя.\n\n*кляп рекомендуется для полной нейтрализации</PrisonerChains.description>
   <PrisonerChains.comps.2.useLabel>Надеть</PrisonerChains.comps.2.useLabel>
 
 

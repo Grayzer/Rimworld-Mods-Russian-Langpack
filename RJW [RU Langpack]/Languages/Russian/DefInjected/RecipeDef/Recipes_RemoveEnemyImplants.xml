@@ -1,41 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RemoveMegascarabEgg.label>удалить яйца инсектов</RemoveMegascarabEgg.label>
-  <RemoveMegascarabEgg.description>Удаляет яйца инсектов.</RemoveMegascarabEgg.description>
-  <RemoveMegascarabEgg.jobString>Удаление яиц инсектов.</RemoveMegascarabEgg.jobString>
+  <!-- this needs custom class for x10, fuck it -->
 
-  <RemoveMegaspiderEgg.label>удалить яйца инсектов</RemoveMegaspiderEgg.label>
-  <RemoveMegaspiderEgg.description>Удаляет яйца инсектов.</RemoveMegaspiderEgg.description>
-  <RemoveMegaspiderEgg.jobString>Удаление яиц инсектов.</RemoveMegaspiderEgg.jobString>
+  <RemoveUnknownEgg.label>удалить яйца</RemoveUnknownEgg.label>
+  <RemoveUnknownEgg.description>Удаление яйц.</RemoveUnknownEgg.description>
+  <RemoveUnknownEgg.jobString>Удаляет яйца.</RemoveUnknownEgg.jobString>
 
-  <RemoveSpelopedeEgg.label>удалить яйца инсектов</RemoveSpelopedeEgg.label>
-  <RemoveSpelopedeEgg.description>Удаляет яйца инсектов.</RemoveSpelopedeEgg.description>
-  <RemoveSpelopedeEgg.jobString>Удаление яиц инсектов.</RemoveSpelopedeEgg.jobString>
-
-  <RemoveRJW_ROMA_SpiderEgg.label>удалить яйца инсектов</RemoveRJW_ROMA_SpiderEgg.label>
-  <RemoveRJW_ROMA_SpiderEgg.description>Удаляет яйца инсектов.</RemoveRJW_ROMA_SpiderEgg.description>
-  <RemoveRJW_ROMA_SpiderEgg.jobString>Удаление яиц инсектов.</RemoveRJW_ROMA_SpiderEgg.jobString>
-
-  <RemoveRJW_ROMA_GiantSpiderEgg.label>удалить яйца инсектов</RemoveRJW_ROMA_GiantSpiderEgg.label>
-  <RemoveRJW_ROMA_GiantSpiderEgg.description>Удаляет яйца инсектов.</RemoveRJW_ROMA_GiantSpiderEgg.description>
-  <RemoveRJW_ROMA_GiantSpiderEgg.jobString>Удаление яиц инсектов.</RemoveRJW_ROMA_GiantSpiderEgg.jobString>
-
-  <RemoveRJW_ROMA_GiantQueenSpiderEgg.label>удалить яйца инсектов</RemoveRJW_ROMA_GiantQueenSpiderEgg.label>
-  <RemoveRJW_ROMA_GiantQueenSpiderEgg.description>Удаляет яйца инсектов.</RemoveRJW_ROMA_GiantQueenSpiderEgg.description>
-  <RemoveRJW_ROMA_GiantQueenSpiderEgg.jobString>Удаление яиц инсектов.</RemoveRJW_ROMA_GiantQueenSpiderEgg.jobString>
+  <RemoveInsectHiveEgg.label>удалить яйца инсектов</RemoveInsectHiveEgg.label>
+  <RemoveInsectHiveEgg.description>Удаление яйц инсектов.</RemoveInsectHiveEgg.description>
+  <RemoveInsectHiveEgg.jobString>Удаляет яйца инсектов.</RemoveInsectHiveEgg.jobString>
 
   <RemoveMicroComputer.label>удалить МикроКомпьютер</RemoveMicroComputer.label>
   <RemoveMicroComputer.description>Удаляет МикроКомпьютер.</RemoveMicroComputer.description>
   <RemoveMicroComputer.jobString>Удаление МикроКомпьютера.</RemoveMicroComputer.jobString>
 
-  <RJW_RemoveRestraints.label>удаление цепей</RJW_RemoveRestraints.label>
-  <RJW_RemoveRestraints.description>Удаление цепей.</RJW_RemoveRestraints.description>
+  <RJW_RemoveRestraints.label>удалить цепи</RJW_RemoveRestraints.label>
+  <RJW_RemoveRestraints.description>Удаляет цепи.</RJW_RemoveRestraints.description>
   <RJW_RemoveRestraints.jobString>Удаление цепей.</RJW_RemoveRestraints.jobString>
 
-  <RJW_RemoveCocoon.label>удалить член</RJW_RemoveCocoon.label>
-  <RJW_RemoveCocoon.description>Удаляет член.</RJW_RemoveCocoon.description>
-  <RJW_RemoveCocoon.jobString>Удаление члена.</RJW_RemoveCocoon.jobString>
+  <RJW_RemoveCocoon.label>удалить кокон</RJW_RemoveCocoon.label>
+  <RJW_RemoveCocoon.description>Удаляет кокон.</RJW_RemoveCocoon.description>
+  <RJW_RemoveCocoon.jobString>Удаление кокона.</RJW_RemoveCocoon.jobString>
 
 
 </LanguageData>

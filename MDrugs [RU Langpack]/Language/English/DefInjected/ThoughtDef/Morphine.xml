@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MorphineHigh.stages.0.label>high on morphine</MorphineHigh.stages.0.label>
+  <MorphineHigh.stages.0.description>Morphine really kills pain, which is great around here.</MorphineHigh.stages.0.description>
+
+  <MorphineWithdrawal.stages.1.label>morphine withdrawal</MorphineWithdrawal.stages.1.label>
+  <MorphineWithdrawal.stages.1.description>I'm freezing and sweating. Everything hurts and my heart is palpitating.</MorphineWithdrawal.stages.1.description>
+
+
+</LanguageData>

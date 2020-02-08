@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DeterminePregnancy.label>проверка беременности</DeterminePregnancy.label>
+  <DeterminePregnancy.label>тест на беременность</DeterminePregnancy.label>
   <DeterminePregnancy.description>Определяет, беременна ли колонистка и есть ли какие-либо отклонения от беременности.</DeterminePregnancy.description>
-  <DeterminePregnancy.jobString>Проверка беременности.</DeterminePregnancy.jobString>
+  <DeterminePregnancy.jobString>Проверка на беременность.</DeterminePregnancy.jobString>
 
 
 </LanguageData>

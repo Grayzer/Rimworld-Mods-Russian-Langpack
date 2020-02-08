@@ -7,13 +7,21 @@
   <RemoveGenitals.description>Удаляет органы секса.</RemoveGenitals.description>
   <RemoveGenitals.jobString>Удаление гениталий.</RemoveGenitals.jobString>
 
-  <RemoveBreasts.label>удалить грудь</RemoveBreasts.label>
-  <RemoveBreasts.description>Избавляет от груди.</RemoveBreasts.description>
-  <RemoveBreasts.jobString>Отрезает грудь.</RemoveBreasts.jobString>
+  <RemovePenis.label>удалить пенис</RemovePenis.label>
+  <RemovePenis.description>Удаляет пенис.</RemovePenis.description>
+  <RemovePenis.jobString>Удаление пениса.</RemovePenis.jobString>
+
+  <RemoveVagina.label>удалить вагину</RemoveVagina.label>
+  <RemoveVagina.description>Удаляет вагину.</RemoveVagina.description>
+  <RemoveVagina.jobString>Удаление вагины.</RemoveVagina.jobString>
+
+  <RemoveBreasts.label>удалить груди</RemoveBreasts.label>
+  <RemoveBreasts.description>Удаляет груди.</RemoveBreasts.description>
+  <RemoveBreasts.jobString>Удаление груди.</RemoveBreasts.jobString>
 
   <RemoveAnus.label>удалить анус</RemoveAnus.label>
   <RemoveAnus.description>Удаляет анус.</RemoveAnus.description>
-  <RemoveAnus.jobString>Вырезает анус.</RemoveAnus.jobString>
+  <RemoveAnus.jobString>Удаление ануса.</RemoveAnus.jobString>
 
 
 </LanguageData>

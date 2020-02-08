@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrowFlatBreasts.label>вырастить плоские груди</GrowFlatBreasts.label>
+  <GrowFlatBreasts.description>Заставьте неразвитые груди расцвести, используя огромное количество целебной мази в сочетании с тщательным массажем.</GrowFlatBreasts.description>
+  <GrowFlatBreasts.jobString>Выращивает плоские груди.</GrowFlatBreasts.jobString>
+
+  <GrowSmallBreasts.label>вырастить маленькие груди</GrowSmallBreasts.label>
+  <GrowSmallBreasts.description>Добавляет объем плоским грудям благодаря огромноми количеству бальзама с целебными корнями в сочетании с энергичным массажем.</GrowSmallBreasts.description>
+  <GrowSmallBreasts.jobString>Выращивает маленькие груди.</GrowSmallBreasts.jobString>
+
+  <GrowAverageBreasts.label>вырастить средние груди</GrowAverageBreasts.label>
+  <GrowAverageBreasts.description>Заставьте маленькие груди увеличиться, слегка повредив ткань молочной железы, а затем применив большую дозу целебного бальзама.</GrowAverageBreasts.description>
+  <GrowAverageBreasts.jobString>Выращивает средние груди.</GrowAverageBreasts.jobString>
+
+  <GrowLargeBreasts.label>вырастить большие груди</GrowLargeBreasts.label>
+  <GrowLargeBreasts.description>Наполните среднюю грудь, массируя грудную ткань, а затем вводя гормоны роста, собранные из медицинских наборов.</GrowLargeBreasts.description>
+  <GrowLargeBreasts.jobString>Выращивает большие груди.</GrowLargeBreasts.jobString>
+
+  <GrowHugeBreasts.label>вырастить огромные груди</GrowHugeBreasts.label>
+  <GrowHugeBreasts.description>Увеличивайте и без того большие груди, постоянно стимулируя ткань молочной железы, воздействуя медициной блестящего мира.</GrowHugeBreasts.description>
+  <GrowHugeBreasts.jobString>Выращивает огромные груди.</GrowHugeBreasts.jobString>
+
+  <ShrinkBreastsSurgery.label>уменьшить размер грудей</ShrinkBreastsSurgery.label>
+  <ShrinkBreastsSurgery.description>Уменьшите размер естественной груди с помощью операции.</ShrinkBreastsSurgery.description>
+  <ShrinkBreastsSurgery.jobString>Уменьшает груди.</ShrinkBreastsSurgery.jobString>
+
+
+</LanguageData>

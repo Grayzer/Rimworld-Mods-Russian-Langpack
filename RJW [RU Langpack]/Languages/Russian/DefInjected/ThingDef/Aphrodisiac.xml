@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Aphrodisiac.label>Афродозиак</Aphrodisiac.label>
+  <Aphrodisiac.label>Афродизиак</Aphrodisiac.label>
   <Aphrodisiac.description>Курительный препарат, изготовленный из казановника.</Aphrodisiac.description>
   <Aphrodisiac.ingestible.ingestCommandString>Курить {0}</Aphrodisiac.ingestible.ingestCommandString>
   <Aphrodisiac.ingestible.ingestReportString>Курит {0}.</Aphrodisiac.ingestible.ingestReportString>

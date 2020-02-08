@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Demon privates parts -->
@@ -6,7 +6,7 @@
   <DemonTentaclesPenis.label>демонические тентакли</DemonTentaclesPenis.label>
   <DemonTentaclesPenis.description>Отрезанные демонические щупальца. Длинные и гибкие, постоянно протекающие демоническими жидкостями. Бесполезно для людей.</DemonTentaclesPenis.description>
 
-  <DemonPenis.label>демонический член</DemonPenis.label>
+  <DemonPenis.label>демонический пенис</DemonPenis.label>
   <DemonPenis.description>Отрезанный демонический член. Это средний человекоподобный размер, постоянно протекающий демоническими жидкостями. Бесполезно для людей.</DemonPenis.description>
 
   <DemonVagina.label>демоническая вагина</DemonVagina.label>

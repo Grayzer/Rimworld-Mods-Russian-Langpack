@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[XPatch] HD Icon Organs NPBA</name>
+    <supportedVersions><li>1.0</li></supportedVersions>
+    <author>Mungus</author>
+    <url>https://github.com/Grayzer/Rimworld-Mods-Russian-Langpack</url>
+    <description>
+      Load mod at bottom of mod list:
+      Core
+      HugsLib
+      ++Mods
+      [XPatch] HD Icon Organs NPBA
+    </description>
+
+</ModMetaData>

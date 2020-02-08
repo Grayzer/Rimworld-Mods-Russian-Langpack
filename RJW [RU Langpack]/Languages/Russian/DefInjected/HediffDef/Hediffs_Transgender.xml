@@ -4,100 +4,87 @@
   <!-- THese are all the same, the flavor text is different -->
 
   <hediff_male2trap.label>мужчина и трап</hediff_male2trap.label>
-  <hediff_male2trap.stages.0.label>игнорирование</hediff_male2trap.stages.0.label>
-  <hediff_male2trap.stages.1.label>одобрение</hediff_male2trap.stages.1.label>
-  <hediff_male2trap.stages.2.label>печаль</hediff_male2trap.stages.2.label>
+  <hediff_male2trap.stages.0.label>невежество</hediff_male2trap.stages.0.label>
+  <hediff_male2trap.stages.1.label>принятие</hediff_male2trap.stages.1.label>
+  <hediff_male2trap.stages.2.label>уныние</hediff_male2trap.stages.2.label>
   <hediff_male2trap.stages.3.label>гнев</hediff_male2trap.stages.3.label>
   <hediff_male2trap.stages.4.label>отрицание</hediff_male2trap.stages.4.label>
 
   <hediff_male2female.label>мужчина и женщина</hediff_male2female.label>
-  <hediff_male2female.stages.0.label>игнорирование</hediff_male2female.stages.0.label>
-  <hediff_male2female.stages.1.label>одобрение</hediff_male2female.stages.1.label>
-  <hediff_male2female.stages.2.label>печаль</hediff_male2female.stages.2.label>
+  <hediff_male2female.stages.0.label>невежество</hediff_male2female.stages.0.label>
+  <hediff_male2female.stages.1.label>принятие</hediff_male2female.stages.1.label>
+  <hediff_male2female.stages.2.label>уныние</hediff_male2female.stages.2.label>
   <hediff_male2female.stages.3.label>гнев</hediff_male2female.stages.3.label>
   <hediff_male2female.stages.4.label>отрицание</hediff_male2female.stages.4.label>
 
   <hediff_male2futa.label>мужчина и фута</hediff_male2futa.label>
-  <hediff_male2futa.stages.0.label>игнорирование</hediff_male2futa.stages.0.label>
-  <hediff_male2futa.stages.1.label>одобрение</hediff_male2futa.stages.1.label>
-  <hediff_male2futa.stages.2.label>печаль</hediff_male2futa.stages.2.label>
+  <hediff_male2futa.stages.0.label>невежество</hediff_male2futa.stages.0.label>
+  <hediff_male2futa.stages.1.label>принятие</hediff_male2futa.stages.1.label>
+  <hediff_male2futa.stages.2.label>уныние</hediff_male2futa.stages.2.label>
   <hediff_male2futa.stages.3.label>гнев</hediff_male2futa.stages.3.label>
   <hediff_male2futa.stages.4.label>отрицание</hediff_male2futa.stages.4.label>
 
   <hediff_female2trap.label>женщина и трап</hediff_female2trap.label>
-  <hediff_female2trap.stages.0.label>игнорирование</hediff_female2trap.stages.0.label>
-  <hediff_female2trap.stages.1.label>одобрение</hediff_female2trap.stages.1.label>
-  <hediff_female2trap.stages.2.label>печаль</hediff_female2trap.stages.2.label>
+  <hediff_female2trap.stages.0.label>невежество</hediff_female2trap.stages.0.label>
+  <hediff_female2trap.stages.1.label>принятие</hediff_female2trap.stages.1.label>
+  <hediff_female2trap.stages.2.label>уныние</hediff_female2trap.stages.2.label>
   <hediff_female2trap.stages.3.label>гнев</hediff_female2trap.stages.3.label>
   <hediff_female2trap.stages.4.label>отрицание</hediff_female2trap.stages.4.label>
 
   <hediff_female2male.label>женщина и мужчина</hediff_female2male.label>
-  <hediff_female2male.stages.0.label>игнорирование</hediff_female2male.stages.0.label>
-  <hediff_female2male.stages.1.label>одобрение</hediff_female2male.stages.1.label>
-  <hediff_female2male.stages.2.label>печаль</hediff_female2male.stages.2.label>
+  <hediff_female2male.stages.0.label>невежество</hediff_female2male.stages.0.label>
+  <hediff_female2male.stages.1.label>принятие</hediff_female2male.stages.1.label>
+  <hediff_female2male.stages.2.label>уныние</hediff_female2male.stages.2.label>
   <hediff_female2male.stages.3.label>гнев</hediff_female2male.stages.3.label>
   <hediff_female2male.stages.4.label>отрицание</hediff_female2male.stages.4.label>
 
   <hediff_female2futa.label>женщина и фута</hediff_female2futa.label>
-  <hediff_female2futa.stages.0.label>игнорирование</hediff_female2futa.stages.0.label>
-  <hediff_female2futa.stages.1.label>одобрение</hediff_female2futa.stages.1.label>
-  <hediff_female2futa.stages.2.label>печаль</hediff_female2futa.stages.2.label>
+  <hediff_female2futa.stages.0.label>невежество</hediff_female2futa.stages.0.label>
+  <hediff_female2futa.stages.1.label>принятие</hediff_female2futa.stages.1.label>
+  <hediff_female2futa.stages.2.label>уныние</hediff_female2futa.stages.2.label>
   <hediff_female2futa.stages.3.label>гнев</hediff_female2futa.stages.3.label>
   <hediff_female2futa.stages.4.label>отрицание</hediff_female2futa.stages.4.label>
 
   <hediff_futa2trap.label>фута и трап</hediff_futa2trap.label>
-  <hediff_futa2trap.stages.0.label>игнорирование</hediff_futa2trap.stages.0.label>
-  <hediff_futa2trap.stages.1.label>одобрение</hediff_futa2trap.stages.1.label>
-  <hediff_futa2trap.stages.2.label>печаль</hediff_futa2trap.stages.2.label>
+  <hediff_futa2trap.stages.0.label>невежество</hediff_futa2trap.stages.0.label>
+  <hediff_futa2trap.stages.1.label>принятие</hediff_futa2trap.stages.1.label>
+  <hediff_futa2trap.stages.2.label>уныние</hediff_futa2trap.stages.2.label>
   <hediff_futa2trap.stages.3.label>гнев</hediff_futa2trap.stages.3.label>
   <hediff_futa2trap.stages.4.label>отрицание</hediff_futa2trap.stages.4.label>
 
   <hediff_futa2male.label>фута и мужчина</hediff_futa2male.label>
-  <hediff_futa2male.stages.0.label>игнорирование</hediff_futa2male.stages.0.label>
-  <hediff_futa2male.stages.1.label>одобрение</hediff_futa2male.stages.1.label>
-  <hediff_futa2male.stages.2.label>печаль</hediff_futa2male.stages.2.label>
+  <hediff_futa2male.stages.0.label>невежество</hediff_futa2male.stages.0.label>
+  <hediff_futa2male.stages.1.label>принятие</hediff_futa2male.stages.1.label>
+  <hediff_futa2male.stages.2.label>уныние</hediff_futa2male.stages.2.label>
   <hediff_futa2male.stages.3.label>гнев</hediff_futa2male.stages.3.label>
   <hediff_futa2male.stages.4.label>отрицание</hediff_futa2male.stages.4.label>
 
-  <hediff_futa2female.label>мута и женщина</hediff_futa2female.label>
-  <hediff_futa2female.stages.0.label>игнорирование</hediff_futa2female.stages.0.label>
-  <hediff_futa2female.stages.1.label>одобрение</hediff_futa2female.stages.1.label>
-  <hediff_futa2female.stages.2.label>печаль</hediff_futa2female.stages.2.label>
+  <hediff_futa2female.label>фута и женщина</hediff_futa2female.label>
+  <hediff_futa2female.stages.0.label>невежество</hediff_futa2female.stages.0.label>
+  <hediff_futa2female.stages.1.label>принятие</hediff_futa2female.stages.1.label>
+  <hediff_futa2female.stages.2.label>уныние</hediff_futa2female.stages.2.label>
   <hediff_futa2female.stages.3.label>гнев</hediff_futa2female.stages.3.label>
   <hediff_futa2female.stages.4.label>отрицание</hediff_futa2female.stages.4.label>
 
   <hediff_trap2futa.label>трап и фута</hediff_trap2futa.label>
-  <hediff_trap2futa.stages.0.label>игнорирование</hediff_trap2futa.stages.0.label>
-  <hediff_trap2futa.stages.1.label>одобрение</hediff_trap2futa.stages.1.label>
-  <hediff_trap2futa.stages.2.label>печаль</hediff_trap2futa.stages.2.label>
+  <hediff_trap2futa.stages.0.label>невежество</hediff_trap2futa.stages.0.label>
+  <hediff_trap2futa.stages.1.label>принятие</hediff_trap2futa.stages.1.label>
+  <hediff_trap2futa.stages.2.label>уныние</hediff_trap2futa.stages.2.label>
   <hediff_trap2futa.stages.3.label>гнев</hediff_trap2futa.stages.3.label>
   <hediff_trap2futa.stages.4.label>отрицание</hediff_trap2futa.stages.4.label>
 
   <hediff_trap2male.label>трап и мужчина</hediff_trap2male.label>
-  <hediff_trap2male.stages.0.label>игнорирование</hediff_trap2male.stages.0.label>
-  <hediff_trap2male.stages.1.label>одобрение</hediff_trap2male.stages.1.label>
-  <hediff_trap2male.stages.2.label>печаль</hediff_trap2male.stages.2.label>
+  <hediff_trap2male.stages.0.label>невежество</hediff_trap2male.stages.0.label>
+  <hediff_trap2male.stages.1.label>принятие</hediff_trap2male.stages.1.label>
+  <hediff_trap2male.stages.2.label>уныние</hediff_trap2male.stages.2.label>
   <hediff_trap2male.stages.3.label>гнев</hediff_trap2male.stages.3.label>
   <hediff_trap2male.stages.4.label>отрицание</hediff_trap2male.stages.4.label>
 
   <hediff_trap2female.label>трап и женщина</hediff_trap2female.label>
-  <hediff_trap2female.stages.0.label>игнорирование</hediff_trap2female.stages.0.label>
-  <hediff_trap2female.stages.1.label>одобрение</hediff_trap2female.stages.1.label>
-  <hediff_trap2female.stages.2.label>печаль</hediff_trap2female.stages.2.label>
+  <hediff_trap2female.stages.0.label>невежество</hediff_trap2female.stages.0.label>
+  <hediff_trap2female.stages.1.label>принятие</hediff_trap2female.stages.1.label>
+  <hediff_trap2female.stages.2.label>уныние</hediff_trap2female.stages.2.label>
   <hediff_trap2female.stages.3.label>гнев</hediff_trap2female.stages.3.label>
   <hediff_trap2female.stages.4.label>отрицание</hediff_trap2female.stages.4.label>
-
-
-  <!-- hidden hediffs to track original sex -->
-
-  <hediff_was_boy.label>was_boy</hediff_was_boy.label>
-  <hediff_was_girl.label>was_girl</hediff_was_girl.label>
-
-
-  <!-- whatever this may mean: -->
-
-  <hediff_was_futa.label>was_futa</hediff_was_futa.label>
-  <hediff_was_trap.label>was_trap</hediff_was_trap.label>
-
 
 </LanguageData>

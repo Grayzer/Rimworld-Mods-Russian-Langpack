@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Penicillin.label>пенициллин</Penicillin.label>
+  <Penicillin.description>Широко известная древняя форма антибиотика, способного лечить различные формы инфекции.</Penicillin.description>
+  <Penicillin.ingestible.ingestCommandString>Взять {0}</Penicillin.ingestible.ingestCommandString>
+  <Penicillin.ingestible.ingestReportString>Берет {0}.</Penicillin.ingestible.ingestReportString>
+
+
+</LanguageData>

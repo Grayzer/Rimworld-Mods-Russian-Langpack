@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dabigatran.label>dabigatran</Dabigatran.label>
+  <Dabigatran.description>An anticoagulant used to prevent blood clotting and treat artery blockages.</Dabigatran.description>
+  <Dabigatran.ingestible.ingestCommandString>Take {0}</Dabigatran.ingestible.ingestCommandString>
+  <Dabigatran.ingestible.ingestReportString>Taking {0}.</Dabigatran.ingestible.ingestReportString>
+
+
+</LanguageData>

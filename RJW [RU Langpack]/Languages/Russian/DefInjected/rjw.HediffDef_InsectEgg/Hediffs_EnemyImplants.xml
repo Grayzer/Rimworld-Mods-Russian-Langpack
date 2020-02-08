@@ -1,47 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Vanilla -->
+  <!-- Pawns with ovi's plant egg. -->
 
-  <RJW_MegascarabEgg.label>Яйцо Мегаскарабея</RJW_MegascarabEgg.label>
-  <RJW_SpelopedeEgg.label>Яйцо Скалоножки</RJW_SpelopedeEgg.label>
-  <RJW_MegaspiderEgg.label>Яйцо Мегапаука</RJW_MegaspiderEgg.label>
+  <RJW_InsectEgg.label>Яйцо</RJW_InsectEgg.label>
 
 
-  <!-- Docile Hive -->
+  <!-- Placeholder egg/unsupported/any races -->
 
-  <RJW_MegascarabDocileEgg.label>Яйцо Покорного Мегаскарабея</RJW_MegascarabDocileEgg.label>
-  <RJW_SpelopedeDocileEgg.label>Яйцо Покорной Скалоножки</RJW_SpelopedeDocileEgg.label>
-  <RJW_MegaspiderDocileEgg.label>Яйцо Покорного Мегапаука</RJW_MegaspiderDocileEgg.label>
+  <RJW_UnknownEgg.label>Яйцо</RJW_UnknownEgg.label>
 
 
-  <!-- Rim of Madness - Arachnophobia -->
+  <!-- vanilla insects, can fertilize each other -->
 
-  <RJW_ROMA_SpiderEgg.label>Яйцо Паука</RJW_ROMA_SpiderEgg.label>
-  <RJW_ROMA_GiantSpiderEgg.label>Яйцо Гиганского Паука</RJW_ROMA_GiantSpiderEgg.label>
-  <RJW_ROMA_GiantQueenSpiderEgg.label>Яйцо Королевы Гиганских Пауков</RJW_ROMA_GiantQueenSpiderEgg.label>
-  <RJW_AA_BarbslingerEgg.label>Яйцо Шиповяза</RJW_AA_BarbslingerEgg.label>
-  <RJW_AA_BedBugEgg.label>Яйцо Клопа</RJW_AA_BedBugEgg.label>
-  <RJW_AA_BlackScarabEgg.label>Яйцо Черного скарабея</RJW_AA_BlackScarabEgg.label>
-  <RJW_AA_BlackSpelopedeEgg.label>Яйцо Черной Скалоножки</RJW_AA_BlackSpelopedeEgg.label>
-  <RJW_AA_BlackSpiderEgg.label>Яйцо Черного Паука</RJW_AA_BlackSpiderEgg.label>
-  <RJW_AA_BlizzariskEgg.label>Яйцо Пургалиска</RJW_AA_BlizzariskEgg.label>
-  <RJW_AA_BlizzariskClutchMotherEgg.label>Яйцо Матери выводка Пургалисков</RJW_AA_BlizzariskClutchMotherEgg.label>
-  <RJW_AA_BumbledroneEgg.label>Яйцо Шмеледрона</RJW_AA_BumbledroneEgg.label>
-  <RJW_AA_BumbledroneQueenEgg.label>Яйцо Кролевый Шмеледронов</RJW_AA_BumbledroneQueenEgg.label>
-  <RJW_AA_DunealiskEgg.label>Яйцо Дюналиска</RJW_AA_DunealiskEgg.label>
-  <RJW_AA_DunealiskClutchMotherEgg.label>Яйцо Матери выводка Дюналисков</RJW_AA_DunealiskClutchMotherEgg.label>
-  <RJW_AA_FeraliskEgg.label>Яйцо Диколиска</RJW_AA_FeraliskEgg.label>
-  <RJW_AA_FeraliskClutchMotherEgg.label>Яйцо Матери выводка Диколисков</RJW_AA_FeraliskClutchMotherEgg.label>
-  <RJW_AA_FrostmiteEgg.label>Яйцо Ледоклеща</RJW_AA_FrostmiteEgg.label>
-  <RJW_AA_MammothWormEgg.label>Яйцо Червемамонта</RJW_AA_MammothWormEgg.label>
-  <RJW_AA_MegaLouseEgg.label>Яйцо Мегалуза</RJW_AA_MegaLouseEgg.label>
-  <RJW_AA_ThermadonEgg.label>Яйцо Термадона</RJW_AA_ThermadonEgg.label>
-
-
-  <!-- Ni'Hal -->
-
-  <RJW_NiHalEgg.label>Яйцо НиХал</RJW_NiHalEgg.label>
+  <RJW_InsectHiveEgg.label>Яйцо</RJW_InsectHiveEgg.label>
 
 
 </LanguageData>

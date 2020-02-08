@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MorphineHigh.stages.0.label>воздействие морфина</MorphineHigh.stages.0.label>
+  <MorphineHigh.stages.0.description>Морфин действительно снимает боль, что очень здорово.</MorphineHigh.stages.0.description>
+
+  <MorphineWithdrawal.stages.1.label>морфиновая ломка</MorphineWithdrawal.stages.1.label>
+  <MorphineWithdrawal.stages.1.description>Я замерзаю и потею. Все болит, и мое сердце трепещет.</MorphineWithdrawal.stages.1.description>
+
+
+</LanguageData>

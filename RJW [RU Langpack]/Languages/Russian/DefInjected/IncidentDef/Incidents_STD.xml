@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Disease_Boobitis.label>бубитис механиты</Disease_Boobitis.label>
+  <Disease_Boobitis.letterText>{0} из вашего {1} заболели от {2}.\n\nУбедитесь, что у вас есть медицинская кровать и врач. Убедитесь, что они получают надлежащее лечение и проводят в постели как можно больше времени.\n\nСледующие {1} заболели:\n\n{3}</Disease_Boobitis.letterText>
+  <Disease_Boobitis.letterLabel>Болезнь (бубитис механиты)</Disease_Boobitis.letterLabel>
+
+
+</LanguageData>

@@ -9,7 +9,7 @@
 
   <!-- This only exists separately from BabyState to get around a bug making children drop their weapons on savegame load. -->
 
-  <RJW_NoManipulationFlag.label>не может манипулировать объектами</RJW_NoManipulationFlag.label>
+  <RJW_NoManipulationFlag.label>Слишком молод, чтобы работать</RJW_NoManipulationFlag.label>
 
 
 </LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Morphine.label>морфин</Morphine.label>
+  <Morphine.description>Сильное болеутоляющее класса опиатов. Несмотря на свою эффективность, опиаты часто сопровождаются побочными эффектами и риском наркомании при повторном использовании.</Morphine.description>
+  <Morphine.ingestible.ingestCommandString>Взять {0}</Morphine.ingestible.ingestCommandString>
+  <Morphine.ingestible.ingestReportString>Берет {0}.</Morphine.ingestible.ingestReportString>
+
+
+</LanguageData>

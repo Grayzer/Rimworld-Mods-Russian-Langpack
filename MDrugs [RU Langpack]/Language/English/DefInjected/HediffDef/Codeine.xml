@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CodeineHigh.label>high on codeine</CodeineHigh.label>
+  <CodeineHigh.labelNoun>a codeine high</CodeineHigh.labelNoun>
+
+  <CodeineTolerance.label>codeine tolerance</CodeineTolerance.label>
+  <CodeineTolerance.stages.0.label>small</CodeineTolerance.stages.0.label>
+  <CodeineTolerance.stages.1.label>small</CodeineTolerance.stages.1.label>
+  <CodeineTolerance.stages.2.label>large</CodeineTolerance.stages.2.label>
+  <CodeineTolerance.stages.3.label>massive</CodeineTolerance.stages.3.label>
+
+  <CodeineAddiction.label>codeine addiction</CodeineAddiction.label>
+  <CodeineAddiction.stages.1.label>withdrawal</CodeineAddiction.stages.1.label>
+
+
+</LanguageData>

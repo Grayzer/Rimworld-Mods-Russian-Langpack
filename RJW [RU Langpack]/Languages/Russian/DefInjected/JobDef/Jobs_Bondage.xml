@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <StruggleInBondageGear.reportString>бореться</StruggleInBondageGear.reportString>
-  <UnlockBondageGear.reportString>снимает бондаж</UnlockBondageGear.reportString>
-  <GiveBondageGear.reportString>одевает бондаж</GiveBondageGear.reportString>
+  <StruggleInBondageGear.reportString>сопротивляется</StruggleInBondageGear.reportString>
+  <UnlockBondageGear.reportString>снимает</UnlockBondageGear.reportString>
+  <GiveBondageGear.reportString>надевает</GiveBondageGear.reportString>
 
 
 </LanguageData>

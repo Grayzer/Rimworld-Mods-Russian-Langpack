@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MorphineHigh.label>high on morphine</MorphineHigh.label>
+  <MorphineHigh.labelNoun>a morphine high</MorphineHigh.labelNoun>
+
+  <MorphineTolerance.label>morphine tolerance</MorphineTolerance.label>
+  <MorphineTolerance.stages.0.label>small</MorphineTolerance.stages.0.label>
+  <MorphineTolerance.stages.1.label>small</MorphineTolerance.stages.1.label>
+  <MorphineTolerance.stages.2.label>large</MorphineTolerance.stages.2.label>
+  <MorphineTolerance.stages.3.label>massive</MorphineTolerance.stages.3.label>
+
+  <MorphineAddiction.label>morphine addiction</MorphineAddiction.label>
+  <MorphineAddiction.stages.1.label>withdrawal</MorphineAddiction.stages.1.label>
+
+
+</LanguageData>

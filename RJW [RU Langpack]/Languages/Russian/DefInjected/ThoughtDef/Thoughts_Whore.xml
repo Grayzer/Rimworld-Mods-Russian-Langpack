@@ -3,12 +3,12 @@
 
   <!-- Used to keep track of customers, so a whore doesn't repeatedly solicit the same guest -->
 
-  <RJWFailedSolicitation.stages.0.label>пытался попросить меня</RJWFailedSolicitation.stages.0.label>
+  <RJWFailedSolicitation.stages.0.label>пытался приставать ко мне</RJWFailedSolicitation.stages.0.label>
 
 
   <!-- Same as above, but for colonists -->
 
-  <RJWTurnedDownWhore.stages.0.label>надоело мне</RJWTurnedDownWhore.stages.0.label>
+  <RJWTurnedDownWhore.stages.0.label>надоел мне</RJWTurnedDownWhore.stages.0.label>
 
 
 </LanguageData>

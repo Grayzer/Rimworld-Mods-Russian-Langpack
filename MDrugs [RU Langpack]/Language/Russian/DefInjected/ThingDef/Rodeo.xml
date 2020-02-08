@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rodeo.label>родео</Rodeo.label>
+  <Rodeo.description>Получил свое название из-за предубеждения, что тот, кто принимает этот препарат, имеет свое заключительное родео, Родео выводит ваше тело далеко за его естественные пределы, часто нанося непоправимый ущерб в процессе. Родео обычно используется в качестве последнего средства в бою.</Rodeo.description>
+  <Rodeo.ingestible.ingestCommandString>Инъекция {0}</Rodeo.ingestible.ingestCommandString>
+  <Rodeo.ingestible.ingestReportString>Вводит инъекцию {0}.</Rodeo.ingestible.ingestReportString>
+
+
+</LanguageData>

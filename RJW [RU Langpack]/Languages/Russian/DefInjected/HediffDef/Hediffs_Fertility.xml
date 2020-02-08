@@ -3,9 +3,9 @@
 
   <RJW_IUD.label>Спираль</RJW_IUD.label>
   <IncreasedFertility.label>Повышенная фертильность</IncreasedFertility.label>
-  <DecreasedFertility.label>Низкая фертильность</DecreasedFertility.label>
+  <DecreasedFertility.label>Пониженная фертильность</DecreasedFertility.label>
   <ImpregnationBlocker.label>Архотек блокатор фертильности</ImpregnationBlocker.label>
-  <FertilityEnhancer.label>Архотек повышатель фертильности</FertilityEnhancer.label>
+  <FertilityEnhancer.label>Архотек стимулятор фертильности</FertilityEnhancer.label>
 
 
 </LanguageData>

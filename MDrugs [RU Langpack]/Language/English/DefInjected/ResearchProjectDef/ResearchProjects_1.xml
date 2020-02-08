@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AntibioticProduction.label>antibiotic production</AntibioticProduction.label>
+  <AntibioticProduction.description>Produce antibiotics to treat infections and disease.</AntibioticProduction.description>
+
+  <Coagulation.label>coagulation</Coagulation.label>
+  <Coagulation.description>Produce anticoagulants and procoagulants to alter blood flow.</Coagulation.description>
+
+  <OpiateProduction.label>opiate production</OpiateProduction.label>
+  <OpiateProduction.description>Allows for the refining of opium for use in drug making.</OpiateProduction.description>
+
+  <OpioidSynthesizing.label>opioid synthesizing</OpioidSynthesizing.label>
+  <OpioidSynthesizing.description>Synthesize strong opioids without the use of opium.</OpioidSynthesizing.description>
+
+  <RodeoProduction.label>rodeo production</RodeoProduction.label>
+  <RodeoProduction.description>Produce Rodeo, one of life's darker secrets.</RodeoProduction.description>
+
+
+</LanguageData>

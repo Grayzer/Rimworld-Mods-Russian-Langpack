@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rodeo.label>rodeo</Rodeo.label>
+  <Rodeo.description>Earning its name from the preconception that one taking this drug is having one final rodeo, Rodeo will push one's body far past its natural limits, often causing irreparable damage in the process.
+    Rodeo is typically taken as a last resort in combat.</Rodeo.description>
+  <Rodeo.ingestible.ingestCommandString>Inject {0}</Rodeo.ingestible.ingestCommandString>
+  <Rodeo.ingestible.ingestReportString>Injecting {0}.</Rodeo.ingestible.ingestReportString>
+
+
+</LanguageData>

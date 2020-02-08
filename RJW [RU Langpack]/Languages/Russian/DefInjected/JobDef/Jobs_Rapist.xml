@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ComfortPrisonerRapin.reportString>насилует</ComfortPrisonerRapin.reportString>
-  <RandomRape.reportString>случайное изнасилование.</RandomRape.reportString>
-  <RapeEnemy.reportString>Насилует врага</RapeEnemy.reportString>
-  <RapeEnemyByInsect.reportString>Насилует врага</RapeEnemyByInsect.reportString>
-  <RapeEnemyByAnimal.reportString>Насилует врага</RapeEnemyByAnimal.reportString>
-  <RapeEnemyByMech.reportString>Насилует врага</RapeEnemyByMech.reportString>
-  <RapeEnemyToParasite.reportString>Насилует врага</RapeEnemyToParasite.reportString>
+  <ComfortPrisonerRapin.reportString>насилует ЗК</ComfortPrisonerRapin.reportString>
+  <RandomRape.reportString>случайное изнасилование</RandomRape.reportString>
+  <RapeEnemy.reportString>насилует врага</RapeEnemy.reportString>
+  <RapeEnemyByInsect.reportString>насилует врага</RapeEnemyByInsect.reportString>
+  <RapeEnemyByAnimal.reportString>насилует врага</RapeEnemyByAnimal.reportString>
+  <RapeEnemyByMech.reportString>насилует врага</RapeEnemyByMech.reportString>
+  <RapeEnemyToParasite.reportString>насилует врага</RapeEnemyToParasite.reportString>
 
 
 </LanguageData>

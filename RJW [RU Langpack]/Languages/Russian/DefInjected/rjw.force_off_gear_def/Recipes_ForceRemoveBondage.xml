@@ -5,9 +5,17 @@
   <ForceOffArmbinder.description>Принудительно снимает наручники без ключа, нанося значительный ущерб пользователю.</ForceOffArmbinder.description>
   <ForceOffArmbinder.jobString>Принудительно снимает наручники.</ForceOffArmbinder.jobString>
 
-  <ForceOffGag.label>принудительно снять кляп</ForceOffGag.label>
-  <ForceOffGag.description>Принудительно снимает кляп без ключа, нанося значительный ущерб пользователю.</ForceOffGag.description>
-  <ForceOffGag.jobString>Принудительно снимает кляп.</ForceOffGag.jobString>
+  <ForceOffBallGag.label>принудительно снять шарик-кляп</ForceOffBallGag.label>
+  <ForceOffBallGag.description>Принудительно снимает кляп без ключа, нанося значительный ущерб пользователю.</ForceOffBallGag.description>
+  <ForceOffBallGag.jobString>Принудительно снимает кляп.</ForceOffBallGag.jobString>
+
+  <ForceOffRingGag.label>принудительно снять кольцо-кляп</ForceOffRingGag.label>
+  <ForceOffRingGag.description>Принудительно снимает кляп без ключа, нанося значительный ущерб пользователю.</ForceOffRingGag.description>
+  <ForceOffRingGag.jobString>Принудительно снимает кляп.</ForceOffRingGag.jobString>
+
+  <ForceOffChastityBeltOpen.label>принудительно снять пояс верности(Открытый)</ForceOffChastityBeltOpen.label>
+  <ForceOffChastityBeltOpen.description>Принудительно снимает пояс верности без ключа, нанося значительный ущерб пользователю.</ForceOffChastityBeltOpen.description>
+  <ForceOffChastityBeltOpen.jobString>Принудительно снимает пояс верности.</ForceOffChastityBeltOpen.jobString>
 
   <ForceOffChastityBelt.label>принудительно снять пояс верности</ForceOffChastityBelt.label>
   <ForceOffChastityBelt.description>Принудительно снимает пояс верности без ключа, нанося значительный ущерб пользователю.</ForceOffChastityBelt.description>

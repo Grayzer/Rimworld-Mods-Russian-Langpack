@@ -1,18 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HorsePenis.label>Конский пенис</HorsePenis.label>
-  <HorseVagina.label>Лошадиная вагина</HorseVagina.label>
-  <CatPenis.label>Кошачий пенис</CatPenis.label>
-  <CatVagina.label>Кошачья вагина</CatVagina.label>
-  <DogPenis.label>Собачий пенис</DogPenis.label>
-  <DogVagina.label>Собачья вагина</DogVagina.label>
-  <DragonPenis.label>Драконий пенис</DragonPenis.label>
-  <DragonVagina.label>Драконья вагина</DragonVagina.label>
-  <RaccoonPenis.label>Енотный пенис</RaccoonPenis.label>
-  <Hemipenis.label>Гемипенис</Hemipenis.label>
-  <CrocodilianPenis.label>Крокодилий пенис</CrocodilianPenis.label>
+  <HorsePenis.label>конский пенис</HorsePenis.label>
+  <HorseVagina.label>лошадиная вагина</HorseVagina.label>
+  <CatPenis.label>кошачий пенис</CatPenis.label>
+  <CatVagina.label>кошачья вагина</CatVagina.label>
+  <DogPenis.label>собачий пенис</DogPenis.label>
+  <DogVagina.label>собачья вагина</DogVagina.label>
+  <DragonPenis.label>драконий пенис</DragonPenis.label>
+  <DragonVagina.label>драконья вагина</DragonVagina.label>
+  <RaccoonPenis.label>енотовидный пенис</RaccoonPenis.label>
+  <Hemipenis.label>гемипенис</Hemipenis.label>
+  <CrocodilianPenis.label>крокодиловый пенис</CrocodilianPenis.label>
   <Udder.label>Вымя</Udder.label>
+  <NarrowVagina.label>сужающаяся вагина</NarrowVagina.label>
+  <NeedlePenis.label>сужающийся пенис</NeedlePenis.label>
+  <CloacalVagina.label>клоачная вагина</CloacalVagina.label>
+  <CloacalPenis.label>клоачный пенис</CloacalPenis.label>
+  <RodentVagina.label>грызуновая вагина</RodentVagina.label>
+  <RodentPenis.label>грызуновый пенис</RodentPenis.label>
+  <CloacalAnus.label>клоачный анус</CloacalAnus.label>
 
 
 </LanguageData>

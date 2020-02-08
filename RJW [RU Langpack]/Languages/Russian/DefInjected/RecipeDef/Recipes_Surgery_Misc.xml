@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- targetsBodyPart>true</targetsBodyPart -->
@@ -12,11 +12,11 @@
 
   <RJW_InstallIUD.label>установить Спираль</RJW_InstallIUD.label>
   <RJW_InstallIUD.description>Предотвращает размножение временно. подлежит восстановлению в любое время.</RJW_InstallIUD.description>
-  <RJW_InstallIUD.jobString>установка Спирали.</RJW_InstallIUD.jobString>
+  <RJW_InstallIUD.jobString>Установка Спирали.</RJW_InstallIUD.jobString>
 
   <RJW_RemovelIUD.label>удалить Спираль</RJW_RemovelIUD.label>
   <RJW_RemovelIUD.description>Восстанавливает возможность размножения.</RJW_RemovelIUD.description>
-  <RJW_RemovelIUD.jobString>удаление Спирали.</RJW_RemovelIUD.jobString>
+  <RJW_RemovelIUD.jobString>Удаление Спирали.</RJW_RemovelIUD.jobString>
 
   <InstallPegArm.label>установить деревянную руку</InstallPegArm.label>
   <InstallPegArm.description>Устанавливает деревянную руку.</InstallPegArm.description>

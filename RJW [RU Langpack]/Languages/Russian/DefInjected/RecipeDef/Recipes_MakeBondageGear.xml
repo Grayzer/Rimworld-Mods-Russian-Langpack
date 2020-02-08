@@ -9,13 +9,25 @@
   <MakeArmbinder.description>Сделать наручники.</MakeArmbinder.description>
   <MakeArmbinder.jobString>Делает наручники.</MakeArmbinder.jobString>
 
-  <MakeGag.label>сделать кляп</MakeGag.label>
-  <MakeGag.description>Сделать кляп.</MakeGag.description>
-  <MakeGag.jobString>Делает кляп.</MakeGag.jobString>
+  <MakeBallGag.label>сделать шарик-кляп</MakeBallGag.label>
+  <MakeBallGag.description>Сделать кляп в виде шарика, мешает говорить.</MakeBallGag.description>
+  <MakeBallGag.jobString>Делает кляп.</MakeBallGag.jobString>
+
+  <MakeRingGag.label>сделать кольцо-кляп</MakeRingGag.label>
+  <MakeRingGag.description>Сделать кляп в виде кольца, мешает говорить.</MakeRingGag.description>
+  <MakeRingGag.jobString>Делает кляп.</MakeRingGag.jobString>
 
   <MakeChastityBelt.label>сделать пояс верности</MakeChastityBelt.label>
-  <MakeChastityBelt.description>Сделать пояс верности.</MakeChastityBelt.description>
+  <MakeChastityBelt.description>Сделать пояс верности, предотвращает доступ к гениталиям и анусу.</MakeChastityBelt.description>
   <MakeChastityBelt.jobString>Делает пояс верности.</MakeChastityBelt.jobString>
+
+  <MakeChastityBeltO.label>сделать пояс верности(открытый)</MakeChastityBeltO.label>
+  <MakeChastityBeltO.description>Сделать пояс верности, предотвращает доступ к гениталиям, имеет отверстие для анального секса.</MakeChastityBeltO.description>
+  <MakeChastityBeltO.jobString>Делает пояс верности.</MakeChastityBeltO.jobString>
+
+  <MakeChastityCage.label>сделать клетку верности</MakeChastityCage.label>
+  <MakeChastityCage.description>Сделать клетку верности, предотвращающую эрекцию.</MakeChastityCage.description>
+  <MakeChastityCage.jobString>Делает клетку верности.</MakeChastityCage.jobString>
 
   <MakePrisonerChains.label>сделать цепи</MakePrisonerChains.label>
   <MakePrisonerChains.description>Сделать ограничительные цепи.</MakePrisonerChains.description>

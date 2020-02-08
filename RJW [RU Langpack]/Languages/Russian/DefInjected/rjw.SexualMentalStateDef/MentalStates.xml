@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <RandomRape.label>случайное изнасилование</RandomRape.label>
   <RandomRape.beginLetterLabel>случайное изнасилование</RandomRape.beginLetterLabel>
-  <RandomRape.beginLetter>{0} сексуально расстроен и ищет цель изнасилования.</RandomRape.beginLetter>
-  <RandomRape.recoveryMessage>{0} сексуально удовлетворен и больше не насилует случайных.</RandomRape.recoveryMessage>
+  <RandomRape.beginLetter>{0} имеет сексуальное расстройство и ищет цель изнасилования.</RandomRape.beginLetter>
+  <RandomRape.recoveryMessage>{0} имеет сексуальное удовлетворение и больше не насилует случайных.</RandomRape.recoveryMessage>
   <RandomRape.baseInspectLine>Психическое состояние: Случайное изнасилование</RandomRape.baseInspectLine>
 
 

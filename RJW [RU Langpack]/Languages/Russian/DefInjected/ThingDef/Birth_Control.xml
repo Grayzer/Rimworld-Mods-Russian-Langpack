@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Condom.label>Презерватив</Condom.label>
+  <Condom.description>Предотвращает единственный случай беременности.</Condom.description>
+
+  <UsedCondom.label>Использованный презерватив</UsedCondom.label>
+  <UsedCondom.description>Презерватив полный спермы.</UsedCondom.description>
+
+
+</LanguageData>

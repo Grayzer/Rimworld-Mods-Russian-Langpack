@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Consumable item -->
 
-  <HumpShroomEffect.label>индуцированное либидо</HumpShroomEffect.label>
+  <HumpShroomEffect.label>Индуцированное либидо</HumpShroomEffect.label>
 
 
   <!-- Ambrosia addiction -->
@@ -15,7 +15,7 @@
   <HumpShroomTolerance.stages.3.label>массивная</HumpShroomTolerance.stages.3.label>
 
   <HumpShroomAddiction.label>зависимость от казановника</HumpShroomAddiction.label>
-  <HumpShroomAddiction.stages.1.label>отходняк</HumpShroomAddiction.stages.1.label>
+  <HumpShroomAddiction.stages.1.label>абстиненция</HumpShroomAddiction.stages.1.label>
 
 
 </LanguageData>

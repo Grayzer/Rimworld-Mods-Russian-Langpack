@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RodeoHigh.stages.0.label>воздействие родео</RodeoHigh.stages.0.label>
+  <RodeoHigh.stages.0.description>Я больше чем человек.</RodeoHigh.stages.0.description>
+
+
+  <!-- rodeo addiction -->
+
+  <RodeoWithdrawal.stages.1.label>родео ломка</RodeoWithdrawal.stages.1.label>
+  <RodeoWithdrawal.stages.1.description>Я не вижу! Я так слаб и не могу справиться с болью.</RodeoWithdrawal.stages.1.description>
+
+
+</LanguageData>

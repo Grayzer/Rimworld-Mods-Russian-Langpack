@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Counts masturbation -->
 
-  <CountOfFappin.label>мастурбаций закончено</CountOfFappin.label>
-  <CountOfFappin.description>Сколько раз я мастурбировал.</CountOfFappin.description>
+  <CountOfFappin.label>количество мастурбаций</CountOfFappin.label>
+  <CountOfFappin.description>Количество моих мастурбаций.</CountOfFappin.description>
 
 
   <!-- Counts all sex -->
 
-  <CountOfSex.label>занятий сексом</CountOfSex.label>
+  <CountOfSex.label>количество секса</CountOfSex.label>
   <CountOfSex.description>Сколько секса у меня было.</CountOfSex.description>
 
 
@@ -57,29 +57,32 @@
   <CountOfBeenRapedByOthers.label>изнасилований от других</CountOfBeenRapedByOthers.label>
   <CountOfBeenRapedByOthers.description>Сколько раз насиловали меня другие.</CountOfBeenRapedByOthers.description>
 
-  <GetRapedAsComfortPrisoner.label>изнасилований для комфорта колонистов</GetRapedAsComfortPrisoner.label>
-  <GetRapedAsComfortPrisoner.description>Сколько раз насиловали меня для комфорта заключенных и колонистов.</GetRapedAsComfortPrisoner.description>
+  <GetRapedAsComfortPrisoner.label>изнасилований меня как ЗК</GetRapedAsComfortPrisoner.label>
+  <GetRapedAsComfortPrisoner.description>Сколько раз насиловали меня для ЗК и колонистов.</GetRapedAsComfortPrisoner.description>
 
 
   <!-- Counts whore stuff -->
 
-  <CountOfWhore.label>распутство</CountOfWhore.label>
-  <CountOfWhore.description>Сколько раз я блудил.</CountOfWhore.description>
+  <CountOfWhore.label>проституция</CountOfWhore.label>
+  <CountOfWhore.description>Сколько раз я занимался протитуцией.</CountOfWhore.description>
 
-  <EarnedMoneyByWhore.label>заработано серебра за распутство</EarnedMoneyByWhore.label>
+  <EarnedMoneyByWhore.label>заработано серебра за проституцию</EarnedMoneyByWhore.label>
   <EarnedMoneyByWhore.description>Количество серебра, заработанное мной как шлюхой.</EarnedMoneyByWhore.description>
 
 
   <!-- Counts birthing -->
 
-  <CountOfBirthHuman.label>количество рождений людей</CountOfBirthHuman.label>
+  <CountOfBirthHuman.label>рождено людей</CountOfBirthHuman.label>
   <CountOfBirthHuman.description>Сколько мной рождено людей.</CountOfBirthHuman.description>
 
-  <CountOfBirthAnimal.label>количество рождений животных</CountOfBirthAnimal.label>
+  <CountOfBirthAnimal.label>рождено животных</CountOfBirthAnimal.label>
   <CountOfBirthAnimal.description>Сколько мной рождено животных.</CountOfBirthAnimal.description>
 
-  <CountOfBirthInsect.label>количество рождений инсектов</CountOfBirthInsect.label>
-  <CountOfBirthInsect.description>Сколько мной рождено инсектов.</CountOfBirthInsect.description>
+  <CountOfBirthEgg.label>рождено яиц</CountOfBirthEgg.label>
+  <CountOfBirthEgg.description>Сколько мной рождено яиц.</CountOfBirthEgg.description>
+
+  <CountOfCondomsUsed.label>использовано презервативов used</CountOfCondomsUsed.label>
+  <CountOfCondomsUsed.description>Сколько мной использовано презервативов.</CountOfCondomsUsed.description>
 
 
 </LanguageData>

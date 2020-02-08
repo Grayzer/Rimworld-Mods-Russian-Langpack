@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Nymphomaniac.degreeDatas.0.label>Нимфомания</Nymphomaniac.degreeDatas.0.label>
-  <Nymphomaniac.degreeDatas.0.description>NAME любит секс и всегда хочет большего.</Nymphomaniac.degreeDatas.0.description>
+  <Nymphomaniac.degreeDatas.0.label>нимфомания</Nymphomaniac.degreeDatas.0.label>
+  <Nymphomaniac.degreeDatas.0.description>[PAWN_nameDef] любит секс и всегда хочет большего.</Nymphomaniac.degreeDatas.0.description>
 
-  <Rapist.degreeDatas.0.label>Насильник</Rapist.degreeDatas.0.label>
-  <Rapist.degreeDatas.0.description>Для NAME 'Нет!' это не ответ.</Rapist.degreeDatas.0.description>
+  <Rapist.degreeDatas.0.label>насильник</Rapist.degreeDatas.0.label>
+  <Rapist.degreeDatas.0.description>[PAWN_nameDef] не принимает ответ Нет!</Rapist.degreeDatas.0.description>
 
-  <Necrophiliac.degreeDatas.0.label>Некрофилия</Necrophiliac.degreeDatas.0.label>
+  <Necrophiliac.degreeDatas.0.label>некрофилия</Necrophiliac.degreeDatas.0.label>
   <Necrophiliac.degreeDatas.0.description>Мертвые не говорят нет...</Necrophiliac.degreeDatas.0.description>
 
-  <Zoophile.degreeDatas.0.label>Зоофилия</Zoophile.degreeDatas.0.label>
-  <Zoophile.degreeDatas.0.description>NAME любит дикую природу.</Zoophile.degreeDatas.0.description>
+  <Zoophile.degreeDatas.0.label>зоофилия</Zoophile.degreeDatas.0.label>
+  <Zoophile.degreeDatas.0.description>[PAWN_nameDef] любит дикую природу.</Zoophile.degreeDatas.0.description>
 
 
 </LanguageData>

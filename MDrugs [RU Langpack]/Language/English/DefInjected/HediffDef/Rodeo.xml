@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RodeoHigh.label>high on rodeo</RodeoHigh.label>
+  <RodeoHigh.labelNoun>a rodeo high</RodeoHigh.labelNoun>
+
+
+  <!-- rodeo addiction -->
+
+  <RodeoTolerance.label>rodeo tolerance</RodeoTolerance.label>
+  <RodeoTolerance.stages.0.label>small</RodeoTolerance.stages.0.label>
+  <RodeoTolerance.stages.1.label>small</RodeoTolerance.stages.1.label>
+  <RodeoTolerance.stages.2.label>large</RodeoTolerance.stages.2.label>
+  <RodeoTolerance.stages.3.label>massive</RodeoTolerance.stages.3.label>
+
+  <RodeoAddiction.label>rodeo addiction</RodeoAddiction.label>
+  <RodeoAddiction.stages.1.label>withdrawal</RodeoAddiction.stages.1.label>
+
+
+</LanguageData>
