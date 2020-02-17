@@ -3,6 +3,12 @@
 
   <!-- Advanced AI Chips -->
 
+  <FSFAIChipColonist.label>Продвинутый ИИ-чип (Колонист)</FSFAIChipColonist.label>
+  <FSFAIChipColonist.labelNoun>это Продвинутый ИИ-чип (Колонист)</FSFAIChipColonist.labelNoun>
+
+  <FSFAIChipMelee.label>Продвинутый ИИ-чип (Ближний бой)</FSFAIChipMelee.label>
+  <FSFAIChipMelee.labelNoun>это Продвинутый ИИ-чип (Ближний бой)</FSFAIChipMelee.labelNoun>
+
   <FSFAIChipMelee.label>Продвинутый ИИ-чип (Ближний бой)</FSFAIChipMelee.label>
   <FSFAIChipMelee.labelNoun>это Продвинутый ИИ-чип (Ближний бой)</FSFAIChipMelee.labelNoun>
 

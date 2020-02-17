@@ -3,6 +3,10 @@
 
   <!-- Advanced AI Chip Body Parts -->
 
+  <InstallFSFAIChipColonist.label>установить Продвинутый ИИ-чип (Колонист)</InstallFSFAIChipColonist.label>
+  <InstallFSFAIChipColonist.description>Установить Продвинутый ИИ-чип (Колонист).</InstallFSFAIChipColonist.description>
+  <InstallFSFAIChipColonist.jobString>Устананавливает Продвинутый ИИ-чип (Колонист).</InstallFSFAIChipColonist.jobString>
+
   <InstallFSFAIChipMelee.label>установить Продвинутый ИИ-чип (Ближний бой)</InstallFSFAIChipMelee.label>
   <InstallFSFAIChipMelee.description>Установить Продвинутый ИИ-чип (Ближний бой).</InstallFSFAIChipMelee.description>
   <InstallFSFAIChipMelee.jobString>Устананавливает Продвинутый ИИ-чип (Ближний бой).</InstallFSFAIChipMelee.jobString>

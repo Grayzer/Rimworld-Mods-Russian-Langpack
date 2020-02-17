@@ -6,6 +6,10 @@
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
+  <Make_FSFAIChipColonist.label>сделать Продвинутый ИИ-чип (Колонист)</Make_FSFAIChipColonist.label>
+  <Make_FSFAIChipColonist.description>Сделать Продвинутый ИИ-чип (Колонист).</Make_FSFAIChipColonist.description>
+  <Make_FSFAIChipColonist.jobString>Делает Продвинутый ИИ-чип (Колонист).</Make_FSFAIChipColonist.jobString>
+
   <Make_FSFAIChipMelee.label>сделать Продвинутый ИИ-чип (Ближний бой)</Make_FSFAIChipMelee.label>
   <Make_FSFAIChipMelee.description>Сделать Продвинутый ИИ-чип (Ближний бой).</Make_FSFAIChipMelee.description>
   <Make_FSFAIChipMelee.jobString>Делает Продвинутый ИИ-чип (Ближний бой).</Make_FSFAIChipMelee.jobString>
@@ -74,6 +78,10 @@
   <Make_FSFAdvBionicPowerArm.description>Сделать продвинутую бионическую силовую руку.</Make_FSFAdvBionicPowerArm.description>
   <Make_FSFAdvBionicPowerArm.jobString>Делает продвинутую бионическую силовую руку.</Make_FSFAdvBionicPowerArm.jobString>
 
+  <Make_FSFAdvBionicTaserArm.label>сделать продвинутую бионическую шоковую руку</Make_FSFAdvBionicTaserArm.label>
+  <Make_FSFAdvBionicTaserArm.description>Сделать продвинутую бионическую шоковую руку.</Make_FSFAdvBionicTaserArm.description>
+  <Make_FSFAdvBionicTaserArm.jobString>Делает продвинутую бионическую шоковую руку.</Make_FSFAdvBionicTaserArm.jobString>
+
   <Make_FSFAdvBionicEar.label>сделать продвинутое бионическое ухо</Make_FSFAdvBionicEar.label>
   <Make_FSFAdvBionicEar.description>Сделать продвинутое бионическое ухо.</Make_FSFAdvBionicEar.description>
   <Make_FSFAdvBionicEar.jobString>Делает продвинутое бионическое ухо.</Make_FSFAdvBionicEar.jobString>
@@ -106,6 +114,10 @@
   <Make_FSFAdvBionicStomach.description>Сделать продвинутый бионический желудок.</Make_FSFAdvBionicStomach.description>
   <Make_FSFAdvBionicStomach.jobString>Делает продвинутый бионический желудок.</Make_FSFAdvBionicStomach.jobString>
 
+  <Make_FSFAdvEfficientStomach.label>сделать продвинутый метаболический желудок</Make_FSFAdvEfficientStomach.label>
+  <Make_FSFAdvEfficientStomach.description>Сделать продвинутый метаболический желудок.</Make_FSFAdvEfficientStomach.description>
+  <Make_FSFAdvEfficientStomach.jobString>Делает продвинутый метаболический желудок.</Make_FSFAdvEfficientStomach.jobString>
+
   <Make_FSFImplantCombatModule.label>сделать Продвинутый Боевой Модуль</Make_FSFImplantCombatModule.label>
   <Make_FSFImplantCombatModule.description>Сделать Продвинутый Боевой Модуль.</Make_FSFImplantCombatModule.description>
   <Make_FSFImplantCombatModule.jobString>Делает Продвинутый Боевой Модуль.</Make_FSFImplantCombatModule.jobString>
@@ -129,6 +141,10 @@
   <Make_FSFImplantSubdermalArmor.label>сделать Продвинутую Суб-дермальную Броню</Make_FSFImplantSubdermalArmor.label>
   <Make_FSFImplantSubdermalArmor.description>Сделать Продвинутую Суб-дермальную Броню.</Make_FSFImplantSubdermalArmor.description>
   <Make_FSFImplantSubdermalArmor.jobString>Делает Продвинутую Суб-дермальную Броню.</Make_FSFImplantSubdermalArmor.jobString>
+
+  <Make_FSFImplantSubdermalArmorMkII.label>сделать Продвинутую Суб-дермальную Броню Mk2</Make_FSFImplantSubdermalArmorMkII.label>
+  <Make_FSFImplantSubdermalArmorMkII.description>Сделать Продвинутую Суб-дермальную Броню Mk2.</Make_FSFImplantSubdermalArmorMkII.description>
+  <Make_FSFImplantSubdermalArmorMkII.jobString>Делает Продвинутую Суб-дермальную Броню Mk2.</Make_FSFImplantSubdermalArmorMkII.jobString>
 
 
 </LanguageData>

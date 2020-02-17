@@ -19,6 +19,10 @@
   <InstallFSFAdvBionicPowerArm.description>Установить продвинутую бионическую силовую руку.</InstallFSFAdvBionicPowerArm.description>
   <InstallFSFAdvBionicPowerArm.jobString>Устананавливает продвинутую бионическую силовую руку.</InstallFSFAdvBionicPowerArm.jobString>
 
+  <InstallFSFAdvBionicTaserArm.label>установить продвинутую бионическую шоковую руку</InstallFSFAdvBionicTaserArm.label>
+  <InstallFSFAdvBionicTaserArm.description>Установить продвинутую бионическую шоковую руку.</InstallFSFAdvBionicTaserArm.description>
+  <InstallFSFAdvBionicTaserArm.jobString>Устананавливает продвинутую бионическую шоковую руку.</InstallFSFAdvBionicTaserArm.jobString>
+
   <InstallFSFAdvBionicEar.label>установить продвинутое бионическое ухо</InstallFSFAdvBionicEar.label>
   <InstallFSFAdvBionicEar.description>Установить продвинутое бионическое ухо.</InstallFSFAdvBionicEar.description>
   <InstallFSFAdvBionicEar.jobString>Устананавливает продвинутое бионическое ухо.</InstallFSFAdvBionicEar.jobString>
@@ -50,6 +54,10 @@
   <InstallFSFAdvBionicStomach.label>установить продвинутый бионический желудок</InstallFSFAdvBionicStomach.label>
   <InstallFSFAdvBionicStomach.description>Установить продвинутый бионический желудок.</InstallFSFAdvBionicStomach.description>
   <InstallFSFAdvBionicStomach.jobString>Устананавливает продвинутый бионический желудок.</InstallFSFAdvBionicStomach.jobString>
+
+  <InstallFSFAdvEfficientStomach.label>установить продвинутый метаболический желудок</InstallFSFAdvEfficientStomach.label>
+  <InstallFSFAdvEfficientStomach.description>Установить продвинутый метаболический желудок.</InstallFSFAdvEfficientStomach.description>
+  <InstallFSFAdvEfficientStomach.jobString>Устананавливает продвинутый метаболический желудок.</InstallFSFAdvEfficientStomach.jobString>
 
 
 </LanguageData>
