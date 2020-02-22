@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Item_Skull_Shielding.label>interference shielding</EVOR_Item_Skull_Shielding.label>
+  <EVOR_Item_Skull_Shielding.description>By utilizing a material resistant to psychic effects, we can create a Faraday cage around the brain, allowing the host to withstand any psychic assault.</EVOR_Item_Skull_Shielding.description>
+
+  <EVOR_Item_Skull_Plating.label>cranial plating</EVOR_Item_Skull_Plating.label>
+  <EVOR_Item_Skull_Plating.description>By increasing the resilience of the skull, it becomes much more difficult to damage the brain.</EVOR_Item_Skull_Plating.description>
+
+
+</LanguageData>

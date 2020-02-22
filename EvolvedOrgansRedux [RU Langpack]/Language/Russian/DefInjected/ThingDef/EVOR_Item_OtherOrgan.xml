@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Item_Eye.label>multispectrum eye</EVOR_Item_Eye.label>
+  <EVOR_Item_Eye.description>By integrating cells that allow for collection of light in the ultraviolent and infrared spectrum, these eyes allow for much more spacial awareness for their host.</EVOR_Item_Eye.description>
+
+  <EVOR_Item_Nose.label>micro-analyzer nose</EVOR_Item_Nose.label>
+  <EVOR_Item_Nose.description>Increasing the amount of cells deticated to analyzing specific important molecules, specific scents can be more easily parsed from a blowing wind.</EVOR_Item_Nose.description>
+
+  <EVOR_Item_Nose_Pheromones.label>pheromone releaser nose</EVOR_Item_Nose_Pheromones.label>
+  <EVOR_Item_Nose_Pheromones.description>By adding special pheromone glands to the base of the nose, the host can slightly alter the disposition of those they are communicating with.</EVOR_Item_Nose_Pheromones.description>
+
+  <EVOR_Item_Ear.label>multifrequency ear</EVOR_Item_Ear.label>
+  <EVOR_Item_Ear.description>By increasing the spectrum of frequencies able to be heard, as well as allowing the host to temporarily focus on one frequency, these ears allow the host complete knowledge of the sounds around him.</EVOR_Item_Ear.description>
+
+  <EVOR_Item_Spine.label>neuro-accelerated spine</EVOR_Item_Spine.label>
+  <EVOR_Item_Spine.description>While the gila coating increases signal transmission speeds by an order of magnitude, more significant is the secondary processing nodules, which allow the spinal cord to process lower urgency signals on its own, lowering the load on the brain.</EVOR_Item_Spine.description>
+
+
+</LanguageData>

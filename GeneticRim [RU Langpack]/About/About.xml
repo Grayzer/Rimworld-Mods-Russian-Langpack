@@ -1,8 +1,8 @@
 <ModMetaData>
 	<name>Genetic Rim [RU Langpack]</name>
-
-  <supportedVersions>
-    <li>1.0</li>
-  </supportedVersions>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
 
 </ModMetaData>

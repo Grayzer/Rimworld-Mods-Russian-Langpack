@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Building_Cellbench.label>organ growing worksbench</EVOR_Building_Cellbench.label>
+  <EVOR_Building_Cellbench.description>A place to grow organs that are far more capable than what nature would have given us.</EVOR_Building_Cellbench.description>
+  <EVOR_Building_Cellbench_Blueprint.label>organ growing worksbench (blueprint)</EVOR_Building_Cellbench_Blueprint.label>
+  <EVOR_Building_Cellbench_Blueprint_Install.label>organ growing worksbench (blueprint)</EVOR_Building_Cellbench_Blueprint_Install.label>
+  <EVOR_Building_Cellbench_Frame.label>organ growing worksbench (building)</EVOR_Building_Cellbench_Frame.label>
+  <EVOR_Building_Cellbench_Frame.description>A place to grow organs that are far more capable than what nature would have given us.</EVOR_Building_Cellbench_Frame.description>
+
+
+</LanguageData>

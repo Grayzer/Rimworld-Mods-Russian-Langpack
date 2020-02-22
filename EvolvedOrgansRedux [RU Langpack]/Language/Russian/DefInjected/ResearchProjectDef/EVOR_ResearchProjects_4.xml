@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Research_Start1.label>Raw Protein Extraction</EVOR_Research_Start1.label>
+  <EVOR_Research_Start1.description>With our knowledge of biology, we can extract the raw building blocks out of already differeniated matter.</EVOR_Research_Start1.description>
+
+  <EVOR_Research_Start2.label>Nano-Scale Cellular Engineering</EVOR_Research_Start2.label>
+  <EVOR_Research_Start2.description>By combining our knowledge of biology and bionics, we can engineer nanites that can mold raw biological materials into cells of our choosing.</EVOR_Research_Start2.description>
+
+  <EVOR_Research_Start3.label>Bio-Mechanical Tissue Application</EVOR_Research_Start3.label>
+  <EVOR_Research_Start3.description>Through the selective processes of germinating and stimulating stem cells at the nano-scale with mechanites, it is possible to create simple biological frameworks.</EVOR_Research_Start3.description>
+
+  <EVOR_Research_Organs1.label>Basic Organ Application</EVOR_Research_Organs1.label>
+  <EVOR_Research_Organs1.description>The continued understand of stem cells and mechanite integration has allowed the development of advanced cellular structures which can be utilized to create advanced internal organs.</EVOR_Research_Organs1.description>
+
+  <EVOR_Research_Organs2.label>Complex Organ Application</EVOR_Research_Organs2.label>
+  <EVOR_Research_Organs2.description>Further research into organ creation would allow us to design more efficient versions of all our pre-existing organs.</EVOR_Research_Organs2.description>
+
+  <EVOR_Research_Organs3.label>Advanced Organ Application</EVOR_Research_Organs3.label>
+  <EVOR_Research_Organs3.description>The understanding of the most difficult bodily structures which would unlock the capacity to engineer the most complex organs and beyond.</EVOR_Research_Organs3.description>
+
+  <EVOR_Research_Brain1.label>Neural Re-Engineering</EVOR_Research_Brain1.label>
+  <EVOR_Research_Brain1.description>By understanding how our vast intellect is driven by our brains, we can enchance our mental capabilities to untold heights.</EVOR_Research_Brain1.description>
+
+  <EVOR_Research_Psychic1.label>Psychic Synapse Network</EVOR_Research_Psychic1.label>
+  <EVOR_Research_Psychic1.description>With our extensive knowledge of the mind, we can find out ways to influence people's thoughts and mood from a distance.</EVOR_Research_Psychic1.description>
+
+  <EVOR_Research_Outer1.label>Resilient Tissue Framework</EVOR_Research_Outer1.label>
+  <EVOR_Research_Outer1.description>Restructuring our tissue frameworks to survive the stress of being outside the body is crucial to creating defensive adaptations.</EVOR_Research_Outer1.description>
+
+  <EVOR_Research_Other1.label>Partial Body Structure Reconfiguration</EVOR_Research_Other1.label>
+  <EVOR_Research_Other1.description>Expaning upon our ability to create new load-bearing bioforms, we can create radical new bodies types.</EVOR_Research_Other1.description>
+
+  <EVOR_Research_Limbs1.label>Biological Framework Application</EVOR_Research_Limbs1.label>
+  <EVOR_Research_Limbs1.description>To create bones and musculature we must first understand how to propogate the cells and mechanites in load bearing configurations.</EVOR_Research_Limbs1.description>
+
+  <EVOR_Research_Limbs2.label>Advanced Limb Structures</EVOR_Research_Limbs2.label>
+  <EVOR_Research_Limbs2.description>The capability to create simple load-bearing structures has been understood, now we must scale up the technology to apply and test it.</EVOR_Research_Limbs2.description>
+
+  <EVOR_Research_Limbs3.label>Limb-Torso Support Structures</EVOR_Research_Limbs3.label>
+  <EVOR_Research_Limbs3.description>Why limit ourselves to only the number of limbs given to us? By researching how our bodies control and and structure our limbs, we can graft more limbs onto our bodies.</EVOR_Research_Limbs3.description>
+
+  <EVOR_Research_Limbs4.label>Bio-weapon Symbiosis</EVOR_Research_Limbs4.label>
+  <EVOR_Research_Limbs4.description>By creating specialized organisms to live in our limbs, we can create bio-weapons utilizing them that are part of our very own bodies.</EVOR_Research_Limbs4.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Eyes -->
+
+  <EVOR_Hediff_Eye.label>мультиспектральный глаз</EVOR_Hediff_Eye.label>
+  <EVOR_Hediff_Eye.labelNoun>это мультиспектральный глаз</EVOR_Hediff_Eye.labelNoun>
+
+  <EVOR_Hediff_Nose.label>микро-анализаторный нос</EVOR_Hediff_Nose.label>
+  <EVOR_Hediff_Nose.labelNoun>это микро-анализаторный нос</EVOR_Hediff_Nose.labelNoun>
+
+  <EVOR_Hediff_Nose_Pheromones.label>феромонопускающий нос</EVOR_Hediff_Nose_Pheromones.label>
+  <EVOR_Hediff_Nose_Pheromones.labelNoun>это феромонопускающий нос</EVOR_Hediff_Nose_Pheromones.labelNoun>
+
+  <EVOR_Hediff_Ear.label>мультичастотное ухо</EVOR_Hediff_Ear.label>
+  <EVOR_Hediff_Ear.labelNoun>это мультичастотное ухо</EVOR_Hediff_Ear.labelNoun>
+
+  <EVOR_Hediff_Spine.label>нейроускоренный позвоночник</EVOR_Hediff_Spine.label>
+  <EVOR_Hediff_Spine.labelNoun>это нейроускоренный позвоночник</EVOR_Hediff_Spine.labelNoun>
+
+
+</LanguageData>

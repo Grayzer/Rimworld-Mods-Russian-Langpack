@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Surgery_Skull_Shielding.label>implant interference shielding</EVOR_Surgery_Skull_Shielding.label>
+  <EVOR_Surgery_Skull_Shielding.description>Implant interference shielding.</EVOR_Surgery_Skull_Shielding.description>
+  <EVOR_Surgery_Skull_Shielding.jobString>Implanting interference shielding.</EVOR_Surgery_Skull_Shielding.jobString>
+
+  <EVOR_Surgery_Skull_Plating.label>implant cranial plating</EVOR_Surgery_Skull_Plating.label>
+  <EVOR_Surgery_Skull_Plating.description>Implant cranial plating.</EVOR_Surgery_Skull_Plating.description>
+  <EVOR_Surgery_Skull_Plating.jobString>Implanting cranial plating.</EVOR_Surgery_Skull_Plating.jobString>
+
+
+</LanguageData>

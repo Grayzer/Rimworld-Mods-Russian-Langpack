@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Resource_Protein.label>protein slag</EVOR_Resource_Protein.label>
+  <EVOR_Resource_Protein.description>A vial of animal proteins ready to be synthesized with mechanites and formed into a specialized appendage or organ.</EVOR_Resource_Protein.description>
+
+  <EVOR_Resource_Mechanites.label>nano mechanites</EVOR_Resource_Mechanites.label>
+  <EVOR_Resource_Mechanites.description>A vial of nanomachines ready to be used to modify a mass of cells into a large, complex organ.</EVOR_Resource_Mechanites.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Surgery_Brain_Hyper.label>implant neural hyperthreader</EVOR_Surgery_Brain_Hyper.label>
+  <EVOR_Surgery_Brain_Hyper.description>Implant neural hyperthreader.</EVOR_Surgery_Brain_Hyper.description>
+  <EVOR_Surgery_Brain_Hyper.jobString>Implanting neural hyperthreader.</EVOR_Surgery_Brain_Hyper.jobString>
+
+  <EVOR_Surgery_Brain_Nails.label>implant butcher's nails</EVOR_Surgery_Brain_Nails.label>
+  <EVOR_Surgery_Brain_Nails.description>Implant butcher's nails.</EVOR_Surgery_Brain_Nails.description>
+  <EVOR_Surgery_Brain_Nails.jobString>Implanting butcher's nails.</EVOR_Surgery_Brain_Nails.jobString>
+
+
+</LanguageData>

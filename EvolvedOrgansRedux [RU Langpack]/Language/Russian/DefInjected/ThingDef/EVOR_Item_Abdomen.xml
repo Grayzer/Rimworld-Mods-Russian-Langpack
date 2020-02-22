@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Item_Abd_ThirdLung.label>extra nano-filter lung</EVOR_Item_Abd_ThirdLung.label>
+  <EVOR_Item_Abd_ThirdLung.description>While only being marginally more efficient than a normal lung, this lung is equipped with a series of filters, able to process out a large proportion of airborne toxins.</EVOR_Item_Abd_ThirdLung.description>
+
+  <EVOR_Item_Abd_SecondHeart.label>auxilary heart</EVOR_Item_Abd_SecondHeart.label>
+  <EVOR_Item_Abd_SecondHeart.description>This auxilary heart increases the amount of oxygen going though the person's body, allowing them to do work more efficiently.</EVOR_Item_Abd_SecondHeart.description>
+
+  <EVOR_Item_Abd_Combat.label>combat serum gland</EVOR_Item_Abd_Combat.label>
+  <EVOR_Item_Abd_Combat.description>This gland injects a potent brew of combat drugs into the body, significantly increasing close combat capabilities.</EVOR_Item_Abd_Combat.description>
+
+  <EVOR_Item_Abd_Hormone.label>hormone regulator</EVOR_Item_Abd_Hormone.label>
+  <EVOR_Item_Abd_Hormone.description>This gland regulates the mood of the host, making it much harder for their mind to snap.</EVOR_Item_Abd_Hormone.description>
+
+  <EVOR_Item_Abd_Lymph.label>lymphatic proliferator</EVOR_Item_Abd_Lymph.label>
+  <EVOR_Item_Abd_Lymph.description>This gland significantly boosts it's hosts immunizing capability, rendering them immune to most normal infectious agents.</EVOR_Item_Abd_Lymph.description>
+
+
+</LanguageData>

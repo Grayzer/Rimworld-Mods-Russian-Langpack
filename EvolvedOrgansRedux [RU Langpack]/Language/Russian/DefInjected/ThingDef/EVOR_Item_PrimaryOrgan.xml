@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Item_Heart.label>triwoven primary heart</EVOR_Item_Heart.label>
+  <EVOR_Item_Heart.description>By weaving musculature in three different directions instead of one, the heart has not only more control and volume of blood flow, but increased efficiently due to the extra muscle.</EVOR_Item_Heart.description>
+
+  <EVOR_Item_Kidney.label>triple filter pass kidney</EVOR_Item_Kidney.label>
+  <EVOR_Item_Kidney.description>By creating an ingenious system in which blood is filtered three times without drop in other performance parameters, the kidney's performance is drastically increased.</EVOR_Item_Kidney.description>
+
+  <EVOR_Item_Lung.label>nano-alveoli lung</EVOR_Item_Lung.label>
+  <EVOR_Item_Lung.description>By decreasing the size of the alveoli to sizes unheard of, the internal gas transfer area of the lungs is drastically increased, as well as making it more diffucult for airborne toxins to enter the blood.</EVOR_Item_Lung.description>
+
+  <EVOR_Item_Stomach.label>multichamber stomach</EVOR_Item_Stomach.label>
+  <EVOR_Item_Stomach.description>By seperating digestion into seperate specialized chambers, the amount of nutrients gathered from food is drastically increased, as well as digestion speed, as seperating the steps increases the speed of digestion.</EVOR_Item_Stomach.description>
+
+  <EVOR_Item_Liver.label>quadlobe liver</EVOR_Item_Liver.label>
+  <EVOR_Item_Liver.description>By increasing liver cell density by a factor of two, the liver can be expanded to include twice as many independently acting lobes, increasing its functionality.</EVOR_Item_Liver.description>
+
+
+</LanguageData>

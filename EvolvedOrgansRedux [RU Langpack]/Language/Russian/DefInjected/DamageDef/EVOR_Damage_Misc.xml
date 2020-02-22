@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Damage_Toxic.label>ядовитый укус</EVOR_Damage_Toxic.label>
+  <EVOR_Damage_Toxic.deathMessage>{0} был укушен до смерти.</EVOR_Damage_Toxic.deathMessage>
+
+  <EVOR_Damage_Sonic.label>акустический удар</EVOR_Damage_Sonic.label>
+  <EVOR_Damage_Sonic.deathMessage>{0} был оглушен до смерти.</EVOR_Damage_Sonic.deathMessage>
+
+
+</LanguageData>

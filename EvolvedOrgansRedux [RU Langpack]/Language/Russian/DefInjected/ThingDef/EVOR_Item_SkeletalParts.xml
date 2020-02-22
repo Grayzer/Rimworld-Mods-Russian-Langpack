@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Item_Skin_Plating.label>multilayered dermal plating</EVOR_Item_Skin_Plating.label>
+  <EVOR_Item_Skin_Plating.description>By layering chitin plates under the skin and binding cracks with rubbery flesh, resistance to small arms fire is radically increased.</EVOR_Item_Skin_Plating.description>
+
+  <EVOR_Item_Skin_Flame.label>flame retardant skin</EVOR_Item_Skin_Flame.label>
+  <EVOR_Item_Skin_Flame.description>By lining the skin with glands that can quickly release flame retardant slime on the body as well as disspating heat, the user becomes extremely resistant to heat and flame.</EVOR_Item_Skin_Flame.description>
+
+  <EVOR_Item_Skin_Insulation.label>variable insulation skin</EVOR_Item_Skin_Insulation.label>
+  <EVOR_Item_Skin_Insulation.description>By creating skin with both high-volume sweat glands and hairs that can either retain or release heat, the user becomes comfortable in a massive range of temperatures.</EVOR_Item_Skin_Insulation.description>
+
+  <EVOR_Item_Ribcage.label>calcium-alloy ribcage</EVOR_Item_Ribcage.label>
+  <EVOR_Item_Ribcage.description>By altering the composition of the ribcage into a calcium / metal alloy and encasing the upper body in an organic rubber analogue, the durability of the upper body is immensely increased.</EVOR_Item_Ribcage.description>
+
+
+</LanguageData>

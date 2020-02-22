@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Arm -->
+
+  <EVOR_Hediff_Primary_NormalArm.label>экстраловкая рука</EVOR_Hediff_Primary_NormalArm.label>
+  <EVOR_Hediff_Primary_NormalArm.labelNoun>это экстраловкая рука</EVOR_Hediff_Primary_NormalArm.labelNoun>
+
+  <EVOR_Hediff_Primary_BoneSaber.label>костяная сабля</EVOR_Hediff_Primary_BoneSaber.label>
+  <EVOR_Hediff_Primary_BoneSaber.labelNoun>это костяная сабля</EVOR_Hediff_Primary_BoneSaber.labelNoun>
+
+  <EVOR_Hediff_Primary_HighPincer.label>клешня высокого давления</EVOR_Hediff_Primary_HighPincer.label>
+  <EVOR_Hediff_Primary_HighPincer.labelNoun>это клешня высокого давления</EVOR_Hediff_Primary_HighPincer.labelNoun>
+
+  <EVOR_Hediff_Primary_SonicMace.label>акустическая булава</EVOR_Hediff_Primary_SonicMace.label>
+  <EVOR_Hediff_Primary_SonicMace.labelNoun>это акустическая булава</EVOR_Hediff_Primary_SonicMace.labelNoun>
+
+  <EVOR_Hediff_Primary_PlatedLimb.label>трехкогтевая конечность</EVOR_Hediff_Primary_PlatedLimb.label>
+  <EVOR_Hediff_Primary_PlatedLimb.labelNoun>это трехкогтевая конечность</EVOR_Hediff_Primary_PlatedLimb.labelNoun>
+
+  <EVOR_Hediff_Primary_ShockTentacle.label>электрошоковая тентакля</EVOR_Hediff_Primary_ShockTentacle.label>
+  <EVOR_Hediff_Primary_ShockTentacle.labelNoun>это электрошоковая тентакля</EVOR_Hediff_Primary_ShockTentacle.labelNoun>
+
+  <EVOR_Hediff_Primary_RendingClaw.label>раздирающие когти</EVOR_Hediff_Primary_RendingClaw.label>
+  <EVOR_Hediff_Primary_RendingClaw.labelNoun>это раздирающие когти</EVOR_Hediff_Primary_RendingClaw.labelNoun>
+
+
+</LanguageData>

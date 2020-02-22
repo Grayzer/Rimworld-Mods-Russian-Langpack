@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Production_Mechanites.label>сделать наномеханиты</EVOR_Production_Mechanites.label>
+  <EVOR_Production_Mechanites.description>Сделайте несколько наномеханитов, перепрограммировав части механоидов.</EVOR_Production_Mechanites.description>
+  <EVOR_Production_Mechanites.jobString>Делает наномеханиты.</EVOR_Production_Mechanites.jobString>
+
+  <EVOR_Production_Protein.label>извлечь протеин из животного мяса</EVOR_Production_Protein.label>
+  <EVOR_Production_Protein.description>Извлеките протеин из мяса животных.</EVOR_Production_Protein.description>
+  <EVOR_Production_Protein.jobString>Извлекает протеин.</EVOR_Production_Protein.jobString>
+
+  <EVOR_Production_Protein_Humie.label>извлечь протеин из человеческого мяса</EVOR_Production_Protein_Humie.label>
+  <EVOR_Production_Protein_Humie.description>Извлеките протеин из мяса людей.</EVOR_Production_Protein_Humie.description>
+  <EVOR_Production_Protein_Humie.jobString>Извлекает протеин.</EVOR_Production_Protein_Humie.jobString>
+
+
+</LanguageData>

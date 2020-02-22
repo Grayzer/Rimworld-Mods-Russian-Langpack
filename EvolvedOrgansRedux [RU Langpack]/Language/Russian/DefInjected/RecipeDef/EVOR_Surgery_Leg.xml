@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Surgery_Leg_Normal.label>implant reinforced leg</EVOR_Surgery_Leg_Normal.label>
+  <EVOR_Surgery_Leg_Normal.description>Implant a reinforced leg.</EVOR_Surgery_Leg_Normal.description>
+  <EVOR_Surgery_Leg_Normal.jobString>Implanting reinforced leg.</EVOR_Surgery_Leg_Normal.jobString>
+
+  <EVOR_Surgery_Leg_Hand.label>implant grasping leg</EVOR_Surgery_Leg_Hand.label>
+  <EVOR_Surgery_Leg_Hand.description>Implant a grasping leg.</EVOR_Surgery_Leg_Hand.description>
+  <EVOR_Surgery_Leg_Hand.jobString>Implanting grasping leg.</EVOR_Surgery_Leg_Hand.jobString>
+
+
+</LanguageData>

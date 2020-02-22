@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Hediff_Damage_Sonic.label>акустическое повреждение</EVOR_Hediff_Damage_Sonic.label>
+  <EVOR_Hediff_Damage_Sonic.stages.0.label>минимальное</EVOR_Hediff_Damage_Sonic.stages.0.label>
+  <EVOR_Hediff_Damage_Sonic.stages.1.label>начальное</EVOR_Hediff_Damage_Sonic.stages.1.label>
+  <EVOR_Hediff_Damage_Sonic.stages.2.label>легкое</EVOR_Hediff_Damage_Sonic.stages.2.label>
+  <EVOR_Hediff_Damage_Sonic.stages.3.label>среднее</EVOR_Hediff_Damage_Sonic.stages.3.label>
+  <EVOR_Hediff_Damage_Sonic.stages.4.label>высокое</EVOR_Hediff_Damage_Sonic.stages.4.label>
+
+
+</LanguageData>

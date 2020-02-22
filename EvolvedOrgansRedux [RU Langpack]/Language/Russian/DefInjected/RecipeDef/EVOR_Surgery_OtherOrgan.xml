@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Surgery_Eye.label>implant multispectrum eye</EVOR_Surgery_Eye.label>
+  <EVOR_Surgery_Eye.description>Implant a multispectrum eye.</EVOR_Surgery_Eye.description>
+  <EVOR_Surgery_Eye.jobString>Implanting multispectrum eye.</EVOR_Surgery_Eye.jobString>
+
+  <EVOR_Surgery_Nose.label>implant micro-analyzer nose</EVOR_Surgery_Nose.label>
+  <EVOR_Surgery_Nose.description>Implant a micro-analyzer nose.</EVOR_Surgery_Nose.description>
+  <EVOR_Surgery_Nose.jobString>Implanting micro-analyzer nose.</EVOR_Surgery_Nose.jobString>
+
+  <EVOR_Surgery_Nose_Pheromones.label>implant pheromone releaser nose</EVOR_Surgery_Nose_Pheromones.label>
+  <EVOR_Surgery_Nose_Pheromones.description>Implant a pheromone releaser nose.</EVOR_Surgery_Nose_Pheromones.description>
+  <EVOR_Surgery_Nose_Pheromones.jobString>Implanting pheromone releaser nose.</EVOR_Surgery_Nose_Pheromones.jobString>
+
+  <EVOR_Surgery_Ear.label>implant multifrequency ear</EVOR_Surgery_Ear.label>
+  <EVOR_Surgery_Ear.description>Implant a multifrequency ear.</EVOR_Surgery_Ear.description>
+  <EVOR_Surgery_Ear.jobString>Implanting multifrequency ear.</EVOR_Surgery_Ear.jobString>
+
+  <EVOR_Surgery_Spine.label>implant neuro-accelerated spine</EVOR_Surgery_Spine.label>
+  <EVOR_Surgery_Spine.description>Implant a neuro-accelerated spine.</EVOR_Surgery_Spine.description>
+  <EVOR_Surgery_Spine.jobString>Implanting neuro-accelerated spine.</EVOR_Surgery_Spine.jobString>
+
+
+</LanguageData>

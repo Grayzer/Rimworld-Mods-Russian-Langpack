@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Surgery_Back_Wing.label>implant feathered wings</EVOR_Surgery_Back_Wing.label>
+  <EVOR_Surgery_Back_Wing.description>Implant a feathered wings.</EVOR_Surgery_Back_Wing.description>
+  <EVOR_Surgery_Back_Wing.jobString>Implanting feathered wings.</EVOR_Surgery_Back_Wing.jobString>
+
+  <EVOR_Surgery_Back_Hand.label>implant tentacle cluster</EVOR_Surgery_Back_Hand.label>
+  <EVOR_Surgery_Back_Hand.description>Implant a tentacle cluster.</EVOR_Surgery_Back_Hand.description>
+  <EVOR_Surgery_Back_Hand.jobString>Implanting tentacle cluster.</EVOR_Surgery_Back_Hand.jobString>
+
+  <EVOR_Surgery_Back_Muscle.label>implant musculature braces</EVOR_Surgery_Back_Muscle.label>
+  <EVOR_Surgery_Back_Muscle.description>Implant musculature braces.</EVOR_Surgery_Back_Muscle.description>
+  <EVOR_Surgery_Back_Muscle.jobString>Implanting musculature braces.</EVOR_Surgery_Back_Muscle.jobString>
+
+
+</LanguageData>

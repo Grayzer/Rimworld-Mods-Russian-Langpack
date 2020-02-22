@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal ARM -->
+
+  <EVOR_Surgery_Primary_NormalArm.label>implant extradextrous arm</EVOR_Surgery_Primary_NormalArm.label>
+  <EVOR_Surgery_Primary_NormalArm.description>Implant an extradextrous arm.</EVOR_Surgery_Primary_NormalArm.description>
+  <EVOR_Surgery_Primary_NormalArm.jobString>Implanting extradextrous arm.</EVOR_Surgery_Primary_NormalArm.jobString>
+
+
+  <!-- Saber -->
+
+  <EVOR_Surgery_Primary_BoneSaber.label>implant ossified bone saber</EVOR_Surgery_Primary_BoneSaber.label>
+  <EVOR_Surgery_Primary_BoneSaber.description>Implant an ossified bone saber.</EVOR_Surgery_Primary_BoneSaber.description>
+  <EVOR_Surgery_Primary_BoneSaber.jobString>Implanting ossified bone saber.</EVOR_Surgery_Primary_BoneSaber.jobString>
+
+  <EVOR_Surgery_Primary_HighPincer.label>implant high pressure pincer</EVOR_Surgery_Primary_HighPincer.label>
+  <EVOR_Surgery_Primary_HighPincer.description>Implant a high pressure pincer.</EVOR_Surgery_Primary_HighPincer.description>
+  <EVOR_Surgery_Primary_HighPincer.jobString>Implanting high pressure pincer.</EVOR_Surgery_Primary_HighPincer.jobString>
+
+  <EVOR_Surgery_Primary_SonicMace.label>implant sonic impact mace</EVOR_Surgery_Primary_SonicMace.label>
+  <EVOR_Surgery_Primary_SonicMace.description>Implant a sonic impact mace.</EVOR_Surgery_Primary_SonicMace.description>
+  <EVOR_Surgery_Primary_SonicMace.jobString>Implanting sonic impact mace.</EVOR_Surgery_Primary_SonicMace.jobString>
+
+  <EVOR_Surgery_Primary_PlatedLimb.label>implant tri-plated limb</EVOR_Surgery_Primary_PlatedLimb.label>
+  <EVOR_Surgery_Primary_PlatedLimb.description>Implant a tri-plated limb.</EVOR_Surgery_Primary_PlatedLimb.description>
+  <EVOR_Surgery_Primary_PlatedLimb.jobString>Implanting tri-plated limb.</EVOR_Surgery_Primary_PlatedLimb.jobString>
+
+  <EVOR_Surgery_Primary_ShockTentacle.label>implant electroshock tentacle</EVOR_Surgery_Primary_ShockTentacle.label>
+  <EVOR_Surgery_Primary_ShockTentacle.description>Implant a electroshock tentacle.</EVOR_Surgery_Primary_ShockTentacle.description>
+  <EVOR_Surgery_Primary_ShockTentacle.jobString>Implanting electroshock tentacle.</EVOR_Surgery_Primary_ShockTentacle.jobString>
+
+  <EVOR_Surgery_Primary_RendingClaw.label>implant rending claws</EVOR_Surgery_Primary_RendingClaw.label>
+  <EVOR_Surgery_Primary_RendingClaw.description>Implant a rending claws.</EVOR_Surgery_Primary_RendingClaw.description>
+  <EVOR_Surgery_Primary_RendingClaw.jobString>Implanting rending claws.</EVOR_Surgery_Primary_RendingClaw.jobString>
+
+
+</LanguageData>

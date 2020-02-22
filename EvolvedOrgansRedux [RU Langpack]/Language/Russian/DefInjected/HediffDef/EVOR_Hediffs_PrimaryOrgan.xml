@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Primary Heart -->
+
+  <EVOR_Hediff_Heart.label>триплет первичного сердца</EVOR_Hediff_Heart.label>
+  <EVOR_Hediff_Heart.labelNoun>это триплет первичного сердца</EVOR_Hediff_Heart.labelNoun>
+
+
+  <!-- Kidney -->
+
+  <EVOR_Hediff_Kidney.label>триплфильтерная почка</EVOR_Hediff_Kidney.label>
+  <EVOR_Hediff_Kidney.labelNoun>это триплфильтерная почка</EVOR_Hediff_Kidney.labelNoun>
+
+
+  <!-- Lung -->
+
+  <EVOR_Hediff_Lung.label>нано-альвеольное легкое</EVOR_Hediff_Lung.label>
+  <EVOR_Hediff_Lung.labelNoun>это нано-альвеольное легкое</EVOR_Hediff_Lung.labelNoun>
+
+
+  <!-- Stomach -->
+
+  <EVOR_Hediff_Stomach.label>мультикамерный желудок</EVOR_Hediff_Stomach.label>
+  <EVOR_Hediff_Stomach.labelNoun>это мультикамерный желудок</EVOR_Hediff_Stomach.labelNoun>
+
+
+  <!-- Liver -->
+
+  <EVOR_Hediff_Liver.label>четырехдольная печень</EVOR_Hediff_Liver.label>
+  <EVOR_Hediff_Liver.labelNoun>это четырехдольная печень</EVOR_Hediff_Liver.labelNoun>
+
+
+</LanguageData>

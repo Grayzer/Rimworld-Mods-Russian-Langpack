@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Surgery_Skin_Plating.label>implant multilayered dermal plating</EVOR_Surgery_Skin_Plating.label>
+  <EVOR_Surgery_Skin_Plating.description>Implant multilayered dermal plating.</EVOR_Surgery_Skin_Plating.description>
+  <EVOR_Surgery_Skin_Plating.jobString>Implanting multilayered dermal plating.</EVOR_Surgery_Skin_Plating.jobString>
+
+  <EVOR_Surgery_Skin_Flame.label>implant flame retardant skin</EVOR_Surgery_Skin_Flame.label>
+  <EVOR_Surgery_Skin_Flame.description>Implant flame retardant skin.</EVOR_Surgery_Skin_Flame.description>
+  <EVOR_Surgery_Skin_Flame.jobString>Implanting flame retardant skin.</EVOR_Surgery_Skin_Flame.jobString>
+
+  <EVOR_Surgery_Skin_Insulation.label>implant variable insulation skin</EVOR_Surgery_Skin_Insulation.label>
+  <EVOR_Surgery_Skin_Insulation.description>Implant variable insulation skin.</EVOR_Surgery_Skin_Insulation.description>
+  <EVOR_Surgery_Skin_Insulation.jobString>Implanting variable insulation skin.</EVOR_Surgery_Skin_Insulation.jobString>
+
+  <EVOR_Surgery_Ribcage.label>implant calcium-alloy ribcage</EVOR_Surgery_Ribcage.label>
+  <EVOR_Surgery_Ribcage.description>Implant calcium-alloy ribcage.</EVOR_Surgery_Ribcage.description>
+  <EVOR_Surgery_Ribcage.jobString>Implanting calcium-alloy ribcage.</EVOR_Surgery_Ribcage.jobString>
+
+
+</LanguageData>

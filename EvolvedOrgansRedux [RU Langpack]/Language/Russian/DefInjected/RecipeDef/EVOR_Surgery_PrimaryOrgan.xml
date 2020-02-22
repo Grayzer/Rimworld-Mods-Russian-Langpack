@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Surgery_Heart.label>implant triwoven primary heart</EVOR_Surgery_Heart.label>
+  <EVOR_Surgery_Heart.description>Implant a triwoven primary heart.</EVOR_Surgery_Heart.description>
+  <EVOR_Surgery_Heart.jobString>Implanting triwoven primary heart.</EVOR_Surgery_Heart.jobString>
+
+  <EVOR_Surgery_Kidney.label>implant triple filter pass kidney</EVOR_Surgery_Kidney.label>
+  <EVOR_Surgery_Kidney.description>Implant a triple filter pass kidney.</EVOR_Surgery_Kidney.description>
+  <EVOR_Surgery_Kidney.jobString>Implanting triple filter pass kidney.</EVOR_Surgery_Kidney.jobString>
+
+  <EVOR_Surgery_Lung.label>implant nano-alveoli lung</EVOR_Surgery_Lung.label>
+  <EVOR_Surgery_Lung.description>Implant a nano-alveoli lung.</EVOR_Surgery_Lung.description>
+  <EVOR_Surgery_Lung.jobString>Implanting nano-alveoli lung.</EVOR_Surgery_Lung.jobString>
+
+  <EVOR_Surgery_Stomach.label>implant multichamber stomach</EVOR_Surgery_Stomach.label>
+  <EVOR_Surgery_Stomach.description>Implant a multichamber stomach.</EVOR_Surgery_Stomach.description>
+  <EVOR_Surgery_Stomach.jobString>Implanting multichamber stomach.</EVOR_Surgery_Stomach.jobString>
+
+  <EVOR_Surgery_Liver.label>implant quadlobe liver</EVOR_Surgery_Liver.label>
+  <EVOR_Surgery_Liver.description>Implant a quadlobe liver.</EVOR_Surgery_Liver.description>
+  <EVOR_Surgery_Liver.jobString>Implanting quadlobe liver.</EVOR_Surgery_Liver.jobString>
+
+
+</LanguageData>

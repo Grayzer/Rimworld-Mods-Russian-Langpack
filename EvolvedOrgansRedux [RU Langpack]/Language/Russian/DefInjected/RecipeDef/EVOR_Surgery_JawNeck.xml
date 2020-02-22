@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EVOR_Surgery_Jaw_Distend.label>implant distendable jaw</EVOR_Surgery_Jaw_Distend.label>
+  <EVOR_Surgery_Jaw_Distend.description>Implant a distendable jaw.</EVOR_Surgery_Jaw_Distend.description>
+  <EVOR_Surgery_Jaw_Distend.jobString>Implanting distendable jaw.</EVOR_Surgery_Jaw_Distend.jobString>
+
+  <EVOR_Surgery_Jaw_Venom.label>implant venomous fangs</EVOR_Surgery_Jaw_Venom.label>
+  <EVOR_Surgery_Jaw_Venom.description>Implant venomous fangs.</EVOR_Surgery_Jaw_Venom.description>
+  <EVOR_Surgery_Jaw_Venom.jobString>Implanting venomous fangs.</EVOR_Surgery_Jaw_Venom.jobString>
+
+
+</LanguageData>

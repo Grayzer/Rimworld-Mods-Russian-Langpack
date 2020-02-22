@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Aux Lung - 1
+    Aux Heart - 2
+    Combat - A
+    Cultivator - A
+    Hormone - A 1 2
+    Lymph - A 1 2 -->
+
+  <EVOR_Surgery_Abd_ThirdLung.label>implant extra nano-filter lung</EVOR_Surgery_Abd_ThirdLung.label>
+  <EVOR_Surgery_Abd_ThirdLung.description>Implant an extra nano-filter lung.</EVOR_Surgery_Abd_ThirdLung.description>
+  <EVOR_Surgery_Abd_ThirdLung.jobString>Implanting extra nano-filter lung.</EVOR_Surgery_Abd_ThirdLung.jobString>
+
+  <EVOR_Surgery_Abd_SecondHeart.label>implant auxilary heart</EVOR_Surgery_Abd_SecondHeart.label>
+  <EVOR_Surgery_Abd_SecondHeart.description>Implant an auxilary heart.</EVOR_Surgery_Abd_SecondHeart.description>
+  <EVOR_Surgery_Abd_SecondHeart.jobString>Implanting auxilary heart.</EVOR_Surgery_Abd_SecondHeart.jobString>
+
+  <EVOR_Surgery_Abd_Combat.label>implant combat serum gland</EVOR_Surgery_Abd_Combat.label>
+  <EVOR_Surgery_Abd_Combat.description>Implant a combat serum gland.</EVOR_Surgery_Abd_Combat.description>
+  <EVOR_Surgery_Abd_Combat.jobString>Implanting combat serum gland.</EVOR_Surgery_Abd_Combat.jobString>
+
+
+  <!-- Hormone Surgeries -->
+
+  <EVOR_Surgery_Abd_Hormone_1.label>implant hormone regulator</EVOR_Surgery_Abd_Hormone_1.label>
+  <EVOR_Surgery_Abd_Hormone_1.description>Implant a hormone regulator.</EVOR_Surgery_Abd_Hormone_1.description>
+  <EVOR_Surgery_Abd_Hormone_1.jobString>Implanting hormone regulator.</EVOR_Surgery_Abd_Hormone_1.jobString>
+
+  <EVOR_Surgery_Abd_Hormone_2.label>implant hormone regulator</EVOR_Surgery_Abd_Hormone_2.label>
+  <EVOR_Surgery_Abd_Hormone_2.description>Implant a hormone regulator.</EVOR_Surgery_Abd_Hormone_2.description>
+  <EVOR_Surgery_Abd_Hormone_2.jobString>Implanting hormone regulator.</EVOR_Surgery_Abd_Hormone_2.jobString>
+
+  <EVOR_Surgery_Abd_Hormone_A.label>implant hormone regulator</EVOR_Surgery_Abd_Hormone_A.label>
+  <EVOR_Surgery_Abd_Hormone_A.description>Implant a hormone regulator.</EVOR_Surgery_Abd_Hormone_A.description>
+  <EVOR_Surgery_Abd_Hormone_A.jobString>Implanting hormone regulator.</EVOR_Surgery_Abd_Hormone_A.jobString>
+
+
+  <!-- Lymph Surgeries -->
+
+  <EVOR_Surgery_Abd_Lymph_1.label>implant lymphatic proliferator</EVOR_Surgery_Abd_Lymph_1.label>
+  <EVOR_Surgery_Abd_Lymph_1.description>Implant a lymphatic proliferator.</EVOR_Surgery_Abd_Lymph_1.description>
+  <EVOR_Surgery_Abd_Lymph_1.jobString>Implanting lymphatic proliferator.</EVOR_Surgery_Abd_Lymph_1.jobString>
+
+  <EVOR_Surgery_Abd_Lymph_2.label>implant lymphatic proliferator</EVOR_Surgery_Abd_Lymph_2.label>
+  <EVOR_Surgery_Abd_Lymph_2.description>Implant a lymphatic proliferator.</EVOR_Surgery_Abd_Lymph_2.description>
+  <EVOR_Surgery_Abd_Lymph_2.jobString>Implanting lymphatic proliferator.</EVOR_Surgery_Abd_Lymph_2.jobString>
+
+  <EVOR_Surgery_Abd_Lymph_A.label>implant lymphatic proliferator</EVOR_Surgery_Abd_Lymph_A.label>
+  <EVOR_Surgery_Abd_Lymph_A.description>Implant a lymphatic proliferator.</EVOR_Surgery_Abd_Lymph_A.description>
+  <EVOR_Surgery_Abd_Lymph_A.jobString>Implanting lymphatic proliferator.</EVOR_Surgery_Abd_Lymph_A.jobString>
+
+
+</LanguageData>
