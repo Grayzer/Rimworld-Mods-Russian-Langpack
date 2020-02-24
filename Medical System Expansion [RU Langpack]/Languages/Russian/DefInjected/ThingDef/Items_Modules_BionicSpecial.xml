@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_RangedPlatformModule.label>ranged platform module</MSE_RangedPlatformModule.label>
+  <MSE_RangedPlatformModule.description>An advanced ranged platform module. With stabilizer and targeting system can give your pawn great accuracy and turn your pawn to specialized for ranged combat. You can install it to clavicle module slot. Requires modules surgery research to install it.</MSE_RangedPlatformModule.description>
+
+  <MSE_MeleePlatformModule.label>melee platform module</MSE_MeleePlatformModule.label>
+  <MSE_MeleePlatformModule.description>An advanced melee platform module. With sensory motor and targeting system can give your pawn great melee damage and turn your pawn to specialized for melee combat. You can install it to clavicle module slot. Requires modules surgery research to install it.</MSE_MeleePlatformModule.description>
+
+  <MSE_PowerArmModule.label>power arm module</MSE_PowerArmModule.label>
+  <MSE_PowerArmModule.description>An advanced artificial power arm module. With its biogel nerve-link, lattice-dust healing system, and high blunt damage than normal arm, it is better than a biological arm in almost every way. You can install it to arm module slot. Requires modules surgery research to install it.</MSE_PowerArmModule.description>
+
+  <MSE_PowerClawModule.label>power claw module</MSE_PowerClawModule.label>
+  <MSE_PowerClawModule.description>An advanced artificial power claw module. With its biogel nerve-link, lattice-dust healing system, and has sharp claw attached to it, it is better than a biological hand in almost every way. You can install it to hand module slot. Requires modules surgery research to install it.</MSE_PowerClawModule.description>
+
+  <MSE_AdamantiumCoatedBoneModule.label>adamantium coated bone module</MSE_AdamantiumCoatedBoneModule.label>
+  <MSE_AdamantiumCoatedBoneModule.description>A bone module that coated with adamantium alloy. Able to sustain almost all attack. A lattice-dust healing system allows it to recover from damage. You can install it to all bone module slot. Requires modules surgery research to install it.</MSE_AdamantiumCoatedBoneModule.description>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_AdvancedEndoskeletonStimulator.label>advanced endoskeleton stimulator</MSE_AdvancedEndoskeletonStimulator.label>
+  <MSE_AdvancedEndoskeletonStimulator.labelNoun>an advanced endoskeleton stimulator</MSE_AdvancedEndoskeletonStimulator.labelNoun>
+
+  <MSE_AdvancedArmMuscleStimulator.label>arm muscle stimulator</MSE_AdvancedArmMuscleStimulator.label>
+  <MSE_AdvancedLegMuscleStimulator.label>leg muscle stimulator</MSE_AdvancedLegMuscleStimulator.label>
+
+  <AdvancedJoywire.label>advanced joywire</AdvancedJoywire.label>
+  <AdvancedJoywire.stages.0.label>AR</AdvancedJoywire.stages.0.label>
+  <AdvancedJoywire.labelNoun>an advanced joywire</AdvancedJoywire.labelNoun>
+
+  <AdvancedPainstopper.label>advanced painstopper</AdvancedPainstopper.label>
+  <AdvancedPainstopper.comps.0.label>painstopper</AdvancedPainstopper.comps.0.label>
+  <AdvancedPainstopper.comps.0.description>activate/deactivate painstopper that nullify pain.</AdvancedPainstopper.comps.0.description>
+  <AdvancedPainstopper.stages.1.label>disabled</AdvancedPainstopper.stages.1.label>
+  <AdvancedPainstopper.labelNoun>an advanced painstopper</AdvancedPainstopper.labelNoun>
+
+  <MSE_AdvancedBuilderAI.label>advanced builder AI</MSE_AdvancedBuilderAI.label>
+  <MSE_AdvancedFarmerAI.label>advanced farmer AI</MSE_AdvancedFarmerAI.label>
+  <MSE_AdvancedDoctorAI.label>advanced doctor AI</MSE_AdvancedDoctorAI.label>
+  <MSE_AdvancedMinerAI.label>advanced miner AI</MSE_AdvancedMinerAI.label>
+  <MSE_AdvancedDiplomatAI.label>advanced diplomat AI</MSE_AdvancedDiplomatAI.label>
+  <MSE_AdvancedTamerAI.label>advanced tamer AI</MSE_AdvancedTamerAI.label>
+  <MSE_AdvancedChefAI.label>advanced chef AI</MSE_AdvancedChefAI.label>
+  <MSE_AdvancedHunterAI.label>advanced hunter AI</MSE_AdvancedHunterAI.label>
+  <MSE_AdvancedLaborAI.label>advanced labor AI</MSE_AdvancedLaborAI.label>
+  <MSE_AdvancedAppetiteSuppressant.label>advanced appetite suppressant</MSE_AdvancedAppetiteSuppressant.label>
+
+
+</LanguageData>

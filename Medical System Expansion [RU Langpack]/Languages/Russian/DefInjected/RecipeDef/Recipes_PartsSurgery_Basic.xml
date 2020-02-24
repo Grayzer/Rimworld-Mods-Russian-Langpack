@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallWoodenToe.label>install wooden toe</InstallWoodenToe.label>
+  <InstallWoodenToe.description>Install a wooden toe.</InstallWoodenToe.description>
+  <InstallWoodenToe.jobString>Installing wooden toe.</InstallWoodenToe.jobString>
+
+  <InstallWoodenArm.label>install wooden arm</InstallWoodenArm.label>
+  <InstallWoodenArm.description>Install a wooden arm.</InstallWoodenArm.description>
+  <InstallWoodenArm.jobString>Installing wooden arm.</InstallWoodenArm.jobString>
+
+  <InstallHookHand.label>install hook hand</InstallHookHand.label>
+  <InstallHookHand.description>Install a hook hand.</InstallHookHand.description>
+  <InstallHookHand.jobString>Installing hook hand.</InstallHookHand.jobString>
+
+  <InstallWoodenFinger.label>install wooden finger</InstallWoodenFinger.label>
+  <InstallWoodenFinger.description>Install a wooden finger.</InstallWoodenFinger.description>
+  <InstallWoodenFinger.jobString>Installing wooden finger.</InstallWoodenFinger.jobString>
+
+  <InstallEyepatch.label>install eyepatch</InstallEyepatch.label>
+  <InstallEyepatch.description>Install a eyepatch.</InstallEyepatch.description>
+  <InstallEyepatch.jobString>Installing eyepatch.</InstallEyepatch.jobString>
+
+  <InstallWoodenEar.label>install wooden ear</InstallWoodenEar.label>
+  <InstallWoodenEar.description>Install a wooden ear.</InstallWoodenEar.description>
+  <InstallWoodenEar.jobString>Installing wooden ear.</InstallWoodenEar.jobString>
+
+  <InstallWoodenNose.label>install wooden nose</InstallWoodenNose.label>
+  <InstallWoodenNose.description>Install a wooden nose.</InstallWoodenNose.description>
+  <InstallWoodenNose.jobString>Installing wooden nose.</InstallWoodenNose.jobString>
+
+
+</LanguageData>

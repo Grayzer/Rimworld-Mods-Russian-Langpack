@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_BionicClavicleModule.label>bionic clavicle module</MSE_BionicClavicleModule.label>
+  <MSE_BionicClavicleModule.description>An advanced artificial clavicle module. With lattice-dust healing system allows it to recover from damage. You can install it to clavicle module slot. Requires modules surgery research to install it.</MSE_BionicClavicleModule.description>
+
+  <MSE_BionicArmModule.label>bionic arm module</MSE_BionicArmModule.label>
+  <MSE_BionicArmModule.description>An advanced artificial arm module. With its biogel nerve-link and lattice-dust healing system, it is better than a biological arm in almost every way. You can install it to arm module slot. Requires modules surgery research to install it.</MSE_BionicArmModule.description>
+
+  <MSE_BionicHumerusModule.label>bionic humerus module</MSE_BionicHumerusModule.label>
+  <MSE_BionicHumerusModule.description>An advanced artificial humerus module. With lattice-dust healing system allows it to recover from damage. You can install it to humerus module slot. Requires modules surgery research to install it.</MSE_BionicHumerusModule.description>
+
+  <MSE_BionicRadiusModule.label>bionic radius module</MSE_BionicRadiusModule.label>
+  <MSE_BionicRadiusModule.description>An advanced artificial radius module. With lattice-dust healing system allows it to recover from damage. You can install it to radius module slot. Requires modules surgery research to install it.</MSE_BionicRadiusModule.description>
+
+  <MSE_BionicHandModule.label>bionic hand module</MSE_BionicHandModule.label>
+  <MSE_BionicHandModule.description>An advanced artificial hand module. With its biogel nerve-link and lattice-dust healing system, it is better than a biological hand in almost every way. You can install it to hand module slot. Requires modules surgery research to install it.</MSE_BionicHandModule.description>
+
+  <MSE_BionicFingerModule.label>bionic finger module</MSE_BionicFingerModule.label>
+  <MSE_BionicFingerModule.description>An advanced artificial finger module. With its biogel nerve-link and lattice-dust healing system, it is better than a biological finger in almost every way. You can install it to finger module slot. Requires modules surgery research to install it.</MSE_BionicFingerModule.description>
+
+  <MSE_BionicFemurModule.label>bionic femur module</MSE_BionicFemurModule.label>
+  <MSE_BionicFemurModule.description>An advanced artificial femur module. With lattice-dust healing system allows it to recover from damage. You can install it to femur module slot. Requires modules surgery research to install it.</MSE_BionicFemurModule.description>
+
+  <MSE_BionicTibiaModule.label>bionic tibia module</MSE_BionicTibiaModule.label>
+  <MSE_BionicTibiaModule.description>An advanced artificial tibia module. With lattice-dust healing system allows it to recover from damage. You can install it to tibia module slot. Requires modules surgery research to install it.</MSE_BionicTibiaModule.description>
+
+  <MSE_BionicFootModule.label>bionic foot module</MSE_BionicFootModule.label>
+  <MSE_BionicFootModule.description>An advanced artificial foot module. With its biogel nerve-link and lattice-dust healing system, it is better than a biological foot in almost every way. You can install it to foot module slot. Requires modules surgery research to install it.</MSE_BionicFootModule.description>
+
+  <MSE_BionicToeModule.label>bionic toe module</MSE_BionicToeModule.label>
+  <MSE_BionicToeModule.description>An advanced artificial toe module. With its biogel nerve-link and lattice-dust healing system, it is better than a biological toe in almost every way. You can install it to toe module slot. Requires modules surgery research to install it.</MSE_BionicToeModule.description>
+
+
+</LanguageData>

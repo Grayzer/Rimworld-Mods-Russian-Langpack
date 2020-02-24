@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AntitoxinKidney.label>antitoxin kidney</AntitoxinKidney.label>
+  <AntitoxinKidney.description>An advanced artificial antitoxin kidney. With lattice-dust healing system allows it to recover from damage and toxin filtering system allow it to filter toxin from blood. It is better than a biological kidney in almost every way. Requires special bionics research to install it.</AntitoxinKidney.description>
+
+  <MedicalLiver.label>medical liver</MedicalLiver.label>
+  <MedicalLiver.description>An advanced artificial medical liver. With lattice-dust healing system allows it to recover from damage and it can secreted more kind of immune system. It is better than a biological liver in almost every way. Requires special bionics research to install it.</MedicalLiver.description>
+
+  <EnergizedLiver.label>energized liver</EnergizedLiver.label>
+  <EnergizedLiver.description>An advanced artificial energized liver. With lattice-dust healing system allows it to recover from damage and it can secreted special hormone that make user more energetic. It is better than a biological liver in almost every way. Requires special bionics research to install it.</EnergizedLiver.description>
+
+  <MSE_PowerBlade.label>power blade</MSE_PowerBlade.label>
+  <MSE_PowerBlade.description>An advanced artificial power blade. With its biogel nerve-link, lattice-dust healing system, and scyther blade attached to it, it is better than a biological shoulder in almost every way. Requires special bionics research to install it.</MSE_PowerBlade.description>
+
+  <PowerArm.label>power arm</PowerArm.label>
+  <PowerArm.description>An advanced artificial power arm. With its biogel nerve-link, lattice-dust healing system, and high blunt damage than normal arm, it is better than a biological arm in almost every way. Requires special bionics research to install it.</PowerArm.description>
+
+  <BreathingSupportRib.label>breathing support rib</BreathingSupportRib.label>
+  <BreathingSupportRib.description>An advanced artificial breathing support rib. With lattice-dust healing system allows it to recover from damage and it can make user breath more ease. Requires special bionics research to install it.</BreathingSupportRib.description>
+
+  <RelaxationRib.label>relaxation rib</RelaxationRib.label>
+  <RelaxationRib.description>An advanced artificial relaxation rib. With lattice-dust healing system allows it to recover from damage and it can make user feel more relaxed. Requires special bionics research to install it.</RelaxationRib.description>
+
+  <ColdRegulatorRib.label>cold regulator rib</ColdRegulatorRib.label>
+  <ColdRegulatorRib.description>An advanced artificial cold regulator rib. With lattice-dust healing system allows it to recover from damage and it can support blood to regulate cold temperature. Requires special bionics research to install it.</ColdRegulatorRib.description>
+
+  <HeatRegulatorRib.label>heat regulator rib</HeatRegulatorRib.label>
+  <HeatRegulatorRib.description>An advanced artificial heat regulator rib. With lattice-dust healing system allows it to recover from damage and it can support blood to regulate hot temperature. Requires special bionics research to install it.</HeatRegulatorRib.description>
+
+
+</LanguageData>

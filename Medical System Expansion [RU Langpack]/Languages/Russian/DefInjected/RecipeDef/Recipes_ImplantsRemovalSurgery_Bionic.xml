@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RemoveJoywire_Brain.label>remove joywire implant system</RemoveJoywire_Brain.label>
+  <RemoveJoywire_Brain.description>Remove a joywire implant system.</RemoveJoywire_Brain.description>
+  <RemoveJoywire_Brain.jobString>Removing joywire implant system.</RemoveJoywire_Brain.jobString>
+
+  <RemovePainstopper_Brain.label>remove painstopper implant system</RemovePainstopper_Brain.label>
+  <RemovePainstopper_Brain.description>Remove a painstopper implant system.</RemovePainstopper_Brain.description>
+  <RemovePainstopper_Brain.jobString>Removing painstopper implant system.</RemovePainstopper_Brain.jobString>
+
+
+</LanguageData>

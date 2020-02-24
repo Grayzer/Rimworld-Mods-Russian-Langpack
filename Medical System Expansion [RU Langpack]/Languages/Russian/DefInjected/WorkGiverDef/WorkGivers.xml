@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsTableBionicProstheses.label>make bionic things at bionic machining table</DoBillsTableBionicProstheses.label>
+  <DoBillsTableBionicProstheses.verb>work</DoBillsTableBionicProstheses.verb>
+  <DoBillsTableBionicProstheses.gerund>working at</DoBillsTableBionicProstheses.gerund>
+
+  <DoBillsArchotechProsthesesBench.label>fabricate archotech things</DoBillsArchotechProsthesesBench.label>
+  <DoBillsArchotechProsthesesBench.verb>fabricating archotech things</DoBillsArchotechProsthesesBench.verb>
+  <DoBillsArchotechProsthesesBench.gerund>fabricating archotech things at</DoBillsArchotechProsthesesBench.gerund>
+
+
+</LanguageData>

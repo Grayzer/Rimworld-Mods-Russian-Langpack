@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SimpleProstheticFoot.label>prosthetic foot</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>A foot prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real foot. Requires prosthetics research to install it.</SimpleProstheticFoot.description>
+
+  <SimpleProstheticToe.label>prosthetic toe</SimpleProstheticToe.label>
+  <SimpleProstheticToe.description>A toe prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real toe. Requires prosthetics research to install it.</SimpleProstheticToe.description>
+
+  <SimpleProstheticHand.label>prosthetic hand</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>A hand prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real hand. Requires prosthetics research to install it.</SimpleProstheticHand.description>
+
+  <SimpleProstheticFinger.label>prosthetic finger</SimpleProstheticFinger.label>
+  <SimpleProstheticFinger.description>A finger prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real finger. Requires prosthetics research to install it.</SimpleProstheticFinger.description>
+
+  <SimpleProstheticJaw.label>prosthetic jaw</SimpleProstheticJaw.label>
+  <SimpleProstheticJaw.description>A jaw prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real jaw. Requires prosthetics research to install it.</SimpleProstheticJaw.description>
+
+  <SimpleProstheticClavicle.label>prosthetic clavicle</SimpleProstheticClavicle.label>
+  <SimpleProstheticClavicle.description>A clavicle prosthesis. It is inferior to a real clavicle. Requires bone replacement research to install it.</SimpleProstheticClavicle.description>
+
+  <SimpleProstheticSternum.label>prosthetic sternum</SimpleProstheticSternum.label>
+  <SimpleProstheticSternum.description>A sternum prosthesis. It is inferior to a real sternum. Requires bone replacement research to install it.</SimpleProstheticSternum.description>
+
+  <SimpleProstheticRib.label>prosthetic rib</SimpleProstheticRib.label>
+  <SimpleProstheticRib.description>A rib prosthesis. It is inferior to a real rib. Requires bone replacement research to install it.</SimpleProstheticRib.description>
+
+  <SimpleProstheticPelvis.label>prosthetic pelvis</SimpleProstheticPelvis.label>
+  <SimpleProstheticPelvis.description>A pelvis prosthesis. It is inferior to a real pelvis. Requires bone replacement research to install it.</SimpleProstheticPelvis.description>
+
+  <SimpleProstheticHumerus.label>prosthetic humerus</SimpleProstheticHumerus.label>
+  <SimpleProstheticHumerus.description>A humerus prosthesis. It is inferior to a real humerus. Requires bone replacement research to install it.</SimpleProstheticHumerus.description>
+
+  <SimpleProstheticRadius.label>prosthetic radius</SimpleProstheticRadius.label>
+  <SimpleProstheticRadius.description>A radius prosthesis. It is inferior to a real radius. Requires bone replacement research to install it.</SimpleProstheticRadius.description>
+
+  <SimpleProstheticFemur.label>prosthetic femur</SimpleProstheticFemur.label>
+  <SimpleProstheticFemur.description>A femur prosthesis. It is inferior to a real femur. Requires bone replacement research to install it.</SimpleProstheticFemur.description>
+
+  <SimpleProstheticTibia.label>prosthetic tibia</SimpleProstheticTibia.label>
+  <SimpleProstheticTibia.description>A tibia prosthesis. It is inferior to a real tibia. Requires bone replacement research to install it.</SimpleProstheticTibia.description>
+
+
+</LanguageData>

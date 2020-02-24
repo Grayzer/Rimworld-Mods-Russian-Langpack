@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_InstallBionicClavicleModule.label>install bionic clavicle module</MSE_InstallBionicClavicleModule.label>
+  <MSE_InstallBionicClavicleModule.description>Install a bionic clavicle module.</MSE_InstallBionicClavicleModule.description>
+  <MSE_InstallBionicClavicleModule.jobString>Installing bionic clavicle module.</MSE_InstallBionicClavicleModule.jobString>
+
+  <MSE_InstallBionicArmModule.label>install bionic arm module</MSE_InstallBionicArmModule.label>
+  <MSE_InstallBionicArmModule.description>Install a bionic arm module.</MSE_InstallBionicArmModule.description>
+  <MSE_InstallBionicArmModule.jobString>Installing bionic arm module.</MSE_InstallBionicArmModule.jobString>
+
+  <MSE_InstallBionicHumerusModule.label>install bionic humerus module</MSE_InstallBionicHumerusModule.label>
+  <MSE_InstallBionicHumerusModule.description>Install a bionic humerus module.</MSE_InstallBionicHumerusModule.description>
+  <MSE_InstallBionicHumerusModule.jobString>Installing bionic humerus module.</MSE_InstallBionicHumerusModule.jobString>
+
+  <MSE_InstallBionicRadiusModule.label>install bionic radius module</MSE_InstallBionicRadiusModule.label>
+  <MSE_InstallBionicRadiusModule.description>Install a bionic radius module.</MSE_InstallBionicRadiusModule.description>
+  <MSE_InstallBionicRadiusModule.jobString>Installing bionic radius module.</MSE_InstallBionicRadiusModule.jobString>
+
+  <MSE_InstallBionicHandModule.label>install bionic hand module</MSE_InstallBionicHandModule.label>
+  <MSE_InstallBionicHandModule.description>Install a bionic hand module.</MSE_InstallBionicHandModule.description>
+  <MSE_InstallBionicHandModule.jobString>Installing bionic hand module.</MSE_InstallBionicHandModule.jobString>
+
+  <MSE_InstallBionicFingerModule.label>install bionic finger module</MSE_InstallBionicFingerModule.label>
+  <MSE_InstallBionicFingerModule.description>Install a bionic finger module.</MSE_InstallBionicFingerModule.description>
+  <MSE_InstallBionicFingerModule.jobString>Installing bionic finger module.</MSE_InstallBionicFingerModule.jobString>
+
+  <MSE_InstallBionicFemurModule.label>install bionic femur module</MSE_InstallBionicFemurModule.label>
+  <MSE_InstallBionicFemurModule.description>Install a bionic femur module.</MSE_InstallBionicFemurModule.description>
+  <MSE_InstallBionicFemurModule.jobString>Installing bionic femur module.</MSE_InstallBionicFemurModule.jobString>
+
+  <MSE_InstallBionicTibiaModule.label>install bionic tibia module</MSE_InstallBionicTibiaModule.label>
+  <MSE_InstallBionicTibiaModule.description>Install a bionic tibia module.</MSE_InstallBionicTibiaModule.description>
+  <MSE_InstallBionicTibiaModule.jobString>Installing bionic tibia module.</MSE_InstallBionicTibiaModule.jobString>
+
+  <MSE_InstallBionicFootModule.label>install bionic foot module</MSE_InstallBionicFootModule.label>
+  <MSE_InstallBionicFootModule.description>Install a bionic foot module.</MSE_InstallBionicFootModule.description>
+  <MSE_InstallBionicFootModule.jobString>Installing bionic foot module.</MSE_InstallBionicFootModule.jobString>
+
+  <MSE_InstallBionicToeModule.label>install bionic toe module</MSE_InstallBionicToeModule.label>
+  <MSE_InstallBionicToeModule.description>Install a bionic toe module.</MSE_InstallBionicToeModule.description>
+  <MSE_InstallBionicToeModule.jobString>Installing bionic toe module.</MSE_InstallBionicToeModule.jobString>
+
+
+</LanguageData>

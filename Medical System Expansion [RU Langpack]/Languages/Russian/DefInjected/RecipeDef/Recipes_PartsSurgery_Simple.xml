@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallSimpleProstheticFoot.label>install prosthetic foot</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Install a prosthetic foot.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>Installing prosthetic foot.</InstallSimpleProstheticFoot.jobString>
+
+  <InstallSimpleProstheticToe.label>install prosthetic toe</InstallSimpleProstheticToe.label>
+  <InstallSimpleProstheticToe.description>Install a prosthetic toe.</InstallSimpleProstheticToe.description>
+  <InstallSimpleProstheticToe.jobString>Installing prosthetic toe.</InstallSimpleProstheticToe.jobString>
+
+  <InstallSimpleProstheticHand.label>install prosthetic hand</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Install a prosthetic hand.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>Installing prosthetic hand.</InstallSimpleProstheticHand.jobString>
+
+  <InstallSimpleProstheticFinger.label>install prosthetic finger</InstallSimpleProstheticFinger.label>
+  <InstallSimpleProstheticFinger.description>Install a prosthetic finger.</InstallSimpleProstheticFinger.description>
+  <InstallSimpleProstheticFinger.jobString>Installing prosthetic finger.</InstallSimpleProstheticFinger.jobString>
+
+  <InstallSimpleProstheticJaw.label>install prosthetic jaw</InstallSimpleProstheticJaw.label>
+  <InstallSimpleProstheticJaw.description>Install a prosthetic jaw.</InstallSimpleProstheticJaw.description>
+  <InstallSimpleProstheticJaw.jobString>Installing prosthetic jaw.</InstallSimpleProstheticJaw.jobString>
+
+  <InstallSimpleProstheticClavicle.label>install prosthetic clavicle</InstallSimpleProstheticClavicle.label>
+  <InstallSimpleProstheticClavicle.description>Install a prosthetic clavicle.</InstallSimpleProstheticClavicle.description>
+  <InstallSimpleProstheticClavicle.jobString>Installing prosthetic clavicle.</InstallSimpleProstheticClavicle.jobString>
+
+  <InstallSimpleProstheticSternum.label>install prosthetic sternum</InstallSimpleProstheticSternum.label>
+  <InstallSimpleProstheticSternum.description>Install a prosthetic sternum.</InstallSimpleProstheticSternum.description>
+  <InstallSimpleProstheticSternum.jobString>Installing prosthetic sternum.</InstallSimpleProstheticSternum.jobString>
+
+  <InstallSimpleProstheticRib.label>install prosthetic rib</InstallSimpleProstheticRib.label>
+  <InstallSimpleProstheticRib.description>Install a prosthetic rib.</InstallSimpleProstheticRib.description>
+  <InstallSimpleProstheticRib.jobString>Installing prosthetic rib.</InstallSimpleProstheticRib.jobString>
+
+  <InstallSimpleProstheticPelvis.label>install prosthetic pelvis</InstallSimpleProstheticPelvis.label>
+  <InstallSimpleProstheticPelvis.description>Install a prosthetic pelvis.</InstallSimpleProstheticPelvis.description>
+  <InstallSimpleProstheticPelvis.jobString>Installing prosthetic pelvis.</InstallSimpleProstheticPelvis.jobString>
+
+  <InstallSimpleProstheticHumerus.label>install prosthetic humerus</InstallSimpleProstheticHumerus.label>
+  <InstallSimpleProstheticHumerus.description>Install a prosthetic humerus.</InstallSimpleProstheticHumerus.description>
+  <InstallSimpleProstheticHumerus.jobString>Installing prosthetic humerus.</InstallSimpleProstheticHumerus.jobString>
+
+  <InstallSimpleProstheticRadius.label>install prosthetic radius</InstallSimpleProstheticRadius.label>
+  <InstallSimpleProstheticRadius.description>Install a prosthetic radius.</InstallSimpleProstheticRadius.description>
+  <InstallSimpleProstheticRadius.jobString>Installing prosthetic radius.</InstallSimpleProstheticRadius.jobString>
+
+  <InstallSimpleProstheticFemur.label>install prosthetic femur</InstallSimpleProstheticFemur.label>
+  <InstallSimpleProstheticFemur.description>Install a prosthetic femur.</InstallSimpleProstheticFemur.description>
+  <InstallSimpleProstheticFemur.jobString>Installing prosthetic femur.</InstallSimpleProstheticFemur.jobString>
+
+  <InstallSimpleProstheticTibia.label>install prosthetic tibia</InstallSimpleProstheticTibia.label>
+  <InstallSimpleProstheticTibia.description>Install a prosthetic tibia.</InstallSimpleProstheticTibia.description>
+  <InstallSimpleProstheticTibia.jobString>Installing prosthetic tibia.</InstallSimpleProstheticTibia.jobString>
+
+
+</LanguageData>

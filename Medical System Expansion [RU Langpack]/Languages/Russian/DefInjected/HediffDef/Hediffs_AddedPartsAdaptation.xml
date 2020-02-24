@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Base. Added Part Adaptation - Basic -->
+
+  <MSE_AddedBodyPartAdaptationBasic.label>artificial part adaptation</MSE_AddedBodyPartAdaptationBasic.label>
+  <MSE_AddedBodyPartAdaptationBasic.stages.1.label>getting used to</MSE_AddedBodyPartAdaptationBasic.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBasic.stages.2.label>not accustomed</MSE_AddedBodyPartAdaptationBasic.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBasic.stages.3.label>newly installed</MSE_AddedBodyPartAdaptationBasic.stages.3.label>
+
+
+  <!-- Base. Added Part Adaptation - Simple -->
+
+  <MSE_AddedBodyPartAdaptationSimple.label>prosthetic part adaptation</MSE_AddedBodyPartAdaptationSimple.label>
+  <MSE_AddedBodyPartAdaptationSimple.stages.1.label>getting used to</MSE_AddedBodyPartAdaptationSimple.stages.1.label>
+  <MSE_AddedBodyPartAdaptationSimple.stages.2.label>not accustomed</MSE_AddedBodyPartAdaptationSimple.stages.2.label>
+  <MSE_AddedBodyPartAdaptationSimple.stages.3.label>newly installed</MSE_AddedBodyPartAdaptationSimple.stages.3.label>
+
+  <MSE_AddedBodyPartAdaptationSimple_Organ.label>prosthetic organ adaptation</MSE_AddedBodyPartAdaptationSimple_Organ.label>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.stages.1.label>adapting</MSE_AddedBodyPartAdaptationSimple_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.stages.2.label>begin to adapt</MSE_AddedBodyPartAdaptationSimple_Organ.stages.2.label>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.stages.3.label>newly installed</MSE_AddedBodyPartAdaptationSimple_Organ.stages.3.label>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.stages.4.label>newly installed</MSE_AddedBodyPartAdaptationSimple_Organ.stages.4.label>
+
+
+  <!-- Base. Added Part Adaptation - Bionic -->
+
+  <MSE_AddedBodyPartAdaptationBionic.label>bionic part adaptation</MSE_AddedBodyPartAdaptationBionic.label>
+  <MSE_AddedBodyPartAdaptationBionic.stages.1.label>getting used to</MSE_AddedBodyPartAdaptationBionic.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBionic.stages.2.label>not accustomed</MSE_AddedBodyPartAdaptationBionic.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBionic.stages.3.label>newly installed</MSE_AddedBodyPartAdaptationBionic.stages.3.label>
+
+  <MSE_AddedBodyPartAdaptationBionicSpecial.label>bionic part adaptation</MSE_AddedBodyPartAdaptationBionicSpecial.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial.stages.1.label>getting used to</MSE_AddedBodyPartAdaptationBionicSpecial.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial.stages.2.label>not accustomed</MSE_AddedBodyPartAdaptationBionicSpecial.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial.stages.3.label>newly installed</MSE_AddedBodyPartAdaptationBionicSpecial.stages.3.label>
+
+  <MSE_AddedBodyPartAdaptationBionic_Organ.label>bionic organ adaptation</MSE_AddedBodyPartAdaptationBionic_Organ.label>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.stages.1.label>adapting</MSE_AddedBodyPartAdaptationBionic_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.stages.2.label>begin to adapt</MSE_AddedBodyPartAdaptationBionic_Organ.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.stages.3.label>newly installed</MSE_AddedBodyPartAdaptationBionic_Organ.stages.3.label>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.stages.4.label>newly installed</MSE_AddedBodyPartAdaptationBionic_Organ.stages.4.label>
+
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.label>bionic organ adaptation</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.1.label>adapting</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.2.label>begin to adapt</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.3.label>newly installed</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.3.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.4.label>newly installed</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.4.label>
+
+
+  <!-- Base. Added Part Adaptation - Archotech -->
+
+  <MSE_AddedBodyPartAdaptationArchotech.label>archotech part adaptation</MSE_AddedBodyPartAdaptationArchotech.label>
+  <MSE_AddedBodyPartAdaptationArchotech.stages.1.label>calibrating system</MSE_AddedBodyPartAdaptationArchotech.stages.1.label>
+  <MSE_AddedBodyPartAdaptationArchotech.stages.2.label>preparing system</MSE_AddedBodyPartAdaptationArchotech.stages.2.label>
+
+  <MSE_AddedBodyPartAdaptationArchotechSpecial.label>archotech part adaptation</MSE_AddedBodyPartAdaptationArchotechSpecial.label>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial.stages.1.label>calibrating system</MSE_AddedBodyPartAdaptationArchotechSpecial.stages.1.label>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial.stages.2.label>preparing system</MSE_AddedBodyPartAdaptationArchotechSpecial.stages.2.label>
+
+  <MSE_AddedBodyPartAdaptationArchotech_Organ.label>archotech organ adaptation</MSE_AddedBodyPartAdaptationArchotech_Organ.label>
+  <MSE_AddedBodyPartAdaptationArchotech_Organ.stages.1.label>calibrating system</MSE_AddedBodyPartAdaptationArchotech_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationArchotech_Organ.stages.2.label>preparing system</MSE_AddedBodyPartAdaptationArchotech_Organ.stages.2.label>
+
+  <MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.label>archotech organ adaptation</MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.label>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.stages.1.label>calibrating system</MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.stages.2.label>preparing system</MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.stages.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WoodenToe.label>wooden toe</WoodenToe.label>
+  <WoodenToe.description>A very poor toe replacement.</WoodenToe.description>
+
+  <WoodenArm.label>wooden arm</WoodenArm.label>
+  <WoodenArm.description>A very poor arm replacement.</WoodenArm.description>
+
+  <HookHand.label>hook hand</HookHand.label>
+  <HookHand.description>A very poor hand replacement.</HookHand.description>
+
+  <WoodenFinger.label>wooden finger</WoodenFinger.label>
+  <WoodenFinger.description>A very poor finger replacement.</WoodenFinger.description>
+
+  <Eyepatch.label>eyepatch</Eyepatch.label>
+  <Eyepatch.description>Cover a missing eye.</Eyepatch.description>
+
+  <WoodenEar.label>wooden ear</WoodenEar.label>
+  <WoodenEar.description>A very poor ear replacement.</WoodenEar.description>
+
+  <WoodenNose.label>wooden nose</WoodenNose.label>
+  <WoodenNose.description>A very poor nose replacement.</WoodenNose.description>
+
+
+</LanguageData>

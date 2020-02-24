@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallAntitoxinKidney.label>install antitoxin kidney</InstallAntitoxinKidney.label>
+  <InstallAntitoxinKidney.description>Install an antitoxin kidney.</InstallAntitoxinKidney.description>
+  <InstallAntitoxinKidney.jobString>Installing antitoxin kidney.</InstallAntitoxinKidney.jobString>
+
+  <InstallMedicalLiver.label>install medical liver</InstallMedicalLiver.label>
+  <InstallMedicalLiver.description>Install a medical liver.</InstallMedicalLiver.description>
+  <InstallMedicalLiver.jobString>Installing medical liver.</InstallMedicalLiver.jobString>
+
+  <InstallEnergizedLiver.label>install energized liver</InstallEnergizedLiver.label>
+  <InstallEnergizedLiver.description>Install an energized liver.</InstallEnergizedLiver.description>
+  <InstallEnergizedLiver.jobString>Installing energized liver.</InstallEnergizedLiver.jobString>
+
+  <InstallPowerArm.label>install power arm</InstallPowerArm.label>
+  <InstallPowerArm.description>Install a power arm.</InstallPowerArm.description>
+  <InstallPowerArm.jobString>Installing power arm.</InstallPowerArm.jobString>
+
+  <MSE_InstallPowerBlade.label>install power blade</MSE_InstallPowerBlade.label>
+  <MSE_InstallPowerBlade.description>Install a power blade.</MSE_InstallPowerBlade.description>
+  <MSE_InstallPowerBlade.jobString>Installing power blade.</MSE_InstallPowerBlade.jobString>
+
+  <InstallBreathingSupportRib.label>install breathing support rib</InstallBreathingSupportRib.label>
+  <InstallBreathingSupportRib.description>Install a breathing support rib.</InstallBreathingSupportRib.description>
+  <InstallBreathingSupportRib.jobString>Installing breathing support rib.</InstallBreathingSupportRib.jobString>
+
+  <InstallRelaxationRib.label>install relaxation rib</InstallRelaxationRib.label>
+  <InstallRelaxationRib.description>Install a relaxation rib.</InstallRelaxationRib.description>
+  <InstallRelaxationRib.jobString>Installing relaxation rib.</InstallRelaxationRib.jobString>
+
+  <InstallColdRegulatorRib.label>install cold regulator rib</InstallColdRegulatorRib.label>
+  <InstallColdRegulatorRib.description>Install a cold regulator rib.</InstallColdRegulatorRib.description>
+  <InstallColdRegulatorRib.jobString>Installing cold regulator rib.</InstallColdRegulatorRib.jobString>
+
+  <InstallHeatRegulatorRib.label>install heat regulator rib</InstallHeatRegulatorRib.label>
+  <InstallHeatRegulatorRib.description>Install a heat regulator rib.</InstallHeatRegulatorRib.description>
+  <InstallHeatRegulatorRib.jobString>Installing heat regulator rib.</InstallHeatRegulatorRib.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArchotechHeart.label>archotech heart</ArchotechHeart.label>
+  <ArchotechHeart.description>An artifical heart built by an archotech. It more efficient than natural heart and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechHeart.description>
+
+  <ArchotechStomach.label>archotech stomach</ArchotechStomach.label>
+  <ArchotechStomach.description>An artifical stomach built by an archotech. It more efficient than natural stomach and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechStomach.description>
+
+  <ArchotechLung.label>archotech lung</ArchotechLung.label>
+  <ArchotechLung.description>An artifical lung built by an archotech. It more efficient than natural lung and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechLung.description>
+
+  <ArchotechKidney.label>archotech kidney</ArchotechKidney.label>
+  <ArchotechKidney.description>An artifical kidney built by an archotech. It more efficient than natural kidney and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechKidney.description>
+
+  <ArchotechLiver.label>archotech liver</ArchotechLiver.label>
+  <ArchotechLiver.description>An artifical liver built by an archotech. It more efficient than natural liver and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechLiver.description>
+
+  <ArchotechEar.label>archotech ear</ArchotechEar.label>
+  <ArchotechEar.description>An artifical ear built by an archotech. It looks and feels like natural ear, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechEar.description>
+
+  <ArchotechFoot.label>archotech foot</ArchotechFoot.label>
+  <ArchotechFoot.description>An artifical foot built by an archotech. It looks and feels like natural foot, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechFoot.description>
+
+  <ArchotechToe.label>archotech toe</ArchotechToe.label>
+  <ArchotechToe.description>An artifical toe built by an archotech. It looks and feels like natural toe, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechToe.description>
+
+  <ArchotechShoulder.label>archotech shoulder</ArchotechShoulder.label>
+  <ArchotechShoulder.description>An artifical shoulder built by an archotech. It looks and feels like natural shoulder, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechShoulder.description>
+
+  <ArchotechHand.label>archotech hand</ArchotechHand.label>
+  <ArchotechHand.description>An artifical hand built by an archotech. It looks and feels like natural hand, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechHand.description>
+
+  <ArchotechFinger.label>archotech finger</ArchotechFinger.label>
+  <ArchotechFinger.description>An artifical finger built by an archotech. It looks and feels like natural finger, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechFinger.description>
+
+  <ArchotechJaw.label>archotech jaw</ArchotechJaw.label>
+  <ArchotechJaw.description>An artifical jaw built by an archotech. It looks and feels like natural jaw, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechJaw.description>
+
+  <ArchotechSpine.label>archotech spine</ArchotechSpine.label>
+  <ArchotechSpine.description>An artifical spine built by an archotech. It's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechSpine.description>
+
+  <ArchotechClavicle.label>archotech clavicle</ArchotechClavicle.label>
+  <ArchotechClavicle.description>An artifical clavicle built by an archotech. It's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechClavicle.description>
+
+  <ArchotechSternum.label>archotech sternum</ArchotechSternum.label>
+  <ArchotechSternum.description>An artifical sternum built by an archotech. It's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechSternum.description>
+
+  <ArchotechRib.label>archotech rib</ArchotechRib.label>
+  <ArchotechRib.description>An artifical rib built by an archotech. It's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechRib.description>
+
+  <ArchotechPelvis.label>archotech pelvis</ArchotechPelvis.label>
+  <ArchotechPelvis.description>An artifical pelvis built by an archotech. It's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechPelvis.description>
+
+  <ArchotechHumerus.label>archotech humerus</ArchotechHumerus.label>
+  <ArchotechHumerus.description>An artifical humerus built by an archotech. It's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechHumerus.description>
+
+  <ArchotechRadius.label>archotech radius</ArchotechRadius.label>
+  <ArchotechRadius.description>An artifical radius built by an archotech. It's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechRadius.description>
+
+  <ArchotechFemur.label>archotech femur</ArchotechFemur.label>
+  <ArchotechFemur.description>An artifical femur built by an archotech. It's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechFemur.description>
+
+  <ArchotechTibia.label>archotech tibia</ArchotechTibia.label>
+  <ArchotechTibia.description>An artifical tibia built by an archotech. It's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechTibia.description>
+
+
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_InstallAdvancedEndoskeletonStimulator.label>install advanced endoskeleton stimulator</MSE_InstallAdvancedEndoskeletonStimulator.label>
+  <MSE_InstallAdvancedEndoskeletonStimulator.description>Install an advanced endoskeleton stimulator.</MSE_InstallAdvancedEndoskeletonStimulator.description>
+  <MSE_InstallAdvancedEndoskeletonStimulator.jobString>Installing advanced endoskeleton stimulator.</MSE_InstallAdvancedEndoskeletonStimulator.jobString>
+
+  <MSE_InstallAdvancedArmMuscleStimulator.label>install advanced arm muscle stimulator</MSE_InstallAdvancedArmMuscleStimulator.label>
+  <MSE_InstallAdvancedArmMuscleStimulator.description>Install an advanced arm muscle stimulator.</MSE_InstallAdvancedArmMuscleStimulator.description>
+  <MSE_InstallAdvancedArmMuscleStimulator.jobString>Installing advanced arm muscle stimulator.</MSE_InstallAdvancedArmMuscleStimulator.jobString>
+
+  <MSE_InstallAdvancedLegMuscleStimulator.label>install advanced leg muscle stimulator</MSE_InstallAdvancedLegMuscleStimulator.label>
+  <MSE_InstallAdvancedLegMuscleStimulator.description>Install an advanced leg muscle stimulator.</MSE_InstallAdvancedLegMuscleStimulator.description>
+  <MSE_InstallAdvancedLegMuscleStimulator.jobString>Installing advanced leg muscle stimulator.</MSE_InstallAdvancedLegMuscleStimulator.jobString>
+
+  <InstallAdvancedJoywire.label>install advanced joywire</InstallAdvancedJoywire.label>
+  <InstallAdvancedJoywire.description>Install an advanced joywire.</InstallAdvancedJoywire.description>
+  <InstallAdvancedJoywire.jobString>Installing advanced joywire.</InstallAdvancedJoywire.jobString>
+
+  <InstallAdvancedPainstopper.label>install advanced painstopper</InstallAdvancedPainstopper.label>
+  <InstallAdvancedPainstopper.description>Install an advanced painstopper.</InstallAdvancedPainstopper.description>
+  <InstallAdvancedPainstopper.jobString>Installing advanced painstopper.</InstallAdvancedPainstopper.jobString>
+
+  <MSE_InstallAdvancedBuilderAI.label>install advanced builder AI</MSE_InstallAdvancedBuilderAI.label>
+  <MSE_InstallAdvancedBuilderAI.description>Install an advanced builder AI.</MSE_InstallAdvancedBuilderAI.description>
+  <MSE_InstallAdvancedBuilderAI.jobString>Installing advanced builder AI.</MSE_InstallAdvancedBuilderAI.jobString>
+
+  <MSE_InstallAdvancedFarmerAI.label>install advanced farmer AI</MSE_InstallAdvancedFarmerAI.label>
+  <MSE_InstallAdvancedFarmerAI.description>Install an advanced farmer AI.</MSE_InstallAdvancedFarmerAI.description>
+  <MSE_InstallAdvancedFarmerAI.jobString>Installing advanced farmer AI.</MSE_InstallAdvancedFarmerAI.jobString>
+
+  <MSE_InstallAdvancedDoctorAI.label>install advanced doctor AI</MSE_InstallAdvancedDoctorAI.label>
+  <MSE_InstallAdvancedDoctorAI.description>Install an advanced doctor AI.</MSE_InstallAdvancedDoctorAI.description>
+  <MSE_InstallAdvancedDoctorAI.jobString>Installing advanced doctor AI.</MSE_InstallAdvancedDoctorAI.jobString>
+
+  <MSE_InstallAdvancedMinerAI.label>install advanced miner AI</MSE_InstallAdvancedMinerAI.label>
+  <MSE_InstallAdvancedMinerAI.description>Install an advanced miner AI.</MSE_InstallAdvancedMinerAI.description>
+  <MSE_InstallAdvancedMinerAI.jobString>Installing advanced miner AI.</MSE_InstallAdvancedMinerAI.jobString>
+
+  <MSE_InstallAdvancedDiplomatAI.label>install advanced diplomat AI</MSE_InstallAdvancedDiplomatAI.label>
+  <MSE_InstallAdvancedDiplomatAI.description>Install an advanced diplomat AI.</MSE_InstallAdvancedDiplomatAI.description>
+  <MSE_InstallAdvancedDiplomatAI.jobString>Installing advanced diplomat AI.</MSE_InstallAdvancedDiplomatAI.jobString>
+
+  <MSE_InstallAdvancedTamerAI.label>install advanced tamer AI</MSE_InstallAdvancedTamerAI.label>
+  <MSE_InstallAdvancedTamerAI.description>Install an advanced tamer AI.</MSE_InstallAdvancedTamerAI.description>
+  <MSE_InstallAdvancedTamerAI.jobString>Installing advanced tamer AI.</MSE_InstallAdvancedTamerAI.jobString>
+
+  <MSE_InstallAdvancedChefAI.label>install advanced chef AI</MSE_InstallAdvancedChefAI.label>
+  <MSE_InstallAdvancedChefAI.description>Install an advanced chef AI.</MSE_InstallAdvancedChefAI.description>
+  <MSE_InstallAdvancedChefAI.jobString>Installing advanced chef AI.</MSE_InstallAdvancedChefAI.jobString>
+
+  <MSE_InstallAdvancedHunterAI.label>install advanced hunter AI</MSE_InstallAdvancedHunterAI.label>
+  <MSE_InstallAdvancedHunterAI.description>Install an advanced hunter AI.</MSE_InstallAdvancedHunterAI.description>
+  <MSE_InstallAdvancedHunterAI.jobString>Installing advanced hunter AI.</MSE_InstallAdvancedHunterAI.jobString>
+
+  <MSE_InstallAdvancedLaborAI.label>install advanced labor AI</MSE_InstallAdvancedLaborAI.label>
+  <MSE_InstallAdvancedLaborAI.description>Install an advanced labor AI.</MSE_InstallAdvancedLaborAI.description>
+  <MSE_InstallAdvancedLaborAI.jobString>Installing advanced labor AI.</MSE_InstallAdvancedLaborAI.jobString>
+
+  <MSE_InstallAdvancedAppetiteSuppressant.label>install advanced appetite suppressant</MSE_InstallAdvancedAppetiteSuppressant.label>
+  <MSE_InstallAdvancedAppetiteSuppressant.description>Install an advanced appetite suppressant.</MSE_InstallAdvancedAppetiteSuppressant.description>
+  <MSE_InstallAdvancedAppetiteSuppressant.jobString>Installing advanced appetite suppressant.</MSE_InstallAdvancedAppetiteSuppressant.jobString>
+
+
+</LanguageData>

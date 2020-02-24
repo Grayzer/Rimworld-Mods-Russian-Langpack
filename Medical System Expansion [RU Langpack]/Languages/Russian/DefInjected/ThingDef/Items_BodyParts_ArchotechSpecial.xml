@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedAntitoxinKidney.label>advanced antitoxin kidney</AdvancedAntitoxinKidney.label>
+  <AdvancedAntitoxinKidney.description>An advanced antitoxin kidney built by an archotech. It more efficient than natural kidney, has advanced toxin filtering system, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</AdvancedAntitoxinKidney.description>
+
+  <AdvancedMedicalLiver.label>advanced medical liver</AdvancedMedicalLiver.label>
+  <AdvancedMedicalLiver.description>An advanced medical liver built by an archotech. It more efficient than natural liver, can secreted more kind of immune system, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</AdvancedMedicalLiver.description>
+
+  <AdvancedEnergizedLiver.label>advanced energized liver</AdvancedEnergizedLiver.label>
+  <AdvancedEnergizedLiver.description>An advanced energized liver built by an archotech. It more efficient than natural liver, can secreted special hormone that make user more energetic, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</AdvancedEnergizedLiver.description>
+
+  <MSE_AdvancedPowerBlade.label>advanced power blade</MSE_AdvancedPowerBlade.label>
+  <MSE_AdvancedPowerBlade.description>An advanced power blade built by an archotech. It looks and feels like natural shoulder, has scyther blade attached to it, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</MSE_AdvancedPowerBlade.description>
+
+  <AdvancedPowerArm.label>advanced power arm</AdvancedPowerArm.label>
+  <AdvancedPowerArm.description>An advanced power arm built by an archotech. It looks and feels like natural arm, have high blunt damage, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</AdvancedPowerArm.description>
+
+  <AdvancedPowerClaw.label>advanced power claw</AdvancedPowerClaw.label>
+  <AdvancedPowerClaw.description>An advanced power claw built by an archotech. It looks and feels like natural hand, has sharp claw attached to it, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</AdvancedPowerClaw.description>
+
+  <AdvancedBreathingSupportRib.label>advanced breathing support rib</AdvancedBreathingSupportRib.label>
+  <AdvancedBreathingSupportRib.description>An advanced breathing support rib built by an archotech. It can make user breath more ease and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</AdvancedBreathingSupportRib.description>
+
+  <AdvancedRelaxationRib.label>advanced relaxation rib</AdvancedRelaxationRib.label>
+  <AdvancedRelaxationRib.description>An advanced relaxation rib built by an archotech. It can make user feel more relaxed and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</AdvancedRelaxationRib.description>
+
+  <AdvancedColdRegulatorRib.label>advanced cold regulator rib</AdvancedColdRegulatorRib.label>
+  <AdvancedColdRegulatorRib.description>An advanced cold regulator rib built by an archotech. It can support blood to regulate cold temperature and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</AdvancedColdRegulatorRib.description>
+
+  <AdvancedHeatRegulatorRib.label>advanced heat regulator rib</AdvancedHeatRegulatorRib.label>
+  <AdvancedHeatRegulatorRib.description>An advanced heat regulator rib built by an archotech. It can support blood to regulate hot temperature and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</AdvancedHeatRegulatorRib.description>
+
+
+</LanguageData>

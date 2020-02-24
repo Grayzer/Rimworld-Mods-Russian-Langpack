@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_BionicClavicleModule.label>bionic clavicle module</MSE_BionicClavicleModule.label>
+  <MSE_BionicClavicleModule.labelNoun>a bionic clavicle module</MSE_BionicClavicleModule.labelNoun>
+
+  <MSE_BionicArmModule.label>bionic arm module</MSE_BionicArmModule.label>
+  <MSE_BionicArmModule.comps.1.tools.0.label>fist</MSE_BionicArmModule.comps.1.tools.0.label>
+  <MSE_BionicArmModule.labelNoun>a bionic arm module</MSE_BionicArmModule.labelNoun>
+
+  <MSE_BionicHumerusModule.label>bionic humerus module</MSE_BionicHumerusModule.label>
+  <MSE_BionicHumerusModule.labelNoun>a bionic humerus module</MSE_BionicHumerusModule.labelNoun>
+
+  <MSE_BionicRadiusModule.label>bionic radius module</MSE_BionicRadiusModule.label>
+  <MSE_BionicRadiusModule.labelNoun>a bionic radius module</MSE_BionicRadiusModule.labelNoun>
+
+  <MSE_BionicHandModule.label>bionic hand module</MSE_BionicHandModule.label>
+  <MSE_BionicHandModule.comps.1.tools.0.label>claw</MSE_BionicHandModule.comps.1.tools.0.label>
+  <MSE_BionicHandModule.labelNoun>a bionic hand module</MSE_BionicHandModule.labelNoun>
+
+  <MSE_BionicFingerModule.label>bionic finger module</MSE_BionicFingerModule.label>
+  <MSE_BionicFingerModule.comps.1.tools.0.label>puncture</MSE_BionicFingerModule.comps.1.tools.0.label>
+  <MSE_BionicFingerModule.labelNoun>a bionic finger module</MSE_BionicFingerModule.labelNoun>
+
+  <MSE_BionicFemurModule.label>bionic femur module</MSE_BionicFemurModule.label>
+  <MSE_BionicFemurModule.labelNoun>a bionic femur module</MSE_BionicFemurModule.labelNoun>
+
+  <MSE_BionicTibiaModule.label>bionic tibia module</MSE_BionicTibiaModule.label>
+  <MSE_BionicTibiaModule.labelNoun>a bionic tibia module</MSE_BionicTibiaModule.labelNoun>
+
+  <MSE_BionicFootModule.label>bionic foot module</MSE_BionicFootModule.label>
+  <MSE_BionicFootModule.labelNoun>a bionic foot module</MSE_BionicFootModule.labelNoun>
+
+  <MSE_BionicToeModule.label>bionic toe module</MSE_BionicToeModule.label>
+  <MSE_BionicToeModule.labelNoun>a bionic toe module</MSE_BionicToeModule.labelNoun>
+
+
+</LanguageData>

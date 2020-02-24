@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_InstallArchotechClavicleModule.label>install archotech clavicle module</MSE_InstallArchotechClavicleModule.label>
+  <MSE_InstallArchotechClavicleModule.description>Install an archotech clavicle module.</MSE_InstallArchotechClavicleModule.description>
+  <MSE_InstallArchotechClavicleModule.jobString>Installing archotech clavicle module.</MSE_InstallArchotechClavicleModule.jobString>
+
+  <MSE_InstallArchotechArmModule.label>install archotech arm module</MSE_InstallArchotechArmModule.label>
+  <MSE_InstallArchotechArmModule.description>Install an archotech arm module.</MSE_InstallArchotechArmModule.description>
+  <MSE_InstallArchotechArmModule.jobString>Installing archotech arm module.</MSE_InstallArchotechArmModule.jobString>
+
+  <MSE_InstallArchotechHumerusModule.label>install archotech humerus module</MSE_InstallArchotechHumerusModule.label>
+  <MSE_InstallArchotechHumerusModule.description>Install an archotech humerus module.</MSE_InstallArchotechHumerusModule.description>
+  <MSE_InstallArchotechHumerusModule.jobString>Installing archotech humerus module.</MSE_InstallArchotechHumerusModule.jobString>
+
+  <MSE_InstallArchotechRadiusModule.label>install archotech radius module</MSE_InstallArchotechRadiusModule.label>
+  <MSE_InstallArchotechRadiusModule.description>Install an archotech radius module.</MSE_InstallArchotechRadiusModule.description>
+  <MSE_InstallArchotechRadiusModule.jobString>Installing archotech radius module.</MSE_InstallArchotechRadiusModule.jobString>
+
+  <MSE_InstallArchotechHandModule.label>install archotech hand module</MSE_InstallArchotechHandModule.label>
+  <MSE_InstallArchotechHandModule.description>Install an archotech hand module.</MSE_InstallArchotechHandModule.description>
+  <MSE_InstallArchotechHandModule.jobString>Installing archotech hand module.</MSE_InstallArchotechHandModule.jobString>
+
+  <MSE_InstallArchotechFingerModule.label>install archotech finger module</MSE_InstallArchotechFingerModule.label>
+  <MSE_InstallArchotechFingerModule.description>Install an archotech finger module.</MSE_InstallArchotechFingerModule.description>
+  <MSE_InstallArchotechFingerModule.jobString>Installing archotech finger module.</MSE_InstallArchotechFingerModule.jobString>
+
+  <MSE_InstallArchotechFemurModule.label>install archotech femur module</MSE_InstallArchotechFemurModule.label>
+  <MSE_InstallArchotechFemurModule.description>Install an archotech femur module.</MSE_InstallArchotechFemurModule.description>
+  <MSE_InstallArchotechFemurModule.jobString>Installing archotech femur module.</MSE_InstallArchotechFemurModule.jobString>
+
+  <MSE_InstallArchotechTibiaModule.label>install archotech tibia module</MSE_InstallArchotechTibiaModule.label>
+  <MSE_InstallArchotechTibiaModule.description>Install an archotech tibia module.</MSE_InstallArchotechTibiaModule.description>
+  <MSE_InstallArchotechTibiaModule.jobString>Installing archotech tibia module.</MSE_InstallArchotechTibiaModule.jobString>
+
+  <MSE_InstallArchotechFootModule.label>install archotech foot module</MSE_InstallArchotechFootModule.label>
+  <MSE_InstallArchotechFootModule.description>Install an archotech foot module.</MSE_InstallArchotechFootModule.description>
+  <MSE_InstallArchotechFootModule.jobString>Installing archotech foot module.</MSE_InstallArchotechFootModule.jobString>
+
+  <MSE_InstallArchotechToeModule.label>install archotech toe module</MSE_InstallArchotechToeModule.label>
+  <MSE_InstallArchotechToeModule.description>Install an archotech toe module.</MSE_InstallArchotechToeModule.description>
+  <MSE_InstallArchotechToeModule.jobString>Installing archotech toe module.</MSE_InstallArchotechToeModule.jobString>
+
+
+</LanguageData>

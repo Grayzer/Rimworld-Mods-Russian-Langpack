@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallArchotechHeart.label>install archotech heart</InstallArchotechHeart.label>
+  <InstallArchotechHeart.description>Install an archotech heart.</InstallArchotechHeart.description>
+  <InstallArchotechHeart.jobString>Installing archotech heart.</InstallArchotechHeart.jobString>
+
+  <InstallArchotechStomach.label>install archotech stomach</InstallArchotechStomach.label>
+  <InstallArchotechStomach.description>Install an archotech stomach.</InstallArchotechStomach.description>
+  <InstallArchotechStomach.jobString>Installing archotech stomach.</InstallArchotechStomach.jobString>
+
+  <InstallArchotechLung.label>install archotech lung</InstallArchotechLung.label>
+  <InstallArchotechLung.description>Install an archotech lung.</InstallArchotechLung.description>
+  <InstallArchotechLung.jobString>Installing archotech lung.</InstallArchotechLung.jobString>
+
+  <InstallArchotechKidney.label>install archotech kidney</InstallArchotechKidney.label>
+  <InstallArchotechKidney.description>Install an archotech kidney.</InstallArchotechKidney.description>
+  <InstallArchotechKidney.jobString>Installing archotech kidney.</InstallArchotechKidney.jobString>
+
+  <InstallArchotechLiver.label>install archotech liver</InstallArchotechLiver.label>
+  <InstallArchotechLiver.description>Install an archotech liver.</InstallArchotechLiver.description>
+  <InstallArchotechLiver.jobString>Installing archotech liver.</InstallArchotechLiver.jobString>
+
+  <InstallArchotechEar.label>install archotech ear</InstallArchotechEar.label>
+  <InstallArchotechEar.description>Install an archotech ear.</InstallArchotechEar.description>
+  <InstallArchotechEar.jobString>Installing archotech ear.</InstallArchotechEar.jobString>
+
+  <InstallArchotechFoot.label>install archotech foot</InstallArchotechFoot.label>
+  <InstallArchotechFoot.description>Install an archotech foot.</InstallArchotechFoot.description>
+  <InstallArchotechFoot.jobString>Installing archotech foot.</InstallArchotechFoot.jobString>
+
+  <InstallArchotechToe.label>install archotech toe</InstallArchotechToe.label>
+  <InstallArchotechToe.description>Install an archotech toe.</InstallArchotechToe.description>
+  <InstallArchotechToe.jobString>Installing archotech toe.</InstallArchotechToe.jobString>
+
+  <InstallArchotechShoulder.label>install archotech shoulder</InstallArchotechShoulder.label>
+  <InstallArchotechShoulder.description>Install an archotech shoulder.</InstallArchotechShoulder.description>
+  <InstallArchotechShoulder.jobString>Installing archotech shoulder.</InstallArchotechShoulder.jobString>
+
+  <InstallArchotechHand.label>install archotech hand</InstallArchotechHand.label>
+  <InstallArchotechHand.description>Install an archotech hand.</InstallArchotechHand.description>
+  <InstallArchotechHand.jobString>Installing archotech hand.</InstallArchotechHand.jobString>
+
+  <InstallArchotechFinger.label>install archotech finger</InstallArchotechFinger.label>
+  <InstallArchotechFinger.description>Install an archotech finger.</InstallArchotechFinger.description>
+  <InstallArchotechFinger.jobString>Installing archotech finger.</InstallArchotechFinger.jobString>
+
+  <InstallArchotechJaw.label>install archotech jaw</InstallArchotechJaw.label>
+  <InstallArchotechJaw.description>Install an archotech jaw.</InstallArchotechJaw.description>
+  <InstallArchotechJaw.jobString>Installing archotech jaw.</InstallArchotechJaw.jobString>
+
+  <InstallArchotechSpine.label>install archotech spine</InstallArchotechSpine.label>
+  <InstallArchotechSpine.description>Install an archotech spine.</InstallArchotechSpine.description>
+  <InstallArchotechSpine.jobString>Installing archotech spine.</InstallArchotechSpine.jobString>
+
+  <InstallArchotechClavicle.label>install archotech clavicle</InstallArchotechClavicle.label>
+  <InstallArchotechClavicle.description>Install an archotech clavicle.</InstallArchotechClavicle.description>
+  <InstallArchotechClavicle.jobString>Installing archotech clavicle.</InstallArchotechClavicle.jobString>
+
+  <InstallArchotechSternum.label>install archotech sternum</InstallArchotechSternum.label>
+  <InstallArchotechSternum.description>Install an archotech sternum.</InstallArchotechSternum.description>
+  <InstallArchotechSternum.jobString>Installing archotech sternum.</InstallArchotechSternum.jobString>
+
+  <InstallArchotechRib.label>install archotech rib</InstallArchotechRib.label>
+  <InstallArchotechRib.description>Install an archotech rib.</InstallArchotechRib.description>
+  <InstallArchotechRib.jobString>Installing archotech rib.</InstallArchotechRib.jobString>
+
+  <InstallArchotechPelvis.label>install archotech pelvis</InstallArchotechPelvis.label>
+  <InstallArchotechPelvis.description>Install an archotech pelvis.</InstallArchotechPelvis.description>
+  <InstallArchotechPelvis.jobString>Installing archotech pelvis.</InstallArchotechPelvis.jobString>
+
+  <InstallArchotechHumerus.label>install archotech humerus</InstallArchotechHumerus.label>
+  <InstallArchotechHumerus.description>Install an archotech humerus.</InstallArchotechHumerus.description>
+  <InstallArchotechHumerus.jobString>Installing archotech humerus.</InstallArchotechHumerus.jobString>
+
+  <InstallArchotechRadius.label>install archotech radius</InstallArchotechRadius.label>
+  <InstallArchotechRadius.description>Install an archotech radius.</InstallArchotechRadius.description>
+  <InstallArchotechRadius.jobString>Installing archotech radius.</InstallArchotechRadius.jobString>
+
+  <InstallArchotechFemur.label>install archotech femur</InstallArchotechFemur.label>
+  <InstallArchotechFemur.description>Install an archotech femur.</InstallArchotechFemur.description>
+  <InstallArchotechFemur.jobString>Installing archotech femur.</InstallArchotechFemur.jobString>
+
+  <InstallArchotechTibia.label>install archotech tibia</InstallArchotechTibia.label>
+  <InstallArchotechTibia.description>Install an archotech tibia.</InstallArchotechTibia.description>
+  <InstallArchotechTibia.jobString>Installing archotech tibia.</InstallArchotechTibia.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PegLeg.label>peg leg</PegLeg.label>
+  <PegLeg.description>A very poor leg replacement.</PegLeg.description>
+
+  <WoodenFoot.label>wooden foot</WoodenFoot.label>
+  <WoodenFoot.description>A very poor foot replacement.</WoodenFoot.description>
+
+  <Denture.label>denture</Denture.label>
+  <Denture.description>A very poor jaw replacement.</Denture.description>
+
+
+</LanguageData>
