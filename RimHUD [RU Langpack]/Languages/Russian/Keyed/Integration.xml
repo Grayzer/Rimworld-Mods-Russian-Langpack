@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimHUD.Integration.GetMod>Ссылка на мод</RimHUD.Integration.GetMod>
+
+  <RimHUD.Integration.General>Общие настройки</RimHUD.Integration.General>
+  <RimHUD.Integration.Bubbles>Облачка взаимодействия</RimHUD.Integration.Bubbles>
+
+  <RimHUD.Integration.Bubbles.Activated>Активированны</RimHUD.Integration.Bubbles.Activated>
+  <RimHUD.Integration.Bubbles.DoNonPlayer>Показывать для чужих фракций</RimHUD.Integration.Bubbles.DoNonPlayer>
+  <RimHUD.Integration.Bubbles.DoAnimals>оказывать для взаимодействий с животными</RimHUD.Integration.Bubbles.DoAnimals>
+
+  <RimHUD.Integration.Bubbles.MinScale>Минимальный отображаемый масштаб</RimHUD.Integration.Bubbles.MinScale>
+  <RimHUD.Integration.Bubbles.ScaleStart>Шкала начального масштаба</RimHUD.Integration.Bubbles.ScaleStart>
+  <RimHUD.Integration.Bubbles.MaxWidth>Максимальная ширин</RimHUD.Integration.Bubbles.MaxWidth>
+  <RimHUD.Integration.Bubbles.Spacing>Интервал</RimHUD.Integration.Bubbles.Spacing>
+  <RimHUD.Integration.Bubbles.StartOffset>Смещение от надписи</RimHUD.Integration.Bubbles.StartOffset>
+  <RimHUD.Integration.Bubbles.OffsetDirection>Направление смещения</RimHUD.Integration.Bubbles.OffsetDirection>
+  <RimHUD.Integration.Bubbles.OffsetDirections>Вниз|Влево|Вверх|Вправо</RimHUD.Integration.Bubbles.OffsetDirections>
+  <RimHUD.Integration.Bubbles.StartOpacity>Начальная непрозрачность</RimHUD.Integration.Bubbles.StartOpacity>
+  <RimHUD.Integration.Bubbles.MouseOverOpacity>Непрозрачность при наведении мыши</RimHUD.Integration.Bubbles.MouseOverOpacity>
+
+  <RimHUD.Integration.Bubbles.MinTime>Минимальное время исчезновения</RimHUD.Integration.Bubbles.MinTime>
+  <RimHUD.Integration.Bubbles.FadeStart>Тиков до начала исчезновения</RimHUD.Integration.Bubbles.FadeStart>
+  <RimHUD.Integration.Bubbles.FadeLength>Тиков до исчезновения</RimHUD.Integration.Bubbles.FadeLength>
+  <RimHUD.Integration.Bubbles.MaxPerPawn>Максимум на пешку</RimHUD.Integration.Bubbles.MaxPerPawn>
+
+  <RimHUD.Integration.Bubbles.FontSize>Размер шрифта</RimHUD.Integration.Bubbles.FontSize>
+  <RimHUD.Integration.Bubbles.PaddingX>Отступ текста X</RimHUD.Integration.Bubbles.PaddingX>
+  <RimHUD.Integration.Bubbles.PaddingY>Отступ текста Y</RimHUD.Integration.Bubbles.PaddingY>
+
+  <RimHUD.Integration.Bubbles.Colors>Цвета облачка</RimHUD.Integration.Bubbles.Colors>
+  <RimHUD.Integration.Bubbles.ForeColor>Цвет текста</RimHUD.Integration.Bubbles.ForeColor>
+  <RimHUD.Integration.Bubbles.BackColor>Цвет фона</RimHUD.Integration.Bubbles.BackColor>
+  <RimHUD.Integration.Bubbles.SelectedForeColor>Выбранный цвет текста</RimHUD.Integration.Bubbles.SelectedForeColor>
+  <RimHUD.Integration.Bubbles.SelectedBackColor>Выбранный цвет фона</RimHUD.Integration.Bubbles.SelectedBackColor>
+
+  <RimHUD.Integration.PawnRules>Правила пешки</RimHUD.Integration.PawnRules>
+  <RimHUD.Integration.PawnRules.RuleNameFormat>Правила: {0}</RimHUD.Integration.PawnRules.RuleNameFormat>
+  <RimHUD.Integration.PawnRules.ReplaceFoodSelector>Заменить селектор еды</RimHUD.Integration.PawnRules.ReplaceFoodSelector>
+  <RimHUD.Integration.PawnRules.ReplaceFoodSelectorDesc>Если включено, селектор еды будет заменен селектором правил.</RimHUD.Integration.PawnRules.ReplaceFoodSelectorDesc>
+  <RimHUD.Integration.PawnRules.HideGizmo>Скрыть гизмо</RimHUD.Integration.PawnRules.HideGizmo>
+  <RimHUD.Integration.PawnRules.HideGizmoDesc>Отключает правила гизмо, которые появляются рядом с кнопкой "к бою", так как RimHUD добавляет кнопку правил в панель проверки.</RimHUD.Integration.PawnRules.HideGizmoDesc>
+</LanguageData>

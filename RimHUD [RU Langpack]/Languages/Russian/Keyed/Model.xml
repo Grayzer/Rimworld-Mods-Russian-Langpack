@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
+  <RimHUD.Model.OfFaction>из {0}</RimHUD.Model.OfFaction>
+
+  <RimHUD.Model.Faction.Own>Наш</RimHUD.Model.Faction.Own>
+  <RimHUD.Model.Faction.Wild>Дикий</RimHUD.Model.Faction.Wild>
+  <RimHUD.Model.Faction.Allied>Союзник</RimHUD.Model.Faction.Allied>
+  <RimHUD.Model.Faction.Enemy>Враг</RimHUD.Model.Faction.Enemy>
+  <RimHUD.Model.Faction.Hostile>Враждебный</RimHUD.Model.Faction.Hostile>
+  <RimHUD.Model.Faction.Independent>Нейтральный</RimHUD.Model.Faction.Independent>
+
+  <RimHUD.Model.Creature.Wild>существо</RimHUD.Model.Creature.Wild>
+  <RimHUD.Model.Creature.Tame>прирученное существо</RimHUD.Model.Creature.Tame>
+  <RimHUD.Model.Creature.Stray>бездомное</RimHUD.Model.Creature.Stray>
+  <RimHUD.Model.Creature.Pet>питомец</RimHUD.Model.Creature.Pet>
+  <RimHUD.Model.Creature.ExoticPet>экзотический питомец</RimHUD.Model.Creature.ExoticPet>
+  <RimHUD.Model.Creature.Predator>хищник</RimHUD.Model.Creature.Predator>
+  <RimHUD.Model.Creature.Hunt>охотничье животное</RimHUD.Model.Creature.Hunt>
+  <RimHUD.Model.Creature.Pack>стайное животное</RimHUD.Model.Creature.Pack>
+  <RimHUD.Model.Creature.Farm>домашний скот</RimHUD.Model.Creature.Farm>
+  <RimHUD.Model.Creature.Herd>стадное животное</RimHUD.Model.Creature.Herd>
+  <RimHUD.Model.Creature.Insect>насекомое</RimHUD.Model.Creature.Insect>
+  <RimHUD.Model.Creature.Unit>unit</RimHUD.Model.Creature.Unit>
+
+  <RimHUD.Model.GenderAndAge>{0} возраст {1}</RimHUD.Model.GenderAndAge>
+  <RimHUD.Model.Age.Birthday> (Сегодня день рождения)</RimHUD.Model.Age.Birthday>
+  <RimHUD.Model.Age.Day> и один день</RimHUD.Model.Age.Day>
+  <RimHUD.Model.Age.Days> лет и {0} дней</RimHUD.Model.Age.Days>
+
+  <RimHUD.Model.Health.Dead>Мёртв</RimHUD.Model.Health.Dead>
+  <RimHUD.Model.Health.Incapacitated>Недееспособен</RimHUD.Model.Health.Incapacitated>
+  <RimHUD.Model.Health.Bleed>Истечет кровью через {0}</RimHUD.Model.Health.Bleed>
+  <RimHUD.Model.Health.Tend>{0} состоянию требуется уход</RimHUD.Model.Health.Tend>
+  <RimHUD.Model.Health.TendPlural>{0} состояниям требуется уход</RimHUD.Model.Health.TendPlural>
+  <RimHUD.Model.Health.Threat>Имеет угрозу для жизни {0}</RimHUD.Model.Health.Threat>
+  <RimHUD.Model.Health.ThreatPlural>Имеет {0} состояний угрожающих жизни</RimHUD.Model.Health.ThreatPlural>
+  <RimHUD.Model.Health.Affected>Страдает от {0}</RimHUD.Model.Health.Affected>
+  <RimHUD.Model.Health.AffectedPlural>Страдает от {0} и {1} других состояний</RimHUD.Model.Health.AffectedPlural>
+  <RimHUD.Model.Health.Stable>Здоровье стабильно</RimHUD.Model.Health.Stable>
+
+  <RimHUD.Model.Mood.ExtremeBreakImminent>Депрессия</RimHUD.Model.Mood.ExtremeBreakImminent>
+  <RimHUD.Model.Mood.MajorBreakImminent>Недовольство</RimHUD.Model.Mood.MajorBreakImminent>
+  <RimHUD.Model.Mood.MinorBreakImminent>Стресс</RimHUD.Model.Mood.MinorBreakImminent>
+  <RimHUD.Model.Mood.Happy>Счастье</RimHUD.Model.Mood.Happy>
+  <RimHUD.Model.Mood.Content>Довольство</RimHUD.Model.Mood.Content>
+  <RimHUD.Model.Mood.Indifferent>Равнодушие</RimHUD.Model.Mood.Indifferent>
+
+  <RimHUD.Model.Info.Activity>Деятельность: {0}</RimHUD.Model.Info.Activity>
+  <RimHUD.Model.Info.Attacking>атакует {0}</RimHUD.Model.Info.Attacking>
+  <RimHUD.Model.Info.Queued>В очереди: {0}</RimHUD.Model.Info.Queued>
+  <RimHUD.Model.Info.Equipped>Экипировано: {0}</RimHUD.Model.Info.Equipped>
+  <RimHUD.Model.Info.Carrying>Переносит: {0}</RimHUD.Model.Info.Carrying>
+
+  <RimHUD.Model.Bio.Title>Профессия: {0}</RimHUD.Model.Bio.Title>
+  <RimHUD.Model.Bio.Faction>Фракция: {0}</RimHUD.Model.Bio.Faction>
+  <RimHUD.Model.Bio.Master>Хозяин: {0}</RimHUD.Model.Bio.Master>
+  <RimHUD.Model.Bio.Diet>Диета: {0}</RimHUD.Model.Bio.Diet>
+  <RimHUD.Model.Bio.Trainability>Обучаемость: {0}</RimHUD.Model.Bio.Trainability>
+  <RimHUD.Model.Bio.Wildness>Дикость: {0}</RimHUD.Model.Bio.Wildness>
+  <RimHUD.Model.Bio.Petness>Одомашненность: {0}</RimHUD.Model.Bio.Petness>
+
+  <RimHUD.Model.Selector.OutfitFormat>Гардероб: {0}</RimHUD.Model.Selector.OutfitFormat>
+  <RimHUD.Model.Selector.FoodFormat>Диета: {0}</RimHUD.Model.Selector.FoodFormat>
+  <RimHUD.Model.Selector.TimetableFormat>График: {0}</RimHUD.Model.Selector.TimetableFormat>
+  <RimHUD.Model.Selector.SetTimeAssignment>Установите {0} час на {1}</RimHUD.Model.Selector.SetTimeAssignment>
+  <RimHUD.Model.Selector.AreaFormat>Зона: {0}</RimHUD.Model.Selector.AreaFormat>
+  <RimHUD.Model.Selector.Manage>Настроить...</RimHUD.Model.Selector.Manage>
+
+  <RimHUD.Model.Component.Root>Корень</RimHUD.Model.Component.Root>
+  <RimHUD.Model.Component.VStack>Вертикальный блок</RimHUD.Model.Component.VStack>
+  <RimHUD.Model.Component.VStackFilled>Вертикальный блок (заполняющий)</RimHUD.Model.Component.VStackFilled>
+  <RimHUD.Model.Component.HStack>Горизонтальный блок</RimHUD.Model.Component.HStack>
+  <RimHUD.Model.Component.HStackFilled>Горизонтальный блок (заполняющий)</RimHUD.Model.Component.HStackFilled>
+  <RimHUD.Model.Component.Panel>Панель</RimHUD.Model.Component.Panel>
+  <RimHUD.Model.Component.PanelFilled>Панель (заполняющая)</RimHUD.Model.Component.PanelFilled>
+  <RimHUD.Model.Component.Row>Строка</RimHUD.Model.Component.Row>
+
+  <RimHUD.Model.Component.Blank>Пустой</RimHUD.Model.Component.Blank>
+  <RimHUD.Model.Component.Separator>Линия разделитель</RimHUD.Model.Component.Separator>
+  <RimHUD.Model.Component.NameHeader>Имя как заголовок</RimHUD.Model.Component.NameHeader>
+  <RimHUD.Model.Component.Outfit>Выбор гардероба</RimHUD.Model.Component.Outfit>
+  <RimHUD.Model.Component.Food>Выбор диеты</RimHUD.Model.Component.Food>
+  <RimHUD.Model.Component.Rules>Rules selector (Requires Pawn Rules)</RimHUD.Model.Component.Rules>
+  <RimHUD.Model.Component.Timetable>Выбор графика</RimHUD.Model.Component.Timetable>
+  <RimHUD.Model.Component.Area>Выбор зоны</RimHUD.Model.Component.Area>
+  <RimHUD.Model.Component.RelationKindAndFaction>Профессия и фракция</RimHUD.Model.Component.RelationKindAndFaction>
+  <RimHUD.Model.Component.GenderAndAge>Пол и возраст</RimHUD.Model.Component.GenderAndAge>
+  <RimHUD.Model.Component.Health>Полоска здоровья</RimHUD.Model.Component.Health>
+  <RimHUD.Model.Component.HealthCondition>Состояние злоровья</RimHUD.Model.Component.HealthCondition>
+  <RimHUD.Model.Component.MindCondition>Состояние разума</RimHUD.Model.Component.MindCondition>
+
+  <RimHUD.Model.Component.Stat>Статус {0}</RimHUD.Model.Component.Stat>
+  <RimHUD.Model.Component.Record>Статистика {0}</RimHUD.Model.Component.Record>
+
+  <RimHUD.Model.Component.NeedMood>Полоска настроения</RimHUD.Model.Component.NeedMood>
+  <RimHUD.Model.Component.NeedFood>Полоска сытости</RimHUD.Model.Component.NeedFood>
+  <RimHUD.Model.Component.NeedRest>Полоска отдыха</RimHUD.Model.Component.NeedRest>
+  <RimHUD.Model.Component.NeedRecreation>Полоска удовлетворённости</RimHUD.Model.Component.NeedRecreation>
+  <RimHUD.Model.Component.Need>Полоска {0}</RimHUD.Model.Component.Need>
+
+  <RimHUD.Model.Component.SkillShooting>Дальний бой</RimHUD.Model.Component.SkillShooting>
+  <RimHUD.Model.Component.SkillMelee>Ближний бой</RimHUD.Model.Component.SkillMelee>
+  <RimHUD.Model.Component.SkillConstruction>Строительство</RimHUD.Model.Component.SkillConstruction>
+  <RimHUD.Model.Component.SkillMining>Горное дело</RimHUD.Model.Component.SkillMining>
+  <RimHUD.Model.Component.SkillCooking>Кулинария</RimHUD.Model.Component.SkillCooking>
+  <RimHUD.Model.Component.SkillPlants>Растениводство</RimHUD.Model.Component.SkillPlants>
+  <RimHUD.Model.Component.SkillAnimals>Животноводство</RimHUD.Model.Component.SkillAnimals>
+  <RimHUD.Model.Component.SkillCrafting>Ремесло</RimHUD.Model.Component.SkillCrafting>
+  <RimHUD.Model.Component.SkillArtistic>Искусство</RimHUD.Model.Component.SkillArtistic>
+  <RimHUD.Model.Component.SkillMedicine>Медицина</RimHUD.Model.Component.SkillMedicine>
+  <RimHUD.Model.Component.SkillSocial>Общение</RimHUD.Model.Component.SkillSocial>
+  <RimHUD.Model.Component.SkillIntellectual>Умственный труд</RimHUD.Model.Component.SkillIntellectual>
+  <RimHUD.Model.Component.Skill>{0}</RimHUD.Model.Component.Skill>
+
+  <RimHUD.Model.Component.TrainingTameness>Прирученность</RimHUD.Model.Component.TrainingTameness>
+  <RimHUD.Model.Component.TrainingObedience>Преданность</RimHUD.Model.Component.TrainingObedience>
+  <RimHUD.Model.Component.TrainingRelease>Натравливание</RimHUD.Model.Component.TrainingRelease>
+  <RimHUD.Model.Component.TrainingRescue>Спасение</RimHUD.Model.Component.TrainingRescue>
+  <RimHUD.Model.Component.TrainingHaul>Переноска</RimHUD.Model.Component.TrainingHaul>
+  <RimHUD.Model.Component.Training>{0}</RimHUD.Model.Component.Training>
+
+  <RimHUD.Model.Component.Master>Хозяин</RimHUD.Model.Component.Master>
+  <RimHUD.Model.Component.Activity>Деятельность</RimHUD.Model.Component.Activity>
+  <RimHUD.Model.Component.Queued>На очереди</RimHUD.Model.Component.Queued>
+  <RimHUD.Model.Component.Equipped>Экиперовано</RimHUD.Model.Component.Equipped>
+  <RimHUD.Model.Component.Carrying>Переносит</RimHUD.Model.Component.Carrying>
+  <RimHUD.Model.Component.CompInfo>Дополнительное инфо</RimHUD.Model.Component.CompInfo>
+
+  <RimHUD.Model.Component.Container.Filled>заполняющая</RimHUD.Model.Component.Container.Filled>
+
+  <RimHUD.Model.Target.PlayerHumanlike>Человекоподобные игрока</RimHUD.Model.Target.PlayerHumanlike>
+  <RimHUD.Model.Target.OtherHumanlike>Другие человекоподобные</RimHUD.Model.Target.OtherHumanlike>
+  <RimHUD.Model.Target.PlayerCreature>Создания игрока</RimHUD.Model.Target.PlayerCreature>
+  <RimHUD.Model.Target.OtherCreature>Другие создания</RimHUD.Model.Target.OtherCreature>
+</LanguageData>
