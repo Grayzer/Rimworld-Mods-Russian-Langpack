@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings -->
+
+  <Prospecting.Name>Разведка</Prospecting.Name>
+
+  <Prospecting.AllowManualSound>Разрешить звук на ручных дрелях:</Prospecting.AllowManualSound>
+
+  <Prospecting.AllowProspect>Разрешить в добыче индикацию камней:</Prospecting.AllowProspect>
+  <Prospecting.BaseChance>Базовый шанс получить индикацию камней [%]:</Prospecting.BaseChance>
+
+  <Prospecting.PrsLumpSizeMin>Относительный мин. размер площадки [%]:</Prospecting.PrsLumpSizeMin>
+  <Prospecting.PrsLumpSizeMax>Относительный макс. размер площадки [%]:</Prospecting.PrsLumpSizeMax>
+  <Prospecting.PrsCommonality>Относительная общность [%]:</Prospecting.PrsCommonality>
+  <Prospecting.PrsMineYield>Относительная добыча [%]:</Prospecting.PrsMineYield>
+
+  <Prospecting.PrsDeepLumpSizeMin>Относительный мин. размер глубокой площадки [%]:</Prospecting.PrsDeepLumpSizeMin>
+  <Prospecting.PrsDeepLumpSizeMax>Относительный макс. размер глубокой площадки [%]:</Prospecting.PrsDeepLumpSizeMax>
+  <Prospecting.PrsDeepCommonality>Относительная глубокая общность [%]:</Prospecting.PrsDeepCommonality>
+  <Prospecting.PrsDeepMineYield>Относительная глубокая добыча [%]:</Prospecting.PrsDeepMineYield>
+
+  <Prospecting.LoadTip>(Относительные настройки будут применяться только при создании новой карты и после перезапуска игры.)</Prospecting.LoadTip>
+
+  <Prospecting.ResetDefaults>Установить по умолчанию:</Prospecting.ResetDefaults>
+  <Prospecting.Reset>Сброс</Prospecting.Reset>
+
+  <!-- Content -->
+
+  <Prospecting.FeedbackDeepNoChg>Разведка проверенных {0} глубоких добываемых ресурсов без изменений.</Prospecting.FeedbackDeepNoChg>
+  <Prospecting.FeedbackDeep>Разведка проверенных {0} глубоко добываемых ресурсов с {1} изменениями.</Prospecting.FeedbackDeep>
+
+  <Prospecting.FeedbackNoChg>Разведка проверенных {0} добываемых объектов без изменений.</Prospecting.FeedbackNoChg>
+  <Prospecting.Feedback>Разведка проверенных {0} добываемых объектов с {1} изменениями.</Prospecting.Feedback>
+
+  <!--  Wide Boy -->
+
+  <Prospecting.SpanLabel>Ширина</Prospecting.SpanLabel>
+  <Prospecting.SpanDesc>Установите ширину пролета для сверла.</Prospecting.SpanDesc>
+
+  <Prospecting.SpanDoNothing>Ничего не делать</Prospecting.SpanDoNothing>
+  <Prospecting.SpanOption>Установите ширину в {0}</Prospecting.SpanOption>
+
+  <Prospecting.RockToggle>Разрешить камни</Prospecting.RockToggle>
+  <Prospecting.RockDesc>Допускает ли бур добычу камней</Prospecting.RockDesc>
+
+  <Prospecting.BoostToggle>Форсирование</Prospecting.BoostToggle>
+  <Prospecting.BoostDesc>Перезарядка Толстяка</Prospecting.BoostDesc>
+
+  <Prospecting.WideBoyZeroLeft>Не осталось ресурсов для бурения Толстяком.</Prospecting.WideBoyZeroLeft>
+
+  <!--  Work Prospecting -->
+
+  <Prospecting.DesignatorProspect>Разведка</Prospecting.DesignatorProspect>
+  <Prospecting.DesignatorProspectDesc>Отметить полезные ископаемые для поисковых работ.</Prospecting.DesignatorProspectDesc>
+
+  <Prospecting.TooCloseDesig>Слишком близко к существующей точке поиска, должно быть дальше, чем {0} ячейки.</Prospecting.TooCloseDesig>
+
+  <Prospecting.NeedProspector>Нужен Разведчик</Prospecting.NeedProspector>
+  <Prospecting.NeedProspectorDesc>Вы определили некоторые породы для разведки, но ни у одного из колонистов нет типа работ на разведке.\n\nНазначьте колонисту тип работы Разведка.</Prospecting.NeedProspectorDesc>
+
+  <Prospecting.OreFound>Руда была найдена {0}</Prospecting.OreFound>
+  <Prospecting.AProspector>разведчиком</Prospecting.AProspector>
+  <Prospecting.ResourceFound>, ресурсы {0}</Prospecting.ResourceFound>
+  <Prospecting.Unknown>неизвестно</Prospecting.Unknown>
+
+  <Prospecting.DeepResources>Доступные ресурсы: {0} ({1})</Prospecting.DeepResources>
+  <Prospecting.InstallDrill>Установите бур для поиска ресурсов</Prospecting.InstallDrill>
+  <Prospecting.DrillNotProspected>Не разведано для ресурсов.</Prospecting.DrillNotProspected>
+  <Prospecting.InsufficientWind>Недостаточно ветра для работы бура</Prospecting.InsufficientWind>
+  <Prospecting.RoofPerform>Крыша открыта: {0}</Prospecting.RoofPerform>
+  <Prospecting.WindPerform>Эффективный ветер: {0}</Prospecting.WindPerform>
+  <Prospecting.ManualDrillExhausted>Ручное бурение ресурсов исчерпано, бурение автоматически запрещено. Запрещено начинать добычу {0}.</Prospecting.ManualDrillExhausted>
+  <Prospecting.ManualDrillExhaustedNoFallback>Ресурсы ручного бурения исчерпаны.</Prospecting.ManualDrillExhaustedNoFallback>
+
+  <Prospecting.DrillProspect>Ручной бур, управляемый {0}, обнаружил руду</Prospecting.DrillProspect>
+  <Prospecting.ProgressProspect>Прогресс разведки</Prospecting.ProgressProspect>
+
+  <!--  Belt -->
+
+  <Prospecting.BeltUse>Использовать Пояс разведки</Prospecting.BeltUse>
+  <Prospecting.BeltDesc>Нажмите, чтобы открыть меню для команд</Prospecting.BeltDesc>
+  <Prospecting.BeltDoNothing>Ничего не делать</Prospecting.BeltDoNothing>
+  <Prospecting.BeltUseBelt>Поиск руд с {0}</Prospecting.BeltUseBelt>
+  <Prospecting.BeltReasonPrefix>Невозможно использовать из-за {0}</Prospecting.BeltReasonPrefix>
+  <Prospecting.NotHumanLike>{0} не похож на человека</Prospecting.NotHumanLike>
+  <Prospecting.LackSkill>{0} не хватает навыков бурения</Prospecting.LackSkill>
+  <Prospecting.BeltFoundLabel>Разведка успешна</Prospecting.BeltFoundLabel>
+  <Prospecting.BeltFoundRes>{0} нашел глубокую руду поблизости и подозревает, что это {1}</Prospecting.BeltFoundRes>
+  <Prospecting.BeltNotFoundRes>{0} не нашел руд.</Prospecting.BeltNotFoundRes>
+  <Prospecting.MarkerDisplay>Ресурсы: {0} ({1})\nВремя до истечения: {2}</Prospecting.MarkerDisplay>
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SEPD_ModName>Planetary Drill</SEPD_ModName>
+
+	<!-- Settings -->
+	<SEPD_SettingsCategory>Planetary Drill</SEPD_SettingsCategory>
+	<SEPD_DrillResearchCost>research cost</SEPD_DrillResearchCost>
+	<SEPD_WorkAmount>work amount</SEPD_WorkAmount>
+	<SEPD_YieldAmount>yield amount</SEPD_YieldAmount>
+	<SEPD_Drillable>drillable</SEPD_Drillable>
+	<SEPD_RestartRequiredDrillable>Changing any of the "Drillable" checks requires a full game restart.</SEPD_RestartRequiredDrillable>
+
+	<SEPD_Sandstone>Sandstone</SEPD_Sandstone>
+	<SEPD_Granite>Granite</SEPD_Granite>
+	<SEPD_Limestone>Limestone</SEPD_Limestone>
+	<SEPD_Slate>Slate</SEPD_Slate>
+	<SEPD_Marble>Marble</SEPD_Marble>
+	
+	<SEPD_Steel>steel</SEPD_Steel>
+	<SEPD_Plasteel>plasteel</SEPD_Plasteel>
+	<SEPD_Uranium>uranium</SEPD_Uranium>
+	<SEPD_Jade>jade</SEPD_Jade>
+	<SEPD_Silver>silver</SEPD_Silver>
+	<SEPD_Gold>gold</SEPD_Gold>
+	<SEPD_ComponentIndustrial>Component</SEPD_ComponentIndustrial>
+	<SEPD_ComponentSpacer>Advanced Component</SEPD_ComponentSpacer>
+	
+	<SEPD_Titanium>titanium</SEPD_Titanium>
+  
+</LanguageData>

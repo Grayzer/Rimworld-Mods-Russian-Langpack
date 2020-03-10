@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimPlas -->
+
+  <RimPlas.label>РимПлас</RimPlas.label>
+  <RimPlas.description>Синтетический пластик используется в строительстве огромного количества разных конструкций и предметов.</RimPlas.description>
+
+
+  <!-- RimPoly -->
+
+  <RimPoly.label>РимПол</RimPoly.label>
+  <RimPoly.description>Синтетическое полимерное волокно.</RimPoly.description>
+
+
+  <!-- RPMechanites -->
+
+  <RPMechanites.label>Механиты</RPMechanites.label>
+  <RPMechanites.description>Канистра с механитами, хранится под давлением.</RPMechanites.description>
+
+
+</LanguageData>

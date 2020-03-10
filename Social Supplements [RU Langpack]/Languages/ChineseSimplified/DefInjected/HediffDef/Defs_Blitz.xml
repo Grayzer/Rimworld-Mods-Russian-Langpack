@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Zest -->
+
+  <SSBlitz_Zest_High.label>提神霹雳（果味）</SSBlitz_Zest_High.label>
+  <SSBlitz_Zest_High.labelNoun>困了累了喝霹雳。水果味，沁人心！</SSBlitz_Zest_High.labelNoun>
+
+
+  <!-- Ice -->
+
+  <SSBlitz_Ice_High.label>提神霹雳（冰爽）</SSBlitz_Ice_High.label>
+  <SSBlitz_Ice_High.labelNoun>困了累了喝霹雳。薄荷味，更清爽！</SSBlitz_Ice_High.labelNoun>
+
+
+</LanguageData>

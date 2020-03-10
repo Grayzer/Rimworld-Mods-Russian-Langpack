@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimlaserCrystal.label>кристалл</RimlaserCrystal.label>
+  <RimlaserCrystal.description>Кристалл, используемый в качестве лазерной среды для твердотельных лазеров.</RimlaserCrystal.description>
+
+  <UnfinishedRimlaserPrism.label>незаконченная призма</UnfinishedRimlaserPrism.label>
+
+  <RimlaserPrism.label>призма</RimlaserPrism.label>
+  <RimlaserPrism.description>Основной компонент лазерного оружия. Призма также может быть использована для изменения цвета луча (без влияния на боевые возможности оружия).</RimlaserPrism.description>
+
+  <UnfinishedLaserGun.label>незаконченная лазерная пушка</UnfinishedLaserGun.label>
+
+
+</LanguageData>

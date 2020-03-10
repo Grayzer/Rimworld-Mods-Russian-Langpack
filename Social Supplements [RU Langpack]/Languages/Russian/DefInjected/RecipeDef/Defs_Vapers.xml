@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Empty -->
+
+  <MakeSSVaper_Empty.label>Сделать вейп (Пустой)</MakeSSVaper_Empty.label>
+  <MakeSSVaper_Empty.description>Сделать Дымолистный вейп (Пустой).</MakeSSVaper_Empty.description>
+  <MakeSSVaper_Empty.jobString>Делает Дымолистный вейп.</MakeSSVaper_Empty.jobString>
+
+
+  <!-- Regular -->
+
+  <MakeSSVaper_Regular.label>Сделать вейп (Обычный)</MakeSSVaper_Regular.label>
+  <MakeSSVaper_Regular.description>Сделать Дымолистный вейп (Обычный).</MakeSSVaper_Regular.description>
+  <MakeSSVaper_Regular.jobString>Делает Дымолистный вейп.</MakeSSVaper_Regular.jobString>
+
+  <MakeSSVaperRefillRegular.label>Сделать вейп-заправку (Обычную)</MakeSSVaperRefillRegular.label>
+  <MakeSSVaperRefillRegular.description>Сделать 1 Дымолистный вейп-заправку (Обычную).</MakeSSVaperRefillRegular.description>
+  <MakeSSVaperRefillRegular.jobString>Делает Дымолистную вейп-заправку.</MakeSSVaperRefillRegular.jobString>
+
+
+  <!-- Fruity -->
+
+  <MakeSSVaper_Fruity.label>Сделать вейп (Фруктовый)</MakeSSVaper_Fruity.label>
+  <MakeSSVaper_Fruity.description>Сделать Дымолистный вейп (Фруктовый).</MakeSSVaper_Fruity.description>
+  <MakeSSVaper_Fruity.jobString>Делает Дымолистный вейп.</MakeSSVaper_Fruity.jobString>
+
+  <MakeSSVaperRefillFruity.label>Сделать вейп-заправку (Фруктовую)</MakeSSVaperRefillFruity.label>
+  <MakeSSVaperRefillFruity.description>Сделать 1 Дымолистный вейп-заправку (Фруктовую).</MakeSSVaperRefillFruity.description>
+  <MakeSSVaperRefillFruity.jobString>Делает Дымолистную вейп-заправку.</MakeSSVaperRefillFruity.jobString>
+
+
+  <!-- Menthol -->
+
+  <MakeSSVaper_Menthol.label>Сделать вейп (Ментол)</MakeSSVaper_Menthol.label>
+  <MakeSSVaper_Menthol.description>Сделать Дымолистный вейп (Ментол).</MakeSSVaper_Menthol.description>
+  <MakeSSVaper_Menthol.jobString>Делает Дымолистный вейп.</MakeSSVaper_Menthol.jobString>
+
+  <MakeSSVaperRefillMenthol.label>Сделать вейп-заправку (Ментол)</MakeSSVaperRefillMenthol.label>
+  <MakeSSVaperRefillMenthol.description>Сделать 1 Дымолистный вейп-заправку (Ментол).</MakeSSVaperRefillMenthol.description>
+  <MakeSSVaperRefillMenthol.jobString>Делает Дымолистную вейп-заправку.</MakeSSVaperRefillMenthol.jobString>
+
+
+</LanguageData>

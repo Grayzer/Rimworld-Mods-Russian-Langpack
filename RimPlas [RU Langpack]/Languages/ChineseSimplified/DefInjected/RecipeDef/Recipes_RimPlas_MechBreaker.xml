@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RPButcherCorpseMechanoid.label>拆解机械体</RPButcherCorpseMechanoid.label>
+  <RPButcherCorpseMechanoid.description>将一个死亡的机械体拆解为各个部件。</RPButcherCorpseMechanoid.description>
+  <RPButcherCorpseMechanoid.jobString>正在拆解机械体。</RPButcherCorpseMechanoid.jobString>
+
+
+</LanguageData>

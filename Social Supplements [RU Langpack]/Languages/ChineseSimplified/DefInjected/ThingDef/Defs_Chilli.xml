@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <Plant_SSChilli.label>辣椒</Plant_SSChilli.label>
+  <Plant_SSChilli.description>茄科辣椒属植物的统称. 其中一些特定的种能够结出带有辣味的果实.</Plant_SSChilli.description>
+
+
+  <!-- Peppers -->
+
+  <SSChilliPeppers.label>辣椒</SSChilliPeppers.label>
+  <SSChilliPeppers.description>生辣椒.</SSChilliPeppers.description>
+
+
+  <!-- 辣酱 -->
+
+  <SSHotSauce.label>辣酱</SSHotSauce.label>
+  <SSHotSauce.description>精选上乘辣椒秘制而成的辣酱.</SSHotSauce.description>
+
+
+</LanguageData>

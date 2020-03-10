@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OrbitalTradeColumnMod.label>Торговая колонна</OrbitalTradeColumnMod.label>
+  <OrbitalTradeColumnMod.description>Это механическая опора, в которой собраны функции, необходимые для управления складом. Она может поддерживать крышу, выполнять функции маяка и даже работать освещением.</OrbitalTradeColumnMod.description>
+
+  <SunColumnMod.label>Солнечная колонна</SunColumnMod.label>
+  <SunColumnMod.description>Это механическая опора, которая собирает основные функции для управления внутрихозяйственной фермой. Она поддерживает крышу, поддерживает температуру окружающей среды в 28 градусов и излучает свет, который позволяет растению расти. Выключается автоматически ночью.</SunColumnMod.description>
+  <SunColumnMod.comps.CompSchedule.offMessage>Выкл из-за перерыва</SunColumnMod.comps.CompSchedule.offMessage>
+
+</LanguageData>

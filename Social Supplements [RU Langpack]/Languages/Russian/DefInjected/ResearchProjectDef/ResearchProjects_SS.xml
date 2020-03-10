@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SSBlitz.label>Энергетический напиток Blitz</SSBlitz.label>
+  <SSBlitz.description>Дает возможность сделать Blitz.</SSBlitz.description>
+
+  <SSMouthWash.label>Полоскание для рта</SSMouthWash.label>
+  <SSMouthWash.description>Предоставляет возможность сделать жидкость для полоскания рта.</SSMouthWash.description>
+
+  <SSVape.label>Дымолистные вейпы</SSVape.label>
+  <SSVape.description>Предоставляет возможность сделать Дымолистные вейпы.</SSVape.description>
+
+
+</LanguageData>

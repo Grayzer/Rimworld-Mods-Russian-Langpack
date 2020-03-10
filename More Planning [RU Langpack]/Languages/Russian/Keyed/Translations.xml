@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MorePlanning.SettingRemoveIfBuildingDespawned.label>Удалить план после стройки</MorePlanning.SettingRemoveIfBuildingDespawned.label>
+    <MorePlanning.SettingRemoveIfBuildingDespawned.desc>Если обозначения планирования должны быть удалены, когда что-то построено или разрушено поверх этого.</MorePlanning.SettingRemoveIfBuildingDespawned.desc>
+
+    <MorePlanning.SettingShiftKeyForOverride.label>Клавиша Shift переопределяет цвета</MorePlanning.SettingShiftKeyForOverride.label>
+    <MorePlanning.SettingShiftKeyForOverride.desc>Добавление или удаление планов по умолчанию заменит все цвета. Удерживайте [shift], планируя игнорировать другие цвета. Отметьте эту опцию, чтобы изменить это.</MorePlanning.SettingShiftKeyForOverride.desc>
+
+    <MorePlanning.PlanDesc>Место планирования обозначений. Они ничего не делают, кроме как помогают планировать будущие расширения. Удерживайте [shift], чтобы отменить опцию отмены.</MorePlanning.PlanDesc>
+
+    <MorePlanning.PlanVisibility>Видимость Планирования</MorePlanning.PlanVisibility>
+    <MorePlanning.PlanVisibilityDesc>Изменить видимость планирования.</MorePlanning.PlanVisibilityDesc>
+
+    <Planning.label>Планы</Planning.label>
+
+    <MorePlanning.Opacity.label>Непрозрачность: {0}%</MorePlanning.Opacity.label>
+    <MorePlanning.Opacity.desc>Изменить непрозрачность планов.</MorePlanning.Opacity.desc>
+
+    <MorePlanning.DefaultOpacity>(По умолчанию)</MorePlanning.DefaultOpacity>
+
+    <MorePlanning.PlanCopy>Копировать План</MorePlanning.PlanCopy>
+    <MorePlanning.PlanCopyDesc>Копирование плановых обозначений выбранной области.</MorePlanning.PlanCopyDesc>
+
+    <MorePlanning.PlanCut>Вырезать План</MorePlanning.PlanCut>
+    <MorePlanning.PlanCutDesc>Вырезать планировочные обозначения выбранного участка.</MorePlanning.PlanCutDesc>
+
+    <MorePlanning.PlanPaste>Вставить План</MorePlanning.PlanPaste>
+    <MorePlanning.PlanPasteDesc>Вставить обозначения планирования скопированы или вырезать.</MorePlanning.PlanPasteDesc>
+
+    <MorePlanning.NoCutCopiedPlan>Никакие обозначения планирования не были вырезаны или скопированы.</MorePlanning.NoCutCopiedPlan>
+
+    <MorePlanning.MissingPlanningDesignations>При выборе не было найдено обозначений планирования.</MorePlanning.MissingPlanningDesignations>
+
+    <MorePlanning.DefaultColor>цвет по умолчанию</MorePlanning.DefaultColor>
+    <MorePlanning.Ok>ок</MorePlanning.Ok>
+
+    <MorePlanning.ChangeColor>Выбрать Цвет</MorePlanning.ChangeColor>
+
+</LanguageData>

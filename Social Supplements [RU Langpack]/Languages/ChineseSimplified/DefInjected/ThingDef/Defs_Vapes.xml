@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular -->
+
+  <SSVape_Regular.label>电子烟（原味）</SSVape_Regular.label>
+  <SSVape_Regular.description>用蒸汽来吸食大麻的设备。比大麻卷烟要缓和一点点. 效果持续大约半天.</SSVape_Regular.description>
+  <SSVape_Regular.ingestible.ingestCommandString>吸 {0}</SSVape_Regular.ingestible.ingestCommandString>
+  <SSVape_Regular.ingestible.ingestReportString>正在吸 {0}.</SSVape_Regular.ingestible.ingestReportString>
+
+
+  <!-- Fruity -->
+
+  <SSVape_Fruity.label>Vape (Fruity)</SSVape_Fruity.label>
+  <SSVape_Fruity.description>用蒸汽来吸食大麻的设备。远没有大麻卷烟那么刺激.有着独特的水果风味. 效果持续大约半天.</SSVape_Fruity.description>
+  <SSVape_Fruity.ingestible.ingestCommandString>吸 {0}</SSVape_Fruity.ingestible.ingestCommandString>
+  <SSVape_Fruity.ingestible.ingestReportString>正在吸 {0}.</SSVape_Fruity.ingestible.ingestReportString>
+
+
+  <!-- Menthol -->
+
+  <SSVape_Menthol.label>Vape (Menthol)</SSVape_Menthol.label>
+  <SSVape_Menthol.description>用蒸汽来吸食大麻的设备。远没有大麻卷烟那么刺激. 有着冰爽刺激的薄荷风味. 效果持续大约半天.</SSVape_Menthol.description>
+  <SSVape_Menthol.ingestible.ingestCommandString>吸 {0}</SSVape_Menthol.ingestible.ingestCommandString>
+  <SSVape_Menthol.ingestible.ingestReportString>正在吸 {0}.</SSVape_Menthol.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CarboPitch -->
+
+  <MakeCarboPitch.label>制取沥青</MakeCarboPitch.label>
+  <MakeCarboPitch.description>制取100份沥青</MakeCarboPitch.description>
+  <MakeCarboPitch.jobString>正在制取沥青</MakeCarboPitch.jobString>
+
+
+  <!-- CarboFibre -->
+
+  <RCP_CarboFibre.label>注模碳纤维</RCP_CarboFibre.label>
+  <RCP_CarboFibre.description>正在注模100份碳纤维。</RCP_CarboFibre.description>
+  <RCP_CarboFibre.jobString>注模碳纤维。</RCP_CarboFibre.jobString>
+
+
+  <!-- CarboSynth -->
+
+  <RimPlasMakeCarboSynth.label>注模碳纤维布</RimPlasMakeCarboSynth.label>
+  <RimPlasMakeCarboSynth.description>注模25份碳纤维布</RimPlasMakeCarboSynth.description>
+  <RimPlasMakeCarboSynth.jobString>正在注模碳纤维布</RimPlasMakeCarboSynth.jobString>
+
+
+  <!-- Graphene -->
+
+  <RCP_Graphene.label>注模石墨烯</RCP_Graphene.label>
+  <RCP_Graphene.description>注模25份石墨烯</RCP_Graphene.description>
+  <RCP_Graphene.jobString>正在注模石墨烯</RCP_Graphene.jobString>
+
+  <RCP_BulkGraphene.label>批量注模石墨烯</RCP_BulkGraphene.label>
+  <RCP_BulkGraphene.description>注模100份石墨烯</RCP_BulkGraphene.description>
+  <RCP_BulkGraphene.jobString>正在注模石墨烯</RCP_BulkGraphene.jobString>
+
+
+  <!-- CarboPlasteel -->
+
+  <RCP_CarboPlasteel.label>制作碳素玻璃钢</RCP_CarboPlasteel.label>
+  <RCP_CarboPlasteel.description>制作25份碳素玻璃钢</RCP_CarboPlasteel.description>
+  <RCP_CarboPlasteel.jobString>正在制作碳素玻璃钢</RCP_CarboPlasteel.jobString>
+
+  <RCP_BulkCarboPlasteel.label>批量制作碳素玻璃钢</RCP_BulkCarboPlasteel.label>
+  <RCP_BulkCarboPlasteel.description>制作50份碳素玻璃钢</RCP_BulkCarboPlasteel.description>
+  <RCP_BulkCarboPlasteel.jobString>正在制作碳素玻璃钢</RCP_BulkCarboPlasteel.jobString>
+
+
+</LanguageData>

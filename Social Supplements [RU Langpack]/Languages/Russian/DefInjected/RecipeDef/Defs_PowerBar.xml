@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeSSPowerBar.label>Сделать Энергетический батончик</MakeSSPowerBar.label>
+  <MakeSSPowerBar.description>Приготовить 1 энергетический батончик.</MakeSSPowerBar.description>
+  <MakeSSPowerBar.jobString>Готовит энергетический батончик.</MakeSSPowerBar.jobString>
+
+  <MakeBulkSSPowerBar.label>Сделать Сделать Энергетический батончик(5)</MakeBulkSSPowerBar.label>
+  <MakeBulkSSPowerBar.description>Приготовить 5 энергетических батончиков.</MakeBulkSSPowerBar.description>
+  <MakeBulkSSPowerBar.jobString>Готовит энергетические батончики.</MakeBulkSSPowerBar.jobString>
+
+
+</LanguageData>

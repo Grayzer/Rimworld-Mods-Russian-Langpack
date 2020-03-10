@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Security Door -->
+
+  <RPSecurityDoor.label>Неврозная защитная дверь</RPSecurityDoor.label>
+  <RPSecurityDoor.description>Разделяет комнаты. Запитанная позволяет людям перемещаться через дверь, не замедляясь. У этой двери есть дополнительные биометрические датчики, которые позволяют ей определять, находится ли колонист в ненормальном психическом состоянии и "помешать".</RPSecurityDoor.description>
+  <RPSecurityDoor_Blueprint.label>Неврозная защитная дверь (чертеж)</RPSecurityDoor_Blueprint.label>
+  <RPSecurityDoor_Frame.label>Неврозная защитная дверь (стройка)</RPSecurityDoor_Frame.label>
+  <RPSecurityDoor_Frame.description>Разделяет комнаты. Запитанная позволяет людям перемещаться через дверь, не замедляясь. У этой двери есть дополнительные биометрические датчики, которые позволяют ей определять, находится ли колонист в ненормальном психическом состоянии и "помешать".</RPSecurityDoor_Frame.description>
+
+
+</LanguageData>

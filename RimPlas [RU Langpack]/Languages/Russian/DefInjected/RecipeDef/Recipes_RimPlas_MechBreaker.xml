@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RPButcherCorpseMechanoid.label>разобрать механоида</RPButcherCorpseMechanoid.label>
+  <RPButcherCorpseMechanoid.description>Разберите мертвого механоида на его составные части.</RPButcherCorpseMechanoid.description>
+  <RPButcherCorpseMechanoid.jobString>Разбирает механоида.</RPButcherCorpseMechanoid.jobString>
+
+
+</LanguageData>

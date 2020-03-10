@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pitch -->
+
+  <CarboPitch.label>沥青</CarboPitch.label>
+  <CarboPitch.description>一种人工合成的前体化学品。其自身没有什么用处，是合成其他碳类化合物的原材。</CarboPitch.description>
+
+
+  <!-- CarboFibre -->
+
+  <CarboFibre.label>碳纤维</CarboFibre.label>
+  <CarboFibre.description>一种人工合成的强力碳化聚合物，能用于多个领域(建筑和物品建造)的原材。具有良好的隔热性。</CarboFibre.description>
+  <CarboFibre.stuffProps.stuffAdjective>碳纤维</CarboFibre.stuffProps.stuffAdjective>
+
+
+  <!-- CarboSynth -->
+
+  <CarboSynth.label>碳纤维布</CarboSynth.label>
+  <CarboSynth.description>一种人工合成的碳纤维布。具有良好的隔热性。</CarboSynth.description>
+  <CarboSynth.stuffProps.stuffAdjective>碳纤维布</CarboSynth.stuffProps.stuffAdjective>
+
+
+  <!-- Graphene -->
+
+  <RimPlasGraphene.label>石墨烯</RimPlasGraphene.label>
+  <RimPlasGraphene.description>一种人工合成的极为坚固的碳化合物，是用于多个领域(建筑和物品建造)的原材。同样的，其隔热性及电气性能皆为上等。该物质在对抗受压和钝器方面的伤害时作用非凡，除此之外，其他方面的效果也不赖。</RimPlasGraphene.description>
+  <RimPlasGraphene.stuffProps.stuffAdjective>石墨烯</RimPlasGraphene.stuffProps.stuffAdjective>
+
+
+  <!-- CarboPlasteel -->
+
+  <CarboPlasteel.label>碳素玻璃钢</CarboPlasteel.label>
+  <CarboPlasteel.description>一种特别坚固的碳/玻璃钢薄板，是用于多个领域(建筑和物品建造)的原材。</CarboPlasteel.description>
+  <CarboPlasteel.stuffProps.stuffAdjective>碳素玻璃钢</CarboPlasteel.stuffProps.stuffAdjective>
+
+
+</LanguageData>

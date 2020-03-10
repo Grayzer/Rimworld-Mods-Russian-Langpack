@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimplas Unfinished Multianalyser -->
+
+  <RimPlas_UnfinishedMA.label>Незаконченный РимПлас Мультианализатор</RimPlas_UnfinishedMA.label>
+
+
+  <!-- Rimplas MultiAnalyser Part -->
+
+  <RimPlas_MAPart.label>Часть РимПлас Мультианализатора</RimPlas_MAPart.label>
+  <RimPlas_MAPart.description>Это часть корпуса, используемая для сборки РимПлас версии мультианализатора.</RimPlas_MAPart.description>
+
+
+</LanguageData>

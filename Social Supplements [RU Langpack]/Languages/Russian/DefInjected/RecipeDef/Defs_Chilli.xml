@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hot Sauce -->
+
+  <MakeSSHotSauce.label>Сделать острый соус(5)</MakeSSHotSauce.label>
+  <MakeSSHotSauce.description>Сделать 5 острого соуса.</MakeSSHotSauce.description>
+  <MakeSSHotSauce.jobString>Делает острый соус.</MakeSSHotSauce.jobString>
+
+  <MakeBulkSSHotSauce.label>Сделать острый соус(20)</MakeBulkSSHotSauce.label>
+  <MakeBulkSSHotSauce.description>Сделать 20 острого соуса.</MakeBulkSSHotSauce.description>
+  <MakeBulkSSHotSauce.jobString>Делает острый соус.</MakeBulkSSHotSauce.jobString>
+
+
+</LanguageData>

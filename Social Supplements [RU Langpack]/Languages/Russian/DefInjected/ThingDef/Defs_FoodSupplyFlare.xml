@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SSGPSBeaconFood.label>GPS маяк (Еда)</SSGPSBeaconFood.label>
+  <SSGPSBeaconFood.description>GPS маяк для поставок продуктов питания. Компонент одноразового использования, который отправляет радиосигнал для запроса поставок в определенное место.</SSGPSBeaconFood.description>
+
+
+  <!-- Food Supply Flare -->
+
+  <SSFoodSupplyFlare.label>Маркер снабжения продовольствием</SSFoodSupplyFlare.label>
+  <SSFoodSupplyFlare.description>Одноразовая пусковая установка, которая применяет маркерный газ для вызова продовольствия.</SSFoodSupplyFlare.description>
+  <SSFoodSupplyFlare.verbs.0.label>Маркерная вспышка</SSFoodSupplyFlare.verbs.0.label>
+
+  <Grenade_SSFoodSupplyFlare.label>Маркерная вспышка</Grenade_SSFoodSupplyFlare.label>
+
+
+  <!-- Gas : Thing -->
+
+  <Gas_SSFoodFlareMark.label>Маркерный газ</Gas_SSFoodFlareMark.label>
+
+
+</LanguageData>

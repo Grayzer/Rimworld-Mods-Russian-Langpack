@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stun Hediff -->
+
+  <HED_RPSecStun.label>Эффект оглушения от охранной двери</HED_RPSecStun.label>
+  <HED_RPSecStun.description>Эффект оглушения от охранной двери</HED_RPSecStun.description>
+  <HED_RPSecStun.stages.0.label>Оглушение</HED_RPSecStun.stages.0.label>
+
+
+</LanguageData>

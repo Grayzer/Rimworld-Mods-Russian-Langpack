@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PrsManualDrilling.label>手動ドリルマシン</PrsManualDrilling.label>
+  <PrsManualDrilling.description>資源を採掘可能な手動ドリルマシンを建築する技術を研究します。地表から浅い部分しか採掘できません。</PrsManualDrilling.description>
+
+</LanguageData>

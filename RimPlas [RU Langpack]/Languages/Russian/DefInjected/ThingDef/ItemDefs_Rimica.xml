@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimica -->
+
+  <BlocksRimica.label>Блоки Римика</BlocksRimica.label>
+  <BlocksRimica.description>Блоки из композитного ламината Римика. Изготовленный конструкционный материал, который является термостойким и имеет стерильные свойства.</BlocksRimica.description>
+  <BlocksRimica.stuffProps.stuffAdjective>римика</BlocksRimica.stuffProps.stuffAdjective>
+
+
+  <!-- Fortified Rimica -->
+
+  <BlocksFortRimica.label>Блоки ФортРимика</BlocksFortRimica.label>
+  <BlocksFortRimica.description>Блоки из укрепленного композитного ламината Римика. Изготовленный конструкционный материал, который является теплостойким. Этот конкретный синтетический материал был обогащен с использованием пластали.</BlocksFortRimica.description>
+  <BlocksFortRimica.stuffProps.stuffAdjective>фортримика</BlocksFortRimica.stuffProps.stuffAdjective>
+
+
+</LanguageData>

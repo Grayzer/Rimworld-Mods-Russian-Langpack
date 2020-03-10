@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IntakeFan.label>Компрессор</IntakeFan.label>
+  <IntakeFan.description>Это компрессор.</IntakeFan.description>
+  <IntakeFan_Blueprint.label>Компрессор (чертеж)</IntakeFan_Blueprint.label>
+  <IntakeFan_Frame.label>Компрессор (стройка)</IntakeFan_Frame.label>
+  <IntakeFan_Frame.description>Это компрессор.</IntakeFan_Frame.description>
+
+  <redAirPipe.label>Красная труба</redAirPipe.label>
+  <redAirPipe.description>Красные трубы для траспортировки воздуха.</redAirPipe.description>
+  <redAirPipe_Blueprint.label>Красная труба (чертеж)</redAirPipe_Blueprint.label>
+  <redAirPipe_Frame.label>Красная труба (стройка)</redAirPipe_Frame.label>
+  <redAirPipe_Frame.description>Красные трубы для траспортировки воздуха.</redAirPipe_Frame.description>
+
+  <blueAirPipe.label>Синяя труба</blueAirPipe.label>
+  <blueAirPipe.description>Синие трубы для траспортировки воздуха.</blueAirPipe.description>
+  <blueAirPipe_Blueprint.label>Синяя труба (чертеж)</blueAirPipe_Blueprint.label>
+  <blueAirPipe_Frame.label>Синяя труба (стройка)</blueAirPipe_Frame.label>
+  <blueAirPipe_Frame.description>Синие трубы для траспортировки воздуха.</blueAirPipe_Frame.description>
+
+  <cyanAirPipe.label>Голубая труба</cyanAirPipe.label>
+  <cyanAirPipe.description>Голубые трубы для траспортировки воздуха.</cyanAirPipe.description>
+  <cyanAirPipe_Blueprint.label>Голубая труба (чертеж)</cyanAirPipe_Blueprint.label>
+  <cyanAirPipe_Frame.label>Голубая труба (стройка)</cyanAirPipe_Frame.label>
+  <cyanAirPipe_Frame.description>Голубые трубы для траспортировки воздуха.</cyanAirPipe_Frame.description>
+
+  <AirThermal.label>Кондиционер</AirThermal.label>
+  <AirThermal.description>Кондиционер для нагрева воздуха.</AirThermal.description>
+  <AirThermal_Blueprint.label>Кондиционер (чертеж)</AirThermal_Blueprint.label>
+  <AirThermal_Frame.label>Кондиционер (стройка)</AirThermal_Frame.label>
+  <AirThermal_Frame.description>Кондиционер для нагрева воздуха.</AirThermal_Frame.description>
+
+  <LargeIntakeFan.label>Большой компрессор</LargeIntakeFan.label>
+  <LargeIntakeFan.description>Это большой компрессор.</LargeIntakeFan.description>
+  <LargeIntakeFan_Blueprint.label>Большой компрессор (чертеж)</LargeIntakeFan_Blueprint.label>
+  <LargeIntakeFan_Frame.label>Большой компрессор (стройка)</LargeIntakeFan_Frame.label>
+  <LargeIntakeFan_Frame.description>Это большой компрессор.</LargeIntakeFan_Frame.description>
+
+  <LargeAirThermal.label>Большой кондиционер</LargeAirThermal.label>
+  <LargeAirThermal.description>Кондиционер для нагрева воздуха.</LargeAirThermal.description>
+  <LargeAirThermal_Blueprint.label>Большой кондиционер (чертеж)</LargeAirThermal_Blueprint.label>
+  <LargeAirThermal_Frame.label>Большой кондиционер (стройка)</LargeAirThermal_Frame.label>
+  <LargeAirThermal_Frame.description>Кондиционер для нагрева воздуха.</LargeAirThermal_Frame.description>
+
+
+</LanguageData>

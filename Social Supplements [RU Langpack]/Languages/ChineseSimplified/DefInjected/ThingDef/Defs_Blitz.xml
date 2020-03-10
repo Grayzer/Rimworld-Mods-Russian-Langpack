@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Zest -->
+
+  <SSBlitz_Zest.label>霹雳（果味）</SSBlitz_Zest.label>
+  <SSBlitz_Zest.description>一种混合了精神叶提取物的甜味饮料。有着香甜的水果味. 效果持续约半天.</SSBlitz_Zest.description>
+  <SSBlitz_Zest.ingestible.ingestCommandString>喝{0}</SSBlitz_Zest.ingestible.ingestCommandString>
+  <SSBlitz_Zest.ingestible.ingestReportString>正在喝{0}.</SSBlitz_Zest.ingestible.ingestReportString>
+
+
+  <!-- Ice -->
+
+  <SSBlitz_Ice.label>霹雳（冰爽）</SSBlitz_Ice.label>
+  <SSBlitz_Ice.description>一种混合了精神叶提取物的甜味饮料。有着劲凉提神的薄荷味. 效果持续约半天.</SSBlitz_Ice.description>
+  <SSBlitz_Ice.ingestible.ingestCommandString>喝{0}</SSBlitz_Ice.ingestible.ingestCommandString>
+  <SSBlitz_Ice.ingestible.ingestReportString>正在喝{0}.</SSBlitz_Ice.ingestible.ingestReportString>
+
+
+</LanguageData>

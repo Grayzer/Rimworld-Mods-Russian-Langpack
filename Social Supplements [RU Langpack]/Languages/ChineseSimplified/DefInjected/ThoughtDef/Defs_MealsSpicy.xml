@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spicy Meals -->
+
+  <SSAteSurvivalMealSpicy.stages.0.label>ate spicy survival meal</SSAteSurvivalMealSpicy.stages.0.label>
+  <SSAteSurvivalMealSpicy.stages.0.description>I ate a spicy survival meal.</SSAteSurvivalMealSpicy.stages.0.description>
+
+  <SSAteTravelMealSpicy.stages.0.label>ate spicy travel meal</SSAteTravelMealSpicy.stages.0.label>
+  <SSAteTravelMealSpicy.stages.0.description>I ate a spicy travel meal.</SSAteTravelMealSpicy.stages.0.description>
+
+  <SSAteSimpleMealSpicy.stages.0.label>ate spicy simple meal</SSAteSimpleMealSpicy.stages.0.label>
+  <SSAteSimpleMealSpicy.stages.0.description>I ate a spicy meal.</SSAteSimpleMealSpicy.stages.0.description>
+
+  <SSAteFineMealSpicy.stages.0.label>ate spicy fine meal</SSAteFineMealSpicy.stages.0.label>
+  <SSAteFineMealSpicy.stages.0.description>I ate a really tasty fine spicy meal. Yum!</SSAteFineMealSpicy.stages.0.description>
+
+  <SSAteLavishMealSpicy.stages.0.label>ate spicy lavish meal</SSAteLavishMealSpicy.stages.0.label>
+  <SSAteLavishMealSpicy.stages.0.description>That spicy lavish meal was amazing. It nourished my body and my soul.</SSAteLavishMealSpicy.stages.0.description>
+
+
+  <!-- Spicy Pemmican -->
+
+  <SSAtePemmicanSpicy.stages.0.label>ate spicy pemmican</SSAtePemmicanSpicy.stages.0.label>
+  <SSAtePemmicanSpicy.stages.0.description>I ate spicy pemmican.</SSAtePemmicanSpicy.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimPlas.label>塑料</RimPlas.label>
+  <RimPlas.description>允许制作和使用新型材料。</RimPlas.description>
+
+  <RimPlas_Bulk.label>量产塑料</RimPlas_Bulk.label>
+  <RimPlas_Bulk.description>允许批量生产塑料。</RimPlas_Bulk.description>
+
+  <RimPlas_SemiSynth.label>半合成材料</RimPlas_SemiSynth.label>
+  <RimPlas_SemiSynth.description>允许制作和使用新型材料。</RimPlas_SemiSynth.description>
+
+  <RimPlas_InjMld.label>注模法</RimPlas_InjMld.label>
+  <RimPlas_InjMld.description>允许使用注模法制作家具。</RimPlas_InjMld.description>
+
+  <RimPlas_AdvInjMld.label>先进注模法</RimPlas_AdvInjMld.label>
+  <RimPlas_AdvInjMld.description>允许使用先进注模法制作复合型材料。</RimPlas_AdvInjMld.description>
+
+  <RimPlas_Synth.label>人造织物</RimPlas_Synth.label>
+  <RimPlas_Synth.description>允许制作并使用人造织物。</RimPlas_Synth.description>
+
+  <RimPlas_Synth_Bulk.label>量产人造织物</RimPlas_Synth_Bulk.label>
+  <RimPlas_Synth_Bulk.description>允许批量生产人造织物。</RimPlas_Synth_Bulk.description>
+
+  <RimPlas_Synth_Plasteel.label>玻璃钢冶炼技术</RimPlas_Synth_Plasteel.label>
+  <RimPlas_Synth_Plasteel.description>允许人工合成玻璃钢。</RimPlas_Synth_Plasteel.description>
+
+  <RimPlas_Synth_Plasteel_Bulk.label>玻璃钢量产技术</RimPlas_Synth_Plasteel_Bulk.label>
+  <RimPlas_Synth_Plasteel_Bulk.description>允许人工批量合成玻璃钢。</RimPlas_Synth_Plasteel_Bulk.description>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <Plant_SSMorelMush.label>羊肚菌</Plant_SSMorelMush.label>
+  <Plant_SSMorelMush.description>这种可食用的菌类通常生长在阴暗潮湿的洞穴里，你也可以尝试用水培法来种植.</Plant_SSMorelMush.description>
+
+
+  <!-- Raw Material -->
+
+  <SSMorel.label>羊肚菌</SSMorel.label>
+  <SSMorel.description>生的羊肚菌,有着广受食客赞誉的独特美味，可以在料理中替代肉类.</SSMorel.description>
+
+
+</LanguageData>

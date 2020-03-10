@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoolHeater.label>Мульти-режимный кондиционер</CoolHeater.label>
+  <CoolHeater.description>Многоступенчатый нагреватель, который может повысить свою эффективность за счет увеличения мощности.
+И может переключиться в режим охлаждения, когда заданная температура ниже, чем температура окружающей среды.</CoolHeater.description>
+
+
+</LanguageData>

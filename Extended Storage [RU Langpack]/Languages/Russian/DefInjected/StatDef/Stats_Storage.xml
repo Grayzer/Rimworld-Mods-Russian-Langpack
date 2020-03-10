@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ES_StorageFactor.label>вместимость склада</ES_StorageFactor.label>
+  <ES_StorageFactor.description>Общее количество предметов, которое может хранить эта пострайка, по сравнению с обычным размером стопки.</ES_StorageFactor.description>
+
+
+</LanguageData>

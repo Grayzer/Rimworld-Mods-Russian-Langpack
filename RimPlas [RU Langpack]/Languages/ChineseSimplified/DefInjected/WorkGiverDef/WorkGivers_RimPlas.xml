@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CraftRimPlasInjMld.label>操作注射成型机</CraftRimPlasInjMld.label>
+  <CraftRimPlasInjMld.verb>塑型</CraftRimPlasInjMld.verb>
+  <CraftRimPlasInjMld.gerund>正在操作</CraftRimPlasInjMld.gerund>
+
+  <CraftRimPlasAdvInjMld.label>操作先进注射成型机</CraftRimPlasAdvInjMld.label>
+  <CraftRimPlasAdvInjMld.verb>塑型</CraftRimPlasAdvInjMld.verb>
+  <CraftRimPlasAdvInjMld.gerund>正在操作</CraftRimPlasAdvInjMld.gerund>
+
+  <CraftRimPlasMechBreaker.label>使用机械体拆解台</CraftRimPlasMechBreaker.label>
+  <CraftRimPlasMechBreaker.verb>拆解</CraftRimPlasMechBreaker.verb>
+  <CraftRimPlasMechBreaker.gerund>正在使用</CraftRimPlasMechBreaker.gerund>
+
+
+</LanguageData>

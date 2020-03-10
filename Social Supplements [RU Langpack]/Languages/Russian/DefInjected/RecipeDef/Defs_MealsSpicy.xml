@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Survival -->
+
+  <MakeSSMealSurvivalPackSpicy.label>Приготовить Пряный сухпаек</MakeSSMealSurvivalPackSpicy.label>
+  <MakeSSMealSurvivalPackSpicy.description>Приготовить Пряный сухпаек.</MakeSSMealSurvivalPackSpicy.description>
+  <MakeSSMealSurvivalPackSpicy.jobString>готовит.</MakeSSMealSurvivalPackSpicy.jobString>
+
+  <MakeBulkSSMealSurvivalPackSpicy.label>Приготовить Пряный сухпаек(4)</MakeBulkSSMealSurvivalPackSpicy.label>
+  <MakeBulkSSMealSurvivalPackSpicy.description>Приготовить 4 Пряного сухпайка.</MakeBulkSSMealSurvivalPackSpicy.description>
+  <MakeBulkSSMealSurvivalPackSpicy.jobString>готовит.</MakeBulkSSMealSurvivalPackSpicy.jobString>
+
+
+  <!-- Travel -->
+
+  <MakeSSMealTravelPackSpicy.label>Приготовить Пряный завтрак туриста</MakeSSMealTravelPackSpicy.label>
+  <MakeSSMealTravelPackSpicy.description>Приготовить Пряный завтрак туриста</MakeSSMealTravelPackSpicy.description>
+  <MakeSSMealTravelPackSpicy.jobString>готовит.</MakeSSMealTravelPackSpicy.jobString>
+
+  <MakeBulkSSMealTravelPackSpicy.label>Приготовить Пряный завтрак туриста(4)</MakeBulkSSMealTravelPackSpicy.label>
+  <MakeBulkSSMealTravelPackSpicy.description>Приготовить 4 Пряного завтрака туриста.</MakeBulkSSMealTravelPackSpicy.description>
+  <MakeBulkSSMealTravelPackSpicy.jobString>готовит.</MakeBulkSSMealTravelPackSpicy.jobString>
+
+
+  <!-- Simple -->
+
+  <MakeSSMealSimpleSpicy.label>Приготовить Пряное простое блюдо</MakeSSMealSimpleSpicy.label>
+  <MakeSSMealSimpleSpicy.description>Приготовить Пряное простое блюдо.</MakeSSMealSimpleSpicy.description>
+  <MakeSSMealSimpleSpicy.jobString>готовит.</MakeSSMealSimpleSpicy.jobString>
+
+  <MakeBulkSSMealSimpleSpicy.label>Приготовить Пряное простое блюдо(4)</MakeBulkSSMealSimpleSpicy.label>
+  <MakeBulkSSMealSimpleSpicy.description>Приготовить 4 Пряных простых блюд.</MakeBulkSSMealSimpleSpicy.description>
+  <MakeBulkSSMealSimpleSpicy.jobString>готовит.</MakeBulkSSMealSimpleSpicy.jobString>
+
+
+  <!-- Fine -->
+
+  <MakeSSMealFineSpicy.label>Приготовить Пряное вкусное блюдо</MakeSSMealFineSpicy.label>
+  <MakeSSMealFineSpicy.description>Приготовить Пряное вкусное блюдо.</MakeSSMealFineSpicy.description>
+  <MakeSSMealFineSpicy.jobString>готовит.</MakeSSMealFineSpicy.jobString>
+
+  <MakeBulkSSMealFineSpicy.label>Приготовить Пряное вкусное блюдо(4)</MakeBulkSSMealFineSpicy.label>
+  <MakeBulkSSMealFineSpicy.description>Приготовить 4 Пряных вкусных блюд.</MakeBulkSSMealFineSpicy.description>
+  <MakeBulkSSMealFineSpicy.jobString>готовит.</MakeBulkSSMealFineSpicy.jobString>
+
+
+  <!-- Lavish -->
+
+  <MakeSSMealLavishSpicy.label>Приготовить Пряное шикарное блюдо</MakeSSMealLavishSpicy.label>
+  <MakeSSMealLavishSpicy.description>Приготовить Пряное шикарное блюдо.</MakeSSMealLavishSpicy.description>
+  <MakeSSMealLavishSpicy.jobString>готовит.</MakeSSMealLavishSpicy.jobString>
+
+  <MakeBulkSSMealLavishSpicy.label>Приготовить Пряное шикарное блюдо(4)</MakeBulkSSMealLavishSpicy.label>
+  <MakeBulkSSMealLavishSpicy.description>Приготовить 4 Пряных шикарных блюд.</MakeBulkSSMealLavishSpicy.description>
+  <MakeBulkSSMealLavishSpicy.jobString>готовит.</MakeBulkSSMealLavishSpicy.jobString>
+
+
+  <!-- Pemmican -->
+
+  <MakeSSPemmicanSpicy.label>Приготовить Пряный пеммикан(5)</MakeSSPemmicanSpicy.label>
+  <MakeSSPemmicanSpicy.description>Приготовить 5 Пряного пеммикана.</MakeSSPemmicanSpicy.description>
+  <MakeSSPemmicanSpicy.jobString>готовит пеммикан.</MakeSSPemmicanSpicy.jobString>
+
+  <MakeBulkSSPemmicanSpicy.label>Приготовить Пряный пеммикан(25)</MakeBulkSSPemmicanSpicy.label>
+  <MakeBulkSSPemmicanSpicy.description>Приготовить 25 Пряного пеммикана.</MakeBulkSSPemmicanSpicy.description>
+  <MakeBulkSSPemmicanSpicy.jobString>готовит пеммикан.</MakeBulkSSPemmicanSpicy.jobString>
+
+
+</LanguageData>

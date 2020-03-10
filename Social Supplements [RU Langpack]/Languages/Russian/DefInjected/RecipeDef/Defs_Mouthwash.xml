@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkSSMouthWash.label>Сделать Полоскание для рта(5)</MakeBulkSSMouthWash.label>
+  <MakeBulkSSMouthWash.description>Делать 5 полосканий для рта.</MakeBulkSSMouthWash.description>
+  <MakeBulkSSMouthWash.jobString>Делает полоскание для рта.</MakeBulkSSMouthWash.jobString>
+
+
+</LanguageData>

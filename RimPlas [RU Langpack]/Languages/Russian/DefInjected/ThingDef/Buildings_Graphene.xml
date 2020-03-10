@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Graphene conduit -->
+
+  <RPGraphenePowerConduit.label>Графеновый кабель</RPGraphenePowerConduit.label>
+  <RPGraphenePowerConduit.description>Графеновый кабель для перемещения энергии. Можно разместить под стенами и другими зданиями. Графеновые кабели намного прочнее, чем обычные кабелепроводы.</RPGraphenePowerConduit.description>
+  <RPGraphenePowerConduit_Blueprint.label>Графеновый кабель (чертеж)</RPGraphenePowerConduit_Blueprint.label>
+  <RPGraphenePowerConduit_Frame.label>Графеновый кабель (стройка)</RPGraphenePowerConduit_Frame.label>
+  <RPGraphenePowerConduit_Frame.description>Графеновый кабель для перемещения энергии. Можно разместить под стенами и другими зданиями. Графеновые кабели намного прочнее, чем обычные кабелепроводы.</RPGraphenePowerConduit_Frame.description>
+
+
+  <!-- Underground Variant -->
+
+  <RPUndGrapheneConduit.label>Подземный Графеновый кабель</RPUndGrapheneConduit.label>
+  <RPUndGrapheneConduit.description>Графеновый кабель для перемещения энергии. Можно разместить под стенами и другими зданиями. Графеновые кабели намного более прочные, чем обычные силовые кабели, и этот тип может быть скрыт под поверхностью.</RPUndGrapheneConduit.description>
+  <RPUndGrapheneConduit_Blueprint.label>Подземный Графеновый кабель (чертеж)</RPUndGrapheneConduit_Blueprint.label>
+  <RPUndGrapheneConduit_Frame.label>Подземный Графеновый кабель (стройка)</RPUndGrapheneConduit_Frame.label>
+  <RPUndGrapheneConduit_Frame.description>Графеновый кабель для перемещения энергии. Можно разместить под стенами и другими зданиями. Графеновые кабели намного более прочные, чем обычные силовые кабели, и этот тип может быть скрыт под поверхностью.</RPUndGrapheneConduit_Frame.description>
+
+  <RPGraphenePowerConduit_Buried.label>Подземный Графеновый кабель</RPGraphenePowerConduit_Buried.label>
+  <RPGraphenePowerConduit_Buried.description>Графеновый кабель для перемещения энергии. Можно разместить под стенами и другими зданиями. Графеновые кабели намного более прочные, чем обычные силовые кабели, и этот тип может быть скрыт под поверхностью.</RPGraphenePowerConduit_Buried.description>
+
+
+  <!-- Graphene Battery -->
+
+  <RPGrapheneBattery.label>Графеновая батарея</RPGrapheneBattery.label>
+  <RPGrapheneBattery.description>Хранит электричество для последующего использования. Заряженные батареи взрываются под воздействием дождя или огня. Эта батарея графена более эффективна, может хранить больше и более надежна.</RPGrapheneBattery.description>
+
+
+  <!-- Small Graphene Battery -->
+
+  <RPSmallGrapheneBattery.label>Малая графеновая батарея</RPSmallGrapheneBattery.label>
+  <RPSmallGrapheneBattery.description>Хранит электричество для последующего использования. Эта малая графеновая батарея более эффективна, чем обычные батареи, и ее можно использовать в элементах. Она может хранить половину емкости батареи графена нормального размера</RPSmallGrapheneBattery.description>
+
+
+  <!-- Solar Generators -->
+
+  <RPGrapheneSolarGenerator.label>Графеновая солнечная панель</RPGrapheneSolarGenerator.label>
+  <RPGrapheneSolarGenerator.description>Производит электричество от солнечного света. Не работает в темноте или при искусственном освещении. Более надежна и производит немного больше энергии, чем обычная панель.</RPGrapheneSolarGenerator.description>
+
+  <RPSmallGrapheneSolarGenerator.label>Малая графеновая солнечная панель</RPSmallGrapheneSolarGenerator.label>
+  <RPSmallGrapheneSolarGenerator.description>Уменьшенный вариант обычной графеновой солнечной панели, производящая меньше энергии по эквивалентности, но требующая меньше ресурсов и места.</RPSmallGrapheneSolarGenerator.description>
+
+
+  <!-- Portable Power unit -->
+
+  <RPGraphenePortPower.label>Графеновый портативный генератор</RPGraphenePortPower.label>
+  <RPGraphenePortPower.description>Графеновый портативный генератор энергии.</RPGraphenePortPower.description>
+
+
+  <!-- Grow Bin -->
+
+  <RPGrapheneGrowBin.label>Графеновый гидропонный горшок</RPGrapheneGrowBin.label>
+  <RPGrapheneGrowBin.description>Небольшой горшок гидропоники для эффективного выращивания отдельных растений. Требуется источник тепла.</RPGrapheneGrowBin.description>
+
+
+  <!-- Heater and Cooler -->
+
+  <RPGrapheneHeater.label>Графеновый обогреватель</RPGrapheneHeater.label>
+  <RPGrapheneHeater.description>Графеновое устройство, которое эффективно преобразует электричество в тепло. Он может автоматически включаться или выключаться для достижения определенной целевой температуры.</RPGrapheneHeater.description>
+
+  <RPGrapheneCooler.label>Графеновый охладитель</RPGrapheneCooler.label>
+  <RPGrapheneCooler.description>Графеновый аппарат воздушного охлаждения, который встраивается в стену. Холодный воздух выходит с одной стороны, а горячий воздух выходит с другой. Может использоваться для эффективного охлаждения помещений летом или для создания морозильной камеры.</RPGrapheneCooler.description>
+
+
+  <!-- Regulator -->
+
+  <RPGrapheneRegulator.label>Графеновый кондиционер</RPGrapheneRegulator.label>
+  <RPGrapheneRegulator.description>Графеновый аппарат воздушного охлаждения и нагрева, который встраивается в стену. При охлаждении холодный воздух выходит с одной стороны, а горячий выходит с другой, или горячий воздух обогревает помещение. Может использоваться для эффективного регулирования температуры в комнате.</RPGrapheneRegulator.description>
+
+
+  <!-- Intelligent Vent -->
+
+  <RPGraphene_Vent.label>Графеновый воздуховод</RPGraphene_Vent.label>
+  <RPGraphene_Vent.description>Вентиляционное отверстие для эффективного выравнивания температуры между двумя комнатами, не позволяя людям ходить между ними. По умолчанию графеновая мембрана в фильтре этого вентиляционного отверстия имеет интеллектуальную конструкцию материала, позволяющую перекрыть поток воздуха, когда любая из сторон вентиляционного отверстия находится в фиксированном диапазоне (10–30 ° C), это свойство можно включать и отключать.</RPGraphene_Vent.description>
+
+
+  <!-- RegenWalls -->
+
+  <RPGrapheneRegenWall.label>Графеновая регенерирующая стена</RPGrapheneRegenWall.label>
+  <RPGrapheneRegenWall.description>Непроходимая стена. Способный держать крышу. Эта версия графена с питанием обладает свойствами самовосстановления.</RPGrapheneRegenWall.description>
+  <RPGrapheneRegenWall_Blueprint.label>Графеновая регенерирующая стена (чертеж)</RPGrapheneRegenWall_Blueprint.label>
+  <RPGrapheneRegenWall_Frame.label>Графеновая регенерирующая стена (стройка)</RPGrapheneRegenWall_Frame.label>
+  <RPGrapheneRegenWall_Frame.description>Непроходимая стена. Способный держать крышу. Эта версия графена с питанием обладает свойствами самовосстановления.</RPGrapheneRegenWall_Frame.description>
+
+
+</LanguageData>

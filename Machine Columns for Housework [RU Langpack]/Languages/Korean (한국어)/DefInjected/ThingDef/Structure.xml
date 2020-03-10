@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OrbitalTradeColumnMod.label>무역 송신 기둥</OrbitalTradeColumnMod.label>
+  <OrbitalTradeColumnMod.description>창고 관리에 필수적인 기능들을 모아둔 기계 기둥입니다. 지붕을 지탱하고, 주변 물품들을 궤도로 전송할 수 있으며, 조명등까지 달려 있습니다.</OrbitalTradeColumnMod.description>
+
+  <SunColumnMod.label>태양 기둥</SunColumnMod.label>
+  <SunColumnMod.description>실내 농장 관리에 필수적인 기능들을 모아둔 기계 기둥입니다. 지붕을 지탱하고, 주변 온도를 28도로 유지하며, 작물이 자랄 수 있는 빛을 내뿜습니다. 밤에는 자동으로 꺼집니다.</SunColumnMod.description>
+  <SunColumnMod.comps.CompSchedule.offMessage>작물 휴식기로 인해 꺼짐</SunColumnMod.comps.CompSchedule.offMessage>
+
+</LanguageData>

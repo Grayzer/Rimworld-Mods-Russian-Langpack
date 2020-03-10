@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingCHAutoCL>自动调节</LingCHAutoCL>
+  <LingCHAutoCLD>加热器会自动调节效率,由于传感器的限制，调节的反应速度不如手动调节块。\n警告：请不要在室外开启自动模式。</LingCHAutoCLD>
+  <LingCHEffectDown>降低效率</LingCHEffectDown>
+  <LingCHEffectDownD>降低加热器的效率，同时节省能量。</LingCHEffectDownD>
+  <LingCHEffectUp>提高效率</LingCHEffectUp>
+  <LingCHEffectUpD>提高加热器的工作效率，这会增加耗电量。</LingCHEffectUpD>
+  <LingCHWorkLevel>工作等级：</LingCHWorkLevel>
+
+</LanguageData>

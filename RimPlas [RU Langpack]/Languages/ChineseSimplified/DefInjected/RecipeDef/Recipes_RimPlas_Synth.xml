@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimRayon -->
+
+  <MakeRimRayon.label>制作人造纤维</MakeRimRayon.label>
+  <MakeRimRayon.description>制作人造纤维。</MakeRimRayon.description>
+  <MakeRimRayon.jobString>正在制作人造纤维。</MakeRimRayon.jobString>
+
+
+  <!-- Synthbase -->
+
+  <MakeSynthbase.label>制取人造碱基</MakeSynthbase.label>
+  <MakeSynthbase.description>制取人造碱基。</MakeSynthbase.description>
+  <MakeSynthbase.jobString>正在制取人造碱基。</MakeSynthbase.jobString>
+
+
+  <!-- Synthread -->
+
+  <RimPlasMakeSynthread.label>制作合成纤维</RimPlasMakeSynthread.label>
+  <RimPlasMakeSynthread.description>制作25份合成纤维</RimPlasMakeSynthread.description>
+  <RimPlasMakeSynthread.jobString>正在制作合成纤维。</RimPlasMakeSynthread.jobString>
+
+  <RimPlasBulkSynthread.label>批量制作合成纤维</RimPlasBulkSynthread.label>
+  <RimPlasBulkSynthread.description>制作100份合成纤维。</RimPlasBulkSynthread.description>
+  <RimPlasBulkSynthread.jobString>正在制作合成纤维。</RimPlasBulkSynthread.jobString>
+
+
+  <!-- DevilSynth -->
+
+  <RimPlasMakeDevilSynth.label>制作人造魔鬼布</RimPlasMakeDevilSynth.label>
+  <RimPlasMakeDevilSynth.description>制作25份人造魔鬼布。</RimPlasMakeDevilSynth.description>
+  <RimPlasMakeDevilSynth.jobString>正在制作人造魔鬼布。</RimPlasMakeDevilSynth.jobString>
+
+  <RimPlasBulkDevilSynth.label>批量制作人造魔鬼布</RimPlasBulkDevilSynth.label>
+  <RimPlasBulkDevilSynth.description>制作100份人造魔鬼布。</RimPlasBulkDevilSynth.description>
+  <RimPlasBulkDevilSynth.jobString>正在制作人造魔鬼布。</RimPlasBulkDevilSynth.jobString>
+
+
+  <!-- Plasteel -->
+
+  <RimPlasMakePlasteel.label>制作玻璃钢</RimPlasMakePlasteel.label>
+  <RimPlasMakePlasteel.description>制作25份玻璃钢。</RimPlasMakePlasteel.description>
+  <RimPlasMakePlasteel.jobString>正在制作玻璃钢。</RimPlasMakePlasteel.jobString>
+
+  <RimPlasBulkPlasteel.label>批量制作玻璃钢</RimPlasBulkPlasteel.label>
+  <RimPlasBulkPlasteel.description>制作100份玻璃钢。</RimPlasBulkPlasteel.description>
+  <RimPlasBulkPlasteel.jobString>正在制作玻璃钢。</RimPlasBulkPlasteel.jobString>
+
+
+  <!-- Plasteel Wool -->
+
+  <RimPlasMakePlasteelWool.label>制作玻璃钢毛</RimPlasMakePlasteelWool.label>
+  <RimPlasMakePlasteelWool.description>制作25份玻璃钢毛。</RimPlasMakePlasteelWool.description>
+  <RimPlasMakePlasteelWool.jobString>正在制作玻璃钢毛。</RimPlasMakePlasteelWool.jobString>
+
+  <RimPlasBulkPlasteelWool.label>批量制作玻璃钢毛</RimPlasBulkPlasteelWool.label>
+  <RimPlasBulkPlasteelWool.description>制作100份玻璃钢毛。</RimPlasBulkPlasteelWool.description>
+  <RimPlasBulkPlasteelWool.jobString>正在制作玻璃钢毛。</RimPlasBulkPlasteelWool.jobString>
+
+
+  <!-- Hyperweave -->
+
+  <RimPlasMakeHyperweave.label>制作超织物</RimPlasMakeHyperweave.label>
+  <RimPlasMakeHyperweave.description>制作25份超织物。</RimPlasMakeHyperweave.description>
+  <RimPlasMakeHyperweave.jobString>正在制作超织物。</RimPlasMakeHyperweave.jobString>
+
+
+</LanguageData>

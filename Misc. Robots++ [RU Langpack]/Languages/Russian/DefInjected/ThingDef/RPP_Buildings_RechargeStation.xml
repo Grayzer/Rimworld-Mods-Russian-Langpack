@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AIRobot_RechargeStation_Hauler_II.label>Носильщик(II) Док Станция</AIRobot_RechargeStation_Hauler_II.label>
+	<AIRobot_RechargeStation_Hauler_II.description>Эта станция оснащена специализированным базовым роботом.</AIRobot_RechargeStation_Hauler_II.description>
+	<AIRobot_RechargeStation_Hauler_III.label>Носильщик(III) Док Станция</AIRobot_RechargeStation_Hauler_III.label>
+	<AIRobot_RechargeStation_Hauler_III.description>Эта станция оснащена специализированным сложным роботом.</AIRobot_RechargeStation_Hauler_III.description>
+	<AIRobot_RechargeStation_Hauler_IV.label>Носильщик(IV) Док Станция</AIRobot_RechargeStation_Hauler_IV.label>
+	<AIRobot_RechargeStation_Hauler_IV.description>Эта станция оснащена специализированным продвинутым роботом.</AIRobot_RechargeStation_Hauler_IV.description>
+	<AIRobot_RechargeStation_Hauler_V.label>Носильщик(V) Док Станция</AIRobot_RechargeStation_Hauler_V.label>
+	<AIRobot_RechargeStation_Hauler_V.description>Эта станция оснащена специализированным Анти-Логик роботом.</AIRobot_RechargeStation_Hauler_V.description>
+
+	<AIRobot_RechargeStation_Cleaner_II.label>Уборщик(II) Док Станция</AIRobot_RechargeStation_Cleaner_II.label>
+	<AIRobot_RechargeStation_Cleaner_II.description>Эта станция оснащена специализированным базовым роботом.</AIRobot_RechargeStation_Cleaner_II.description>
+	<AIRobot_RechargeStation_Cleaner_III.label>Уборщик(III) Док Станция</AIRobot_RechargeStation_Cleaner_III.label>
+	<AIRobot_RechargeStation_Cleaner_III.description>Эта станция оснащена специализированным сложным роботом.</AIRobot_RechargeStation_Cleaner_III.description>
+	<AIRobot_RechargeStation_Cleaner_IV.label>Уборщик(IV) Док Станция</AIRobot_RechargeStation_Cleaner_IV.label>
+	<AIRobot_RechargeStation_Cleaner_IV.description>Эта станция оснащена специализированным продвинутым роботом.</AIRobot_RechargeStation_Cleaner_IV.description>
+	<AIRobot_RechargeStation_Cleaner_V.label>Уборщик(V) Док Станция</AIRobot_RechargeStation_Cleaner_V.label>
+	<AIRobot_RechargeStation_Cleaner_V.description>Эта станция оснащена специализированным Анти-Логик роботом.</AIRobot_RechargeStation_Cleaner_V.description>
+
+	<RPP_RechargeStation_Builder_I.label>Строитель(I) Док Станция</RPP_RechargeStation_Builder_I.label>
+	<RPP_RechargeStation_Builder_I.description>Эта станция оснащена специализированным простым роботом.</RPP_RechargeStation_Builder_I.description>
+	<RPP_RechargeStation_Builder_II.label>Строитель(II) Док Станция</RPP_RechargeStation_Builder_II.label>
+	<RPP_RechargeStation_Builder_II.description>Эта станция оснащена специализированным базовым роботом.</RPP_RechargeStation_Builder_II.description>
+	<RPP_RechargeStation_Builder_III.label>Строитель(III) Док Станция</RPP_RechargeStation_Builder_III.label>
+	<RPP_RechargeStation_Builder_III.description>Эта станция оснащена специализированным сложным роботом.</RPP_RechargeStation_Builder_III.description>
+	<RPP_RechargeStation_Builder_IV.label>Строитель(IV) Док Станция</RPP_RechargeStation_Builder_IV.label>
+	<RPP_RechargeStation_Builder_IV.description>Эта станция оснащена специализированным продвинутым роботом.</RPP_RechargeStation_Builder_IV.description>
+	<RPP_RechargeStation_Builder_V.label>Строитель(V) Док Станция</RPP_RechargeStation_Builder_V.label>
+	<RPP_RechargeStation_Builder_V.description>Эта станция оснащена специализированным Анти-Логик роботом.</RPP_RechargeStation_Builder_V.description>
+
+	<RPP_RechargeStation_Crafter_I.label>Ремесленник(I) Док Станция</RPP_RechargeStation_Crafter_I.label>
+	<RPP_RechargeStation_Crafter_I.description>Эта станция оснащена специализированным простым роботом.</RPP_RechargeStation_Crafter_I.description>
+	<RPP_RechargeStation_Crafter_II.label>Ремесленник(II) Док Станция</RPP_RechargeStation_Crafter_II.label>
+	<RPP_RechargeStation_Crafter_II.description>Эта станция оснащена специализированным базовым роботом.</RPP_RechargeStation_Crafter_II.description>
+	<RPP_RechargeStation_Crafter_III.label>Ремесленник(III) Док Станция</RPP_RechargeStation_Crafter_III.label>
+	<RPP_RechargeStation_Crafter_III.description>Эта станция оснащена специализированным сложным роботом.</RPP_RechargeStation_Crafter_III.description>
+	<RPP_RechargeStation_Crafter_IV.label>Ремесленник(IV) Док Станция</RPP_RechargeStation_Crafter_IV.label>
+	<RPP_RechargeStation_Crafter_IV.description>Эта станция оснащена специализированным продвинутым роботом.</RPP_RechargeStation_Crafter_IV.description>
+	<RPP_RechargeStation_Crafter_V.label>Ремесленник(V) Док Станция</RPP_RechargeStation_Crafter_V.label>
+	<RPP_RechargeStation_Crafter_V.description>Эта станция оснащена специализированным Анти-Логик роботом.</RPP_RechargeStation_Crafter_V.description>
+
+	<RPP_RechargeStation_ER_I.label>Спасатель(I) Док Станция</RPP_RechargeStation_ER_I.label>
+	<RPP_RechargeStation_ER_I.description>Эта станция оснащена специализированным простым роботом.</RPP_RechargeStation_ER_I.description>
+	<RPP_RechargeStation_ER_II.label>Спасатель(II) Док Станция</RPP_RechargeStation_ER_II.label>
+	<RPP_RechargeStation_ER_II.description>Эта станция оснащена специализированным базовым роботом.</RPP_RechargeStation_ER_II.description>
+	<RPP_RechargeStation_ER_III.label>Спасатель(III) Док Станция</RPP_RechargeStation_ER_III.label>
+	<RPP_RechargeStation_ER_III.description>Эта станция оснащена специализированным сложным роботом.</RPP_RechargeStation_ER_III.description>
+	<RPP_RechargeStation_ER_IV.label>Спасатель(IV) Док Станция</RPP_RechargeStation_ER_IV.label>
+	<RPP_RechargeStation_ER_IV.description>Эта станция оснащена специализированным продвинутым роботом.</RPP_RechargeStation_ER_IV.description>
+	<RPP_RechargeStation_ER_V.label>Спасатель(V) Док Станция</RPP_RechargeStation_ER_V.label>
+	<RPP_RechargeStation_ER_V.description>Эта станция оснащена специализированным Анти-Логик роботом.</RPP_RechargeStation_ER_V.description>
+
+	<RPP_RechargeStation_Kitchen_I.label>Повар(I) Док Станция</RPP_RechargeStation_Kitchen_I.label>
+	<RPP_RechargeStation_Kitchen_I.description>Эта станция оснащена специализированным простым роботом.</RPP_RechargeStation_Kitchen_I.description>
+	<RPP_RechargeStation_Kitchen_II.label>Повар(II) Док Станция</RPP_RechargeStation_Kitchen_II.label>
+	<RPP_RechargeStation_Kitchen_II.description>Эта станция оснащена специализированным базовым роботом.</RPP_RechargeStation_Kitchen_II.description>
+	<RPP_RechargeStation_Kitchen_III.label>Повар(III) Док Станция</RPP_RechargeStation_Kitchen_III.label>
+	<RPP_RechargeStation_Kitchen_III.description>Эта станция оснащена специализированным сложным роботом.</RPP_RechargeStation_Kitchen_III.description>
+	<RPP_RechargeStation_Kitchen_IV.label>Повар(IV) Док Станция</RPP_RechargeStation_Kitchen_IV.label>
+	<RPP_RechargeStation_Kitchen_IV.description>Эта станция оснащена специализированным продвинутым роботом.</RPP_RechargeStation_Kitchen_IV.description>
+	<RPP_RechargeStation_Kitchen_V.label>Повар(V) Док Станция</RPP_RechargeStation_Kitchen_V.label>
+	<RPP_RechargeStation_Kitchen_V.description>Эта станция оснащена специализированным Анти-Логик роботом.</RPP_RechargeStation_Kitchen_V.description>
+
+	<RPP_RechargeStation_Omni_V.label>Универсал(V) Док Станция</RPP_RechargeStation_Omni_V.label>
+	<RPP_RechargeStation_Omni_V.description>Эта станция оснащена специализированным Анти-Логик Универсальным ботом. (NP=P)\nОна также имеет мульти-портовый источник подзарядки.</RPP_RechargeStation_Omni_V.description>
+
+</LanguageData>

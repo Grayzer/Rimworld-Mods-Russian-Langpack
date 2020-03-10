@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeSSScenterNeutral.label>Сделать Ароматизаторы(2)</MakeSSScenterNeutral.label>
+  <MakeSSScenterNeutral.description>Делать 2 ароматизатора.</MakeSSScenterNeutral.description>
+  <MakeSSScenterNeutral.jobString>Делает ароматизаторы.</MakeSSScenterNeutral.jobString>
+
+  <MakeBulkSSScenterNeutral.label>Сделать Ароматизаторы(10)</MakeBulkSSScenterNeutral.label>
+  <MakeBulkSSScenterNeutral.description>Делать 10 ароматизаторов.</MakeBulkSSScenterNeutral.description>
+  <MakeBulkSSScenterNeutral.jobString>Делает ароматизаторы.</MakeBulkSSScenterNeutral.jobString>
+
+
+</LanguageData>

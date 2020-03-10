@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- things you won't find here: dynamically generated columns such as needs, skills, records, capacities, etc -->
+
+  <Numbers_Age.label>Возраст</Numbers_Age.label>
+  <Numbers_AnimalEggProgress.label>Прогресс яиц</Numbers_AnimalEggProgress.label>
+  <Numbers_Milkfullness.label>Прогресс молока</Numbers_Milkfullness.label>
+  <Numbers_AnimalWoolGrowth.label>Прогресс шерсти</Numbers_AnimalWoolGrowth.label>
+  <Numbers_Race.label>Раса</Numbers_Race.label>
+  <Numbers_Backstory.label>История</Numbers_Backstory.label>
+  <Numbers_Equipment.label>Снаряжение</Numbers_Equipment.label>
+  <Numbers_JobCurrent.label>Текущая работа</Numbers_JobCurrent.label>
+  <Numbers_JobQueued.label>Планируемая работа</Numbers_JobQueued.label>
+  <Numbers_MentalState.label>Настроение</Numbers_MentalState.label>
+  <Numbers_PrisonerInteraction.label>Взаимодействие с заключенным</Numbers_PrisonerInteraction.label>
+  <Numbers_PrisonerRecruitmentDifficulty.label>Трудность найма</Numbers_PrisonerRecruitmentDifficulty.label>
+  <Numbers_PrisonerResistance.label>Рекрутинговое сопротивление</Numbers_PrisonerResistance.label>
+  <Numbers_Pain.label>Боль</Numbers_Pain.label>
+  <Numbers_Bleedrate.label>Уровень кровопотери</Numbers_Bleedrate.label>
+  <Numbers_NeedsTreatment.label>Нужно лечение</Numbers_NeedsTreatment.label>
+  <Numbers_Operations.label>Операция</Numbers_Operations.label>
+  <Numbers_Forbidden.label>Запрет</Numbers_Forbidden.label>
+  <Numbers_Inspiration.label>Вдохновение</Numbers_Inspiration.label>
+  <Numbers_DiseaseProgress.label>Запас иммунитета</Numbers_DiseaseProgress.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LaserTurretNotCharged>(Недостаточно энергии для выстрела)</LaserTurretNotCharged>
+  <RimlaserChangeBeamColor>Выбрать цвет: {0}</RimlaserChangeBeamColor>
+
+  <RimlaserBeamBrown>коричневый</RimlaserBeamBrown>
+  <RimlaserBeamOrange>оранжевый</RimlaserBeamOrange>
+  <RimlaserBeamRed>красный</RimlaserBeamRed>
+  <RimlaserBeamPink>розовый</RimlaserBeamPink>
+  <RimlaserBeamBlue>синий</RimlaserBeamBlue>
+  <RimlaserBeamTeal>бирюзовый</RimlaserBeamTeal>
+  <RimlaserBeamRedBlack>красно-черный</RimlaserBeamRedBlack>
+
+</LanguageData>

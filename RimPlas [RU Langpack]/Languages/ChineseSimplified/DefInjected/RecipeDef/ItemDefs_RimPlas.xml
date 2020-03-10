@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeRimPlas.label>制作塑料</MakeRimPlas.label>
+  <MakeRimPlas.description>制作25份塑料。</MakeRimPlas.description>
+  <MakeRimPlas.jobString>正在制作塑料。</MakeRimPlas.jobString>
+
+  <MakeBulkRimPlas.label>批量制作塑料</MakeBulkRimPlas.label>
+  <MakeBulkRimPlas.description>制作100份塑料。</MakeBulkRimPlas.description>
+  <MakeBulkRimPlas.jobString>正在制作塑料。</MakeBulkRimPlas.jobString>
+
+
+</LanguageData>

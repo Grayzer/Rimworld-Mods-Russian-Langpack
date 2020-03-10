@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoolHeater.label>变频加热器</CoolHeater.label>
+  <CoolHeater.description>一个带有控制器的加热器，可以手动或自动的调节效率，由于控制器的精度和响应能力有限,耗能会有所增加。</CoolHeater.description>
+
+
+</LanguageData>

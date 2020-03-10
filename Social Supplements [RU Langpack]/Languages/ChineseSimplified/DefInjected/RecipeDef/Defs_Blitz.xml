@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeSSBlitz_Zest.label>制作霹雳（果味）</MakeSSBlitz_Zest.label>
+  <MakeSSBlitz_Zest.description>制作1瓶霹雳(果味).</MakeSSBlitz_Zest.description>
+  <MakeSSBlitz_Zest.jobString>正在制作霹雳能量饮料.</MakeSSBlitz_Zest.jobString>
+
+  <MakeBulkSSBlitz_Zest.label>批量制作霹雳（果味）</MakeBulkSSBlitz_Zest.label>
+  <MakeBulkSSBlitz_Zest.description>制作5瓶霹雳（果味）.</MakeBulkSSBlitz_Zest.description>
+  <MakeBulkSSBlitz_Zest.jobString>正在制作霹雳能量饮料.</MakeBulkSSBlitz_Zest.jobString>
+
+
+  <!-- Bulk Recipes -->
+
+  <MakeBulkSSBlitz_Ice.label>批量制作霹雳（冰爽）</MakeBulkSSBlitz_Ice.label>
+  <MakeBulkSSBlitz_Ice.description>制作5瓶霹雳（冰爽）.</MakeBulkSSBlitz_Ice.description>
+  <MakeBulkSSBlitz_Ice.jobString>正在制作霹雳能量饮料.</MakeBulkSSBlitz_Ice.jobString>
+
+
+</LanguageData>

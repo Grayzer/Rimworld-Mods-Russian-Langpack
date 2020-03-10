@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimPlas Barrier -->
+
+  <RimPlas_Barrier.label>塑料围栏</RimPlas_Barrier.label>
+  <RimPlas_Barrier.description>塑料围栏具备一定的掩体效果和防护能力。可方便迅速的建造，但具有一定的可燃性。轻于沙袋但耐久上有所欠缺。</RimPlas_Barrier.description>
+  <RimPlas_Barrier_Blueprint.label>塑料围栏(蓝图)</RimPlas_Barrier_Blueprint.label>
+  <RimPlas_Barrier_Blueprint_Install.label>塑料围栏(蓝图)</RimPlas_Barrier_Blueprint_Install.label>
+  <RimPlas_Barrier_Frame.label>塑料围栏(建造中)</RimPlas_Barrier_Frame.label>
+  <RimPlas_Barrier_Frame.description>塑料围栏具备一定的掩体效果和防护能力。可方便迅速的建造，但具有一定的可燃性。轻于沙袋但耐久上有所欠缺。</RimPlas_Barrier_Frame.description>
+
+
+  <!-- Animal beds -->
+
+  <RimPlas_AnimalSleepingBox.label>塑料宠物箱</RimPlas_AnimalSleepingBox.label>
+  <RimPlas_AnimalSleepingBox.description>一个供动物睡觉的小箱子。适合较小的动物，比如鸡、猫或小狗。</RimPlas_AnimalSleepingBox.description>
+  <RimPlas_AnimalSleepingBox_Blueprint.label>塑料宠物箱(蓝图)</RimPlas_AnimalSleepingBox_Blueprint.label>
+  <RimPlas_AnimalSleepingBox_Blueprint_Install.label>塑料宠物箱(蓝图)</RimPlas_AnimalSleepingBox_Blueprint_Install.label>
+  <RimPlas_AnimalSleepingBox_Frame.label>塑料宠物箱(建造中)</RimPlas_AnimalSleepingBox_Frame.label>
+  <RimPlas_AnimalSleepingBox_Frame.description>一个供动物睡觉的小箱子。适合较小的动物，比如鸡、猫或小狗。</RimPlas_AnimalSleepingBox_Frame.description>
+
+
+  <!-- Basic domestic furniture -->
+
+  <RimPlas_Stool.label>塑料凳子</RimPlas_Stool.label>
+  <RimPlas_Stool.description>给人坐的简单的凳子。不怎么舒适，但总好过什么也没有。可以在餐桌和工作台或者别的什么附近使用。</RimPlas_Stool.description>
+  <RimPlas_Stool_Blueprint.label>塑料凳子(蓝图)</RimPlas_Stool_Blueprint.label>
+  <RimPlas_Stool_Blueprint_Install.label>塑料凳子(blueprint)</RimPlas_Stool_Blueprint_Install.label>
+  <RimPlas_Stool_Frame.label>塑料凳子(建造中)</RimPlas_Stool_Frame.label>
+  <RimPlas_Stool_Frame.description>给人坐的简单的凳子。不怎么舒适，但总好过什么也没有。可以在餐桌和工作台或者别的什么附近使用。</RimPlas_Stool_Frame.description>
+
+  <RimPlas_DiningChair.label>塑料餐椅</RimPlas_DiningChair.label>
+  <RimPlas_DiningChair.description>一张看起来很舒适和招人喜爱的椅子。可以在餐桌和工作台或者别的什么附近使用。</RimPlas_DiningChair.description>
+  <RimPlas_DiningChair_Blueprint.label>塑料餐椅(蓝图)</RimPlas_DiningChair_Blueprint.label>
+  <RimPlas_DiningChair_Blueprint_Install.label>塑料餐椅(蓝图)</RimPlas_DiningChair_Blueprint_Install.label>
+  <RimPlas_DiningChair_Frame.label>塑料餐椅(建造中)</RimPlas_DiningChair_Frame.label>
+  <RimPlas_DiningChair_Frame.description>一张看起来很舒适和招人喜爱的椅子。可以在餐桌和工作台或者别的什么附近使用。</RimPlas_DiningChair_Frame.description>
+
+
+  <!-- Drug Cabinet -->
+
+  <RimPlas_DrugCabinet.label>塑料药物柜</RimPlas_DrugCabinet.label>
+  <RimPlas_DrugCabinet.description>一个储存药物的小柜子。同时可以略微提高所在环境的清洁度以及为药物工作台提供工作速度加成。</RimPlas_DrugCabinet.description>
+  <RimPlas_DrugCabinet_Blueprint.label>R塑料药物柜(蓝图)</RimPlas_DrugCabinet_Blueprint.label>
+  <RimPlas_DrugCabinet_Blueprint_Install.label>塑料药物柜(蓝图)</RimPlas_DrugCabinet_Blueprint_Install.label>
+  <RimPlas_DrugCabinet_Frame.label>塑料药物柜(建造中)</RimPlas_DrugCabinet_Frame.label>
+  <RimPlas_DrugCabinet_Frame.description>一个储存药物的小柜子。同时可以略微提高所在环境的清洁度以及为药物工作台提供工作速度加成。</RimPlas_DrugCabinet_Frame.description>
+
+
+  <!-- Table base -->
+
+  <RimPlas_EndTable.label>塑料床头柜</RimPlas_EndTable.label>
+  <RimPlas_EndTable.description>床边的小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。在同一个床旁放置多个床头柜不会产生效果。</RimPlas_EndTable.description>
+  <RimPlas_EndTable_Blueprint.label>塑料床头柜(蓝图)</RimPlas_EndTable_Blueprint.label>
+  <RimPlas_EndTable_Blueprint_Install.label>塑料床头柜(蓝图)</RimPlas_EndTable_Blueprint_Install.label>
+  <RimPlas_EndTable_Frame.label>塑料床头柜(建造中)</RimPlas_EndTable_Frame.label>
+  <RimPlas_EndTable_Frame.description>床边的小桌子。可以给旁边的床增加一点舒适度。必须直接放置在与头毗邻的位置。在同一个床旁放置多个床头柜不会产生效果。</RimPlas_EndTable_Frame.description>
+
+  <RimPlas_Table_Tiny.label>塑料桌子(1x1)</RimPlas_Table_Tiny.label>
+  <RimPlas_Table_Tiny.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</RimPlas_Table_Tiny.description>
+  <RimPlas_Table_Tiny_Blueprint.label>塑料桌子(1x1)(蓝图)</RimPlas_Table_Tiny_Blueprint.label>
+  <RimPlas_Table_Tiny_Blueprint_Install.label>塑料桌子(1x1)(蓝图)</RimPlas_Table_Tiny_Blueprint_Install.label>
+  <RimPlas_Table_Tiny_Frame.label>塑料桌子(1x1)(建造中)</RimPlas_Table_Tiny_Frame.label>
+  <RimPlas_Table_Tiny_Frame.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</RimPlas_Table_Tiny_Frame.description>
+
+  <RimPlas_Table_Small.label>塑料桌子(1x2)</RimPlas_Table_Small.label>
+  <RimPlas_Table_Small.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</RimPlas_Table_Small.description>
+  <RimPlas_Table_Small_Blueprint.label>塑料桌子(1x2)(蓝图)</RimPlas_Table_Small_Blueprint.label>
+  <RimPlas_Table_Small_Blueprint_Install.label>塑料桌子(1x2)(蓝图)</RimPlas_Table_Small_Blueprint_Install.label>
+  <RimPlas_Table_Small_Frame.label>塑料桌子(1x2)(建造中)</RimPlas_Table_Small_Frame.label>
+  <RimPlas_Table_Small_Frame.description>当放置有朝向桌子的椅子时，人们会在上面吃饭。</RimPlas_Table_Small_Frame.description>
+
+
+  <!-- Plant Pot -->
+
+  <RimPlas_PlantPot.label>塑料花盆</RimPlas_PlantPot.label>
+  <RimPlas_PlantPot.description>种植装饰性的花朵来提升附近的人的心情。</RimPlas_PlantPot.description>
+  <RimPlas_PlantPot_Blueprint.label>塑料花盆(蓝图)</RimPlas_PlantPot_Blueprint.label>
+  <RimPlas_PlantPot_Blueprint_Install.label>塑料花盆(蓝图)</RimPlas_PlantPot_Blueprint_Install.label>
+  <RimPlas_PlantPot_Frame.label>塑料花盆(建造中)</RimPlas_PlantPot_Frame.label>
+  <RimPlas_PlantPot_Frame.description>种植装饰性的花朵来提升附近的人的心情。</RimPlas_PlantPot_Frame.description>
+
+
+  <!-- Storage -->
+
+  <RimPlas_Shelf.label>塑料物品架</RimPlas_Shelf.label>
+  <RimPlas_Shelf.description>用于储存各种物品的物品架。储存于此的物品即使露天也不会老化。</RimPlas_Shelf.description>
+  <RimPlas_Shelf_Blueprint.label>塑料物品架(蓝图)</RimPlas_Shelf_Blueprint.label>
+  <RimPlas_Shelf_Blueprint_Install.label>塑料物品架(蓝图)</RimPlas_Shelf_Blueprint_Install.label>
+  <RimPlas_Shelf_Frame.label>塑料物品架(建造中)</RimPlas_Shelf_Frame.label>
+  <RimPlas_Shelf_Frame.description>用于储存各种物品的物品架。储存于此的物品即使露天也不会老化。</RimPlas_Shelf_Frame.description>
+
+  <RimPlas_Rack.label>单数塑料物品架</RimPlas_Rack.label>
+  <RimPlas_Rack.description>储存于此的物品即使露天也不会老化。</RimPlas_Rack.description>
+  <RimPlas_Rack_Blueprint.label>单数塑料物品架(蓝图)</RimPlas_Rack_Blueprint.label>
+  <RimPlas_Rack_Blueprint_Install.label>单数塑料物品架(蓝图)</RimPlas_Rack_Blueprint_Install.label>
+  <RimPlas_Rack_Frame.label>单数塑料物品架(建造中)</RimPlas_Rack_Frame.label>
+  <RimPlas_Rack_Frame.description>储存于此的物品即使露天也不会老化。</RimPlas_Rack_Frame.description>
+
+
+  <!-- Dressers -->
+
+  <RimPlas_Dresser.label>塑料梳妆台</RimPlas_Dresser.label>
+  <RimPlas_Dresser.description>给旁边所有的床提供少量舒适度奖励。在同一个床旁放置多个梳妆台不会产生效果。</RimPlas_Dresser.description>
+  <RimPlas_Dresser_Blueprint.label>塑料梳妆台(蓝图)</RimPlas_Dresser_Blueprint.label>
+  <RimPlas_Dresser_Blueprint_Install.label>塑料梳妆台(蓝图)</RimPlas_Dresser_Blueprint_Install.label>
+  <RimPlas_Dresser_Frame.label>塑料梳妆台(建造中)</RimPlas_Dresser_Frame.label>
+  <RimPlas_Dresser_Frame.description>给旁边所有的床提供少量舒适度奖励。在同一个床旁放置多个梳妆台不会产生效果。</RimPlas_Dresser_Frame.description>
+
+
+  <!-- Joy -->
+
+  <RimPlas_GameOfUr.label>塑料皇家博弈棋</RimPlas_GameOfUr.label>
+  <RimPlas_GameOfUr.description>从公元前2500年出现至今，这款让人又爱又恨的棋盘游戏可一人或两人游戏。同时还能提升智识技能。</RimPlas_GameOfUr.description>
+  <RimPlas_GameOfUr_Blueprint.label>塑料皇家博弈棋(蓝图)</RimPlas_GameOfUr_Blueprint.label>
+  <RimPlas_GameOfUr_Blueprint_Install.label>塑料皇家博弈棋(蓝图)</RimPlas_GameOfUr_Blueprint_Install.label>
+  <RimPlas_GameOfUr_Frame.label>塑料皇家博弈棋(建造中)</RimPlas_GameOfUr_Frame.label>
+  <RimPlas_GameOfUr_Frame.description>从公元前2500年出现至今，这款让人又爱又恨的棋盘游戏可一人或两人游戏。同时还能提升智识技能。</RimPlas_GameOfUr_Frame.description>
+
+  <RimPlas_ChessTable.label>塑料象棋桌</RimPlas_ChessTable.label>
+  <RimPlas_ChessTable.description>古老的国王游戏。可以有意思地打发几个小时的时间，甚至独自玩耍。需要配备椅子。可以提高智力水平。</RimPlas_ChessTable.description>
+  <RimPlas_ChessTable_Blueprint.label>塑料象棋桌(蓝图)</RimPlas_ChessTable_Blueprint.label>
+  <RimPlas_ChessTable_Blueprint_Install.label>塑料象棋桌(蓝图)</RimPlas_ChessTable_Blueprint_Install.label>
+  <RimPlas_ChessTable_Frame.label>塑料象棋桌(建造中)</RimPlas_ChessTable_Frame.label>
+  <RimPlas_ChessTable_Frame.description>古老的国王游戏。可以有意思地打发几个小时的时间，甚至独自玩耍。需要配备椅子。可以提高智力水平。</RimPlas_ChessTable_Frame.description>
+
+
+</LanguageData>

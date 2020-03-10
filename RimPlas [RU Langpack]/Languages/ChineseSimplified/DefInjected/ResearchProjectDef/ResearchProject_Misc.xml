@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Research -->
+
+  <RimPlas_Components.label>构造零部件</RimPlas_Components.label>
+  <RimPlas_Components.description>允许制作边缘塑胶的物品。</RimPlas_Components.description>
+
+  <RimPlas_AdvComponents.label>构造高级零部件</RimPlas_AdvComponents.label>
+  <RimPlas_AdvComponents.description>允许制作边缘塑胶的先进物品。</RimPlas_AdvComponents.description>
+
+  <RimPlas_MultiAnalyzer.label>构造塑胶多元分析仪</RimPlas_MultiAnalyzer.label>
+  <RimPlas_MultiAnalyzer.description>允许制作边缘塑胶的多元分析仪。</RimPlas_MultiAnalyzer.description>
+
+  <RimThermoPlas.label>导热泡沫橡胶</RimThermoPlas.label>
+  <RimThermoPlas.description>允许制作和使用新型材料。</RimThermoPlas.description>
+
+  <RPSecurityDoors.label>石墨烯安检门</RPSecurityDoors.label>
+  <RPSecurityDoors.description>允许建造智能安检门。</RPSecurityDoors.description>
+
+  <RimPlas_AdvIntelMats.label>先进超能材料</RimPlas_AdvIntelMats.label>
+  <RimPlas_AdvIntelMats.description>允许使用先进注射成型机制作复合型材料。</RimPlas_AdvIntelMats.description>
+
+
+</LanguageData>

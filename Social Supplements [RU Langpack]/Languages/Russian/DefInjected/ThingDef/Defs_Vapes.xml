@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular -->
+
+  <SSVape_Regular.label>Вейп (Обычный)</SSVape_Regular.label>
+  <SSVape_Regular.description>Устройство, позволяющее вейпить дымолист с целым рядом применений. Это немного менее вредно, чем косяк дымолиста. Эффекты длятся около половины дня.</SSVape_Regular.description>
+  <SSVape_Regular.ingestible.ingestCommandString>Курить {0}</SSVape_Regular.ingestible.ingestCommandString>
+  <SSVape_Regular.ingestible.ingestReportString>Вейпит {0}.</SSVape_Regular.ingestible.ingestReportString>
+
+
+  <!-- Fruity -->
+
+  <SSVape_Fruity.label>Вейп (Фруктовый)</SSVape_Fruity.label>
+  <SSVape_Fruity.description>Устройство, позволяющее вейпить дымолист с целым рядом применений. Это немного менее вредно, чем косяк дымолиста. Этот вейп обладает характерным фруктовым ароматом. Эффекты длятся около половины дня.</SSVape_Fruity.description>
+  <SSVape_Fruity.ingestible.ingestCommandString>Курить {0}</SSVape_Fruity.ingestible.ingestCommandString>
+  <SSVape_Fruity.ingestible.ingestReportString>Вейпит {0}.</SSVape_Fruity.ingestible.ingestReportString>
+
+
+  <!-- Menthol -->
+
+  <SSVape_Menthol.label>Вейп (Ментол)</SSVape_Menthol.label>
+  <SSVape_Menthol.description>Устройство, позволяющее вейпить дымолист с целым рядом применений. Это немного менее вредно, чем косяк дымолиста. Этот вейп обладает характерным мятным ароматом. Эффекты длятся около половины дня.</SSVape_Menthol.description>
+  <SSVape_Menthol.ingestible.ingestCommandString>Курить {0}</SSVape_Menthol.ingestible.ingestCommandString>
+  <SSVape_Menthol.ingestible.ingestReportString>Вейпит {0}.</SSVape_Menthol.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkSSMintTea.label>批量制作薄荷茶</MakeBulkSSMintTea.label>
+  <MakeBulkSSMintTea.description>冲泡5杯薄荷茶.</MakeBulkSSMintTea.description>
+  <MakeBulkSSMintTea.jobString>正在批量冲泡薄荷茶.</MakeBulkSSMintTea.jobString>
+
+
+  <!-- Recipes -->
+
+  <MakeSSMintChocolate.label>制作薄荷巧克力</MakeSSMintChocolate.label>
+  <MakeSSMintChocolate.description>制作1块薄荷巧克力.</MakeSSMintChocolate.description>
+  <MakeSSMintChocolate.jobString>正在制作薄荷巧克力.</MakeSSMintChocolate.jobString>
+
+  <MakeBulkSSMintChocolate.label>批量制作薄荷巧克力</MakeBulkSSMintChocolate.label>
+  <MakeBulkSSMintChocolate.description>制作5块薄荷巧克力.</MakeBulkSSMintChocolate.description>
+  <MakeBulkSSMintChocolate.jobString>正在批量制作薄荷巧克力.</MakeBulkSSMintChocolate.jobString>
+
+
+</LanguageData>

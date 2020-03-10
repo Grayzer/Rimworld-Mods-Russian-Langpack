@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAsphalt.label>制作沥青混凝土</MakeAsphalt.label>
+  <MakeAsphalt.description>制作50份沥青混凝土</MakeAsphalt.description>
+  <MakeAsphalt.jobString>正在制作沥青混凝土</MakeAsphalt.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingCHAutoCL>auto mode</LingCHAutoCL>
+  <LingCHAutoCLD>The heater will automatically adjust the efficiency. Due to the limitation of sensors, the response speed of adjustment is not as fast as manual adjustment. \nWarning: Do not turn on auto mode outdoors.</LingCHAutoCLD>
+  <LingCHEffectDown>Power down</LingCHEffectDown>
+  <LingCHEffectDownD>Reduce heater efficiency while saving energy.</LingCHEffectDownD>
+  <LingCHEffectUp>Power UP</LingCHEffectUp>
+  <LingCHEffectUpD>Improve the efficiency of the heater, which will increase power consumption.</LingCHEffectUpD>
+  <LingCHWorkLevel>工作等级：</LingCHWorkLevel>
+
+</LanguageData>

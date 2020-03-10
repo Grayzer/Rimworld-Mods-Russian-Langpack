@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Zest -->
+
+  <SSBlitz_Zest_Thought.stages.0.label>Blitz-Цедра</SSBlitz_Zest_Thought.stages.0.label>
+  <SSBlitz_Zest_Thought.stages.0.description>Пить Blitz так освежает</SSBlitz_Zest_Thought.stages.0.description>
+
+
+  <!-- Ice -->
+
+  <SSBlitz_Ice_Thought.stages.0.label>Blitz-Лед</SSBlitz_Ice_Thought.stages.0.label>
+  <SSBlitz_Ice_Thought.stages.0.description>Пить Blitz так освежает</SSBlitz_Ice_Thought.stages.0.description>
+
+
+</LanguageData>

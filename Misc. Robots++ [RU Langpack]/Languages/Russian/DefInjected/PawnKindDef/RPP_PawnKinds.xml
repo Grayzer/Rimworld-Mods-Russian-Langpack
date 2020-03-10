@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AIRobot_Hauler.label>Бот Носильщик (Уровень 1)</AIRobot_Hauler.label>
+	<AIRobot_Hauler_II.label>Бот Носильщик (Уровень 2)</AIRobot_Hauler_II.label>
+	<AIRobot_Hauler_III.label>Бот Носильщик (Уровень 3)</AIRobot_Hauler_III.label>
+	<AIRobot_Hauler_IV.label>Бот Носильщик (Уровень 4)</AIRobot_Hauler_IV.label>
+	<AIRobot_Hauler_V.label>Бот Носильщик (Уровень 5)</AIRobot_Hauler_V.label>
+
+	<AIRobot_Cleaner.label>Бот Уборщик (Уровень 1)</AIRobot_Cleaner.label>
+	<AIRobot_Cleaner_II.label>Бот Уборщик (Уровень 2)</AIRobot_Cleaner_II.label>
+	<AIRobot_Cleaner_III.label>Бот Уборщик (Уровень 3)</AIRobot_Cleaner_III.label>
+	<AIRobot_Cleaner_IV.label>Бот Уборщик (Уровень 4)</AIRobot_Cleaner_IV.label>
+	<AIRobot_Cleaner_V.label>Бот Уборщик (Уровень 5)</AIRobot_Cleaner_V.label>
+
+	<RPP_Bot_Builder_I.label>Бот Строитель (Уровень 1)</RPP_Bot_Builder_I.label>
+	<RPP_Bot_Builder_II.label>Бот Строитель (Уровень 2)</RPP_Bot_Builder_II.label>
+	<RPP_Bot_Builder_III.label>Бот Строитель (Уровень 3)</RPP_Bot_Builder_III.label>
+	<RPP_Bot_Builder_IV.label>Бот Строитель (Уровень 4)</RPP_Bot_Builder_IV.label>
+	<RPP_Bot_Builder_V.label>Бот Строитель (Уровень 5)</RPP_Bot_Builder_V.label>
+
+	<RPP_Bot_Crafter_I.label>Бот Ремесленник (Уровень 1)</RPP_Bot_Crafter_I.label>
+	<RPP_Bot_Crafter_II.label>Бот Ремесленник (Уровень 2)</RPP_Bot_Crafter_II.label>
+	<RPP_Bot_Crafter_III.label>Бот Ремесленник (Уровень 3)</RPP_Bot_Crafter_III.label>
+	<RPP_Bot_Crafter_IV.label>Бот Ремесленник (Уровень 4)</RPP_Bot_Crafter_IV.label>
+	<RPP_Bot_Crafter_V.label>Бот Ремесленник (Уровень 5)</RPP_Bot_Crafter_V.label>
+
+	<RPP_Bot_ER_I.label>Бот Спасатель (Уровень 1)</RPP_Bot_ER_I.label>
+	<RPP_Bot_ER_II.label>Бот Спасатель (Уровень 2)</RPP_Bot_ER_II.label>
+	<RPP_Bot_ER_III.label>Бот Спасатель (Уровень 3)</RPP_Bot_ER_III.label>
+	<RPP_Bot_ER_IV.label>Бот Спасатель (Уровень 4)</RPP_Bot_ER_IV.label>
+	<RPP_Bot_ER_V.label>Бот Спасатель (Уровень 5)</RPP_Bot_ER_V.label>
+
+	<RPP_Bot_Kitchen_I.label>Бот Повар (Уровень 1)</RPP_Bot_Kitchen_I.label>
+	<RPP_Bot_Kitchen_II.label>Бот Повар (Уровень 2)</RPP_Bot_Kitchen_II.label>
+	<RPP_Bot_Kitchen_III.label>Бот Повар (Уровень 3)</RPP_Bot_Kitchen_III.label>
+	<RPP_Bot_Kitchen_IV.label>Бот Повар (Уровень 4)</RPP_Bot_Kitchen_IV.label>
+	<RPP_Bot_Kitchen_V.label>Бот Повар (Уровень 5)</RPP_Bot_Kitchen_V.label>
+
+	<RPP_Bot_Omni_V.label>Бот Универсал (Уровень 5)</RPP_Bot_Omni_V.label>
+
+</LanguageData>

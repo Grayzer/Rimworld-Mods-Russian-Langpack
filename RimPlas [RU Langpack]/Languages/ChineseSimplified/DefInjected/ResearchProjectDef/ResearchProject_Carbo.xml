@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimPlas_CarboSynth.label>人造碳化合物</RimPlas_CarboSynth.label>
+  <RimPlas_CarboSynth.description>允许制作和使用新型材料。</RimPlas_CarboSynth.description>
+
+  <RimPlas_Graphene.label>石墨烯</RimPlas_Graphene.label>
+  <RimPlas_Graphene.description>允许制作和使用新型材料</RimPlas_Graphene.description>
+
+  <RimPlas_BulkGraphene.label>量产石墨烯</RimPlas_BulkGraphene.label>
+  <RimPlas_BulkGraphene.description>允许批量制作石墨烯。</RimPlas_BulkGraphene.description>
+
+  <RimPlas_CarbonComposites.label>碳类复合化合物</RimPlas_CarbonComposites.label>
+  <RimPlas_CarbonComposites.description>允许制作和使用新型材料。</RimPlas_CarbonComposites.description>
+
+  <RimPlas_CarbonCompositesBulk.label>量产碳类复合化合物</RimPlas_CarbonCompositesBulk.label>
+  <RimPlas_CarbonCompositesBulk.description>允许批量制作碳类复合化合物。</RimPlas_CarbonCompositesBulk.description>
+
+
+</LanguageData>

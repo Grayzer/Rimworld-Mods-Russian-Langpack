@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pitch -->
+
+  <CarboPitch.label>Смола</CarboPitch.label>
+  <CarboPitch.description>Синтетический химический прекурсор. Хотя сам по себе он бесполезен, он используется при производстве других синтетических материалов на основе углерода.</CarboPitch.description>
+
+
+  <!-- CarboFibre -->
+
+  <CarboFibre.label>Углеволокно</CarboFibre.label>
+  <CarboFibre.description>Синтетический углерод-армированный полимерный материал, используемый в строительстве различных конструкций и предметов. Хорошая термостойкость.</CarboFibre.description>
+
+
+  <!-- CarboSynth -->
+
+  <CarboSynth.label>Углеткань</CarboSynth.label>
+  <CarboSynth.description>Ткань на основе синтетического углеродного волокна. Обладает хорошей переносимостью тепла.</CarboSynth.description>
+
+
+  <!-- Graphene -->
+
+  <RimPlasGraphene.label>Графен</RimPlasGraphene.label>
+  <RimPlasGraphene.description>Чрезвычайно прочный материал на основе синтетического углерода, используемый в строительстве различных конструкций и предметов. Он также обладает хорошей устойчивостью к нагреву и полезными электрическими свойствами. Материал более эффективен против сжатия или повреждений, связанных с затуплением, но все же эффективен и в других случаях.</RimPlasGraphene.description>
+
+
+  <!-- CarboPlasteel -->
+
+  <CarboPlasteel.label>Углепласталь</CarboPlasteel.label>
+  <CarboPlasteel.description>Чрезвычайно прочный материал из углеродисто-пласталевого ламината, используемый для строительства различных конструкций и предметов.</CarboPlasteel.description>
+
+
+</LanguageData>

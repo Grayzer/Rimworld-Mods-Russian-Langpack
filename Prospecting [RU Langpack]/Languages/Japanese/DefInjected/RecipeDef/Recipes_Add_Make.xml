@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
+
+  <Make_PrsProspectBelt.label>探掘ベルトを縫う</Make_PrsProspectBelt.label>
+  <Make_PrsProspectBelt.description>探掘ベルトを縫う。</Make_PrsProspectBelt.description>
+  <Make_PrsProspectBelt.jobString>探掘ベルトを裁縫中</Make_PrsProspectBelt.jobString>
+
+</LanguageData>

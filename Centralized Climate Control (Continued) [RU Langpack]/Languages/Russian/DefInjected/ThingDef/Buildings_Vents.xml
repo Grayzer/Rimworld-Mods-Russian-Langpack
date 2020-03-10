@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular Wall Vent -->
+
+  <WallAirVent.label>Настенный воздухоотводчик</WallAirVent.label>
+  <WallAirVent.description>Настенный воздухоотводчик.</WallAirVent.description>
+  <WallAirVent_Blueprint.label>Настенный воздухоотводчик (чертеж)</WallAirVent_Blueprint.label>
+  <WallAirVent_Frame.label>Настенный воздухоотводчик (стройка)</WallAirVent_Frame.label>
+  <WallAirVent_Frame.description>Настенный воздухоотводчик.</WallAirVent_Frame.description>
+
+
+  <!-- Small Wall Vent -->
+
+  <WallAirVentSmall.label>Настенный воздухоотводчик (малый)</WallAirVentSmall.label>
+  <WallAirVentSmall.description>Настенный воздухоотводчик.</WallAirVentSmall.description>
+  <WallAirVentSmall_Blueprint.label>Настенный воздухоотводчик (малый) (чертеж)</WallAirVentSmall_Blueprint.label>
+  <WallAirVentSmall_Frame.label>Настенный воздухоотводчик (малый) (стройка)</WallAirVentSmall_Frame.label>
+  <WallAirVentSmall_Frame.description>Настенный воздухоотводчик.</WallAirVentSmall_Frame.description>
+
+
+  <!-- Regular Surround Vents -->
+
+  <SurroundAirVent.label>Напольный вентилятор</SurroundAirVent.label>
+  <SurroundAirVent.description>Напольный вентилятор.</SurroundAirVent.description>
+  <SurroundAirVent_Blueprint.label>Напольный вентилятор (чертеж)</SurroundAirVent_Blueprint.label>
+  <SurroundAirVent_Frame.label>Напольный вентилятор (стройка)</SurroundAirVent_Frame.label>
+  <SurroundAirVent_Frame.description>Напольный вентилятор.</SurroundAirVent_Frame.description>
+
+
+  <!-- Wide Surround Vents -->
+
+  <SurroundAirVentWide.label>Напольный вентилятор (широкий)</SurroundAirVentWide.label>
+  <SurroundAirVentWide.description>Напольный вентилятор.</SurroundAirVentWide.description>
+  <SurroundAirVentWide_Blueprint.label>Напольный вентилятор (чертеж)</SurroundAirVentWide_Blueprint.label>
+  <SurroundAirVentWide_Frame.label>Напольный вентилятор (стройка)</SurroundAirVentWide_Frame.label>
+  <SurroundAirVentWide_Frame.description>Напольный вентилятор.</SurroundAirVentWide_Frame.description>
+
+
+  <!-- Legacy Support: Full Size Vents -->
+
+  <AirVent.label>Вентилятор</AirVent.label>
+  <AirVent.description>Это вентилятор.</AirVent.description>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimPlas -->
+
+  <RimPlas.label>塑料</RimPlas.label>
+  <RimPlas.description>一种能用于多个建筑及物品领域的塑料。</RimPlas.description>
+  <RimPlas.stuffProps.stuffAdjective>塑料</RimPlas.stuffProps.stuffAdjective>
+
+
+  <!-- RimPoly -->
+
+  <RimPoly.label>涤纶</RimPoly.label>
+  <RimPoly.description>一种人造纤维。</RimPoly.description>
+  <RimPoly.stuffProps.stuffAdjective>涤纶</RimPoly.stuffProps.stuffAdjective>
+
+
+  <!-- RPMechanites -->
+
+  <RPMechanites.label>机械液</RPMechanites.label>
+  <RPMechanites.description>储存在压力罐内的机械液。</RPMechanites.description>
+
+
+</LanguageData>

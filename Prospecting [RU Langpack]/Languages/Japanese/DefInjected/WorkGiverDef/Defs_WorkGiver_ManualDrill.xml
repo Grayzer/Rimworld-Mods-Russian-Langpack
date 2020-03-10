@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PrsManualDrillProspect.label>試掘(手動ドリルマシン)</PrsManualDrillProspect.label>
+  <PrsManualDrillProspect.verb>試掘</PrsManualDrillProspect.verb>
+  <PrsManualDrillProspect.gerund>を試掘する</PrsManualDrillProspect.gerund>
+
+  <PrsManualDrillMine.label>掘削(手動ドリルマシン)</PrsManualDrillMine.label>
+  <PrsManualDrillMine.verb>掘削</PrsManualDrillMine.verb>
+  <PrsManualDrillMine.gerund>を掘削する</PrsManualDrillMine.gerund>
+
+</LanguageData>

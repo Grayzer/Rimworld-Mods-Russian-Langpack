@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CraftRimPlasInjMld.label>Работать на Инъекционном станке</CraftRimPlasInjMld.label>
+  <CraftRimPlasInjMld.verb>формовка</CraftRimPlasInjMld.verb>
+  <CraftRimPlasInjMld.gerund>операции</CraftRimPlasInjMld.gerund>
+
+  <CraftRimPlasAdvInjMld.label>Работать на Продвинутом инъекционном станке</CraftRimPlasAdvInjMld.label>
+  <CraftRimPlasAdvInjMld.verb>формовка</CraftRimPlasAdvInjMld.verb>
+  <CraftRimPlasAdvInjMld.gerund>операции</CraftRimPlasAdvInjMld.gerund>
+
+  <CraftRimPlasMechBreaker.label>Использовать Мех Дробилку</CraftRimPlasMechBreaker.label>
+  <CraftRimPlasMechBreaker.verb>дробит</CraftRimPlasMechBreaker.verb>
+  <CraftRimPlasMechBreaker.gerund>используется</CraftRimPlasMechBreaker.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spicy Meals -->
+
+  <SSMealSurvivalPackSpicy.label>пряный сухпаек</SSMealSurvivalPackSpicy.label>
+  <SSMealSurvivalPackSpicy.description>Высококачественная упакованная еда в сочетании с острым соусом, изготовленная для использования в ситуациях выживания. Хотя он никогда не гниет, он все равно может испортиться, если его оставить снаружи. Отлично подходит для путешествий.</SSMealSurvivalPackSpicy.description>
+
+  <SSMealTravelPackSpicy.label>пряный завтрак туриста</SSMealTravelPackSpicy.label>
+  <SSMealTravelPackSpicy.description>Упакованная еда роскошного качества в сочетании с острым соусом, изготовленная для путешествий. Хотя он никогда не гниет, он все равно может испортиться, если его оставить снаружи. Идеально подходит для путешествий.</SSMealTravelPackSpicy.description>
+
+  <SSMealSimpleSpicy.label>пряное простое блюдо</SSMealSimpleSpicy.label>
+  <SSMealSimpleSpicy.description>Простое блюдо, быстро приготовленное из одного основного ингредиента и в сочетании с острым соусом.</SSMealSimpleSpicy.description>
+
+  <SSMealFineSpicy.label>пряное вкусное блюдо</SSMealFineSpicy.label>
+  <SSMealFineSpicy.description>Комплексное блюдо, собранное с осторожностью из различных ингредиентов и в сочетании с острым соусом.</SSMealFineSpicy.description>
+
+  <SSMealLavishSpicy.label>пряное шикарное блюдо</SSMealLavishSpicy.label>
+  <SSMealLavishSpicy.description>Это пряное блюдо, приправленное острым соусом, шедевр кулинарного искусства, питает тело, разум и душу.</SSMealLavishSpicy.description>
+
+
+  <!-- Spicy Pemmican -->
+
+  <SSPemmicanSpicy.label>пряный пеммикан</SSPemmicanSpicy.label>
+  <SSPemmicanSpicy.description>Консервированная пюре из жирной и растительной пищи в сочетании с острым соусом. Вкусы мягкие, но не оскорбительные и имеют небольшой острый привкус. Это хранится очень долго без охлаждения. Отлично подходит для путешествий.</SSPemmicanSpicy.description>
+
+
+</LanguageData>

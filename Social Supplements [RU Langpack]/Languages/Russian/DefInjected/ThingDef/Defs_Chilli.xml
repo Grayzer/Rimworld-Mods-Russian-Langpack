@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <Plant_SSChilli.label>Куст Кайенского перца</Plant_SSChilli.label>
+  <Plant_SSChilli.description>Вид растения рода Capsicum (перец). Этот конкретный сорт производит плоды со средней остротой (острая жара).</Plant_SSChilli.description>
+
+
+  <!-- Peppers -->
+
+  <SSChilliPeppers.label>Кайенский перец</SSChilliPeppers.label>
+  <SSChilliPeppers.description>Сырой кайенский перец.</SSChilliPeppers.description>
+
+
+  <!-- Hot Sauce -->
+
+  <SSHotSauce.label>Острый соус</SSHotSauce.label>
+  <SSHotSauce.description>Пряный острый соус, приготовленный из кайенского перца.</SSHotSauce.description>
+
+
+</LanguageData>

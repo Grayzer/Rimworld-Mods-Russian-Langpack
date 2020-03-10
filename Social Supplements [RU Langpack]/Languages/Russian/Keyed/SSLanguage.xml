@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--  SSOptions -->
+
+  <SSOpt.Name>Социальные дополнения</SSOpt.Name>
+
+  <SSOpt.ResPct>Относительная стоимость исследований %:</SSOpt.ResPct>
+  <SSOpt.ResTip>Обратите внимание, что эти изменения вступят в силу только после перезапуска RimWorld.</SSOpt.ResTip>
+  <SSOpt.ResWarn>(Предупреждение: увеличение % будет означать, что исследование станет неполным с использованием предыдущего значения.)</SSOpt.ResWarn>
+
+  <!--  SSFlare -->
+
+  <SSFlare.FoodSupplyLabel>Запасы еды</SSFlare.FoodSupplyLabel>
+  <SSFlare.FoodSupplyEvent>Продовольственные товары были сброшены в указанное вами место.</SSFlare.FoodSupplyEvent>
+
+</LanguageData>

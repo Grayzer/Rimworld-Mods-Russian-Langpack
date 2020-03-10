@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Zest -->
+
+  <SSBlitz_Zest_High.label>Действие Blitz-Цедра</SSBlitz_Zest_High.label>
+  <SSBlitz_Zest_High.description>Эффект Blitz-цедры</SSBlitz_Zest_High.description>
+  <SSBlitz_Zest_High.labelNoun>под Blitz ускорением</SSBlitz_Zest_High.labelNoun>
+
+
+  <!-- Ice -->
+
+  <SSBlitz_Ice_High.label>Действие Blitz-Лед</SSBlitz_Ice_High.label>
+  <SSBlitz_Ice_High.description>Эффект Blitz-льда</SSBlitz_Ice_High.description>
+  <SSBlitz_Ice_High.labelNoun>под Blitz ускорением</SSBlitz_Ice_High.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SEPD_Drill_ChunkSandstone.label>добывать песчанник</SEPD_Drill_ChunkSandstone.label>
+	<SEPD_Drill_ChunkSandstone.description>добывать песчанник.</SEPD_Drill_ChunkSandstone.label>
+	<SEPD_Drill_ChunkSandstone.jobString>Добывает песчанник.</SEPD_Drill_ChunkSandstone.jobString>
+
+	<SEPD_Drill_ChunkGranite.label>добывать гранит</SEPD_Drill_ChunkGranite.label>
+	<SEPD_Drill_ChunkGranite.description>добывать гранит.</SEPD_Drill_ChunkGranite.label>
+	<SEPD_Drill_ChunkGranite.jobString>Добывает гранит.</SEPD_Drill_ChunkGranite.jobString>
+
+	<SEPD_Drill_ChunkLimestone.label>добывать известняк</SEPD_Drill_ChunkLimestone.label>
+	<SEPD_Drill_ChunkLimestone.description>добывать известняк.</SEPD_Drill_ChunkLimestone.label>
+	<SEPD_Drill_ChunkLimestone.jobString>Добывает известняк.</SEPD_Drill_ChunkLimestone.jobString>
+
+	<SEPD_Drill_ChunkSlate.label>добывать шифер</SEPD_Drill_ChunkSlate.label>
+	<SEPD_Drill_ChunkSlate.description>добывать шифер.</SEPD_Drill_ChunkSlate.label>
+	<SEPD_Drill_ChunkSlate.jobString>Добывает шифер.</SEPD_Drill_ChunkSlate.jobString>
+
+	<SEPD_Drill_ChunkMarble.label>добывать мрамор</SEPD_Drill_ChunkMarble.label>
+	<SEPD_Drill_ChunkMarble.description>добывать мрамор.</SEPD_Drill_ChunkMarble.label>
+	<SEPD_Drill_ChunkMarble.jobString>Добывает мрамор.</SEPD_Drill_ChunkMarble.jobString>
+
+</LanguageData>

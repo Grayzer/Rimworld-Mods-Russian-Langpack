@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Injection Moulding of RimPlas MAPart -->
+
+  <RimPlasMouldRPMAPart.label>注模塑料多元分析仪组件</RimPlasMouldRPMAPart.label>
+  <RimPlasMouldRPMAPart.description>注模塑料多元分析仪组件。</RimPlasMouldRPMAPart.description>
+  <RimPlasMouldRPMAPart.jobString>正在注模塑料多元分析仪组件。</RimPlasMouldRPMAPart.jobString>
+
+
+  <!-- Combining RP MAParts and materials at machining table -->
+
+  <RCP_RPMultiAnalyzer.label>制作塑料多元分析仪</RCP_RPMultiAnalyzer.label>
+  <RCP_RPMultiAnalyzer.description>制作塑料多元分析仪。</RCP_RPMultiAnalyzer.description>
+  <RCP_RPMultiAnalyzer.jobString>正在制作塑料多元分析仪。</RCP_RPMultiAnalyzer.jobString>
+
+
+</LanguageData>

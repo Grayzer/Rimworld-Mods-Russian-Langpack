@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Laser Rifle turret -->
+
+  <MiniTurret_Laser.label>タレット (レーザー)</MiniTurret_Laser.label>
+  <MiniTurret_Laser.description>通常のタレットの上部に、タレット用レーザーガンが搭載された小型タレットです。バレルの交換は必要ありませんが、1発あたりバッテリーから5Wdの電力を消費します。</MiniTurret_Laser.description>
+  <Blueprint_MiniTurret_Laser.label>タレット (レーザー)(設計)</Blueprint_MiniTurret_Laser.label>
+  <Blueprint_Install_MiniTurret_Laser.label>タレット (レーザー)(移動先)</Blueprint_Install_MiniTurret_Laser.label>
+  <Frame_MiniTurret_Laser.label>タレット (レーザー)(施工)</Frame_MiniTurret_Laser.label>
+  <Frame_MiniTurret_Laser.description>通常のタレットの上部に、タレット用レーザーガンが搭載された小型タレットです。バレルの交換は必要ありませんが、1発あたりバッテリーから5Wdの電力を消費します。</Frame_MiniTurret_Laser.description>
+
+
+  <!-- Heavy Laser turret -->
+
+  <Turret_Laser.label>軍用タレット (レーザー)</Turret_Laser.label>
+  <Turret_Laser.description>ヘビーレーザーガンを搭載したタレットです。バレルのメンテナンスは必要ありませんが、内蔵されたバッテリーからの1発あたり30Wdを消費します。バッテリーの電力が切れると射撃不可能になるので注意が必要です。</Turret_Laser.description>
+  <Blueprint_Turret_Laser.label>軍用タレット (レーザー)(設計)</Blueprint_Turret_Laser.label>
+  <Frame_Turret_Laser.label>軍用タレット (レーザー)(施工)</Frame_Turret_Laser.label>
+  <Frame_Turret_Laser.description>ヘビーレーザーガンを搭載したタレットです。バレルのメンテナンスは必要ありませんが、内蔵されたバッテリーからの1発あたり30Wdを消費します。バッテリーの電力が切れると射撃不可能になるので注意が必要です。</Frame_Turret_Laser.description>
+
+
+  <!-- Heavy Laser Minigun turret -->
+
+  <TurretLaserHeavyMinigun.label>軍用タレット (ガトリングレーザー)</TurretLaserHeavyMinigun.label>
+  <TurretLaserHeavyMinigun.description>電気モーターで回転する3本に増強された強力なレーザーバレルを備えた大型レーザータレットです。バレルの交換は必要ありませんが、1発あたりバッテリーから30Wdの電力を消費します。</TurretLaserHeavyMinigun.description>
+  <TurretLaserHeavyMinigun_Blueprint.label>軍用タレット(ガトリングレーザー)(blueprint)</TurretLaserHeavyMinigun_Blueprint.label>
+  <TurretLaserHeavyMinigun_Frame.label>軍用タレット(ガトリングレーザー)(building)</TurretLaserHeavyMinigun_Frame.label>
+  <TurretLaserHeavyMinigun_Frame.description>電気モーターで回転する3本に増強された強力なレーザーバレルを備えた大型レーザータレットです。バレルの交換は必要ありませんが、1発あたりバッテリーから30Wdの電力を消費します。</TurretLaserHeavyMinigun_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+<name>multi-stage heater</name>
+<author>LingLuo</author>
+<packageId>LingLuo.CoolHeater</packageId>
+<supportedVersions>
+  <li>1.1</li>
+</supportedVersions>
+<description>A multi-stage heater that can increase its efficiency by adding power.
+And can switch to cooling mode when the target temperature is lower than the ambient temperature.</description>
+</ModMetaData>

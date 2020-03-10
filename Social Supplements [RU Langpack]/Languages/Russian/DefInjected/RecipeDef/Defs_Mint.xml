@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkSSMintTea.label>Сделать Мятный чай(5)</MakeBulkSSMintTea.label>
+  <MakeBulkSSMintTea.description>Заварить 5 мятного чая.</MakeBulkSSMintTea.description>
+  <MakeBulkSSMintTea.jobString>Заваривает мятный чай.</MakeBulkSSMintTea.jobString>
+
+
+  <!-- Recipes -->
+
+  <MakeSSMintChocolate.label>Сделать Мятный шоколад</MakeSSMintChocolate.label>
+  <MakeSSMintChocolate.description>Приготовить мятный шоколад.</MakeSSMintChocolate.description>
+  <MakeSSMintChocolate.jobString>Готовит мятный шоколад.</MakeSSMintChocolate.jobString>
+
+  <MakeBulkSSMintChocolate.label>Сделать Мятный шоколад(5)</MakeBulkSSMintChocolate.label>
+  <MakeBulkSSMintChocolate.description>Приготовить 5 мятного шоколада.</MakeBulkSSMintChocolate.description>
+  <MakeBulkSSMintChocolate.jobString>Готовит мятный шоколад.</MakeBulkSSMintChocolate.jobString>
+
+  <MakeSSCandyCane.label>Сделать Конфету</MakeSSCandyCane.label>
+  <MakeSSCandyCane.description>Приготовить конфету.</MakeSSCandyCane.description>
+  <MakeSSCandyCane.jobString>Готовит конфету.</MakeSSCandyCane.jobString>
+
+  <MakeBulkSSCandyCane.label>Сделать Конфеты(5)</MakeBulkSSCandyCane.label>
+  <MakeBulkSSCandyCane.description>Приготовить 5 конфет.</MakeBulkSSCandyCane.description>
+  <MakeBulkSSCandyCane.jobString>Готовит конфеты.</MakeBulkSSCandyCane.jobString>
+
+
+</LanguageData>

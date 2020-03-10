@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Asphalt Floor -->
+
+  <RimPlas_AsphaltFloor.label>沥青混凝土</RimPlas_AsphaltFloor.label>
+  <RimPlas_AsphaltFloor.description>类似水泥地板，属于耐磨类，不是很美观。同时沥青混凝土相对于水泥地板用料较少。</RimPlas_AsphaltFloor.description>
+
+
+</LanguageData>

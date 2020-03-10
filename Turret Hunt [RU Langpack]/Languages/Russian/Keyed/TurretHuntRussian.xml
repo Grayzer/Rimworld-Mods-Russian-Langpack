@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TurretHuntToggle_label>Авто охота</TurretHuntToggle_label>
+	<TurretHuntToggle_desc>При включении, турель будет автоматически стрелять по пассивным диким животным.</TurretHuntToggle_desc>
+
+	<TurretHuntDesignatedToggle_label>Только отмеченные!</TurretHuntDesignatedToggle_label>
+	<TurretHuntDesignatedToggle_desc>Когда включено, турель будет автоматически стрелять только по назначенным диким животным.</TurretHuntDesignatedToggle_desc>
+
+
+	<TurretHuntKillDownedToggle_label>Стрелять для убийства</TurretHuntKillDownedToggle_label>
+	<TurretHuntKillDownedToggle_desc>Когда включено, турель будет автоматически стрелять по сбитым пассивным диким животным.</TurretHuntKillDownedToggle_desc>
+
+</LanguageData>

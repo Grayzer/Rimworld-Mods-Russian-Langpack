@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingCHAutoCL>Авто режим</LingCHAutoCL>
+  <LingCHAutoCLD>Нагреватель автоматически отрегулирует эффективность. Из-за ограниченности датчиков скорость реакции регулировки не так высока, как ручная настройка.\nПредупреждение: не включайте автоматический режим на улице.</LingCHAutoCLD>
+  <LingCHEffectDown>Понизить энергию</LingCHEffectDown>
+  <LingCHEffectDownD>Уменьшите эффективность нагревателя, экономя энергию.</LingCHEffectDownD>
+  <LingCHEffectUp>Повысить энергию</LingCHEffectUp>
+  <LingCHEffectUpD>Повысьте эффективность обогревателя, что увеличит энергопотребление.</LingCHEffectUpD>
+  <LingCHWorkLevel>Рабочий уровень:</LingCHWorkLevel>
+
+</LanguageData>

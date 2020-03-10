@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Extended Storage</name>
+	<supportedVersions>
+        <li>1.1</li>
+    </supportedVersions>
+	<author>Tad</author>
+	<description xml:whitespace="preserve">Adds additional storage buildings that multi stack items.
+
+This works by having an input cell which the storage cell grabs from until it reaches its own internal limit. For example the pallet can hold an amount equal to 8 full stacks of steel in its storage slot and another stack can sit on the input slot, giving it total storage of 8+1 full stacks, other buildings have smaller and larger limits for certain resources, all controlled via thing categories ala stockpiles, pawns are aware of contents and will take from them as per normal.
+
+No requirements just subscribe and go.</description>
+	<url>https://github.com/Toakan/ExtendedStorage/</url>
+	<packageId>ExStorage.Common.Core</packageId>
+	 <modDependencies>
+    <li>
+        <packageId>brrainz.harmony</packageId>
+        <displayName>Harmony</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>LWM.DeepStorage</li>
+  </incompatibleWith>
+</ModMetaData>

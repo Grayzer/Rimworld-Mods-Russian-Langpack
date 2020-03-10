@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Injection Moulding of RimPlas MAPart -->
+
+  <RimPlasMouldRPMAPart.label>формовать часть РимПлас мультианализатора</RimPlasMouldRPMAPart.label>
+  <RimPlasMouldRPMAPart.description>Формовать часть РимПлас мультианализатора.</RimPlasMouldRPMAPart.description>
+  <RimPlasMouldRPMAPart.jobString>Формует Рчасть РимПлас мультианализатора.</RimPlasMouldRPMAPart.jobString>
+
+
+  <!-- Combining RP MAParts and materials at machining table -->
+
+  <RCP_RPMultiAnalyzer.label>Сделать РимПлас мультианализатор</RCP_RPMultiAnalyzer.label>
+  <RCP_RPMultiAnalyzer.description>Сделать РимПлас мультианализатор.</RCP_RPMultiAnalyzer.description>
+  <RCP_RPMultiAnalyzer.jobString>Делает РимПлас мультианализатор.</RCP_RPMultiAnalyzer.jobString>
+
+
+</LanguageData>

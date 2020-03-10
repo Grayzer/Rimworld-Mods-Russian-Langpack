@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <Plant_SSPolyflower.label>Полицвет</Plant_SSPolyflower.label>
+  <Plant_SSPolyflower.description>Генетически модифицированный цветок, который выделяет множество различных ароматов. Он был разработан таким образом, чтобы обеспечить приятную реакцию, несмотря на обонятельные предпочтения.</Plant_SSPolyflower.description>
+
+
+  <!-- Petals -->
+
+  <SSPolyPetals.label>Лепестки Полицвета</SSPolyPetals.label>
+  <SSPolyPetals.description>Собранные лепестки полицвета. Эти лепестки могут быть использованы для различных ароматических целей.</SSPolyPetals.description>
+
+
+  <!-- Polyflower Juice -->
+
+  <SSPolyflowerJuice.label>Полицветный сок</SSPolyflowerJuice.label>
+  <SSPolyflowerJuice.description>Сладкое тонизирующее средство из полицвета и глицерина. Это помогает удовлетворить потребность в отдыхе.</SSPolyflowerJuice.description>
+  <SSPolyflowerJuice.ingestible.ingestCommandString>Пить {0}</SSPolyflowerJuice.ingestible.ingestCommandString>
+  <SSPolyflowerJuice.ingestible.ingestReportString>Пьет {0}.</SSPolyflowerJuice.ingestible.ingestReportString>
+
+
+</LanguageData>

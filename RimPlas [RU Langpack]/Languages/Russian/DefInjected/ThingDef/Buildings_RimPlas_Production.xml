@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Injection Mould Machine -->
+
+  <RimPlas_InjMldMachine.label>РимПлас Литье под давлением</RimPlas_InjMldMachine.label>
+  <RimPlas_InjMldMachine.description>Эффективно формует РимПлас мебель и предметы из ресурсов.</RimPlas_InjMldMachine.description>
+
+
+  <!-- Advanced Injection Moulding Machine -->
+
+  <RimPlas_AdvInjMld.label>РимПлас Продвинутое Литье под давлением</RimPlas_AdvInjMld.label>
+  <RimPlas_AdvInjMld.description>Пресс-формы сложных материалов.</RimPlas_AdvInjMld.description>
+
+
+  <!-- Mech Breaker -->
+
+  <RimPlas_MechBreaker.label>Мех Дробилкаr</RimPlas_MechBreaker.label>
+  <RimPlas_MechBreaker.description>Разбивает механоиды на части и извлекает механиты.</RimPlas_MechBreaker.description>
+
+
+</LanguageData>

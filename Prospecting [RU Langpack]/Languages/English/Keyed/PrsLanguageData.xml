@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Settings -->
+	
+	<Prospecting.Name>Prospecting</Prospecting.Name>
+	
+	<Prospecting.AllowManualSound>Allow sound on manual drills:</Prospecting.AllowManualSound>
+	
+	<Prospecting.AllowProspect>Allow mining indicator bits:</Prospecting.AllowProspect>
+	<Prospecting.BaseChance>Base chance to recieve mining indicator "bits" [%]:</Prospecting.BaseChance>
+	
+	<Prospecting.PrsLumpSizeMin>Relative mining lump size minimum [%]:</Prospecting.PrsLumpSizeMin>
+	<Prospecting.PrsLumpSizeMax>Relative mining lump size maximum [%]:</Prospecting.PrsLumpSizeMax>
+	<Prospecting.PrsCommonality>Relative commonality [%]:</Prospecting.PrsCommonality>
+	<Prospecting.PrsMineYield>Relative mining yield [%]:</Prospecting.PrsMineYield>
+	
+	<Prospecting.PrsDeepLumpSizeMin>Relative deep mining lump size minimum [%]:</Prospecting.PrsDeepLumpSizeMin>
+	<Prospecting.PrsDeepLumpSizeMax>Relative deep mining lump size maximum [%]:</Prospecting.PrsDeepLumpSizeMax>
+	<Prospecting.PrsDeepCommonality>Relative deep commonality [%]:</Prospecting.PrsDeepCommonality>
+	<Prospecting.PrsDeepMineYield>Relative deep mining yield [%]:</Prospecting.PrsDeepMineYield>
+	
+	<Prospecting.LoadTip>(Relative settings will only be applicable upon new map generation and after a game restart.)</Prospecting.LoadTip>
+	
+	<Prospecting.ResetDefaults>Set values to defaults:</Prospecting.ResetDefaults>
+	<Prospecting.Reset>Reset</Prospecting.Reset>
+
+	<!-- Content -->
+
+	<Prospecting.FeedbackDeepNoChg>Prospecting checked {0} deep mineable resources, with no changes.</Prospecting.FeedbackDeepNoChg>
+	<Prospecting.FeedbackDeep>Prospecting checked {0} deep mineable resources, with {1} change(s).</Prospecting.FeedbackDeep>
+	
+	<Prospecting.FeedbackNoChg>Prospecting checked {0} mineable objects, with no changes.</Prospecting.FeedbackNoChg>
+	<Prospecting.Feedback>Prospecting checked {0} mineable objects, with {1} change(s).</Prospecting.Feedback>
+	
+	<!--  Wide Boy -->
+	
+	<Prospecting.SpanLabel>Span</Prospecting.SpanLabel>
+	<Prospecting.SpanDesc>Set the span width for the drill.</Prospecting.SpanDesc>
+	
+	<Prospecting.SpanDoNothing>Do Nothing</Prospecting.SpanDoNothing>
+	<Prospecting.SpanOption>Set span width to {0}</Prospecting.SpanOption>
+	
+	<Prospecting.RockToggle>Allow Stone Chunks</Prospecting.RockToggle>
+	<Prospecting.RockDesc>Wether drill allows mining of chunks</Prospecting.RockDesc>
+	
+	<Prospecting.BoostToggle>Boost</Prospecting.BoostToggle>
+	<Prospecting.BoostDesc>Overcharge Wide Boy</Prospecting.BoostDesc>
+	
+	<Prospecting.WideBoyZeroLeft>No resources left for "Wide Boy" to drill.</Prospecting.WideBoyZeroLeft>
+	
+	<!--  Work Prospecting -->
+	
+	<Prospecting.DesignatorProspect>Prospect</Prospecting.DesignatorProspect>
+	<Prospecting.DesignatorProspectDesc>Mark mineables for prospecting work.</Prospecting.DesignatorProspectDesc>
+	
+	<Prospecting.TooCloseDesig>Too close to an existing prospecting point, need to be further than {0} cell(s) away.</Prospecting.TooCloseDesig>
+	
+	<Prospecting.NeedProspector>Need Prospector</Prospecting.NeedProspector>
+	<Prospecting.NeedProspectorDesc>You have designated some rocks to be prospected, but no colonist has the Prospect work type.\n\nAssign a colonist the Prospect work type.</Prospecting.NeedProspectorDesc>
+	
+	<Prospecting.OreFound>Ore has been found by {0}</Prospecting.OreFound>
+	<Prospecting.AProspector>a prospector</Prospecting.AProspector>
+	<Prospecting.ResourceFound>, the resource is {0}</Prospecting.ResourceFound>
+	<Prospecting.Unknown>unknown</Prospecting.Unknown>
+	
+	<Prospecting.DeepResources>Resources reachable: {0} ({1})</Prospecting.DeepResources>
+	<Prospecting.InstallDrill>Install the drill to prospect for resources</Prospecting.InstallDrill>
+	<Prospecting.DrillNotProspected>Not prospected for resources.</Prospecting.DrillNotProspected>
+	<Prospecting.InsufficientWind>Not enough wind to operate the drill</Prospecting.InsufficientWind>
+	<Prospecting.RoofPerform>Roof open: {0}</Prospecting.RoofPerform>
+	<Prospecting.WindPerform>Effective wind: {0}</Prospecting.WindPerform>
+	<Prospecting.ManualDrillExhausted>Manual drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}.</Prospecting.ManualDrillExhausted>
+  	<Prospecting.ManualDrillExhaustedNoFallback>Manual drill resources exhausted.</Prospecting.ManualDrillExhaustedNoFallback>
+	
+	<Prospecting.DrillProspect>The manual drill operated by {0} has found ore</Prospecting.DrillProspect>
+	<Prospecting.ProgressProspect>Progress prospecting</Prospecting.ProgressProspect>
+	
+	<!--  Belt -->
+	
+	<Prospecting.BeltUse>Use Prospecting belt</Prospecting.BeltUse>
+	<Prospecting.BeltDesc>Click to open menu for commands</Prospecting.BeltDesc>
+	<Prospecting.BeltDoNothing>Do Nothing</Prospecting.BeltDoNothing>
+	<Prospecting.BeltUseBelt>Search for ores with {0}</Prospecting.BeltUseBelt>
+	<Prospecting.BeltReasonPrefix>Unable to use due to {0}</Prospecting.BeltReasonPrefix>
+	<Prospecting.NotHumanLike>{0} isn't human-like</Prospecting.NotHumanLike>
+	<Prospecting.LackSkill>{0} lacks sufficient mining skill</Prospecting.LackSkill>
+	<Prospecting.BeltFoundLabel>Prosepecting Success</Prospecting.BeltFoundLabel>
+	<Prospecting.BeltFoundRes>{0} found deep ore nearby and suspects it is {1}</Prospecting.BeltFoundRes>
+	<Prospecting.BeltNotFoundRes>{0} hasn't found any ores.</Prospecting.BeltNotFoundRes>
+	<Prospecting.MarkerDisplay>Resources: {0} ({1})\nHours till expires: {2}</Prospecting.MarkerDisplay>
+
+</LanguageData>

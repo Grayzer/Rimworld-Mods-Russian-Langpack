@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hot Sauce -->
+
+  <MakeSSHotSauce.label>制作 hot sauce</MakeSSHotSauce.label>
+  <MakeSSHotSauce.description>制作 5 hot sauce.</MakeSSHotSauce.description>
+  <MakeSSHotSauce.jobString>正在制作hot sauce.</MakeSSHotSauce.jobString>
+
+  <MakeBulkSSHotSauce.label>制作 hot sauce in bulk</MakeBulkSSHotSauce.label>
+  <MakeBulkSSHotSauce.description>制作 20 hot sauce.</MakeBulkSSHotSauce.description>
+  <MakeBulkSSHotSauce.jobString>正在制作hot sauce.</MakeBulkSSHotSauce.jobString>
+
+
+</LanguageData>

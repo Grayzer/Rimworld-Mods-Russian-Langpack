@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Prospecting.label>試掘</Prospecting.label>
+  <Prospecting.description>地表を試掘して鉱石を探します。</Prospecting.description>
+  <Prospecting.labelShort>試掘</Prospecting.labelShort>
+  <Prospecting.pawnLabel>試掘者</Prospecting.pawnLabel>
+  <Prospecting.gerundLabel>試掘</Prospecting.gerundLabel>
+  <Prospecting.verb>試掘</Prospecting.verb>
+
+</LanguageData>

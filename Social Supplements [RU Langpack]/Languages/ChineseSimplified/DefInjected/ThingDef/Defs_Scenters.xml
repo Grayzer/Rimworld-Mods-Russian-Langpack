@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neutral -->
+
+  <SSScenterNeutral.label>Scenter (Universal)</SSScenterNeutral.label>
+  <SSScenterNeutral.description>An appealing smelling scent suitable for all.</SSScenterNeutral.description>
+  <SSScenterNeutral.ingestible.ingestCommandString>Apply {0}</SSScenterNeutral.ingestible.ingestCommandString>
+  <SSScenterNeutral.ingestible.ingestReportString>Applying {0}.</SSScenterNeutral.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mouthwash -->
+
+  <SSMouthWash.label>Полоскание для рта</SSMouthWash.label>
+  <SSMouthWash.description>Антибактериальная жидкость на основе ментола. Может использоваться для здоровья полости рта и свежести дыхание. Эффекты длятся около половины дня.</SSMouthWash.description>
+  <SSMouthWash.ingestible.ingestCommandString>Пить {0}</SSMouthWash.ingestible.ingestCommandString>
+  <SSMouthWash.ingestible.ingestReportString>Пьет {0}.</SSMouthWash.ingestible.ingestReportString>
+
+
+</LanguageData>

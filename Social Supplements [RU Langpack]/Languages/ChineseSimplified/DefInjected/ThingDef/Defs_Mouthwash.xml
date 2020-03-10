@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 漱口水 -->
+
+  <SSMouthWash.label>漱口水</SSMouthWash.label>
+  <SSMouthWash.description>一种以薄荷醇为主要成分的杀菌剂. 能够清新口气，呵护口腔健康. 效果持续约半天.</SSMouthWash.description>
+  <SSMouthWash.ingestible.ingestCommandString>用{0}漱口</SSMouthWash.ingestible.ingestCommandString>
+  <SSMouthWash.ingestible.ingestReportString>正在用{0}漱口.</SSMouthWash.ingestible.ingestReportString>
+
+
+</LanguageData>

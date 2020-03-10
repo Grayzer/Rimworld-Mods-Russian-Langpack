@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimlaserBeamGraphic.label>лазерный луч</RimlaserBeamGraphic.label>
+
+
+  <!-- LASER RIFLE -->
+
+  <Bullet_LaserRifle.label>луч лазерной винтовки</Bullet_LaserRifle.label>
+
+  <Rimlaser_LaserRifle.label>лазерная винтовка</Rimlaser_LaserRifle.label>
+  <Rimlaser_LaserRifle.description>Футуристический дизайн лазерной винтовки. Наносит примерно столько же урона, сколько лазерный пистолет на один луч, но стреляет вдвое быстрее и рассчитана на большую дальность.</Rimlaser_LaserRifle.description>
+  <Rimlaser_LaserRifle.tools.0.label>магазин</Rimlaser_LaserRifle.tools.0.label>
+  <Rimlaser_LaserRifle.tools.1.label>ствол</Rimlaser_LaserRifle.tools.1.label>
+
+
+  <!-- MOUNTED LASER RIFLE -->
+
+  <Rimlaser_LaserRifleMounted.label>ствол лазерной турели</Rimlaser_LaserRifleMounted.label>
+  <Rimlaser_LaserRifleMounted.description>Ствол сорван с лазерной башни. По своей боевой способности похож на лазерную винтовку, но его трудно носить с собой.</Rimlaser_LaserRifleMounted.description>
+
+
+  <!-- LASER PISTOL -->
+
+  <Bullet_LaserPistol.label>луч лазерного пистолета</Bullet_LaserPistol.label>
+
+  <Rimlaser_LaserPistol.label>лазерный пистолет</Rimlaser_LaserPistol.label>
+  <Rimlaser_LaserPistol.description>Футуристический дизайн лазерного пистолета. Довольно мощный, имеет приличный диапазон для пистолета и быстр на перезарядку.</Rimlaser_LaserPistol.description>
+  <Rimlaser_LaserPistol.tools.0.label>рукоять</Rimlaser_LaserPistol.tools.0.label>
+  <Rimlaser_LaserPistol.tools.1.label>ствол</Rimlaser_LaserPistol.tools.1.label>
+
+
+  <!-- HEAVY LASER -->
+
+  <Bullet_LaserHeavy.label>луч тяжелого лазера</Bullet_LaserHeavy.label>
+
+  <Rimlaser_LaserHeavy.label>тяжелый лазер</Rimlaser_LaserHeavy.label>
+  <Rimlaser_LaserHeavy.description>Тяжелая лазерная пушка. Наносит гигантские суммы урона, но ее изготовление очень дорого и ее трудно эксплуатировать на близких расстояниях.</Rimlaser_LaserHeavy.description>
+  <Rimlaser_LaserHeavy.tools.0.label>ствол</Rimlaser_LaserHeavy.tools.0.label>
+
+  <Rimlaser_LaserHeavyMounted.label>установленный тяжелый лазер</Rimlaser_LaserHeavyMounted.label>
+  <Rimlaser_LaserHeavyMounted.description>Тяжелая лазерная пушка. Наносит гигантские суммы урона, но ее изготовление очень дорого и ее трудно эксплуатировать на близких расстояниях.</Rimlaser_LaserHeavyMounted.description>
+  <Rimlaser_LaserHeavyMounted.tools.0.label>ствол</Rimlaser_LaserHeavyMounted.tools.0.label>
+
+
+  <!-- INCENDIARY LASER -->
+
+  <Bullet_LaserIncendiary.label>луч зажигательного лазера</Bullet_LaserIncendiary.label>
+
+  <Rimlaser_LaserIncendiary.label>зажигательный лазер</Rimlaser_LaserIncendiary.label>
+  <Rimlaser_LaserIncendiary.description>Умный дизайн, который, несмотря на то, что не наносит большого ущерба своим размерам, имеет тенденцию зажигать свою цель.</Rimlaser_LaserIncendiary.description>
+  <Rimlaser_LaserIncendiary.tools.0.label>ствол</Rimlaser_LaserIncendiary.tools.0.label>
+
+
+  <!-- SNIPER LASER -->
+
+  <Bullet_LaserSniper.label>луч снайперского лазера</Bullet_LaserSniper.label>
+
+  <Rimlaser_LaserSniper.label>лазерная снайперка</Rimlaser_LaserSniper.label>
+  <Rimlaser_LaserSniper.description>Лазерная винтовка дальнего действия. Наносит хороший урон и на большом расстоянии, но громоздкая и практически невозможна для работы на близком расстоянии.</Rimlaser_LaserSniper.description>
+  <Rimlaser_LaserSniper.tools.0.label>ствол</Rimlaser_LaserSniper.tools.0.label>
+
+
+  <!-- MINIGUN -->
+
+  <Bullet_LaserMinigun.label>луч лазерного минигана</Bullet_LaserMinigun.label>
+
+  <Rimlaser_LaserMinigun.label>лазерный миниган</Rimlaser_LaserMinigun.label>
+  <Rimlaser_LaserMinigun.description>Лазерная пушка с тремя стволами, вращаемыми электродвигателем. Из-за хрупкости вращающихся частей для раскрутки требуется много времени, но как только он начинает стрелять, он стреляет очень быстро и с несколько большей точностью, чем его пороховая вариация.</Rimlaser_LaserMinigun.description>
+  <Rimlaser_LaserMinigun.tools.0.label>ствол</Rimlaser_LaserMinigun.tools.0.label>
+
+
+  <!-- TURRET MINIGUN -->
+
+  <LaserHeavyMinigunMounted.label>тяжелый лазерный миниган</LaserHeavyMinigunMounted.label>
+  <LaserHeavyMinigunMounted.description>Установлен тяжелый лазерный миниган.</LaserHeavyMinigunMounted.description>
+
+
+  <!-- DEATH RAY -->
+
+  <Bullet_DeathRay.label>луч смерти</Bullet_DeathRay.label>
+
+  <Rimlaser_DeathRay.label>Гиперболоид Гарина</Rimlaser_DeathRay.label>
+  <Rimlaser_DeathRay.description>Чудовищное устройство, которое нарушает первый, второй и третий законы термодинамики, чтобы принести сосредоточенный луч смерти любому, кто осмелится встать на пути своего владельца.</Rimlaser_DeathRay.description>
+  <Rimlaser_DeathRay.tools.0.label>ствол</Rimlaser_DeathRay.tools.0.label>
+
+
+  <!-- TESLA GUN -->
+
+  <Bullet_Tesla.label>разряд молнии</Bullet_Tesla.label>
+
+  <Rimlaser_TeslaGun.label>Тесла-пушка</Rimlaser_TeslaGun.label>
+  <Rimlaser_TeslaGun.description>Молниевая пушка. Может атаковать только на очень короткой дистанции, но обладает хорошей останавливающей силой.</Rimlaser_TeslaGun.description>
+  <Rimlaser_TeslaGun.tools.0.label>ствол</Rimlaser_TeslaGun.tools.0.label>
+
+
+</LanguageData>

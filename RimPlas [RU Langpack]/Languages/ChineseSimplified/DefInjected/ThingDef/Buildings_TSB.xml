@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Single -->
+
+  <BedRoll_TSB.label>导热泡沫橡胶睡袋</BedRoll_TSB.label>
+  <BedRoll_TSB.description>利用导热泡沫橡胶特性供热的复合型睡袋。可以卷起便于运输，但确实不如传统床那么舒服。可在远征中使用以提供更好的睡眠质量。</BedRoll_TSB.description>
+  <BedRoll_TSB_Blueprint.label>导热泡沫橡胶睡袋(蓝图)</BedRoll_TSB_Blueprint.label>
+  <BedRoll_TSB_Blueprint_Install.label>导热泡沫橡胶睡袋(蓝图)</BedRoll_TSB_Blueprint_Install.label>
+  <BedRoll_TSB_Frame.label>导热泡沫橡胶睡袋(建造中)</BedRoll_TSB_Frame.label>
+  <BedRoll_TSB_Frame.description>利用导热泡沫橡胶特性供热的复合型睡袋。可以卷起便于运输，但确实不如传统床那么舒服。可在远征中使用以提供更好的睡眠质量。</BedRoll_TSB_Frame.description>
+
+
+  <!-- Double -->
+
+  <BedrollDouble_TSB.label>导热泡沫橡胶双人睡袋</BedrollDouble_TSB.label>
+  <BedrollDouble_TSB.description>利用导热泡沫橡胶特性供热的复合型双人睡袋。可以卷起便于运输，但确实不如传统床那么舒服。可在远征中使用以提供更好的睡眠质量。</BedrollDouble_TSB.description>
+  <BedrollDouble_TSB_Blueprint.label>导热泡沫橡胶双人睡袋(蓝图)</BedrollDouble_TSB_Blueprint.label>
+  <BedrollDouble_TSB_Blueprint_Install.label>导热泡沫橡胶双人睡袋(蓝图)</BedrollDouble_TSB_Blueprint_Install.label>
+  <BedrollDouble_TSB_Frame.label>导热泡沫橡胶双人睡袋(建造中)</BedrollDouble_TSB_Frame.label>
+  <BedrollDouble_TSB_Frame.description>利用导热泡沫橡胶特性供热的复合型双人睡袋。可以卷起便于运输，但确实不如传统床那么舒服。可在远征中使用以提供更好的睡眠质量。</BedrollDouble_TSB_Frame.description>
+
+
+</LanguageData>

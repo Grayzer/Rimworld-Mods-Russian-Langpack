@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimPlas Barrier -->
+
+  <RimPlas_Barrier.label>РимПлас Барьер</RimPlas_Barrier.label>
+  <RimPlas_Barrier.description>Барьер РимПлас, обеспечивающий некоторое укрытие и защиту. Легко и быстро построить, но слегка огнеопасно. Легче, но менее прочный, чем мешки с песком.</RimPlas_Barrier.description>
+  <RimPlas_Barrier_Blueprint.label>РимПлас Барьер (чертеж)</RimPlas_Barrier_Blueprint.label>
+  <RimPlas_Barrier_Blueprint_Install.label>РимПлас Барьер (чертеж)</RimPlas_Barrier_Blueprint_Install.label>
+  <RimPlas_Barrier_Frame.label>РимПлас Барьер (стройка)</RimPlas_Barrier_Frame.label>
+  <RimPlas_Barrier_Frame.description>Барьер РимПлас, обеспечивающий некоторое укрытие и защиту. Легко и быстро построить, но слегка огнеопасно. Легче, но менее прочный, чем мешки с песком.</RimPlas_Barrier_Frame.description>
+
+
+  <!-- Animal beds -->
+
+  <RimPlas_AnimalSleepingBox.label>РимПлас Коробка для животных</RimPlas_AnimalSleepingBox.label>
+  <RimPlas_AnimalSleepingBox.description>Маленькая коробка для животных, в которых можно спать. Подходит для небольших животных, таких как цыплята, кошки или маленькие собаки.</RimPlas_AnimalSleepingBox.description>
+
+
+  <!-- Basic domestic furniture -->
+
+  <RimPlas_Stool.label>РимПлас Стул</RimPlas_Stool.label>
+  <RimPlas_Stool.description>Простая платформа для сидения. Не очень удобно, но гораздо лучше, чем ничего. Может использоваться у столов, на рабочих местах и в других нуждах.</RimPlas_Stool.description>
+
+  <RimPlas_DiningChair.label>РимПлас Обеденный стул</RimPlas_DiningChair.label>
+  <RimPlas_DiningChair.description>Удобное и привлекательное кресло. Может использоваться у столов, на рабочих местах и в других нуждах.</RimPlas_DiningChair.description>
+
+
+  <!-- Drug Cabinet -->
+
+  <RimPlas_DrugCabinet.label>РимПлас Лекарственный шкафчик</RimPlas_DrugCabinet.label>
+  <RimPlas_DrugCabinet.description>Небольшой шкаф для хранения лекарств. Включает в себя небольшое повышение чистоты и увеличение производства на стендах химической лаборатории.</RimPlas_DrugCabinet.description>
+
+
+  <!-- Table base -->
+
+  <RimPlas_EndTable.label>РимПлас Тумбочка</RimPlas_EndTable.label>
+  <RimPlas_EndTable.description>Маленькая тумбочка, которая делает соседние кровати немного более удобными. Должна быть размещена в непосредственной близости от головы кровати. Размещение нескольких тумбочек рядом с одной кроватью не имеет никакого эффекта.</RimPlas_EndTable.description>
+
+  <RimPlas_Table_Tiny.label>РимПлас Стол (1x1)</RimPlas_Table_Tiny.label>
+  <RimPlas_Table_Tiny.description>Люди едят со столов, когда перед ними стоят стулья.</RimPlas_Table_Tiny.description>
+
+  <RimPlas_Table_Small.label>РимПлас Стол (1x2)</RimPlas_Table_Small.label>
+  <RimPlas_Table_Small.description>Люди едят со столов, когда перед ними стоят стулья.</RimPlas_Table_Small.description>
+
+
+  <!-- Plant Pot -->
+
+  <RimPlas_PlantPot.label>РимПлас Горшок для растений</RimPlas_PlantPot.label>
+  <RimPlas_PlantPot.description>Посадите сюда декоративные цветы, чтобы улучшить настроение людей поблизости.</RimPlas_PlantPot.description>
+
+
+  <!-- Storage -->
+
+  <RimPlas_Shelf.label>РимПлас Полка</RimPlas_Shelf.label>
+  <RimPlas_Shelf.description>Полка для хранения разных предметов. Элементы, хранящиеся в ней, не будут портиться, даже если снаружи.</RimPlas_Shelf.description>
+
+  <RimPlas_Rack.label>РимПлас Малая полка</RimPlas_Rack.label>
+  <RimPlas_Rack.description>Элементы, хранящиеся в ней, не будут портиться, даже если снаружи.</RimPlas_Rack.description>
+
+
+  <!-- Dressers -->
+
+  <RimPlas_Dresser.label>РимПлас Шкаф</RimPlas_Dresser.label>
+  <RimPlas_Dresser.description>Комод. Дает небольшой бонус комфорта всем соседним кроватям. Размещение более одного комода рядом с одной кроватью не имеет никакого эффекта.</RimPlas_Dresser.description>
+
+
+  <!-- Joy -->
+
+  <RimPlas_GameOfUr.label>РимПлас Игра Ур</RimPlas_GameOfUr.label>
+  <RimPlas_GameOfUr.description>В этой увлекательной, но яростной настольной игре, датируемой 2500 годом до н.э., могут играть один или два человека. Тренирует интеллектуальные навыки.</RimPlas_GameOfUr.description>
+
+  <RimPlas_ChessTable.label>РимПлас Шахматы</RimPlas_ChessTable.label>
+  <RimPlas_ChessTable.description>Древняя игра королей. Весело на несколько часов тут и там, даже играя в одиночку. Тренирует интеллектуальные навыки.</RimPlas_ChessTable.description>
+
+
+</LanguageData>

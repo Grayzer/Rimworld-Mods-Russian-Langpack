@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimPlas_CarboSynth.label>Углеродная синтетика</RimPlas_CarboSynth.label>
+  <RimPlas_CarboSynth.description>Предоставляет возможность использовать новые материалы.</RimPlas_CarboSynth.description>
+
+  <RimPlas_Graphene.label>Графен</RimPlas_Graphene.label>
+  <RimPlas_Graphene.description>Предоставляет возможность использовать новые материалы.</RimPlas_Graphene.description>
+
+  <RimPlas_CarbonComposites.label>Углеродные Композитные Материалы</RimPlas_CarbonComposites.label>
+  <RimPlas_CarbonComposites.description>Предоставляет возможность использовать новые материалы.</RimPlas_CarbonComposites.description>
+
+  <RPSecurityDoors.label>Графеновые Двери Безопасности</RPSecurityDoors.label>
+  <RPSecurityDoors.description>Предоставляет возможность строить интеллектуальные защитные двери.</RPSecurityDoors.description>
+
+  <RimPlas_AdvIntelMats.label>Передовые Интеллектуальные Материалы</RimPlas_AdvIntelMats.label>
+  <RimPlas_AdvIntelMats.description>Предоставляет возможность изготавливать сложные материалы с использованием современных технологий литья под давлением.</RimPlas_AdvIntelMats.description>
+
+
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Semi synthetics -->
+
+  <RimPlas_SemiSynth.label>Полусинтетика</RimPlas_SemiSynth.label>
+  <RimPlas_SemiSynth.description>Предоставляет возможность использовать новые материалы.</RimPlas_SemiSynth.description>
+
+
+  <!-- Synthetics -->
+
+  <RimPlas_Synth.label>Синтетические Материалы</RimPlas_Synth.label>
+  <RimPlas_Synth.description>Предоставляет возможность производить синтетический текстиль и ведет к дальнейшим синтетическим исследованиям.</RimPlas_Synth.description>
+
+  <RimPlas_Synth_Plasteel.label>Синтез Пластали</RimPlas_Synth_Plasteel.label>
+  <RimPlas_Synth_Plasteel.description>Дает возможность делать Пласталь.</RimPlas_Synth_Plasteel.description>
+
+  <RimThermoPlas.label>РимТермоПлас</RimThermoPlas.label>
+  <RimThermoPlas.description>Предоставляет возможность использовать новые материалы.</RimThermoPlas.description>
+
+  <Rimoprene.label>Римопрен</Rimoprene.label>
+  <Rimoprene.description>Предоставляет возможность использовать новую синтетический кожеподобный текстиль.</Rimoprene.description>
+
+
+  <!-- Rimica Research -->
+
+  <Rimica.label>Римика Композит</Rimica.label>
+  <Rimica.description>Дает возможность сделать Римику.</Rimica.description>
+
+  <FortRimica.label>Фортримика Композит</FortRimica.label>
+  <FortRimica.description>Дает возможность сделать укрепленную Римику.</FortRimica.description>
+
+
+</LanguageData>

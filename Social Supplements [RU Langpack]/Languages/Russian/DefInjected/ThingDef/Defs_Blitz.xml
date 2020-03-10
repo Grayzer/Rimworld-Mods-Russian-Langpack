@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Zest -->
+
+  <SSBlitz_Zest.label>Blitz-Цедра</SSBlitz_Zest.label>
+  <SSBlitz_Zest.description>Наполненный психоидом и сильно подслащенный напиток. Этот напиток имеет фруктовый вкус. Активен около половины дня.</SSBlitz_Zest.description>
+  <SSBlitz_Zest.ingestible.ingestCommandString>Пить {0}</SSBlitz_Zest.ingestible.ingestCommandString>
+  <SSBlitz_Zest.ingestible.ingestReportString>Пьет {0}.</SSBlitz_Zest.ingestible.ingestReportString>
+
+
+  <!-- Ice -->
+
+  <SSBlitz_Ice.label>Blitz-Лед</SSBlitz_Ice.label>
+  <SSBlitz_Ice.description>Наполненный психоидом и сильно подслащенный напиток. Этот напиток обладает мятным вкусом. Активен около половины дня.</SSBlitz_Ice.description>
+  <SSBlitz_Ice.ingestible.ingestCommandString>Пить {0}</SSBlitz_Ice.ingestible.ingestCommandString>
+  <SSBlitz_Ice.ingestible.ingestReportString>Пьет {0}.</SSBlitz_Ice.ingestible.ingestReportString>
+
+
+</LanguageData>

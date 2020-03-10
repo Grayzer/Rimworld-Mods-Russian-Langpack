@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Laser Rifle turret -->
+
+  <MiniTurret_Laser.label>лазерная мини-турель</MiniTurret_Laser.label>
+  <MiniTurret_Laser.description>Турель с эквивалентом лазерной винтовки установленной сверху. Не требует обслуживания ствола, но потребляет 5Wd за выстрел от батарей.</MiniTurret_Laser.description>
+  <MiniTurret_Laser_Blueprint.label>лазерная мини-турель (чертеж)</MiniTurret_Laser_Blueprint.label>
+  <MiniTurret_Laser_Blueprint_Install.label>лазерная мини-турель (чертеж)</MiniTurret_Laser_Blueprint_Install.label>
+  <MiniTurret_Laser_Frame.label>лазерная мини-турель (стройка)</MiniTurret_Laser_Frame.label>
+  <MiniTurret_Laser_Frame.description>Турель с эквивалентом лазерной винтовки установленной сверху. Не требует обслуживания ствола, но потребляет 5Wd за выстрел от батарей.</MiniTurret_Laser_Frame.description>
+
+
+  <!-- Heavy Laser turret -->
+
+  <Turret_Laser.label>тяжелая лазерная турель</Turret_Laser.label>
+  <Turret_Laser.description>Тяжелая лазерная турель. Не требует обслуживания ствола, но потребляет 30Wd за выстрел от батарей.</Turret_Laser.description>
+  <Turret_Laser_Blueprint.label>тяжелая лазерная турель (чертеж)</Turret_Laser_Blueprint.label>
+  <Turret_Laser_Frame.label>тяжелая лазерная турель (стройка)</Turret_Laser_Frame.label>
+  <Turret_Laser_Frame.description>Тяжелая лазерная турель. Не требует обслуживания ствола, но потребляет 30Wd за выстрел от батарей.</Turret_Laser_Frame.description>
+
+
+  <!-- Heavy Laser Minigun turret -->
+
+  <TurretLaserHeavyMinigun.label>массивная лазерная турель</TurretLaserHeavyMinigun.label>
+  <TurretLaserHeavyMinigun.description>Массивная лазерная турель с тремя удлиненными тяжелыми лазерными бочками, вращаемыми электродвигателем. Не требует обслуживания ствола, но потребляет 30Wd за выстрел от батарей.</TurretLaserHeavyMinigun.description>
+  <TurretLaserHeavyMinigun_Blueprint.label>массивная лазерная турель (чертеж)</TurretLaserHeavyMinigun_Blueprint.label>
+  <TurretLaserHeavyMinigun_Frame.label>массивная лазерная турель (стройка)</TurretLaserHeavyMinigun_Frame.label>
+  <TurretLaserHeavyMinigun_Frame.description>Массивная лазерная турель с тремя удлиненными тяжелыми лазерными бочками, вращаемыми электродвигателем. Не требует обслуживания ствола, но потребляет 30Wd за выстрел от батарей.</TurretLaserHeavyMinigun_Frame.description>
+
+
+</LanguageData>

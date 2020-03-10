@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mint Tea -->
+
+  <SSMintTea_High.label>Освеженный мятным чаем</SSMintTea_High.label>
+  <SSMintTea_High.description>Эффект мятного чая</SSMintTea_High.description>
+  <SSMintTea_High.labelNoun>эффект мятного чая</SSMintTea_High.labelNoun>
+
+
+  <!-- Candy Cane -->
+
+  <SSSugarRush.label>Сахарная лихорадка</SSSugarRush.label>
+  <SSSugarRush.description>Эффект сахарной лихорадки</SSSugarRush.description>
+
+
+</LanguageData>

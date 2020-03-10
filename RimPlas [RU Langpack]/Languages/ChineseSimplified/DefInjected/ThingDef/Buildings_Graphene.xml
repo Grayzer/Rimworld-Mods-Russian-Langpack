@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Graphene conduit -->
+
+  <RPGraphenePowerConduit.label>石墨烯电缆</RPGraphenePowerConduit.label>
+  <RPGraphenePowerConduit.description>一捆用于传输电力的石墨烯电缆。可以安装于墙体，打磨的岩壁和其他建筑之下，但不能埋进山体中。石墨烯电缆远比常规电缆更坚固。</RPGraphenePowerConduit.description>
+  <RPGraphenePowerConduit_Blueprint.label>石墨烯电缆(蓝图)</RPGraphenePowerConduit_Blueprint.label>
+  <RPGraphenePowerConduit_Frame.label>石墨烯电缆(建造中)</RPGraphenePowerConduit_Frame.label>
+  <RPGraphenePowerConduit_Frame.description>一捆用于传输电力的石墨烯电缆。可以安装于墙体，打磨的岩壁和其他建筑之下，但不能埋进山体中。石墨烯电缆远比常规电缆更坚固。</RPGraphenePowerConduit_Frame.description>
+
+
+  <!-- Underground Variant -->
+
+  <RPUndGrapheneConduit.label>地下石墨烯电缆</RPUndGrapheneConduit.label>
+  <RPUndGrapheneConduit.description>一捆用于传输电力的石墨烯电缆。可以安装于墙体，打磨的岩壁和其他建筑之下，但不能埋进山体中。石墨烯电缆远比常规电缆更坚固，另外该电缆埋于地下。</RPUndGrapheneConduit.description>
+  <RPUndGrapheneConduit_Blueprint.label>地下石墨烯电缆(蓝图)</RPUndGrapheneConduit_Blueprint.label>
+  <RPUndGrapheneConduit_Frame.label>地下石墨烯电缆(建造中)</RPUndGrapheneConduit_Frame.label>
+  <RPUndGrapheneConduit_Frame.description>一捆用于传输电力的石墨烯电缆。可以安装于墙体，打磨的岩壁和其他建筑之下，但不能埋进山体中。石墨烯电缆远比常规电缆更坚固，另外该电缆埋于地下。</RPUndGrapheneConduit_Frame.description>
+
+  <RPGraphenePowerConduit_Buried.label>地下石墨烯电缆</RPGraphenePowerConduit_Buried.label>
+  <RPGraphenePowerConduit_Buried.description>一捆用于传输电力的石墨烯电缆。可以安装于墙体，打磨的岩壁和其他建筑之下，但不能埋进山体中。石墨烯电缆远比常规电缆更坚固，另外该电缆埋于地下。</RPGraphenePowerConduit_Buried.description>
+
+
+  <!-- Graphene Battery -->
+
+  <RPGrapheneBattery.label>石墨烯蓄电池</RPGrapheneBattery.label>
+  <RPGrapheneBattery.description>储存多余的电力并在电力供给不足时释放电力。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。石墨烯蓄电池储电效率更高，兼顾大容量和高坚固性。</RPGrapheneBattery.description>
+  <RPGrapheneBattery_Blueprint.label>石墨烯蓄电池(蓝图)</RPGrapheneBattery_Blueprint.label>
+  <RPGrapheneBattery_Blueprint_Install.label>石墨烯蓄电池(蓝图)</RPGrapheneBattery_Blueprint_Install.label>
+  <RPGrapheneBattery_Frame.label>石墨烯蓄电池(建造中)</RPGrapheneBattery_Frame.label>
+  <RPGrapheneBattery_Frame.description>储存多余的电力并在电力供给不足时释放电力。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。石墨烯蓄电池储电效率更高，兼顾大容量和高坚固性。</RPGrapheneBattery_Frame.description>
+
+
+  <!-- Small Graphene Battery -->
+
+  <RPSmallGrapheneBattery.label>小型石墨烯蓄电池</RPSmallGrapheneBattery.label>
+  <RPSmallGrapheneBattery.description>储存多余的电力并在电力供给不足时释放电力。小型石墨烯蓄电池储电效率更高，并且能无惧风雨在室外运行。蓄电量是常规石墨烯蓄电池的一半。</RPSmallGrapheneBattery.description>
+  <RPSmallGrapheneBattery_Blueprint.label>小型石墨烯蓄电池(蓝图)</RPSmallGrapheneBattery_Blueprint.label>
+  <RPSmallGrapheneBattery_Blueprint_Install.label>小型石墨烯蓄电池(蓝图)</RPSmallGrapheneBattery_Blueprint_Install.label>
+  <RPSmallGrapheneBattery_Frame.label>小型石墨烯蓄电池(建造中)</RPSmallGrapheneBattery_Frame.label>
+  <RPSmallGrapheneBattery_Frame.description>储存多余的电力并在电力供给不足时释放电力。小型石墨烯蓄电池储电效率更高，并且能无惧风雨在室外运行。蓄电量是常规石墨烯蓄电池的一半。</RPSmallGrapheneBattery_Frame.description>
+
+
+  <!-- Solar Generators -->
+
+  <RPGrapheneSolarGenerator.label>石墨烯太阳能板</RPGrapheneSolarGenerator.label>
+  <RPGrapheneSolarGenerator.description>利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。相比常规太阳能板而言更坚固，转换效率也要高上一些。</RPGrapheneSolarGenerator.description>
+  <RPGrapheneSolarGenerator_Blueprint.label>石墨烯太阳能板(蓝图)</RPGrapheneSolarGenerator_Blueprint.label>
+  <RPGrapheneSolarGenerator_Frame.label>石墨烯太阳能板(建造中)</RPGrapheneSolarGenerator_Frame.label>
+  <RPGrapheneSolarGenerator_Frame.description>利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。相比常规太阳能板而言更坚固，转换效率也要高上一些。</RPGrapheneSolarGenerator_Frame.description>
+
+  <RPSmallGrapheneSolarGenerator.label>小型石墨烯太阳能板</RPSmallGrapheneSolarGenerator.label>
+  <RPSmallGrapheneSolarGenerator.description>石墨烯太阳能板的小型号版本，产能与其体型相匹配，与此同时相应的减少了建造所需的资源和占用空间。</RPSmallGrapheneSolarGenerator.description>
+  <RPSmallGrapheneSolarGenerator_Blueprint.label>小型石墨烯太阳能板(蓝图)</RPSmallGrapheneSolarGenerator_Blueprint.label>
+  <RPSmallGrapheneSolarGenerator_Blueprint_Install.label>小型石墨烯太阳能板(蓝图)</RPSmallGrapheneSolarGenerator_Blueprint_Install.label>
+  <RPSmallGrapheneSolarGenerator_Frame.label>小型石墨烯太阳能板(建造中)</RPSmallGrapheneSolarGenerator_Frame.label>
+  <RPSmallGrapheneSolarGenerator_Frame.description>石墨烯太阳能板的小型号版本，产能与其体型相匹配，与此同时相应的减少了建造所需的资源和占用空间。</RPSmallGrapheneSolarGenerator_Frame.description>
+
+
+  <!-- Portable Power unit -->
+
+  <RPGraphenePortPower.label>石墨烯便携发电器</RPGraphenePortPower.label>
+  <RPGraphenePortPower.description>石墨烯便携发电器。</RPGraphenePortPower.description>
+  <RPGraphenePortPower_Blueprint.label>石墨烯便携发电器(蓝图)</RPGraphenePortPower_Blueprint.label>
+  <RPGraphenePortPower_Blueprint_Install.label>石墨烯便携发电器(蓝图)</RPGraphenePortPower_Blueprint_Install.label>
+  <RPGraphenePortPower_Frame.label>石墨烯便携发电器(建造中)</RPGraphenePortPower_Frame.label>
+  <RPGraphenePortPower_Frame.description>石墨烯便携发电器</RPGraphenePortPower_Frame.description>
+
+
+  <!-- Grow Bin -->
+
+  <RPGrapheneGrowBin.label>石墨烯水栽培仓</RPGrapheneGrowBin.label>
+  <RPGrapheneGrowBin.description>单数小型水栽培仓，植物在其中能快速生长。需要外界热能维持生长温度。</RPGrapheneGrowBin.description>
+  <RPGrapheneGrowBin_Blueprint.label>石墨烯水栽培仓(蓝图)</RPGrapheneGrowBin_Blueprint.label>
+  <RPGrapheneGrowBin_Blueprint_Install.label>石墨烯水栽培仓(蓝图)</RPGrapheneGrowBin_Blueprint_Install.label>
+  <RPGrapheneGrowBin_Frame.label>石墨烯水栽培仓(建造中)</RPGrapheneGrowBin_Frame.label>
+  <RPGrapheneGrowBin_Frame.description>单数小型水栽培仓，植物在其中能快速生长。需要外界热能维持生长温度。</RPGrapheneGrowBin_Frame.description>
+
+
+  <!-- Heater and Cooler -->
+
+  <RPGrapheneHeater.label>石墨烯加热器</RPGrapheneHeater.label>
+  <RPGrapheneHeater.description>一个将电能转换成热能的石墨烯材质电器设备。它会自动根据当前室内温度开关以达到设定的目标温度。</RPGrapheneHeater.description>
+  <RPGrapheneHeater_Blueprint.label>石墨烯加热器(蓝图)</RPGrapheneHeater_Blueprint.label>
+  <RPGrapheneHeater_Blueprint_Install.label>石墨烯加热器(蓝图)</RPGrapheneHeater_Blueprint_Install.label>
+  <RPGrapheneHeater_Frame.label>石墨烯加热器(建造中)</RPGrapheneHeater_Frame.label>
+  <RPGrapheneHeater_Frame.description>一个将电能转换成热能的石墨烯材质电器设备。它会自动根据当前室内温度开关以达到设定的目标温度。</RPGrapheneHeater_Frame.description>
+
+  <RPGrapheneCooler.label>石墨烯制冷机</RPGrapheneCooler.label>
+  <RPGrapheneCooler.description>一个能够作为墙体安装的石墨烯材质电器设备，可将冷空气吹入房间内，同时外机部分产生大量热量。可以在夏季为房间降温，或者用其建造一个冷库。</RPGrapheneCooler.description>
+  <RPGrapheneCooler_Blueprint.label>石墨烯制冷机(蓝图)</RPGrapheneCooler_Blueprint.label>
+  <RPGrapheneCooler_Frame.label>石墨烯制冷机(蓝图)</RPGrapheneCooler_Frame.label>
+  <RPGrapheneCooler_Frame.description>一个能够作为墙体安装的石墨烯材质电器设备，可将冷空气吹入房间内，同时外机部分产生大量热量。可以在夏季为房间降温，或者用其建造一个冷库。</RPGrapheneCooler_Frame.description>
+
+
+  <!-- Regulator -->
+
+  <RPGrapheneRegulator.label>石墨烯温控器</RPGrapheneRegulator.label>
+  <RPGrapheneRegulator.description>一个既能制冷又能制热的石墨烯材质电气设备，能作为墙体安装。制冷时，将冷空气吹入房间内，同时外机部分产生大量热量；或通过加热空气以制热。可高效调节房间温度。</RPGrapheneRegulator.description>
+  <RPGrapheneRegulator_Blueprint.label>石墨烯温控器(蓝图)</RPGrapheneRegulator_Blueprint.label>
+  <RPGrapheneRegulator_Frame.label>石墨烯温控器(蓝图)</RPGrapheneRegulator_Frame.label>
+  <RPGrapheneRegulator_Frame.description>一个既能制冷又能制热的石墨烯材质电气设备，能作为墙体安装。制冷时，将冷空气吹入房间内，同时外机部分产生大量热量；或通过加热空气以制热。可高效调节房间温度。</RPGrapheneRegulator_Frame.description>
+
+
+  <!-- Intelligent Vent -->
+
+  <RPGraphene_Vent.label>石墨烯通风孔</RPGraphene_Vent.label>
+  <RPGraphene_Vent.description>一个通风孔，在平衡两个房间的温度同时保持墙体无法通过。默认状态下通风孔滤气层内的智能材料能隔绝通风孔任一端10 - 30度的空气流通，该功能可自由开关。</RPGraphene_Vent.description>
+  <RPGraphene_Vent_Blueprint.label>石墨烯通风孔(蓝图)</RPGraphene_Vent_Blueprint.label>
+  <RPGraphene_Vent_Frame.label>石墨烯通风孔(蓝图)</RPGraphene_Vent_Frame.label>
+  <RPGraphene_Vent_Frame.description>一个通风孔，在平衡两个房间的温度同时保持墙体无法通过。默认状态下通风孔滤气层内的智能材料能隔绝通风孔任一端10 - 30度的空气流通，该功能可自由开关。</RPGraphene_Vent_Frame.description>
+
+
+  <!-- RegenWalls -->
+
+  <RPGrapheneRegenWall.label>石墨烯再生墙</RPGrapheneRegenWall.label>
+  <RPGrapheneRegenWall.description>一面无法通过的墙。可以支撑起屋顶。石墨烯墙通电后具备自我修复特性。</RPGrapheneRegenWall.description>
+  <RPGrapheneRegenWall_Blueprint.label>石墨烯再生墙(蓝图)</RPGrapheneRegenWall_Blueprint.label>
+  <RPGrapheneRegenWall_Frame.label>石墨烯再生墙(建造中)</RPGrapheneRegenWall_Frame.label>
+  <RPGrapheneRegenWall_Frame.description>一面无法通过的墙。可以支撑起屋顶。石墨烯墙通电后具备自我修复特性。</RPGrapheneRegenWall_Frame.description>
+
+
+</LanguageData>

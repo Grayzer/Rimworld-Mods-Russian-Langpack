@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <Plant_SSMint.label>薄荷</Plant_SSMint.label>
+  <Plant_SSMint.description>一种芳香植物.</Plant_SSMint.description>
+
+
+  <!-- Leaves -->
+
+  <SSMintLeaves.label>薄荷叶</SSMintLeaves.label>
+  <SSMintLeaves.description>新鲜采下的薄荷叶片，有着辛辣凉爽又带有一丝清甜的香气，后劲冰爽刺激.</SSMintLeaves.description>
+
+
+  <!-- 薄荷茶 -->
+
+  <SSMint_Tea.label>薄荷茶</SSMint_Tea.label>
+  <SSMint_Tea.description>用新鲜薄荷叶和一小撮严格定量的精神叶精心冲泡的薄荷茶，冷热皆宜，提神醒脑.效果持续约半天</SSMint_Tea.description>
+  <SSMint_Tea.ingestible.ingestCommandString>喝{0}</SSMint_Tea.ingestible.ingestCommandString>
+  <SSMint_Tea.ingestible.ingestReportString>正在喝{0}.</SSMint_Tea.ingestible.ingestReportString>
+
+
+  <!-- 薄荷 Chocol吃了bar -->
+
+  <SSMintChocolate.label>薄荷巧克力</SSMintChocolate.label>
+  <SSMintChocolate.description>由严选黑巧和薄荷精华制作而成的薄荷巧克力. 虽然不是很有营养，但吃了能让人心情愉快.</SSMintChocolate.description>
+
+
+</LanguageData>

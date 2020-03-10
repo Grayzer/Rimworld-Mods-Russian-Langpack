@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Asphalt -->
+
+  <RimPlas_Asphalt.label>沥青混凝土</RimPlas_Asphalt.label>
+  <RimPlas_Asphalt.description>建造原材，通常由各种集料和沥青制成，使用便捷。</RimPlas_Asphalt.description>
+  <RimPlas_Asphalt.stuffProps.stuffAdjective>沥青混凝土</RimPlas_Asphalt.stuffProps.stuffAdjective>
+
+
+</LanguageData>

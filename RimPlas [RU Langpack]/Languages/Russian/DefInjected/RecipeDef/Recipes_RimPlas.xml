@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Barrier -->
+
+  <RCP_Barrier.label>формовать Барьер</RCP_Barrier.label>
+  <RCP_Barrier.description>Формовать Барьер.</RCP_Barrier.description>
+  <RCP_Barrier.jobString>Формует предмет РимПласа.</RCP_Barrier.jobString>
+
+
+  <!-- Furniture -->
+
+  <RCP_AnimalSleepingBox.label>формовать Коробку для животных</RCP_AnimalSleepingBox.label>
+  <RCP_AnimalSleepingBox.description>Формовать Коробку для животных.</RCP_AnimalSleepingBox.description>
+  <RCP_AnimalSleepingBox.jobString>Формует предмет РимПласа.</RCP_AnimalSleepingBox.jobString>
+
+  <RCP_Stool.label>формовать Стул</RCP_Stool.label>
+  <RCP_Stool.description>Формовать Стул.</RCP_Stool.description>
+  <RCP_Stool.jobString>Формует предмет РимПласа.</RCP_Stool.jobString>
+
+  <RCP_DiningChair.label>формовать Обеденный стул</RCP_DiningChair.label>
+  <RCP_DiningChair.description>Формовать Обеденный стул.</RCP_DiningChair.description>
+  <RCP_DiningChair.jobString>Формует предмет РимПласа.</RCP_DiningChair.jobString>
+
+  <RCP_DrugCabinet.label>формовать Лекарственный шкафчик</RCP_DrugCabinet.label>
+  <RCP_DrugCabinet.description>Формовать Лекарственный шкафчик.</RCP_DrugCabinet.description>
+  <RCP_DrugCabinet.jobString>Формует предмет РимПласа.</RCP_DrugCabinet.jobString>
+
+  <RCP_EndTable.label>формовать Тумбочку</RCP_EndTable.label>
+  <RCP_EndTable.description>Формовать Тумбочку.</RCP_EndTable.description>
+  <RCP_EndTable.jobString>Формует предмет РимПласа.</RCP_EndTable.jobString>
+
+  <RCP_Table_Tiny.label>формовать Стол (1x1)</RCP_Table_Tiny.label>
+  <RCP_Table_Tiny.description>Формовать Стол (1x1).</RCP_Table_Tiny.description>
+  <RCP_Table_Tiny.jobString>Формует предмет РимПласа.</RCP_Table_Tiny.jobString>
+
+  <RCP_Table_Small.label>формовать Стол (1x2)</RCP_Table_Small.label>
+  <RCP_Table_Small.description>Формовать Стол (1x2).</RCP_Table_Small.description>
+  <RCP_Table_Small.jobString>Формует предмет РимПласа.</RCP_Table_Small.jobString>
+
+  <RCP_PlantPot.label>формовать Горшок для растений</RCP_PlantPot.label>
+  <RCP_PlantPot.description>Формовать Горшок для растений.</RCP_PlantPot.description>
+  <RCP_PlantPot.jobString>Формует предмет РимПласа.</RCP_PlantPot.jobString>
+
+  <RCP_Shelf.label>формовать Полку (1x2)</RCP_Shelf.label>
+  <RCP_Shelf.description>Формовать Полку (1x2).</RCP_Shelf.description>
+  <RCP_Shelf.jobString>Формует предмет РимПласа.</RCP_Shelf.jobString>
+
+  <RCP_Rack.label>формовать Полку (1x1)</RCP_Rack.label>
+  <RCP_Rack.description>Формовать Полку (1x1).</RCP_Rack.description>
+  <RCP_Rack.jobString>Формует предмет РимПласа.</RCP_Rack.jobString>
+
+  <RCP_Dresser.label>формовать Комод</RCP_Dresser.label>
+  <RCP_Dresser.description>Формовать Комод.</RCP_Dresser.description>
+  <RCP_Dresser.jobString>Формует предмет РимПласа.</RCP_Dresser.jobString>
+
+  <RCP_GameOfUr.label>формовать Игра Ур</RCP_GameOfUr.label>
+  <RCP_GameOfUr.description>Формовать Игра Ур.</RCP_GameOfUr.description>
+  <RCP_GameOfUr.jobString>Формует предмет РимПласа.</RCP_GameOfUr.jobString>
+
+  <RCP_ChessTable.label>формовать Шахматы</RCP_ChessTable.label>
+  <RCP_ChessTable.description>Формовать Шахматы.</RCP_ChessTable.description>
+  <RCP_ChessTable.jobString>Формует предмет РимПласа.</RCP_ChessTable.jobString>
+
+
+  <!-- RimPlas -->
+
+  <RCP_RimPlas.label>формовать RimPlas</RCP_RimPlas.label>
+  <RCP_RimPlas.description>Формовать some RimPlas.</RCP_RimPlas.description>
+  <RCP_RimPlas.jobString>Формует предмет РимПласа.</RCP_RimPlas.jobString>
+
+
+  <!-- RimPoly -->
+
+  <RCP_RimPoly.label>формовать RimPoly</RCP_RimPoly.label>
+  <RCP_RimPoly.description>Формовать some RimPoly.</RCP_RimPoly.description>
+  <RCP_RimPoly.jobString>Формует предмет РимПласа.</RCP_RimPoly.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SE_PlanetaryDrill.label>Планетарный бур</SE_PlanetaryDrill.label>
+	<SE_PlanetaryDrill.description>Высверлить ресурсы от внутренней планеты. Не создает инвазии. На бурение влияют навыки колониста или робота.</SE_PlanetaryDrill.description>
+
+</LanguageData>

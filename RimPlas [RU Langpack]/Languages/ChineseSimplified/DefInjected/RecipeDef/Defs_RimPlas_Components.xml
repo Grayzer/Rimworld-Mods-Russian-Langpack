@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Industrial -->
+
+  <Mould_RPComponentIndustrial.label>注模零部件</Mould_RPComponentIndustrial.label>
+  <Mould_RPComponentIndustrial.description>注模零部件。</Mould_RPComponentIndustrial.description>
+  <Mould_RPComponentIndustrial.jobString>正在注模零部件。</Mould_RPComponentIndustrial.jobString>
+
+
+  <!-- Advanced -->
+
+  <Mould_RPComponentSpacer.label>注模高级零部件</Mould_RPComponentSpacer.label>
+  <Mould_RPComponentSpacer.description>注模高级零部件。</Mould_RPComponentSpacer.description>
+  <Mould_RPComponentSpacer.jobString>正在注模高级零部件。</Mould_RPComponentSpacer.jobString>
+
+
+</LanguageData>

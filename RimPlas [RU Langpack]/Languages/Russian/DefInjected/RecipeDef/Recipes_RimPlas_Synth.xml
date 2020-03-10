@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimRayon -->
+
+  <MakeRimRayon.label>сделать РимШелк</MakeRimRayon.label>
+  <MakeRimRayon.description>Сделать РимШелк.</MakeRimRayon.description>
+  <MakeRimRayon.jobString>Делает РимШелк.</MakeRimRayon.jobString>
+
+
+  <!-- Synthbase -->
+
+  <MakeSynthbase.label>сделать СинтОснова</MakeSynthbase.label>
+  <MakeSynthbase.description>Сделать СинтОснова.</MakeSynthbase.description>
+  <MakeSynthbase.jobString>Делает СинтОснова.</MakeSynthbase.jobString>
+
+
+  <!-- Synthread -->
+
+  <RimPlasMakeSynthread.label>сделать Синтенить(25)</RimPlasMakeSynthread.label>
+  <RimPlasMakeSynthread.description>Сделать Синтенить.</RimPlasMakeSynthread.description>
+  <RimPlasMakeSynthread.jobString>Делает Синтенить.</RimPlasMakeSynthread.jobString>
+
+  <RimPlasBulkSynthread.label>Сделать Синтенить(100)</RimPlasBulkSynthread.label>
+  <RimPlasBulkSynthread.description>Сделать Синтенить.</RimPlasBulkSynthread.description>
+  <RimPlasBulkSynthread.jobString>Делает Синтенить.</RimPlasBulkSynthread.jobString>
+
+
+  <!-- DevilSynth -->
+
+  <RimPlasMakeDevilSynth.label>сделать ДьявоСинт(25)</RimPlasMakeDevilSynth.label>
+  <RimPlasMakeDevilSynth.description>Сделать ДьявоСинт.</RimPlasMakeDevilSynth.description>
+  <RimPlasMakeDevilSynth.jobString>Делает ДьявоСинт.</RimPlasMakeDevilSynth.jobString>
+
+  <RimPlasBulkDevilSynth.label>сделать ДьявоСинт(100)</RimPlasBulkDevilSynth.label>
+  <RimPlasBulkDevilSynth.description>Сделать ДьявоСинт.</RimPlasBulkDevilSynth.description>
+  <RimPlasBulkDevilSynth.jobString>Делает ДьявоСинт.</RimPlasBulkDevilSynth.jobString>
+
+
+  <!-- Plasteel -->
+
+  <RimPlasMakePlasteel.label>сделать Пласталь(25)</RimPlasMakePlasteel.label>
+  <RimPlasMakePlasteel.description>Сделать Пласталь.</RimPlasMakePlasteel.description>
+  <RimPlasMakePlasteel.jobString>Делает Пласталь.</RimPlasMakePlasteel.jobString>
+
+  <RimPlasBulkPlasteel.label>сделать Пласталь(100)</RimPlasBulkPlasteel.label>
+  <RimPlasBulkPlasteel.description>Сделать Пласталь.</RimPlasBulkPlasteel.description>
+  <RimPlasBulkPlasteel.jobString>Делает Пласталь.</RimPlasBulkPlasteel.jobString>
+
+
+  <!-- Plasteel Wool -->
+
+  <RimPlasMakePlasteelWool.label>сделать Пласталевую шерсть(25)</RimPlasMakePlasteelWool.label>
+  <RimPlasMakePlasteelWool.description>Сделать Пласталевую шерсть.</RimPlasMakePlasteelWool.description>
+  <RimPlasMakePlasteelWool.jobString>Делает Пласталевую шерсть.</RimPlasMakePlasteelWool.jobString>
+
+  <RimPlasBulkPlasteelWool.label>сделать Пласталевую шерсть(100)</RimPlasBulkPlasteelWool.label>
+  <RimPlasBulkPlasteelWool.description>Сделать Пласталевую шерсть.</RimPlasBulkPlasteelWool.description>
+  <RimPlasBulkPlasteelWool.jobString>Делает Пласталевую шерсть.</RimPlasBulkPlasteelWool.jobString>
+
+
+  <!-- Hyperweave -->
+
+  <RimPlasMakeHyperweave.label>сделать Гиперткань(25)</RimPlasMakeHyperweave.label>
+  <RimPlasMakeHyperweave.description>Сделать Гиперткань.</RimPlasMakeHyperweave.description>
+  <RimPlasMakeHyperweave.jobString>Делает Гиперткань.</RimPlasMakeHyperweave.jobString>
+
+
+</LanguageData>

@@ -105,7 +105,7 @@
   <SettingMinimumFuckabilityToHookup_desc>Контролирует, насколько привлекательными (RJW) обе пешки должны быть друг другу, чтобы рассмотреть возможность установки отношений.\n По умолчанию 10%.</SettingMinimumFuckabilityToHookup_desc>
   <SettingMinimumAttractivenessToHookup>Минимальная привлекательность</SettingMinimumAttractivenessToHookup>
   <SettingMinimumAttractivenessToHookup_desc>Управляет тем, насколько должны быть привлекательны (Rimworld) пешки друг другу, чтобы рассмотреть возможность установки отношений.\n По умолчанию 50%.\n Нимфы  0.</SettingMinimumAttractivenessToHookup_desc>
-  <SettingMinimumRelationshipToHookup>Установка отношений минимальное мнение </SettingMinimumRelationshipToHookup>
+  <SettingMinimumRelationshipToHookup>Установка отношений минимальное мнение</SettingMinimumRelationshipToHookup>
   <SettingMinimumRelationshipToHookup_desc>Контролирует минимальное мнение пешек, чтобы мнение друг друга учитывалось для установки отношений.\n По умолчанию 20.\n Нимфы  0.</SettingMinimumRelationshipToHookup_desc>
 
 
@@ -253,24 +253,24 @@
   <FapInBed_desc>Пешка будет мастурбировать в своей постели.</FapInBed_desc>
   <!--[Core] <Reset>Сбросить</Reset>-->
 
-  <Malesex>Допускается мужской пол: </Malesex>
+  <Malesex>Допускается мужской пол:</Malesex>
   <FeMalesex>Допускается женский пол: </FeMalesex>
   <AllowedSex.All>Все</AllowedSex.All>
   <AllowedSex.Homo>Геи</AllowedSex.Homo>
   <AllowedSex.Nohomo>Гетеро</AllowedSex.Nohomo>
 
-  <SexClothing>Предпочитаемая одежда для секса: </SexClothing>
+  <SexClothing>Предпочитаемая одежда для секса:</SexClothing>
   <SexClothingNude>Без одежды</SexClothingNude>
   <SexClothingHeadwear>Только головные уборы</SexClothingHeadwear>
   <SexClothingFull>Полностью в одежде</SexClothingFull>
 
-  <RapeSoundAlert>Звуковая тревога при попытке изнасилования: </RapeSoundAlert>
+  <RapeSoundAlert>Звуковая тревога при попытке изнасилования:</RapeSoundAlert>
   <RapeSoundAlertAlways>Всегда включено</RapeSoundAlertAlways>
   <RapeSoundAlertHumanlike>Только если цель человекоподобна</RapeSoundAlertHumanlike>
   <RapeSoundAlertColonist>Только если цель колонист</RapeSoundAlertColonist>
   <RapeSoundAlertDisabled>Выключено</RapeSoundAlertDisabled>
 
-  <RapeAlert>Звуковое уведомление изнасилования: </RapeAlert>
+  <RapeAlert>Звуковое уведомление изнасилования:</RapeAlert>
   <RapeAlertAlways>Всегда включено</RapeAlertAlways>
   <RapeAlertHumanlike>Только если цель человекоподобна</RapeAlertHumanlike>
   <RapeAlertColonist>Только если цель колонист</RapeAlertColonist>
@@ -281,17 +281,17 @@
   <RapeAlertBreeding>Показать для разведения</RapeAlertBreeding>
   <RapeAlertBreeding_desc>Показывать оповещение, когда пешка, предназначенная для породы, подвергается изнасилованию.</RapeAlertBreeding_desc>
 
-  <SexualitySpread1>Источник распространения сексуальности: </SexualitySpread1>
+  <SexualitySpread1>Источник распространения сексуальности:</SexualitySpread1>
   <SexualitySpread2>Поколение сексуальности распространяется на RJW.</SexualitySpread2>
   <SexualitySpreadRationalRomance>[Imported from Rational Romance]</SexualitySpreadRationalRomance>
   <SexualitySpreadPsychology>[Imported from Psychology]</SexualitySpreadPsychology>
   <SexualitySpreadIndividuality>[imported from [SYR]Individuality]</SexualitySpreadIndividuality>
 
-  <SexualityAsexual>  Асексуал: </SexualityAsexual>
-  <SexualityPansexual>  Пансексуал: </SexualityPansexual>
-  <SexualityHeterosexual>  Гетеросексуал: </SexualityHeterosexual>
-  <SexualityBisexual>  Бисексуал: </SexualityBisexual>
-  <SexualityGay>  Гей: </SexualityGay>
+  <SexualityAsexual>  Асексуал:</SexualityAsexual>
+  <SexualityPansexual>  Пансексуал:</SexualityPansexual>
+  <SexualityHeterosexual>  Гетеросексуал:</SexualityHeterosexual>
+  <SexualityBisexual>  Бисексуал:</SexualityBisexual>
+  <SexualityGay>  Гей:</SexualityGay>
 
   <SexualityAsexual_desc>Низкое или несуществующее сексуальное влечение, как правило, не заинтересованное в сексе.</SexualityAsexual_desc>
   <SexualityPansexual_desc>Пансексуалы полностью игнорируют пол.</SexualityPansexual_desc>

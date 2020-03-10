@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <CookSSMushSoup.label>приготовить грибной суп</CookSSMushSoup.label>
+  <CookSSMushSoup.description>Готовить сливочный грибной суп.</CookSSMushSoup.description>
+  <CookSSMushSoup.jobString>Готовит грибной суп.</CookSSMushSoup.jobString>
+
+  <CookBulkSSMushSoup.label>приготовить грибной суп(4)</CookBulkSSMushSoup.label>
+  <CookBulkSSMushSoup.description>Готовить 4 сливочного грибного супа.</CookBulkSSMushSoup.description>
+  <CookBulkSSMushSoup.jobString>Готовит грибной суп.</CookBulkSSMushSoup.jobString>
+
+
+</LanguageData>

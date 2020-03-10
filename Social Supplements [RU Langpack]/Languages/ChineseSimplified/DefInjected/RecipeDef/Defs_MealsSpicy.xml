@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Survival -->
+
+  <MakeSSMealSurvivalPackSpicy.label>制作包装生存食品（辣味）</MakeSSMealSurvivalPackSpicy.label>
+  <MakeSSMealSurvivalPackSpicy.description>向包装生存食品中加入辣酱.</MakeSSMealSurvivalPackSpicy.description>
+  <MakeSSMealSurvivalPackSpicy.jobString>正在用辣酱调味.</MakeSSMealSurvivalPackSpicy.jobString>
+
+  <MakeBulkSSMealSurvivalPackSpicy.label>批量制作包装生存食品（辣味）</MakeBulkSSMealSurvivalPackSpicy.label>
+  <MakeBulkSSMealSurvivalPackSpicy.description>向4份包装生存食品加入辣酱.</MakeBulkSSMealSurvivalPackSpicy.description>
+  <MakeBulkSSMealSurvivalPackSpicy.jobString>正在用辣酱调味.</MakeBulkSSMealSurvivalPackSpicy.jobString>
+
+
+  <!-- Travel -->
+
+  <MakeSSMealTravelPackSpicy.label>制作香辣旅行食品</MakeSSMealTravelPackSpicy.label>
+  <MakeSSMealTravelPackSpicy.description>向旅行食品中加入辣酱.</MakeSSMealTravelPackSpicy.description>
+  <MakeSSMealTravelPackSpicy.jobString>正在用辣酱调味.</MakeSSMealTravelPackSpicy.jobString>
+
+  <MakeBulkSSMealTravelPackSpicy.label>批量制作香辣旅行食品</MakeBulkSSMealTravelPackSpicy.label>
+  <MakeBulkSSMealTravelPackSpicy.description>向4份旅行食品中加入辣酱.</MakeBulkSSMealTravelPackSpicy.description>
+  <MakeBulkSSMealTravelPackSpicy.jobString>正在用辣酱调味.</MakeBulkSSMealTravelPackSpicy.jobString>
+
+
+  <!-- Simple -->
+
+  <MakeSSMealSimpleSpicy.label>制作简易川菜</MakeSSMealSimpleSpicy.label>
+  <MakeSSMealSimpleSpicy.description>向简易食物中加入辣酱.</MakeSSMealSimpleSpicy.description>
+  <MakeSSMealSimpleSpicy.jobString>正在用辣酱调味.</MakeSSMealSimpleSpicy.jobString>
+
+  <MakeBulkSSMealSimpleSpicy.label>批量制作简易川菜</MakeBulkSSMealSimpleSpicy.label>
+  <MakeBulkSSMealSimpleSpicy.description>向4份简易食物中加入辣酱.</MakeBulkSSMealSimpleSpicy.description>
+  <MakeBulkSSMealSimpleSpicy.jobString>正在用辣酱调味.</MakeBulkSSMealSimpleSpicy.jobString>
+
+
+  <!-- Fine -->
+
+  <MakeSSMealFineSpicy.label>制作家常川菜</MakeSSMealFineSpicy.label>
+  <MakeSSMealFineSpicy.description>向精致食物中加入辣酱.</MakeSSMealFineSpicy.description>
+  <MakeSSMealFineSpicy.jobString>正在用辣酱调味.</MakeSSMealFineSpicy.jobString>
+
+  <MakeBulkSSMealFineSpicy.label>批量制作家常川菜</MakeBulkSSMealFineSpicy.label>
+  <MakeBulkSSMealFineSpicy.description>向4份精致食物中加入辣酱.</MakeBulkSSMealFineSpicy.description>
+  <MakeBulkSSMealFineSpicy.jobString>正在用辣酱调味s.</MakeBulkSSMealFineSpicy.jobString>
+
+
+  <!-- Lavish -->
+
+  <MakeSSMealLavishSpicy.label>制作大师川菜</MakeSSMealLavishSpicy.label>
+  <MakeSSMealLavishSpicy.description>向奢侈食物中加入辣酱.</MakeSSMealLavishSpicy.description>
+  <MakeSSMealLavishSpicy.jobString>正在用辣酱调味.</MakeSSMealLavishSpicy.jobString>
+
+  <MakeBulkSSMealLavishSpicy.label>批量制作大师川菜</MakeBulkSSMealLavishSpicy.label>
+  <MakeBulkSSMealLavishSpicy.description>向4份奢侈食物中加入辣酱.</MakeBulkSSMealLavishSpicy.description>
+  <MakeBulkSSMealLavishSpicy.jobString>正在用辣酱调味.</MakeBulkSSMealLavishSpicy.jobString>
+
+
+  <!-- Pemmican -->
+
+  <MakeSSPemmicanSpicy.label>制作香辣干肉饼</MakeSSPemmicanSpicy.label>
+  <MakeSSPemmicanSpicy.description>向5块干肉饼中加入辣酱.</MakeSSPemmicanSpicy.description>
+  <MakeSSPemmicanSpicy.jobString>正在给干肉饼加辣.</MakeSSPemmicanSpicy.jobString>
+
+  <MakeBulkSSPemmicanSpicy.label>批量制作香辣干肉饼</MakeBulkSSPemmicanSpicy.label>
+  <MakeBulkSSPemmicanSpicy.description>向25块干肉饼中加入辣酱.</MakeBulkSSPemmicanSpicy.description>
+  <MakeBulkSSPemmicanSpicy.jobString>正在给干肉饼加辣.</MakeBulkSSPemmicanSpicy.jobString>
+
+
+</LanguageData>

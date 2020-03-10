@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimplas Unfinished Multianalyser -->
+
+  <RimPlas_UnfinishedMA.label>未完成的塑料多元分析仪</RimPlas_UnfinishedMA.label>
+
+
+  <!-- Rimplas MultiAnalyser Part -->
+
+  <RimPlas_MAPart.label>塑料多元分析仪组件</RimPlas_MAPart.label>
+  <RimPlas_MAPart.description>塑料多元分析仪的外部组件。</RimPlas_MAPart.description>
+
+
+</LanguageData>

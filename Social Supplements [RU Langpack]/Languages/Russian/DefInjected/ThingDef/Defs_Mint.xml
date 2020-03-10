@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <Plant_SSMint.label>Мята</Plant_SSMint.label>
+  <Plant_SSMint.description>Mentha (также известный как мята) - это род растений семейства Lamiaceae (семейство мятных). Это ароматическая трава, используемая в приготовлении пищи с отчетливой свежей привлекательностью.</Plant_SSMint.description>
+
+
+  <!-- Leaves -->
+
+  <SSMintLeaves.label>Листья Мяты</SSMintLeaves.label>
+  <SSMintLeaves.description>Сырые срезанные листья мяты. Листья имеют теплый, свежий, ароматный, сладкий вкус с прохладным послевкусием.</SSMintLeaves.description>
+
+
+  <!-- Mint Tea -->
+
+  <SSMint_Tea.label>Мятный чай</SSMint_Tea.label>
+  <SSMint_Tea.description>Освежающий напиток, приготовленный из листьев мяты и капли психоида. Может быть подан горячим или холодным. Активен около половины дня.</SSMint_Tea.description>
+  <SSMint_Tea.ingestible.ingestCommandString>Пить {0}</SSMint_Tea.ingestible.ingestCommandString>
+  <SSMint_Tea.ingestible.ingestReportString>Пьет {0}.</SSMint_Tea.ingestible.ingestReportString>
+
+
+  <!-- Mint Chocolate bar -->
+
+  <SSMintChocolate.label>Мятный шоколад</SSMintChocolate.label>
+  <SSMintChocolate.description>Вкусное сочетание мяты и шоколада. Это удовлетворяет потребность в отдыхе, но это не очень питательно.</SSMintChocolate.description>
+
+
+  <!-- Candy Cane -->
+
+  <SSCandyCane.label>Конфета</SSCandyCane.label>
+  <SSCandyCane.description>Сладкий препарат из мяты и глюкозы. Это удовлетворяет потребность в отдыхе, но это не очень питательно.</SSCandyCane.description>
+
+
+</LanguageData>

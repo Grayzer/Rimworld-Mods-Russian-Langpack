@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <Plant_SSPolyflower.label>Polyflower</Plant_SSPolyflower.label>
+  <Plant_SSPolyflower.description>A genetically modified flower that gives off numerous different scents. It was designed in this way to ensure that a pleasurable response can be had despite olfactory preferences.</Plant_SSPolyflower.description>
+
+
+  <!-- Petals -->
+
+  <SSPolyPetals.label>Polyflower petals</SSPolyPetals.label>
+  <SSPolyPetals.description>Picked petals of the polyflower. These petals can be used for various aromatic purposes.</SSPolyPetals.description>
+
+
+  <!-- Polyflower Juice -->
+
+  <SSPolyflowerJuice.label>Polyflower Juice</SSPolyflowerJuice.label>
+  <SSPolyflowerJuice.description>A sweet tonic made from polyflowers and glycerol. It helps fulfills the need for recreation.</SSPolyflowerJuice.description>
+  <SSPolyflowerJuice.ingestible.ingestCommandString>Drink {0}</SSPolyflowerJuice.ingestible.ingestCommandString>
+  <SSPolyflowerJuice.ingestible.ingestReportString>Drinking {0}.</SSPolyflowerJuice.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <koisama.Numbers.Title>Числовой обзор</koisama.Numbers.Title>
+  <koisama.Numbers.Count>Количество рядов</koisama.Numbers.Count>
+  <koisama.Numbers.ClickToToggle>Нажмите, чтобы выбрать тип пешки</koisama.Numbers.ClickToToggle>
+  <Numbers_ColumnHeader_Tooltip>Щелкните правой кнопкой мыши, чтобы удалить столбцы.</Numbers_ColumnHeader_Tooltip>
+  <koisama.Numbers.SetPresetLabel>Предустановленная</koisama.Numbers.SetPresetLabel>
+
+  <!--- becomes Load {medical/combat} preset -->
+  <Numbers_Presets.Load>Загрузить предустановку {0}</Numbers_Presets.Load>
+  <Numbers_Presets.Medical>Медицинская</Numbers_Presets.Medical>
+  <Numbers_Presets.Combat>Боевая</Numbers_Presets.Combat>
+  <Numbers_Presets.WorkTabPlus>Рабочая</Numbers_Presets.WorkTabPlus>
+  <Numbers_Presets.ColonistNeeds>Колониальные потребности</Numbers_Presets.ColonistNeeds>
+
+  <Numbers_SetAsDefault>Установить по умолчанию</Numbers_SetAsDefault>
+  <Numbers_SetAsDefaultExplanation>Теперь установите для текущей пешки ({0}) расположение по умолчанию, новая колония будет использовать такую схему. Может быть удалена в опции мода.(меню =&gt; опции =&gt; вариант мода =&gt; Numbers)。</Numbers_SetAsDefaultExplanation>
+  <Numbers_NoDefaultStoredForThisView>Там нет сохраненных настроек по умолчанию для текущей пешки.</Numbers_NoDefaultStoredForThisView>
+  <Numbers_LoadDefault>Загрузить настройки по умолчанию</Numbers_LoadDefault>
+
+  <Numbers_showMoreInfoThanVanilla>Показать требования и задания, которые обычно скрыты.</Numbers_showMoreInfoThanVanilla>
+  <Numbers_coolerThanTheWildlifeTab>Значение имеет все функции тега дикого животного. Я хочу заменить на свое значение.</Numbers_coolerThanTheWildlifeTab>
+  <Numbers_maxTableHeight>Максимально допустимое вертикальное пространство экрана для числовых модов.</Numbers_maxTableHeight>
+  <Numbers_pawnTableClickSelect>Щелкните левой кнопкой мыши по списку пешек, чтобы выбрать их. (Ранее изменено на Alt + Left)</Numbers_pawnTableClickSelect>
+  <Numbers_pawnTableClickSelect_Desc>Делает выбор очень интуитивно понятным. Нажмите клавишу Esc, чтобы закрыть окно\n\nShift + щелчок левой кнопкой мыши: множественный выбор.\nДважды щелкните по центру объектива на цели.\nПравой кнопкой мыши выберите одну пешку.\nAlt + щелчок левой кнопкой мыши закрывает окно и просматривает состояние одной пешки.\nПримечание: Этот метод выбора применяется ко всем вкладкам, связанным с пешками, а не только к числовым.</Numbers_pawnTableClickSelect_Desc>
+  <Numbers_pawnTableHighSelected>Выделите выбранную пешку.</Numbers_pawnTableHighSelected>
+  <Numbers_pawnTableHighSelected_Desc>Примечание. Этот метод выбора применяется ко всем вкладкам, связанным с пешками, а не только к числовым.</Numbers_pawnTableHighSelected_Desc>
+
+  <Numbers_LoadSavedLayout>Загрузить архив макета</Numbers_LoadSavedLayout>
+  <Numbers_NothingSaved>Нет архива макета</Numbers_NothingSaved>
+  <Numbers_SaveCurrentLayout>Сохранить текущий макет</Numbers_SaveCurrentLayout>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeRimPlas.label>сделать РимПлас(25)</MakeRimPlas.label>
+  <MakeRimPlas.description>Сделать РимПлас.</MakeRimPlas.description>
+  <MakeRimPlas.jobString>Делает РимПлас.</MakeRimPlas.jobString>
+
+  <MakeBulkRimPlas.label>сделать РимПлас(100)</MakeBulkRimPlas.label>
+  <MakeBulkRimPlas.description>Сделать РимПлас.</MakeBulkRimPlas.description>
+  <MakeBulkRimPlas.jobString>Делает РимПлас.</MakeBulkRimPlas.jobString>
+
+
+</LanguageData>

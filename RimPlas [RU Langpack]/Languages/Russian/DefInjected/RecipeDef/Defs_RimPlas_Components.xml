@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Industrial -->
+
+  <Mould_RPComponentIndustrial.label>формовать РимПлас компонент</Mould_RPComponentIndustrial.label>
+  <Mould_RPComponentIndustrial.description>Формовать РимПлас компонент.</Mould_RPComponentIndustrial.description>
+  <Mould_RPComponentIndustrial.jobString>Формует РимПлас компонент.</Mould_RPComponentIndustrial.jobString>
+
+
+  <!-- Advanced -->
+
+  <Mould_RPComponentSpacer.label>формовать продвинутый РимПлас компонент</Mould_RPComponentSpacer.label>
+  <Mould_RPComponentSpacer.description>Формовать продвинутый РимПлас компонент.</Mould_RPComponentSpacer.description>
+  <Mould_RPComponentSpacer.jobString>Формует продвинутый РимПлас компонент.</Mould_RPComponentSpacer.jobString>
+
+
+</LanguageData>

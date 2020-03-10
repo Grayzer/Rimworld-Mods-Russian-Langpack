@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeSSPolyflowerJuice.label>制作多聚花花露</MakeSSPolyflowerJuice.label>
+  <MakeSSPolyflowerJuice.description>制作一份多聚花花露.</MakeSSPolyflowerJuice.description>
+  <MakeSSPolyflowerJuice.jobString>正在制作多聚花花露.</MakeSSPolyflowerJuice.jobString>
+
+  <MakeBulkSSPolyflowerJuice.label>批量制作多聚花花露</MakeBulkSSPolyflowerJuice.label>
+  <MakeBulkSSPolyflowerJuice.description>制作5份多聚花花露.</MakeBulkSSPolyflowerJuice.description>
+  <MakeBulkSSPolyflowerJuice.jobString>正在批量制作多聚花花露.</MakeBulkSSPolyflowerJuice.jobString>
+
+
+</LanguageData>

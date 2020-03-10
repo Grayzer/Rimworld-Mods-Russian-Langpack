@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeSSPolyflowerJuice.label>Сделать Полицветный сок</MakeSSPolyflowerJuice.label>
+  <MakeSSPolyflowerJuice.description>Приготовить полицветный сок.</MakeSSPolyflowerJuice.description>
+  <MakeSSPolyflowerJuice.jobString>Готовит полицветный сок.</MakeSSPolyflowerJuice.jobString>
+
+  <MakeBulkSSPolyflowerJuice.label>Сделать Полицветный сок(5)</MakeBulkSSPolyflowerJuice.label>
+  <MakeBulkSSPolyflowerJuice.description>Приготовить 5 полицветного сока.</MakeBulkSSPolyflowerJuice.description>
+  <MakeBulkSSPolyflowerJuice.jobString>Готовит полицветный сок.</MakeBulkSSPolyflowerJuice.jobString>
+
+
+</LanguageData>

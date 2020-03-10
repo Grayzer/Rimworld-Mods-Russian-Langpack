@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spicy Meals -->
+
+  <SSAteSurvivalMealSpicy.stages.0.label>ел пряный сухпаек</SSAteSurvivalMealSpicy.stages.0.label>
+  <SSAteSurvivalMealSpicy.stages.0.description>Я ел пряный сухпаек</SSAteSurvivalMealSpicy.stages.0.description>
+
+  <SSAteTravelMealSpicy.stages.0.label>ел пряный завтрак туриста</SSAteTravelMealSpicy.stages.0.label>
+  <SSAteTravelMealSpicy.stages.0.description>Я ел пряный завтрак туриста.</SSAteTravelMealSpicy.stages.0.description>
+
+  <SSAteSimpleMealSpicy.stages.0.label>ел пряное простое блюдо</SSAteSimpleMealSpicy.stages.0.label>
+  <SSAteSimpleMealSpicy.stages.0.description>Я ел пряное простое блюдо.</SSAteSimpleMealSpicy.stages.0.description>
+
+  <SSAteFineMealSpicy.stages.0.label>ел пряное вкусное блюдо</SSAteFineMealSpicy.stages.0.label>
+  <SSAteFineMealSpicy.stages.0.description>Я ел пряное вкусное блюдо. Мммм!</SSAteFineMealSpicy.stages.0.description>
+
+  <SSAteLavishMealSpicy.stages.0.label>ел пряное шикарное блюдо</SSAteLavishMealSpicy.stages.0.label>
+  <SSAteLavishMealSpicy.stages.0.description>Эта острая шикарная еда была восхитительной. Это питало мое тело и мою душу.</SSAteLavishMealSpicy.stages.0.description>
+
+
+  <!-- Spicy Pemmican -->
+
+  <SSAtePemmicanSpicy.stages.0.label>ел пряный пеммикан</SSAtePemmicanSpicy.stages.0.label>
+  <SSAtePemmicanSpicy.stages.0.description>Я ел пряный пеммикан.</SSAtePemmicanSpicy.stages.0.description>
+
+
+</LanguageData>

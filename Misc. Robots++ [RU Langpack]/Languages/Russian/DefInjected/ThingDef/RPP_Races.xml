@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AIRobot_Hauler_II.label>Бот Носильщик</AIRobot_Hauler_II.label>
+	<AIRobot_Hauler_II.description>Это Базовый носильщик-робот.</AIRobot_Hauler_II.description>
+	<AIRobot_Hauler_III.label>Бот Носильщик</AIRobot_Hauler_III.label>
+	<AIRobot_Hauler_III.description>Это Средний носильщик-робот.</AIRobot_Hauler_III.description>
+	<AIRobot_Hauler_IV.label>Бот Носильщик</AIRobot_Hauler_IV.label>
+	<AIRobot_Hauler_IV.description>Это Продвинутый носильщик-робот.</AIRobot_Hauler_IV.description>
+	<AIRobot_Hauler_V.label>Бот Носильщик</AIRobot_Hauler_V.label>
+	<AIRobot_Hauler_V.description>Это Анти-логик носильщик-робот.</AIRobot_Hauler_V.description>
+
+	<AIRobot_Cleaner_II.label>Бот Уборщик</AIRobot_Cleaner_II.label>
+	<AIRobot_Cleaner_II.description>Это Базовый уборщик-робот.</AIRobot_Cleaner_II.description>
+	<AIRobot_Cleaner_III.label>Бот Уборщик</AIRobot_Cleaner_III.label>
+	<AIRobot_Cleaner_III.description>Это Средний уборщик-робот.</AIRobot_Cleaner_III.description>
+	<AIRobot_Cleaner_IV.label>Бот Уборщик</AIRobot_Cleaner_IV.label>
+	<AIRobot_Cleaner_IV.description>Это Продвинутый уборщик-робот.</AIRobot_Cleaner_IV.description>
+	<AIRobot_Cleaner_V.label>Бот Уборщик</AIRobot_Cleaner_V.label>
+	<AIRobot_Cleaner_V.description>Это Анти-логик уборщик-робот.</AIRobot_Cleaner_V.description>
+
+	<RPP_Bot_Builder_I.label>Бот Строитель</RPP_Bot_Builder_I.label>
+	<RPP_Bot_Builder_I.description>Это 1 уровень технологии любительского класса (навык 4) способный строить, разбирать, чинить и добывать.</RPP_Bot_Builder_I.description>
+	<RPP_Bot_Builder_II.label>Бот Строитель</RPP_Bot_Builder_II.label>
+	<RPP_Bot_Builder_II.description>Это 2 уровень технологии профессионального класса (навык 8) способный строить, разбирать, чинить и добывать.</RPP_Bot_Builder_II.description>
+	<RPP_Bot_Builder_III.label>Бот Строитель</RPP_Bot_Builder_III.label>
+	<RPP_Bot_Builder_III.description>Это 3 уровень технологии мастерского класса (навык 13) способный строить, разбирать, чинить и добывать.</RPP_Bot_Builder_III.description>
+	<RPP_Bot_Builder_IV.label>Бот Строитель</RPP_Bot_Builder_IV.label>
+	<RPP_Bot_Builder_IV.description>Это 4 уровень технологии планетарного класса (навык 16) способный строить, разбирать, чинить и добывать.</RPP_Bot_Builder_IV.description>
+	<RPP_Bot_Builder_V.label>Бот Строитель</RPP_Bot_Builder_V.label>
+	<RPP_Bot_Builder_V.description>Это 5 уровень технологии легендарного класса (навык 20) способный строить, разбирать, чинить и добывать.</RPP_Bot_Builder_V.description>
+
+	<RPP_Bot_Crafter_I.label>Бот Ремесленник</RPP_Bot_Crafter_I.label>
+	<RPP_Bot_Crafter_I.description>Это 1 уровень технологии любительского класса (навык 4) способный плавить, ковать, шить и создавать.</RPP_Bot_Crafter_I.description>
+	<RPP_Bot_Crafter_II.label>Бот Ремесленник</RPP_Bot_Crafter_II.label>
+	<RPP_Bot_Crafter_II.description>Это 2 уровень технологии профессионального класса (навык 8) способный плавить, ковать, шить и создавать.</RPP_Bot_Crafter_II.description>
+	<RPP_Bot_Crafter_III.label>Бот Ремесленник</RPP_Bot_Crafter_III.label>
+	<RPP_Bot_Crafter_III.description>Это 3 уровень технологии мастерского класса (навык 13) способный плавить, ковать, шить и создавать.</RPP_Bot_Crafter_III.description>
+	<RPP_Bot_Crafter_IV.label>Бот Ремесленник</RPP_Bot_Crafter_IV.label>
+	<RPP_Bot_Crafter_IV.description>Это 4 уровень технологии планетарного класса (навык 16) способный плавить, ковать, шить и создавать.</RPP_Bot_Crafter_IV.description>
+	<RPP_Bot_Crafter_V.label>Бот Ремесленник</RPP_Bot_Crafter_V.label>
+	<RPP_Bot_Crafter_V.description>Это 5 уровень технологии легендарного класса (навык 20) способный плавить, ковать, шить и создавать.</RPP_Bot_Crafter_V.description>
+
+	<RPP_Bot_ER_I.label>Бот Спасатель</RPP_Bot_ER_I.label>
+	<RPP_Bot_ER_I.description>Это 1 уровень технологии любительского класса (навык 4) способный лечить пациентов и бороться с пожарами.</RPP_Bot_ER_I.description>
+	<RPP_Bot_ER_II.label>Бот Спасатель</RPP_Bot_ER_II.label>
+	<RPP_Bot_ER_II.description>Это 2 уровень технологии профессионального класса (навык 8) способный лечить пациентов и бороться с пожарами.</RPP_Bot_ER_II.description>
+	<RPP_Bot_ER_III.label>Бот Спасатель</RPP_Bot_ER_III.label>
+	<RPP_Bot_ER_III.description>Это 3 уровень технологии мастерского класса (навык 13) способный лечить пациентов и бороться с пожарами.</RPP_Bot_ER_III.description>
+	<RPP_Bot_ER_IV.label>Бот Спасатель</RPP_Bot_ER_IV.label>
+	<RPP_Bot_ER_IV.description>Это 4 уровень технологии планетарного класса (навык 16) способный лечить пациентов и бороться с пожарами.</RPP_Bot_ER_IV.description>
+	<RPP_Bot_ER_V.label>Бот Спасатель</RPP_Bot_ER_V.label>
+	<RPP_Bot_ER_V.description>Это 5 уровень технологии легендарного класса (навык 20) способный лечить пациентов и бороться с пожарами.</RPP_Bot_ER_V.description>
+
+	<RPP_Bot_Kitchen_I.label>Бот Повар</RPP_Bot_Kitchen_I.label>
+	<RPP_Bot_Kitchen_I.description>Это 1 уровень технологии любительского класса (навык 4) способный готовить и ухаживать за растениями.</RPP_Bot_Kitchen_I.description>
+	<RPP_Bot_Kitchen_II.label>Бот Повар</RPP_Bot_Kitchen_II.label>
+	<RPP_Bot_Kitchen_II.description>Это 2 уровень технологии профессионального класса (навык 8) способный готовить и ухаживать за растениями.</RPP_Bot_Kitchen_II.description>
+	<RPP_Bot_Kitchen_III.label>Бот Повар</RPP_Bot_Kitchen_III.label>
+	<RPP_Bot_Kitchen_III.description>Это 3 уровень технологии мастерского класса (навык 13) способный готовить и ухаживать за растениями.</RPP_Bot_Kitchen_III.description>
+	<RPP_Bot_Kitchen_IV.label>Бот Повар</RPP_Bot_Kitchen_IV.label>
+	<RPP_Bot_Kitchen_IV.description>Это 4 уровень технологии планетарного класса (навык 16) способный готовить и ухаживать за растениями.</RPP_Bot_Kitchen_IV.description>
+	<RPP_Bot_Kitchen_V.label>Бот Повар</RPP_Bot_Kitchen_V.label>
+	<RPP_Bot_Kitchen_V.description>Это 5 уровень технологии легендарного класса (навык 20) способный готовить и ухаживать за растениями.</RPP_Bot_Kitchen_V.description>
+
+	<RPP_Bot_Omni_V.label>Бот Универсал</RPP_Bot_Omni_V.label>
+	<RPP_Bot_Omni_V.description>Это 5 уровень технологии легендарного класса (навык 20) способный на что угодно. (NP=P)</RPP_Bot_Omni_V.description>
+
+</LanguageData>

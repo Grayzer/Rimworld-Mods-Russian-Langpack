@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimThermoPlas Foam Recipe(s) -->
+
+  <RCP_RimThermoPlas_Foam.label>注模导热泡沫橡胶</RCP_RimThermoPlas_Foam.label>
+  <RCP_RimThermoPlas_Foam.description>注模5份导热泡沫橡胶</RCP_RimThermoPlas_Foam.description>
+  <RCP_RimThermoPlas_Foam.jobString>正在注模导热泡沫橡胶。</RCP_RimThermoPlas_Foam.jobString>
+
+
+</LanguageData>

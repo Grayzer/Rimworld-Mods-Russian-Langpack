@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Injection Mould Machine -->
+
+  <RimPlas_InjMldMachine.label>塑料注射成型机</RimPlas_InjMldMachine.label>
+  <RimPlas_InjMldMachine.description>将资源高效塑造成家具和物品。</RimPlas_InjMldMachine.description>
+  <RimPlas_InjMldMachine_Blueprint.label>塑料注射成型机(蓝图)</RimPlas_InjMldMachine_Blueprint.label>
+  <RimPlas_InjMldMachine_Frame.label>塑料注射成型机(建造中)</RimPlas_InjMldMachine_Frame.label>
+  <RimPlas_InjMldMachine_Frame.description>将资源高效塑造成家具和物品。</RimPlas_InjMldMachine_Frame.description>
+
+
+  <!-- Advanced Injection Moulding Machine -->
+
+  <RimPlas_AdvInjMld.label>先进塑料注射成型机</RimPlas_AdvInjMld.label>
+  <RimPlas_AdvInjMld.description>可塑造复杂原材的设备。</RimPlas_AdvInjMld.description>
+  <RimPlas_AdvInjMld_Blueprint.label>先进塑料注射成型机(蓝图)</RimPlas_AdvInjMld_Blueprint.label>
+  <RimPlas_AdvInjMld_Frame.label>先进塑料注射成型机(建造中)</RimPlas_AdvInjMld_Frame.label>
+  <RimPlas_AdvInjMld_Frame.description>可塑造复杂原材的设备。</RimPlas_AdvInjMld_Frame.description>
+
+
+  <!-- Mech Breaker -->
+
+  <RimPlas_MechBreaker.label>机械体拆解台</RimPlas_MechBreaker.label>
+  <RimPlas_MechBreaker.description>拆解机械体的各个部件并提取机械液。</RimPlas_MechBreaker.description>
+  <RimPlas_MechBreaker_Blueprint.label>机械体拆解台(蓝图)</RimPlas_MechBreaker_Blueprint.label>
+  <RimPlas_MechBreaker_Blueprint_Install.label>机械体拆解台(蓝图)</RimPlas_MechBreaker_Blueprint_Install.label>
+  <RimPlas_MechBreaker_Frame.label>机械体拆解台(建造中)</RimPlas_MechBreaker_Frame.label>
+  <RimPlas_MechBreaker_Frame.description>拆解机械体的各个部件并提取机械液。</RimPlas_MechBreaker_Frame.description>
+
+
+</LanguageData>

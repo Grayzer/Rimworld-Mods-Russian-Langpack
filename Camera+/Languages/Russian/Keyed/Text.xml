@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Zoom>Увеличить</Zoom>
+	<Near>Близко</Near>
+	<Far>Далеко</Far>
+	<ZoomedInPercent>Макс коэф увеличения</ZoomedInPercent>
+	<ZoomedOutPercent>Макс коэф уменьшения</ZoomedOutPercent>
+	<Exponentiality>Экспоненциальное масштабирование:</Exponentiality>
+	<SoundNearness>Приблизить местные звуки</SoundNearness>
+	<HotKeys>Горячие клавиши:</HotKeys>
+	<SettingsKey>Настройки Camera+</SettingsKey>
+	<LoadModifier>Загрузить просмотр</LoadModifier>
+	<SaveModifier>Сохранить просмотр</SaveModifier>
+	<DollyPercentLabel>Скорость прокрутки</DollyPercentLabel>
+	<ScreenEdgeDollyFrictionLabel>Коэф краевой прокрутки</ScreenEdgeDollyFrictionLabel>
+	<HideNamesWhenZoomedOut>Скрыть метки имени при уменьшении</HideNamesWhenZoomedOut>
+	<Never>никогда</Never>
+	<Pixel>пиксель</Pixel>
+	<HidePawnLabelBelow>Скрыть метки пешки ниже: </HidePawnLabelBelow>
+	<HideThingLabelBelow>Скрыть метки стека ниже: </HideThingLabelBelow>
+	<ShowMarkerBelow>Показать как маркер ниже: </ShowMarkerBelow>
+	<IncludeAnimals>Животные имеют одинаковый маркер</IncludeAnimals>
+	<AnimalsDifferent>Животные имеют различный маркер</AnimalsDifferent>
+	<HideAnimals>Животные не имеют маркеров</HideAnimals>
+	<ZoomToMouse>Увеличить на мышь</ZoomToMouse>
+	<KeyLeftShift>Left Shift</KeyLeftShift>
+	<KeyLeftAlt>Left Alt</KeyLeftAlt>
+	<KeyLeftControl>Left Ctrl</KeyLeftControl>
+	<KeyLeftCommand>Left Cmd</KeyLeftCommand>
+	<KeyLeftWindows>Left Win</KeyLeftWindows>
+	<KeyRightShift>Right Shift</KeyRightShift>
+	<KeyRightAlt>Right Alt</KeyRightAlt>
+	<KeyRightControl>Right Ctrl</KeyRightControl>
+	<KeyRightCommand>Right Cmd</KeyRightCommand>
+	<KeyRightWindows>Right Win</KeyRightWindows>
+</LanguageData>

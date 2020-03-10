@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimRayon -->
+
+  <RimRayon.label>人造纤维</RimRayon.label>
+  <RimRayon.description>一种早期的半合成纤维。由纤维素(木头)和一种有机碱(化合燃料)制取而来。</RimRayon.description>
+  <RimRayon.stuffProps.stuffAdjective>人造纤维</RimRayon.stuffProps.stuffAdjective>
+
+
+  <!-- Synth Base -->
+
+  <Synthbase.label>人造碱基</Synthbase.label>
+  <Synthbase.description>一种人工合成的前体化学品。其自身没有什么用处，是合成其他化合物的原材。</Synthbase.description>
+
+
+  <!-- DevilSynth -->
+
+  <RimPlasDevilSynth.label>人造魔鬼布</RimPlasDevilSynth.label>
+  <RimPlasDevilSynth.description>人工合成的魔鬼布。改良后的魔鬼布。</RimPlasDevilSynth.description>
+  <RimPlasDevilSynth.stuffProps.stuffAdjective>人造魔鬼布</RimPlasDevilSynth.stuffProps.stuffAdjective>
+
+
+  <!-- Plasteel Wool -->
+
+  <RimPlas_Plasteel_Wool.label>玻璃钢毛</RimPlas_Plasteel_Wool.label>
+  <RimPlas_Plasteel_Wool.description>一种人造纤维，是玻璃钢的衍生物。</RimPlas_Plasteel_Wool.description>
+  <RimPlas_Plasteel_Wool.stuffProps.stuffAdjective>玻璃钢毛</RimPlas_Plasteel_Wool.stuffProps.stuffAdjective>
+
+
+</LanguageData>

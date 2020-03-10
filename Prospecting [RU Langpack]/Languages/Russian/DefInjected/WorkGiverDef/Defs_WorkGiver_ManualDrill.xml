@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PrsManualDrillProspect.label>Разведка (Ручное бурение)</PrsManualDrillProspect.label>
+  <PrsManualDrillProspect.verb>разведка</PrsManualDrillProspect.verb>
+  <PrsManualDrillProspect.gerund>разведывает</PrsManualDrillProspect.gerund>
+
+  <PrsManualDrillMine.label>Бурить (Ручное бурение)</PrsManualDrillMine.label>
+  <PrsManualDrillMine.verb>бурить</PrsManualDrillMine.verb>
+  <PrsManualDrillMine.gerund>бурит</PrsManualDrillMine.gerund>
+
+
+</LanguageData>

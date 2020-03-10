@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular -->
+
+  <SSVape_Regular_Thought.stages.0.label>大麻电子烟亢奋</SSVape_Regular_Thought.stages.0.label>
+  <SSVape_Regular_Thought.stages.0.description>哦伙计，我爱死这感觉了</SSVape_Regular_Thought.stages.0.description>
+
+
+  <!-- Fruity -->
+
+  <SSVape_Fruity_Thought.stages.0.label>热情果味电子烟</SSVape_Fruity_Thought.stages.0.label>
+  <SSVape_Fruity_Thought.stages.0.description>哦伙计，我爱死这感觉了</SSVape_Fruity_Thought.stages.0.description>
+
+
+  <!-- Menthol -->
+
+  <SSVape_Menthol_Thought.stages.0.label>冰爽薄荷电子烟</SSVape_Menthol_Thought.stages.0.label>
+  <SSVape_Menthol_Thought.stages.0.description>哦伙计，我爱死这感觉了</SSVape_Menthol_Thought.stages.0.description>
+
+
+</LanguageData>

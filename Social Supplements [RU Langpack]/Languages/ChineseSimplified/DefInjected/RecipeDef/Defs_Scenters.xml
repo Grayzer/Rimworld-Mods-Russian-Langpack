@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeSSScenterNeutral.label>制作香氛 (中性)</MakeSSScenterNeutral.label>
+  <MakeSSScenterNeutral.description>制作2支香氛 (中性).</MakeSSScenterNeutral.description>
+  <MakeSSScenterNeutral.jobString>正在制作香氛.</MakeSSScenterNeutral.jobString>
+
+  <MakeBulkSSScenterNeutral.label>批量制作香氛 (中性) </MakeBulkSSScenterNeutral.label>
+  <MakeBulkSSScenterNeutral.description>制作10支香氛 (中性).</MakeBulkSSScenterNeutral.description>
+  <MakeBulkSSScenterNeutral.jobString>正在批量制作香氛.</MakeBulkSSScenterNeutral.jobString>
+
+
+</LanguageData>

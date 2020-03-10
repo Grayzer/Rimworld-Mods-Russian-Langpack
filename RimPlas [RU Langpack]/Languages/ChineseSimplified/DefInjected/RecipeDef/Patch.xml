@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Things of Patch -->
+	<!-- RimThermoPlas Door -->
+	<RTPDoorSimple.label>导热橡胶门</RTPDoorSimple.label>
+	<RTPDoorSimple.description>分隔房间的隔热门。只能手动开关，会减慢人的速度。到底有多慢取决于门的材质。</RTPDoorSimple.description>
+	<RTPDoorSimple_Blueprint.label>导热橡胶门(蓝图)</RTPDoorSimple_Blueprint.label>
+	<RTPDoorSimple_Frame.label>导热橡胶门(建造中)</RTPDoorSimple_Frame.label>
+	<RTPDoorSimple_Frame.description>分隔房间的隔热门。只能手动开关，会减慢人的速度。到底有多慢取决于门的材质。</RTPDoorSimple_Frame.description>
+
+	<!-- RimThermoPlas Autodoor -->
+	<RTPAutodoor.label>导热橡胶自动门</RTPAutodoor.label>
+	<RTPAutodoor.description>分隔房间。电力运转，人穿过门不会减速。因该门使用了隔热材料，具有降低热传递的特性。</RTPAutodoor.description>
+	<RTPAutodoor_Blueprint.label>导热橡胶自动门(蓝图)</RTPAutodoor_Blueprint.label>
+	<RTPAutodoor_Frame.label>导热橡胶自动门(建造中)</RTPAutodoor_Frame.label>
+	<RTPAutodoor_Frame.description>分隔房间。电力运转，人穿过门不会减速。因该门使用了隔热材料，具有降低热传递的特性。</RTPAutodoor_Frame.description>
+
+	<!-- RTP Insulated wall -->
+	<RTPInsulatedWall.label>导热橡胶隔热墙</RTPInsulatedWall.label>
+	<RTPInsulatedWall.description>一面无法通过的墙。可以支撑起屋顶。因使用了导热橡胶，因此具备隔热特性。</RTPInsulatedWall.description>
+	<RTPInsulatedWall_Blueprint.label>导热橡胶隔热墙(蓝图)</RTPInsulatedWall_Blueprint.label>
+	<RTPInsulatedWall_Frame.label>导热橡胶隔热墙(建造中)</RTPInsulatedWall_Frame.label>
+	<RTPInsulatedWall_Frame.description>一面无法通过的墙。可以支撑起屋顶。因使用了导热橡胶，因此具备隔热特性。</RTPInsulatedWall_Frame.description>
+
+	<!-- RimThermoPlas Insulator -->
+	<RimThermoPlas_Insulator.label>导热橡胶隔热板</RimThermoPlas_Insulator.label>
+	<RimThermoPlas_Insulator.description>高效隔热层。</RimThermoPlas_Insulator.description>
+	<RimThermoPlas_Insulator_Blueprint.label>导热橡胶隔热板(蓝图)</RimThermoPlas_Insulator_Blueprint.label>
+	<RimThermoPlas_Insulator_Blueprint_Install.label>导热橡胶隔热板(蓝图)</RimThermoPlas_Insulator_Blueprint_Install.label>
+	<RimThermoPlas_Insulator_Frame.label>导热橡胶隔热板(建造中)</RimThermoPlas_Insulator_Frame.label>
+	<RimThermoPlas_Insulator_Frame.description>高效隔热层。</RimThermoPlas_Insulator_Frame.description>
+
+	<!-- Mould RimThermoPlas Insulator -->
+	<RCP_RimThermoPlas_Insulator.label>注模导热橡胶隔热板</RCP_RimThermoPlas_Insulator.label>
+	<RCP_RimThermoPlas_Insulator.description>注模导热橡胶隔热板。</RCP_RimThermoPlas_Insulator.description>
+	<RCP_RimThermoPlas_Insulator.jobString>正在注模导热橡胶隔热板。</RCP_RimThermoPlas_Insulator.jobString>
+
+	<!-- RimThermoPlas_Convector -->
+	<RimThermoPlas_Convector.label>导热橡胶加热器</RimThermoPlas_Convector.label>
+	<RimThermoPlas_Convector.description>高效隔热层，因使用了导热橡胶，因此可利用其特性与化合燃料实现放热效果，能充当加热器。</RimThermoPlas_Convector.description>
+	<RimThermoPlas_Convector_Blueprint.label>导热橡胶加热器(蓝图)</RimThermoPlas_Convector_Blueprint.label>
+	<RimThermoPlas_Convector_Blueprint_Install.label>导热橡胶加热器(蓝图)</RimThermoPlas_Convector_Blueprint_Install.label>
+	<RimThermoPlas_Convector_Frame.label>导热橡胶加热器(建造中)</RimThermoPlas_Convector_Frame.label>
+	<RimThermoPlas_Convector_Frame.description>高效隔热层，因使用了导热橡胶，因此可利用其特性与化合燃料实现放热效果，能充当加热器。</RimThermoPlas_Convector_Frame.description>
+
+	<!-- Mould RimThermoPlas Convector -->
+	<RCP_RimThermoPlas_Convector.label>注模导热橡胶加热器</RCP_RimThermoPlas_Convector.label>
+	<RCP_RimThermoPlas_Convector.description>注模导热橡胶加热器。</RCP_RimThermoPlas_Convector.description>
+	<RCP_RimThermoPlas_Convector.jobString>正在注模导热橡胶加热器。</RCP_RimThermoPlas_Convector.jobString>
+</LanguageData>

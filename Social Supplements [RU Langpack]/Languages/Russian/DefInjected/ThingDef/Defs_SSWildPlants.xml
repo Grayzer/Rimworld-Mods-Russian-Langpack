@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <Plant_SSMorelMush.label>Гриб Сморчок</Plant_SSMorelMush.label>
+  <Plant_SSMorelMush.description>Этот нежный гриб можно найти в дикой природе или вырастить на гидропонике.</Plant_SSMorelMush.description>
+
+
+  <!-- Raw Material -->
+
+  <SSMorel.label>Сморчок</SSMorel.label>
+  <SSMorel.description>Сырые грибы сморчка, они имеют характерный вкус, высоко ценимый гурманами и выступают в качестве заменителя мяса.</SSMorel.description>
+
+
+</LanguageData>

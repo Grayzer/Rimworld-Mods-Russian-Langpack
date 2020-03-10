@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Security Door -->
+
+  <RPSecurityDoor.label>精神安检门</RPSecurityDoor.label>
+  <RPSecurityDoor.description>分隔房间。电力运转，人穿过门不会减速。该门具备额外的生物监测装置，当侦测到殖民者处于精神崩溃时，进行强行控制。</RPSecurityDoor.description>
+  <RPSecurityDoor_Blueprint.label>精神安检门(蓝图)</RPSecurityDoor_Blueprint.label>
+  <RPSecurityDoor_Frame.label>精神安检门(建造中)</RPSecurityDoor_Frame.label>
+  <RPSecurityDoor_Frame.description>分隔房间。电力运转，人穿过门不会减速。该门具备额外的生物监测装置，当侦测到殖民者处于精神崩溃时，进行强行控制。</RPSecurityDoor_Frame.description>
+
+
+</LanguageData>

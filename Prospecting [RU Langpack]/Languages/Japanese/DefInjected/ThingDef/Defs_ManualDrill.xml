@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PrsManualDrill.label>手動 ドリルマシン</PrsManualDrill.label>
+  <PrsManualDrill.description>地表下から浅い深さの鉱物資源を採掘するための手動式の掘削装置（風力を利用）です。最初に鉱物資源を試掘したり予測するのに使用でき再配置可能です。</PrsManualDrill.description>
+  <Blueprint_PrsManualDrill.label>手動ドリルマシン(設計)</Blueprint_PrsManualDrill.label>
+  <Blueprint_Install_PrsManualDrill.label>手動ドリルマシン(移動先)</Blueprint_Install_PrsManualDrill.label>
+  <Frame_PrsManualDrill.label>手動ドリルマシン(施工)</Frame_PrsManualDrill.label>
+  <Frame_PrsManualDrill.description>地表下から浅い深さの鉱物資源を採掘するための手動式の掘削装置（風力を利用）です。最初に鉱物資源を試掘したり予測するのに使用でき再配置可能です。</Frame_PrsManualDrill.description>
+
+</LanguageData>

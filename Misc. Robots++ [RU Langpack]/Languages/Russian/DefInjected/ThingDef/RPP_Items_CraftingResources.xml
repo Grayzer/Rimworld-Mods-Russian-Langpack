@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+
+	<RPP_Component.label>Робототехнический компонент</RPP_Component.label>
+	<RPP_Component.description>Робототехнические компоненты используются в качестве логических схем в роботизированной матрице.</RPP_Component.description>
+
+	<RPP_Matrix_I.label>Роботизированная Матрица (Простая)</RPP_Matrix_I.label>
+	<RPP_Matrix_I.description>Роботизированная логическая матрица. Разработана с простым набором инструкций, позволяющим выполнять подходящие задачи на уровне любительского класса.</RPP_Matrix_I.description>
+
+	<RPP_Matrix_II.label>Роботизированная Матрица (Базовая)</RPP_Matrix_II.label>
+	<RPP_Matrix_II.description>Роботизированная логическая матрица. Разработана с базовым набором инструкций, позволяющим выполнять подходящие задачи на уровне профессионального класса.</RPP_Matrix_II.description>
+
+	<RPP_Matrix_III.label>Роботизированная Матрица (Сложная)</RPP_Matrix_III.label>
+	<RPP_Matrix_III.description>Роботизированная логическая матрица. Разработана со сложным набором инструкций, позволяющим выполнять подходящие задачи на уровне мастерского класса.</RPP_Matrix_III.description>
+
+	<RPP_Matrix_IV.label>Роботизированная Матрица (Продвинутая)</RPP_Matrix_IV.label>
+	<RPP_Matrix_IV.description>Роботизированная логическая матрица. Разработана с продвинутым набором инструкций, позволяющим выполнять подходящие задачи на уровне планетарного класса.</RPP_Matrix_IV.description>
+
+	<RPP_Matrix_V.label>Роботизированная Матрица (Анти-Логика)</RPP_Matrix_V.label>
+	<RPP_Matrix_V.description>Роботизированная Анти-Логик матрица. Способна выполнять легендарные задачи. (NP=P)</RPP_Matrix_V.description>
+
+</LanguageData>

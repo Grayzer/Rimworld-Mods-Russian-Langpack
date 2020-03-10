@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spicy Meals -->
+
+  <SSMealSurvivalPackSpicy.label>包装生存食品（香辣味）</SSMealSurvivalPackSpicy.label>
+  <SSMealSurvivalPackSpicy.description>一份加入了秘制辣酱的包装生存食品, 为了严酷环境下的生存而生产. 虽然它不会腐坏，但放在外面还是会慢慢老化. 外出旅行的绝佳选择.</SSMealSurvivalPackSpicy.description>
+
+  <SSMealTravelPackSpicy.label>spicy packaged travel meal</SSMealTravelPackSpicy.label>
+  <SSMealTravelPackSpicy.description>A deluxe-quality packaged meal combined with hot sauce, manufactured for use while traveling. 虽然它不会腐坏，但放在外面还是会慢慢老化. 理想的旅行食品.</SSMealTravelPackSpicy.description>
+
+  <SSMealSimpleSpicy.label>简易川菜</SSMealSimpleSpicy.label>
+  <SSMealSimpleSpicy.description>一份加了辣酱的简单食品，但是好吃.</SSMealSimpleSpicy.description>
+
+  <SSMealFineSpicy.label>家常川菜</SSMealFineSpicy.label>
+  <SSMealFineSpicy.description>妈妈有时会在家做的简单川菜，很好吃！</SSMealFineSpicy.description>
+
+  <SSMealLavishSpicy.label>大师川菜</SSMealLavishSpicy.label>
+  <SSMealLavishSpicy.description>玉芝兰荣誉出品,大师亲授秘方，滋养你的身体和灵魂.</SSMealLavishSpicy.description>
+
+
+  <!-- Spicy Pemmican -->
+
+  <SSPemmicanSpicy.label>香辣干肉饼</SSPemmicanSpicy.label>
+  <SSPemmicanSpicy.description>在由动物脂肪和一些蔬菜制成的干肉饼里加入辣酱. 吃起来味道一般，但并不难吃，还能感觉到秘制辣酱的火热刺激. 就算不冷藏也能保存很长时间. 外出旅行的绝佳选择.</SSPemmicanSpicy.description>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CarboPitch -->
+
+  <MakeCarboPitch.label>сделать Смолу(100)</MakeCarboPitch.label>
+  <MakeCarboPitch.description>Сделать Смолу.</MakeCarboPitch.description>
+  <MakeCarboPitch.jobString>Делает Смолу.</MakeCarboPitch.jobString>
+
+
+  <!-- CarboFibre -->
+
+  <RCP_CarboFibre.label>формовать Углеволокно(100)</RCP_CarboFibre.label>
+  <RCP_CarboFibre.description>Формовать Углеволокно.</RCP_CarboFibre.description>
+  <RCP_CarboFibre.jobString>Формует Углеволокно.</RCP_CarboFibre.jobString>
+
+
+  <!-- CarboSynth -->
+
+  <RimPlasMakeCarboSynth.label>формовать Углеткань(25)</RimPlasMakeCarboSynth.label>
+  <RimPlasMakeCarboSynth.description>Формовать Углеткань.</RimPlasMakeCarboSynth.description>
+  <RimPlasMakeCarboSynth.jobString>Формует Углеткань.</RimPlasMakeCarboSynth.jobString>
+
+
+  <!-- Graphene -->
+
+  <RCP_Graphene.label>формовать Графен(25)</RCP_Graphene.label>
+  <RCP_Graphene.description>Формовать Графен.</RCP_Graphene.description>
+  <RCP_Graphene.jobString>Формует Графен.</RCP_Graphene.jobString>
+
+  <RCP_BulkGraphene.label>формовать Графен(100)</RCP_BulkGraphene.label>
+  <RCP_BulkGraphene.description>Формовать Графен.</RCP_BulkGraphene.description>
+  <RCP_BulkGraphene.jobString>Формует Графен.</RCP_BulkGraphene.jobString>
+
+
+  <!-- CarboPlasteel -->
+
+  <RCP_CarboPlasteel.label>сделать Углепласталь(25)</RCP_CarboPlasteel.label>
+  <RCP_CarboPlasteel.description>Сделать Углепласталь.</RCP_CarboPlasteel.description>
+  <RCP_CarboPlasteel.jobString>Делает Углепласталь.</RCP_CarboPlasteel.jobString>
+
+  <RCP_BulkCarboPlasteel.label>сделать Углепласталь(50)</RCP_BulkCarboPlasteel.label>
+  <RCP_BulkCarboPlasteel.description>Сделать Углепласталь.</RCP_BulkCarboPlasteel.description>
+  <RCP_BulkCarboPlasteel.jobString>Делает Углепласталь.</RCP_BulkCarboPlasteel.jobString>
+
+
+</LanguageData>

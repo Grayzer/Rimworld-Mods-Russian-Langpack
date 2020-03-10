@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Empty -->
+
+  <SSVaperEmpty.label>Вейп (Пустой)</SSVaperEmpty.label>
+  <SSVaperEmpty.description>Устройство, позволяющее вейпить дымолист с целым рядом применений, хотя этот элемент пуст. Это немного менее вредно, чем косяк дымолиста. Эффекты длятся около половины дня.</SSVaperEmpty.description>
+
+
+  <!-- Regular -->
+
+  <SSVaperRegular.label>Вейп (Обычный)</SSVaperRegular.label>
+  <SSVaperRegular.description>Устройство, позволяющее вейпить дымолист с целым рядом применений. Это немного менее вредно, чем косяк дымолиста. Эффекты длятся около половины дня.</SSVaperRegular.description>
+  <SSVaperRegular.comps.1.useLabel>Использовать Вейп (Обычный)</SSVaperRegular.comps.1.useLabel>
+
+  <SSVaperRefillRegular.label>Вейп-заправка (Обычный)</SSVaperRefillRegular.label>
+  <SSVaperRefillRegular.description>Картридж для заправки вейперов. Этот картридж заполнен обычной жидкостью вейпа.</SSVaperRefillRegular.description>
+
+
+  <!-- Fruity -->
+
+  <SSVaperFruity.label>Вейп (Фруктовый)</SSVaperFruity.label>
+  <SSVaperFruity.description>Устройство, позволяющее вейпить дымолист с целым рядом применений. Это немного менее вредно, чем косяк дымолиста. Этот вейп обладает характерным фруктовым ароматом. Эффекты длятся около половины дня.</SSVaperFruity.description>
+  <SSVaperFruity.comps.1.useLabel>Использовать Вейп (Фруктовый)</SSVaperFruity.comps.1.useLabel>
+
+  <SSVaperRefillFruity.label>Вейп-заправка (Фруктовый)</SSVaperRefillFruity.label>
+  <SSVaperRefillFruity.description>Картридж для заправки вейперов. Этот картридж заполнен фруктовой жидкостью вейпа.</SSVaperRefillFruity.description>
+
+
+  <!-- Menthol -->
+
+  <SSVaperMenthol.label>Вейп (Ментол)</SSVaperMenthol.label>
+  <SSVaperMenthol.description>Устройство, позволяющее вейпить дымолист с целым рядом применений. Это немного менее вредно, чем косяк дымолиста. Этот вейп обладает характерным мятным ароматом. Эффекты длятся около половины дня.</SSVaperMenthol.description>
+  <SSVaperMenthol.comps.1.useLabel>Использовать Вейп (Ментол)</SSVaperMenthol.comps.1.useLabel>
+
+  <SSVaperRefillMenthol.label>Вейп-заправка (Ментол)</SSVaperRefillMenthol.label>
+  <SSVaperRefillMenthol.description>Картридж для заправки вейперов. Этот картридж заполнен ментоловой жидкостью вейпа.</SSVaperRefillMenthol.description>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoolHeater.label>multi-stage heater</CoolHeater.label>
+  <CoolHeater.description>A multi-stage heater that can increase its efficiency by adding power.
+And can switch to cooling mode when the target temperature is lower than the ambient temperature.</CoolHeater.description>
+
+
+</LanguageData>

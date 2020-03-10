@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimRayon -->
+
+  <RimRayon.label>РимШелк</RimRayon.label>
+  <RimRayon.description>Легкое полусинтетическое волокно. Изготавливается из целлюлозы (дерево) и органической основы (химтопливо).</RimRayon.description>
+
+
+  <!-- Synth Base -->
+
+  <Synthbase.label>СинтОснова</Synthbase.label>
+  <Synthbase.description>Синтетический химический прекурсор. Хотя сам по себе он бесполезен, он используется при производстве других синтетических материалов.</Synthbase.description>
+
+
+  <!-- DevilSynth -->
+
+  <RimPlasDevilSynth.label>ДьявоСинт</RimPlasDevilSynth.label>
+  <RimPlasDevilSynth.description>Синтетическая версия Дьявоткани. Улучшение базового материала.</RimPlasDevilSynth.description>
+
+
+  <!-- Plasteel Wool -->
+
+  <RimPlas_Plasteel_Wool.label>Пласталевая шерсть</RimPlas_Plasteel_Wool.label>
+  <RimPlas_Plasteel_Wool.description>Синтетические волокна, полученные из пластали.</RimPlas_Plasteel_Wool.description>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SEPD_ModName>Планетарный бур</SEPD_ModName>
+
+	<!-- Settings -->
+	<SEPD_SettingsCategory>Планетарный бур</SEPD_SettingsCategory>
+	<SEPD_DrillResearchCost>стоимость исследований</SEPD_DrillResearchCost>
+	<SEPD_WorkAmount>объем работы</SEPD_WorkAmount>
+	<SEPD_YieldAmount>сумма дохода</SEPD_YieldAmount>
+	<SEPD_Drillable>разбуриваемый</SEPD_Drillable>
+	<SEPD_RestartRequiredDrillable>Изменение любой из проверок "Разбуриваемый" требует полного перезапуска игры.</SEPD_RestartRequiredDrillable>
+
+	<SEPD_Sandstone>Песчанник</SEPD_Sandstone>
+	<SEPD_Granite>Гранит</SEPD_Granite>
+	<SEPD_Limestone>Известняк</SEPD_Limestone>
+	<SEPD_Slate>Шифер</SEPD_Slate>
+	<SEPD_Marble>Мрамор</SEPD_Marble>
+
+	<SEPD_Steel>Сталь</SEPD_Steel>
+	<SEPD_Plasteel>Пласталь</SEPD_Plasteel>
+	<SEPD_Uranium>Уран</SEPD_Uranium>
+	<SEPD_Jade>Нефрит</SEPD_Jade>
+	<SEPD_Silver>Серебро</SEPD_Silver>
+	<SEPD_Gold>Золото</SEPD_Gold>
+	<SEPD_ComponentIndustrial>Компоненты</SEPD_ComponentIndustrial>
+	<SEPD_ComponentSpacer>Продвинутые комплненты</SEPD_ComponentSpacer>
+
+	<SEPD_Titanium>Титан</SEPD_Titanium>
+
+</LanguageData>

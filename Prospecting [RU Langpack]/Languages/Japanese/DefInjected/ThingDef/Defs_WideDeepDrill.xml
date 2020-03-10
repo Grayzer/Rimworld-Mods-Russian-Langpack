@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PrsWideDeepDrill.label>ワイドボーイ</PrsWideDeepDrill.label>
+  <PrsWideDeepDrill.description>「ワイドボーイ」は、地下深くから鉱物資源を採掘するための深部地殻掘削装置です。地殻深部スキャナーを使って、資源を探し出します。資源が存在しない場合、このドリルは石の塊を掘り出せます。自由に移動して再配置可能です。「ワイドボーイ」は、通常の深部ドリルマシンよりも掘る時間は遅いですが、より広い領域を掘削できます。</PrsWideDeepDrill.description>
+  <Blueprint_PrsWideDeepDrill.label>ワイドボーイ(設計)</Blueprint_PrsWideDeepDrill.label>
+  <Blueprint_Install_PrsWideDeepDrill.label>ワイドボーイ(移動先)</Blueprint_Install_PrsWideDeepDrill.label>
+  <Frame_PrsWideDeepDrill.label>ワイドボーイ(施工)</Frame_PrsWideDeepDrill.label>
+  <Frame_PrsWideDeepDrill.description>「ワイドボーイ」は、地下深くから鉱物資源を採掘するための深部地殻掘削装置です。地殻深部スキャナーを使って、資源を探し出します。資源が存在しない場合、このドリルは石の塊を掘り出せます。自由に移動して再配置可能です。「ワイドボーイ」は、通常の深部ドリルマシンよりも掘る時間は遅いですが、より広い領域を掘削できます。</Frame_PrsWideDeepDrill.description>
+
+</LanguageData>

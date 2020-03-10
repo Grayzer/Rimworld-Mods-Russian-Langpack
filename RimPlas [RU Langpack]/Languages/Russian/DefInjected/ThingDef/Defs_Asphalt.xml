@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Asphalt -->
+
+  <RimPlas_Asphalt.label>Асфальт</RimPlas_Asphalt.label>
+  <RimPlas_Asphalt.description>Строительный материал, обычно изготавливаемый из наполнителей и смолы, с которыми легко работать.</RimPlas_Asphalt.description>
+  <RimPlas_Asphalt.stuffProps.stuffAdjective>асфальт</RimPlas_Asphalt.stuffProps.stuffAdjective>
+
+
+</LanguageData>

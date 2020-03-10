@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular -->
+
+  <SSVape_Regular_Thought.stages.0.label>действие дымолистного вейпа</SSVape_Regular_Thought.stages.0.label>
+  <SSVape_Regular_Thought.stages.0.description>Я, словно, камень, чувак.</SSVape_Regular_Thought.stages.0.description>
+
+
+  <!-- Fruity -->
+
+  <SSVape_Fruity_Thought.stages.0.label>фруктовый дымолистный вейп</SSVape_Fruity_Thought.stages.0.label>
+  <SSVape_Fruity_Thought.stages.0.description>Я, словно, камень, чувак.</SSVape_Fruity_Thought.stages.0.description>
+
+
+  <!-- Menthol -->
+
+  <SSVape_Menthol_Thought.stages.0.label>ментоловый дымолистный вейп</SSVape_Menthol_Thought.stages.0.label>
+  <SSVape_Menthol_Thought.stages.0.description>Я, словно, камень, чувак.</SSVape_Menthol_Thought.stages.0.description>
+
+
+</LanguageData>

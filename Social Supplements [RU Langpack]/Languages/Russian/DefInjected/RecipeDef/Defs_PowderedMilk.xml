@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeSSMilkPowder.label>Сделать Порошковое молоко(50)</MakeSSMilkPowder.label>
+  <MakeSSMilkPowder.description>Сделать 50 порошкового молока.</MakeSSMilkPowder.description>
+  <MakeSSMilkPowder.jobString>Делает Порошковое молоко.</MakeSSMilkPowder.jobString>
+
+  <MakeMilkFromSSMilkPowder.label>Сделать молоко из порошкового молока(50).</MakeMilkFromSSMilkPowder.label>
+  <MakeMilkFromSSMilkPowder.description>Сделать 50 молока.</MakeMilkFromSSMilkPowder.description>
+  <MakeMilkFromSSMilkPowder.jobString>Востанавливает молоко.</MakeMilkFromSSMilkPowder.jobString>
+
+
+</LanguageData>

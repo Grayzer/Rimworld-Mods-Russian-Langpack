@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular -->
+
+  <SSVape_Regular_High.label>电子烟（原味）</SSVape_Regular_High.label>
+  <SSVape_Regular_High.labelNoun>电子烟亢奋</SSVape_Regular_High.labelNoun>
+
+
+  <!-- Fruity -->
+
+  <SSVape_Fruity_High.label>电子烟（果味）</SSVape_Fruity_High.label>
+  <SSVape_Fruity_High.labelNoun>电子烟亢奋</SSVape_Fruity_High.labelNoun>
+
+
+  <!-- Menthol -->
+
+  <SSVape_Menthol_High.label>电子烟（薄荷）</SSVape_Menthol_High.label>
+  <SSVape_Menthol_High.labelNoun>电子烟亢奋</SSVape_Menthol_High.labelNoun>
+
+
+</LanguageData>

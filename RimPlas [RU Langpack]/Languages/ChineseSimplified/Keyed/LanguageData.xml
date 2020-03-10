@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings -->
+
+  <RimPlas.Name>边缘塑胶</RimPlas.Name>
+
+  <RimPlas.ResPct>研究相对成本(%):</RimPlas.ResPct>
+  <RimPlas.ResTip>提示:更改的选项在游戏重启后才生效。</RimPlas.ResTip>
+  <RimPlas.ResWarn>(警告:提高成本百分比(%)意味着使用之前比例的已完研究项目将变为未完成状态。)</RimPlas.ResWarn>
+
+  <RimPlas.GVentMin>石墨烯通风孔允许通气最低温度(摄氏度) [默认值:10]:</RimPlas.GVentMin>
+  <RimPlas.GVentMax>石墨烯通风孔允许通气最高温度(摄氏度) [默认值:30]:</RimPlas.GVentMax>
+
+  <!-- Content -->
+
+  <RimPlas.Fixed>通气温度</RimPlas.Fixed>
+  <RimPlas.FixedDesc>通气:(设定的温度范围:{0}C - {1}C)</RimPlas.FixedDesc>
+
+  <RimPlas.Boost>高效模式</RimPlas.Boost>
+  <RimPlas.BoostDesc>提升能耗和温控效果。</RimPlas.BoostDesc>
+
+</LanguageData>

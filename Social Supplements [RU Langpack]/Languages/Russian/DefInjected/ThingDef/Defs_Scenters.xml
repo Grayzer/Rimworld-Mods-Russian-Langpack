@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neutral -->
+
+  <SSScenterNeutral.label>Аромат (Универсальный)</SSScenterNeutral.label>
+  <SSScenterNeutral.description>Привлекательный запах, подходящий для всех. Повысит мнение других о вас.</SSScenterNeutral.description>
+  <SSScenterNeutral.ingestible.ingestCommandString>Применить {0}</SSScenterNeutral.ingestible.ingestCommandString>
+  <SSScenterNeutral.ingestible.ingestReportString>Применяет {0}.</SSScenterNeutral.ingestible.ingestReportString>
+
+
+</LanguageData>

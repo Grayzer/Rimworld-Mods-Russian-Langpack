@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimPlas.label>РимПлас</RimPlas.label>
+  <RimPlas.description>Предоставляет возможность использовать новые материалы.</RimPlas.description>
+
+  <RimPlas_InjMld.label>Литье под давлением</RimPlas_InjMld.label>
+  <RimPlas_InjMld.description>Предоставляет возможность изготовления мебели с использованием литья под давлением.</RimPlas_InjMld.description>
+
+  <RimPlas_AdvInjMld.label>Усовершенствованное литье под давлением</RimPlas_AdvInjMld.label>
+  <RimPlas_AdvInjMld.description>Предоставляет возможность изготовления сложных материалов методом литья под давлением.</RimPlas_AdvInjMld.description>
+
+  <RimPlas_Components.label>Конструкция РимПлас Компонентов</RimPlas_Components.label>
+  <RimPlas_Components.description>Предоставляет возможность создавать РимПлас версии Компонентов.</RimPlas_Components.description>
+
+  <RimPlas_AdvComponents.label>Конструкция Продвинутых РимПлас Компонентов</RimPlas_AdvComponents.label>
+  <RimPlas_AdvComponents.description>Предоставляет возможность создавать РимПлас версии Продвинутых компонентов.</RimPlas_AdvComponents.description>
+
+  <RimPlas_MultiAnalyzer.label>Конструкция РимПлас Мультианализатора</RimPlas_MultiAnalyzer.label>
+  <RimPlas_MultiAnalyzer.description>Предоставляет возможность сделать РимПлас версию мультианализатора.</RimPlas_MultiAnalyzer.description>
+
+
+</LanguageData>

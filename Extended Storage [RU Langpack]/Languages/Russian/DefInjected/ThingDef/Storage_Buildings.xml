@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Storage -->
+
+  <Storage_Basket.label>Продуктовая корзина</Storage_Basket.label>
+  <Storage_Basket.description>Носильщики несут сюда сырые и растительные продукты для хранения.</Storage_Basket.description>
+
+  <Storage_FabricHamper.label>Тканевая корзина</Storage_FabricHamper.label>
+  <Storage_FabricHamper.description>Носильщики несут сюда текстиль для хранения.</Storage_FabricHamper.description>
+
+  <Storage_HazMatContainer.label>ОпМат контейнер</Storage_HazMatContainer.label>
+  <Storage_HazMatContainer.description>Носильщики несут сюда радиоактивные материалы для хранения.</Storage_HazMatContainer.description>
+
+  <Storage_Locker.label>Вешалка для одежды</Storage_Locker.label>
+  <Storage_Locker.description>Носильщики несут сюда одежду для хранения.</Storage_Locker.description>
+
+  <Storage_MedicineCabinet.label>Медицинский шкафчик</Storage_MedicineCabinet.label>
+  <Storage_MedicineCabinet.description>Носильщики несут сюда лекарства и наркотики для хранения.</Storage_MedicineCabinet.description>
+
+  <Storage_Skip.label>Контейнер</Storage_Skip.label>
+  <Storage_Skip.description>Носильщики несут сюда материалы для хранения. Держит больше, чем поддон, но не так аккуратно.</Storage_Skip.description>
+
+  <Storage_TrayRack.label>Лоток</Storage_TrayRack.label>
+  <Storage_TrayRack.description>Носильщики несут сюда еду и угощения для хранения.</Storage_TrayRack.description>
+
+  <Storage_WoodenPallet.label>Поддон</Storage_WoodenPallet.label>
+  <Storage_WoodenPallet.description>Носильщики несут сюда материалы для хранения.</Storage_WoodenPallet.description>
+
+
+</LanguageData>

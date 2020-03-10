@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Production_Component.label>сделать робототехнический компонент</RPP_Production_Component.label>
+	<RPP_Production_Component.description>Создание Робототехнических компонентов, которые используются в качестве логических схем в Роботизированной матрице.</RPP_Production_Component.description>
+
+	<RPP_Production_Matrix_I.label>сделать роботизированная матрица (Простая)</RPP_Production_Matrix_I.label>
+	<RPP_Production_Matrix_I.description>Создать роботизированную логическую матрицу для создания робота с навыками любительского класса (Уровень 1).</RPP_Production_Matrix_I.description>
+	<RPP_Production_Matrix_II.label>сделать роботизированная матрица (Базовая)</RPP_Production_Matrix_II.label>
+	<RPP_Production_Matrix_II.description>Создать роботизированную логическую матрицу для создания робота с навыками профессионального класса (Уровень 2).</RPP_Production_Matrix_II.description>
+	<RPP_Production_Matrix_III.label>сделать роботизированная матрица (Сложная)</RPP_Production_Matrix_III.label>
+	<RPP_Production_Matrix_III.description>Создать роботизированную логическую матрицу для создания робота с навыками мастерского класса (Уровень 3).</RPP_Production_Matrix_III.description>
+	<RPP_Production_Matrix_IV.label>сделать роботизированная матрица (Продвинутая)</RPP_Production_Matrix_IV.label>
+	<RPP_Production_Matrix_IV.description>Создать роботизированную логическую матрицу для создания робота с навыками планетарного класса (Уровень 4).</RPP_Production_Matrix_IV.description>
+	<RPP_Production_Matrix_V.label>сделать роботизированная матрица (Анти-Логика)</RPP_Production_Matrix_V.label>
+	<RPP_Production_Matrix_V.description>Создать Анти-Логик матрицу для создания робота с легендарными навыками. (Уровень 5).\nNP=P</RPP_Production_Matrix_V.description>
+
+	<RPP_Production_Cleaner_I.label>сделать Бот Уборщик (Уровень 1)</RPP_Production_Cleaner_I.label>
+	<RPP_Production_Cleaner_I.description>Произведите единицу, способную к Уборке.</RPP_Production_Cleaner_I.description>
+	<RPP_Production_Cleaner_II.label>сделать Бот Уборщик (Уровень 2)</RPP_Production_Cleaner_II.label>
+	<RPP_Production_Cleaner_II.description>Произведите единицу, способную к Уборке.</RPP_Production_Cleaner_II.description>
+	<RPP_Production_Cleaner_III.label>сделать Бот Уборщик (Уровень 3)</RPP_Production_Cleaner_III.label>
+	<RPP_Production_Cleaner_III.description>Произведите единицу, способную к Уборке.</RPP_Production_Cleaner_III.description>
+	<RPP_Production_Cleaner_IV.label>сделать Бот Уборщик (Уровень 4)</RPP_Production_Cleaner_IV.label>
+	<RPP_Production_Cleaner_IV.description>Произведите единицу, способную к Уборке.</RPP_Production_Cleaner_IV.description>
+	<RPP_Production_Cleaner_V.label>сделать Бот Уборщик (Уровень 5)</RPP_Production_Cleaner_V.label>
+	<RPP_Production_Cleaner_V.description>Произведите единицу, способную к Уборке.</RPP_Production_Cleaner_V.description>
+
+	<RPP_Production_Hauler_I.label>сделать Бот Носильщик (Уровень 1)</RPP_Production_Hauler_I.label>
+	<RPP_Production_Hauler_I.description>Произведите единицу, способную к Переноске.</RPP_Production_Hauler_I.description>
+	<RPP_Production_Hauler_II.label>сделать Бот Носильщик (Уровень 2)</RPP_Production_Hauler_II.label>
+	<RPP_Production_Hauler_II.description>Произведите единицу, способную к Переноске.</RPP_Production_Hauler_II.description>
+	<RPP_Production_Hauler_III.label>сделать Бот Носильщик (Уровень 3)</RPP_Production_Hauler_III.label>
+	<RPP_Production_Hauler_III.description>Произведите единицу, способную к Переноске.</RPP_Production_Hauler_III.description>
+	<RPP_Production_Hauler_IV.label>сделать Бот Носильщик (Уровень 4)</RPP_Production_Hauler_IV.label>
+	<RPP_Production_Hauler_IV.description>Произведите единицу, способную к Переноске.</RPP_Production_Hauler_IV.description>
+	<RPP_Production_Hauler_V.label>сделать Бот Носильщик (Уровень 5)</RPP_Production_Hauler_V.label>
+	<RPP_Production_Hauler_V.description>Произведите единицу, способную к Переноске.</RPP_Production_Hauler_V.description>
+
+	<RPP_Production_Builder_I.label>сделать Бот Строитель (Уровень 1)</RPP_Production_Builder_I.label>
+	<RPP_Production_Builder_I.description>Произведите единицу, способную строить, разбирать, чинить и добывать, любительского класса.</RPP_Production_Builder_I.description>
+	<RPP_Production_Builder_II.label>сделать Бот Строитель (Уровень 2)</RPP_Production_Builder_II.label>
+	<RPP_Production_Builder_II.description>Произведите единицу, способную строить, разбирать, чинить и добывать, профессионального класса.</RPP_Production_Builder_II.description>
+	<RPP_Production_Builder_III.label>сделать Бот Строитель (Уровень 3)</RPP_Production_Builder_III.label>
+	<RPP_Production_Builder_III.description>Произведите единицу, способную строить, разбирать, чинить и добывать, мастерского класса.</RPP_Production_Builder_III.description>
+	<RPP_Production_Builder_IV.label>сделать Бот Строитель (Уровень 4)</RPP_Production_Builder_IV.label>
+	<RPP_Production_Builder_IV.description>Произведите единицу, способную строить, разбирать, чинить и добывать, планетарного класса.</RPP_Production_Builder_IV.description>
+	<RPP_Production_Builder_V.label>сделать Бот Строитель (Уровень 5)</RPP_Production_Builder_V.label>
+	<RPP_Production_Builder_V.description>Произведите единицу, способную строить, разбирать, чинить и добывать, легендарного класса.</RPP_Production_Builder_V.description>
+
+	<RPP_Production_Crafter_I.label>сделать Бот Ремесленник (Уровень 1)</RPP_Production_Crafter_I.label>
+	<RPP_Production_Crafter_I.description>Произведите единицу, способную плавить, ковать, шить и создавать, любительского класса.</RPP_Production_Crafter_I.description>
+	<RPP_Production_Crafter_II.label>сделать Бот Ремесленник (Уровень 2)</RPP_Production_Crafter_II.label>
+	<RPP_Production_Crafter_II.description>Произведите единицу, способную плавить, ковать, шить и создавать, профессионального класса.</RPP_Production_Crafter_II.description>
+	<RPP_Production_Crafter_III.label>сделать Бот Ремесленник (Уровень 3)</RPP_Production_Crafter_III.label>
+	<RPP_Production_Crafter_III.description>Произведите единицу, способную плавить, ковать, шить и создавать, мастерского класса.</RPP_Production_Crafter_III.description>
+	<RPP_Production_Crafter_IV.label>сделать Бот Ремесленник (Уровень 4)</RPP_Production_Crafter_IV.label>
+	<RPP_Production_Crafter_IV.description>Произведите единицу, способную плавить, ковать, шить и создавать, планетарного класса.</RPP_Production_Crafter_IV.description>
+	<RPP_Production_Crafter_V.label>сделать Бот Ремесленник (Уровень 5)</RPP_Production_Crafter_V.label>
+	<RPP_Production_Crafter_V.description>Произведите единицу, способную плавить, ковать, шить и создавать, легендарного класса.</RPP_Production_Crafter_V.description>
+
+
+	<RPP_Production_ER_I.label>сделать Бот Спасатель (Уровень 1)</RPP_Production_ER_I.label>
+	<RPP_Production_ER_I.description>Произведите единицу, способную лечить пациентов и бороться с пожарами, любительского класса.</RPP_Production_ER_I.description>
+	<RPP_Production_ER_II.label>сделать Бот Спасатель (Уровень 2)</RPP_Production_ER_II.label>
+	<RPP_Production_ER_II.description>Произведите единицу, способную лечить пациентов и бороться с пожарами, профессионального класса.</RPP_Production_ER_II.description>
+	<RPP_Production_ER_III.label>сделать Бот Спасатель (Уровень 3)</RPP_Production_ER_III.label>
+	<RPP_Production_ER_III.description>Произведите единицу, способную лечить пациентов и бороться с пожарами, мастерского класса.</RPP_Production_ER_III.description>
+	<RPP_Production_ER_IV.label>сделать Бот Спасатель (Уровень 4)</RPP_Production_ER_IV.label>
+	<RPP_Production_ER_IV.description>Произведите единицу, способную лечить пациентов и бороться с пожарами, планетарного класса.</RPP_Production_ER_IV.description>
+	<RPP_Production_ER_V.label>сделать Бот Спасатель (Уровень 5)</RPP_Production_ER_V.label>
+	<RPP_Production_ER_V.description>Произведите единицу, способную лечить пациентов и бороться с пожарами, легендарного класса.</RPP_Production_ER_V.description>
+
+	<RPP_Production_Kitchen_I.label>сделать Бот Повар (Уровень 1)</RPP_Production_Kitchen_I.label>
+	<RPP_Production_Kitchen_I.description>Произведите единицу, способную готовить и ухаживать за растениями, любительского класса.</RPP_Production_Kitchen_I.description>
+	<RPP_Production_Kitchen_II.label>сделать Бот Повар (Уровень 2)</RPP_Production_Kitchen_II.label>
+	<RPP_Production_Kitchen_II.description>Произведите единицу, способную готовить и ухаживать за растениями, профессионального класса.</RPP_Production_Kitchen_II.description>
+	<RPP_Production_Kitchen_III.label>сделать Бот Повар (Уровень 3)</RPP_Production_Kitchen_III.label>
+	<RPP_Production_Kitchen_III.description>Произведите единицу, способную готовить и ухаживать за растениями, мастерского класса.</RPP_Production_Kitchen_III.description>
+	<RPP_Production_Kitchen_IV.label>сделать Бот Повар (Уровень 4)</RPP_Production_Kitchen_IV.label>
+	<RPP_Production_Kitchen_IV.description>Произведите единицу, способную готовить и ухаживать за растениями, планетарного класса.</RPP_Production_Kitchen_IV.description>
+	<RPP_Production_Kitchen_V.label>сделать Бот Повар (Уровень 5)</RPP_Production_Kitchen_V.label>
+	<RPP_Production_Kitchen_V.description>Произведите единицу, способную готовить и ухаживать за растениями, легендарного класса.</RPP_Production_Kitchen_V.description>
+
+
+	<RPP_Production_Omni_V.label>сделать Бот Универсал (Уровень 5)</RPP_Production_Omni_V.label>
+	<RPP_Production_Omni_V.description>Произведите Универсального бота.</RPP_Production_Omni_V.description>
+
+</LanguageData>

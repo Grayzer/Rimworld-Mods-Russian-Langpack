@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Prospecting.label>Разведка</Prospecting.label>
+  <Prospecting.description>поиск ископаемых.</Prospecting.description>
+  <Prospecting.labelShort>Разведка</Prospecting.labelShort>
+  <Prospecting.pawnLabel>Разведчик</Prospecting.pawnLabel>
+  <Prospecting.gerundLabel>разведывает</Prospecting.gerundLabel>
+  <Prospecting.verb>Резведать</Prospecting.verb>
+
+
+</LanguageData>

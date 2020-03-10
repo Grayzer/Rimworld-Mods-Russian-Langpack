@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings -->
+
+  <Prospecting.Name>Prospecting</Prospecting.Name>
+
+  <Prospecting.AllowManualSound>手動ドリルマシンの効果音を許可：</Prospecting.AllowManualSound>
+
+  <Prospecting.AllowProspect>採掘時のボーナスで「鉱石の欠片」が余分に発生するのを許可する：</Prospecting.AllowProspect>
+  <Prospecting.BaseChance>採掘時ボーナス「鉱石の欠片」の基本発生率（%）：</Prospecting.BaseChance>
+
+  <Prospecting.PrsLumpSizeMin>露天掘りで採掘された資源1スタック当たりの最小個数（%）：</Prospecting.PrsLumpSizeMin>
+  <Prospecting.PrsLumpSizeMax>露天掘りで採掘された資源1スタック当たりの最大個数（%）：</Prospecting.PrsLumpSizeMax>
+  <Prospecting.PrsCommonality>露天掘りで採掘された資源1スタック当たりの平均個数（%）：</Prospecting.PrsCommonality>
+  <Prospecting.PrsMineYield>露天掘りの資源産出率（%）：</Prospecting.PrsMineYield>
+
+  <Prospecting.PrsDeepLumpSizeMin>深部から採掘された資源1スタック当たりの最小個数（%）：</Prospecting.PrsDeepLumpSizeMin>
+  <Prospecting.PrsDeepLumpSizeMax>深部から採掘された資源1スタック当たりの最大個数（%）：</Prospecting.PrsDeepLumpSizeMax>
+  <Prospecting.PrsDeepCommonality>深部から採掘された資源1スタック当たりの平均個数（%）：</Prospecting.PrsDeepCommonality>
+  <Prospecting.PrsDeepMineYield>深部からの資源産出率（%）：</Prospecting.PrsDeepMineYield>
+
+  <Prospecting.LoadTip>(採掘設定は、新しいマップの生成時とゲームを再起動した時だけ適用されます)</Prospecting.LoadTip>
+
+  <Prospecting.ResetDefaults>数値をデフォルトに設定する：</Prospecting.ResetDefaults>
+  <Prospecting.Reset>リセット</Prospecting.Reset>
+
+  <!-- Content -->
+
+  <Prospecting.FeedbackDeepNoChg>地殻深部探査で深部ドリルマシンで採掘可能な資源を{0}個確認しました。</Prospecting.FeedbackDeepNoChg>
+  <Prospecting.FeedbackDeep>地殻深部探査の資源が{1}個が追加され、深部ドリルマシンで採掘可能な資源を{0}個確認しました。</Prospecting.FeedbackDeep>
+
+  <Prospecting.FeedbackNoChg>地殻深部探査を確認しましたが採掘可能な資源は{0}個のまま変更有りません。</Prospecting.FeedbackNoChg>
+  <Prospecting.Feedback>地殻深部探査で確認した採掘可能な資源では{1}個の変更があり合計{0}個となりました。</Prospecting.Feedback>
+
+  <!--  Wide Boy -->
+
+  <Prospecting.SpanLabel>掘削幅</Prospecting.SpanLabel>
+  <Prospecting.SpanDesc>ドリルの掘削幅を設定します。</Prospecting.SpanDesc>
+
+  <Prospecting.SpanDoNothing>変更無し</Prospecting.SpanDoNothing>
+  <Prospecting.SpanOption>掘削幅を{0}に設定します</Prospecting.SpanOption>
+
+  <Prospecting.RockToggle>石の塊を許可</Prospecting.RockToggle>
+  <Prospecting.RockDesc>ドリルが石の塊の掘削をするかどうか</Prospecting.RockDesc>
+
+  <Prospecting.BoostToggle>増速</Prospecting.BoostToggle>
+  <Prospecting.BoostDesc>ワイドボーイの消費電力を上げて掘削速度を上げます</Prospecting.BoostDesc>
+
+  <Prospecting.WideBoyZeroLeft>「ワイドボーイ」のドリルが届く範囲に資源がありません。</Prospecting.WideBoyZeroLeft>
+
+  <!--  Work Prospecting -->
+
+  <Prospecting.DesignatorProspect>試掘</Prospecting.DesignatorProspect>
+  <Prospecting.DesignatorProspectDesc>試掘作業のために採掘可能な場所を指定をします。</Prospecting.DesignatorProspectDesc>
+
+  <Prospecting.TooCloseDesig>既存の試掘ポイントに近すぎます。{0}セル以上離す必要があります。</Prospecting.TooCloseDesig>
+
+  <Prospecting.NeedProspector>採掘者が必要</Prospecting.NeedProspector>
+  <Prospecting.NeedProspectorDesc>いくつかの岩の塊を試掘対象に指定しましたが、採掘者に割り振られた入植者が居ません。\n\n入植者に採掘を割り当ててください。</Prospecting.NeedProspectorDesc>
+
+  <Prospecting.OreFound>鉱石が{0}によって発見されました</Prospecting.OreFound>
+  <Prospecting.AProspector>一人の採掘者</Prospecting.AProspector>
+  <Prospecting.ResourceFound>、見つかった資源は{0}です</Prospecting.ResourceFound>
+  <Prospecting.Unknown>不明</Prospecting.Unknown>
+
+  <Prospecting.DeepResources>採掘可能資源：{0} ({1})</Prospecting.DeepResources>
+  <Prospecting.InstallDrill>資源の試掘用にドリルを設置</Prospecting.InstallDrill>
+  <Prospecting.DrillNotProspected>資源は発見できませんでした。</Prospecting.DrillNotProspected>
+  <Prospecting.InsufficientWind>ドリルを回すのに十分な風が無い</Prospecting.InsufficientWind>
+  <Prospecting.RoofPerform>屋根開放：{0}</Prospecting.RoofPerform>
+  <Prospecting.WindPerform>風力効率：{0}</Prospecting.WindPerform>
+  <Prospecting.ManualDrillExhausted>手動ドリルマシンの採掘資源が掘り尽くされて、ドリルは自動的に停止しました。{0}の採掘を開始できません。</Prospecting.ManualDrillExhausted>
+  <Prospecting.ManualDrillExhaustedNoFallback>手動ドリルマシンの採掘資源が掘り尽くされた。</Prospecting.ManualDrillExhaustedNoFallback>
+
+  <Prospecting.DrillProspect>{0}が操作する手動ドリルマシンで資源を発見</Prospecting.DrillProspect>
+  <Prospecting.ProgressProspect>試掘の進捗</Prospecting.ProgressProspect>
+
+  <!--  Belt -->
+
+  <Prospecting.BeltUse>探掘ベルトを使う</Prospecting.BeltUse>
+  <Prospecting.BeltDesc>クリックして命令メニューを開く</Prospecting.BeltDesc>
+  <Prospecting.BeltDoNothing>何もしない</Prospecting.BeltDoNothing>
+  <Prospecting.BeltUseBelt>{0}で資源を探す</Prospecting.BeltUseBelt>
+  <Prospecting.BeltReasonPrefix>{0}のため使用不可</Prospecting.BeltReasonPrefix>
+  <Prospecting.NotHumanLike>{0}は人間ではない</Prospecting.NotHumanLike>
+  <Prospecting.LackSkill>{0}は採掘スキルが足りない</Prospecting.LackSkill>
+  <Prospecting.BeltFoundRes>{0}付近の地層から{1}と思われる資源が発見された</Prospecting.BeltFoundRes>
+  <Prospecting.BeltNotFoundRes>{0}は鉱石を発見できませんでした。</Prospecting.BeltNotFoundRes>
+  <Prospecting.MarkerDisplay>資源：{0}（{1}）\n有効期限(残り時間)：{2}</Prospecting.MarkerDisplay>
+
+</LanguageData>

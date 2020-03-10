@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Barrier -->
+
+  <RCP_Barrier.label>注模围栏</RCP_Barrier.label>
+  <RCP_Barrier.description>注模塑料围栏。</RCP_Barrier.description>
+  <RCP_Barrier.jobString>正在注模边缘塑胶物品。</RCP_Barrier.jobString>
+
+
+  <!-- Furniture -->
+
+  <RCP_AnimalSleepingBox.label>注模宠物箱</RCP_AnimalSleepingBox.label>
+  <RCP_AnimalSleepingBox.description>注模塑料宠物箱。</RCP_AnimalSleepingBox.description>
+  <RCP_AnimalSleepingBox.jobString>正在注模边缘塑胶物品。</RCP_AnimalSleepingBox.jobString>
+
+  <RCP_Stool.label>注模凳子</RCP_Stool.label>
+  <RCP_Stool.description>注模塑料凳子。</RCP_Stool.description>
+  <RCP_Stool.jobString>正在注模边缘塑胶物品。</RCP_Stool.jobString>
+
+  <RCP_DiningChair.label>注模餐椅</RCP_DiningChair.label>
+  <RCP_DiningChair.description>注模塑料餐椅。</RCP_DiningChair.description>
+  <RCP_DiningChair.jobString>正在注模边缘塑胶物品。</RCP_DiningChair.jobString>
+
+  <RCP_DrugCabinet.label>注模药物柜</RCP_DrugCabinet.label>
+  <RCP_DrugCabinet.description>注模塑料药物柜。</RCP_DrugCabinet.description>
+  <RCP_DrugCabinet.jobString>正在注模边缘塑胶物品。</RCP_DrugCabinet.jobString>
+
+  <RCP_EndTable.label>注模床头柜</RCP_EndTable.label>
+  <RCP_EndTable.description>注模塑料床头柜。</RCP_EndTable.description>
+  <RCP_EndTable.jobString>正在注模边缘塑胶物品。</RCP_EndTable.jobString>
+
+  <RCP_Table_Tiny.label>注模桌子(1x1)</RCP_Table_Tiny.label>
+  <RCP_Table_Tiny.description>注模塑料桌子(1x1)。</RCP_Table_Tiny.description>
+  <RCP_Table_Tiny.jobString>正在注模边缘塑胶物品。</RCP_Table_Tiny.jobString>
+
+  <RCP_Table_Small.label>桌子(1x2)</RCP_Table_Small.label>
+  <RCP_Table_Small.description>注模塑料桌子(1x2)。</RCP_Table_Small.description>
+  <RCP_Table_Small.jobString>正在注模边缘塑胶物品。</RCP_Table_Small.jobString>
+
+  <RCP_PlantPot.label>注模花盆</RCP_PlantPot.label>
+  <RCP_PlantPot.description>注模塑料花盆。</RCP_PlantPot.description>
+  <RCP_PlantPot.jobString>正在注模边缘塑胶物品。</RCP_PlantPot.jobString>
+
+  <RCP_Shelf.label>注模物品架</RCP_Shelf.label>
+  <RCP_Shelf.description>注模塑料物品架。</RCP_Shelf.description>
+  <RCP_Shelf.jobString>正在注模边缘塑胶物品。</RCP_Shelf.jobString>
+
+  <RCP_Rack.label>注模单数物品架</RCP_Rack.label>
+  <RCP_Rack.description>注模单数塑料物品架。</RCP_Rack.description>
+  <RCP_Rack.jobString>正在注模边缘塑胶物品。</RCP_Rack.jobString>
+
+  <RCP_Dresser.label>注模梳妆台</RCP_Dresser.label>
+  <RCP_Dresser.description>单数塑料梳妆台。</RCP_Dresser.description>
+  <RCP_Dresser.jobString>正在注模边缘塑胶物品。</RCP_Dresser.jobString>
+
+  <RCP_GameOfUr.label>注模皇家博弈棋</RCP_GameOfUr.label>
+  <RCP_GameOfUr.description>注模塑料皇家博弈棋。</RCP_GameOfUr.description>
+  <RCP_GameOfUr.jobString>正在注模边缘塑胶物品。</RCP_GameOfUr.jobString>
+
+  <RCP_ChessTable.label>注模象棋桌</RCP_ChessTable.label>
+  <RCP_ChessTable.description>注模塑料象棋桌。</RCP_ChessTable.description>
+  <RCP_ChessTable.jobString>正在注模边缘塑胶物品。</RCP_ChessTable.jobString>
+
+
+  <!-- RimPlas -->
+
+  <RCP_RimPlas.label>注模塑料板</RCP_RimPlas.label>
+  <RCP_RimPlas.description>制作一些塑料板。</RCP_RimPlas.description>
+  <RCP_RimPlas.jobString>正在注模边缘塑胶物品。</RCP_RimPlas.jobString>
+
+
+  <!-- RimPoly -->
+
+  <RCP_RimPoly.label>注模涤纶</RCP_RimPoly.label>
+  <RCP_RimPoly.description>制作一些涤纶。</RCP_RimPoly.description>
+  <RCP_RimPoly.jobString>正在注模边缘塑胶物品。</RCP_RimPoly.jobString>
+
+
+</LanguageData>

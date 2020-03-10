@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <CookSSMushSoup.label>熬煮蘑菇浓汤</CookSSMushSoup.label>
+  <CookSSMushSoup.description>熬煮一份奶油蘑菇浓汤.</CookSSMushSoup.description>
+  <CookSSMushSoup.jobString>正在熬煮蘑菇浓汤.</CookSSMushSoup.jobString>
+
+  <CookBulkSSMushSoup.label>熬煮4份蘑菇浓汤</CookBulkSSMushSoup.label>
+  <CookBulkSSMushSoup.description>熬煮4份奶油蘑菇浓汤.</CookBulkSSMushSoup.description>
+  <CookBulkSSMushSoup.jobString>正在批量熬煮蘑菇浓汤.</CookBulkSSMushSoup.jobString>
+
+
+</LanguageData>

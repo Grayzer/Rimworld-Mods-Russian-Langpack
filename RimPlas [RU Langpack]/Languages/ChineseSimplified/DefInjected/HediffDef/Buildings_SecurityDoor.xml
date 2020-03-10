@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stun Hediff -->
+
+  <HED_RPSecStun.label>精神安检门昏迷效果</HED_RPSecStun.label>
+  <HED_RPSecStun.stages.0.label>昏迷</HED_RPSecStun.stages.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimlaserLasers.label>Лазеры</RimlaserLasers.label>
+  <RimlaserLasers.description>Создавайте оружие, которое использует усиление света за счет стимулированного излучения. Обратите внимание, что для этого также требуются продвинутые компоненты, а также вам понадобятся редкие кристаллы для изготовления лазерного оружия.</RimlaserLasers.description>
+
+  <RimlaserLaserTurrets.label>Лазерные турели</RimlaserLaserTurrets.label>
+  <RimlaserLaserTurrets.description>Тяжелый лазер установлен на шасси автопушки.</RimlaserLaserTurrets.description>
+
+
+</LanguageData>

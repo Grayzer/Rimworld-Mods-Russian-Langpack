@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <!-- Regular -->
+
+ <MakeSSVape_Regular.label>Сделать вейп (Обычный)</MakeSSVape_Regular.label>
+ <MakeSSVape_Regular.description>Сделать 1 Дымолистный вейп (Обычный).</MakeSSVape_Regular.description>
+ <MakeSSVape_Regular.jobString>Делает Дымолистный вейп.</MakeSSVape_Regular.jobString>
+
+
+ <!-- Bulk -->
+
+ <MakeBulkSSVape_Regular.label>Сделать вейп (Обычный) (5)</MakeBulkSSVape_Regular.label>
+ <MakeBulkSSVape_Regular.description>Сделать 5 Дымолистных вейпов (Обычный).</MakeBulkSSVape_Regular.description>
+ <MakeBulkSSVape_Regular.jobString>Делает Дымолистный вейп.</MakeBulkSSVape_Regular.jobString>
+
+
+ <!-- Recipes -->
+
+ <MakeSSVape_Fruity.label>Сделать вейп (Фруктовый)</MakeSSVape_Fruity.label>
+ <MakeSSVape_Fruity.description>Сделать Дымолистный вейп (Фруктовый).</MakeSSVape_Fruity.description>
+ <MakeSSVape_Fruity.jobString>Делает Дымолистный вейп.</MakeSSVape_Fruity.jobString>
+
+ <MakeBulkSSVape_Fruity.label>Сделать вейп (Фруктовый) (5)</MakeBulkSSVape_Fruity.label>
+ <MakeBulkSSVape_Fruity.description>Сделать 5 Дымолистных вейпов (Фруктовый).</MakeBulkSSVape_Fruity.description>
+ <MakeBulkSSVape_Fruity.jobString>Делает Дымолистный вейп.</MakeBulkSSVape_Fruity.jobString>
+
+
+ <!-- Menthol -->
+
+ <MakeSSVape_Menthol.label>Сделать вейп (Ментол)</MakeSSVape_Menthol.label>
+ <MakeSSVape_Menthol.description>Сделать 1 Дымолистный вейп (Ментол).</MakeSSVape_Menthol.description>
+ <MakeSSVape_Menthol.jobString>Делает Дымолистный вейп.</MakeSSVape_Menthol.jobString>
+
+
+ <!-- Bulk -->
+
+ <MakeBulkSSVape_Menthol.label>Сделать вейп (Ментол) (5)</MakeBulkSSVape_Menthol.label>
+ <MakeBulkSSVape_Menthol.description>Сделать 5 Дымолистных вейпов (Ментол).</MakeBulkSSVape_Menthol.description>
+ <MakeBulkSSVape_Menthol.jobString>Делает Дымолистный вейп.</MakeBulkSSVape_Menthol.jobString>
+
+
+</LanguageData>

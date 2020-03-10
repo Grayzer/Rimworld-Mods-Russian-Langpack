@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--  SSOptions -->
+	
+	<SSOpt.Name>Social Supplements</SSOpt.Name>
+	
+	<SSOpt.ResPct>Relative cost for research %:</SSOpt.ResPct>
+	<SSOpt.ResTip>Note these changes will only take effect when RimWorld is restarted.</SSOpt.ResTip>
+	<SSOpt.ResWarn>(Warning: increasing the % will mean research will become incomplete using the previous value.)</SSOpt.ResWarn>
+	
+	<!--  SSFlare -->
+	
+	<SSFlare.FoodSupplyLabel>Food supplies</SSFlare.FoodSupplyLabel>
+	<SSFlare.FoodSupplyEvent>Food supplies have been dropped to your indicated location.</SSFlare.FoodSupplyEvent>
+	
+</LanguageData>

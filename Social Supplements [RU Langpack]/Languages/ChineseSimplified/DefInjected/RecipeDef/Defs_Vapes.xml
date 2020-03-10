@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bulk -->
+
+  <MakeBulkSSVape_Regular.label>批量制作电子烟（原味）</MakeBulkSSVape_Regular.label>
+  <MakeBulkSSVape_Regular.description>制作5支电子烟(Regular).</MakeBulkSSVape_Regular.description>
+  <MakeBulkSSVape_Regular.jobString>正在制作电子烟.</MakeBulkSSVape_Regular.jobString>
+
+
+  <!-- Recipes -->
+
+  <MakeSSVape_Fruity.label>批量制作电子烟（果味）</MakeSSVape_Fruity.label>
+  <MakeSSVape_Fruity.description>制作1支电子烟（果味）.</MakeSSVape_Fruity.description>
+  <MakeSSVape_Fruity.jobString>正在制作电子烟.</MakeSSVape_Fruity.jobString>
+
+  <MakeBulkSSVape_Fruity.label>批量制作电子烟（果味）</MakeBulkSSVape_Fruity.label>
+  <MakeBulkSSVape_Fruity.description>制作5支电子烟(果味).</MakeBulkSSVape_Fruity.description>
+  <MakeBulkSSVape_Fruity.jobString>正在制作电子烟.</MakeBulkSSVape_Fruity.jobString>
+
+
+  <!-- Bulk -->
+
+  <MakeBulkSSVape_Menthol.label>批量制作电子烟（薄荷）</MakeBulkSSVape_Menthol.label>
+  <MakeBulkSSVape_Menthol.description>制作5支电子烟(薄荷).</MakeBulkSSVape_Menthol.description>
+  <MakeBulkSSVape_Menthol.jobString>正在制作电子烟.</MakeBulkSSVape_Menthol.jobString>
+
+
+</LanguageData>

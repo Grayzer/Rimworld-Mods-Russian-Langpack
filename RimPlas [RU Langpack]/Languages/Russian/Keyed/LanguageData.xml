@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings -->
+
+  <RimPlas.Name>РимПласт</RimPlas.Name>
+
+  <RimPlas.ResPct>Относительная цена исследований %:</RimPlas.ResPct>
+  <RimPlas.ResTip>Обратите внимание, что эти изменения вступят в силу только после перезапуска RimWorld.</RimPlas.ResTip>
+  <RimPlas.ResWarn>(Предупреждение: увеличение % будет означать, что исследование станет неполным с использованием предыдущего значения.)</RimPlas.ResWarn>
+
+  <RimPlas.GVentMin>Графеновый воздуховод Мин.t°С [По умолчанию 10]:</RimPlas.GVentMin>
+  <RimPlas.GVentMax>Графеновый воздуховод Макс.t°С [По умолчанию 30]:</RimPlas.GVentMax>
+
+  <!-- Content -->
+
+  <RimPlas.Fixed>Фикс. Температура</RimPlas.Fixed>
+  <RimPlas.FixedDesc>Вкл: Фиксировано ({0}C - {1}C)</RimPlas.FixedDesc>
+
+  <RimPlas.Boost>Усиление</RimPlas.Boost>
+  <RimPlas.BoostDesc>Повысить энергию и регуляцию.</RimPlas.BoostDesc>
+
+</LanguageData>

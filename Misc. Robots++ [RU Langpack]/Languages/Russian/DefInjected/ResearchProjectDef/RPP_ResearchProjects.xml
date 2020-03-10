@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Research_Matrix_I.label>Роботы:\nПростая логика</RPP_Research_Matrix_I.label>
+	<RPP_Research_Matrix_I.description>Уровень 1: Исследование производства простых роботизированных матриц, используемых при производстве роботов любительского класса. Открывает исследование Базовая логика (Уровень 2) и Простая Роботизированная Матрица.</RPP_Research_Matrix_I.description>
+	<RPP_Research_Matrix_II.label>Роботы:\nБазовая логика</RPP_Research_Matrix_II.label>
+	<RPP_Research_Matrix_II.description>Уровень 2: Исследование производства базовых роботизированных матриц, используемых для производства роботов профессионального класса. Открывает исследование Сложная логика (Уровень 3) и Базовая Роботизированная Матрица. Все роботы на этом уровне быстрее и менее огнеопасны, чем предыдущие.</RPP_Research_Matrix_II.description>
+	<RPP_Research_Matrix_III.label>Роботы:\nСложная логика</RPP_Research_Matrix_III.label>
+	<RPP_Research_Matrix_III.description>Уровень 3: Исследование производства сложных роботизированных матриц, используемых для производства роботов мастерского класса. Открывает исследование Продвинутая логика (Уровень 4) и Сложная Роботизированная Матрица. Все роботы на этом уровне быстрее и менее огнеопасны, чем предыдущие.</RPP_Research_Matrix_III.description>
+	<RPP_Research_Matrix_IV.label>Роботы:\nПродвинутая логика</RPP_Research_Matrix_IV.label>
+	<RPP_Research_Matrix_IV.description>Уровень 4: Исследование производства продвинутых роботизированных матриц, используемых для производства роботов планетарного класса. Открывает исследование Продвинутая Роботизированная Матрица. Все роботы на этом уровне быстрее и менее огнеопасны, чем предыдущие.</RPP_Research_Matrix_IV.description>
+	<RPP_Research_Matrix_V.label>Роботы:\nАнти-Логика\n(NP=P)</RPP_Research_Matrix_V.label>
+	<RPP_Research_Matrix_V.description>Уровень 5: Разрушьте границы, установленные существующими уровнями технологии, пониманием логики и самими понятиями причинности. Наши научные горизонты становятся намного более своевременными.</RPP_Research_Matrix_V.description>
+
+	<RPP_Research_Fundamentals.label>Роботы:\nОсновы</RPP_Research_Fundamentals.label>
+	<RPP_Research_Fundamentals.description>Уровень 0:\nИсследование самых простых принципов робототехники и автоматизации.</RPP_Research_Fundamentals.description>
+
+	<RPP_Research_Cleaner_All.label>Уборщик</RPP_Research_Cleaner_All.label>
+	<RPP_Research_Cleaner_All.description>Производство роботов-уборщиков. Боты для перетаскивания и очистки работают быстрее, чем все остальные боты того же уровня.</RPP_Research_Cleaner_All.description>
+
+	<RPP_Research_Hauler_All.label>Носильщик</RPP_Research_Hauler_All.label>
+	<RPP_Research_Hauler_All.description>Производство роботов-носильщиков. Боты для переноски и уборки работают быстрее, чем все остальные боты того же уровня.</RPP_Research_Hauler_All.description>
+
+	<RPP_Research_Builder_All.label>Строитель</RPP_Research_Builder_All.label>
+	<RPP_Research_Builder_All.description>Производство строительных + добывающих роботов.</RPP_Research_Builder_All.description>
+
+	<RPP_Research_Crafter_All.label>Ремесленник</RPP_Research_Crafter_All.label>
+	<RPP_Research_Crafter_All.description>Производство ремесленных-роботов.</RPP_Research_Crafter_All.description>
+
+	<RPP_Research_ER_All.label>Спасатель</RPP_Research_ER_All.label>
+	<RPP_Research_ER_All.description>Производство спасателей-роботов.</RPP_Research_ER_All.description>
+
+	<RPP_Research_Kitchen_All.label>Повар</RPP_Research_Kitchen_All.label>
+	<RPP_Research_Kitchen_All.description>Производство простых поварских и садовых роботов.</RPP_Research_Kitchen_All.description>
+
+	<RPP_Research_Omni_V.label>Анти-Логика\nУниверсал</RPP_Research_Omni_V.label>
+	<RPP_Research_Omni_V.description>Производства универсал-роботов. Эти сверхзвуковые роботы способны справиться практически с любой задачей.</RPP_Research_Omni_V.description>
+
+</LanguageData>

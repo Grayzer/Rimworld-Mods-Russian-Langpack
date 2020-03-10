@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimThermoPlas Foam Recipe(s) -->
+
+  <RCP_RimThermoPlas_Foam.label>формовать пену РимТермоПласа(5)</RCP_RimThermoPlas_Foam.label>
+  <RCP_RimThermoPlas_Foam.description>Формовать пену РимТермоПласа.</RCP_RimThermoPlas_Foam.description>
+  <RCP_RimThermoPlas_Foam.jobString>Формует пену РимТермоПласа.</RCP_RimThermoPlas_Foam.jobString>
+
+  <RCP_Bulk_RimThermoPlas_Foam.label>формовать пену РимТермоПласа(20)</RCP_Bulk_RimThermoPlas_Foam.label>
+  <RCP_Bulk_RimThermoPlas_Foam.description>Формовать пену РимТермоПласа.</RCP_Bulk_RimThermoPlas_Foam.description>
+  <RCP_Bulk_RimThermoPlas_Foam.jobString>Формует пену РимТермоПласа.</RCP_Bulk_RimThermoPlas_Foam.jobString>
+
+
+</LanguageData>

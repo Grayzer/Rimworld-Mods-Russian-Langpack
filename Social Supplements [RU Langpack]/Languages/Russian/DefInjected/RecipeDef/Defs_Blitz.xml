@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeSSBlitz_Zest.label>Сделать Blitz-Цедра</MakeSSBlitz_Zest.label>
+  <MakeSSBlitz_Zest.description>Приготовить Blitz-Цедра.</MakeSSBlitz_Zest.description>
+  <MakeSSBlitz_Zest.jobString>Готовит Blitz.</MakeSSBlitz_Zest.jobString>
+
+  <MakeBulkSSBlitz_Zest.label>Сделать Blitz-Цедра(5)</MakeBulkSSBlitz_Zest.label>
+  <MakeBulkSSBlitz_Zest.description>Приготовить 5 Blitz-Цедра.</MakeBulkSSBlitz_Zest.description>
+  <MakeBulkSSBlitz_Zest.jobString>Готовит Blitz.</MakeBulkSSBlitz_Zest.jobString>
+
+
+  <!-- Bulk Recipes -->
+
+  <MakeBulkSSBlitz_Ice.label>Сделать Blitz-Лед(5)</MakeBulkSSBlitz_Ice.label>
+  <MakeBulkSSBlitz_Ice.description>Приготовить 5 Blitz-Лед.</MakeBulkSSBlitz_Ice.description>
+  <MakeBulkSSBlitz_Ice.jobString>Готовит Blitz.</MakeBulkSSBlitz_Ice.jobString>
+
+
+</LanguageData>

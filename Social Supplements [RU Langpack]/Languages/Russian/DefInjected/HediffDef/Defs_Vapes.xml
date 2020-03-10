@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular -->
+
+  <SSVape_Regular_High.label>дымолистный вейп</SSVape_Regular_High.label>
+  <SSVape_Regular_High.description>эффект дымолистного вейпа</SSVape_Regular_High.description>
+  <SSVape_Regular_High.labelNoun>под действием дымолистного вейпа</SSVape_Regular_High.labelNoun>
+
+
+  <!-- Fruity -->
+
+  <SSVape_Fruity_High.label>фруктовый дымолистный вейп</SSVape_Fruity_High.label>
+  <SSVape_Fruity_High.description>эффект фруктового дымолистного вейпа</SSVape_Fruity_High.description>
+  <SSVape_Fruity_High.labelNoun>под действием фруктового дымолистного вейпа</SSVape_Fruity_High.labelNoun>
+
+
+  <!-- Menthol -->
+
+  <SSVape_Menthol_High.label>ментоловый дымолистный вейп</SSVape_Menthol_High.label>
+  <SSVape_Menthol_High.description>эффект ментолового дымолистного вейпа<</SSVape_Menthol_High.description>
+  <SSVape_Menthol_High.labelNoun>под действием ментолового дымолистного вейпа</SSVape_Menthol_High.labelNoun>
+
+
+</LanguageData>
