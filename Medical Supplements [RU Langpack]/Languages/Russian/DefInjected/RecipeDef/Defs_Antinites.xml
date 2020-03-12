@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes Antinites Vial -->
+
+  <MakeAntinitesVial.label>Сделать Флакон антинитов</MakeAntinitesVial.label>
+  <MakeAntinitesVial.description>Сделать Флакон антинитов.</MakeAntinitesVial.description>
+  <MakeAntinitesVial.jobString>Делает Флакон антинитов.</MakeAntinitesVial.jobString>
+
+  <MakeBulkAntinitesVial.label>Сделать Флакон антинитов(5)</MakeBulkAntinitesVial.label>
+  <MakeBulkAntinitesVial.description>Сделать 5 Флаконов антинитов.</MakeBulkAntinitesVial.description>
+  <MakeBulkAntinitesVial.jobString>Делает Флакон антинитов.</MakeBulkAntinitesVial.jobString>
+
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkAntinites.label>Сделать Антиниты(5)</MakeBulkAntinites.label>
+  <MakeBulkAntinites.description>Сделать 5 инъекций Антинитов.</MakeBulkAntinites.description>
+  <MakeBulkAntinites.jobString>Делает инъекции Антинитов.</MakeBulkAntinites.jobString>
+
+
+</LanguageData>

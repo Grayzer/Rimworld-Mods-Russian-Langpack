@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Opium Poppy -->
+
+  <Plant_MSOpiumPoppy.label>Опийный мак</Plant_MSOpiumPoppy.label>
+  <Plant_MSOpiumPoppy.description>Вид цветкового растения семейства Papaveraceae. Это вид растения, из которого получают опиум и семена мака</Plant_MSOpiumPoppy.description>
+
+
+  <!-- Seed Pods -->
+
+  <MSOPSeedPod.label>Стручок семян опиума</MSOPSeedPod.label>
+  <MSOPSeedPod.description>Семенные коробочки из цветка опиумного мака. Эти стручки могут быть использованы для извлечения семян мака или опийного молочка.</MSOPSeedPod.description>
+
+
+  <!-- Latex -->
+
+  <MSOpiumLatex.label>Опиумное молочко</MSOpiumLatex.label>
+  <MSOpiumLatex.description>Молочко, получаемый из стручков опийного мака, содержит класс встречающихся в природе алкалоидов, известных как опиаты.</MSOpiumLatex.description>
+
+
+  <!-- Seeds -->
+
+  <MSPoppySeeds.label>Семена мака</MSPoppySeeds.label>
+  <MSPoppySeeds.description>Эти крошечные семена в форме почек были собраны из высушенных стручков опийного мака. Семена можно использовать целиком или измельченными в пищу в качестве ингредиента во многих продуктах.</MSPoppySeeds.description>
+
+
+</LanguageData>

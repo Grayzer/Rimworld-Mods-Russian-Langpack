@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkFireThroat.label>Сделать Горлодер(5)</MakeBulkFireThroat.label>
+  <MakeBulkFireThroat.description>Сделать 5 Горлодера.</MakeBulkFireThroat.description>
+  <MakeBulkFireThroat.jobString>Делает Горлодер.</MakeBulkFireThroat.jobString>
+
+
+</LanguageData>

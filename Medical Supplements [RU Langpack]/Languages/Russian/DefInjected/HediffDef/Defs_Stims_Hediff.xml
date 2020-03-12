@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSBattleStim_High.label>Стимбой</MSBattleStim_High.label>
+  <MSBattleStim_High.description>Эффект Стимбоя</MSBattleStim_High.description>
+
+  <MSBattleStim_Low.label>Стимбой регрессия</MSBattleStim_Low.label>
+  <MSBattleStim_Low.description>Эффект Стимбой регрессии</MSBattleStim_Low.description>
+
+
+</LanguageData>

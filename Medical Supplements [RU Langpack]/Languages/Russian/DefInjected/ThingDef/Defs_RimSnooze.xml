@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimSnooze -->
+
+  <MSRimSnooze.label>РимСон</MSRimSnooze.label>
+  <MSRimSnooze.description>РимСон - это успокаивающее средство от слабого до среднего, которое оказывает успокаивающее действие и предназначено для помощи при нарушениях сна. Эффекты длятся около половины дня.</MSRimSnooze.description>
+  <MSRimSnooze.ingestible.ingestCommandString>Взять {0}</MSRimSnooze.ingestible.ingestCommandString>
+  <MSRimSnooze.ingestible.ingestReportString>Берет {0}.</MSRimSnooze.ingestible.ingestReportString>
+
+
+</LanguageData>

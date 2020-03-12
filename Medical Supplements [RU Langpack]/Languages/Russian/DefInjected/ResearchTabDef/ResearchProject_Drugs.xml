@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Research Tabs -->
+
+  <MedicalSuppTab.label>Медицинские добавки</MedicalSuppTab.label>
+  <MSGlycerolTab.label>МД Глицерин лекартва</MSGlycerolTab.label>
+  <MSPhenolTab.label>МД Фенол лекартва</MSPhenolTab.label>
+  <MSLithiumTab.label>МД Литиевые лекартва</MSLithiumTab.label>
+  <MSOpiumTab.label>МД опиумные лекартва</MSOpiumTab.label>
+  <MSVincaTab.label>МД Барвинок лекартва</MSVincaTab.label>
+
+
+</LanguageData>

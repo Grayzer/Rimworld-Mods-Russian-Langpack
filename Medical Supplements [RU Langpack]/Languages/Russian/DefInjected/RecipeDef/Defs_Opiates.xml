@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSRimCodamol.label>Сделать РимКодамол</MakeMSRimCodamol.label>
+  <MakeMSRimCodamol.description>Сделать 1 РимКодамол.</MakeMSRimCodamol.description>
+  <MakeMSRimCodamol.jobString>Делает РимКодамол.</MakeMSRimCodamol.jobString>
+
+  <MakeBulkMSRimCodamol.label>Сделать РимКодамол(5)</MakeBulkMSRimCodamol.label>
+  <MakeBulkMSRimCodamol.description>Сделать 5 РимКодамола.</MakeBulkMSRimCodamol.description>
+  <MakeBulkMSRimCodamol.jobString>Делает РимКодамол.</MakeBulkMSRimCodamol.jobString>
+
+  <MakeMSMorphine.label>Сделать Морфин</MakeMSMorphine.label>
+  <MakeMSMorphine.description>Сделать 1 инъекцию морфина.</MakeMSMorphine.description>
+  <MakeMSMorphine.jobString>Делает Морфин.</MakeMSMorphine.jobString>
+
+  <MakeMSOpiumPipe.label>Сделать Трубку опиума</MakeMSOpiumPipe.label>
+  <MakeMSOpiumPipe.description>Сделать 1 Трубку опиума.</MakeMSOpiumPipe.description>
+  <MakeMSOpiumPipe.jobString>Делает Трубку опиума.</MakeMSOpiumPipe.jobString>
+
+
+</LanguageData>

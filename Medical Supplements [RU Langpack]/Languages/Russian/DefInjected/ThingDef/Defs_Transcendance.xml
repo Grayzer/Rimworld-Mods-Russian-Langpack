@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Transcendence Vial -->
+
+  <MSTranscendence_Vial.label>Фиал Превосходства</MSTranscendence_Vial.label>
+  <MSTranscendence_Vial.description>Флакон с химикатами Превосходства. приготовлен в Стимлаб.</MSTranscendence_Vial.description>
+
+
+  <!-- Receptive -->
+
+  <MSTranscendence_Receptive.label>Превосходство (Восприимчивость)</MSTranscendence_Receptive.label>
+  <MSTranscendence_Receptive.description>Доза самоинъекционных механизмов, предназначенных для повышения возможностей определенного качества. Восприимчивость может повысить навыки животноводства и общения.</MSTranscendence_Receptive.description>
+  <MSTranscendence_Receptive.comps.2.useLabel>Использовать Превосходство (Восприимчивость)</MSTranscendence_Receptive.comps.2.useLabel>
+
+
+  <!-- Inventive -->
+
+  <MSTranscendence_Inventive.label>Превосходство (Изобретательность)</MSTranscendence_Inventive.label>
+  <MSTranscendence_Inventive.description>Доза самоинъекционных механизмов, предназначенных для повышения возможностей определенного качества. Изобретательность может повысить художественные, кулинарные и фермерские навыки.</MSTranscendence_Inventive.description>
+  <MSTranscendence_Inventive.comps.2.useLabel>Использовать Превосходство (Изобретательность)</MSTranscendence_Inventive.comps.2.useLabel>
+
+
+  <!-- Tactical -->
+
+  <MSTranscendence_Tactical.label>Превосходство (Тактика)</MSTranscendence_Tactical.label>
+  <MSTranscendence_Tactical.description>Доза самоинъекционных механизмов, предназначенных для повышения возможностей определенного качества. Тактика может улучшить навыки стрельбы и рукопашного боя.</MSTranscendence_Tactical.description>
+  <MSTranscendence_Tactical.comps.2.useLabel>Использовать Превосходство (Тактика)</MSTranscendence_Tactical.comps.2.useLabel>
+
+
+  <!-- Practical -->
+
+  <MSTranscendence_Practical.label>Превосходство (Практичность)</MSTranscendence_Practical.label>
+  <MSTranscendence_Practical.description>Доза самоинъекционных механизмов, предназначенных для повышения возможностей определенного качества. Практический может улучшить навыки строительства, ремесла и добычи.</MSTranscendence_Practical.description>
+  <MSTranscendence_Practical.comps.2.useLabel>Использовать Превосходство (Практичность)</MSTranscendence_Practical.comps.2.useLabel>
+
+
+  <!-- Analytical -->
+
+  <MSTranscendence_Analytical.label>Превосходство (Аналитика)</MSTranscendence_Analytical.label>
+  <MSTranscendence_Analytical.description>Доза самоинъекционных механизмов, предназначенных для повышения возможностей определенного качества. Аналитика может повысить интеллектуальные и медицинские навыки.</MSTranscendence_Analytical.description>
+  <MSTranscendence_Analytical.comps.2.useLabel>Использовать Превосходство (Аналитика)</MSTranscendence_Analytical.comps.2.useLabel>
+
+
+</LanguageData>

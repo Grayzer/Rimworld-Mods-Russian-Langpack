@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Placebo -->
+
+  <MSPlacebo.label>Плацебо</MSPlacebo.label>
+  <MSPlacebo.description>Плацебо - это лекарство, используемое для снятия людей с химических препаратов, поскольку они будут пытаться использовать этот препарат вместо других эффективных лекарств. Обладает мягким седативным эффектом, который длится около суток и может создать умственную зависимость от использования.</MSPlacebo.description>
+  <MSPlacebo.ingestible.ingestCommandString>Взять {0}</MSPlacebo.ingestible.ingestCommandString>
+  <MSPlacebo.ingestible.ingestReportString>Берет {0}.</MSPlacebo.ingestible.ingestReportString>
+
+
+</LanguageData>

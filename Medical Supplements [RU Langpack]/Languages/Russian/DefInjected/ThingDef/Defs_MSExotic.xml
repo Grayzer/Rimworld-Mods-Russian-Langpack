@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Immunisation -->
+
+  <MSImmunisation.label>Инъекция иммунизации</MSImmunisation.label>
+  <MSImmunisation.description>Доза химикатов для самостоятельного введения, предназначенная для постоянного стимулирования иммунной системы.</MSImmunisation.description>
+  <MSImmunisation.comps.2.useLabel>Использовать Инъекцию иммунизации</MSImmunisation.comps.2.useLabel>
+
+
+  <!-- Cerebrax -->
+
+  <MSCerebrax.label>Инъекция Церебракса</MSCerebrax.label>
+  <MSCerebrax.description>Доза химикатов, вводимых самостоятельно, предназначенных для постоянного устранения психологической зависимости.</MSCerebrax.description>
+  <MSCerebrax.comps.2.useLabel>Использовать Инъекцию Церебракса</MSCerebrax.comps.2.useLabel>
+
+
+  <!-- Condom -->
+
+  <MSCondom.label>Презерватив</MSCondom.label>
+  <MSCondom.description>Презерватив - это защитное устройство в форме оболочки, которое используется во время полового акта для снижения вероятности беременности или инфекции, передающейся половым путем (ЗППП). Эта версия унисекс.</MSCondom.description>
+  <MSCondom.comps.2.useLabel>Использовать Презерватив</MSCondom.comps.2.useLabel>
+
+
+</LanguageData>

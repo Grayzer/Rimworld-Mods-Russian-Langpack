@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes Metasis Vial -->
+
+  <MakeMetasisVial.label>Сделать Флакон Метазиса</MakeMetasisVial.label>
+  <MakeMetasisVial.description>Сделать Флакон Метазиса.</MakeMetasisVial.description>
+  <MakeMetasisVial.jobString>Делает Флакон Метазиса.</MakeMetasisVial.jobString>
+
+  <MakeBulkMetasisVial.label>Сделать Флакон Метазиса(5)</MakeBulkMetasisVial.label>
+  <MakeBulkMetasisVial.description>Сделать 5 Флаконов Метазиса.</MakeBulkMetasisVial.description>
+  <MakeBulkMetasisVial.jobString>Делает Колбы Метазиса.</MakeBulkMetasisVial.jobString>
+
+
+  <!-- Recipes Injector Unit -->
+
+  <MakeMSInjectorUnit.label>Сделать Инжекторный блок</MakeMSInjectorUnit.label>
+  <MakeMSInjectorUnit.description>Сделать Инжекторный блок.</MakeMSInjectorUnit.description>
+  <MakeMSInjectorUnit.jobString>Делает Инжекторный блок.</MakeMSInjectorUnit.jobString>
+
+  <MakeBulkMSInjectorUnit.label>Сделать Инжекторный блок(5)</MakeBulkMSInjectorUnit.label>
+  <MakeBulkMSInjectorUnit.description>Сделать 5 Инжекторных блоков.</MakeBulkMSInjectorUnit.description>
+  <MakeBulkMSInjectorUnit.jobString>Делает Инжекторный блок.</MakeBulkMSInjectorUnit.jobString>
+
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkMetasis.label>Сделать Метазис(5)</MakeBulkMetasis.label>
+  <MakeBulkMetasis.description>Сделать 5 инъекций Метазиса.</MakeBulkMetasis.description>
+  <MakeBulkMetasis.jobString>Делает инъекции Метазиса.</MakeBulkMetasis.jobString>
+
+
+</LanguageData>

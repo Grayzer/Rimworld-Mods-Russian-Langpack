@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Transcendence Vial -->
+
+  <MakeMSTranscendenceVial.label>Сделать Фиал превосходства</MakeMSTranscendenceVial.label>
+  <MakeMSTranscendenceVial.description>Сделать 1 Фиал превосходства.</MakeMSTranscendenceVial.description>
+  <MakeMSTranscendenceVial.jobString>Делает Фиал превосходства.</MakeMSTranscendenceVial.jobString>
+
+  <MakeBulkMSTranscendenceVial.label>Сделать Фиал превосходства(5)</MakeBulkMSTranscendenceVial.label>
+  <MakeBulkMSTranscendenceVial.description>Сделать 5 Фиалов превосходства.</MakeBulkMSTranscendenceVial.description>
+  <MakeBulkMSTranscendenceVial.jobString>Делает Фиалы превосходства.</MakeBulkMSTranscendenceVial.jobString>
+
+
+  <!-- Receptive -->
+
+  <MakeMSTranscendence_Receptive.label>Сделать Превосходство (Восприимчивость)</MakeMSTranscendence_Receptive.label>
+  <MakeMSTranscendence_Receptive.description>Сделать 1 Превосходство (Восприимчивость)</MakeMSTranscendence_Receptive.description>
+  <MakeMSTranscendence_Receptive.jobString>Делает Превосходство</MakeMSTranscendence_Receptive.jobString>
+
+
+  <!-- Inventive -->
+
+  <MakeMSTranscendence_Inventive.label>Сделать Превосходство (Изобретательность)</MakeMSTranscendence_Inventive.label>
+  <MakeMSTranscendence_Inventive.description>Сделать 1 Превосходство (Изобретательность)</MakeMSTranscendence_Inventive.description>
+  <MakeMSTranscendence_Inventive.jobString>Делает Превосходство</MakeMSTranscendence_Inventive.jobString>
+
+
+  <!-- Tactical -->
+
+  <MakeMSTranscendence_Tactical.label>Сделать Превосходство (Тактика)</MakeMSTranscendence_Tactical.label>
+  <MakeMSTranscendence_Tactical.description>Сделать 1 Превосходство (Тактика)</MakeMSTranscendence_Tactical.description>
+  <MakeMSTranscendence_Tactical.jobString>Делает Превосходство</MakeMSTranscendence_Tactical.jobString>
+
+
+  <!-- Practical -->
+
+  <MakeMSTranscendence_Practical.label>Сделать Превосходство (Практика)</MakeMSTranscendence_Practical.label>
+  <MakeMSTranscendence_Practical.description>Сделать 1 Превосходство (Практика)</MakeMSTranscendence_Practical.description>
+  <MakeMSTranscendence_Practical.jobString>Делает Превосходство</MakeMSTranscendence_Practical.jobString>
+
+
+  <!-- Analytical -->
+
+  <MakeMSTranscendence_Analytical.label>Сделать Превосходство (Аналитика)</MakeMSTranscendence_Analytical.label>
+  <MakeMSTranscendence_Analytical.description>Сделать 1 Превосходство (Аналитика)</MakeMSTranscendence_Analytical.description>
+  <MakeMSTranscendence_Analytical.jobString>Делает Превосходство</MakeMSTranscendence_Analytical.jobString>
+
+
+</LanguageData>

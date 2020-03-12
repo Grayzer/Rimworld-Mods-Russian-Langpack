@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <Plant_MSPerrywinkle.label>Барвинок</Plant_MSPerrywinkle.label>
+  <Plant_MSPerrywinkle.description>Catharanthus roseus, широко известный как светлые глаза, мыс барвинок, кладбищное растение, старая дева, розовый барвинок, розовый барвинок, является одним из видов цветковых растений семейства кедровых Apocynaceae. Его выращивают как декоративное и лекарственное растение, используемое для лечения рака.</Plant_MSPerrywinkle.description>
+
+  <MSPerrywinkleLeaves.label>Листья Барвинка</MSPerrywinkleLeaves.label>
+  <MSPerrywinkleLeaves.description>Листья Барвинка можно использовать для извлечения алкалоидов барвинка, предшественника некоторых видов химиотерапии.</MSPerrywinkleLeaves.description>
+
+  <MSVincaAlkaloid.label>Алкалоид Барвинка</MSVincaAlkaloid.label>
+  <MSVincaAlkaloid.description>Алкалоиды барвинка представляют собой набор антимитотических и антимикротрубочковых алкалоидных агентов, первоначально полученных из растения барвинок: Catharanthus roseus (базионим Vinca rosea) и других растений барвинка. Они блокируют полимеризацию бета-тубулина в делящихся клетках. Это химический прекурсор, используемый в химиотерапевтических препаратах.</MSVincaAlkaloid.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimBurnEaze -->
+
+  <MSRimBurnEaze.label>РимБернЭйз</MSRimBurnEaze.label>
+  <MSRimBurnEaze.description>РимБернЭйз - это антибактериальный крем для кожи, разработанный для лечения ожоговых травм. Он способен лечить постоянные шрамы от ожогов. Целебные эффекты длятся 2 дня.</MSRimBurnEaze.description>
+  <MSRimBurnEaze.ingestible.ingestCommandString>Применить {0}</MSRimBurnEaze.ingestible.ingestCommandString>
+  <MSRimBurnEaze.ingestible.ingestReportString>Применяет {0}.</MSRimBurnEaze.ingestible.ingestReportString>
+
+
+</LanguageData>

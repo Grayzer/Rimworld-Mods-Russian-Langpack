@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Antibacterial Wipes -->
+
+  <MSWipes.label>Антибактериальные салфетки</MSWipes.label>
+  <MSWipes.description>Салфетки можно использовать для общей гигиены и, в частности, для помощи хирургам в их процедурах. Эффекты длятся только полдня.</MSWipes.description>
+  <MSWipes.ingestible.ingestCommandString>Применить {0}</MSWipes.ingestible.ingestCommandString>
+  <MSWipes.ingestible.ingestReportString>Применяет {0}.</MSWipes.ingestible.ingestReportString>
+
+
+</LanguageData>

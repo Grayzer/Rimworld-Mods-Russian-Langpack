@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MSExotic -->
+
+  <MSExotic.ReasonPrefix>Не удалось использовать Стим с</MSExotic.ReasonPrefix>
+  <MSExotic.NotHumanLike>{0} не похож на человека.</MSExotic.NotHumanLike>
+  <MSExotic.NotMale>{0} не мужчина.</MSExotic.NotMale>
+  <MSExotic.NotFemale>{0} не женщина.</MSExotic.NotFemale>
+  <MSExotic.AlreadyHasImmunity>{0} уже обладает супер-иммунитетом.</MSExotic.AlreadyHasImmunity>
+  <MSExotic.HasNoPsychSensitivity>{0} не обладает психической чувствительностью.</MSExotic.HasNoPsychSensitivity>
+  <MSExotic.AlreadyStimmed>{0} уже стимулирован.</MSExotic.AlreadyStimmed>
+  <MSExotic.StimSelDoNothing>Ничего не делать</MSExotic.StimSelDoNothing>
+  <MSExotic.StimSelUseStim>Использовать {0}</MSExotic.StimSelUseStim>
+  <MSExotic.StimUses>{0} Использовал:[{1}]</MSExotic.StimUses>
+  <MSExotic.StimDesc>Оборудован {0}. Нажмите, чтобы выбрать использование.</MSExotic.StimDesc>
+
+  <MSExotic.TraitAdded>{0} добавил признак {1} из-за {2}.</MSExotic.TraitAdded>
+  <MSExotic.TraitRemoved>Признак {0} {1} был удален {2}.</MSExotic.TraitRemoved>
+
+  <MSExotic.TSkillBoost>Навык: {1} для {0} было изменено с {2} на {3}.</MSExotic.TSkillBoost>
+  <MSExotic.NoTSkillList>ERR: список трансцендентности {1} не определен.</MSExotic.NoTSkillList>
+  <MSExotic.WontLearnUsing>{0} ничего не узнает, используя {1}</MSExotic.WontLearnUsing>
+
+  <MSExotic.PerpetuityDone>Биологический возраст {0} был изменен с {1} на {2} из-за Вечности.</MSExotic.PerpetuityDone>
+
+  <MSExotic.MedSupplyLabel>Медицинские товары</MSExotic.MedSupplyLabel>
+  <MSExotic.MedSupplyEvent>Медикаменты были сброшены в указанное вами место.</MSExotic.MedSupplyEvent>
+
+  <!-- MSRegen -->
+
+  <MSRegen.WoundHealed>{PAWN_labelShort} {2} излечен. Причина: {0}</MSRegen.WoundHealed>
+
+  <MSRegen.CureMsg>Состояние {0} {1} было вылечено.</MSRegen.CureMsg>
+
+  <!-- MSDrugMix -->
+
+  <MSDrugMix.ErrorRCP>Ошибка с элементом значения рецепта MSChemical Mixer: {0} тиков: {1} мин: {2} макс: {3}</MSDrugMix.ErrorRCP>
+  <MSDrugMix.ErrorRes>Ошибка с MSChemical Mixer: позиция рецепта {0} не исследована.</MSDrugMix.ErrorRes>
+
+  <MSDrugMix.ChemSelectDesc>Выберите химикат для производства.</MSDrugMix.ChemSelectDesc>
+  <MSDrugMix.ChemSelect>Выберите химикат</MSDrugMix.ChemSelect>
+
+  <MSDrugMix.Production>Продукция</MSDrugMix.Production>
+  <MSDrugMix.ProductionDesc>Переключить производство</MSDrugMix.ProductionDesc>
+  <MSDrugMix.ProdLabelRange>(Минимум: {0}, Максимум: {1})</MSDrugMix.ProdLabelRange>
+  <MSDrugMix.ProdLabelERR>(ERR: нет действительного рецепта)</MSDrugMix.ProdLabelERR>
+  <MSDrugMix.ProdNoChem>(Не выбрано химиката)</MSDrugMix.ProdNoChem>
+  <MSDrugMix.ProdStopped>(Остановлено)</MSDrugMix.ProdStopped>
+
+  <MSDrugMix.StockLabel>(Лимит:{0}, ({1}%)</MSDrugMix.StockLabel>
+  <MSDrugMix.StockLabelNL>( Без лимита )</MSDrugMix.StockLabelNL>
+  <MSDrugMix.SelectStockLimit>Выберите лимит стака</MSDrugMix.SelectStockLimit>
+
+  <MSDrugMix.StockNoLimit>Без лимита</MSDrugMix.StockNoLimit>
+  <MSDrugsMix.SelNoChemical>Нет химикатов</MSDrugsMix.SelNoChemical>
+
+  <!--  MSOptions -->
+
+  <MSOpt.Name>Медицинские добавки</MSOpt.Name>
+
+  <MSOpt.RealisticBandages>Используйте реалистичные повязки:</MSOpt.RealisticBandages>
+  <MSOpt.AllowCollapseRocks>Разрешить рухнувшим камням производить добычу битов:</MSOpt.AllowCollapseRocks>
+  <MSOpt.ResPct>Относительная стоимость исследования %:</MSOpt.ResPct>
+  <MSOpt.ResTip>Обратите внимание, что эти изменения вступят в силу только после перезапуска RimWorld.</MSOpt.ResTip>
+  <MSOpt.ResWarn>(Предупреждение: увеличение % будет означать, что исследование станет неполным с использованием предыдущего значения.)</MSOpt.ResWarn>
+
+  <!--  MSMineBits -->
+
+  <MSMineBits.Name>Медицинские добавки: горные осколки</MSMineBits.Name>
+  <MSMineBits.AllowCollapseRocks>Разрешить рухнувшим камням производить добычу битов:</MSMineBits.AllowCollapseRocks>
+
+</LanguageData>

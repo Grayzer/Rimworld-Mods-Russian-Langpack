@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Metasis Vial -->
+
+  <MSMetasis_Vial.label>Фиал Метазиса</MSMetasis_Vial.label>
+  <MSMetasis_Vial.description>Метасис Химический. Объедините с инжекторным блоком для инъекции метазиса.</MSMetasis_Vial.description>
+
+
+  <!-- Injector Unit -->
+
+  <MSInjector_Unit.label>Инжекторный блок</MSInjector_Unit.label>
+  <MSInjector_Unit.description>Базовый механический готовый инжекторный агрегат. Объедините с механитными химикатами для использования.</MSInjector_Unit.description>
+
+
+  <!-- Metasis -->
+
+  <MSMetasis.label>Инъекция Метазиса</MSMetasis.label>
+  <MSMetasis.description>Эта модифицированная смесь механитов, извлеченная из Люцифериума, улучшает функционирование организма во всех отношениях. Удаляет свойства зависимости Люцифериума как часть процесса рафинирования, но также устраняет некоторые другие преимущества. Принимается каждые 7 дней.</MSMetasis.description>
+  <MSMetasis.ingestible.ingestCommandString>Укол {0}</MSMetasis.ingestible.ingestCommandString>
+  <MSMetasis.ingestible.ingestReportString>Колет {0}.</MSMetasis.ingestible.ingestReportString>
+
+
+</LanguageData>

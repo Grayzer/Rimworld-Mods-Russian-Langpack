@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MSRimCodamol -->
+
+  <MSRimCodamol_High.label>РимКодамол</MSRimCodamol_High.label>
+  <MSRimCodamol_High.description>Эффект РимКодамола</MSRimCodamol_High.description>
+
+
+  <!-- MSMorphine -->
+
+  <MSMorphine_High.label>Морфин</MSMorphine_High.label>
+  <MSMorphine_High.description>Эффект морфина</MSMorphine_High.description>
+
+
+  <!-- MSOpiumPipe -->
+
+  <MSOpiumPipe_High.label>Трубка опиума</MSOpiumPipe_High.label>
+  <MSOpiumPipe_High.description>Эффект выкуренного опиума</MSOpiumPipe_High.description>
+
+
+</LanguageData>

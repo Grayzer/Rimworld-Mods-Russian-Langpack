@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSRimBurnEaze.label>Сделать РимБернЭйз</MakeMSRimBurnEaze.label>
+  <MakeMSRimBurnEaze.description>Сделать РимБернЭйз.</MakeMSRimBurnEaze.description>
+  <MakeMSRimBurnEaze.jobString>Делает РимБернЭйз</MakeMSRimBurnEaze.jobString>
+
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkMSRimBurnEaze.label>Сделать РимБернЭйз(5)</MakeBulkMSRimBurnEaze.label>
+  <MakeBulkMSRimBurnEaze.description>Сделать 5 РимБернЭйза.</MakeBulkMSRimBurnEaze.description>
+  <MakeBulkMSRimBurnEaze.jobString>Делает РимБернЭйз</MakeBulkMSRimBurnEaze.jobString>
+
+
+</LanguageData>

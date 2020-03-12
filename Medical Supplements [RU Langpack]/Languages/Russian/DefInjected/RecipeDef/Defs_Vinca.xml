@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plant -->
+
+  <MakeVincaAlkaloid.label>Сделать Барвинок алкалоид(5)</MakeVincaAlkaloid.label>
+  <MakeVincaAlkaloid.description>Химически синтезировать 5 Барвинок алкалоидов</MakeVincaAlkaloid.description>
+  <MakeVincaAlkaloid.jobString>Синтезирует Барвинок алкалоиды.</MakeVincaAlkaloid.jobString>
+
+
+</LanguageData>

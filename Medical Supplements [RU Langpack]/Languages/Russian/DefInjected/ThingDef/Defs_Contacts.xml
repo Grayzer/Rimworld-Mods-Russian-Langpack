@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Contact lenses -->
+
+  <MSContacts.label>Контактные линзы</MSContacts.label>
+  <MSContacts.description>Одноразовые контактные линзы из мягкого поликарбоната, способные слегка улучшить зрение на срок до десяти дней.</MSContacts.description>
+  <MSContacts.ingestible.ingestCommandString>Применить {0}</MSContacts.ingestible.ingestCommandString>
+  <MSContacts.ingestible.ingestReportString>Применяет {0}.</MSContacts.ingestible.ingestReportString>
+
+
+</LanguageData>

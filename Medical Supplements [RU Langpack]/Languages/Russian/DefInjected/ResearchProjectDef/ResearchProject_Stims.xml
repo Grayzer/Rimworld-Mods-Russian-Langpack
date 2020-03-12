@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Projects -->
+
+  <MSBattleStims.label>Стимбой</MSBattleStims.label>
+  <MSBattleStims.description>Дает возможность делать Стимбой. Использует Метасис с другими лекарственными средствами в радиоактивных условиях для создания боевых стимуляторов, которые также обладают регенеративными свойствами. Там могут быть некоторые неприятные побочные эффекты химического повреждения печени или почек, а также период регрессии к их использованию.</MSBattleStims.description>
+
+  <MSTranscendence.label>Превосходство</MSTranscendence.label>
+  <MSTranscendence.description>Дает возможность производить Превосходство. Механические нейронные тренажеры с более характерным набором навыков.</MSTranscendence.description>
+
+
+</LanguageData>

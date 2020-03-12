@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimtarol -->
+
+  <MSRimtarol.label>Римтарол</MSRimtarol.label>
+  <MSRimtarol.description>Римтарол - это обезболивающий гель, который может помочь уменьшить уровень боли при нанесении. Он также может обеспечить иммунитет к мышечным паразитам, а в случае заболевания, вызванного контрактом, может помочь сократить время, затрачиваемое на лечение этого заболевания. Применяется каждые 3 дня.</MSRimtarol.description>
+  <MSRimtarol.ingestible.ingestCommandString>Применить {0}</MSRimtarol.ingestible.ingestCommandString>
+  <MSRimtarol.ingestible.ingestReportString>Применяет {0}.</MSRimtarol.ingestible.ingestReportString>
+
+
+</LanguageData>

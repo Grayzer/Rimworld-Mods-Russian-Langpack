@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Industrial -->
+
+  <MakeMsMedicalMat.label>Сделать Медицинский коврик</MakeMsMedicalMat.label>
+  <MakeMsMedicalMat.description>Сделать Медицинский коврик.</MakeMsMedicalMat.description>
+  <MakeMsMedicalMat.jobString>Делает Медицинский коврик.</MakeMsMedicalMat.jobString>
+
+
+  <!-- Spacer -->
+
+  <MakeMsMedicalMatSpacer.label>Сделать Медицинский коврик (Космический)</MakeMsMedicalMatSpacer.label>
+  <MakeMsMedicalMatSpacer.description>Сделать продвинутый Медицинский коврик.</MakeMsMedicalMatSpacer.description>
+  <MakeMsMedicalMatSpacer.jobString>Делает продвинутый Медицинский коврик.</MakeMsMedicalMatSpacer.jobString>
+
+
+  <!-- Ultra -->
+
+  <MakeMsMedicalMatUltra.label>Сделать Медицинский коврик (Ультра)</MakeMsMedicalMatUltra.label>
+  <MakeMsMedicalMatUltra.description>Сделать высоко-технологичный Медицинский коврик.</MakeMsMedicalMatUltra.description>
+  <MakeMsMedicalMatUltra.jobString>Делает высоко-технологичный Медицинский коврик.</MakeMsMedicalMatUltra.jobString>
+
+
+  <!-- Early -->
+
+  <MakeMsMedicalMatEarly.label>Сделать Медицинский коврик (Простой)</MakeMsMedicalMatEarly.label>
+  <MakeMsMedicalMatEarly.description>Сделать Медицинский коврик (Простой).</MakeMsMedicalMatEarly.description>
+  <MakeMsMedicalMatEarly.jobString>Делает Медицинский коврик.</MakeMsMedicalMatEarly.jobString>
+
+
+  <!-- Industrial -->
+
+  <MakeMSMedicalMatPackup.label>Упаковать Медицинский коврик</MakeMSMedicalMatPackup.label>
+  <MakeMSMedicalMatPackup.description>Упаковать Медицинский коврик в мешок.</MakeMSMedicalMatPackup.description>
+  <MakeMSMedicalMatPackup.jobString>Упаковывает Медицинский коврик.</MakeMSMedicalMatPackup.jobString>
+
+
+  <!-- Spacer -->
+
+  <MakeMSMedicalMatSpacerPackup.label>Упаковать Медицинский коврик (Космический)</MakeMSMedicalMatSpacerPackup.label>
+  <MakeMSMedicalMatSpacerPackup.description>Упаковать продвинутый Медицинский коврик в мешок.</MakeMSMedicalMatSpacerPackup.description>
+  <MakeMSMedicalMatSpacerPackup.jobString>Repacking Медицинский коврик.</MakeMSMedicalMatSpacerPackup.jobString>
+
+
+  <!-- Ultra -->
+
+  <MakeMSMedicalMatUltraPackup.label>Упаковать Медицинский коврик (Ультра)</MakeMSMedicalMatUltraPackup.label>
+  <MakeMSMedicalMatUltraPackup.description>Упаковать высоко-технологичный Медицинский коврик в мешок.</MakeMSMedicalMatUltraPackup.description>
+  <MakeMSMedicalMatUltraPackup.jobString>Repacking Медицинский коврик.</MakeMSMedicalMatUltraPackup.jobString>
+
+
+  <!-- Early -->
+
+  <MakeMSMedicalMatEarlyPackup.label>Раскатать Медицинский коврик (Обычный)</MakeMSMedicalMatEarlyPackup.label>
+  <MakeMSMedicalMatEarlyPackup.description>Раскатать Медицинский коврик для использования.</MakeMSMedicalMatEarlyPackup.description>
+  <MakeMSMedicalMatEarlyPackup.jobString>Раскатывает Медицинский коврик.</MakeMSMedicalMatEarlyPackup.jobString>
+
+
+</LanguageData>

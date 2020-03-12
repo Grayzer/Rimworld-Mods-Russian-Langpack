@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeLithiumSalts.label>Сделать Литиевые соли(50)</MakeLithiumSalts.label>
+  <MakeLithiumSalts.description>Сделать 50 Литиевых солей.</MakeLithiumSalts.description>
+  <MakeLithiumSalts.jobString>Делает Литиевые соли.</MakeLithiumSalts.jobString>
+
+
+</LanguageData>

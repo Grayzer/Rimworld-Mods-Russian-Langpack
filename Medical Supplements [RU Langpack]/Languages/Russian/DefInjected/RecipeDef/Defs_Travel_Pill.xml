@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSTravelPills.label>Сделать Таблетки путешественника(5)</MakeMSTravelPills.label>
+  <MakeMSTravelPills.description>Сделать 5 таблеток путешественника.</MakeMSTravelPills.description>
+  <MakeMSTravelPills.jobString>Делает Таблетки путешественника</MakeMSTravelPills.jobString>
+
+  <MakeBulkMSTravelPills.label>Сделать Таблетки путешественника(10)</MakeBulkMSTravelPills.label>
+  <MakeBulkMSTravelPills.description>Сделать 10 таблеток путешественника.</MakeBulkMSTravelPills.description>
+  <MakeBulkMSTravelPills.jobString>Делает Таблетки путешественника</MakeBulkMSTravelPills.jobString>
+
+
+</LanguageData>

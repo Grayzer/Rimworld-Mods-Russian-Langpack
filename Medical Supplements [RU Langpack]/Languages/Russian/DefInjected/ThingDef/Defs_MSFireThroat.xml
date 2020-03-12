@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FireThroat -->
+
+  <MSFireThroat.label>Горлодер</MSFireThroat.label>
+  <MSFireThroat.description>Довольно сильная и безболезненная настойка от гриппа. Принимается каждые 3 дня.</MSFireThroat.description>
+  <MSFireThroat.ingestible.ingestCommandString>Пить {0}</MSFireThroat.ingestible.ingestCommandString>
+  <MSFireThroat.ingestible.ingestReportString>Пьет {0}.</MSFireThroat.ingestible.ingestReportString>
+
+
+</LanguageData>

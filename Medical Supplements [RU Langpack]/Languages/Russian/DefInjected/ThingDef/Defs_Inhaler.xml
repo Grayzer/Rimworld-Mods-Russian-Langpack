@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Inhaler -->
+
+  <MSInhaler.label>Ингалятор от астмы(антигистамин)</MSInhaler.label>
+  <MSInhaler.description>Ингалятор, обеспечивающий иммунитет от астмы дополнительными антигистаминными свойствами, также сокращает время восстановления до состояния, требующего ухода. Принимается ежедневно.</MSInhaler.description>
+  <MSInhaler.ingestible.ingestCommandString>Использовать {0}</MSInhaler.ingestible.ingestCommandString>
+  <MSInhaler.ingestible.ingestReportString>Использует {0}.</MSInhaler.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSBattleStim_Thought.stages.0.label>СтимБой</MSBattleStim_Thought.stages.0.label>
+  <MSBattleStim_Thought.stages.0.description>Очень бодрый</MSBattleStim_Thought.stages.0.description>
+
+  <MSBattleStimLow_Thought.stages.0.label>Регрессия СтимБоя</MSBattleStimLow_Thought.stages.0.label>
+  <MSBattleStimLow_Thought.stages.0.description>Чувство плохого самочувствия из-за эффектов регрессии стимуляции</MSBattleStimLow_Thought.stages.0.description>
+
+
+</LanguageData>

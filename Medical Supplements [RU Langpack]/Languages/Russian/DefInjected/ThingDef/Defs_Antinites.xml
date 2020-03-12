@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Antinites Vial -->
+
+  <MSAntinites_Vial.label>Фиал Антинитов</MSAntinites_Vial.label>
+  <MSAntinites_Vial.description>Химикат Антинитов. Комбинируйте с инжекторным блоком для инъекции антинитов.</MSAntinites_Vial.description>
+
+
+  <!-- Antinites -->
+
+  <MSAntinites.label>Инъекция антинитов</MSAntinites.label>
+  <MSAntinites.description>Извлеченная из Люцифериума, эта модифицированная смесь механитов может быть использована для атаки других нежелательных механизмов в теле. Фенол и Дымолист добавляются в эту смесь для создания токсического эффекта, направленного на нежелательные наниты в системе. В результате ощущение, хотя и недолгое, около половины дня, может быть довольно болезненным. Было бы целесообразно принять некоторую форму обезболивания до или сразу после использования инъекции.</MSAntinites.description>
+  <MSAntinites.ingestible.ingestCommandString>Укол {0}</MSAntinites.ingestible.ingestCommandString>
+  <MSAntinites.ingestible.ingestReportString>Колет {0}.</MSAntinites.ingestible.ingestReportString>
+
+
+</LanguageData>

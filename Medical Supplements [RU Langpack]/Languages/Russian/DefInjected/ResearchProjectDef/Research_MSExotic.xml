@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSMercury.label>Соединения ртути</MSMercury.label>
+  <MSMercury.description>Предоставляет возможность производить соединения ртути.</MSMercury.description>
+
+  <MSImmunisation.label>Иммунизация</MSImmunisation.label>
+  <MSImmunisation.description>Предоставляет возможность делать прививки. Лекартсва, которые способны повысить иммунную систему.</MSImmunisation.description>
+
+  <MSCerebrax.label>Церебракс</MSCerebrax.label>
+  <MSCerebrax.description>Дает возможность сделать Церебракс. Препарат способен снимать психологическую зависимость.</MSCerebrax.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimoxicillin -->
+
+  <MSRimoxicillin.label>Римоксицилин</MSRimoxicillin.label>
+  <MSRimoxicillin.description>Полусинтетический антибиотик широкого спектра действия, который длится около половины дня.</MSRimoxicillin.description>
+  <MSRimoxicillin.ingestible.ingestCommandString>Взять {0}</MSRimoxicillin.ingestible.ingestCommandString>
+  <MSRimoxicillin.ingestible.ingestReportString>Берет {0}.</MSRimoxicillin.ingestible.ingestReportString>
+
+
+</LanguageData>

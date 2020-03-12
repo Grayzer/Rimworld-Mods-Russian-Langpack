@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSMercurySalts.label>Сделать Ртутные соли(5)</MakeMSMercurySalts.label>
+  <MakeMSMercurySalts.description>Сделать 5 Ртутных солей.</MakeMSMercurySalts.description>
+  <MakeMSMercurySalts.jobString>Делает Ртутные соли.</MakeMSMercurySalts.jobString>
+
+  <MakeMSMercurySaltsBlocks.label>Сделать Ртутные соли (блоки)</MakeMSMercurySaltsBlocks.label>
+  <MakeMSMercurySaltsBlocks.description>Сделать 5 Ртутные соли из каменных блоков</MakeMSMercurySaltsBlocks.description>
+  <MakeMSMercurySaltsBlocks.jobString>Делает Ртутные соли.</MakeMSMercurySaltsBlocks.jobString>
+
+
+  <!-- EthylMercury -->
+
+  <MakeMSEthylMercury.label>Сделать Этилртуть</MakeMSEthylMercury.label>
+  <MakeMSEthylMercury.description>Сделать 1 Этилртуть</MakeMSEthylMercury.description>
+  <MakeMSEthylMercury.jobString>Делает Этилртуть.</MakeMSEthylMercury.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimedicrem -->
+
+  <MSRimedicrem.label>Римедикрем</MSRimedicrem.label>
+  <MSRimedicrem.description>Римедикрем - это сильный стерилизующий агент с антибактериальными свойствами, который можно наносить каждые 2 дня. Он обеспечивает иммунитет от заражения ран и помогает с уже зараженными ранами.</MSRimedicrem.description>
+  <MSRimedicrem.ingestible.ingestCommandString>Применить {0}</MSRimedicrem.ingestible.ingestCommandString>
+  <MSRimedicrem.ingestible.ingestReportString>Применяет {0}.</MSRimedicrem.ingestible.ingestReportString>
+
+
+</LanguageData>

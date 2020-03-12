@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Opium Chemical and effects -->
+
+  <MSOpium_Tolerance.label>легкая опиумная зависимость</MSOpium_Tolerance.label>
+  <MSOpium_Tolerance.description>эффект небольшой опиумной зависимости</MSOpium_Tolerance.description>
+
+  <MSOpium_Addiction.label>опиумная зависимость</MSOpium_Addiction.label>
+  <MSOpium_Addiction.description>эффект опиумной зависимости</MSOpium_Addiction.description>
+  <MSOpium_Addiction.stages.1.label>ломка</MSOpium_Addiction.stages.1.label>
+
+
+</LanguageData>

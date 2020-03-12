@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artery Blockage - Stent -->
+
+  <MSStent.label>Медицинский Стент</MSStent.label>
+  <MSStent.description>Медицинский стент используется для расширения артерий и устранения артериальных закупорок.</MSStent.description>
+
+
+  <!-- Bad Back -->
+
+  <MSBackDisc.label>Искусственный задний диск</MSBackDisc.label>
+  <MSBackDisc.description>Искусственный межпозвоночный диск, используемый, чтобы помочь с проблемами спины</MSBackDisc.description>
+
+
+  <!-- Cataract Removal -->
+
+  <MSAdvSurgeryTools.label>Расширенные инструменты хирургии</MSAdvSurgeryTools.label>
+  <MSAdvSurgeryTools.description>Коллекция точных инструментов и материалов, используемых для малопонятной и сложной хирургии.</MSAdvSurgeryTools.description>
+
+
+</LanguageData>

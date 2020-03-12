@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cotton Bandages -->
+
+  <MakeMSBandage.label>Сделать бинты (хлопок)</MakeMSBandage.label>
+  <MakeMSBandage.description>Сделать 10 бинтов (хлопок).</MakeMSBandage.description>
+  <MakeMSBandage.jobString>Делает бинты.</MakeMSBandage.jobString>
+
+
+  <!-- Antisceptic Bandages -->
+
+  <MakeMSASBandage.label>Сделать бинты (антисептик)</MakeMSASBandage.label>
+  <MakeMSASBandage.description>Сделать 10 бинтов (антисептик).</MakeMSASBandage.description>
+  <MakeMSASBandage.jobString>Делает бинты.</MakeMSASBandage.jobString>
+
+
+  <!-- Metasis Bandages -->
+
+  <MakeMSNanoBandage.label>Сделать бинты (Нанотех)</MakeMSNanoBandage.label>
+  <MakeMSNanoBandage.description>Сделать 10 бинтов (Нанотех).</MakeMSNanoBandage.description>
+  <MakeMSNanoBandage.jobString>Делает бинты.</MakeMSNanoBandage.jobString>
+
+
+</LanguageData>

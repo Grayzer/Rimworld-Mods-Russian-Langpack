@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Industrial -->
+
+  <MSMedicalMatItem.label>Свернутый мед коврик</MSMedicalMatItem.label>
+  <MSMedicalMatItem.description>Свернутый переносной коврик, который можно использовать в медицинских целях в полевых условиях или в качестве полезного предмета для каравана.</MSMedicalMatItem.description>
+
+
+  <!-- Spacer -->
+
+  <MSMedicalMatSpacerItem.label>Свернутый мед коврик (Космический)</MSMedicalMatSpacerItem.label>
+  <MSMedicalMatSpacerItem.description>Свернутый переносной коврик, который можно использовать в медицинских целях в полевых условиях или в качестве полезного предмета для каравана.</MSMedicalMatSpacerItem.description>
+
+
+  <!-- Ultra -->
+
+  <MSMedicalMatUltraItem.label>Свернутый мед коврик (Ультра)</MSMedicalMatUltraItem.label>
+  <MSMedicalMatUltraItem.description>Свернутый переносной коврик, который можно использовать в медицинских целях в полевых условиях или в качестве полезного предмета для каравана.</MSMedicalMatUltraItem.description>
+
+
+  <!-- Early -->
+
+  <MSMedicalMatEarlyItem.label>Свернутый мед коврик (обычный)</MSMedicalMatEarlyItem.label>
+  <MSMedicalMatEarlyItem.description>Свернутый переносной коврик, изготовленный из пропитанной растительными лекарственными средствами веревки, который можно использовать в медицинских целях в полевых условиях или в качестве полезного предмета для каравана.</MSMedicalMatEarlyItem.description>
+
+
+</LanguageData>

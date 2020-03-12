@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mental Dependancy -->
+
+  <Chemical_MSMental.label>Психологическая зависимость</Chemical_MSMental.label>
+  <Chemical_MSMental.description>Из-за психической зависимости этот человек должен регулярно употреблять препарат, чтобы избежать симптомов отмены.</Chemical_MSMental.description>
+
+
+</LanguageData>

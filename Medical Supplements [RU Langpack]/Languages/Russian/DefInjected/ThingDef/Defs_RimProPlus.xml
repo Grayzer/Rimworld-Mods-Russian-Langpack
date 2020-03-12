@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RimProPlus -->
+
+  <MSRimProPlus.label>РимПроПлюс</MSRimProPlus.label>
+  <MSRimProPlus.description>Очень сладкая таблетка, которая действует в течение дня, уменьшает потребность в отдыхе и предотвращает сонную болезнь.</MSRimProPlus.description>
+  <MSRimProPlus.ingestible.ingestCommandString>Взять {0}</MSRimProPlus.ingestible.ingestCommandString>
+  <MSRimProPlus.ingestible.ingestReportString>Берет {0}.</MSRimProPlus.ingestible.ingestReportString>
+
+
+</LanguageData>

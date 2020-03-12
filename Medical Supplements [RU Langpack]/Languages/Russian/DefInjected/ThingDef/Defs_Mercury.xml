@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mercury Salts -->
+
+  <MSMercurySalts.label>Ртутные соли</MSMercurySalts.label>
+  <MSMercurySalts.description>Кисловатая порошкообразная соль, также известная как киноварь, содержит ртуть. Химический прекурсор. (Сделано из каменных кусков).</MSMercurySalts.description>
+
+
+  <!-- EthylMercury -->
+
+  <MSEthylMercury.label>Этилртуть</MSEthylMercury.label>
+  <MSEthylMercury.description>Этилртуть - это катион, состоящий из органического соединения CH3CH2- (этильная группа), связанного с ртутным (II) центром, что делает его типом металлоорганического катиона и придает ему химическую формулу C2H5Hg+. Химический прекурсор. (Изготовлено из химтоплива и ртутных солей).</MSEthylMercury.description>
+
+
+</LanguageData>

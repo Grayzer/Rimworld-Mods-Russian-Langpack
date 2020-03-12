@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- BattleStim Vial -->
+
+  <MakeMSBattleStimVial.label>Сделать Фиал Стимбоя</MakeMSBattleStimVial.label>
+  <MakeMSBattleStimVial.description>Сделать 1 Фиал Стимбоя.</MakeMSBattleStimVial.description>
+  <MakeMSBattleStimVial.jobString>Делает Фиал Стимбоя.</MakeMSBattleStimVial.jobString>
+
+  <MakeBulkMSBattleStimVial.label>Сделать Фиал Стимбоя(5)</MakeBulkMSBattleStimVial.label>
+  <MakeBulkMSBattleStimVial.description>Сделать 5 Фиалов Стимбоя.</MakeBulkMSBattleStimVial.description>
+  <MakeBulkMSBattleStimVial.jobString>Делает Фиалы Стимбоя.</MakeBulkMSBattleStimVial.jobString>
+
+
+  <!-- BattleStim -->
+
+  <MakeMSBattleStim.label>Сделать Стимбой</MakeMSBattleStim.label>
+  <MakeMSBattleStim.description>Сделать 1 Стимбой</MakeMSBattleStim.description>
+  <MakeMSBattleStim.jobString>Делает Стимбой</MakeMSBattleStim.jobString>
+
+  <MakeBulkMSBattleStim.label>Сделать Стимбой(5)</MakeBulkMSBattleStim.label>
+  <MakeBulkMSBattleStim.description>Сделать 5 Стимбоя</MakeBulkMSBattleStim.description>
+  <MakeBulkMSBattleStim.jobString>Делает Стимбой</MakeBulkMSBattleStim.jobString>
+
+
+</LanguageData>

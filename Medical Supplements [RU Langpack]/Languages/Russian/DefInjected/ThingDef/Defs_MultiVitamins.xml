@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Multi Vitamins -->
+
+  <MSMultiVitamins.label>Мульти-витамины</MSMultiVitamins.label>
+  <MSMultiVitamins.description>Таблетки, принимаемые через день и применяемые для повышения иммунитета, включают предотвращение пищевых отравлений и кишечных глистов.</MSMultiVitamins.description>
+  <MSMultiVitamins.ingestible.ingestCommandString>Взять {0}</MSMultiVitamins.ingestible.ingestCommandString>
+  <MSMultiVitamins.ingestible.ingestReportString>Берет {0}.</MSMultiVitamins.ingestible.ingestReportString>
+
+
+</LanguageData>

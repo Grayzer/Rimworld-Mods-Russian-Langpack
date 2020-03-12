@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSHydrogenPeroxide.label>Сделать Пероксид водорода(5)</MakeMSHydrogenPeroxide.label>
+  <MakeMSHydrogenPeroxide.description>Сделать 5 Пероксида водорода.</MakeMSHydrogenPeroxide.description>
+  <MakeMSHydrogenPeroxide.jobString>Приготавливает Пероксид водорода.</MakeMSHydrogenPeroxide.jobString>
+
+
+  <!-- Bulk -->
+
+  <MakeBulkMSHydrogenPeroxide.label>Сделать Пероксид водорода(25)</MakeBulkMSHydrogenPeroxide.label>
+  <MakeBulkMSHydrogenPeroxide.description>Сделать 25 Пероксида водорода.</MakeBulkMSHydrogenPeroxide.description>
+  <MakeBulkMSHydrogenPeroxide.jobString>Приготавливает Пероксид водорода.</MakeBulkMSHydrogenPeroxide.jobString>
+
+
+</LanguageData>

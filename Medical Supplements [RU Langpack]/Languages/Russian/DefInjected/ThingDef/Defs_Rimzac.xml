@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimzac -->
+
+  <MSRimzac.label>Римзак</MSRimzac.label>
+  <MSRimzac.description>Антидепрессант. Рафинированный из амброзии для устранения вызывающих привыкание побочных эффектов и длится 2 дня.</MSRimzac.description>
+  <MSRimzac.ingestible.ingestCommandString>Взять {0}</MSRimzac.ingestible.ingestCommandString>
+  <MSRimzac.ingestible.ingestReportString>Берет {0}.</MSRimzac.ingestible.ingestReportString>
+
+
+</LanguageData>

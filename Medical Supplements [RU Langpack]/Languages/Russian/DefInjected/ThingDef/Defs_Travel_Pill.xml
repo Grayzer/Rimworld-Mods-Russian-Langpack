@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Travel Pill -->
+
+  <MSTravelPill.label>Таблетки путишественника</MSTravelPill.label>
+  <MSTravelPill.description>Таблетка для путешествий, обладающая мягким действием для улучшения физических способностей, немного подавляет чувство голода, заставляет вас чувствовать себя менее неловко, но заставляет вас немного быстрее уставать. Эффект длится 5 дней.</MSTravelPill.description>
+  <MSTravelPill.ingestible.ingestCommandString>Взять {0}</MSTravelPill.ingestible.ingestCommandString>
+  <MSTravelPill.ingestible.ingestReportString>Берет {0}.</MSTravelPill.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Opium Chemical and effects -->
+
+  <Chemical_MSOpium.label>Опиумная зависимость</Chemical_MSOpium.label>
+  <Chemical_MSOpium.description>Из-за зависимости от опиума этот человек должен регулярно употреблять наркотики, чтобы избежать симптомов отмены.</Chemical_MSOpium.description>
+
+
+</LanguageData>

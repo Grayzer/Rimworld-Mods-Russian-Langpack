@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Immunisation -->
+
+  <MakeMSImmunisation.label>Сделать инъекцию Иммунизатора</MakeMSImmunisation.label>
+  <MakeMSImmunisation.description>Сделать 1 инъекцию Иммунизатора</MakeMSImmunisation.description>
+  <MakeMSImmunisation.jobString>Делает инъекцию Иммунизатора.</MakeMSImmunisation.jobString>
+
+  <Inject_MSImmunisation.label>Инъекция Иммунизатора</Inject_MSImmunisation.label>
+  <Inject_MSImmunisation.description>Назначение инъекции иммунизации пациенту.</Inject_MSImmunisation.description>
+  <Inject_MSImmunisation.jobString>Инъекция пациенту.</Inject_MSImmunisation.jobString>
+
+
+  <!-- Cerebrax -->
+
+  <MakeMSCerebrax.label>Сделать инъекцию Церебракса</MakeMSCerebrax.label>
+  <MakeMSCerebrax.description>Сделать 1 инъекцию Церебракса</MakeMSCerebrax.description>
+  <MakeMSCerebrax.jobString>Делает инъекцию Церебракса.</MakeMSCerebrax.jobString>
+
+  <Inject_MSCerebrax.label>Инъекция Церебракса</Inject_MSCerebrax.label>
+  <Inject_MSCerebrax.description>Назначение инъекции Церебракса пациенту.</Inject_MSCerebrax.description>
+  <Inject_MSCerebrax.jobString>Инъекция пациенту.</Inject_MSCerebrax.jobString>
+
+
+  <!-- Condom -->
+
+  <MakeMSCondom.label>Сделать Презервативы(5)</MakeMSCondom.label>
+  <MakeMSCondom.description>Сделать 5 Презервативов</MakeMSCondom.description>
+  <MakeMSCondom.jobString>Делает Презервативы.</MakeMSCondom.jobString>
+
+
+</LanguageData>

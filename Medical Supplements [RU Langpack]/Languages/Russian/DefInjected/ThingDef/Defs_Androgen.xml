@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Androgen -->
+
+  <MSAndrogen.label>Андроген</MSAndrogen.label>
+  <MSAndrogen.description>Синтетический андроген используется как мягкий стероидный гормон. Может сделать человека более временным, а также может привести к нежелательному росту волос у женщин как более необычный побочный эффект. Эффекты длятся 3 дня.</MSAndrogen.description>
+  <MSAndrogen.ingestible.ingestCommandString>Взять {0}</MSAndrogen.ingestible.ingestCommandString>
+  <MSAndrogen.ingestible.ingestReportString>Берет {0}.</MSAndrogen.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSSulphur.label>Сделать серу</MakeMSSulphur.label>
+  <MakeMSSulphur.description>Сделать 50 серы.</MakeMSSulphur.description>
+  <MakeMSSulphur.jobString>Делает серу.</MakeMSSulphur.jobString>
+
+  <MakeMSSulphurBlocks.label>Сделать серу (блоки)</MakeMSSulphurBlocks.label>
+  <MakeMSSulphurBlocks.description>Сделать 50 серы из блоков</MakeMSSulphurBlocks.description>
+  <MakeMSSulphurBlocks.jobString>Делает серу</MakeMSSulphurBlocks.jobString>
+
+
+</LanguageData>

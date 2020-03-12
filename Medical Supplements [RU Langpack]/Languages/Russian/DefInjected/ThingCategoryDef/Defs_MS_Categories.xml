@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Categories -->
+
+  <MSDrugs.label>Медицинские добавки</MSDrugs.label>
+  <MSInjectStim.label>Инъекции и стимуляторы</MSInjectStim.label>
+  <MSManufactured.label>Медицинские ресурсы добавок</MSManufactured.label>
+
+
+</LanguageData>

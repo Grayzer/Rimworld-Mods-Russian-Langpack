@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Beacon Component -->
+
+  <MSGPSBeaconMeds.label>GPS маяк (Медпомощь)</MSGPSBeaconMeds.label>
+  <MSGPSBeaconMeds.description>GPS маяк для медикаментов. Компонент одноразового использования, который отправляет радиосигнал для запроса поставок в определенное место.</MSGPSBeaconMeds.description>
+
+
+  <!-- Medical Supply Flare -->
+
+  <MSMedSupplyFlare.label>Флаер медицинского снабжения</MSMedSupplyFlare.label>
+  <MSMedSupplyFlare.description>Одноразовая пусковая установка, которая применяет маркерный газ для вызова медикаментов.</MSMedSupplyFlare.description>
+  <MSMedSupplyFlare.verbs.0.label>Флаер медицинского снабжения</MSMedSupplyFlare.verbs.0.label>
+
+  <Grenade_MSMedSupplyFlare.label>Флаер медицинского снабжения</Grenade_MSMedSupplyFlare.label>
+
+
+  <!-- Gas : Thing -->
+
+  <Gas_MSFlareMark.label>Газ флаера медицинского снабжения</Gas_MSFlareMark.label>
+
+
+</LanguageData>

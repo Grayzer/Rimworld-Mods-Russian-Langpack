@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- BattleStim Vial -->
+
+  <MSBattleStim_Vial.label>Фиал Стимбоя</MSBattleStim_Vial.label>
+  <MSBattleStim_Vial.description>Флакон химикатов Стимбоя. Приготовлен в Стимлаб.</MSBattleStim_Vial.description>
+
+
+  <!-- BattleStim -->
+
+  <MSBattleStim.label>СтимБой</MSBattleStim.label>
+  <MSBattleStim.description>Доза самоинъекционных механитов, предназначенных для повышения потенциала в битве и лечения. Использует Метазис с другими лекарственными средствами в радиоактивных условиях, которые обеспечивают регенеративные свойства и боевую готовность. Существует вероятность возникновения побочных эффектов, связанных с повреждением печени или почек, а также возможного периода регрессии к их применению. Эффекты длятся полдня.</MSBattleStim.description>
+  <MSBattleStim.comps.2.useLabel>Использовать СтимБой</MSBattleStim.comps.2.useLabel>
+
+
+  <!-- Utility Belt -->
+
+  <MSBattleStimBelt.label>Устройство СтимБоя</MSBattleStimBelt.label>
+  <MSBattleStimBelt.description>Боевой стим, прикрепляемый к любому поясу или области талии в качестве вспомогательного предмета.</MSBattleStimBelt.description>
+
+
+</LanguageData>

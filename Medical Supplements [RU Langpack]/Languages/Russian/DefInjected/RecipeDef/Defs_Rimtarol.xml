@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeRimtarol.label>Сделать Римтарол</MakeRimtarol.label>
+  <MakeRimtarol.description>Сделать Римтарол.</MakeRimtarol.description>
+  <MakeRimtarol.jobString>Делает Римтарол</MakeRimtarol.jobString>
+
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkRimtarol.label>Сделать Римтарол(5)</MakeBulkRimtarol.label>
+  <MakeBulkRimtarol.description>Сделать 5 Римтарола.</MakeBulkRimtarol.description>
+  <MakeBulkRimtarol.jobString>Делает Римтарол</MakeBulkRimtarol.jobString>
+
+
+</LanguageData>

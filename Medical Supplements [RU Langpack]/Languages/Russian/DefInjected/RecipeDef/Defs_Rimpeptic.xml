@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeRimpeptic.label>Сделать Римпептик(5)</MakeRimpeptic.label>
+  <MakeRimpeptic.description>Сделать 5 Римпептика.</MakeRimpeptic.description>
+  <MakeRimpeptic.jobString>Делает Римпептик</MakeRimpeptic.jobString>
+
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkRimpeptic.label>Сделать Римпептик(25)</MakeBulkRimpeptic.label>
+  <MakeBulkRimpeptic.description>Сделать 25 Римпептика.</MakeBulkRimpeptic.description>
+  <MakeBulkRimpeptic.jobString>Делает Римпептик</MakeBulkRimpeptic.jobString>
+
+
+</LanguageData>

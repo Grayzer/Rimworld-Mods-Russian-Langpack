@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vinacol -->
+
+  <MSVinacol.label>Винакол</MSVinacol.label>
+  <MSVinacol.description>Таблетки Винакола. Препарат химиотерапии принимается каждые 4 дня.</MSVinacol.description>
+  <MSVinacol.ingestible.ingestCommandString>Взять {0}</MSVinacol.ingestible.ingestCommandString>
+  <MSVinacol.ingestible.ingestReportString>Берет {0}.</MSVinacol.ingestible.ingestReportString>
+
+
+</LanguageData>

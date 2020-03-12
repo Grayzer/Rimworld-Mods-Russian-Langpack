@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimpeptic -->
+
+  <MSRimpeptic.label>Римпептик</MSRimpeptic.label>
+  <MSRimpeptic.description>Римпептик - это препарат, предназначенный для приема в ответ на пищевое отравление или кишечные глисты, который помогает успокоить желудок. Это может помочь немного смягчить последствия пищевого отравления, но не остановит процесс, однако для кишечных червей это может помочь уменьшить длительность, связанную с этим заболеванием, также есть потенциал (если незначительный) для этого препарата даже вылечить эту болезнь, если качество лечения достаточно высоко. Принимается ежедневно в ответ на условия.</MSRimpeptic.description>
+  <MSRimpeptic.ingestible.ingestCommandString>Выпить {0}</MSRimpeptic.ingestible.ingestCommandString>
+  <MSRimpeptic.ingestible.ingestReportString>Пьет {0}.</MSRimpeptic.ingestible.ingestReportString>
+
+
+</LanguageData>

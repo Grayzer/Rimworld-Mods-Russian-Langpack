@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSRimSnooze.label>Сделать РимСон</MakeMSRimSnooze.label>
+  <MakeMSRimSnooze.description>Сделать 1 РимСон</MakeMSRimSnooze.description>
+  <MakeMSRimSnooze.jobString>Делает РимСон</MakeMSRimSnooze.jobString>
+
+  <MakeBulkMSRimSnooze.label>Сделать РимСон(5)</MakeBulkMSRimSnooze.label>
+  <MakeBulkMSRimSnooze.description>Сделать 5 РимСона</MakeBulkMSRimSnooze.description>
+  <MakeBulkMSRimSnooze.jobString>Делает РимСон</MakeBulkMSRimSnooze.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Unhook -->
+
+  <MSUnhook.label>Отрыв</MSUnhook.label>
+  <MSUnhook.description>Отрыв - это лекарство, помогающее уменьшить проблемы, связанные с зависимостью. Существует вероятность формирования психической зависимости. Можно принимать через день.</MSUnhook.description>
+  <MSUnhook.ingestible.ingestCommandString>Взять {0}</MSUnhook.ingestible.ingestCommandString>
+  <MSUnhook.ingestible.ingestReportString>Берет {0}.</MSUnhook.ingestible.ingestReportString>
+
+
+</LanguageData>

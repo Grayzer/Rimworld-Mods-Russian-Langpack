@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSWipes.label>Сделать Антибактериальные салфетки</MakeMSWipes.label>
+  <MakeMSWipes.description>Сделать 5 Антибактериальных салфеток.</MakeMSWipes.description>
+  <MakeMSWipes.jobString>Делает Антибактериальные салфетки.</MakeMSWipes.jobString>
+
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkMSWipes.label>Сделать Антибактериальные салфетки(25)</MakeBulkMSWipes.label>
+  <MakeBulkMSWipes.description>Сделать 25 Антибактериальных салфеток.</MakeBulkMSWipes.description>
+  <MakeBulkMSWipes.jobString>Делает Антибактериальные салфетки.</MakeBulkMSWipes.jobString>
+
+
+</LanguageData>

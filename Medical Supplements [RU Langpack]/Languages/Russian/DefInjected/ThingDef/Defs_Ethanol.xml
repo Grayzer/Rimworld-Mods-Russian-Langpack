@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ethanol -->
+
+  <MSEthanol.label>Этанол (синтетический)</MSEthanol.label>
+  <MSEthanol.description>Этанол - летучая, легковоспламеняющаяся бесцветная жидкость со слабым характерным запахом. Это психоактивное вещество и является основным типом алкоголя в алкогольных напитках. Используется в качестве химического вещества-прекурсора для формирования других предметов. Чрезмерное потребление может привести к потери сознания и, со временем, к зависимости. (Сделано из химтоплива и серной кислоты).</MSEthanol.description>
+  <MSEthanol.tools.0.label>бутылка</MSEthanol.tools.0.label>
+  <MSEthanol.tools.1.label>горлышко</MSEthanol.tools.1.label>
+  <MSEthanol.ingestible.ingestCommandString>Выпить {0}</MSEthanol.ingestible.ingestCommandString>
+  <MSEthanol.ingestible.ingestReportString>Пьет {0}.</MSEthanol.ingestible.ingestReportString>
+
+
+</LanguageData>

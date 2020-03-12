@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimcetamol -->
+
+  <MSRimcetamol.label>Римцетамол</MSRimcetamol.label>
+  <MSRimcetamol.description>Обезболивающее от слабого до среднего. Эффекты длятся день.</MSRimcetamol.description>
+  <MSRimcetamol.ingestible.ingestCommandString>Взять {0}</MSRimcetamol.ingestible.ingestCommandString>
+  <MSRimcetamol.ingestible.ingestReportString>Берет {0}.</MSRimcetamol.ingestible.ingestReportString>
+
+
+</LanguageData>

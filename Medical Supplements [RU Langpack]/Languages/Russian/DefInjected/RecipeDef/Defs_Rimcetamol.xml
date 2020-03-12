@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe -->
+
+  <MakeRimcetamol.label>Сделать Римцетамол(2)</MakeRimcetamol.label>
+  <MakeRimcetamol.description>Сделать 2 таблетки Римцетамола.</MakeRimcetamol.description>
+  <MakeRimcetamol.jobString>Делает Римцетамол.</MakeRimcetamol.jobString>
+
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkRimcetamol.label>Сделать Римцетамол(10)</MakeBulkRimcetamol.label>
+  <MakeBulkRimcetamol.description>Сделать 10 таблеток Римцетамола.</MakeBulkRimcetamol.description>
+  <MakeBulkRimcetamol.jobString>Делает Римцетамол.</MakeBulkRimcetamol.jobString>
+
+
+</LanguageData>

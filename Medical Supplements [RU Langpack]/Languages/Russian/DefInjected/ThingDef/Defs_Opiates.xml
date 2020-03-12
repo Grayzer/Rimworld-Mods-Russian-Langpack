@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MSRimCodamol -->
+
+  <MSRimCodamol.label>РимКодамол</MSRimCodamol.label>
+  <MSRimCodamol.description>Легкое опиатное обезболивающее, которое длится около суток. Может вызывать привыкание (в основном, если принимать слишком много за короткий промежуток времени).</MSRimCodamol.description>
+  <MSRimCodamol.ingestible.ingestCommandString>Взять {0}</MSRimCodamol.ingestible.ingestCommandString>
+  <MSRimCodamol.ingestible.ingestReportString>Берет {0}.</MSRimCodamol.ingestible.ingestReportString>
+
+
+  <!-- MSMorphine -->
+
+  <MSMorphine.label>Морфин</MSMorphine.label>
+  <MSMorphine.description>Сильный болеутоляющий опиат, который длится около половины дня. Может вызывать привыкание.</MSMorphine.description>
+  <MSMorphine.ingestible.ingestCommandString>Укол {0}</MSMorphine.ingestible.ingestCommandString>
+  <MSMorphine.ingestible.ingestReportString>Колет {0}.</MSMorphine.ingestible.ingestReportString>
+
+
+  <!-- MSOpiumPipe -->
+
+  <MSOpiumPipe.label>Трубка опиума</MSOpiumPipe.label>
+  <MSOpiumPipe.description>Раннее и грубое, хотя и сильнодействующее опиатное обезболивающее лекарство, которое длится около половины дня. Может быть довольно захватывающим.</MSOpiumPipe.description>
+  <MSOpiumPipe.ingestible.ingestCommandString>Курить {0}</MSOpiumPipe.ingestible.ingestCommandString>
+  <MSOpiumPipe.ingestible.ingestReportString>Курит {0}.</MSOpiumPipe.ingestible.ingestReportString>
+
+
+</LanguageData>

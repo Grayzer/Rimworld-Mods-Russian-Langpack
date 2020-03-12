@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSClarity.label>Сделать Ясность</MakeMSClarity.label>
+  <MakeMSClarity.description>Сделать 1 Ясность</MakeMSClarity.description>
+  <MakeMSClarity.jobString>Делает Ясность</MakeMSClarity.jobString>
+
+  <MakeBulkMSClarity.label>Сделать Ясность(5)</MakeBulkMSClarity.label>
+  <MakeBulkMSClarity.description>Сделать 5 Ясности</MakeBulkMSClarity.description>
+  <MakeBulkMSClarity.jobString>Делает Ясность</MakeBulkMSClarity.jobString>
+
+
+</LanguageData>

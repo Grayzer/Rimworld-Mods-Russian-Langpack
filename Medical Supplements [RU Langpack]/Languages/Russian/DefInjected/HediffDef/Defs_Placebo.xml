@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Placebo -->
+
+  <MSPlacebo_High.label>Плацебо</MSPlacebo_High.label>
+  <MSPlacebo_High.description>Эффект Плацебо</MSPlacebo_High.description>
+
+
+  <!-- Mental Dependancy -->
+
+  <MSMental_Tolerance.label>легкая психологическая зависимость</MSMental_Tolerance.label>
+  <MSMental_Tolerance.description>легкая психологическая зависимость</MSMental_Tolerance.description>
+
+  <MSMental_Addiction.label>психологическая зависимость</MSMental_Addiction.label>
+  <MSMental_Addiction.description>эффект психологической зависимости</MSMental_Addiction.description>
+  <MSMental_Addiction.stages.1.label>ломка</MSMental_Addiction.stages.1.label>
+
+
+</LanguageData>

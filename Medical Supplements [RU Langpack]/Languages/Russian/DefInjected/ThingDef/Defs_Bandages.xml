@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cotton Bandages -->
+
+  <MSBandage.label>Стерильные хлопковые повязки</MSBandage.label>
+  <MSBandage.description>Марля из стерильного хлопка. Она может быть использована для лечения, как медицина, но менее эффективена.</MSBandage.description>
+
+
+  <!-- Antisceptic Bandages -->
+
+  <MSASBandage.label>Антисептические повязки</MSASBandage.label>
+  <MSASBandage.description>Антисептическая марля из синтетического волокна, пропитанная раствором серебра. Она как правило, похожа на медицину, но немного менее эффективна.</MSASBandage.description>
+
+
+  <!-- Metasis Bandages -->
+
+  <MSNanoBandage.label>Нанотехнологические повязки</MSNanoBandage.label>
+  <MSNanoBandage.description>Гипертканная марля, пропитанная изысканным метазисом. Она может быть использован для лечения, как медицина, но более эффективена.</MSNanoBandage.description>
+
+
+</LanguageData>

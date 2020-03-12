@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSUnhook.label>Сделать Отрыв</MakeMSUnhook.label>
+  <MakeMSUnhook.description>Сделать 1 Отрыв</MakeMSUnhook.description>
+  <MakeMSUnhook.jobString>Делает Отрыв</MakeMSUnhook.jobString>
+
+  <MakeBulkMSUnhook.label>Сделать Отрыв(5)</MakeBulkMSUnhook.label>
+  <MakeBulkMSUnhook.description>Сделать 5 Отрыва</MakeBulkMSUnhook.description>
+  <MakeBulkMSUnhook.jobString>Делает Отрыв</MakeBulkMSUnhook.jobString>
+
+
+</LanguageData>

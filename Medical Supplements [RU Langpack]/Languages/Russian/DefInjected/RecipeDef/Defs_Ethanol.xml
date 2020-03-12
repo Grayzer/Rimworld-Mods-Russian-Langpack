@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSEthanol.label>Сделать Этанол(5)</MakeMSEthanol.label>
+  <MakeMSEthanol.description>Сделать 5 Этанола.</MakeMSEthanol.description>
+  <MakeMSEthanol.jobString>Готовит Этанол.</MakeMSEthanol.jobString>
+
+
+  <!-- Bulk -->
+
+  <MakeBulkMSEthanol.label>Сделать Этанол(25)</MakeBulkMSEthanol.label>
+  <MakeBulkMSEthanol.description>Сделать 25 Ethanol.</MakeBulkMSEthanol.description>
+  <MakeBulkMSEthanol.jobString>Готовит Этанол.</MakeBulkMSEthanol.jobString>
+
+
+</LanguageData>

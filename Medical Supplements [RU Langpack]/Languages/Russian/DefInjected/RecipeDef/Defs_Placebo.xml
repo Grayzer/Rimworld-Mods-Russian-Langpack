@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSPlacebo.label>Сделать Плацебо</MakeMSPlacebo.label>
+  <MakeMSPlacebo.description>Сделать 1 Плацебо.</MakeMSPlacebo.description>
+  <MakeMSPlacebo.jobString>Делает Плацебо.</MakeMSPlacebo.jobString>
+
+  <MakeBulkMSPlacebo.label>Сделать Плацебо(5)</MakeBulkMSPlacebo.label>
+  <MakeBulkMSPlacebo.description>Сделать 5 Плацебо.</MakeBulkMSPlacebo.description>
+  <MakeBulkMSPlacebo.jobString>Делает Плацебо.</MakeBulkMSPlacebo.jobString>
+
+
+</LanguageData>

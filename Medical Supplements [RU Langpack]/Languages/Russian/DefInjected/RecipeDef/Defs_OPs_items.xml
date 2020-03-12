@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artery Blockage - Stent -->
+
+  <MakeMSStent.label>Сделать медицинский стент</MakeMSStent.label>
+  <MakeMSStent.description>Сделать медицинский стент.</MakeMSStent.description>
+  <MakeMSStent.jobString>Делает медицинский стент.</MakeMSStent.jobString>
+
+  <MSArterialStent.label>установить артериальный стент</MSArterialStent.label>
+  <MSArterialStent.description>Установите артериальный стент для устранения артериальной закупорки.</MSArterialStent.description>
+  <MSArterialStent.jobString>Установка стента.</MSArterialStent.jobString>
+  <MSArterialStent.successfullyRemovedHediffMessage>{0} успешно установил стент для устранения артериальной блокировки у {1}.</MSArterialStent.successfullyRemovedHediffMessage>
+
+
+  <!-- Bad Back -->
+
+  <MakeMSBackDisc.label>Сделать искусственный задний диск</MakeMSBackDisc.label>
+  <MakeMSBackDisc.description>Сделать искусственный межпозвоночный диск.</MakeMSBackDisc.description>
+  <MakeMSBackDisc.jobString>Делает задний диск.</MakeMSBackDisc.jobString>
+
+  <MSBadBackDiscs.label>добавить искусственные задние диски</MSBadBackDiscs.label>
+  <MSBadBackDiscs.description>добавить искусственные задние диски.</MSBadBackDiscs.description>
+  <MSBadBackDiscs.jobString>установка задних дисков.</MSBadBackDiscs.jobString>
+  <MSBadBackDiscs.successfullyRemovedHediffMessage>{0} успешно установил новые задние диски для {1}.</MSBadBackDiscs.successfullyRemovedHediffMessage>
+
+
+  <!-- Cataract Removal -->
+
+  <MakeMSAdvSurgeryTools.label>Сделать передовые инструменты хирургии</MakeMSAdvSurgeryTools.label>
+  <MakeMSAdvSurgeryTools.description>Сделать расширенный набор инструментов для хирургии.</MakeMSAdvSurgeryTools.description>
+  <MakeMSAdvSurgeryTools.jobString>Делает расширенный набор инструментов для хирургии.</MakeMSAdvSurgeryTools.jobString>
+
+  <MSCataractRemoval.label>удалить катаракту</MSCataractRemoval.label>
+  <MSCataractRemoval.description>удалить катаракту.</MSCataractRemoval.description>
+  <MSCataractRemoval.jobString>Удаляет катаракту.</MSCataractRemoval.jobString>
+  <MSCataractRemoval.successfullyRemovedHediffMessage>{0} успешно удалил катаракту у {1}.</MSCataractRemoval.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

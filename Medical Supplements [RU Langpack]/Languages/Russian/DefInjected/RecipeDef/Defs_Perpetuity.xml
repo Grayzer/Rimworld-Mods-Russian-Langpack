@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Perpetuity Vial -->
+
+  <MakeMSPerpetuityVial.label>Сделать Флакон вечности</MakeMSPerpetuityVial.label>
+  <MakeMSPerpetuityVial.description>Сделать 1 Флакон вечности.</MakeMSPerpetuityVial.description>
+  <MakeMSPerpetuityVial.jobString>Делает Флакон вечности.</MakeMSPerpetuityVial.jobString>
+
+
+  <!-- Recipe -->
+
+  <MakeMSPerpetuity.label>Сделать Вечность</MakeMSPerpetuity.label>
+  <MakeMSPerpetuity.description>Сделать 1 Вечность.</MakeMSPerpetuity.description>
+  <MakeMSPerpetuity.jobString>Делает Вечность.</MakeMSPerpetuity.jobString>
+
+
+</LanguageData>

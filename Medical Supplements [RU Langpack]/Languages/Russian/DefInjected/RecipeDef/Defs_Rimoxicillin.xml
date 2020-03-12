@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeRimoxicillin.label>Сделать Римоксицилин</MakeRimoxicillin.label>
+  <MakeRimoxicillin.description>Сделать Римоксицилин.</MakeRimoxicillin.description>
+  <MakeRimoxicillin.jobString>Делает Римоксицилин</MakeRimoxicillin.jobString>
+
+  <MakeBulkRimoxicillin.label>Сделать Римоксицилин(5)</MakeBulkRimoxicillin.label>
+  <MakeBulkRimoxicillin.description>Сделать 5 Римоксицилина.</MakeBulkRimoxicillin.description>
+  <MakeBulkRimoxicillin.jobString>Делает Римоксицилин</MakeBulkRimoxicillin.jobString>
+
+
+</LanguageData>

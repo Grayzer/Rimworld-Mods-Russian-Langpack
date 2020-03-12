@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSAndrogen.label>Сделать Андроген</MakeMSAndrogen.label>
+  <MakeMSAndrogen.description>Сделать таблетки Андрогена.</MakeMSAndrogen.description>
+  <MakeMSAndrogen.jobString>Делает Андроген</MakeMSAndrogen.jobString>
+
+  <MakeBulkMSAndrogen.label>Сделать Андроген(5)</MakeBulkMSAndrogen.label>
+  <MakeBulkMSAndrogen.description>Сделать 5 таблеток Андрогена.</MakeBulkMSAndrogen.description>
+  <MakeBulkMSAndrogen.jobString>Делает Андроген</MakeBulkMSAndrogen.jobString>
+
+
+</LanguageData>

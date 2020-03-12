@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Perpetuity Vial -->
+
+  <MSPerpetuity_Vial.label>Флакон вечности</MSPerpetuity_Vial.label>
+  <MSPerpetuity_Vial.description>Флакон вечных химикатов. Готовится в Стимлаб.</MSPerpetuity_Vial.description>
+
+
+  <!-- Perpetuity -->
+
+  <MSPerpetuity.label>Вечность</MSPerpetuity.label>
+  <MSPerpetuity.description>Доза самоинъекционных механитов предназначена для омоложения пользователя. Эликсир жизни из легенды.</MSPerpetuity.description>
+  <MSPerpetuity.comps.2.useLabel>Использовать Вечность</MSPerpetuity.comps.2.useLabel>
+
+
+</LanguageData>

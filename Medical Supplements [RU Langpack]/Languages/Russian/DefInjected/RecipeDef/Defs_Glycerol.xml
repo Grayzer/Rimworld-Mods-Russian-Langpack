@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeGlycerol.label>Сделать Глицерин(5)</MakeGlycerol.label>
+  <MakeGlycerol.description>Сделать 5 Глицерина.</MakeGlycerol.description>
+  <MakeGlycerol.jobString>Переэтерификация Глицерина.</MakeGlycerol.jobString>
+
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkGlycerol.label>Сделать Глицерин(25)</MakeBulkGlycerol.label>
+  <MakeBulkGlycerol.description>Сделать 25 Глицерина.</MakeBulkGlycerol.description>
+  <MakeBulkGlycerol.jobString>Переэтерификация Глицерина.</MakeBulkGlycerol.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FireThroat -->
+
+  <MSFireThroat_Thought.stages.0.label>Горлодер</MSFireThroat_Thought.stages.0.label>
+  <MSFireThroat_Thought.stages.0.description>Успокаивающий эффект</MSFireThroat_Thought.stages.0.description>
+  <MSFireThroat_Thought.stages.1.label>После Горлодера</MSFireThroat_Thought.stages.1.label>
+  <MSFireThroat_Thought.stages.1.description>Не нравится послевкусие</MSFireThroat_Thought.stages.1.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Drug Cabinet -->
+
+  <DrugCabinet.label>Хим кабинет</DrugCabinet.label>
+  <DrugCabinet.description>Небольшой шкаф для хранения лекарств. Включает в себя небольшое повышение чистоты и увеличение производства на стендах лаборатории наркотиков.</DrugCabinet.description>
+
+
+</LanguageData>

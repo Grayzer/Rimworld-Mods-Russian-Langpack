@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSBulkMedicine.label>Сделать Медицину(5)</MSBulkMedicine.label>
+  <MSBulkMedicine.description>Сделать 5 Медицину.</MSBulkMedicine.description>
+  <MSBulkMedicine.jobString>Делает Медицину.</MSBulkMedicine.jobString>
+
+
+  <!-- Ultra medicine -->
+
+  <MakeMSUltraMedicine.label>Сделать Передовую Медицину</MakeMSUltraMedicine.label>
+  <MakeMSUltraMedicine.description>Сделать 1 Передовую Медицину</MakeMSUltraMedicine.description>
+  <MakeMSUltraMedicine.jobString>Делает Передовую Медицину.</MakeMSUltraMedicine.jobString>
+
+
+  <!-- Healer Mech Serum -->
+
+  <MakeMSHealerMechSerum.label>Сделать Сыворотку исцеления</MakeMSHealerMechSerum.label>
+  <MakeMSHealerMechSerum.description>Сделать 1 Сыворотку исцеления</MakeMSHealerMechSerum.description>
+  <MakeMSHealerMechSerum.jobString>Делает Сыворотку исцеления.</MakeMSHealerMechSerum.jobString>
+
+
+  <!-- Ressurector Mech Serum -->
+
+  <MakeMSRessurectorMechSerum.label>Сделать Сыворотку воскрешения</MakeMSRessurectorMechSerum.label>
+  <MakeMSRessurectorMechSerum.description>Сделать 1 Сыворотку воскрешения</MakeMSRessurectorMechSerum.description>
+  <MakeMSRessurectorMechSerum.jobString>Делает Сыворотку воскрешения.</MakeMSRessurectorMechSerum.jobString>
+
+
+  <!-- Changed to be individual skills as of V1.1 -->
+
+  <MakeMSNTMechSerum.jobString>Делает Сывортку нейротренера.</MakeMSNTMechSerum.jobString>
+
+  <MakeMSNTMechSerumShooting.label>Сделать Нейротренер (Стрелок)</MakeMSNTMechSerumShooting.label>
+  <MakeMSNTMechSerumShooting.description>Сделать 1 Нейротренер (Стрелок)</MakeMSNTMechSerumShooting.description>
+  <MakeMSNTMechSerumShooting.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumShooting.jobString>
+
+  <MakeMSNTMechSerumMelee.label>Сделать Нейротренер (Драчун)</MakeMSNTMechSerumMelee.label>
+  <MakeMSNTMechSerumMelee.description>Сделать 1 Нейротренер (Драчун)</MakeMSNTMechSerumMelee.description>
+  <MakeMSNTMechSerumMelee.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumMelee.jobString>
+
+  <MakeMSNTMechSerumConstruction.label>Сделать Нейротренер (Строитель)</MakeMSNTMechSerumConstruction.label>
+  <MakeMSNTMechSerumConstruction.description>Сделать 1 Нейротренер (Строитель)</MakeMSNTMechSerumConstruction.description>
+  <MakeMSNTMechSerumConstruction.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumConstruction.jobString>
+
+  <MakeMSNTMechSerumPlants.label>Сделать Нейротренер (Садовод)</MakeMSNTMechSerumPlants.label>
+  <MakeMSNTMechSerumPlants.description>Сделать 1 Нейротренер (Садовод)</MakeMSNTMechSerumPlants.description>
+  <MakeMSNTMechSerumPlants.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumPlants.jobString>
+
+  <MakeMSNTMechSerumIntellectual.label>Сделать Нейротренер (Ученый)</MakeMSNTMechSerumIntellectual.label>
+  <MakeMSNTMechSerumIntellectual.description>Сделать 1 Нейротренер (Ученый)</MakeMSNTMechSerumIntellectual.description>
+  <MakeMSNTMechSerumIntellectual.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumIntellectual.jobString>
+
+  <MakeMSNTMechSerumMining.label>Сделать Нейротренер (Шахтер)</MakeMSNTMechSerumMining.label>
+  <MakeMSNTMechSerumMining.description>Сделать 1 Нейротренер (Шахтер)</MakeMSNTMechSerumMining.description>
+  <MakeMSNTMechSerumMining.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumMining.jobString>
+
+  <MakeMSNTMechSerumSocial.label>Сделать Нейротренер (Дипломат)</MakeMSNTMechSerumSocial.label>
+  <MakeMSNTMechSerumSocial.description>Сделать 1 Нейротренер (Дипломат)</MakeMSNTMechSerumSocial.description>
+  <MakeMSNTMechSerumSocial.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumSocial.jobString>
+
+  <MakeMSNTMechSerumAnimals.label>Сделать Нейротренер (Животновод)</MakeMSNTMechSerumAnimals.label>
+  <MakeMSNTMechSerumAnimals.description>Сделать 1 Нейротренер (Животновод)</MakeMSNTMechSerumAnimals.description>
+  <MakeMSNTMechSerumAnimals.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumAnimals.jobString>
+
+  <MakeMSNTMechSerumCooking.label>Сделать Нейротренер (Повар)</MakeMSNTMechSerumCooking.label>
+  <MakeMSNTMechSerumCooking.description>Сделать 1 Нейротренер (Повар)</MakeMSNTMechSerumCooking.description>
+  <MakeMSNTMechSerumCooking.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumCooking.jobString>
+
+  <MakeMSNTMechSerumMedicine.label>Сделать Нейротренер (Медик)</MakeMSNTMechSerumMedicine.label>
+  <MakeMSNTMechSerumMedicine.description>Сделать 1 Нейротренер (Медик)</MakeMSNTMechSerumMedicine.description>
+  <MakeMSNTMechSerumMedicine.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumMedicine.jobString>
+
+  <MakeMSNTMechSerumArtistic.label>Сделать Нейротренер (Артист)</MakeMSNTMechSerumArtistic.label>
+  <MakeMSNTMechSerumArtistic.description>Сделать 1 Нейротренер (Артист)</MakeMSNTMechSerumArtistic.description>
+  <MakeMSNTMechSerumArtistic.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumArtistic.jobString>
+
+  <MakeMSNTMechSerumCrafting.label>Сделать Нейротренер (Ремесленник)</MakeMSNTMechSerumCrafting.label>
+  <MakeMSNTMechSerumCrafting.description>Сделать 1 Нейротренер (Ремесленник)</MakeMSNTMechSerumCrafting.description>
+  <MakeMSNTMechSerumCrafting.jobString>Делает Сывортку Нейротренера.</MakeMSNTMechSerumCrafting.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSContacts.label>Сделать контактные линзы</MakeMSContacts.label>
+  <MakeMSContacts.description>Сделать контактные линзы</MakeMSContacts.description>
+  <MakeMSContacts.jobString>Делает контактные линзы</MakeMSContacts.jobString>
+
+
+</LanguageData>

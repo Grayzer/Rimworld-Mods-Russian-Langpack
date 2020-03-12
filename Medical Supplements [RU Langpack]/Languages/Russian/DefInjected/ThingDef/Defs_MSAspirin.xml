@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Aspirin -->
+
+  <MSAspirin.label>Аспирин</MSAspirin.label>
+  <MSAspirin.description>Легкое обезболивающее средство, которое можно использовать для предотвращения процесса закупорки артерий. Принимается каждые 2 дня.</MSAspirin.description>
+  <MSAspirin.ingestible.ingestCommandString>Взять {0}</MSAspirin.ingestible.ingestCommandString>
+  <MSAspirin.ingestible.ingestReportString>Берет {0}.</MSAspirin.ingestible.ingestReportString>
+
+
+</LanguageData>

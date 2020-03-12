@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeBulkMSRimProPlus.label>Сделать РимПроПлюс(5)</MakeBulkMSRimProPlus.label>
+  <MakeBulkMSRimProPlus.description>Сделать 5 таблеток РимПроПлюс.</MakeBulkMSRimProPlus.description>
+  <MakeBulkMSRimProPlus.jobString>Делает РимПроПлюс.</MakeBulkMSRimProPlus.jobString>
+
+
+</LanguageData>

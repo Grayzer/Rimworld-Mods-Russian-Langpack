@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeMSSulphuricAcid.label>Сделать Серную кислоту</MakeMSSulphuricAcid.label>
+  <MakeMSSulphuricAcid.description>Сделать 5 Серной кислоты.</MakeMSSulphuricAcid.description>
+  <MakeMSSulphuricAcid.jobString>Приготавливает Серную кислоту.</MakeMSSulphuricAcid.jobString>
+
+
+  <!-- Bulk Recipe -->
+
+  <MakeBulkMSSulphuricAcid.label>Сделать Серную кислоту(25)</MakeBulkMSSulphuricAcid.label>
+  <MakeBulkMSSulphuricAcid.description>Сделать 25 Серной кислоты.</MakeBulkMSSulphuricAcid.description>
+  <MakeBulkMSSulphuricAcid.jobString>Приготавливает Серную кислоту.</MakeBulkMSSulphuricAcid.jobString>
+
+
+</LanguageData>

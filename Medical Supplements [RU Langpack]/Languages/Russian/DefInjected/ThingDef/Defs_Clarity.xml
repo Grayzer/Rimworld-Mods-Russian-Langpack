@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Clarity -->
+
+  <MSClarity.label>Ясность</MSClarity.label>
+  <MSClarity.description>Ясность является антипсихотическим и ноотропным препаратом. Принимать каждые 5 дней.</MSClarity.description>
+  <MSClarity.ingestible.ingestCommandString>Взять {0}</MSClarity.ingestible.ingestCommandString>
+  <MSClarity.ingestible.ingestReportString>Берет {0}.</MSClarity.ingestible.ingestReportString>
+
+
+</LanguageData>

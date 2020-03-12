@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MSMorphine -->
+
+  <MSMorphine_Thought.stages.0.label>Морфин</MSMorphine_Thought.stages.0.label>
+  <MSMorphine_Thought.stages.0.description>Чувствую себя действительно заводно</MSMorphine_Thought.stages.0.description>
+
+
+  <!-- MSOpiumPipe -->
+
+  <MSOpiumPipe_Thought.stages.0.label>Трубка опиума</MSOpiumPipe_Thought.stages.0.label>
+  <MSOpiumPipe_Thought.stages.0.description>Чувство чрезвычайной успокоенности от опиума</MSOpiumPipe_Thought.stages.0.description>
+
+
+</LanguageData>

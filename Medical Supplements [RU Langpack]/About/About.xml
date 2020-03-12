@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  	<name>Medical Supplements</name>
+  	<author>pelador</author>
+    <supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+   	<packageId>pelador.medicalsupplements</packageId>
+  	<description>Adds supportive Medical products.\n\nSave compatible and mod friendly. To remove mod you would have to remove all items introduced first.</description>
+  	<modDependencies>
+    <li>
+        <packageId>brrainz.harmony</packageId>
+        <displayName>Harmony</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/download/v1.0.0/Harmony.zip</downloadUrl>
+    </li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+    </loadAfter>
+</ModMetaData>

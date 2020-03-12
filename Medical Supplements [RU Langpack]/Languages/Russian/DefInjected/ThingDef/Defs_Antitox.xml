@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Antitox -->
+
+  <MSAntitox.label>Антитокс</MSAntitox.label>
+  <MSAntitox.description>Антитоксиновые таблетки. Принимаются каждые 3 дня.</MSAntitox.description>
+  <MSAntitox.ingestible.ingestCommandString>Взять {0}</MSAntitox.ingestible.ingestCommandString>
+  <MSAntitox.ingestible.ingestReportString>Берет {0}.</MSAntitox.ingestible.ingestReportString>
+
+
+</LanguageData>
