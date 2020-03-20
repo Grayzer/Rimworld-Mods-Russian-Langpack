@@ -1,0 +1,294 @@
+Update 1
+
+Added the Semi-Auto Shotgun to Self-Loading Actions
+Implemented the beginnings of the explosives tree
+Changed Self-Loading Actions' tech class to spacer
+
+
+Update 2 - Updated to A16
+
+Added Breech-Loading research topic and added the Breech-Loader
+Rebalanced crafting costs and market values
+
+
+Update 3 - Updated to A17
+
+Weapon damage is now dependant on the calibre of bullet, rather than some arbitrary number.
+Added most of the compatible content from the WIP Combat Realism version that may never see release.
+Replaced the Semi-Auto Shotgun with the Automatic Shotgun.
+Rebalanced every weapon to better fit the newer bonus weapons.
+Fixed the huge error that occured from booting Rimworld with dev mode on.
+A couple other updates that i'm probably forgetting.
+
+
+Update 3a
+
+Employed bonesbro's research tab to help with the cluttered research screen.
+
+
+Update 4 - Updated to B18
+
+Added new turret types; replaced vanilla turret textures.
+Added Composite Armour; increased Power Armour cost and defence to compensate.
+Added a few new bonus weapons.
+Rebalanced the Arquebus and added a pistol counter-part.
+Changed how weapons are distributed amoung pawns to encourage more diverse spawns.
+Re-textured the Assault Rifle, LMG, and Machine Pistol.
+
+
+Update 4a
+
+Fixed sappers not spawning and throwing up an error.
+
+
+Update 4b
+
+Added Double-Barrel Shotgun to Breech Loading Tree.
+Added Sawn-Off Shotgun.
+Fixed pistol/autopistol clone. (Will most likely cause an error on update, but not game-breaking)
+Fixed Grenade Launchers and Incendiary Launchers appearing on non-grenadiers.
+
+
+Update 4c
+
+Fixed issue with mannable turrets not being available until Self-Loading was researched.
+Minor buffs to the Light Machine Gun, Bullpup Rifle, and Light Support Weapon.
+
+
+Update 4d
+
+Added Mannable Minigun.
+Adjusted Mounted and Automated LMG/GPMG stats.
+Reduced number of rounds fired by the LMG, changed description to suit.
+Changed graphic for Automated LMG/GPMG tripods.
+
+
+Update 4e
+
+Added Heavy Revolver.
+Increased the Bolt-Action Pistol's cooldown to better accommodate the large revolver.
+Vastly changed how the Bullpup Rifle and Light Support Weapon work so as to make them feel more unique.
+Fixed typo in Bolt-Action Pistol description.
+Changed name of Civilian Rifle to Sporting Rifle.
+Changed description for the Converted Bolt-Action Rifle, and Sporting Rifle.
+Tweaked the texture for the Double-Barrel Shotgun and Sawn-Off Shotguns.
+
+
+Update 5 - Updated to B19
+
+Added Automatic Battle Rifle.
+Added Urban Pistol.
+Added Vinatage Machine Gun.
+Added Balanced Bullpup Rifle.
+Added Weighted Bullpup Carbine.
+Added Combat PDW.
+Added Infantry Automatic Rifle.
+Added Rugged Light Machine Gun.
+Added Rugged Marksman's Rifle.
+Added Riot Shotgun.
+Added Polymer Bullpup Rifle.
+Added Charge Carbine.
+Added Charge Pistol.
+Re-introduced the Semi-Automatic Shotgun.
+Removed Cast Grenades.
+Removed automated versions of the mannable turrets.
+Removed Composite Vests and changes to related apparel.
+Renamed Chain Shotgun to Automatic Shotgun.
+Renamed original Automatic Battle Rifle to Defence Rifle.
+Renamed Bullpup Rifle to Weighted Bullpup Rifle.
+Renamed Light Support Weapon to Weighted Light Support Weapon.
+Renamed Tactical Bullpup Rifle to Modernised Bullpup Rifle.
+Renamed Military Assault Rifle to Service Rifle.
+Renamed Compact Assault Rifle to Compact Carbine.
+Renamed Military Pistol to Service Pistol.
+Renamed Pistol to Semi-Automatic Pistol.
+Renamed Arquebus to Caliver.
+Replaced vanilla Chain Shotgun texture with an IRL contemporary.
+Retextured both the vanilla SMG's to appear smaller.
+Retextured the vanilla Charge Rifle.
+Retuextured the Caliver/Matchlock Pistol
+Retextured all Combat Rifle/Marksman Rifle Variants to better reflect their real life counterparts.
+Retextured the Compact Carbine.
+Retextured the Service Pistol.
+Retextured the Anti-Materiel Rifle.
+Retextured GMG.
+Retextured mounted Minigun/GMG bases to appear smaller.
+Altered most weapon descriptions to better describe their method of operation and backstory.
+Rebalance of most, if not all weapons.
+
+
+Update 5a
+
+Re-introduced Composite Vests as a form of bonus armour.
+Fixed the Double Barrel Shotgun being unlocked with gunpowder.
+
+
+Update 5b
+
+Fixed Stranger in Black error.
+Fixed the in-game "Composite Vests" title being capitalised.
+Fixed non-automated turrets breaking down.
+Made Mounted GMG a non-craftable bonus turret, to hopefully better balance it's power.
+Increased the Submachine Gun's burst count from 3 to 4.
+Added a patch that allows the Stranger In Black to spawn with Lever-Action Rifles.
+
+
+Update 5c
+
+Added Rugged Carbine
+Lightly modified vanilla research topics/weapons now patched as opposed to replaced.
+Buffed Charge weapon's stats so as to better reflect their cost.
+
+
+Update 5d
+
+Fixed research tab being incorrectly named 'Weapon Diversity'.
+Fixed Minigun not showing up for the maching table.
+
+
+Update 5e
+
+Turrets now unlocked with machining research.
+
+
+Update 5f
+
+Added Polymer Submachine Gun.
+Added Polymer Light Support Weapon.
+Increased all the mannable turrets' accuracy.
+Made mannable turrets craftable using other metals.
+Updated textures for the Sporting Rifle, Assault Rifle, Light Machine Gun, Service Rifle, Polymer Bullpup Rifle, Weighted weapons family, and Combat weapons family.
+
+
+Update 6 - Updated to 1.0
+
+Tweaked all weapon accuracy models.
+Tweaked all weapon cooldowns and warmups.
+
+
+Update 6a
+
+Fixed crashlanded senario starting with uninteded technologies
+
+
+Update 7
+
+Made patching slightly more efficient.
+Moved Gun Turret and Autocannon Turret topics closer together on the vanilla research page.
+Molotovs no longer require research and are now craftable at a Crafting Spot.
+Renamed "Grenades" research topic to "Fuses".
+Renamed "Caliver" to "Matchlock Arquebus".
+Renamed "Breech-loader" to "Breech-Loading Rifle".
+Renamed "Marksman's Rifle" to "Sniper Support Rifle".
+Removed Grenade Launcher and Incendiary Launcher from the Smithing Table.
+GMG now needs chemfuel to rearm.
+Rebalanced weapons with more in-depth accuracy stats.
+Replaced charge weapons with gauss variants.
+Added rarer, unique bonus guns.
+Added compatability for Combat Shields.
+Added HE, Incendiary, and Firefoam shells to Fuses research.
+Added NNEMP research topic.
+Added specific penetration values to each projectile.
+Added Turret Rifle.
+Added Lever-Action Shotgun.
+Added Breech-Loading Sniper.
+Added Lever-Action Sniper.
+Added Bullpup PDW.
+Added Modernised Rugged Assault Rifle.
+Added Compact Light Machine Gun.
+Added Special Purpose Rifle.
+Added Gauss Machine Gun.
+Added Disposable Launcher.
+Added Vintage Machine Pistol.
+Added Vintage Submachine Gun.
+Added Vintage Assault Rifle.
+Added Vintage Sniper Rifle.
+Added Vintage General-Purpose Machine Gun.
+Added Mounted Gatling Gun.
+Added racking sound to Lever-Action weapons.
+Updated textures for the Matchlock Arquebus, Breech-Loading Rifle, Lever-Action Rifle, Large Lever-Action Rifle, Compact Carbine, Assault Rifle, Light Machine Gun, Battle Rifle, Balanced Bullpup Rifle, Modernised Bullpup Rifle, Defence Rifle, Automatic Battle Rifle, General-Purpose Machine Gun, Rugged Weapons Family, Combat weapons family, and Gauss Weapons Family.
+
+
+Update 8
+
+Added Service Carbine.
+Added Smart Launcher.
+Added 5 rare weapons.
+Added Mounted Anti-Tank Rifle.
+Added Smart Munitions research topic.
+Reworded craftable weapon descriptions to better describe their capabilities, as opposed to their history.
+Fixed the Polymer Submachine Gun incorrectly using assault rifle sounds.
+Reduced ammunition count for the GMG.
+Reduced cost to rearm GMG.
+Added new sounds for pretty much all weapons.
+Redesigned and rebalanced the Composite Vest.
+Updated texture for the Matchlock Arquebus, Matchlock Pistol, Breech-Loading Rifle, Double-Barrelled Shotgun, Revolver, Lever-Action Rifle, Bolt-Action Sniper, Automatic Shotgun, Battle Rifle, Service Pistol, Machine Pistol, Personalised Bullpup PDW, Vintage Submachine Gun, Weighted Bullpup Carbine, Large Lever-Action Rifle, Sporting Rifle, Service Rifle, Prototype Rifle, Compact Light Machine Gun, Vintage General-Purpose Machine Gun, General-Purpose Machine Gun, Breech-Loading Sniper, and Special Purpose Rifle.
+Added patches for [XND] Turret Extensions, Dual Wield, and Combat Training.
+
+
+Update 8a - 1.8.0.1
+
+Fixed muddled muzzleFlashScales.
+Fixed duplicate XML nodes for the FlakVest.
+Fixed issue that disabled scrolling when editing senarios.
+Updated textures for the Polymer Submachine Gun, Polymer Bullpup Rifle, Automatic Battle Rifle, and Polymer Light Support Weapon.
+
+
+Update 8b - 1.8.0.2
+
+Fixed Plate Vest patching issues.
+
+
+Update 8c - 1.8.0.3
+
+Added skillRequirements for complex mechanical weapons.
+Fixed the Combat Training patch, was using an outdated draft version.
+
+
+Update 8d - 1.8.0.4
+
+Fixed scenario editor incompatibility.
+
+
+Update 8e - 1.8.0.5
+
+Added specific market values for each weapon to better reflect capability, as opposed to the work and materials required to make.
+
+
+Update 8f - 1.8.0.6
+
+Changed Muzzle-loader's tech level to Medieval.
+
+
+Update 8g - 1.8.0.7
+
+Tweaked unique weapons' tags.
+Fixed incomplete Anti-Tank Rifle description.
+Retextured Bolt-Action Rifle and Bolt-Action Sniper.
+Retextured GPMG to give a more distinctive silhouette in comparison to the Vintage GPMG
+Added a High-Explosive Bullet projectile def.
+Anti-Materiel Rifle and Anti-Tank Rifle now use AP-HE Rounds, stats changed to reflect this.
+Added Checkpoint Rifle
+
+
+Update 9 - 1.8.0.8
+
+Updated to 1.1.
+
+
+Update 9a - 1.8.0.9
+
+Changed the materials require for the Plate Vest  as it was causing errors related to the Stranger In Black.
+Changed MoveSpeed for Minigun, Anti-Materiel Rifle, Plate Vest, and Composite Plate Carrier.
+
+
+Update 9b - 1.8.0.10
+
+Fixed Dual Wield Patch causing issues with Dual Wield.
+
+
+Update 9c - 1.8.0.11
+
+Debuffed the Checkpoint rifle.
+
+

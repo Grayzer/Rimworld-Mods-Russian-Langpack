@@ -1,0 +1,720 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Matchlock Pistol -->
+
+  <Gun_MatchlockPistol.label>фитильный пистолет</Gun_MatchlockPistol.label>
+  <Gun_MatchlockPistol.description>Стрельба из дульного пистолета.\n\nОтстреливает огромный снаряд, но его точность оставляет желать лучшего, а перезарядка - длительное дело.</Gun_MatchlockPistol.description>
+  <Gun_MatchlockPistol.tools.0.label>рукоятка</Gun_MatchlockPistol.tools.0.label>
+
+
+  <!-- Matchlock Arquebus -->
+
+  <Gun_MatchlockArquebus.label>фитильная аркебуза</Gun_MatchlockArquebus.label>
+  <Gun_MatchlockArquebus.description>Фительная аркебуза.\n\nВыстреливает огромным снарядом, но его точность оставляет желать лучшего, а перезарядка - длительное дело.</Gun_MatchlockArquebus.description>
+  <Gun_MatchlockArquebus.tools.0.label>приклад</Gun_MatchlockArquebus.tools.0.label>
+  <Gun_MatchlockArquebus.tools.1.label>ствол</Gun_MatchlockArquebus.tools.1.label>
+
+
+  <!-- Double-Barrelled Shotgun -->
+
+  <Gun_DoubleBarreledShotgun.label>двухствольный дробовик</Gun_DoubleBarreledShotgun.label>
+  <Gun_DoubleBarreledShotgun.description>Двухствольный дробовик с казенной частью.\n\nВыпуская два смертельных выстрела в быстрой последовательности, этот дробовик легко способен снимать конечности одним выстрелом, но только в руках способного стрелка.</Gun_DoubleBarreledShotgun.description>
+  <Gun_DoubleBarreledShotgun.tools.0.label>приклад</Gun_DoubleBarreledShotgun.tools.0.label>
+  <Gun_DoubleBarreledShotgun.tools.1.label>ствол</Gun_DoubleBarreledShotgun.tools.1.label>
+
+
+  <!-- Breech-Loading Rifle -->
+
+  <Gun_BreechLoadingRifle.label>казенное ружъе</Gun_BreechLoadingRifle.label>
+  <Gun_BreechLoadingRifle.description>Ружъе с казенной частью.\n\nОбладая отличной точностью, дальностью и уроном, эта винтовка ограничена только скорострельностью.</Gun_BreechLoadingRifle.description>
+  <Gun_BreechLoadingRifle.tools.0.label>приклад</Gun_BreechLoadingRifle.tools.0.label>
+  <Gun_BreechLoadingRifle.tools.1.label>ствол</Gun_BreechLoadingRifle.tools.1.label>
+
+
+  <!-- Revolver -->
+
+  <Gun_Revolver.label>револьвер</Gun_Revolver.label>
+  <Gun_Revolver.description>Револьвер однозарядный.\n\nНе совсем самый быстрый из доступных пистолетов для стрельбы, но все равно отлично способное оружие, когда используется близко и лично.</Gun_Revolver.description>
+  <Gun_Revolver.tools.0.label>рукоятка</Gun_Revolver.tools.0.label>
+
+
+  <!-- Pump-Action Shotgun -->
+
+  <Gun_PumpShotgun.label>помповый дробовик</Gun_PumpShotgun.label>
+  <Gun_PumpShotgun.description>Помповый дробовик.\n\nОграниченный по дальности, но легко одно из самых смертоносных видов оружия.</Gun_PumpShotgun.description>
+  <Gun_PumpShotgun.tools.0.label>приклад</Gun_PumpShotgun.tools.0.label>
+  <Gun_PumpShotgun.tools.1.label>ствол</Gun_PumpShotgun.tools.1.label>
+
+
+  <!-- Lever-Action Rifle -->
+
+  <Bullet_45LongR.label>пистолетная пуля</Bullet_45LongR.label>
+
+  <Gun_LeverActionRifle.label>рычажная винтовка</Gun_LeverActionRifle.label>
+  <Gun_LeverActionRifle.description>Рычажная винтовка.\n\nЗначительно более скорострельная стрельба, чем у традиционной винтовки, но сдерживается довольно посредственным патроном.</Gun_LeverActionRifle.description>
+  <Gun_LeverActionRifle.tools.0.label>приклад</Gun_LeverActionRifle.tools.0.label>
+  <Gun_LeverActionRifle.tools.1.label>ствол</Gun_LeverActionRifle.tools.1.label>
+
+
+  <!-- Bolt-Action Rifle -->
+
+  <Gun_BoltActionRifle.label>линейная винтовка</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.description>Линейная винтовка.\n\nПроходя тонкую грань между мощностью и скоростью работы, винтовка является хорошим выбором для большинства перестрелок.</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.tools.0.label>приклад</Gun_BoltActionRifle.tools.0.label>
+  <Gun_BoltActionRifle.tools.1.label>ствол</Gun_BoltActionRifle.tools.1.label>
+
+
+  <!-- Bolt-Action Sniper -->
+
+  <Bullet_300Win.label>крупнокалиберная винтовочная пуля</Bullet_300Win.label>
+
+  <Gun_SniperRifle.label>линейная снайперка</Gun_SniperRifle.label>
+  <Gun_SniperRifle.description>Винтовка линейного действия, оснащенная прицелом для точной стрельбы.\n\nДобавление увеличительной оптики значительно упрощает идентификацию целей на дальних дистанциях, но ограничивает возможности ближнего радиуса действия.</Gun_SniperRifle.description>
+  <Gun_SniperRifle.tools.0.label>приклад</Gun_SniperRifle.tools.0.label>
+  <Gun_SniperRifle.tools.1.label>ствол</Gun_SniperRifle.tools.1.label>
+
+
+  <!-- Semi-Automatic Pistol -->
+
+  <Gun_Autopistol.label>полуавтоматический пистолет</Gun_Autopistol.label>
+  <Gun_Autopistol.description>Пистолет с короткозамкнутой отдачей.\n\nОтсутствие грубого урона, наносимого этим пистолетом, легко компенсируется его скорострельностью и точностью, что делает его идеальным инструментом для обучения новых стрелков.</Gun_Autopistol.description>
+  <Gun_Autopistol.tools.0.label>рукоятка</Gun_Autopistol.tools.0.label>
+
+
+  <!-- Submachine Gun -->
+
+  <Gun_SubmachineGun.label>пистолет-пулемет</Gun_SubmachineGun.label>
+  <Gun_SubmachineGun.description>Пистолет-пулемет с короткозамкнутой отдачей.\n\nПистолет-пулемет, обладающий большим количеством огня по сравнению с большим уроном за выстрел, на удивление эффективен в руках способного стрелка и лучше всего используется на ближней и средней дистанции.</Gun_SubmachineGun.description>
+  <Gun_SubmachineGun.tools.0.label>рукоятка</Gun_SubmachineGun.tools.0.label>
+
+
+  <!-- Automatic Shotgun -->
+
+  <Gun_ChainShotgun.label>автоматический дробовик</Gun_ChainShotgun.label>
+  <Gun_ChainShotgun.description>Газовый длинноходный дробовик.\n\nЗаряжаясь из коробочных магазинов, автоматический дробовик может полностью доминировать в любой схватке с врагами, но требует надежного стрелка, чтобы надежно наносить попадания.</Gun_ChainShotgun.description>
+  <Gun_ChainShotgun.tools.0.label>приклад</Gun_ChainShotgun.tools.0.label>
+  <Gun_ChainShotgun.tools.1.label>ствол</Gun_ChainShotgun.tools.1.label>
+
+
+  <!-- Assault Rifle -->
+
+  <Gun_AssaultRifle.label>штурмовая винтовка</Gun_AssaultRifle.label>
+  <Gun_AssaultRifle.description>Газовая штурмовая винтовка с длинным ходом.\n\nВыпускает точные 3 заряда с приличным уроном и пробиванием брони, это огнестрельное оружие идеально подходит для ближних и средних дистанций.</Gun_AssaultRifle.description>
+  <Gun_AssaultRifle.tools.0.label>приклад</Gun_AssaultRifle.tools.0.label>
+  <Gun_AssaultRifle.tools.1.label>ствол</Gun_AssaultRifle.tools.1.label>
+
+
+  <!-- Battle Rifle -->
+
+  <Gun_BattleRifle.label>боевая винтовка</Gun_BattleRifle.label>
+  <Gun_BattleRifle.description>Газовая короткоходная боевая винтовка.\n\nПолуавтоматическая винтовка, которая сильно бьет, хорошо проникает и обеспечивает быстрые последующие выстрелы.</Gun_BattleRifle.description>
+  <Gun_BattleRifle.tools.0.label>приклад</Gun_BattleRifle.tools.0.label>
+  <Gun_BattleRifle.tools.1.label>ствол</Gun_BattleRifle.tools.1.label>
+
+
+  <!-- Light Machine Gun -->
+
+  <Gun_LMG.label>легкий пулемет</Gun_LMG.label>
+  <Gun_LMG.description>Длинноходовой легкий газовый пулемет.\n\nЭтот пулемет с ленточной обоймой, идеально подходит для подавления целей на больших расстояниях.\n\nМожет быть установлен на статический штатив.</Gun_LMG.description>
+  <Gun_LMG.tools.0.label>приклад</Gun_LMG.tools.0.label>
+  <Gun_LMG.tools.1.label>ствол</Gun_LMG.tools.1.label>
+
+
+  <!-- Grenade Launcher -->
+
+  <Bullet_GrenadeLauncher.label>взрывная граната</Bullet_GrenadeLauncher.label>
+
+  <Gun_GrenadeLauncher.label>гранатомет</Gun_GrenadeLauncher.label>
+  <Gun_GrenadeLauncher.description>Гранатомёт.\n\nПо сути это большая полая трубка с ударником на одном конце. Дешево и просто, как твоя мама.</Gun_GrenadeLauncher.description>
+  <Gun_GrenadeLauncher.tools.0.label>приклад</Gun_GrenadeLauncher.tools.0.label>
+  <Gun_GrenadeLauncher.tools.1.label>ствол</Gun_GrenadeLauncher.tools.1.label>
+
+
+  <!-- Incendiary Launcher -->
+
+  <Bullet_IncendiaryLauncher.label>зажигательная граната</Bullet_IncendiaryLauncher.label>
+
+  <Gun_IncendiaryLauncher.label>зажигательная пусковая установка</Gun_IncendiaryLauncher.label>
+  <Gun_IncendiaryLauncher.description>Гранатомёт.\n\nПитает зажигательные гранаты из подствольного магазина трубки.</Gun_IncendiaryLauncher.description>
+  <Gun_IncendiaryLauncher.tools.0.label>приклад</Gun_IncendiaryLauncher.tools.0.label>
+  <Gun_IncendiaryLauncher.tools.1.label>ствол</Gun_IncendiaryLauncher.tools.1.label>
+
+
+  <!-- Smoke Launcher -->
+
+  <Bullet_SmokeLauncher.label>дымовая граната</Bullet_SmokeLauncher.label>
+
+  <Gun_SmokeLauncher.label>дымовая пусковая установка</Gun_SmokeLauncher.label>
+  <Gun_SmokeLauncher.description>Пусковая установка с широким стволом дыма. При ударе снаряд выпустит облако дыма, скрывая входящие выстрелы и не позволяя блокировать турели.</Gun_SmokeLauncher.description>
+  <Gun_SmokeLauncher.tools.0.label>приклад</Gun_SmokeLauncher.tools.0.label>
+  <Gun_SmokeLauncher.tools.1.label>ствол</Gun_SmokeLauncher.tools.1.label>
+
+
+  <!-- Smart Launcher -->
+
+  <Bullet_EMPLauncher.label>умная граната</Bullet_EMPLauncher.label>
+
+  <Gun_EmpLauncher.label>умная пусковая установка</Gun_EmpLauncher.label>
+  <Gun_EmpLauncher.description>Газовый гранатомет.\n\nИспользуя автоматизированную систему нацеливания, интеллектуальная пусковая установка способна делать удивительно дальние попадания, но совместима только с гранатами ЭМИ.</Gun_EmpLauncher.description>
+  <Gun_EmpLauncher.tools.0.label>приклад</Gun_EmpLauncher.tools.0.label>
+  <Gun_EmpLauncher.tools.1.label>ствол</Gun_EmpLauncher.tools.1.label>
+
+
+  <!-- Disposable Launcher -->
+
+  <Bullet_DisposableRocket.label>одноразовая пусковая ракета</Bullet_DisposableRocket.label>
+
+  <Gun_DisposableLauncher.label>одноразовая пусковая установка</Gun_DisposableLauncher.label>
+  <Gun_DisposableLauncher.description>Одноразовая пусковая установка.\n\nСолидный ракетный двигатель, который приводит в движение боеголовку, дает удивительно хороший диапазон, но ограниченную точность, и, как таковой, лучше используется против плотных групп врагов для максимизации эффективности.</Gun_DisposableLauncher.description>
+  <Gun_DisposableLauncher.tools.0.label>ствол</Gun_DisposableLauncher.tools.0.label>
+
+
+  <!-- Minigun -->
+
+  <Gun_Minigun.label>пулемет</Gun_Minigun.label>
+  <Gun_Minigun.description>Многоствольный пулемет Гатлинга.\n\nПриводимый в движение электродвигателем, этот голиаф способен стрелять 60 патронов в секунду. Поистине, сила, с которой нужно считаться.</Gun_Minigun.description>
+  <Gun_Minigun.tools.0.label>стволы</Gun_Minigun.tools.0.label>
+
+
+  <!-- Large Revolver -->
+
+  <Bullet_44Ball.label>крупнокалиберная пистолетная пуля</Bullet_44Ball.label>
+
+  <Gun_LargeRevolver.label>большой револьвер</Gun_LargeRevolver.label>
+  <Gun_LargeRevolver.description>Древний образец однозарядного револьвера.\n\nОт разрыва барабана до обстрела цепи, этот револьвер имеет сомнительную историю в безопасности.</Gun_LargeRevolver.description>
+  <Gun_LargeRevolver.tools.0.label>рукоятка</Gun_LargeRevolver.tools.0.label>
+
+
+  <!-- Bolt-Action Pistol -->
+
+  <Bullet_762x51mmP.label>Полнофункциональная винтовочная пуля</Bullet_762x51mmP.label>
+
+  <Gun_BoltActionPistol.label>ленейный пистолет</Gun_BoltActionPistol.label>
+  <Gun_BoltActionPistol.description>Старинная винтовка с дулом, срезанным до размера пистолета.\n\nСкорее всего, этот «пистолет», который, скорее всего, был сломан каким-то членом банды в далеком мире урбанизма, теперь лишен прицела, а это значит, что точные выстрелы на расстояниях в несколько метров почти смешны.\n\nИспользует обоймы под винтовочный патрон.</Gun_BoltActionPistol.description>
+  <Gun_BoltActionPistol.tools.0.label>рукоятка</Gun_BoltActionPistol.tools.0.label>
+
+
+  <!-- Service Pistol -->
+
+  <Gun_ServicePistol.label>служебный пистолет</Gun_ServicePistol.label>
+  <Gun_ServicePistol.description>Древний образец пистолета с короткой отдачей.\n\nИспользует дизайн магазина с двойной стопкой, что позволяет увеличить емкость по сравнению со сверстниками.\n\nИспользует обоймы под пистолетный патрон.</Gun_ServicePistol.description>
+  <Gun_ServicePistol.tools.0.label>рукоятка</Gun_ServicePistol.tools.0.label>
+
+
+  <!-- Urban Pistol -->
+
+  <Gun_UrbanPistol.label>городской пистолет</Gun_UrbanPistol.label>
+  <Gun_UrbanPistol.description>Старинный образец, отдача, полностью автоматический пистолет.\n\nПочти такая же обычная вещь, как пара туфель в более ориентированных на банды урбанистических миров, его низкая цена и простота в использовании делают его привлекательным.\n\nИспользует обоймы под пистолетный патрон.</Gun_UrbanPistol.description>
+  <Gun_UrbanPistol.tools.0.label>рукоятка</Gun_UrbanPistol.tools.0.label>
+
+
+  <!-- Machine Pistol -->
+
+  <Gun_MachinePistol.label>пистолет-пулемет</Gun_MachinePistol.label>
+  <Gun_MachinePistol.description>Старинный образец, короткоствольный, быстрострельный пистолет.\n\nПервоначально использовался полицией и антитеррористическими силами, теперь фаворит как охотников за головами, так и наемников.\n\nИспользует обоймы под пистолетный патрон.</Gun_MachinePistol.description>
+  <Gun_MachinePistol.tools.0.label>рукоятка</Gun_MachinePistol.tools.0.label>
+
+
+  <!-- Vintage Machine Pistol -->
+
+  <Gun_VintageMachinePistol.label>старинный пистолет-пулемет</Gun_VintageMachinePistol.label>
+  <Gun_VintageMachinePistol.description>Старинный образец, короткоствольный, быстрострельный пистолет.\n\nЭто изящное оружие, одно из самых ранних разработок пистолета-пулемета, является произведением известного оружейника и коллекционера в далеком мире блеска.\n\nИспользует обоймы под пистолетный патрон.</Gun_VintageMachinePistol.description>
+  <Gun_VintageMachinePistol.tools.0.label>приклад</Gun_VintageMachinePistol.tools.0.label>
+  <Gun_VintageMachinePistol.tools.1.label>ствол</Gun_VintageMachinePistol.tools.1.label>
+
+
+  <!-- Cheap Submachine Gun -->
+
+  <Gun_HeavySMG.label>дешевый пистолет-пулемет</Gun_HeavySMG.label>
+  <Gun_HeavySMG.description>Древний образец обратного автомата.\n\nСырая конструкция, но быстрая и экономически эффективная.\n\nИспользует обоймы под пистолетный патрон.</Gun_HeavySMG.description>
+  <Gun_HeavySMG.tools.0.label>приклад</Gun_HeavySMG.tools.0.label>
+  <Gun_HeavySMG.tools.1.label>ствол</Gun_HeavySMG.tools.1.label>
+
+
+  <!-- Vintage Submachine Gun -->
+
+  <Gun_VintageSubmachineGun.label>старинный пистолет-пулемет</Gun_VintageSubmachineGun.label>
+  <Gun_VintageSubmachineGun.description>Древний образец обратного автомата.\n\nОдин из самых ранних дизайнов пистолета-пулемета, его тяжелый вес и неуклюжее обращение легко отражают это. Наиболее часто встречающимися примерами являются реплики, которые были с любовью обработаны известным оружейником и коллекционером из далекого сверкающего мира.\n\nИспользует обоймы под пистолетный патрон.</Gun_VintageSubmachineGun.description>
+  <Gun_VintageSubmachineGun.tools.0.label>приклад</Gun_VintageSubmachineGun.tools.0.label>
+  <Gun_VintageSubmachineGun.tools.1.label>ствол</Gun_VintageSubmachineGun.tools.1.label>
+
+
+  <!-- Bullpup PDW -->
+
+  <Bullet_57x28mm.label>пистолетная пуля</Bullet_57x28mm.label>
+
+  <Gun_BullpupPDW.label>bullpup PDW</Gun_BullpupPDW.label>
+  <Gun_BullpupPDW.description>Древний образец обратного автомата личного оружия защиты.\n\nВ Bullpup PDW используется специально разработанный пистолетный патрон, специально разработанный для пробивания бронежилетов. Это, в сочетании с высокой скорострельностью и большим боезапасом, доказывает, что размер не имеет значения.\n\nИмеет встроенный отражатель для ускорения захвата цели.</Gun_BullpupPDW.description>
+  <Gun_BullpupPDW.tools.0.label>приклад</Gun_BullpupPDW.tools.0.label>
+  <Gun_BullpupPDW.tools.1.label>ствол</Gun_BullpupPDW.tools.1.label>
+
+
+  <!-- Polymer Submachine Gun -->
+
+  <Gun_PolymerSubmachineGun.label>полимерный пистолет-пулемет</Gun_PolymerSubmachineGun.label>
+  <Gun_PolymerSubmachineGun.description>Древний образец с отдачей от дульного автомата.\n\nПистолет-пулемет, в основном находящийся в руках десантников, небольшой, легкий и простой в обращении.\n\nИмеет телескопический прицел с минимальным увеличением.\n\nИспользует обоймы под пистолетный патрон.</Gun_PolymerSubmachineGun.description>
+  <Gun_PolymerSubmachineGun.tools.0.label>приклад</Gun_PolymerSubmachineGun.tools.0.label>
+  <Gun_PolymerSubmachineGun.tools.1.label>ствол</Gun_PolymerSubmachineGun.tools.1.label>
+
+
+  <!-- Sawn-Off Shotgun -->
+
+  <Gun_SawnOffShotgun.label>обрез</Gun_SawnOffShotgun.label>
+  <Gun_SawnOffShotgun.description>Древний образец двуствольного ружья, урезанный до размера пистолета.\n\nСтрелковое оружие для преступников любой расы и вероисповедания.\n\nЗапускает вашу обычную картечь.</Gun_SawnOffShotgun.description>
+  <Gun_SawnOffShotgun.tools.0.label>рукоятка</Gun_SawnOffShotgun.tools.0.label>
+
+
+  <!-- Lever-Action Shotgun -->
+
+  <Gun_LeverActionShotgun.label>рычажный дробовик</Gun_LeverActionShotgun.label>
+  <Gun_LeverActionShotgun.description>Древний образец рычажного ружья.\n\nОбычно игнорируемый в пользу эквивалента помпового, дробовик рычажного действия все еще является совершенно исправным огнестрельным оружием и может похвастаться несколькими преимуществами, которые опытные стрелки используют с большим эффектом.\n\nЗапускает вашу обычную картечь.</Gun_LeverActionShotgun.description>
+  <Gun_LeverActionShotgun.tools.0.label>приклад</Gun_LeverActionShotgun.tools.0.label>
+  <Gun_LeverActionShotgun.tools.1.label>ствол</Gun_LeverActionShotgun.tools.1.label>
+
+
+  <!-- Semi-Automatic Shotgun -->
+
+  <Gun_SemiAutomaticShotgun.label>полуавтоматический дробовик</Gun_SemiAutomaticShotgun.label>
+  <Gun_SemiAutomaticShotgun.description>Древний образец, управляемый отдачей дробовик.\n\nРазработанный с учетом требований полиции и военных, этот дробовик имеет двухрежимную систему, позволяющую работать как насосом, так и полуавтоматически.\n\nЗапускает вашу обычную картечь.</Gun_SemiAutomaticShotgun.description>
+  <Gun_SemiAutomaticShotgun.tools.0.label>приклад</Gun_SemiAutomaticShotgun.tools.0.label>
+  <Gun_SemiAutomaticShotgun.tools.1.label>ствол</Gun_SemiAutomaticShotgun.tools.1.label>
+
+
+  <!-- Riot Shotgun -->
+
+  <Bullet_BeanBag.label>мешок шариков</Bullet_BeanBag.label>
+
+  <Gun_RiotShotgun.label>дробовик</Gun_RiotShotgun.label>
+  <Gun_RiotShotgun.description>Древний образец из револьверного дробовика, заряженный шариковыми патронами.\n\nИспользует вращающийся цилиндр и спусковой механизм двойного действия, в отличие от традиционной газовой системы, чтобы избежать возможности короткого удара при использовании недостаточно мощных и не смертельных патронов.\n\nFires less-than-lethal cartridges.</Gun_RiotShotgun.description>
+  <Gun_RiotShotgun.tools.0.label>приклад</Gun_RiotShotgun.tools.0.label>
+  <Gun_RiotShotgun.tools.1.label>ствол</Gun_RiotShotgun.tools.1.label>
+
+
+  <!-- Rugged Carbine -->
+
+  <Bullet_762x39mmC.label>промежуточная винтовочная пуля</Bullet_762x39mmC.label>
+
+  <Gun_RuggedCarbine.label>прочный карабин</Gun_RuggedCarbine.label>
+  <Gun_RuggedCarbine.description>Древний образец длинноствольного карабина.\n\nЭта коротенькая винтовка, преобразованная из более длинного варианта, многими восхваляется как идеальная середина между мощностью и размером.\n\nЗапускает патроны среднего калибра.</Gun_RuggedCarbine.description>
+  <Gun_RuggedCarbine.tools.0.label>приклад</Gun_RuggedCarbine.tools.0.label>
+  <Gun_RuggedCarbine.tools.1.label>ствол</Gun_RuggedCarbine.tools.1.label>
+
+
+  <!-- Compact Carbine -->
+
+  <Gun_CompactCarbine.label>компактный карабин</Gun_CompactCarbine.label>
+  <Gun_CompactCarbine.description>Древний образец карабина.\n\nИмеет телескопический приклад и короткий ствол, что делает его очень компактным и удобным для винтовки.\n\nЗапускает патроны среднего калибра.</Gun_CompactCarbine.description>
+  <Gun_CompactCarbine.tools.0.label>приклад</Gun_CompactCarbine.tools.0.label>
+  <Gun_CompactCarbine.tools.1.label>ствол</Gun_CompactCarbine.tools.1.label>
+
+
+  <!-- Service Carbine -->
+
+  <Gun_ServiceCarbine.label>служебный карабин</Gun_ServiceCarbine.label>
+  <Gun_ServiceCarbine.description>Древний образец прямого карабина.\n\nКак только сервисная винтовка была принята, экспериментировали с версией карабина. Как и ожидалось, проблемы, связанные с отдачей и дульной вспышкой, возникли мгновенно, и к последующим винтовкам был быстро добавлен большой глушитель.\n\nЗапускает патроны среднего калибра.</Gun_ServiceCarbine.description>
+  <Gun_ServiceCarbine.tools.0.label>приклад</Gun_ServiceCarbine.tools.0.label>
+  <Gun_ServiceCarbine.tools.1.label>ствол</Gun_ServiceCarbine.tools.1.label>
+
+
+  <!-- Combat PDW -->
+
+  <Gun_CombatPDW.label>боевой PDW</Gun_CombatPDW.label>
+  <Gun_CombatPDW.description>Древний образец, короткоствольное оружие индивидуальной защиты.\n\nЭтот невероятно универсальный карабин, благодаря короткому стволу и складывающемуся прикладу, стал синонимом сил безопасности со всего мира.\n\nИмеет прицел отражателя и вертикальную переднюю рукоятку, чтобы ускорить захват цели. Запускает патроны среднего калибра.</Gun_CombatPDW.description>
+  <Gun_CombatPDW.tools.0.label>приклад</Gun_CombatPDW.tools.0.label>
+  <Gun_CombatPDW.tools.1.label>ствол</Gun_CombatPDW.tools.1.label>
+
+
+  <!-- Weighted Bullpup Carbine -->
+
+  <Gun_WeightedBullpupCarbine.label>утяжеленный буллпап карабин</Gun_WeightedBullpupCarbine.label>
+  <Gun_WeightedBullpupCarbine.description>Древний образец короткоствольного буллпап карабина.\n\nКонфигурация с коротким стволом и буллпапом делает чрезвычайно удобной винтовку, но означает, что вес неловко распределяется по направлению к задней части.\n\nОтличается чрезвычайно прочной, но тяжелой оптикой, помогающей увеличить эффективный диапазон.\n\nЗапускает патроны среднего калибра.</Gun_WeightedBullpupCarbine.description>
+  <Gun_WeightedBullpupCarbine.tools.0.label>приклад</Gun_WeightedBullpupCarbine.tools.0.label>
+
+
+  <!-- Improvised Rifle -->
+
+  <Bullet_22LR.label>пистолетная пуля</Bullet_22LR.label>
+
+  <Gun_ImprovisedRifle.label>импровизированная винтовка</Gun_ImprovisedRifle.label>
+  <Gun_ImprovisedRifle.description>Простая обратная винтовка.\n\nСделана пиратами и чужеземцами для обучения новых стрелков.\n\nЗапускает патетически маленький пистолетный патрон.</Gun_ImprovisedRifle.description>
+  <Gun_ImprovisedRifle.tools.0.label>приклад</Gun_ImprovisedRifle.tools.0.label>
+  <Gun_ImprovisedRifle.tools.1.label>ствол</Gun_ImprovisedRifle.tools.1.label>
+
+
+  <!-- Turret Rifle -->
+
+  <Bullet_TurretRifle.label>пуля Минье</Bullet_TurretRifle.label>
+
+  <Gun_TurretRifle.label>турельная винтовка</Gun_TurretRifle.label>
+  <Gun_TurretRifle.description>Ранняя вращающаяся цилиндровая ударная винтовка.\n\nВ этом типе ударной винтовки больше любопытства, чем действительной формы защиты, в которой используется вертикально установленный вращающийся барабан, в котором камеры расположены радиально, а не параллельно стволу. Несмотря на известную возможность искалечить стрелка, эти винтовки остаются распространенными в руках менее богатых или технически способных сообществ.\n\nСтреляет калибром винтовочного патрона.</Gun_TurretRifle.description>
+  <Gun_TurretRifle.tools.0.label>приклад</Gun_TurretRifle.tools.0.label>
+  <Gun_TurretRifle.tools.1.label>ствол</Gun_TurretRifle.tools.1.label>
+
+
+  <!-- Large Lever-Action -->
+
+  <Gun_LargeLeverActionRifle.label>большая рычажная винтовка</Gun_LargeLeverActionRifle.label>
+  <Gun_LargeLeverActionRifle.description>Древний образец рычажного действия.\n\nИспользует коробчатый магазин для безопасной загрузки пуль типа спитцер.\n\nСтреляет патроном винтовочного калибра.</Gun_LargeLeverActionRifle.description>
+  <Gun_LargeLeverActionRifle.tools.0.label>приклад</Gun_LargeLeverActionRifle.tools.0.label>
+  <Gun_LargeLeverActionRifle.tools.1.label>ствол</Gun_LargeLeverActionRifle.tools.1.label>
+
+
+  <!-- Converted Bolt-Action Rifle -->
+
+  <Gun_ConvertedBoltActionRifle.label>переделанная линейная винтовка</Gun_ConvertedBoltActionRifle.label>
+  <Gun_ConvertedBoltActionRifle.description>Древний образец болтового ружья, переделанный в полуавтоматический.\n\nНаряду с добавлением большего магазина и пистолетной рукоятки на боковой стороне была обработана газовая трубка, которая управляет болтом для пользователя.\n\nСтреляет патроном винтовочного калибра.</Gun_ConvertedBoltActionRifle.description>
+  <Gun_ConvertedBoltActionRifle.tools.0.label>приклад</Gun_ConvertedBoltActionRifle.tools.0.label>
+  <Gun_ConvertedBoltActionRifle.tools.1.label>ствол</Gun_ConvertedBoltActionRifle.tools.1.label>
+
+
+  <!-- Sporting Rifle -->
+
+  <Gun_SportingRifle.label>спортивная винтовка</Gun_SportingRifle.label>
+  <Gun_SportingRifle.description>Древний образец винтовки.\n\nГражданский, спортивный вариант популярной военной винтовки.\n\nОснащен охотничьим прицелом ближнего действия и отделкой из красного дерева.\n\nСтреляет патронами среднего калибра.</Gun_SportingRifle.description>
+  <Gun_SportingRifle.tools.0.label>приклад</Gun_SportingRifle.tools.0.label>
+  <Gun_SportingRifle.tools.1.label>ствол</Gun_SportingRifle.tools.1.label>
+
+
+  <!-- Vintage Assault Rifle -->
+
+  <Bullet_792x33mm.label>промежуточная винтовочная пуля</Bullet_792x33mm.label>
+
+  <Gun_VintageAssaultRifle.label>старинная штурмовая винтовка</Gun_VintageAssaultRifle.label>
+  <Gun_VintageAssaultRifle.description>Древняя модель штурмовой винтовки.\n\nРепродукция того, что считается первой штурмовой винтовкой, построенной известным оружейником и коллекционером в далеком мире блеска. Оригинальные примеры по-прежнему очень популярны среди коллекционеров, хотя их немного и они далеко друг от друга.\n\nСтреляет патронами среднего калибра.</Gun_VintageAssaultRifle.description>
+  <Gun_VintageAssaultRifle.tools.0.label>приклад</Gun_VintageAssaultRifle.tools.0.label>
+  <Gun_VintageAssaultRifle.tools.1.label>ствол</Gun_VintageAssaultRifle.tools.1.label>
+
+
+  <!-- Rugged Assault Rifle -->
+
+  <Gun_RuggedAssaultRifle.label>прочная штурмовая винтовка</Gun_RuggedAssaultRifle.label>
+  <Gun_RuggedAssaultRifle.description>Древняя модель штурмовой винтовки.\n\nВ наше время как чрезвычайно редкое явление, оригинальные приемники из тысячелетий назад все еще появляются по сей день; свидетельство прочности этого дизайна.\n\nСтреляет патронами среднего калибра.</Gun_RuggedAssaultRifle.description>
+  <Gun_RuggedAssaultRifle.tools.0.label>приклад</Gun_RuggedAssaultRifle.tools.0.label>
+  <Gun_RuggedAssaultRifle.tools.1.label>ствол</Gun_RuggedAssaultRifle.tools.1.label>
+
+
+  <!-- Modernised Rugged Assault Rifle -->
+
+  <Gun_ModernisedRuggedAssaultRifle.label>модернизированная прочная штурмовая винтовка</Gun_ModernisedRuggedAssaultRifle.label>
+  <Gun_ModernisedRuggedAssaultRifle.description>Древняя модель штурмовой винтовки.\n\nСовременный взгляд на стареющую легенду.\n\nИмеет регулируемый запас, вертикальную переднюю рукоятку и прицел отражателя для ускорения захвата цели.\n\nСтреляет патронами среднего калибра.</Gun_ModernisedRuggedAssaultRifle.description>
+  <Gun_ModernisedRuggedAssaultRifle.tools.0.label>приклад</Gun_ModernisedRuggedAssaultRifle.tools.0.label>
+  <Gun_ModernisedRuggedAssaultRifle.tools.1.label>ствол</Gun_ModernisedRuggedAssaultRifle.tools.1.label>
+
+
+  <!-- Service Rifle -->
+
+  <Gun_ServiceRifle.label>служебная винтовка</Gun_ServiceRifle.label>
+  <Gun_ServiceRifle.description>Древний образец штурмовой винтовки прямого действия.\n\nНаходится в руках бесчисленных солдат по многочисленным мирам и по уважительной причине.\n\nСтреляет патронами среднего калибра.</Gun_ServiceRifle.description>
+  <Gun_ServiceRifle.tools.0.label>приклад</Gun_ServiceRifle.tools.0.label>
+  <Gun_ServiceRifle.tools.1.label>ствол</Gun_ServiceRifle.tools.1.label>
+
+
+  <!-- Balanced Bullpup Rifle -->
+
+  <Gun_BalancedBullpupRifle.label>сбалансированная буллпап винтовка</Gun_BalancedBullpupRifle.label>
+  <Gun_BalancedBullpupRifle.description>Древний образец буллпап замедленного действия.\n\nДействие расположено за спусковым крючком, что делает его очень компактным оружием без ущерба для длины ствола.\n\nСтреляет патронами среднего калибра.</Gun_BalancedBullpupRifle.description>
+  <Gun_BalancedBullpupRifle.tools.0.label>приклад</Gun_BalancedBullpupRifle.tools.0.label>
+  <Gun_BalancedBullpupRifle.tools.1.label>ствол</Gun_BalancedBullpupRifle.tools.1.label>
+
+
+  <!-- Modernised Bullpup Rifle -->
+
+  <Gun_ModernisedBullpupRifle.label>модернизированная буллпап винтовка</Gun_ModernisedBullpupRifle.label>
+  <Gun_ModernisedBullpupRifle.description>Древний образец буллпап замедленного действия.\n\nПотребность в более современных приспособлениях и оптике вынудила пользователей этой винтовки обновить устаревшую систему оружия. К счастью, это были хорошо потраченные деньги, и этот вариант все еще можно найти через сотни лет после его создания.\n\nИмеет прицел с отражателем для ускорения захвата цели.\n\nСтреляет патронами среднего калибра.</Gun_ModernisedBullpupRifle.description>
+  <Gun_ModernisedBullpupRifle.tools.0.label>приклад</Gun_ModernisedBullpupRifle.tools.0.label>
+  <Gun_ModernisedBullpupRifle.tools.1.label>ствол</Gun_ModernisedBullpupRifle.tools.1.label>
+
+
+  <!-- Light Combat Rifle -->
+
+  <Gun_LightCombatRifle.label>легкая боевая винтовка</Gun_LightCombatRifle.label>
+  <Gun_LightCombatRifle.description>Древний образец, штурмовая винтовка с коротким ходом.\n\nНевероятно гибкая оружейная платформа, любимая наемниками и силами безопасности.\n\nИмеет прицел отражателя и вертикальную переднюю рукоятку, чтобы ускорить захват цели.\n\nСтреляет патронами среднего калибра.</Gun_LightCombatRifle.description>
+  <Gun_LightCombatRifle.tools.0.label>приклад</Gun_LightCombatRifle.tools.0.label>
+  <Gun_LightCombatRifle.tools.1.label>ствол</Gun_LightCombatRifle.tools.1.label>
+
+
+  <!-- Polymer Bullpup Rifle -->
+
+  <Gun_PolymerBullpupRifle.label>полимерная буллпап винтовка</Gun_PolymerBullpupRifle.label>
+  <Gun_PolymerBullpupRifle.description>Древний образец короткоствольного автомата.\n\nВ основном сделан из легких полимеров, имеет телескопический прицел с минимальным увеличением.\n\nСтреляет патронами среднего калибра.</Gun_PolymerBullpupRifle.description>
+  <Gun_PolymerBullpupRifle.tools.0.label>приклад</Gun_PolymerBullpupRifle.tools.0.label>
+  <Gun_PolymerBullpupRifle.tools.1.label>ствол</Gun_PolymerBullpupRifle.tools.1.label>
+
+
+  <!-- Weighted Bullpup Rifle -->
+
+  <Gun_WeightedBullpupRifle.label>утяжеленная буллпап винтовка</Gun_WeightedBullpupRifle.label>
+  <Gun_WeightedBullpupRifle.description>Древний образец короткоствольного автомата.\n\nНесмотря на свой вес, эта винтовка заслужила хорошую репутацию благодаря своей феноменальной точности и обладает чрезвычайно прочной, но тяжелой оптикой, помогающей увеличить эффективный диапазон.\n\nСтреляет патронами среднего калибра.</Gun_WeightedBullpupRifle.description>
+  <Gun_WeightedBullpupRifle.tools.0.label>приклад</Gun_WeightedBullpupRifle.tools.0.label>
+  <Gun_WeightedBullpupRifle.tools.1.label>ствол</Gun_WeightedBullpupRifle.tools.1.label>
+
+
+  <!-- Prototype Rifle -->
+
+  <Bullet_280Brit.label>промежуточная винтовочная пуля</Bullet_280Brit.label>
+
+  <Gun_PrototypeRifle.label>прототип винтовки</Gun_PrototypeRifle.label>
+  <Gun_PrototypeRifle.description>Репродукция старинного прототипа штурмовой винтовки.\n\nНа момент создания эта винтовка была вершиной технологии стрелкового оружия. Он имел конфигурацию «буллпап», включал промежуточный патрон и имел стандартную встроенную оптику. К сожалению, он был очень быстро забыт из-за политических проблем, связанных со стандартизацией боеприпасов.\n\nСтреляет патронами среднего калибра.</Gun_PrototypeRifle.description>
+  <Gun_PrototypeRifle.tools.0.label>приклад</Gun_PrototypeRifle.tools.0.label>
+  <Gun_PrototypeRifle.tools.1.label>ствол</Gun_PrototypeRifle.tools.1.label>
+
+
+  <!-- Checkpoint Rifle -->
+
+  <Bullet_50Beowulf.label>крупнокалиберная винтовочная пуля</Bullet_50Beowulf.label>
+
+  <Gun_CheckpointRifle.label>пограничная винтовка</Gun_CheckpointRifle.label>
+  <Gun_CheckpointRifle.description>Древний образец прямой винтовки.\n\nЭта винтовка спроектирована и изготовлена с учетом требований охраны контрольно-пропускных пунктов и имеет патрон, который позволяет легко пробивать блоки двигателя и кузовные панели.\n\nИмеет дульный тормоз, вертикальную переднюю рукоятку, лазерный модуль и увеличенную оптику, чтобы помочь увеличить дальность и ускорить получение цели.\n\nСтреляет большими винтовочными патронами.</Gun_CheckpointRifle.description>
+  <Gun_CheckpointRifle.tools.0.label>приклад</Gun_CheckpointRifle.tools.0.label>
+  <Gun_CheckpointRifle.tools.1.label>ствол</Gun_CheckpointRifle.tools.1.label>
+
+
+  <!-- Defence Rifle -->
+
+  <Bullet_762x51mmJ.label>винтовка пуля пониженной мощности</Bullet_762x51mmJ.label>
+
+  <Gun_DefenceRifle.label>защитная винтовка</Gun_DefenceRifle.label>
+  <Gun_DefenceRifle.description>Древний образец, короткоствольная, полностью автоматическая боевая винтовка.\n\nВинтовка неизвестного происхождения, она нашла небольшую нишу с зажиточными поселениями.\n\nСтреляет патроном винтовочного калибра пониженной мощности.</Gun_DefenceRifle.description>
+  <Gun_DefenceRifle.tools.0.label>приклад</Gun_DefenceRifle.tools.0.label>
+  <Gun_DefenceRifle.tools.1.label>ствол</Gun_DefenceRifle.tools.1.label>
+
+
+  <!-- Automatic Battle Rifle -->
+
+  <Gun_AutomaticBattleRifle.label>автоматическая боевая винтовка</Gun_AutomaticBattleRifle.label>
+  <Gun_AutomaticBattleRifle.description>Древний образец, короткоствольная, полностью автоматическая боевая винтовка.\n\nОдобренный ветеранами старой школы давно прошедших войн, этот конкретный вариант пришел с завода с возможностью автоматического огня.\n\nСтреляет патроном винтовочного калибра.</Gun_AutomaticBattleRifle.description>
+  <Gun_AutomaticBattleRifle.tools.0.label>приклад</Gun_AutomaticBattleRifle.tools.0.label>
+  <Gun_AutomaticBattleRifle.tools.1.label>ствол</Gun_AutomaticBattleRifle.tools.1.label>
+
+
+  <!-- Heavy Combat Rifle -->
+
+  <Gun_HeavyCombatRifle.label>тяжелая боевая винтовка</Gun_HeavyCombatRifle.label>
+  <Gun_HeavyCombatRifle.description>Древний рисунок, короткоствольная, полностью автоматическая боевая винтовка.\n\nПосле падения особенно хорошо вооруженного мира блесток тысячи этих винтовок появились на черном рынке и быстро завоевали репутацию надежной и гибкой платформы.\n\nИмеет прицел отражателя и вертикальную переднюю рукоятку, чтобы ускорить захват цели.\n\nСтреляет патроном винтовочного калибра.</Gun_HeavyCombatRifle.description>
+  <Gun_HeavyCombatRifle.tools.0.label>приклад</Gun_HeavyCombatRifle.tools.0.label>
+  <Gun_HeavyCombatRifle.tools.1.label>ствол</Gun_HeavyCombatRifle.tools.1.label>
+
+
+  <!-- Rugged Light Support Weapon -->
+
+  <Gun_RuggedLMG.label>прочное легкое оружие поддержки</Gun_RuggedLMG.label>
+  <Gun_RuggedLMG.description>Древний образец длинноствольного легкого оружия поддержки.\n\nМногие его обожают за его легендарную надежность, он также на 90% состоит из деталей с более коротким стволом.\n\nСтреляет патронами среднего калибра.</Gun_RuggedLMG.description>
+  <Gun_RuggedLMG.tools.0.label>приклад</Gun_RuggedLMG.tools.0.label>
+  <Gun_RuggedLMG.tools.1.label>ствол</Gun_RuggedLMG.tools.1.label>
+
+
+  <!-- Compact Light Machine Gun -->
+
+  <Gun_CompactLightMachineGun.label>компактный легкий пулемет</Gun_CompactLightMachineGun.label>
+  <Gun_CompactLightMachineGun.description>Древний образец с задержкой на роликах и легким пулеметом.\n\nМодифицированные из избыточных пулеметов, эти сверхкороткие конверсии появились на рынке после уничтожения особо большой преступной семьи.\n\nОтличается складным прикладом и вертикальной рукояткой.\n\nСтреляет патронами среднего калибра.</Gun_CompactLightMachineGun.description>
+  <Gun_CompactLightMachineGun.tools.0.label>приклад</Gun_CompactLightMachineGun.tools.0.label>
+  <Gun_CompactLightMachineGun.tools.1.label>ствол</Gun_CompactLightMachineGun.tools.1.label>
+
+
+  <!-- Polymer Light Support Weapon -->
+
+  <Gun_PolymerLightSupportWeapon.label>полимерное легкое оружие поддержки</Gun_PolymerLightSupportWeapon.label>
+  <Gun_PolymerLightSupportWeapon.description>Древний образец, короткоствольное, легкое оружие поддержки.\n\nРедко встречающееся в конфликте, это легкое вспомогательное оружие обычно находится в руках коллекционеров.\n\nИмеет телескопический прицел с минимальным увеличением.\n\nСтреляет патронами среднего калибра.</Gun_PolymerLightSupportWeapon.description>
+  <Gun_PolymerLightSupportWeapon.tools.0.label>приклад</Gun_PolymerLightSupportWeapon.tools.0.label>
+  <Gun_PolymerLightSupportWeapon.tools.1.label>ствол</Gun_PolymerLightSupportWeapon.tools.1.label>
+
+
+  <!-- Infantry Automatic Rifle -->
+
+  <Gun_InfantryAutomaticRifle.label>автомат пехоты</Gun_InfantryAutomaticRifle.label>
+  <Gun_InfantryAutomaticRifle.description>Древний образец, короткоствольный автомат.\n\nЭта винтовка претендует на славу благодаря своей способности динамически переключаться с закрытого болта на открытый болт по мере накопления тепла от автоматического огня.\n\nИмеет прицел отражателя и вертикальную переднюю рукоятку, чтобы ускорить захват цели.\n\nСтреляет патронами среднего калибра.</Gun_InfantryAutomaticRifle.description>
+  <Gun_InfantryAutomaticRifle.tools.0.label>приклад</Gun_InfantryAutomaticRifle.tools.0.label>
+  <Gun_InfantryAutomaticRifle.tools.1.label>ствол</Gun_InfantryAutomaticRifle.tools.1.label>
+
+
+  <!-- Weighted Light Support Weapon -->
+
+  <Gun_WeightedLightSupportWeapon.label>утяжеленное легкое оружие поддержки</Gun_WeightedLightSupportWeapon.label>
+  <Gun_WeightedLightSupportWeapon.description>Древний образец короткоствольного легкого оружия поддержки с буллпап.\n\nБыло быстро обнаружено, что фиксированный ствол и маленький магазин делали автоматическое оружие плохим для отрядов, однако ему удавалось оставаться на службе из-за его невероятной точности.\n\nСтреляет патронами среднего калибра.</Gun_WeightedLightSupportWeapon.description>
+  <Gun_WeightedLightSupportWeapon.tools.0.label>приклад</Gun_WeightedLightSupportWeapon.tools.0.label>
+  <Gun_WeightedLightSupportWeapon.tools.1.label>ствол</Gun_WeightedLightSupportWeapon.tools.1.label>
+
+
+  <!-- Vintage Light Machine Gun -->
+
+  <Gun_VintageLightMachineGun.label>старинный легкий пулемет</Gun_VintageLightMachineGun.label>
+  <Gun_VintageLightMachineGun.description>Древний образец длинноствольного легкого пулемета.\n\nИзначально это оружие использовалось в качестве авиационных пушек. Это деды эффективного, переносного, автоматического огня. Большинство найденных сегодня образцов было построено известным оружейником и коллекционером в далеком мире блеска.\n\nСтреляет патроном винтовочного калибра.</Gun_VintageLightMachineGun.description>
+  <Gun_VintageLightMachineGun.tools.0.label>приклад</Gun_VintageLightMachineGun.tools.0.label>
+  <Gun_VintageLightMachineGun.tools.1.label>ствол</Gun_VintageLightMachineGun.tools.1.label>
+
+
+  <!-- Vintage GPMG -->
+
+  <Gun_VintageGPMG.label>старинный универсальный пулемет</Gun_VintageGPMG.label>
+  <Gun_VintageGPMG.description>Старинный образец универсального пулемета.\n\nДаже после 3000 лет технического прогресса многие современные баллистические вооружения все еще могут проследить свою родословную до конструкции этого пулемета. Этот пример был построен известным оружейником и коллекционером в далеком мире блеска.\n\nСтреляет патроном винтовочного калибра.</Gun_VintageGPMG.description>
+  <Gun_VintageGPMG.tools.0.label>приклад</Gun_VintageGPMG.tools.0.label>
+  <Gun_VintageGPMG.tools.1.label>ствол</Gun_VintageGPMG.tools.1.label>
+
+
+  <!-- GPMG -->
+
+  <Gun_GPMG.label>универсальный пулемет</Gun_GPMG.label>
+  <Gun_GPMG.description>Старинный образец универсального пулемета.\n\nПервоначально замененные более легкими эквивалентами промежуточного калибра, эти неуклюжие звери с тех пор были возвращены на вооружение, чтобы помочь справиться с теперь все более распространенными силовыми доспехами, встречающимися на современных полях сражений.\n\nОснащен увеличенной оптикой, задней рукояткой и регулируемой щечной накладкой для увеличения дальности и точности, а также может быть установлен на статический штатив.\n\nСтреляет патроном винтовочного калибра.</Gun_GPMG.description>
+  <Gun_GPMG.tools.0.label>приклад</Gun_GPMG.tools.0.label>
+  <Gun_GPMG.tools.1.label>ствол</Gun_GPMG.tools.1.label>
+
+
+  <!-- Breech-loading Sniper -->
+
+  <Gun_BreechLoadingSniper.label>казеннозарядная снайперка</Gun_BreechLoadingSniper.label>
+  <Gun_BreechLoadingSniper.description>Древний образец казенной винтовки.\n\nВпервые использовавшиеся для противостояния племенам тысячи лет назад, эти винтовки теперь чаще всего устанавливаются на стенах в качестве декоративных элементов.\n\nЭта модель имеет базовый прицел для увеличения дальности и точности.\n\Стреляет патроном калибр-больше-среднего винтовки.</Gun_BreechLoadingSniper.description>
+  <Gun_BreechLoadingSniper.tools.0.label>приклад</Gun_BreechLoadingSniper.tools.0.label>
+  <Gun_BreechLoadingSniper.tools.1.label>ствол</Gun_BreechLoadingSniper.tools.1.label>
+
+
+  <!-- Lever-Action Rifle Sniper -->
+
+  <Bullet_45LongS.label>пистолетная пуля</Bullet_45LongS.label>
+
+  <Gun_LeverActionSniper.label>рычажная снайперка</Gun_LeverActionSniper.label>
+  <Gun_LeverActionSniper.description>Древний образец рычажного действия.\n\nОт бандитов до героев и простых фермеров; Эта легендарная винтовка известна всем как «Пушка, победившая на западе».\n\nЭта модель имеет базовый прицел для увеличения дальности и точности.\n\nИспользует обоймы под пистолетный патрон.</Gun_LeverActionSniper.description>
+  <Gun_LeverActionSniper.tools.0.label>приклад</Gun_LeverActionSniper.tools.0.label>
+  <Gun_LeverActionSniper.tools.1.label>ствол</Gun_LeverActionSniper.tools.1.label>
+
+
+  <!-- Recon Rifle -->
+
+  <Bullet_762x51mmM.label>полнофункциональная, качественная винтовочная пуля</Bullet_762x51mmM.label>
+
+  <Gun_ReconRifle.label>разведывательная винтовка</Gun_ReconRifle.label>
+  <Gun_ReconRifle.description>Древний образец болтового ружья.\n\nОснащен точным прицелом, болтом с прямым натяжением и стволом соответствующего качества для максимальной точности.\n\nВыстрел среднего калибра, патроны среднего качества</Gun_ReconRifle.description>
+  <Gun_ReconRifle.tools.0.label>приклад</Gun_ReconRifle.tools.0.label>
+  <Gun_ReconRifle.tools.1.label>ствол</Gun_ReconRifle.tools.1.label>
+
+
+  <!-- Rugged Marksman's Rifle -->
+
+  <Bullet_762x54mmR.label>Полнофункциональная винтовочная пуля</Bullet_762x54mmR.label>
+
+  <Gun_RuggedMarksmansRifle.label>прочная стрелковая винтовка</Gun_RuggedMarksmansRifle.label>
+  <Gun_RuggedMarksmansRifle.description>Древний образец короткоствольного стрелкового ружья.\n\nНесмотря на недостаток точности современников, она более чем компенсирует надежность.\n\nСтреляет патроном винтовочного калибра.</Gun_RuggedMarksmansRifle.description>
+  <Gun_RuggedMarksmansRifle.tools.0.label>приклад</Gun_RuggedMarksmansRifle.tools.0.label>
+  <Gun_RuggedMarksmansRifle.tools.1.label>ствол</Gun_RuggedMarksmansRifle.tools.1.label>
+
+
+  <!-- Vintage Sniper -->
+
+  <Gun_VintageSniper.label>старинная снайперка</Gun_VintageSniper.label>
+  <Gun_VintageSniper.description>Древний образец, длинноствольная снайперская винтовка.\n\nПервоначально выставлен в массовом порядке как передовая служебная винтовка; многие из этих ныне устаревших рычагов были просверлены и постучаны, чтобы обеспечить возможность установки прицела. К сожалению, это имело тенденцию искажать приемники, вызывая снижение точности. Хотя эти оригинальные винтовки все еще можно найти на рынке, большинство моделей, найденных сегодня, были построены с нуля хорошо известным оружейником и коллекционером в далеком мире блеска и не страдают от такой же низкой точности.\n\nСтреляет патроном винтовочного калибра.</Gun_VintageSniper.description>
+  <Gun_VintageSniper.tools.0.label>приклад</Gun_VintageSniper.tools.0.label>
+  <Gun_VintageSniper.tools.1.label>ствол</Gun_VintageSniper.tools.1.label>
+
+
+  <!-- Special Purpose Rifle -->
+
+  <Gun_SpecialPurposeRifle.label>винтовка специального назначения</Gun_SpecialPurposeRifle.label>
+  <Gun_SpecialPurposeRifle.description>Древний образец, винтовка прямого воздействия для стрелка.\n\nРазработанный, чтобы обеспечить точный дальний огонь, в максимально короткой упаковке, насколько это возможно; Специальная винтовка прекрасно заполняет свою нишу. Ее замечательные характеристики можно отнести к специально подобранным боеприпасам среднего качества, свободно плавающему стволу и точному прицелу винтовки.\n\nСтреляет патроны среднего калибра.</Gun_SpecialPurposeRifle.description>
+  <Gun_SpecialPurposeRifle.tools.0.label>приклад</Gun_SpecialPurposeRifle.tools.0.label>
+  <Gun_SpecialPurposeRifle.tools.1.label>ствол</Gun_SpecialPurposeRifle.tools.1.label>
+
+
+  <!-- Sniper Support Rifle -->
+
+  <Gun_SniperSupportRifle.label>снайперка поддержки</Gun_SniperSupportRifle.label>
+  <Gun_SniperSupportRifle.description>Древний образец, короткоствольная снайперская винтовка.\n\nВ то время было общеизвестно, что полуавтоматическая винтовка никогда не сможет сравниться с точностью стрельбы. Это было, пока снайперская винтовка поддержки не была представлена. Это огромная цена, означавшая, что она в основном использовалась спецназом и группами повстанцев, но это не мешало ей время от времени попадать в руки «плохих парней».\n\nОтличается вертикальной рукояткой, сошкой, регулируемым патроном, свободно плавающим стволом, точным прицелом и специально подобранными боеприпасами для максимальной точности.</Gun_SniperSupportRifle.description>
+  <Gun_SniperSupportRifle.tools.0.label>приклад</Gun_SniperSupportRifle.tools.0.label>
+  <Gun_SniperSupportRifle.tools.1.label>ствол</Gun_SniperSupportRifle.tools.1.label>
+
+
+  <!-- Anti-Materiel Rifle -->
+
+  <Bullet_AntiMateriel.label>крупнокалиберная винтовочная пуля</Bullet_AntiMateriel.label>
+
+  <Gun_AntiMaterielRifle.label>противотанковая винтовка</Gun_AntiMaterielRifle.label>
+  <Gun_AntiMaterielRifle.description>Древний образец болтового противотанкового оружия.\n\nХотя противотанковая винтовка была в первую очередь предназначена для уничтожения военных объектов и материалов, она также обеспечивает адекватного, хотя и внушающего страх снайпера, с катастрофическими последствиями для мясистых целей.</Gun_AntiMaterielRifle.description>
+  <Gun_AntiMaterielRifle.tools.0.label>приклад</Gun_AntiMaterielRifle.tools.0.label>
+  <Gun_AntiMaterielRifle.tools.1.label>ствол</Gun_AntiMaterielRifle.tools.1.label>
+
+
+  <!-- Modernised Arquebus -->
+
+  <Gun_ModernisedArquebus.label>модернизированный аркебуз</Gun_ModernisedArquebus.label>
+  <Gun_ModernisedArquebus.description>Фитильная пищаль.\n\nПродукт скучающего оружейника.\n\nИмеет регулируемый запас, вертикальную переднюю рукоятку и прицел отражателя для ускорения захвата цели.</Gun_ModernisedArquebus.description>
+  <Gun_ModernisedArquebus.tools.0.label>приклад</Gun_ModernisedArquebus.tools.0.label>
+  <Gun_ModernisedArquebus.tools.1.label>ствол</Gun_ModernisedArquebus.tools.1.label>
+
+
+  <!-- Akimbo Machine Pistols -->
+
+  <Gun_AkimboMachinePistols.label>боевые пистолеты</Gun_AkimboMachinePistols.label>
+  <Gun_AkimboMachinePistols.description>Древний образец, короткоствольных, скорострельных пистолетов.\n\nПри ближайшем рассмотрении эти пистолеты, очевидно, являются клонами подлинного пистолета-пулемета, используя служебные пистолеты как отправную точку. Независимо от того, когда они соединены вместе, эти пистолеты практически невозможно остановить, но им нужно много навыков, чтобы держать их под контролем.\n\nИспользует обоймы под пистолетный патрон.</Gun_AkimboMachinePistols.description>
+  <Gun_AkimboMachinePistols.tools.0.label>рукоятка</Gun_AkimboMachinePistols.tools.0.label>
+
+
+  <!-- Personalised Bullpup PDW -->
+
+  <Gun_PersonalisedBullpupPDW.label>персонализированный буллпап PDW</Gun_PersonalisedBullpupPDW.label>
+  <Gun_PersonalisedBullpupPDW.description>Древний образец личного оружия защиты.\n\nЭтот PDW, окрашенный в розовый цвет и украшенный мультяшной кошкой, явно был очень любим его владельцем.\n\nИмеет подавитель и встроенный отражатель для ускорения захвата цели.\n\nВыстреливает специально разработанный пистолетный патрон, разработанный для пробития бронежилета.</Gun_PersonalisedBullpupPDW.description>
+  <Gun_PersonalisedBullpupPDW.tools.0.label>приклад</Gun_PersonalisedBullpupPDW.tools.0.label>
+  <Gun_PersonalisedBullpupPDW.tools.1.label>ствол</Gun_PersonalisedBullpupPDW.tools.1.label>
+
+
+  <!-- Akimbo Lever-Action Shotguns -->
+
+  <Gun_AkimboLeverActionShotguns.label>ружья боевого действия</Gun_AkimboLeverActionShotguns.label>
+  <Gun_AkimboLeverActionShotguns.description>Древние ружья с рычажным механизмом, уменьшенные до более удобного размера.\n\nМногие считают, что когда они соединены вместе, эти ружья дадут пользователю невероятную силу; Невероятный радиус действия, экстремальный урон и, казалось бы, безграничные боеприпасы. Смешно.\n\nЗапускает вашу обычную картечь.</Gun_AkimboLeverActionShotguns.description>
+  <Gun_AkimboLeverActionShotguns.tools.0.label>трубки магазина</Gun_AkimboLeverActionShotguns.tools.0.label>
+
+
+  <!-- Vintage Lever-Action Rifle -->
+
+  <Bullet_44Hen.label>пистолетная пуля</Bullet_44Hen.label>
+
+  <Gun_VintageLeverActionRifle.label>старинная рычажная винтовка</Gun_VintageLeverActionRifle.label>
+  <Gun_VintageLeverActionRifle.description>Древняя винтовка с рычажным действием.\n\nПрозванный «желтым парнем» из-за его пулеметного приемника, этот оригинальный пример является одним из старейших сохранившихся видов оружия со времен старого запада, хотя как он здесь оказался, остается полной загадкой. Вполне вероятно, что никто не осознает его истинную ценность в течение сотен лет, и его будут продолжать злоупотреблять в обозримом будущем.\n\nИспользует обоймы под пистолетный патрон.</Gun_VintageLeverActionRifle.description>
+  <Gun_VintageLeverActionRifle.tools.0.label>приклад</Gun_VintageLeverActionRifle.tools.0.label>
+  <Gun_VintageLeverActionRifle.tools.1.label>ствол</Gun_VintageLeverActionRifle.tools.1.label>
+
+
+  <!-- Gold-Plated Rugged Assault Rifle -->
+
+  <Gun_GoldPlatedRuggedAssaultRifle.label>позолоченная прочная штурмовая винтовка</Gun_GoldPlatedRuggedAssaultRifle.label>
+  <Gun_GoldPlatedRuggedAssaultRifle.description>Древняя модель штурмовой винтовки.\n\nСимвол богатства для тех, кто ищет войны. Ка-цин.\n\nСтреляет патронами среднего калибра.</Gun_GoldPlatedRuggedAssaultRifle.description>
+  <Gun_GoldPlatedRuggedAssaultRifle.tools.0.label>приклад</Gun_GoldPlatedRuggedAssaultRifle.tools.0.label>
+  <Gun_GoldPlatedRuggedAssaultRifle.tools.1.label>ствол</Gun_GoldPlatedRuggedAssaultRifle.tools.1.label>
+
+
+  <!-- Special Operations Rifle -->
+
+  <Bullet_762x51mmJHP.label>Полнофункциональная винтовочная пуля</Bullet_762x51mmJHP.label>
+
+  <Gun_SpecialOperationsRifle.label>специальная винтовка</Gun_SpecialOperationsRifle.label>
+  <Gun_SpecialOperationsRifle.description>Древний образец, короткоствольная, полностью автоматическая боевая винтовка.\n\nТяжелая боевая винтовка, модифицированная со временем неизвестным оператором.\n\nИмеет вертикальную рукоятку, лазерный модуль, подавитель и увеличенную комбинацию оптического / отражающего прицела, чтобы помочь увеличить дальность и ускорить обнаружение цели.\n\nСтреляет патроном винтовочного калибра.</Gun_SpecialOperationsRifle.description>
+  <Gun_SpecialOperationsRifle.tools.0.label>приклад</Gun_SpecialOperationsRifle.tools.0.label>
+  <Gun_SpecialOperationsRifle.tools.1.label>ствол</Gun_SpecialOperationsRifle.tools.1.label>
+
+
+  <!-- Modified Light Support Weapon -->
+
+  <Bullet_556x45mmJHP.label>промежуточная винтовочная пуля</Bullet_556x45mmJHP.label>
+
+  <Gun_ModifiedLightSupportWeapon.label>модифицированное легкое оружие поддержки</Gun_ModifiedLightSupportWeapon.label>
+  <Gun_ModifiedLightSupportWeapon.description>Древний образец короткоствольного легкого оружия поддержки с буллпап.\n\nЭто огнестрельное оружие, скорее всего, начало свою жизнь как легкое вспомогательное оружие с утяжеленной массой, но за бесчисленные годы обмена руками ему удалось приобрести множество уникальных модификаций, одной из которых была невероятно яркая камуфляжная схема «Красный тигр».\n\nОснащен барабанным магазином, быстросменным стволом и штурмовой защитой рук.\n\nВыпускает патроны с полым наконечником с промежуточным калибром.</Gun_ModifiedLightSupportWeapon.description>
+  <Gun_ModifiedLightSupportWeapon.tools.0.label>приклад</Gun_ModifiedLightSupportWeapon.tools.0.label>
+  <Gun_ModifiedLightSupportWeapon.tools.1.label>ствол</Gun_ModifiedLightSupportWeapon.tools.1.label>
+
+
+  <!-- Automatic Sniper Rifle -->
+
+  <Gun_AutomaticSniperRifle.label>автоматическая снайперка</Gun_AutomaticSniperRifle.label>
+  <Gun_AutomaticSniperRifle.description>Древний образец, короткоствольная снайперская винтовка.\n\nТехническое чудо, эта винтовка начала жизнь как провальный проект. Первоначально он был задуман как полуавтоматическая винтовка, однако из-за сложностей, связанных с комплектом спускового крючка, полностью автоматические взлетно-посадочные полосы были чрезвычайно распространены. Хотя это и привело бы к гибели большинства проектов, группы, собранные в результате этих неудачных тестов, были по-прежнему чрезвычайно тесными, и было решено, что эксперименты с полностью автоматической версией начнутся. Только 4 экспериментальные винтовки были построены до того, как правительство, которое поддерживало проект, пало, и винтовки были тихо забыты.\n\nОснащен свободно плавающим стволом, точным прицелом и специально подобранными боеприпасами для максимальной точности.</Gun_AutomaticSniperRifle.description>
+  <Gun_AutomaticSniperRifle.tools.0.label>приклад</Gun_AutomaticSniperRifle.tools.0.label>
+  <Gun_AutomaticSniperRifle.tools.1.label>ствол</Gun_AutomaticSniperRifle.tools.1.label>
+
+
+  <!-- Quad Launcher -->
+
+  <Bullet_IncendiaryRocket.label>зажигательная пусковая ракета</Bullet_IncendiaryRocket.label>
+
+  <Gun_QuadLauncher.label>четырехместная пусковая установка</Gun_QuadLauncher.label>
+  <Gun_QuadLauncher.description>Зажигательная ракетная установка.\n\nПредназначенный для замены огнемета, эта пусковая установка была объектом некоторой критики на протяжении многих лет, но теперь она вполне коллекционная. Выпускает залп из 4 ракет.</Gun_QuadLauncher.description>
+  <Gun_QuadLauncher.tools.0.label>ствол</Gun_QuadLauncher.tools.0.label>
+
+
+</LanguageData>

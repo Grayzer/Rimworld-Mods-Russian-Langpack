@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Z_MineableAmethyst.label>Аметист</Z_MineableAmethyst.label>
+  <Z_MineableAmethyst.description>Скала, содержащая кусочки аметиста.</Z_MineableAmethyst.description>
+
+  <Z_MineableChalcedony.label>Халцедон</Z_MineableChalcedony.label>
+  <Z_MineableChalcedony.description>Скала, содержащая кусочки халцедона.</Z_MineableChalcedony.description>
+
+  <Z_MineableCitrine.label>Цитрин</Z_MineableCitrine.label>
+  <Z_MineableCitrine.description>Скала, содержащая кусочки цитрина.</Z_MineableCitrine.description>
+
+  <Z_MineableGarnet.label>Гранат</Z_MineableGarnet.label>
+  <Z_MineableGarnet.description>Скала, содержащая кусочки граната.</Z_MineableGarnet.description>
+
+  <Z_MineableLapis.label>Лазурит</Z_MineableLapis.label>
+  <Z_MineableLapis.description>Скала, содержащая кусочки лазурита.</Z_MineableLapis.description>
+
+  <Z_MineableQuartz.label>Кварц</Z_MineableQuartz.label>
+  <Z_MineableQuartz.description>Скала, содержащая кусочки кварца.</Z_MineableQuartz.description>
+
+  <Z_MineableSerpentine.label>Змеевик</Z_MineableSerpentine.label>
+  <Z_MineableSerpentine.description>Скала, содержащая кусочки змеевика.</Z_MineableSerpentine.description>
+
+  <Z_MineableTurquoise.label>Бирюза</Z_MineableTurquoise.label>
+  <Z_MineableTurquoise.description>Скала, содержащая кусочки бирюзы.</Z_MineableTurquoise.description>
+
+
+</LanguageData>

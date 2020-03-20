@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EnterBioReactor>Вход в БиоРеактор</EnterBioReactor>
+  <Histolysis>Гистолизис</Histolysis>
+  <HistolysisDesc>Живые объекты растворяются в реакторе и перерабатываются на биотопливо.</HistolysisDesc>
+  <CarryToBioReactor>Несет {1_label} в БиоРеактор</CarryToBioReactor>
+  <CannotCarryToBioReactor>Нельзя отнести в БиоРеактор</CannotCarryToBioReactor>
+  <RefuelTitle>Фильтр заправки</RefuelTitle>
+  <RefuelTab>Вкладка фильтра</RefuelTab>
+
+  <CommandCopyBioReactorSettingsLabel>Копировать настройки</CommandCopyBioReactorSettingsLabel>
+  <CommandCopyBioReactorSettingsDesc>Скопируйте эти настройки БиоРеактора в буфер обмена, чтобы вы могли вставить их в другой БиоРеактор.</CommandCopyBioReactorSettingsDesc>
+
+  <CommandPasteBioReactorSettingsLabel>Вставить настройки</CommandPasteBioReactorSettingsLabel>
+  <CommandPasteBioReactorSettingsDesc>Перезапишите настройки этого БиоРеактора теми, которые были ранее скопированы в буфер обмена.</CommandPasteBioReactorSettingsDesc>
+
+</LanguageData>

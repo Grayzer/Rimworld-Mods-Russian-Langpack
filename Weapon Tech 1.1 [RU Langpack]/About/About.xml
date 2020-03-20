@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Weapon Tech 1.1</name>
+	<author>Janson</author>
+	<packageId>Janson.WeaponTech11</packageId>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<url></url>
+	<description>Weapon Tech replaces and expands the vanilla weapon research, with a larger emphasis on chronological progression. This means starting with smoothbore muzzle-loaders, and finishing with state-of-the-art gauss weapons. Also featured are composite vests, mannable turrets, and bonus weapons; guns that can only be bought or scavenged, much like the Megascreen Television and Telescope.
+</description>
+</ModMetaData>

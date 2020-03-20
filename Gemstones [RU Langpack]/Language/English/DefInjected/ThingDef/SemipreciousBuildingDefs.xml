@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Z_MineableAmethyst.label>Amethyst</Z_MineableAmethyst.label>
+  <Z_MineableAmethyst.description>Rock containing bits of amethyst.</Z_MineableAmethyst.description>
+
+  <Z_MineableChalcedony.label>Chalcedony</Z_MineableChalcedony.label>
+  <Z_MineableChalcedony.description>Rock containing bits of chalcedony.</Z_MineableChalcedony.description>
+
+  <Z_MineableCitrine.label>Citrine</Z_MineableCitrine.label>
+  <Z_MineableCitrine.description>Rock containing bits of citrine.</Z_MineableCitrine.description>
+
+  <Z_MineableGarnet.label>Garnet</Z_MineableGarnet.label>
+  <Z_MineableGarnet.description>Rock containing bits of garnet.</Z_MineableGarnet.description>
+
+  <Z_MineableLapis.label>Lapis</Z_MineableLapis.label>
+  <Z_MineableLapis.description>Rock containing bits of Lapis.</Z_MineableLapis.description>
+
+  <Z_MineableQuartz.label>Quartz</Z_MineableQuartz.label>
+  <Z_MineableQuartz.description>Rock containing bits of quartz.</Z_MineableQuartz.description>
+
+  <Z_MineableSerpentine.label>Serpentine</Z_MineableSerpentine.label>
+  <Z_MineableSerpentine.description>Rock containing bits of serpentine.</Z_MineableSerpentine.description>
+
+  <Z_MineableTurquoise.label>Turquoise</Z_MineableTurquoise.label>
+  <Z_MineableTurquoise.description>Rock containing bits of turquoise.</Z_MineableTurquoise.description>
+
+
+</LanguageData>

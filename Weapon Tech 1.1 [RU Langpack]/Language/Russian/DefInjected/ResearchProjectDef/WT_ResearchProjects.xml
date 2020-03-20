@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CompositeArmour.label>композитная броня</CompositeArmour.label>
+  <CompositeArmour.description>Изготовить композитные бронепластины для использования в воинских пластинчатых носителях.</CompositeArmour.description>
+
+  <Gunsmithing.label>порох</Gunsmithing.label>
+  <Gunsmithing.description>Позволяет создавать дульное огнестрельное оружие через кузницу или стол для обработки.</Gunsmithing.description>
+
+  <BlowbackOperation.label>казенная зарядка</BlowbackOperation.label>
+  <BlowbackOperation.description>Значительно увеличьте скорострельность, научившись изготавливать огнестрельное оружие с казенной частью за кузнечным или обрабатывающим столом.</BlowbackOperation.description>
+
+  <GasOperation.label>автоматическое оружие</GasOperation.label>
+  <GasOperation.description>Создавайте более совершенное, автоматическое огнестрельное оружие за кузнечным или обрабатывающим столом.</GasOperation.description>
+
+  <Optics.label>оптика</Optics.label>
+  <Optics.description>Узнайте, как изготовить увеличительную оптику для винтовок.</Optics.description>
+
+  <PrecisionRifling.label>самозарядные оружия</PrecisionRifling.label>
+  <PrecisionRifling.description>Узнайте, как создавать сложное самозарядное оружие на обрабатывающем столе.</PrecisionRifling.description>
+
+  <ChargedShot.label>снаряды с магнитной поддержкой</ChargedShot.label>
+  <ChargedShot.description>Воспользуйтесь магнитными снарядами, разработанными для максимальной скорости и проникновения. Позволяет создавать гауссовое оружие на фабричной скамье.</ChargedShot.description>
+
+  <Fuses.label>запал</Fuses.label>
+  <Fuses.description>Научитесь делать химические и механические запалы для использования во взрывчатых веществах. Позволяет создавать осколочные гранаты и минометные снаряды за кузнечным или обрабатывающим столом.</Fuses.description>
+
+  <NNEMP.label>НЭИ</NNEMP.label>
+  <NNEMP.description>Используйте неядерный электромагнитный импульс (НЭИ) для отключения любого электронного оборудования в пределах диапазона. Позволяет строить ЭМИ гранаты и снаряды за обрабатывающим столом.</NNEMP.description>
+
+  <GrenadeLaunchers.label>гранатомет</GrenadeLaunchers.label>
+  <GrenadeLaunchers.description>Позволяет строить гранатометы за обрабатывающим столом.</GrenadeLaunchers.description>
+
+  <SmartMunitions.label>умные боеприпасы</SmartMunitions.label>
+  <SmartMunitions.description>Узнайте, как использовать некоторые схемы, уже найденные в гранатах EMP, для создания программируемого «умного» гранатомета.</SmartMunitions.description>
+
+  <SolidRocketMotors.label>твердотопливные ракетные двигатели</SolidRocketMotors.label>
+  <SolidRocketMotors.description>Увеличьте эффективный диапазон и скорость ваших боеголовок, разместив их на твердотопливных ракетных двигателях.</SolidRocketMotors.description>
+
+  <MultibarrelWeapons.label>многоствольное оружие</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>Узнайте, как создавать ручные, многоствольные пулеметы.</MultibarrelWeapons.description>
+
+  <BrushlessMotors.label>бесщеточные моторы</BrushlessMotors.label>
+  <BrushlessMotors.description>Использование бесщеточного электродвигателя в сочетании с идеей Гатлинга превращает мечту о запуске 6000 выстрелов в минуту в реальность в форме грозного минигана.</BrushlessMotors.description>
+
+
+</LanguageData>

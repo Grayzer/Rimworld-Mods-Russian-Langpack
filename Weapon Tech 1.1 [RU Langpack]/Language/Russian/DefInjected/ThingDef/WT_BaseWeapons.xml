@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cartridges -->
+
+  <Bullet_Lead.label>свинцовый шарик</Bullet_Lead.label>
+  <Bullet_Minie.label>пуля Минье</Bullet_Minie.label>
+  <Bullet_9x19mm.label>пистолетная пуля</Bullet_9x19mm.label>
+  <Bullet_45acp.label>пистолетная пуля</Bullet_45acp.label>
+  <Bullet_45Long.label>пистолетная пуля</Bullet_45Long.label>
+  <Bullet_12g.label>картечь</Bullet_12g.label>
+  <Bullet_556x45mmC.label>промежуточная винтовочная пуля</Bullet_556x45mmC.label>
+  <Bullet_556x45mmR.label>промежуточная винтовочная пуля</Bullet_556x45mmR.label>
+  <Bullet_762x39mmR.label>промежуточная винтовочная пуля</Bullet_762x39mmR.label>
+  <Bullet_556x45mmM.label>промежуточная, средняя винтовочная пуля</Bullet_556x45mmM.label>
+  <Bullet_762x51mm.label>полнофункциональная винтовочная пуля</Bullet_762x51mm.label>
+  <Bullet_762x63mm.label>полнофункциональная винтовочная пуля</Bullet_762x63mm.label>
+  <Bullet_Error.label>упс</Bullet_Error.label>
+
+
+</LanguageData>

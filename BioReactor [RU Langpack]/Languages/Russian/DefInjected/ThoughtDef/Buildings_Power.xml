@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 4X4 Size -->
+
+  <KnowHistolysisHumanlike.stages.0.label>Мы растворили человека живьем.</KnowHistolysisHumanlike.stages.0.label>
+  <KnowHistolysisHumanlike.stages.0.description>Живой человек растаял заживо. Просто растаял я... Брр..</KnowHistolysisHumanlike.stages.0.description>
+
+  <KnowHistolysisHumanlikeCannibal.stages.0.label>Отвратительно</KnowHistolysisHumanlikeCannibal.stages.0.label>
+  <KnowHistolysisHumanlikeCannibal.stages.0.description>Серьезно, это убивает мой аппетит.</KnowHistolysisHumanlikeCannibal.stages.0.description>
+
+  <KnowHistolysisHumanlikePsychopath.stages.0.label>Я видел, как люди тают.</KnowHistolysisHumanlikePsychopath.stages.0.label>
+  <KnowHistolysisHumanlikePsychopath.stages.0.description>Я видел это с самого начала... Прекрасно.</KnowHistolysisHumanlikePsychopath.stages.0.description>
+
+  <LivingBattery.stages.0.label>Я стал живой батареей.</LivingBattery.stages.0.label>
+  <LivingBattery.stages.0.description>Я стал живым аккумулятором. Я не хочу туда возвращаться.</LivingBattery.stages.0.description>
+
+
+</LanguageData>

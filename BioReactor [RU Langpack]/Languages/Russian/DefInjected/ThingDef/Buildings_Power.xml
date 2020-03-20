@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BioReactorBase.label>БиоРеактор</BioReactorBase.label>
+  <BioReactorBase.description>Это биореактор. Это черпает энергию из живой жизни. Выходная мощность пропорциональна размеру тела существа. Необходимо количество пищи для помещения в живой организм.</BioReactorBase.description>
+
+
+  <!-- 2X2 Size -->
+
+  <BioReactor.label>БиоРеактор (2X2)</BioReactor.label>
+  <BioReactor.description>Это биореактор. Это черпает энергию из живой жизни. Выходная мощность пропорциональна размеру тела существа. Необходимо количество пищи для помещения в живой организм.</BioReactor.description>
+
+
+  <!-- 3X3 Size -->
+
+  <BioReactorCircleLarge.label>БиоРеактор (3X3)</BioReactorCircleLarge.label>
+  <BioReactorCircleLarge.description>Это биореактор. Это черпает энергию из живой жизни. Выходная мощность пропорциональна размеру тела существа. Необходимо количество пищи для помещения в живой организм.</BioReactorCircleLarge.description>
+
+
+  <!-- 4X4 Size -->
+
+  <BioReactorCircleEX.label>БиоРеактор (4X4)</BioReactorCircleEX.label>
+  <BioReactorCircleEX.description>Это биореактор. Это черпает энергию из живой жизни. Выходная мощность пропорциональна размеру тела существа. Необходимо количество пищи для помещения в живой организм.</BioReactorCircleEX.description>
+
+
+  <!-- 3X3 Size -->
+
+  <BioReactorBig.label>БиоРеактор (3X3)</BioReactorBig.label>
+  <BioReactorBig.description>Это биореактор. Это черпает энергию из живой жизни. Выходная мощность пропорциональна размеру тела существа. Необходимо количество пищи для помещения в живой организм.</BioReactorBig.description>
+
+
+  <!-- 4X4 Size -->
+
+  <BioReactorEx.label>БиоРеактор (4X4)</BioReactorEx.label>
+  <BioReactorEx.description>Это биореактор. Это черпает энергию из живой жизни. Выходная мощность пропорциональна размеру тела существа. Необходимо количество пищи для помещения в живой организм.</BioReactorEx.description>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 4X4 Size -->
+
+  <PutIntoBioReactor.label>помещает в БиоРеактор</PutIntoBioReactor.label>
+  <PutIntoBioReactor.rulePack.rulesStrings.0>tale_noun->[CARRIER_nameDef] помещает [SLEEPER_nameDef] в БиоРеактор</PutIntoBioReactor.rulePack.rulesStrings.0>
+  <PutIntoBioReactor.rulePack.rulesStrings.1>image->[CARRIER_nameFull] размещает [SLEEPER_nameDef] внутри БиоРеактора [circumstance_group]</PutIntoBioReactor.rulePack.rulesStrings.1>
+  <PutIntoBioReactor.rulePack.rulesStrings.2>image->[CARRIER_nameFull] открывает пустой БиоРеактора при поддержке [SLEEPER_nameDef] [circumstance_group]</PutIntoBioReactor.rulePack.rulesStrings.2>
+  <PutIntoBioReactor.rulePack.rulesStrings.3>image->[CARRIER_nameFull] запечатывает [SLEEPER_nameDef] внутри БиоРеактора [circumstance_group]</PutIntoBioReactor.rulePack.rulesStrings.3>
+  <PutIntoBioReactor.rulePack.rulesStrings.4>image->[CARRIER_nameFull] уходит, [SLEEPER_nameDef] смотрит сквозь стенку биореактора [circumstance_group]</PutIntoBioReactor.rulePack.rulesStrings.4>
+  <PutIntoBioReactor.rulePack.rulesStrings.5>circumstance_phrase(p=3)->с [AdjectiveAny] выражением</PutIntoBioReactor.rulePack.rulesStrings.5>
+  <PutIntoBioReactor.rulePack.rulesStrings.6>circumstance_phrase->в то время как поглощено мыслью</PutIntoBioReactor.rulePack.rulesStrings.6>
+  <PutIntoBioReactor.rulePack.rulesStrings.7>circumstance_phrase->глядя на далекое [TerrainFeature]</PutIntoBioReactor.rulePack.rulesStrings.7>
+  <PutIntoBioReactor.rulePack.rulesStrings.8>circumstance_phrase->с видимым напряжением между двумя</PutIntoBioReactor.rulePack.rulesStrings.8>
+  <PutIntoBioReactor.rulePack.rulesStrings.9>desc_sentence->[Quantity_adjphrase] [Animal] отдыхаеи возле сцены.</PutIntoBioReactor.rulePack.rulesStrings.9>
+  <PutIntoBioReactor.rulePack.rulesStrings.10>desc_sentence->[Quantity_adjphrase] [Enemy] приближается к площади.</PutIntoBioReactor.rulePack.rulesStrings.10>
+  <PutIntoBioReactor.rulePack.rulesStrings.11>desc_sentence->[CARRIER_nameDef] излучает решимость.</PutIntoBioReactor.rulePack.rulesStrings.11>
+  <PutIntoBioReactor.rulePack.rulesStrings.12>desc_sentence->[SLEEPER_nameDef] заметно ранен.</PutIntoBioReactor.rulePack.rulesStrings.12>
+  <PutIntoBioReactor.rulePack.rulesStrings.13>desc_sentence->[SLEEPER_nameDef] выглядит измученным.</PutIntoBioReactor.rulePack.rulesStrings.13>
+  <PutIntoBioReactor.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] заполнные БиоРеакторы окружают сцену.</PutIntoBioReactor.rulePack.rulesStrings.14>
+
+  <EnteredBioReactor.label>входит в БиоРеактор</EnteredBioReactor.label>
+  <EnteredBioReactor.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] входит в БиоРеактор</EnteredBioReactor.rulePack.rulesStrings.0>
+  <EnteredBioReactor.rulePack.rulesStrings.1>image->[PAWN_nameFull] положил в БиоРеактор [circumstance_group]</EnteredBioReactor.rulePack.rulesStrings.1>
+  <EnteredBioReactor.rulePack.rulesStrings.2>image->[PAWN_nameFull] открыл пустой БиоРеактор [circumstance_group]</EnteredBioReactor.rulePack.rulesStrings.2>
+  <EnteredBioReactor.rulePack.rulesStrings.3>image->[PAWN_nameFull] запечатывать себя внутри БиоРеактора [circumstance_group]</EnteredBioReactor.rulePack.rulesStrings.3>
+  <EnteredBioReactor.rulePack.rulesStrings.4>image->[PAWN_nameFull] смотрит через стену биореактора на мир, который он собирается покинуть [circumstance_group]</EnteredBioReactor.rulePack.rulesStrings.4>
+  <EnteredBioReactor.rulePack.rulesStrings.5>circumstance_phrase->с [AdjectiveAngsty] выражением</EnteredBioReactor.rulePack.rulesStrings.5>
+  <EnteredBioReactor.rulePack.rulesStrings.6>circumstance_phrase->в то время как поглощен мыслью</EnteredBioReactor.rulePack.rulesStrings.6>
+  <EnteredBioReactor.rulePack.rulesStrings.7>circumstance_phrase->глядя на далекое [TerrainFeature]</EnteredBioReactor.rulePack.rulesStrings.7>
+  <EnteredBioReactor.rulePack.rulesStrings.8>circumstance_phrase->и говорит тихо с собой</EnteredBioReactor.rulePack.rulesStrings.8>
+  <EnteredBioReactor.rulePack.rulesStrings.9>desc_sentence->[Quantity_adjphrase] [Animal] отдыхаеи возле сцены.</EnteredBioReactor.rulePack.rulesStrings.9>
+  <EnteredBioReactor.rulePack.rulesStrings.10>desc_sentence->[Quantity_adjphrase] [Enemy] приближается к площади.</EnteredBioReactor.rulePack.rulesStrings.10>
+  <EnteredBioReactor.rulePack.rulesStrings.11>desc_sentence->[PAWN_nameDef] излучает решимость.</EnteredBioReactor.rulePack.rulesStrings.11>
+  <EnteredBioReactor.rulePack.rulesStrings.12>desc_sentence->[PAWN_nameDef] заметно ранен.</EnteredBioReactor.rulePack.rulesStrings.12>
+  <EnteredBioReactor.rulePack.rulesStrings.13>desc_sentence->A [Color] рассвет сияет на заднем плане.</EnteredBioReactor.rulePack.rulesStrings.13>
+  <EnteredBioReactor.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] заполнные БиоРеакторы окружают сцену.</EnteredBioReactor.rulePack.rulesStrings.14>
+
+
+</LanguageData>

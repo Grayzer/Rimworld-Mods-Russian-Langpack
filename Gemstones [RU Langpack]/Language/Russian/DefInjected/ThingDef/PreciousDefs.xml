@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Z_Diamond.label>алмаз</Z_Diamond.label>
+  <Z_Diamond.description>Драгоценный камень. Часто используется для украшения и декораций.</Z_Diamond.description>
+
+  <Z_Emerald.label>изумруд</Z_Emerald.label>
+  <Z_Emerald.description>Драгоценный камень. Часто используется для украшения и декораций.</Z_Emerald.description>
+
+  <Z_Ruby.label>рубин</Z_Ruby.label>
+  <Z_Ruby.description>Драгоценный камень. Часто используется для украшения и декораций.</Z_Ruby.description>
+
+  <Z_Sapphire.label>сапфир</Z_Sapphire.label>
+  <Z_Sapphire.description>Драгоценный камень. Часто используется для украшения и декораций.</Z_Sapphire.description>
+
+
+</LanguageData>

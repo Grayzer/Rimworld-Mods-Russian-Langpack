@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gatling Gun Base -->
+
+  <Turret_GatlingGunTurret.label>установленный пулемет Гатлинга</Turret_GatlingGunTurret.label>
+  <Turret_GatlingGunTurret.description>Пистолет Гатлинга, прикрепленный к свободно движущемуся штативу, для большей устойчивости.\n\nИспользует ручной лоток  для подачи патронов из установленного сверху ящика.\n\nТребует сталь для восстановления своего ствола после интенсивного использования.</Turret_GatlingGunTurret.description>
+
+
+  <!-- Gatling Gun Turret -->
+
+  <Bullet_Gatling.label>пуля Минье</Bullet_Gatling.label>
+
+  <Gun_GatlingGunTurret.label>установленный пулемет Гатлинга</Gun_GatlingGunTurret.label>
+  <Gun_GatlingGunTurret.description>Пулемет Гатлинга установленный на штатив.</Gun_GatlingGunTurret.description>
+
+
+  <!-- LMG Base -->
+
+  <Turret_LMGTurret.label>установленный ЛП</Turret_LMGTurret.label>
+  <Turret_LMGTurret.description>Легкий пулемет, установленный на механически регулируемый штатив для лучшей устойчивости.\n\nРучное управление ходом и высотой штатива делает невозможным отслеживание целей на близком расстоянии.\n\nТребует сталь для восстановления своего ствола после интенсивного использования.</Turret_LMGTurret.description>
+
+
+  <!-- LMG Turret -->
+
+  <Gun_LMGTurret.label>установленный ЛП</Gun_LMGTurret.label>
+  <Gun_LMGTurret.description>Легкий пулемет установленный на штатив.</Gun_LMGTurret.description>
+
+
+  <!-- Vintage GPMG Base -->
+
+  <Turret_VintageGPMGTurret.label>установленный винтажный ПОН</Turret_VintageGPMGTurret.label>
+  <Turret_VintageGPMGTurret.description>Пулемет общего назначения, установленный на механически регулируемый штатив для лучшей устойчивости.\n\nРучное управление ходом и высотой штатива делает невозможным отслеживание целей на близком расстоянии.\n\nТребует сталь для восстановления своего ствола после интенсивного использования.</Turret_VintageGPMGTurret.description>
+
+
+  <!-- Vintage GPMG Turret -->
+
+  <Gun_VintageGPMGTurret.label>установленный винтажный ПОН</Gun_VintageGPMGTurret.label>
+  <Gun_VintageGPMGTurret.description>Пулемет общего назначения установленный на штатив.</Gun_VintageGPMGTurret.description>
+
+
+  <!-- GPMG Base -->
+
+  <Turret_GPMGTurret.label>установленный ПОН</Turret_GPMGTurret.label>
+  <Turret_GPMGTurret.description>Пулемет общего назначения, установленный на механически регулируемый штатив для лучшей устойчивости.\n\nРучное управление ходом и высотой штатива делает невозможным отслеживание целей на близком расстоянии.\n\nТребует сталь для восстановления своего ствола после интенсивного использования.</Turret_GPMGTurret.description>
+
+
+  <!-- GPMG Turret -->
+
+  <Gun_GPMGTurret.label>установленный ПОН</Gun_GPMGTurret.label>
+  <Gun_GPMGTurret.description>Пулемет общего назначения установленный на штатив.</Gun_GPMGTurret.description>
+
+
+  <!-- Minigun Base -->
+
+  <Turret_MinigunTurret.label>установленный миниган</Turret_MinigunTurret.label>
+  <Turret_MinigunTurret.description>Миниган установленный на механически регулируемый штатив для лучшей устойчивости.\n\nТочность немного плохая из-за невероятной дульной вспышки, но это более чем компенсирует большой объем огня.\n\nТребует сталь для восстановления своего ствола после интенсивного использования.</Turret_MinigunTurret.description>
+
+
+  <!-- Minigun Turret -->
+
+  <Gun_MinigunTurret.label>установленный миниган</Gun_MinigunTurret.label>
+  <Gun_MinigunTurret.description>Миниган установленный на штатив.</Gun_MinigunTurret.description>
+
+
+  <!-- GMG Base -->
+
+  <Turret_GMGTurret.label>установленный авто-гранатомет</Turret_GMGTurret.label>
+  <Turret_GMGTurret.description>Гранатомет, установленный на свободно движущемся штативе для лучшей устойчивости.\n\nТребуется химическое топливо для перезарядки после интенсивного использования.</Turret_GMGTurret.description>
+
+
+  <!-- GMG Turret -->
+
+  <Gun_GMGTurret.label>установленный авто-гранатомет/Gun_GMGTurret.label>
+  <Gun_GMGTurret.description>Гранатомет установленный на штатив.</Gun_GMGTurret.description>
+
+
+  <!-- Anti-Tank Rifle Base -->
+
+  <Turret_AntiTankTurret.label>установленное противотанковое ружье</Turret_AntiTankTurret.label>
+  <Turret_AntiTankTurret.description>Противотанковое ружье, установленное на свободно движущейся сошке лыжного типа для лучшей устойчивости.\n\nПротивотанковое ружье - одна из крупнейших серийных винтовок, которая до сих пор существует, - идеальное решение для шумных соседей и вооруженных захватчиков.\n\nТребуется химическое топливо для перезарядки после интенсивного использования.</Turret_AntiTankTurret.description>
+
+
+  <!-- Anti-Tank Rifle Turret -->
+
+  <Bullet_Cannon.label>снаряд</Bullet_Cannon.label>
+
+  <Gun_AntiTankRifleTurret.label>установленное противотанковое ружье</Gun_AntiTankRifleTurret.label>
+  <Gun_AntiTankRifleTurret.description>Противотанковое ружье установленное на штатив.</Gun_AntiTankRifleTurret.description>
+
+
+</LanguageData>

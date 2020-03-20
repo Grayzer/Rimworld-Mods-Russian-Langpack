@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Katana.label>катана</MeleeWeapon_Katana.label>
+  <MeleeWeapon_Katana.description>Древний меч с изогнутым клинком. Используется великими воинами для быстрых рубящих и колющих атак.</MeleeWeapon_Katana.description>
+  <MeleeWeapon_Katana.tools.0.label>рукоять</MeleeWeapon_Katana.tools.0.label>
+  <MeleeWeapon_Katana.tools.1.label>лезвие</MeleeWeapon_Katana.tools.1.label>
+
+
+</LanguageData>

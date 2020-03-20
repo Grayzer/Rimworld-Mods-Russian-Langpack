@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 4X4 Size -->
+
+  <CarryToBioReactor.reportString>переносит TargetA в БиоРеактор.</CarryToBioReactor.reportString>
+  <EnterBioReactor.reportString>входит в БиоРеактор.</EnterBioReactor.reportString>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Manifest>
+    <identifier>WeaponTech</identifier>
+    <version>1.8.0.8</version>
+    <dependencies>
+    </dependencies>
+    <incompatibleWith>
+    </incompatibleWith>
+    <loadBefore>
+    </loadBefore>
+    <loadAfter>
+		<li>1496122245</li>
+		<li>1542761308</li>
+		<li>1628211313</li>
+    </loadAfter>
+    <suggests>
+    </suggests>
+    <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri></manifestUri>
+    <downloadUri></downloadUri>
+</Manifest>
