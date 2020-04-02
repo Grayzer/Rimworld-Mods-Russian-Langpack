@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsTableBionicProstheses.label>делать бионические вещи на бионическом верстаке</DoBillsTableBionicProstheses.label>
+  <DoBillsTableBionicProstheses.verb>работа</DoBillsTableBionicProstheses.verb>
+  <DoBillsTableBionicProstheses.gerund>работать на</DoBillsTableBionicProstheses.gerund>
+
+  <DoBillsArchotechProsthesesBench.label>изготовлять предметы архотека</DoBillsArchotechProsthesesBench.label>
+  <DoBillsArchotechProsthesesBench.verb>изготовить предметы архотека</DoBillsArchotechProsthesesBench.verb>
+  <DoBillsArchotechProsthesesBench.gerund>изготовляет предметы архотека на</DoBillsArchotechProsthesesBench.gerund>
+
+
+</LanguageData>

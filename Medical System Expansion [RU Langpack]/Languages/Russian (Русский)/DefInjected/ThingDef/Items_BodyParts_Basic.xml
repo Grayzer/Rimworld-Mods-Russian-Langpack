@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PegLeg.label>деревянная нога</PegLeg.label>
+  <PegLeg.description>Очень плохая замена ноги.</PegLeg.description>
+
+  <WoodenFoot.label>деревянная ступня</WoodenFoot.label>
+  <WoodenFoot.description>Очень плохая замена ступни.</WoodenFoot.description>
+
+  <Denture.label>зубы</Denture.label>
+  <Denture.description>Очень плохая замена челюсти.</Denture.description>
+
+
+  <!-- Basic Limbs -->
+
+  <WoodenToe.label>деревянный палец ноги</WoodenToe.label>
+  <WoodenToe.description>Очень плохая замена пальца ноги.</WoodenToe.description>
+
+  <WoodenArm.label>деревянная рука</WoodenArm.label>
+  <WoodenArm.description>Очень плохая замена руки.</WoodenArm.description>
+
+  <HookHand.label>рука-крюк</HookHand.label>
+  <HookHand.description>Очень плохая замена ладони.</HookHand.description>
+
+  <WoodenFinger.label>деревянный палец</WoodenFinger.label>
+  <WoodenFinger.description>Очень плохая замена пальца.</WoodenFinger.description>
+
+  <Eyepatch.label>повязка на глах</Eyepatch.label>
+  <Eyepatch.description>Прикрывает потерянный глаз.</Eyepatch.description>
+
+  <WoodenEar.label>деревянное ухо</WoodenEar.label>
+  <WoodenEar.description>Очень плохая замена уха..</WoodenEar.description>
+
+  <WoodenNose.label>деревянный нос</WoodenNose.label>
+  <WoodenNose.description>Очень плохая замена носа..</WoodenNose.description>
+
+
+</LanguageData>

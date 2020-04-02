@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArchotechEye.label>архотек глаз</ArchotechEye.label>
+  <ArchotechEye.labelNoun>архотек глаз</ArchotechEye.labelNoun>
+  <ArchotechEye.description>Test. Fix Later</ArchotechEye.description>
+
+  <ArchotechArm.label>архотек рука</ArchotechArm.label>
+  <ArchotechArm.labelNoun>архотек рука</ArchotechArm.labelNoun>
+  <ArchotechArm.description>Test. Fix Later</ArchotechArm.description>
+  <ArchotechArm.comps.2.tools.0.label>fist</ArchotechArm.comps.2.tools.0.label>
+
+  <ArchotechLeg.label>архотек нога</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
+  <ArchotechLeg.description>Test. Fix Later</ArchotechLeg.description>
+
+
+  <!-- Archotech Organs -->
+
+  <ArchotechHeart.label>архотек сердце</ArchotechHeart.label>
+  <ArchotechHeart.labelNoun>архотек сердце</ArchotechHeart.labelNoun>
+  <ArchotechHeart.description>Test. Fix Later</ArchotechHeart.description>
+
+  <ArchotechStomach.label>архотек желудок</ArchotechStomach.label>
+  <ArchotechStomach.labelNoun>архотек желудок</ArchotechStomach.labelNoun>
+  <ArchotechStomach.description>Test. Fix Later</ArchotechStomach.description>
+
+  <ArchotechLung.label>архотек легкое</ArchotechLung.label>
+  <ArchotechLung.labelNoun>архотек легкое</ArchotechLung.labelNoun>
+  <ArchotechLung.description>Test. Fix Later</ArchotechLung.description>
+
+  <ArchotechKidney.label>архотек почка</ArchotechKidney.label>
+  <ArchotechKidney.labelNoun>архотек почка</ArchotechKidney.labelNoun>
+  <ArchotechKidney.description>Test. Fix Later</ArchotechKidney.description>
+
+  <ArchotechLiver.label>архотек печень</ArchotechLiver.label>
+  <ArchotechLiver.labelNoun>архотек печень</ArchotechLiver.labelNoun>
+  <ArchotechLiver.description>Test. Fix Later</ArchotechLiver.description>
+
+
+  <!-- Archotech Parts -->
+
+  <ArchotechEar.label>архотек ухо</ArchotechEar.label>
+  <ArchotechEar.labelNoun>архотек ухо</ArchotechEar.labelNoun>
+  <ArchotechEar.description>Test. Fix Later</ArchotechEar.description>
+
+  <ArchotechFoot.label>архотек ступня</ArchotechFoot.label>
+  <ArchotechFoot.labelNoun>архотек ступня</ArchotechFoot.labelNoun>
+  <ArchotechFoot.description>Test. Fix Later</ArchotechFoot.description>
+
+  <ArchotechToe.label>архотек палец ноги</ArchotechToe.label>
+  <ArchotechToe.labelNoun>архотек палец ноги</ArchotechToe.labelNoun>
+  <ArchotechToe.description>Test. Fix Later</ArchotechToe.description>
+
+  <ArchotechShoulder.label>архотек плечо</ArchotechShoulder.label>
+  <ArchotechShoulder.labelNoun>архотек плечо</ArchotechShoulder.labelNoun>
+  <ArchotechShoulder.description>Test. Fix Later</ArchotechShoulder.description>
+
+  <ArchotechHand.label>архотек ладонь</ArchotechHand.label>
+  <ArchotechHand.labelNoun>архотек ладонь</ArchotechHand.labelNoun>
+  <ArchotechHand.description>Test. Fix Later</ArchotechHand.description>
+  <ArchotechHand.comps.2.tools.0.label>claw</ArchotechHand.comps.2.tools.0.label>
+
+  <ArchotechFinger.label>архотек палец</ArchotechFinger.label>
+  <ArchotechFinger.labelNoun>архотек палец</ArchotechFinger.labelNoun>
+  <ArchotechFinger.description>Test. Fix Later</ArchotechFinger.description>
+
+  <ArchotechJaw.label>архотек челюсть</ArchotechJaw.label>
+  <ArchotechJaw.labelNoun>архотек челюсть</ArchotechJaw.labelNoun>
+  <ArchotechJaw.description>Test. Fix Later</ArchotechJaw.description>
+
+
+  <!-- Archotech Bones -->
+
+  <ArchotechSpine.label>архотек позвоночник</ArchotechSpine.label>
+  <ArchotechSpine.labelNoun>архотек позвоночник</ArchotechSpine.labelNoun>
+  <ArchotechSpine.description>Test. Fix Later</ArchotechSpine.description>
+
+  <ArchotechClavicle.label>архотек ключица</ArchotechClavicle.label>
+  <ArchotechClavicle.labelNoun>архотек ключица</ArchotechClavicle.labelNoun>
+  <ArchotechClavicle.description>Test. Fix Later</ArchotechClavicle.description>
+
+  <ArchotechSternum.label>архотек грудина</ArchotechSternum.label>
+  <ArchotechSternum.labelNoun>архотек грудина</ArchotechSternum.labelNoun>
+  <ArchotechSternum.description>Test. Fix Later</ArchotechSternum.description>
+
+  <ArchotechRib.label>архотек ребро</ArchotechRib.label>
+  <ArchotechRib.labelNoun>архотек ребро</ArchotechRib.labelNoun>
+  <ArchotechRib.description>Test. Fix Later</ArchotechRib.description>
+
+  <ArchotechPelvis.label>архотек таз</ArchotechPelvis.label>
+  <ArchotechPelvis.labelNoun>архотек таз</ArchotechPelvis.labelNoun>
+  <ArchotechPelvis.description>Test. Fix Later</ArchotechPelvis.description>
+
+  <ArchotechHumerus.label>архотек предплечье</ArchotechHumerus.label>
+  <ArchotechHumerus.labelNoun>архотек предплечье</ArchotechHumerus.labelNoun>
+  <ArchotechHumerus.description>Test. Fix Later</ArchotechHumerus.description>
+
+  <ArchotechRadius.label>архотек лучевая кость</ArchotechRadius.label>
+  <ArchotechRadius.labelNoun>архотек лучевая кость</ArchotechRadius.labelNoun>
+  <ArchotechRadius.description>Test. Fix Later</ArchotechRadius.description>
+
+  <ArchotechFemur.label>архотек бедро</ArchotechFemur.label>
+  <ArchotechFemur.labelNoun>архотек бедро</ArchotechFemur.labelNoun>
+  <ArchotechFemur.description>Test. Fix Later</ArchotechFemur.description>
+
+  <ArchotechTibia.label>архотек берцовая кость</ArchotechTibia.label>
+  <ArchotechTibia.labelNoun>архотек берцовая кость</ArchotechTibia.labelNoun>
+  <ArchotechTibia.description>Test. Fix Later</ArchotechTibia.description>
+
+
+  <!-- Special Archotech -->
+
+  <AdvancedAntitoxinKidney.label>продвинутая антитоксиновая почка</AdvancedAntitoxinKidney.label>
+  <AdvancedAntitoxinKidney.labelNoun>продвинутая антитоксиновая почка</AdvancedAntitoxinKidney.labelNoun>
+  <AdvancedAntitoxinKidney.description>Test. Fix Later</AdvancedAntitoxinKidney.description>
+
+  <AdvancedMedicalLiver.label>продвинутая медик-печень</AdvancedMedicalLiver.label>
+  <AdvancedMedicalLiver.labelNoun>продвинутая медик-печень</AdvancedMedicalLiver.labelNoun>
+  <AdvancedMedicalLiver.description>Test. Fix Later</AdvancedMedicalLiver.description>
+
+  <AdvancedEnergizedLiver.label>продвинутая энерго-печень</AdvancedEnergizedLiver.label>
+  <AdvancedEnergizedLiver.labelNoun>продвинутая энерго-печень</AdvancedEnergizedLiver.labelNoun>
+  <AdvancedEnergizedLiver.description>Test. Fix Later</AdvancedEnergizedLiver.description>
+
+  <AdvancedPowerArm.label>продвинутая силовая рука</AdvancedPowerArm.label>
+  <AdvancedPowerArm.labelNoun>продвинутая силовая рука</AdvancedPowerArm.labelNoun>
+  <AdvancedPowerArm.description>Test. Fix Later</AdvancedPowerArm.description>
+  <AdvancedPowerArm.comps.2.tools.0.label>fist</AdvancedPowerArm.comps.2.tools.0.label>
+
+  <MSE_AdvancedPowerBlade.label>продвинутое силовое лезвие</MSE_AdvancedPowerBlade.label>
+  <MSE_AdvancedPowerBlade.labelNoun>продвинутое силовое лезвие</MSE_AdvancedPowerBlade.labelNoun>
+  <MSE_AdvancedPowerBlade.description>Test. Fix Later</MSE_AdvancedPowerBlade.description>
+  <MSE_AdvancedPowerBlade.comps.2.tools.0.label>blade</MSE_AdvancedPowerBlade.comps.2.tools.0.label>
+
+  <AdvancedPowerClaw.label>продвинутый силовой коготь</AdvancedPowerClaw.label>
+  <AdvancedPowerClaw.labelNoun>продвинутый силовой коготь</AdvancedPowerClaw.labelNoun>
+  <AdvancedPowerClaw.description>Test. Fix Later</AdvancedPowerClaw.description>
+  <AdvancedPowerClaw.comps.2.tools.0.label>claw</AdvancedPowerClaw.comps.2.tools.0.label>
+
+  <AdvancedBreathingSupportRib.label>продвинутое ребро поддержки дыхания</AdvancedBreathingSupportRib.label>
+  <AdvancedBreathingSupportRib.description>Test. Fix Later</AdvancedBreathingSupportRib.description>
+  <AdvancedBreathingSupportRib.labelNoun>продвинутое ребро поддержки дыхания</AdvancedBreathingSupportRib.labelNoun>
+
+  <AdvancedRelaxationRib.label>продвинутое ребро релаксации</AdvancedRelaxationRib.label>
+  <AdvancedRelaxationRib.labelNoun>продвинутое ребро релаксации</AdvancedRelaxationRib.labelNoun>
+  <AdvancedRelaxationRib.description>Test. Fix Later</AdvancedRelaxationRib.description>
+
+  <AdvancedColdRegulatorRib.label>продвинутое ребро морозоустойчивости</AdvancedColdRegulatorRib.label>
+  <AdvancedColdRegulatorRib.labelNoun>продвинутое ребро морозоустойчивости</AdvancedColdRegulatorRib.labelNoun>
+  <AdvancedColdRegulatorRib.description>Test. Fix Later</AdvancedColdRegulatorRib.description>
+
+  <AdvancedHeatRegulatorRib.label>продвинутое ребро жаростойкости</AdvancedHeatRegulatorRib.label>
+  <AdvancedHeatRegulatorRib.labelNoun>продвинутое ребро жаростойкости</AdvancedHeatRegulatorRib.labelNoun>
+  <AdvancedHeatRegulatorRib.description>Test. Fix Later</AdvancedHeatRegulatorRib.description>
+
+
+</LanguageData>

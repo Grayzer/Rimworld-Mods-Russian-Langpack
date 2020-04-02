@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+  <!-- Transport pods -->
+
+
+  <PodLaunchertwo.label>좋은 발사대</PodLaunchertwo.label>
+
+  <PodLaunchertwo.description>원래보다 더 멀리 날아갈 수 있는 발사대(최대연료:200)</PodLaunchertwo.description>
+
+  <Blueprint_PodLaunchertwo.label>원래보다 더 멀리 날아갈 수 있는 발사대(최대연료:200)</Blueprint_PodLaunchertwo.label>
+
+  <Frame_PodLaunchertwo.label>원래보다 더 멀리 날아갈 수 있는 발사대(최대연료:200)</Frame_PodLaunchertwo.label>
+
+  <Frame_PodLaunchertwo.description>원래보다 더 멀리 날아갈 수 있는 발사대(최대연료:200)</Frame_PodLaunchertwo.description>
+
+
+  <PodLauncherthree.label>슈퍼 발사대</PodLauncherthree.label>
+
+  <PodLauncherthree.description>더 멀리 날아갈수 있는 발사대(최대연료:250)</PodLauncherthree.description>
+
+  <Blueprint_PodLauncherthree.label>더 멀리 날아갈 수 있는 발사대(최대연료:250)</Blueprint_PodLauncherthree.label>
+
+  <Frame_PodLauncherthree.label>더 멀리 날아갈수 있는 발사대(최대연료:250)</Frame_PodLauncherthree.label>
+
+  <Frame_PodLauncherthree.description>더 멀리 날아갈 수 있는 발사대(최대연료:250)</Frame_PodLauncherthree.description>
+
+
+  <PodLauncherfour.label>얼티밋 발사대</PodLauncherfour.label>
+
+  <PodLauncherfour.description>얼티밋 발사대 (최대연료:300)</PodLauncherfour.description>
+
+  <Blueprint_PodLauncherfour.label>얼티밋 발사대 (최대연료:300)</Blueprint_PodLauncherfour.label>
+
+  <Frame_PodLauncherfour.label>얼티밋 발사대</Frame_PodLauncherfour.label>
+
+  <Frame_PodLauncherfour.description>얼티밋 발사대 (최대연료:300)</Frame_PodLauncherfour.description>
+
+
+  <PodLauncherfive.label>강철 발사대</PodLauncherfive.label>
+
+  <PodLauncherfive.description>최대연료 100,강철을 대신 사용</PodLauncherfive.description>
+
+  <Blueprint_PodLauncherfive.label>최대연료 100,강철을 대신 사용</Blueprint_PodLauncherfive.label>
+
+  <Frame_PodLauncherfive.label>최대연료 100,강철을 대신 사용</Frame_PodLauncherfive.label>
+
+  <Frame_PodLauncherfive.description>최대연료 100,강철을 대신 사용</Frame_PodLauncherfive.description>
+
+
+  <BPL_EX.label>발사대 EX</BPL_EX.label>
+
+  <BPL_EX.description>발사대EX (최대연료:800,집안에 설치 가능)</BPL_EX.description>
+
+  <Blueprint_BPL_EX.label>발사대EX (최대연료:800,집안에 설치 가능)</Blueprint_BPL_EX.label>
+
+  <Frame_BPL_EX.label>발사대EX (최대연료:800,집안에 설치 가능)</Frame_BPL_EX.label>
+
+  <Frame_BPL_EX.description>발사대EX (최대연료:800,집안에 설치 가능)</Frame_BPL_EX.description>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<SD_Reason_Downed>Невозможно активировать Найти и Уничтожить для сбитой пешки.</SD_Reason_Downed>
+	<SD_Gizmo_Melee_Label>Найти и Уничтожить (Б)</SD_Gizmo_Melee_Label>
+	<SD_Gizmo_Melee_Description>Активируйте Найти и Уничтожить для пешки ближнего боя.</SD_Gizmo_Melee_Description>
+	<SD_Gizmo_Ranged_Label>Найти и Уничтожить (Д)</SD_Gizmo_Ranged_Label>
+	<SD_Gizmo_Ranged_Description>Активируйте Найти и Уничтожить для пешки дальнего боя.</SD_Gizmo_Ranged_Description>
+</LanguageData>

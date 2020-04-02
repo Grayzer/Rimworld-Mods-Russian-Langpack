@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CleaningStation_settings_cleanTime_label>Время очистки в тиках (1 секунда = 60 тиков)</CleaningStation_settings_cleanTime_label>
+	<CleaningStation_settings_cleanTime_desc>Между (включительно) 60 и 3600. Изменение будет применено только при перезагрузке!</CleaningStation_settings_cleanTime_desc>
+
+	<CleaningStation_settings_cleanRadius_label>Радиус станции чистки</CleaningStation_settings_cleanRadius_label>
+	<CleaningStation_settings_cleanRadius_desc>Между (включительно) 1 и 50</CleaningStation_settings_cleanRadius_desc>
+
+	<CleaningStation_settings_useDynamicPower_label>Используйте динамическое энергопотребление.</CleaningStation_settings_useDynamicPower_label>
+	<CleaningStation_settings_useDynamicPower_desc>При включении этого оно будет обновляться, когда процесс очистки будет выполнен в следующий раз.\nОтключение этого требует перезагрузки.</CleaningStation_settings_useDynamicPower_desc>
+
+	<CleaningStation_settings_powerConsumption_label>Потребляемая мощность на ячейку</CleaningStation_settings_powerConsumption_label>
+	<CleaningStation_settings_powerConsumption_desc>Между (включительно) 1 и 100\nЭто значение будет умножено на количество очищаемых ячеек и коэффициент убывающей отдачи, основанный на количестве ячеек.\n Используется только если включено динамическое энергопотребление</CleaningStation_settings_powerConsumption_desc>
+
+</LanguageData>

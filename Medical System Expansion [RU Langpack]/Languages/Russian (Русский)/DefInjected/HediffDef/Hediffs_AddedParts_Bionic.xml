@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicEye.label>бионический глаз</BionicEye.label>
+  <BionicEye.labelNoun>бионический глаз/BionicEye.labelNoun>
+  <BionicEye.description>Это бионическая часть тела.</BionicEye.description>
+
+  <BionicArm.label>бионическая рука</BionicArm.label>
+  <BionicArm.labelNoun>бионическая рука</BionicArm.labelNoun>
+  <BionicArm.comps.2.tools.0.label>fist</BionicArm.comps.2.tools.0.label>
+  <BionicArm.description>Это бионическая часть тела.</BionicArm.description>
+
+  <BionicLeg.label>бионическая нога</BionicLeg.label>
+  <BionicLeg.labelNoun>бионическая нога</BionicLeg.labelNoun>
+  <BionicLeg.description>Это бионическая часть тела.</BionicLeg.description>
+
+  <BionicSpine.label>бионический позвоночник</BionicSpine.label>
+  <BionicSpine.labelNoun>бионический позвоночник</BionicSpine.labelNoun>
+  <BionicSpine.description>Это бионическая часть тела.</BionicSpine.description>
+
+  <BionicHeart.label>бионическое сердце</BionicHeart.label>
+  <BionicHeart.labelNoun>бионическое сердце</BionicHeart.labelNoun>
+  <BionicHeart.description>Это бионический орган.</BionicHeart.description>
+
+  <BionicStomach.label>бионический желудок</BionicStomach.label>
+  <BionicStomach.labelNoun>бионический желудок</BionicStomach.labelNoun>
+  <BionicStomach.description>Это бионический орган.</BionicStomach.description>
+
+  <BionicEar.label>бионическое ухо</BionicEar.label>
+  <BionicEar.labelNoun>бионическое ухо</BionicEar.labelNoun>
+  <BionicEar.description>Это бионическая часть тела.</BionicEar.description>
+
+  <PowerClaw.label>силовой коготь</PowerClaw.label>
+  <PowerClaw.labelNoun>силовой коготь</PowerClaw.labelNoun>
+  <PowerClaw.comps.2.tools.0.label>claw</PowerClaw.comps.2.tools.0.label>
+  <PowerClaw.description>Это специальная бионическая часть.</PowerClaw.description>
+
+
+  <!-- Bionic Organs -->
+
+  <BionicLung.label>бионическое легкое</BionicLung.label>
+  <BionicLung.labelNoun>бионическое легкое</BionicLung.labelNoun>
+  <BionicLung.description>Это бионический орган.</BionicLung.description>
+
+  <BionicKidney.label>бионическая почка</BionicKidney.label>
+  <BionicKidney.labelNoun>бионическая почка</BionicKidney.labelNoun>
+  <BionicKidney.description>Это бионический орган.</BionicKidney.description>
+
+  <BionicLiver.label>бионическая печень</BionicLiver.label>
+  <BionicLiver.labelNoun>бионическая печень</BionicLiver.labelNoun>
+  <BionicLiver.description>Это бионический орган.</BionicLiver.description>
+
+
+  <!-- Bionic Parts -->
+
+  <BionicFoot.label>бионическая ступня</BionicFoot.label>
+  <BionicFoot.labelNoun>бионическая ступня</BionicFoot.labelNoun>
+  <BionicFoot.description>Это бионическая часть тела.</BionicFoot.description>
+
+  <BionicToe.label>бионический палец ноги</BionicToe.label>
+  <BionicToe.labelNoun>бионический палец ноги</BionicToe.labelNoun>
+  <BionicToe.description>Это бионическая часть тела.</BionicToe.description>
+
+  <BionicShoulder.label>бионическое плечо</BionicShoulder.label>
+  <BionicShoulder.labelNoun>бионическое плечо</BionicShoulder.labelNoun>
+  <BionicShoulder.description>Это бионическая часть тела.</BionicShoulder.description>
+
+  <BionicHand.label>бионическая ладонь</BionicHand.label>
+  <BionicHand.labelNoun>бионическая ладонь</BionicHand.labelNoun>
+  <BionicHand.comps.2.tools.0.label>claw</BionicHand.comps.2.tools.0.label>
+  <BionicHand.description>Это бионическая часть тела.</BionicHand.description>
+
+  <BionicFinger.label>бионический палец</BionicFinger.label>
+  <BionicFinger.labelNoun>бионический палец</BionicFinger.labelNoun>
+  <BionicFinger.description>Это бионическая часть тела.</BionicFinger.description>
+
+  <BionicJaw.label>бионическая челюсть</BionicJaw.label>
+  <BionicJaw.labelNoun>бионическая челюсть</BionicJaw.labelNoun>
+  <BionicJaw.description>Это бионическая часть тела.</BionicJaw.description>
+
+
+  <!-- Bionic Bones -->
+
+  <BionicClavicle.label>бионическая ключица</BionicClavicle.label>
+  <BionicClavicle.labelNoun>бионическая ключица</BionicClavicle.labelNoun>
+  <BionicClavicle.description>Это бионическая часть тела.</BionicClavicle.description>
+
+  <BionicSternum.label>бионическая грудина</BionicSternum.label>
+  <BionicSternum.labelNoun>бионическая грудина</BionicSternum.labelNoun>
+  <BionicSternum.description>Это бионическая часть тела.</BionicSternum.description>
+
+  <BionicRib.label>бионическое ребро</BionicRib.label>
+  <BionicRib.labelNoun>бионическое ребро</BionicRib.labelNoun>
+  <BionicRib.description>Это бионическая часть тела.</BionicRib.description>
+
+  <BionicPelvis.label>бионический таз</BionicPelvis.label>
+  <BionicPelvis.labelNoun>бионический таз</BionicPelvis.labelNoun>
+  <BionicPelvis.description>Это бионическая часть тела.</BionicPelvis.description>
+
+  <BionicHumerus.label>бионическое предплечье</BionicHumerus.label>
+  <BionicHumerus.labelNoun>бионическое предплечье</BionicHumerus.labelNoun>
+  <BionicHumerus.description>Это бионическая часть тела.</BionicHumerus.description>
+
+  <BionicRadius.label>бионическая лучевая кость</BionicRadius.label>
+  <BionicRadius.labelNoun>бионическая лучевая кость</BionicRadius.labelNoun>
+  <BionicRadius.description>Это бионическая часть тела.</BionicRadius.description>
+
+  <BionicFemur.label>бионическое бедро</BionicFemur.label>
+  <BionicFemur.labelNoun>бионическое бедро</BionicFemur.labelNoun>
+  <BionicFemur.description>Это бионическая часть тела.</BionicFemur.description>
+
+  <BionicTibia.label>бионическая берцовая кость</BionicTibia.label>
+  <BionicTibia.labelNoun>бионическая берцовая кость</BionicTibia.labelNoun>
+  <BionicTibia.description>Это бионическая часть тела.</BionicTibia.description>
+
+
+  <!-- Special Bionics -->
+
+  <AntitoxinKidney.label>антитоксиновая почка</AntitoxinKidney.label>
+  <AntitoxinKidney.labelNoun>антитоксиновая почка</AntitoxinKidney.labelNoun>
+  <AntitoxinKidney.description>Это специальный бионический орган.</AntitoxinKidney.description>
+
+  <MedicalLiver.label>медик-печень</MedicalLiver.label>
+  <MedicalLiver.labelNoun>медик-печень</MedicalLiver.labelNoun>
+  <MedicalLiver.description>Это специальный бионический орган.</MedicalLiver.description>
+
+  <EnergizedLiver.label>энерго-печень</EnergizedLiver.label>
+  <EnergizedLiver.labelNoun>энерго-печень</EnergizedLiver.labelNoun>
+  <EnergizedLiver.description>Это специальный бионический орган.</EnergizedLiver.description>
+
+  <PowerArm.label>силовая рука</PowerArm.label>
+  <PowerArm.labelNoun>силовая рука</PowerArm.labelNoun>
+  <PowerArm.comps.2.tools.0.label>fist</PowerArm.comps.2.tools.0.label>
+  <PowerArm.description>Это специальная бионическая часть тела.</PowerArm.description>
+
+  <MSE_PowerBlade.label>силовое лезвие</MSE_PowerBlade.label>
+  <MSE_PowerBlade.labelNoun>силовое лезвие</MSE_PowerBlade.labelNoun>
+  <MSE_PowerBlade.comps.2.tools.0.label>blade</MSE_PowerBlade.comps.2.tools.0.label>
+  <MSE_PowerBlade.description>Это специальная бионическая часть тела.</MSE_PowerBlade.description>
+
+  <BreathingSupportRib.label>ребро поддержки дыхания</BreathingSupportRib.label>
+  <BreathingSupportRib.labelNoun>ребро поддержки дыхания</BreathingSupportRib.labelNoun>
+  <BreathingSupportRib.description>Это специальная бионическая часть тела.</BreathingSupportRib.description>
+
+  <RelaxationRib.label>ребро релаксации</RelaxationRib.label>
+  <RelaxationRib.labelNoun>ребро релаксации</RelaxationRib.labelNoun>
+  <RelaxationRib.description>Это специальная бионическая часть тела.</RelaxationRib.description>
+
+  <ColdRegulatorRib.label>ребро морозоустойчивости</ColdRegulatorRib.label>
+  <ColdRegulatorRib.labelNoun>ребро морозоустойчивости</ColdRegulatorRib.labelNoun>
+  <ColdRegulatorRib.description>Это специальная бионическая часть тела.</ColdRegulatorRib.description>
+
+  <HeatRegulatorRib.label>ребро жаростойкости</HeatRegulatorRib.label>
+  <HeatRegulatorRib.labelNoun>ребро жаростойкости</HeatRegulatorRib.labelNoun>
+  <HeatRegulatorRib.description>Это специальная бионическая часть тела.</HeatRegulatorRib.description>
+
+
+</LanguageData>

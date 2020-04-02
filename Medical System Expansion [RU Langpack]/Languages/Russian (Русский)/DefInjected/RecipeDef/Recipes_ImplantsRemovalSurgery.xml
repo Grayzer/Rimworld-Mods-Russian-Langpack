@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RemoveJoywire_Brain.label>удалить систему импланта чипа счастья</RemoveJoywire_Brain.label>
+  <RemoveJoywire_Brain.description>Удалить систему импланта чипа счастья.</RemoveJoywire_Brain.description>
+  <RemoveJoywire_Brain.jobString>Удаляет систему импланта чипа счастья.</RemoveJoywire_Brain.jobString>
+
+  <RemovePainstopper_Brain.label>удалить систему импланта чипа обезболивания</RemovePainstopper_Brain.label>
+  <RemovePainstopper_Brain.description>Удалить систему импланта чипа обезболивания.</RemovePainstopper_Brain.description>
+  <RemovePainstopper_Brain.jobString>Удаляет систему импланта чипа обезболивания.</RemovePainstopper_Brain.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Recruiting -->
+  <RecruitAngerMultiple>{0} расстроен {1} {2} х подряд.</RecruitAngerMultiple>
+  <RecruitFactionAnger>{0} из {1} расстроен тем, что вы вербуете {2} ({3}).</RecruitFactionAnger>
+  <RecruitFactionAngerLeaderless>Члены {0} никогда не слышали о делегации ({2}).</RecruitFactionAngerLeaderless>
+  <LostGroupFactionAnger>{0} из {1} никогда не слышали об этой делегации ({2}).</LostGroupFactionAnger>
+  <LostGroupFactionAngerLeaderless>Члены {0} расстроены тем, что вы вербуете ({1}).</LostGroupFactionAngerLeaderless>
+  <RecruitFactionPlease>{0} из {1} рад, что вы сняли {2} с его рук ({3}).</RecruitFactionPlease>
+  <RecruitFactionPleaseLeaderless>Члены {0} рады, что вы сняли {1} с их рук ({2}).</RecruitFactionPleaseLeaderless>
+  <MessageGuestRecruitSuccess>{0} счастливо решил присоединиться к вашей колонии!</MessageGuestRecruitSuccess>
+  <MessageGuestForcedRecruit>{0} был вынужден присоединиться к вашей колонии!</MessageGuestForcedRecruit>
+  <LetterLabelRecruitFactionChiefAnger>Главный разозлился</LetterLabelRecruitFactionChiefAnger>
+  <LetterLabelRecruitFactionAnger>Фракция возмущена</LetterLabelRecruitFactionAnger>
+  <LetterLabelRecruitFactionChiefPlease>Главный доволен</LetterLabelRecruitFactionChiefPlease>
+  <LetterLabelRecruitFactionPlease>Фракция довольна</LetterLabelRecruitFactionPlease>
+
+  <GuestCanBeRecruitedNow>У {PAWN_labelShort} достаточно друзей, чтобы его можно было завербовать.</GuestCanBeRecruitedNow>
+
+  <TextMote_CharmFail>Обиженный</TextMote_CharmFail>
+  <TextMote_CharmSuccess>Очарованный</TextMote_CharmSuccess>
+
+  <!-- Incident Results -->
+  <VisitorsLeavingGreat>Они абсолютно поражены вашим гостеприимством! (Оценка: {1})</VisitorsLeavingGreat>
+  <VisitorsLeavingGood>Им очень понравилось их пребывание! (Оценка: {1})</VisitorsLeavingGood>
+  <VisitorsLeavingNormal>Их пребывание было в порядке. (Оценка: {1})</VisitorsLeavingNormal>
+  <VisitorsLeavingBad>Они ожидали от тебя большего. (Оценка: {1})</VisitorsLeavingBad>
+  <VisitorsLeavingAwful>Они были ужасно разочарованы своим пребыванием. (Оценка: {1})</VisitorsLeavingAwful>
+  <VisitorSatisfied>{0} наслаждался {1} пребыванием. {2} оставил вам {3}.</VisitorSatisfied>
+  <VisitorVerySatisfied>{0} очень понравилось {1}. {2} оставил вам {3}.</VisitorVerySatisfied>
+  <MessageVisitorsLeavingCold>Посетители из {0} снова уходят, потому что слишком холодно.</MessageVisitorsLeavingCold>
+  <VisitorsSentAway>Вы отослали их.</VisitorsSentAway>
+
+  <VisitorsReturnSoon>Они прибудут снова через несколько дней.</VisitorsReturnSoon>
+  <VisitorsReturnWhile>Они прибудут снова через некоторое время.</VisitorsReturnWhile>
+  <VisitorsReturnNotSoon>Они не вернутся в ближайшее время.</VisitorsReturnNotSoon>
+  <VisitorsReturnNot>Они не хотят вас знать.</VisitorsReturnNot>
+
+  <VisitorsArrivedTitle>Посетители прибыли в {WORLDOBJECT_label} (из {1})</VisitorsArrivedTitle>
+  <VisitorsArrivedDesc>Они боятся въезжать на вашу территорию по следующим причинам:\n{1}\n\nЕсли вы отправите их, они останутся в этом районе и вернутся позже.</VisitorsArrivedDesc>
+  <VisitorsArrivedAccept>Обеспечить безопасность</VisitorsArrivedAccept>
+  <VisitorsArrivedRefuse>Прогнать</VisitorsArrivedRefuse>
+  <VisitorsArrivedRefuseUntilBeds>Отказаться от посетителей, пока не будут готовы гостевые кровати</VisitorsArrivedRefuseUntilBeds>
+  <VisitorsArrivedReasonNoBeds>Нет гостевых кроватей</VisitorsArrivedReasonNoBeds>
+
+  <LetterLabelDownedPawnBecameGuest>{PAWN_labelShort} стал гостем</LetterLabelDownedPawnBecameGuest>
+  <LetterLabelDownedPawnJoinedGroup>{PAWN_labelShort} присоединился к гостям</LetterLabelDownedPawnJoinedGroup>
+  <DownedPawnBecameGuest>{PAWN_nameDef}, которого вы спасли, теперь является гостем, а {PAWN_pronoun} останется еще на несколько часов. Вы можете подождать, отправить {PAWN_objective} домой или завербовать {PAWN_objective}.\n\nКогда {PAWN_labelShort} покинет карту в безопасности, фракция {PAWN_possessive} будет благодарна.</DownedPawnBecameGuest>
+  <DownedPawnJoinedGroup>{PAWN_nameDef}, которого вы спасли, присоединился к посещающей группе фракции {PAWN_possessive}. Когда {PAWN_pronoun} благополучно покинет карту, они будут вам благодарны.</DownedPawnJoinedGroup>
+
+  <LetterLabelHappyGuestJoins>{PAWN_labelShort} хочет остаться</LetterLabelHappyGuestJoins>
+  <HappyGuestJoins>PAWN_labelShort} из {0} заключил сделку с фракцией {PAWN_possessive}, чтобы они присоединились к вам в качестве посла. Это не ухудшит отношения с фракцией {PAWN_possessive}.\n\nУ вас есть время, чтобы решить, пока они не уйдут.</HappyGuestJoins>
+
+  <GuestBoughtItem>Член {FACTION_name} купил {ITEM_label} за {1} серебра.</GuestBoughtItem>
+
+  <!-- Communication -->
+  <InviteGuests>Пригласить в гости</InviteGuests>
+  <GuestsCantBeHostile>не может быть враждебным</GuestsCantBeHostile>
+  <GuestsDontWantToCome>в настоящее время не заинтересованы в посещении вас</GuestsDontWantToCome>
+  <GuestsAlreadyComing>уже в пути и прибудут в {0}</GuestsAlreadyComing>
+  <GuestsOnTheirWay>Они отправляют делегацию. Ожидайте, что они прибудут в {0}.</GuestsOnTheirWay>
+
+  <!-- Pawn Tab -->
+  <AreaToStay>Разрешенная зона</AreaToStay>
+  <AreaToBuy>Торговая зона</AreaToBuy>
+  <AreaNoShopping>Нет покупок</AreaNoShopping>
+  <AreaToStayTooltip>Здесь гости могут спать и тусоваться.</AreaToStayTooltip>
+  <AreaToBuyTooltip>Гости могут покупать предметы в этой зоне. Должена быть в зоне проживания.</AreaToBuyTooltip>
+  <FriendsRequirement>Достаточно друзей для вербовки: {0}/{1}</FriendsRequirement>
+  <SeniorityRequirement>Достаточно королевских друзей для вербовки: {0}/{1}</SeniorityRequirement>
+  <RecruitmentPenalty>Ухудшение отношений при вербовке: {0} ({1} принудительно)</RecruitmentPenalty>
+  <ImproveRelationship>Постараться развлечь</ImproveRelationship>
+  <MakeFriends>Попробовать создать дружбу</MakeFriends>
+  <LeaveAlone>Оставить в покое</LeaveAlone>
+  <FactionGoodwill>Фракция доброй воли</FactionGoodwill>
+  <Hospitality>Арендатор</Hospitality>
+  <MakeDefault>Использовать по умолчанию</MakeDefault>
+  <SendAway>Отправить...</SendAway>
+  <SendAwayQuestion>Вы уверены, что хотите отправить посетителей из {FACTION_name}?\nЕсли вы отправите их сразу после появления, это не повлияет на отношения.</SendAwayQuestion>
+  <Recruit>Вербовать...</Recruit>
+  <RecruitQuestion>Вы можете завербовать {PAWN_nameDef} сейчас.\n\nПоскольку у {PAWN_pronoun} достаточно друзей, это будет стоить вам {0} баллов в отношениях с фракцией {PAWN_possessive}. {1}\n\n\nВы уверены, что хотите завербовать {PAWN_objective}?</RecruitQuestion>
+  <ForceRecruit>Принудительно вербовать...</ForceRecruit>
+  <ForceRecruitQuestion>Вы можете завербовать {PAWN_nameDef} немедленно.\n\nПоскольку у {PAWN_pronoun} пока недостаточно друзей, чтобы присоединиться к вам по собственному желанию {PAWN_possessive}, это будет стоить вам {0} баллов в отношениях с фракцией {PAWN_possessive}. Это будет меньше, если у {PAWN_pronoun} будет больше друзей. {1}\n\n\nВы уверены, что не хотите ждать?</ForceRecruitQuestion>
+  <ForceRecruitWarning>\n\nЭто заставит их немедленно стать враждебными.</ForceRecruitWarning>
+  <NotEnoughFriends>[PAWN_nameDef] не достаточно любит ваших колонистов (мнение> {0}).</NotEnoughFriends>
+  <CanNowBeRecruited>[PAWN_nameDef] теперь можно вербовать.</CanNowBeRecruited>
+  <IsATrader>[PAWN_nameDef] является частью торгового каравана, а не гостем.</IsATrader>
+  <ImproveTooltip>Ваши дипломаты постараются временно улучшить настроение гостя. Хорошие дипломаты более эффективны в этом. Плохие дипломаты могут разозлить гостя.</ImproveTooltip>
+  <TryRecruitTooltip>Ваши дипломаты попытаются подружить гостя с другими вашими колонистами. Хорошие дипломаты более эффективны в этом. Плохие дипломаты могут разозлить гостя. Когда у гостя будет достаточно друзей, он присоединится к вашей колонии.</TryRecruitTooltip>
+  <RecruitTooltip>Ваш гость имеет достаточно друзей в колонии и может быть принят на работу сейчас. Однако вербовка наносит ущерб вашим отношениям с этой фракцией.</RecruitTooltip>
+  <MakeDefaultTooltip>Применяет области и развлекательные настройки для всех текущих и будущих посетителей.</MakeDefaultTooltip>
+  <ForceRecruitTooltip>Вместо того, чтобы ждать, пока ваши дипломаты убедят этого гостя, вы также можете заставить их остаться. Урон от отношений с этой фракцией будет намного выше.</ForceRecruitTooltip>
+  <SendAwayTooltip>Попросите группу этого гостя снова пойти домой.</SendAwayTooltip>
+
+  <!-- Main Tab -->
+  <BedsFilled>Кровати в использовании: {0}/{1}</BedsFilled>
+
+  <!-- Infos -->
+  <StatsReport_MissingFriends>Пропавшие друзья</StatsReport_MissingFriends>
+
+  <!-- Bed -->
+  <GuestBedFormat>гость {0}</GuestBedFormat>
+  <CommandBedSetAsGuestLabel>Для гостей</CommandBedSetAsGuestLabel>
+  <CommandBedSetAsGuestDesc>Является ли это кровать для гостей.</CommandBedSetAsGuestDesc>
+  <FeeNone>Цена: без комиссии</FeeNone>
+  <FeeAmount>Цена: {0} серебра за всё</FeeAmount>
+  <CommandBedIncreaseFeeLabel>+{0}</CommandBedIncreaseFeeLabel>
+  <CommandBedIncreaseFeeDesc>Увеличьте плату на {0}. Гости, арендующие эту кровать, будут иметь эффект настроения {1}.</CommandBedIncreaseFeeDesc>
+  <CommandBedDecreaseFeeLabel>-{0}</CommandBedDecreaseFeeLabel>
+  <CommandBedDecreaseFeeDesc>Уменьшите комиссию на {0}. Гости, арендующие эту кровать, будут иметь эффект настроения {1}.</CommandBedDecreaseFeeDesc>
+  <BedAttractiveness>Притягательность: {0}</BedAttractiveness>
+  <BedSatisfiedTitles>Эти королевские титулы примут эту кровать:</BedSatisfiedTitles>
+  <BedroomMustBeSingle>Только одна кровать</BedroomMustBeSingle>
+  <NextTitleRequirements>Требования к следующему титулу:\n- {0}</NextTitleRequirements>
+
+  <!-- Alerts -->
+  <AlertCantClaimBed>Гость не может претендовать на кровать</AlertCantClaimBed>
+  <AlertCantClaimBedDesc>Эти гости не могут позволить себе претендовать на кровать:\n\n{0}\nПредоставьте более дешевые или бесплатные кровати или подарите гостям немного серебра.\nФракции с лучшими отношениями принесут больше серебра.</AlertCantClaimBedDesc>
+  <AlertNotEnoughBeds>Не хватает гостевых кроватей</AlertNotEnoughBeds>
+  <AlertNotEnoughBedsDesc>Недостаточно кроватей для следующих пешек:\n\n{0}\nВы должны предоставить больше кроватей для гостей.</AlertNotEnoughBedsDesc>
+
+  <!-- Settings -->
+  <DisableLimits>Отключить ограничения</DisableLimits>
+  <DisableLimitsDesc>Когда эта опция включена, вы можете настроить параметры дальше, чем рекомендуется для честной игры.</DisableLimitsDesc>
+  <DisableVisitors>Отключить посетителей</DisableVisitors>
+  <DisableVisitorsDesc>Вы действительно ненавидите посетителей и удивляетесь, почему у вас вообще есть этот мод.</DisableVisitorsDesc>
+  <DisableGuestsHelping>Отключить помощь гостей</DisableGuestsHelping>
+  <DisableGuestsHelpingDesc>Если флажок установлен, гости не будут выполнять какую-либо работу в вашей колонии.</DisableGuestsHelpingDesc>
+  <DisableArtAndCraft>Отключить гостей, помогающих с искусством и ремеслом</DisableArtAndCraft>
+  <DisableArtAndCraftDesc>Если флажок установлен, гости не будут выполнять какие-либо художественные или ремесленные задания.</DisableArtAndCraftDesc>
+  <DisableOperations>Отключить гостей, помогающих с операциями</DisableOperations>
+  <DisableOperationsDesc>Если флажок установлен, гости не будут выполнять какие-либо медицинские операции.</DisableOperationsDesc>
+  <DisableMedical>Отключить лечение от гостей</DisableMedical>
+  <DisableMedicalDesc>Если флажок установлен, гости не будут заботиться о ваших пешках.</DisableMedicalDesc>
+  <DisableGifts>Отключить гостей, оставляющих подарки</DisableGifts>
+  <DisableGiftsDesc>Если флажок установлен, гости никогда не будут оставлять вещи вам, когда они удовлетворены.</DisableGiftsDesc>
+  <MinGuestWorkSkill>Минимальный навык для работы</MinGuestWorkSkill>
+  <MinGuestWorkSkillDesc>Минимальный навык, необходимый гостю для выполнения задания при оказании помощи. (рекомендуется: 7)</MinGuestWorkSkillDesc>
+  <MinGuestGroupSize>Минимальный размер гостевой группы</MinGuestGroupSize>
+  <MinGuestGroupSizeDesc>Минимальный размер группы гостей какой может быть. (рекомендуется: 1)</MinGuestGroupSizeDesc>
+  <MaxGuestGroupSize>Максимальный размер гостевой группы</MaxGuestGroupSize>
+  <MaxGuestGroupSizeDesc>Максимальный размер группы гостей какой может быть. (рекомендуется: 16)</MaxGuestGroupSizeDesc>
+  <DisableGuestsTab>Отключить вкладку гостей</DisableGuestsTab>
+  <DisableGuestsTabDesc>Скройте вкладку гостей в главной панели вкладок.</DisableGuestsTabDesc>
+  <EnableBuyNotification>Включить уведомление о покупке</EnableBuyNotification>
+  <EnableBuyNotificationDesc>Получать сообщение, когда гость что-то покупает. Можно просмотреть в истории сообщений.</EnableBuyNotificationDesc>
+  <EnableRecruitNotification>Включить уведомления о достаточном количестве друзей</EnableRecruitNotification>
+  <EnableRecruitNotificationDesc>Получите сообщение, когда у гостя достаточно друзей, чтобы его завербовали.</EnableRecruitNotificationDesc>
+
+</LanguageData>

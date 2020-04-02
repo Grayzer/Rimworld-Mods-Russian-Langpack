@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bone Implants -->
+
+  <MSE_AdvancedEndoskeletonStimulator.label>продвинутый стимулятор эндоскелета</MSE_AdvancedEndoskeletonStimulator.label>
+  <MSE_AdvancedEndoskeletonStimulator.labelNoun>продвинутый стимулятор эндоскелета</MSE_AdvancedEndoskeletonStimulator.labelNoun>
+  <MSE_AdvancedEndoskeletonStimulator.description>Test. Fix Later</MSE_AdvancedEndoskeletonStimulator.description>
+
+
+  <!-- Muscle Implants -->
+
+  <MSE_AdvancedArmMuscleStimulator.label>продвинутый мускульный стимулятор руки</MSE_AdvancedArmMuscleStimulator.label>
+  <MSE_AdvancedArmMuscleStimulator.description>Test. Fix Later</MSE_AdvancedArmMuscleStimulator.description>
+
+  <MSE_AdvancedLegMuscleStimulator.label>продвинутый мускульный стимулятор ноги</MSE_AdvancedLegMuscleStimulator.label>
+  <MSE_AdvancedLegMuscleStimulator.description>Test. Fix Later</MSE_AdvancedLegMuscleStimulator.description>
+
+
+  <!-- Brain Implants -->
+
+  <AdvancedJoywire.label>придвинутый чип счастья</AdvancedJoywire.label>
+  <AdvancedJoywire.labelNoun>придвинутый чип счастья</AdvancedJoywire.labelNoun>
+  <AdvancedJoywire.description>Test. Fix Later</AdvancedJoywire.description>
+  <AdvancedJoywire.stages.0.label>AR</AdvancedJoywire.stages.0.label>
+
+  <AdvancedPainstopper.label>продвинутый чип обезболивания</AdvancedPainstopper.label>
+  <AdvancedPainstopper.labelNoun>продвинутый чип обезболивания</AdvancedPainstopper.labelNoun>
+  <AdvancedPainstopper.description>Test. Fix Later</AdvancedPainstopper.description>
+  <AdvancedPainstopper.comps.0.label>painstopper</AdvancedPainstopper.comps.0.label>
+  <AdvancedPainstopper.comps.0.description>активировать/деактивировать болеутоляющее средство, которое сводит на нет боль.</AdvancedPainstopper.comps.0.description>
+  <AdvancedPainstopper.stages.1.label>disabled</AdvancedPainstopper.stages.1.label>
+
+  <MSE_AdvancedBuilderAI.label>продвинутый ИИ-чип строителя</MSE_AdvancedBuilderAI.label>
+  <MSE_AdvancedBuilderAI.description>Test. Fix Later</MSE_AdvancedBuilderAI.description>
+
+  <MSE_AdvancedFarmerAI.label>продвинутый ИИ-чип фермера</MSE_AdvancedFarmerAI.label>
+  <MSE_AdvancedFarmerAI.description>Test. Fix Later</MSE_AdvancedFarmerAI.description>
+
+  <MSE_AdvancedDoctorAI.label>продвинутый ИИ-чип медика</MSE_AdvancedDoctorAI.label>
+  <MSE_AdvancedDoctorAI.description>Test. Fix Later</MSE_AdvancedDoctorAI.description>
+
+  <MSE_AdvancedMinerAI.label>продвинутый ИИ-чип рудокопа</MSE_AdvancedMinerAI.label>
+  <MSE_AdvancedMinerAI.description>Test. Fix Later</MSE_AdvancedMinerAI.description>
+
+  <MSE_AdvancedDiplomatAI.label>продвинутый ИИ-чип дипломата</MSE_AdvancedDiplomatAI.label>
+  <MSE_AdvancedDiplomatAI.description>Test. Fix Later</MSE_AdvancedDiplomatAI.description>
+
+  <MSE_AdvancedTamerAI.label>продвинутый ИИ-чип дрессировщика</MSE_AdvancedTamerAI.label>
+  <MSE_AdvancedTamerAI.description>Test. Fix Later</MSE_AdvancedTamerAI.description>
+
+  <MSE_AdvancedChefAI.label>продвинутый ИИ-чип повара</MSE_AdvancedChefAI.label>
+  <MSE_AdvancedChefAI.description>Test. Fix Later</MSE_AdvancedChefAI.description>
+
+  <MSE_AdvancedHunterAI.label>продвинутый ИИ-чип охотника</MSE_AdvancedHunterAI.label>
+  <MSE_AdvancedHunterAI.description>Test. Fix Later</MSE_AdvancedHunterAI.description>
+
+  <MSE_AdvancedLaborAI.label>продвинутый ИИ-чип ремесла</MSE_AdvancedLaborAI.label>
+  <MSE_AdvancedLaborAI.description>Test. Fix Later</MSE_AdvancedLaborAI.description>
+
+
+  <!-- Organ Implants -->
+
+  <MSE_AdvancedAppetiteSuppressant.label>продвинутый подавитель аппетита</MSE_AdvancedAppetiteSuppressant.label>
+  <MSE_AdvancedAppetiteSuppressant.description>Test. Fix Later</MSE_AdvancedAppetiteSuppressant.description>
+
+
+</LanguageData>

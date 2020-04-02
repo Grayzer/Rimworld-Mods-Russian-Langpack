@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Brain.label>отторжение ячеек мозга</Brain.label>
+  <Brain.stages.0.label>начальное отторжение</Brain.stages.0.label>
+  <Brain.stages.1.label>среднее отторжение</Brain.stages.1.label>
+  <Brain.stages.2.label>острое отторжение</Brain.stages.2.label>
+  <Brain.stages.3.label>хроническое отторжение</Brain.stages.3.label>
+  <Brain.stages.4.label>смертельное отторжение</Brain.stages.4.label>
+  <Brain.description>Отторжение органа</Brain.description>
+
+  <Heart.label>отторжение сердца</Heart.label>
+  <Heart.stages.0.label>начальное отторжение</Heart.stages.0.label>
+  <Heart.stages.1.label>среднее отторжение</Heart.stages.1.label>
+  <Heart.stages.2.label>острое отторжение</Heart.stages.2.label>
+  <Heart.stages.3.label>хроническое отторжение</Heart.stages.3.label>
+  <Heart.stages.4.label>смертельное отторжение</Heart.stages.4.label>
+  <Heart.description>Отторжение органа</Heart.description>
+
+  <Lung.label>отторжение легкого</Lung.label>
+  <Lung.stages.0.label>начальное отторжение</Lung.stages.0.label>
+  <Lung.stages.1.label>среднее отторжение</Lung.stages.1.label>
+  <Lung.stages.2.label>острое отторжение</Lung.stages.2.label>
+  <Lung.stages.3.label>хроническое отторжение</Lung.stages.3.label>
+  <Lung.stages.4.label>смертельное отторжение</Lung.stages.4.label>
+  <Lung.description>Отторжение органа</Lung.description>
+
+  <Kidney.label>отторжение почки</Kidney.label>
+  <Kidney.stages.0.label>начальное отторжение</Kidney.stages.0.label>
+  <Kidney.stages.1.label>среднее отторжение</Kidney.stages.1.label>
+  <Kidney.stages.2.label>острое отторжение</Kidney.stages.2.label>
+  <Kidney.stages.3.label>хроническое отторжение</Kidney.stages.3.label>
+  <Kidney.stages.4.label>смертельное отторжение</Kidney.stages.4.label>
+  <Kidney.description>Отторжение органа</Kidney.description>
+
+  <Liver.label>отторжение печени</Liver.label>
+  <Liver.stages.0.label>начальное отторжение</Liver.stages.0.label>
+  <Liver.stages.1.label>среднее отторжение</Liver.stages.1.label>
+  <Liver.stages.2.label>острое отторжение</Liver.stages.2.label>
+  <Liver.stages.3.label>хроническое отторжение</Liver.stages.3.label>
+  <Liver.stages.4.label>смертельное отторжение</Liver.stages.4.label>
+  <Liver.description>Отторжение органа</Liver.description>
+
+  <Stomach.label>отторжение желудка</Stomach.label>
+  <Stomach.stages.0.label>начальное отторжение</Stomach.stages.0.label>
+  <Stomach.stages.1.label>среднее отторжение</Stomach.stages.1.label>
+  <Stomach.stages.2.label>острое отторжение</Stomach.stages.2.label>
+  <Stomach.stages.3.label>хроническое отторжение</Stomach.stages.3.label>
+  <Stomach.stages.4.label>смертельное отторжение</Stomach.stages.4.label>
+  <Stomach.description>Отторжение органа</Stomach.description>
+
+  <Eye.label>отторжение глаза</Eye.label>
+  <Eye.description>Отторжение части тела</Eye.description>
+  <Eye.stages.0.label>начальное отторжение</Eye.stages.0.label>
+  <Eye.stages.1.label>среднее отторжение</Eye.stages.1.label>
+  <Eye.stages.2.label>острое отторжение</Eye.stages.2.label>
+  <Eye.stages.3.label>хроническое отторжение</Eye.stages.3.label>
+  <Eye.stages.4.label>смертельное отторжение</Eye.stages.4.label>
+
+  <Ear.label>отторжение уха</Ear.label>
+  <Ear.description>Отторжение части тела</Ear.description>
+  <Ear.stages.0.label>начальное отторжение</Ear.stages.0.label>
+  <Ear.stages.1.label>среднее отторжение</Ear.stages.1.label>
+  <Ear.stages.2.label>острое отторжение</Ear.stages.2.label>
+  <Ear.stages.3.label>хроническое отторжение</Ear.stages.3.label>
+  <Ear.stages.4.label>смертельное отторжение</Ear.stages.4.label>
+
+  <Nose.label>отторжение носа</Nose.label>
+  <Nose.stages.0.label>начальное отторжение</Nose.stages.0.label>
+  <Nose.stages.1.label>среднее отторжение</Nose.stages.1.label>
+  <Nose.stages.2.label>острое отторжение</Nose.stages.2.label>
+  <Nose.stages.3.label>хроническое отторжение</Nose.stages.3.label>
+  <Nose.stages.4.label>смертельное отторжение</Nose.stages.4.label>
+  <Nose.stages.5.label>начальное отторжение</Nose.stages.5.label>
+  <Nose.stages.6.label>начальное отторжение</Nose.stages.6.label>
+  <Nose.stages.7.label>острое отторжение</Nose.stages.7.label>
+  <Nose.stages.8.label>хроническое отторжение</Nose.stages.8.label>
+  <Nose.stages.9.label>смертельное отторжение</Nose.stages.9.label>
+  <Nose.description>Отторжение части тела</Nose.description>
+
+  <Jaw.label>отторжение челюсти</Jaw.label>
+  <Jaw.description>Отторжение части тела</Jaw.description>
+  <Jaw.stages.0.label>начальное отторжение</Jaw.stages.0.label>
+  <Jaw.stages.1.label>среднее отторжение</Jaw.stages.1.label>
+  <Jaw.stages.2.label>острое отторжение</Jaw.stages.2.label>
+  <Jaw.stages.3.label>хроническое отторжение</Jaw.stages.3.label>
+  <Jaw.stages.4.label>смертельное отторжение</Jaw.stages.4.label>
+
+  <Shoulder.label>отторжение плеча</Shoulder.label>
+  <Shoulder.stages.0.label>начальное отторжение</Shoulder.stages.0.label>
+  <Shoulder.stages.1.label>среднее отторжение</Shoulder.stages.1.label>
+  <Shoulder.stages.2.label>острое отторжение</Shoulder.stages.2.label>
+  <Shoulder.stages.3.label>хроническое отторжение</Shoulder.stages.3.label>
+  <Shoulder.stages.4.label>смертельное отторжение</Shoulder.stages.4.label>
+  <Shoulder.stages.5.label>начальное отторжение</Shoulder.stages.5.label>
+  <Shoulder.stages.6.label>начальное отторжение</Shoulder.stages.6.label>
+  <Shoulder.stages.7.label>острое отторжение</Shoulder.stages.7.label>
+  <Shoulder.stages.8.label>хроническое отторжение</Shoulder.stages.8.label>
+  <Shoulder.stages.9.label>смертельное отторжение</Shoulder.stages.9.label>
+  <Shoulder.description>Отторжение части тела</Shoulder.description>
+
+  <Arm.label>отторжение руки</Arm.label>
+  <Arm.description>Отторжение части тела</Arm.description>
+  <Arm.stages.0.label>начальное отторжение</Arm.stages.0.label>
+  <Arm.stages.1.label>среднее отторжение</Arm.stages.1.label>
+  <Arm.stages.2.label>острое отторжение</Arm.stages.2.label>
+  <Arm.stages.3.label>хроническое отторжение</Arm.stages.3.label>
+  <Arm.stages.4.label>смертельное отторжение</Arm.stages.4.label>
+
+  <Hand.label>отторжение ладони</Hand.label>
+  <Hand.description>Отторжение части тела</Hand.description>
+  <Hand.stages.0.label>начальное отторжение</Hand.stages.0.label>
+  <Hand.stages.1.label>среднее отторжение</Hand.stages.1.label>
+  <Hand.stages.2.label>острое отторжение</Hand.stages.2.label>
+  <Hand.stages.3.label>хроническое отторжение</Hand.stages.3.label>
+  <Hand.stages.4.label>смертельное отторжение</Hand.stages.4.label>
+
+  <Finger.label>отторжение пальца</Finger.label>
+  <Finger.stages.0.label>начальное отторжение</Finger.stages.0.label>
+  <Finger.stages.1.label>среднее отторжение</Finger.stages.1.label>
+  <Finger.stages.2.label>острое отторжение</Finger.stages.2.label>
+  <Finger.stages.3.label>хроническое отторжение</Finger.stages.3.label>
+  <Finger.stages.4.label>смертельное отторжение</Finger.stages.4.label>
+  <Finger.stages.5.label>начальное отторжение</Finger.stages.5.label>
+  <Finger.stages.6.label>среднее отторжение</Finger.stages.6.label>
+  <Finger.stages.7.label>острое отторжение</Finger.stages.7.label>
+  <Finger.stages.8.label>хроническое отторжение</Finger.stages.8.label>
+  <Finger.stages.9.label>смертельное отторжение</Finger.stages.9.label>
+  <Finger.description>Отторжение части тела</Finger.description>
+
+  <Leg.label>отторжение ноги</Leg.label>
+  <Leg.description>Отторжение части тела</Leg.description>
+  <Leg.stages.0.label>начальное отторжение</Leg.stages.0.label>
+  <Leg.stages.1.label>среднее отторжение</Leg.stages.1.label>
+  <Leg.stages.2.label>острое отторжение</Leg.stages.2.label>
+  <Leg.stages.3.label>хроническое отторжение</Leg.stages.3.label>
+  <Leg.stages.4.label>смертельное отторжение</Leg.stages.4.label>
+
+  <Foot.label>отторжение ступни</Foot.label>
+  <Foot.description>Отторжение части тела</Foot.description>
+  <Foot.stages.0.label>начальное отторжение</Foot.stages.0.label>
+  <Foot.stages.1.label>среднее отторжение</Foot.stages.1.label>
+  <Foot.stages.2.label>острое отторжение</Foot.stages.2.label>
+  <Foot.stages.3.label>хроническое отторжение</Foot.stages.3.label>
+  <Foot.stages.4.label>смертельное отторжение</Foot.stages.4.label>
+
+  <Toe.label>отторжение пальца ноги</Toe.label>
+  <Toe.stages.0.label>начальное отторжение</Toe.stages.0.label>
+  <Toe.stages.1.label>среднее отторжение</Toe.stages.1.label>
+  <Toe.stages.2.label>острое отторжение</Toe.stages.2.label>
+  <Toe.stages.3.label>хроническое отторжение</Toe.stages.3.label>
+  <Toe.stages.4.label>смертельное отторжение</Toe.stages.4.label>
+  <Toe.stages.5.label>начальное отторжение</Toe.stages.5.label>
+  <Toe.stages.6.label>среднее отторжение</Toe.stages.6.label>
+  <Toe.stages.7.label>острое отторжение</Toe.stages.7.label>
+  <Toe.stages.8.label>хроническое отторжение</Toe.stages.8.label>
+  <Toe.stages.9.label>смертельное отторжение</Toe.stages.9.label>
+  <Toe.description>Отторжение части тела</Toe.description>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Concept_SimpleSidearmsBasic.label>ДО: ДопОружие</Concept_SimpleSidearmsBasic.label>
+  <Concept_SimpleSidearmsBasic.helpText>Простое ДопОружие\n\nЧтобы экипировать оружие как дополнительное, щелкните по нему правой кнопкой мыши и выберите «Одеть как ДопОружие».\n\nДопОружие указано во фрейме ДопОружие, которое отображается, когда выбран колонист с хотя бы одним оружием. По умолчанию колонисты автоматически переключаются на оружие, соответствующее дальности, и переключаются на оружие ближнего боя, когда вступают в ближний бой. Это поведение можно изменить в настройках мода.</Concept_SimpleSidearmsBasic.helpText>
+
+  <Concept_SidearmsInInventory.label>ДО: Носимое доп.оружие</Concept_SidearmsInInventory.label>
+  <Concept_SidearmsInInventory.helpText>ДопОружие с серым фоном в настоящее время находится в инвентаре колонистов и пригодно для использования. Щелкните левой кнопкой мыши, чтобы переключиться на него. Щелкните правой кнопкой мыши, чтобы выбросить.</Concept_SidearmsInInventory.helpText>
+
+  <Concept_SidearmsPrimary.label>ДО: Неактивное основное оружие</Concept_SidearmsPrimary.label>
+  <Concept_SidearmsPrimary.helpText>ДопОружие с золотым фоном обозначено как основное оружие колонистов, но в настоящее время не используются как таковое. Они вернутся к ниму после выхода из боя.</Concept_SidearmsPrimary.helpText>
+
+  <Concept_SidearmsMissing.label>ДО: Утерянное доп.оружие</Concept_SidearmsMissing.label>
+  <Concept_SidearmsMissing.helpText>ДопОружие с темно-фиолетовым фоном в настоящее время отсутствует в перестрелке колонистов. Они попытаются заменить его при первой же возможности, предполагая, что оно может быть найдено. Щелкните правой кнопкой мыши, чтобы забыть о этом оружии.</Concept_SidearmsMissing.helpText>
+
+  <Concept_SimpleSidearmsAdvanced.label>ДО: Продвинутое управление</Concept_SimpleSidearmsAdvanced.label>
+  <Concept_SimpleSidearmsAdvanced.helpText>Колонисты могут настроить использование оружия на индивидуальной основе. Переключение верхнего замка на красный заставляет пешку продолжать использовать свое основное оружие, даже если другое оружие дальнего боя даст больше урона. Ручное переключение на оружие автоматически отключает автопереключение - это поведение можно отключить с помощью нижнего замка.</Concept_SimpleSidearmsAdvanced.helpText>
+
+  <Concept_SimpleSidearmsDropping.label>ДО: Брошенное оружие</Concept_SimpleSidearmsDropping.label>
+  <Concept_SimpleSidearmsDropping.helpText>В зависимости от настроек, Простое ДопОружие может заставить колонистов бросать оружие в различных ситуациях (по умолчанию атаки в ближнем бою). Не волнуйтесь - ваши колонисты заберут свое оружие после боя.\n\nЭто настраиваемая функция - посмотрите в диалоге настроек мода, чтобы узнать больше.</Concept_SimpleSidearmsDropping.helpText>
+
+  <Concept_CEOverride.label>ДО: CE patch</Concept_CEOverride.label>
+  <Concept_CEOverride.helpText>Combat Extended загружен. Функция управления ДопОружием отключена.</Concept_CEOverride.helpText>
+
+
+</LanguageData>

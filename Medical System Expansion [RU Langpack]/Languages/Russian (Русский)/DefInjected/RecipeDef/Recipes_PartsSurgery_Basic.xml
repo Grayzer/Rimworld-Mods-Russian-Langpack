@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallPegLeg.label>установить деревянную ногу</InstallPegLeg.label>
+  <InstallPegLeg.description>Установить деревянную ногу.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Установка деревянной ноги.</InstallPegLeg.jobString>
+
+  <InstallWoodenFoot.label>установить деревянную стопу</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Установить деревянную стопу.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Установка деревянной стопы.</InstallWoodenFoot.jobString>
+
+  <InstallDenture.label>установить зубы</InstallDenture.label>
+  <InstallDenture.description>Установить зубы.</InstallDenture.description>
+  <InstallDenture.jobString>Установка зубов.</InstallDenture.jobString>
+
+
+  <!-- Basic Parts -->
+
+  <InstallWoodenToe.label>установить деревянный палец ноги</InstallWoodenToe.label>
+  <InstallWoodenToe.description>Установить деревянный палец ноги.</InstallWoodenToe.description>
+  <InstallWoodenToe.jobString>Установка деревянного пальца ноги.</InstallWoodenToe.jobString>
+
+  <InstallWoodenArm.label>установить деревянную руку</InstallWoodenArm.label>
+  <InstallWoodenArm.description>Установить деревянную руку.</InstallWoodenArm.description>
+  <InstallWoodenArm.jobString>Установка деревянной руки.</InstallWoodenArm.jobString>
+
+  <InstallHookHand.label>установить руку-крюк</InstallHookHand.label>
+  <InstallHookHand.description>Установить руку-крюк.</InstallHookHand.description>
+  <InstallHookHand.jobString>Установка руки-крюка.</InstallHookHand.jobString>
+
+  <InstallWoodenFinger.label>установить деревянный палец</InstallWoodenFinger.label>
+  <InstallWoodenFinger.description>Установить деревянный палец.</InstallWoodenFinger.description>
+  <InstallWoodenFinger.jobString>Установка деревянного пальца.</InstallWoodenFinger.jobString>
+
+  <InstallEyepatch.label>установить повязку на глаз</InstallEyepatch.label>
+  <InstallEyepatch.description>Установить повязку на глаз.</InstallEyepatch.description>
+  <InstallEyepatch.jobString>Установка повязки на глаз.</InstallEyepatch.jobString>
+
+  <InstallWoodenEar.label>установить деревянное ухо</InstallWoodenEar.label>
+  <InstallWoodenEar.description>Установить деревянное ухо.</InstallWoodenEar.description>
+  <InstallWoodenEar.jobString>Установка деревянного уха.</InstallWoodenEar.jobString>
+
+  <InstallWoodenNose.label>установить деревянный нос</InstallWoodenNose.label>
+  <InstallWoodenNose.description>Установить деревянный нос.</InstallWoodenNose.description>
+  <InstallWoodenNose.jobString>Установка деревянного носа.</InstallWoodenNose.jobString>
+
+
+</LanguageData>

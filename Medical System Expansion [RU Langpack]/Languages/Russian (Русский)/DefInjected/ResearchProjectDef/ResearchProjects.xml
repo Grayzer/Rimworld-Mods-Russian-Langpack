@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 -->
+
+  <MSE_BasicProsthetics.label>обычные протезы</MSE_BasicProsthetics.label>
+  <MSE_BasicProsthetics.description>Создание основных протезных частей тела.</MSE_BasicProsthetics.description>
+
+
+  <!-- Tier 1 -->
+
+  <MSE_OrganTransplantation.label>трансплантация органов</MSE_OrganTransplantation.label>
+  <MSE_OrganTransplantation.description>Позволяет поместить извлеченный орган из одного тела в тело реципиента, чтобы заменить поврежденный или отсутствующий орган.</MSE_OrganTransplantation.description>
+
+
+  <MSE_FingerAndToeTransplantation.label>трансплантация пальцев</MSE_FingerAndToeTransplantation.label>
+  <MSE_FingerAndToeTransplantation.description>Позволяет удалить палец руки или ноги из одного тела в тело получателя, чтобы заменить поврежденный или отсутствующий.</MSE_FingerAndToeTransplantation.description>
+
+  <Prosthetics.label>протезы</Prosthetics.label>
+  <Prosthetics.description>Сборка недорогих протезных частей тела за обрабатывающим столом. Требуется опытный врач для прикрепления.</Prosthetics.description>
+
+  <MSE_BoneReplacement.label>замена костей</MSE_BoneReplacement.label>
+  <MSE_BoneReplacement.description>Создайте недорогую протезную кость и замените ею сломанную кость. Требуется опытный врач, чтобы сделать это.</MSE_BoneReplacement.description>
+
+  <MSE_ProstheticOrgans.label>протезы органов</MSE_ProstheticOrgans.label>
+  <MSE_ProstheticOrgans.description>Создайте недорогой протезный орган и замените им нездоровый или отсутствующий орган. Требуется опытный врач, чтобы сделать это.</MSE_ProstheticOrgans.description>
+
+
+  <!-- Tier 2 -->
+
+  <Bionics.label>бионика</Bionics.label>
+  <Bionics.description>Сборка высокотехнологичных бионических частей тела за обрабатывающим столом. Требуется опытный врач, чтобы сделать это.</Bionics.description>
+
+  <MSE_BionicBones.label>бионические кости</MSE_BionicBones.label>
+  <MSE_BionicBones.description>Сборка высокотехнологичных бионических костей за обрабатывающим столом. Требуется опытный врач, чтобы сделать это.</MSE_BionicBones.description>
+
+  <MSE_BionicOrgans.label>бионические органы</MSE_BionicOrgans.label>
+  <MSE_BionicOrgans.description>Сборка высокотехнологичных бионических органов за обрабатывающим столом. Требуется опытный врач, чтобы сделать это.</MSE_BionicOrgans.description>
+
+  <MSE_SpecialBionics.label>специальная бионика</MSE_SpecialBionics.label>
+  <MSE_SpecialBionics.description>Создавайте ультрасовременные бионические части тела, кости и органы за обрабатывающим столом. Требуется опытный врач, чтобы сделать это.</MSE_SpecialBionics.description>
+
+
+  <!-- Tier 3 -->
+
+  <MSE_ModulesSurgery.label>хирургия модулей</MSE_ModulesSurgery.label>
+  <MSE_ModulesSurgery.description>Позволяет выполнять операции по прикреплению модулей к бионической или архотек части тела. Требуется очень опытный врач, чтобы сделать это.</MSE_ModulesSurgery.description>
+
+  <MSE_Implants.label>импланты</MSE_Implants.label>
+  <MSE_Implants.description>Создавайте высокотехнологичные бионические имплантаты за обрабатывающим столом. Требуется очень опытный врач, чтобы сделать это.</MSE_Implants.description>
+
+  <MSE_BrainImplants.label>импланты мозга</MSE_BrainImplants.label>
+  <MSE_BrainImplants.description>Создавайте высокотехнологичные бионические мозговые имплантаты за обрабатывающим столом. Требуется очень опытный врач, чтобы сделать это.</MSE_BrainImplants.description>
+
+  <MSE_ArchotechSurgery.label>хирургия архотека</MSE_ArchotechSurgery.label>
+  <MSE_ArchotechSurgery.description>Позволяет выполнять операции по прикреплению частей тела архотек. Требуется очень опытный врач, чтобы сделать это.</MSE_ArchotechSurgery.description>
+
+
+  <!-- Tier 4 -->
+
+  <MSE_ModulesCrafting.label>создание модулей</MSE_ModulesCrafting.label>
+  <MSE_ModulesCrafting.description>Позволяет создавать модули. Требуется опытный ремесленник, чтобы сделать это.</MSE_ModulesCrafting.description>
+
+  <MSE_ArchotechImplantsSurgery.label>хирургия имплантов архотека</MSE_ArchotechImplantsSurgery.label>
+  <MSE_ArchotechImplantsSurgery.description>Позволяет выполнять операции по установке имплантов архотек на части тела. Требуется очень опытный врач, чтобы сделать это.</MSE_ArchotechImplantsSurgery.description>
+
+  <MSE_ArchotechCrafting.label>создание архотека</MSE_ArchotechCrafting.label>
+  <MSE_ArchotechCrafting.description>Позволяет раскрыть секрет технологии архотек, чтобы вы могли создавать части тела архотека. Требуется очень опытный ремесленник, чтобы сделать это.</MSE_ArchotechCrafting.description>
+
+  <MSE_ArchotechModules.label>модули архотека</MSE_ArchotechModules.label>
+  <MSE_ArchotechModules.description>Сборка высокотехнологичных модулей архотека на станке. Требуется очень опытный врач, чтобы сделать это.</MSE_ArchotechModules.description>
+
+  <MSE_ArchotechImplantsCrafting.label>создание имплантов архотека</MSE_ArchotechImplantsCrafting.label>
+  <MSE_ArchotechImplantsCrafting.description>Позволяет изготовить имплантаты архотека. Требуется очень опытный ремесленник, чтобы сделать это.</MSE_ArchotechImplantsCrafting.description>
+
+
+</LanguageData>

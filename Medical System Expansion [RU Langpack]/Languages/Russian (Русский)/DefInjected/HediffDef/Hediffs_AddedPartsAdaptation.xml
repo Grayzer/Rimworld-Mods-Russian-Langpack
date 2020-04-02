@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Basic -->
+
+  <MSE_AddedBodyPartAdaptationBasic.label>адаптация к ИЧТ</MSE_AddedBodyPartAdaptationBasic.label>
+  <MSE_AddedBodyPartAdaptationBasic.description>Адаптация к искуственной части тела</MSE_AddedBodyPartAdaptationBasic.description>
+  <MSE_AddedBodyPartAdaptationBasic.stages.1.label>привыкает к</MSE_AddedBodyPartAdaptationBasic.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBasic.stages.2.label>нет привычки</MSE_AddedBodyPartAdaptationBasic.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBasic.stages.3.label>недавно установлено</MSE_AddedBodyPartAdaptationBasic.stages.3.label>
+
+
+  <!-- Simple -->
+
+  <MSE_AddedBodyPartAdaptationSimple.label>адаптация к ПМЧТ</MSE_AddedBodyPartAdaptationSimple.label>
+  <MSE_AddedBodyPartAdaptationSimple.description>Адаптация к простой механической части тела</MSE_AddedBodyPartAdaptationSimple.description>
+  <MSE_AddedBodyPartAdaptationSimple.stages.1.label>привыкает к</MSE_AddedBodyPartAdaptationSimple.stages.1.label>
+  <MSE_AddedBodyPartAdaptationSimple.stages.2.label>нет привычки</MSE_AddedBodyPartAdaptationSimple.stages.2.label>
+  <MSE_AddedBodyPartAdaptationSimple.stages.3.label>недавно установлено</MSE_AddedBodyPartAdaptationSimple.stages.3.label>
+
+  <MSE_AddedBodyPartAdaptationSimple_Organ.label>адаптация к ПМО</MSE_AddedBodyPartAdaptationSimple_Organ.label>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.description>Адаптация к простому механическому органу</MSE_AddedBodyPartAdaptationSimple_Organ.description>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.stages.1.label>адаптировано</MSE_AddedBodyPartAdaptationSimple_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.stages.2.label>начало адаптации</MSE_AddedBodyPartAdaptationSimple_Organ.stages.2.label>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.stages.3.label>недавно установлено</MSE_AddedBodyPartAdaptationSimple_Organ.stages.3.label>
+  <MSE_AddedBodyPartAdaptationSimple_Organ.stages.4.label>недавно установлено</MSE_AddedBodyPartAdaptationSimple_Organ.stages.4.label>
+
+
+  <!-- Bionic -->
+
+  <MSE_AddedBodyPartAdaptationBionic.label>адаптация к БЧТ</MSE_AddedBodyPartAdaptationBionic.label>
+  <MSE_AddedBodyPartAdaptationBionic.description>Адаптация к бионической части тела</MSE_AddedBodyPartAdaptationBionic.description>
+  <MSE_AddedBodyPartAdaptationBionic.stages.1.label>привыкает к</MSE_AddedBodyPartAdaptationBionic.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBionic.stages.2.label>нет привычки</MSE_AddedBodyPartAdaptationBionic.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBionic.stages.3.label>недавно установлено</MSE_AddedBodyPartAdaptationBionic.stages.3.label>
+
+  <MSE_AddedBodyPartAdaptationBionicSpecial.label>адаптация к БСЧТ</MSE_AddedBodyPartAdaptationBionicSpecial.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial.description>Адаптация к бионической специальной части тела</MSE_AddedBodyPartAdaptationBionicSpecial.description>
+  <MSE_AddedBodyPartAdaptationBionicSpecial.stages.1.label>привыкает к</MSE_AddedBodyPartAdaptationBionicSpecial.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial.stages.2.label>нет привычки</MSE_AddedBodyPartAdaptationBionicSpecial.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial.stages.3.label>недавно установлено</MSE_AddedBodyPartAdaptationBionicSpecial.stages.3.label>
+
+  <MSE_AddedBodyPartAdaptationBionic_Organ.label>адаптация к БО</MSE_AddedBodyPartAdaptationBionic_Organ.label>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.description>Адаптация к бионическому органу</MSE_AddedBodyPartAdaptationBionic_Organ.description>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.stages.1.label>адаптировано</MSE_AddedBodyPartAdaptationBionic_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.stages.2.label>начало адаптации</MSE_AddedBodyPartAdaptationBionic_Organ.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.stages.3.label>недавно установлено</MSE_AddedBodyPartAdaptationBionic_Organ.stages.3.label>
+  <MSE_AddedBodyPartAdaptationBionic_Organ.stages.4.label>недавно установлено</MSE_AddedBodyPartAdaptationBionic_Organ.stages.4.label>
+
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.label>адаптация к БСО</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.description>Адаптация к бионическому специальному органу</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.description>
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.1.label>адаптировано</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.2.label>начало адаптации</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.2.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.3.label>недавно установлено</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.3.label>
+  <MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.4.label>недавно установлено</MSE_AddedBodyPartAdaptationBionicSpecial_Organ.stages.4.label>
+
+
+  <!-- Archotech -->
+
+  <MSE_AddedBodyPartAdaptationArchotech.label>калибровка АЧТ</MSE_AddedBodyPartAdaptationArchotech.label>
+  <MSE_AddedBodyPartAdaptationArchotech.description>Калибровка архотек части тела</MSE_AddedBodyPartAdaptationArchotech.description>
+  <MSE_AddedBodyPartAdaptationArchotech.stages.1.label>калибровка системы</MSE_AddedBodyPartAdaptationArchotech.stages.1.label>
+  <MSE_AddedBodyPartAdaptationArchotech.stages.2.label>подготовка системы</MSE_AddedBodyPartAdaptationArchotech.stages.2.label>
+
+  <MSE_AddedBodyPartAdaptationArchotechSpecial.label>калибровка АСЧТ</MSE_AddedBodyPartAdaptationArchotechSpecial.label>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial.description>Калибровка архотек специальной части тела</MSE_AddedBodyPartAdaptationArchotechSpecial.description>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial.stages.1.label>калибровка системы</MSE_AddedBodyPartAdaptationArchotechSpecial.stages.1.label>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial.stages.2.label>подготовка системы</MSE_AddedBodyPartAdaptationArchotechSpecial.stages.2.label>
+
+  <MSE_AddedBodyPartAdaptationArchotech_Organ.label>калибровка АО</MSE_AddedBodyPartAdaptationArchotech_Organ.label>
+  <MSE_AddedBodyPartAdaptationArchotech_Organ.description>Калибровка архотек органа</MSE_AddedBodyPartAdaptationArchotech_Organ.description>
+  <MSE_AddedBodyPartAdaptationArchotech_Organ.stages.1.label>калибровка системы</MSE_AddedBodyPartAdaptationArchotech_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationArchotech_Organ.stages.2.label>подготовка системы</MSE_AddedBodyPartAdaptationArchotech_Organ.stages.2.label>
+
+  <MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.label>калибровка АСО</MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.label>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.description>Калибровка архотек специального органа</MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.description>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.stages.1.label>калибровка системы</MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.stages.1.label>
+  <MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.stages.2.label>подготовка системы</MSE_AddedBodyPartAdaptationArchotechSpecial_Organ.stages.2.label>
+
+
+</LanguageData>

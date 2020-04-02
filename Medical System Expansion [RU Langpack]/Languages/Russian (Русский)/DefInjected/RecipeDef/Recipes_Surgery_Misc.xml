@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_RemoveBodyPartSystem.label>удалить часть системы</MSE_RemoveBodyPartSystem.label>
+  <MSE_RemoveBodyPartSystem.description>Удалить систему части тела.</MSE_RemoveBodyPartSystem.description>
+  <MSE_RemoveBodyPartSystem.jobString>Удаляет систему части тела.</MSE_RemoveBodyPartSystem.jobString>
+
+
+</LanguageData>

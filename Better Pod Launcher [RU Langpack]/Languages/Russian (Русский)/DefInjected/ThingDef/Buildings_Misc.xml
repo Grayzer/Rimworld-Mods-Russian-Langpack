@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+  <!-- Transport pods -->
+
+
+  <PodLaunchertwo.label>Хорошая стартовая площадка</PodLaunchertwo.label>
+
+  <PodLaunchertwo.description>Пусковая установка, которая может летать дальше, чем оригинал (максимальное топливо: 200)</PodLaunchertwo.description>
+
+  <Blueprint_PodLaunchertwo.label>Хорошая стартовая площадка</Blueprint_PodLaunchertwo.label>
+
+  <Blueprint_PodLaunchertwo.description>Пусковая установка, которая может летать дальше, чем оригинал (максимальное топливо: 200)</Blueprint_PodLaunchertwo.description>
+
+  <Frame_PodLaunchertwo.label>Хорошая стартовая площадка</Frame_PodLaunchertwo.label>
+
+  <Frame_PodLaunchertwo.description>Пусковая установка, которая может летать дальше, чем оригинал (максимальное топливо: 200)</Frame_PodLaunchertwo.description>
+
+
+  <PodLauncherthree.label>Супер стартовая площадка</PodLauncherthree.label>
+
+  <PodLauncherthree.description>Пусковая установка, которая может летать дальше (максимальное количество топлива: 250)</PodLauncherthree.description>
+
+  <Blueprint_PodLauncherthree.label>Супер стартовая площадка</Blueprint_PodLauncherthree.label>
+
+  <Blueprint_PodLauncherthree.description>Пусковая установка, которая может летать дальше (максимальное количество топлива: 250)</Blueprint_PodLauncherthree.description>
+
+  <Frame_PodLauncherthree.label>Супер стартовая площадка</Frame_PodLauncherthree.label>
+
+  <Frame_PodLauncherthree.description>Пусковая установка, которая может летать дальше (максимальное количество топлива: 250)</Frame_PodLauncherthree.description>
+
+
+  <PodLauncherfour.label>Идеальная стартовая площадка</PodLauncherfour.label>
+
+  <PodLauncherfour.description>Идеальная стартовая площадка (Максимальное топливо: 300)</PodLauncherfour.description>
+
+  <Blueprint_PodLauncherfour.label>Идеальная стартовая площадка</Blueprint_PodLauncherfour.label>
+
+  <Blueprint_PodLauncherfour.description>Идеальная стартовая площадка (Максимальное топливо: 300)</Blueprint_PodLauncherfour.description>
+
+  <Frame_PodLauncherfour.label>Идеальная стартовая площадка</Frame_PodLauncherfour.label>
+
+  <Frame_PodLauncherfour.description>Идеальная стартовая площадка (Максимальное топливо: 300)</Frame_PodLauncherfour.description>
+
+
+  <PodLauncherfive.label>Стальная стартовая площадка</PodLauncherfive.label>
+
+  <PodLauncherfive.description>Стальная стартовая площадка. (Максимальное топливо: 100, использует сталь вместо топлива)</PodLauncherfive.description>
+
+  <Blueprint_PodLauncherfive.label>Стальная стартовая площадка</Blueprint_PodLauncherfive.label>
+
+  <Blueprint_PodLauncherfive.description>Стальная стартовая площадка. (Максимальное топливо: 100, использует сталь вместо топлива)</Blueprint_PodLauncherfive.description>
+
+  <Frame_PodLauncherfive.label>Стальная стартовая площадка</Frame_PodLauncherfive.label>
+
+  <Frame_PodLauncherfive.description>Стальная стартовая площадка. (Максимальное топливо: 100, использует сталь вместо топлива)</Frame_PodLauncherfive.description>
+
+
+  <BPL_EX.label>Стартовая площадка EX</BPL_EX.label>
+
+  <BPL_EX.description>Стартовая площадка EX. (Макс. Топливо: 800, можно установить в доме)</BPL_EX.description>
+
+  <Blueprint_BPL_EX.label>Стартовая площадка EX</Blueprint_BPL_EX.label>
+
+  <Blueprint_BPL_EX.description>Стартовая площадка EX. (Макс. Топливо: 800, можно установить в доме)</Blueprint_BPL_EX.description>
+
+  <Frame_BPL_EX.label>Стартовая площадка EX</Frame_BPL_EX.label>
+
+  <Frame_BPL_EX.description>Стартовая площадка EX. (Макс. Топливо: 800, можно установить в доме)</Frame_BPL_EX.description>
+
+</LanguageData>

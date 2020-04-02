@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallSimpleProstheticLeg.label>установить протез ноги</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Установить протез ноги.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Установка протеза ноги.</InstallSimpleProstheticLeg.jobString>
+
+  <InstallSimpleProstheticArm.label>установить протез руки</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Установить протез руки.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Установка протеза руки.</InstallSimpleProstheticArm.jobString>
+
+  <InstallSimpleProstheticHeart.label>установить протез сердца</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>Установить протез сердца.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>Установка протеза сердца.</InstallSimpleProstheticHeart.jobString>
+
+  <InstallCochlearImplant.label>установить кохлеарный имплант</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>Установить кохлеарный имплант.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>Установка кохлеарного импланта.</InstallCochlearImplant.jobString>
+
+
+  <!-- Simple Prosthetic Limbs -->
+
+  <InstallSimpleProstheticFoot.label>установить протез ступни</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Установить протез ступни.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>Установка протеза ступни.</InstallSimpleProstheticFoot.jobString>
+
+  <InstallSimpleProstheticToe.label>установить протез пальца ноги</InstallSimpleProstheticToe.label>
+  <InstallSimpleProstheticToe.description>Установить протез пальца ноги.</InstallSimpleProstheticToe.description>
+  <InstallSimpleProstheticToe.jobString>Установка протеза пальца ноги.</InstallSimpleProstheticToe.jobString>
+
+  <InstallSimpleProstheticHand.label>установить протез ладони</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Установить протез ладони.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>Установка протеза ладони.</InstallSimpleProstheticHand.jobString>
+
+  <InstallSimpleProstheticFinger.label>установить протез пальца</InstallSimpleProstheticFinger.label>
+  <InstallSimpleProstheticFinger.description>Установить протез пальца.</InstallSimpleProstheticFinger.description>
+  <InstallSimpleProstheticFinger.jobString>Установка протез пальца.</InstallSimpleProstheticFinger.jobString>
+
+  <InstallSimpleProstheticJaw.label>установить протез челюсти</InstallSimpleProstheticJaw.label>
+  <InstallSimpleProstheticJaw.description>Установить протез челюсти.</InstallSimpleProstheticJaw.description>
+  <InstallSimpleProstheticJaw.jobString>Установка протез челюсти.</InstallSimpleProstheticJaw.jobString>
+
+
+  <!-- Simple Prosthetic Bones -->
+
+  <InstallSimpleProstheticClavicle.label>установить протез ключицы</InstallSimpleProstheticClavicle.label>
+  <InstallSimpleProstheticClavicle.description>Установить протез ключицы.</InstallSimpleProstheticClavicle.description>
+  <InstallSimpleProstheticClavicle.jobString>Установка протеза ключицы.</InstallSimpleProstheticClavicle.jobString>
+
+  <InstallSimpleProstheticSternum.label>установить протез грудины</InstallSimpleProstheticSternum.label>
+  <InstallSimpleProstheticSternum.description>Установить протез грудины.</InstallSimpleProstheticSternum.description>
+  <InstallSimpleProstheticSternum.jobString>Установка протеза грудины.</InstallSimpleProstheticSternum.jobString>
+
+  <InstallSimpleProstheticRib.label>установить протез ребра</InstallSimpleProstheticRib.label>
+  <InstallSimpleProstheticRib.description>Установить протез ребра.</InstallSimpleProstheticRib.description>
+  <InstallSimpleProstheticRib.jobString>Установка протеза ребра.</InstallSimpleProstheticRib.jobString>
+
+  <InstallSimpleProstheticPelvis.label>установить протез таза</InstallSimpleProstheticPelvis.label>
+  <InstallSimpleProstheticPelvis.description>Установить протез таза.</InstallSimpleProstheticPelvis.description>
+  <InstallSimpleProstheticPelvis.jobString>Установка протеза таза.</InstallSimpleProstheticPelvis.jobString>
+
+  <InstallSimpleProstheticHumerus.label>установить протез предплечья</InstallSimpleProstheticHumerus.label>
+  <InstallSimpleProstheticHumerus.description>Установить протез предплечья.</InstallSimpleProstheticHumerus.description>
+  <InstallSimpleProstheticHumerus.jobString>Установка протеза предплечья.</InstallSimpleProstheticHumerus.jobString>
+
+  <InstallSimpleProstheticRadius.label>установить протез лучевой кости</InstallSimpleProstheticRadius.label>
+  <InstallSimpleProstheticRadius.description>Установить протез лучевой кости.</InstallSimpleProstheticRadius.description>
+  <InstallSimpleProstheticRadius.jobString>Установка протеза лучевой кости.</InstallSimpleProstheticRadius.jobString>
+
+  <InstallSimpleProstheticFemur.label>установить протез бедра</InstallSimpleProstheticFemur.label>
+  <InstallSimpleProstheticFemur.description>Установить протез бедра.</InstallSimpleProstheticFemur.description>
+  <InstallSimpleProstheticFemur.jobString>Установка протеза бедра.</InstallSimpleProstheticFemur.jobString>
+
+  <InstallSimpleProstheticTibia.label>установить протез берцовой кости</InstallSimpleProstheticTibia.label>
+  <InstallSimpleProstheticTibia.description>Установить протез берцовой кости.</InstallSimpleProstheticTibia.description>
+  <InstallSimpleProstheticTibia.jobString>Установка протеза берцовой кости.</InstallSimpleProstheticTibia.jobString>
+
+
+</LanguageData>

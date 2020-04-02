@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ActiveTab_desc></ActiveTab_desc>
+  <ActiveTab_title>Вкладка настройки</ActiveTab_title>
+  <OptimalMelee_desc>Должны ли пешки автоматически переключаться на оружие ближнего боя с более высоким DPS? (считая броню цели)</OptimalMelee_desc>
+  <OptimalMelee_title>Лучшее оружие ближнего боя</OptimalMelee_title>
+  <CQCAutoSwitch_desc>Должны ли пешки переходить на оружие ближнего боя при атаке в ближнем бою?</CQCAutoSwitch_desc>
+  <CQCAutoSwitch_title>Автопереключатель Ближний Бой</CQCAutoSwitch_title>
+  <CQCFistSwitch_desc>Должны ли пешки переключаться, даже если они не используют оружие?</CQCFistSwitch_desc>
+  <CQCFistSwitch_title>Автопереключатель Без оружия</CQCFistSwitch_title>
+  <CQCTargetOnly_desc>Должны ли пешки реагировать только на атаки их текущей цели?</CQCTargetOnly_desc>
+  <CQCTargetOnly_title>Переключаться только на атаки от цели</CQCTargetOnly_title>
+
+  <DropMode_desc>В каких ситуациях пешкам приходится бросать оружие, а не перемещать его в инвентарь?</DropMode_desc>
+  <DropMode_title>Критерии сброса оружия</DropMode_title>
+  <ReEquipBest_desc>После того, как вы уронили оружие, авто-переоснащение найдет лучшее доступное оружие (вместо ближайшего)</ReEquipBest_desc>
+  <ReEquipBest_title>Переоснащение лучшее из доступных</ReEquipBest_title>
+
+  <LimitCarryInfo_desc></LimitCarryInfo_desc>
+  <LimitCarryInfo_title>*Всегда ограничен грузоподъемностью пешки</LimitCarryInfo_title>
+
+  <CEOverrideInfo_desc></CEOverrideInfo_desc>
+  <CEOverrideInfo_title>Отключено в пользу системы СЕ.</CEOverrideInfo_title>
+
+  <LimitModeAmountMelee_desc>Какие ограничения есть на всех доп.оружиях ближнего боя.</LimitModeAmountMelee_desc>
+  <LimitModeAmountMelee_title>Режим ограничения общего количества доп.оружия ближнего боя.</LimitModeAmountMelee_title>
+  <LimitModeAmountRanged_desc>Какие ограничения существуют для всех доп.оружиях дальнего боя.</LimitModeAmountRanged_desc>
+  <LimitModeAmountRanged_title>Режим ограничения общего количества доп.оружия дальнего боя.</LimitModeAmountRanged_title>
+  <LimitModeAmount_desc>Какие ограничения существуют на всех доп.оружиях.</LimitModeAmount_desc>
+  <LimitModeAmount_title>Режим ограничения общего количества доп.оружия</LimitModeAmount_title>
+  <LimitModeSingleMelee_desc>Какие ограничения существуют для доп.оружия ближнего боя.</LimitModeSingleMelee_desc>
+  <LimitModeSingleMelee_title>Режим одиночного доп.оружия ближнего боя.</LimitModeSingleMelee_title>
+  <LimitModeSingleRanged_desc>Какие ограничения существуют на отдельных доп.оружиях дальнего боя.</LimitModeSingleRanged_desc>
+  <LimitModeSingleRanged_title>Режим одиночного доп.оружия дальнего боя.</LimitModeSingleRanged_title>
+  <LimitModeSingle_desc>Какие ограничения существуют на отдельных доп.оружиях.</LimitModeSingle_desc>
+  <LimitModeSingle_title>Режим ограничения одного доп.оружия</LimitModeSingle_title>
+
+  <LimitModeAmountTotal_title>Всего</LimitModeAmountTotal_title>
+  <LimitModeAmountTotal_desc>Какие ограничения существуют на всех доп.оружиях.</LimitModeAmountTotal_desc>
+
+  <MaximumMassAmountAbsolute_desc>Максимальная общая масса доп.оружия, которое может нести пешка.</MaximumMassAmountAbsolute_desc>
+  <MaximumMassAmountAbsolute_title>Макс. масса доп.оружия</MaximumMassAmountAbsolute_title>
+  <MaximumMassAmountRelative_desc>Максимальный общий массовый процент доп.оружия, которое пешка может нести относительно их грузоподъемности.</MaximumMassAmountRelative_desc>
+  <MaximumMassAmountRelative_title>Макс. массовый процент доп.оружия</MaximumMassAmountRelative_title>
+  <MaximumMassSingleAbsolute_desc>Максимальная масса одного доп.оружия, которое может нести пешка.</MaximumMassSingleAbsolute_desc>
+  <MaximumMassSingleAbsolute_title>Макс. масса на доп.оружия</MaximumMassSingleAbsolute_title>
+  <MaximumMassSingleRelative_desc>Максимальный массовый процент одного доп.оружия, которое пешка может нести, относительно их грузоподъемности.</MaximumMassSingleRelative_desc>
+  <MaximumMassSingleRelative_title>Макс. массовый процент на одно доп.оружия</MaximumMassSingleRelative_title>
+  <MaximumSlots_desc>Сколько доп.оружия может нести пешка.</MaximumSlots_desc>
+  <MaximumSlots_title>Слоты</MaximumSlots_title>
+  <RangedCombatAutoSwitchMaxWarmup_desc>Какой порог, после которого пешка откажется прервать свою атаку, чтобы перейти на доп.оружие?</RangedCombatAutoSwitchMaxWarmup_desc>
+  <RangedCombatAutoSwitchMaxWarmup_title>Максимальный процент перезарядки</RangedCombatAutoSwitchMaxWarmup_title>
+  <RangedCombatAutoSwitch_desc>Должны ли пешки переходить на дальнобойное доп.оружие при атаке на расстоянии?</RangedCombatAutoSwitch_desc>
+  <RangedCombatAutoSwitch_title>Автопереключение на Дальнобойное</RangedCombatAutoSwitch_title>
+  <SeparateModes_desc>Должно ли оружие ближнего и дальнего боя иметь общие или отдельные ограничения?</SeparateModes_desc>
+  <SeparateModes_title>Объеденить Ближнее/Дальнее</SeparateModes_title>
+  <SidearmSelection_desc></SidearmSelection_desc>
+  <SidearmSelection_title>Выбор ДопОружия</SidearmSelection_title>
+  <SidearmSpawnChance_desc>Возможность для любой пешки, которая появляется с оружием, также иметь доп.оружие.</SidearmSpawnChance_desc>
+  <SidearmSpawnChance_title>Шанс появления с доп.оружием</SidearmSpawnChance_title>
+  <SingleshotAutoSwitch_desc>Должны ли пешки переключать доп.оружие после использования одноразового оружия?</SingleshotAutoSwitch_desc>
+  <SingleshotAutoSwitch_title>Автопереключение одноразового</SingleshotAutoSwitch_title>
+  <SpeedSelectionBiasMelee_desc>Пешка смещена в сторону выбора оружия с большей скоростью атаки.</SpeedSelectionBiasMelee_desc>
+  <SpeedSelectionBiasMelee_title>Уклон в скорость (ближний бой)</SpeedSelectionBiasMelee_title>
+  <SpeedSelectionBiasRanged_desc>Пешка смещена в сторону выбора оружия с более быстрой перезарядкой.</SpeedSelectionBiasRanged_desc>
+  <SpeedSelectionBiasRanged_title>Уклон в скорость (дальний бой)</SpeedSelectionBiasRanged_title>
+  <WeaponMatch_desc>Это оружие, которое соответствует заданным критериям.</WeaponMatch_desc>
+  <WeaponMatch_title></WeaponMatch_title>
+
+  <SidearmsEnableNeolithicExtension_desc>Разрешить больше оружия, которое будет использоваться в качестве доп.оружия.</SidearmsEnableNeolithicExtension_desc>
+  <SidearmsEnableNeolithicExtension_title>Расширить неолитические доп.оружия</SidearmsEnableNeolithicExtension_title>
+  <SidearmsNeolithicExtension_desc></SidearmsNeolithicExtension_desc>
+  <SidearmsNeolithicExtension_title>ДопОружия считается неолитическим</SidearmsNeolithicExtension_title>
+
+  <LimitModeSingle_option_None>Без ограничений</LimitModeSingle_option_None>
+  <LimitModeSingle_option_RelativeWeight>Относительная масса</LimitModeSingle_option_RelativeWeight>
+  <LimitModeSingle_option_AbsoluteWeight>Абсолютная масса</LimitModeSingle_option_AbsoluteWeight>
+  <LimitModeSingle_option_Selection>Специальное оружие</LimitModeSingle_option_Selection>
+
+  <LimitModeAmount_option_MaximumCarryWeightOnly>Без ограничений</LimitModeAmount_option_MaximumCarryWeightOnly>
+  <LimitModeAmount_option_RelativeWeight>MОтносительная масса</LimitModeAmount_option_RelativeWeight>
+  <LimitModeAmount_option_AbsoluteWeight>Абсолютная масса</LimitModeAmount_option_AbsoluteWeight>
+  <LimitModeAmount_option_Slots>Слоты</LimitModeAmount_option_Slots>
+
+  <ActiveTab_option_Folded>&lt;</ActiveTab_option_Folded>
+  <ActiveTab_option_Presets>Предустановки</ActiveTab_option_Presets>
+  <ActiveTab_option_Automation>Тригеры</ActiveTab_option_Automation>
+  <ActiveTab_option_Allowances>Ограничения</ActiveTab_option_Allowances>
+  <ActiveTab_option_Spawning>Появление</ActiveTab_option_Spawning>
+  <ActiveTab_option_Misc>Прочее.</ActiveTab_option_Misc>
+
+  <DropMode_option_Never>Никогда</DropMode_option_Never>
+  <DropMode_option_Panic>Ближний бой</DropMode_option_Panic>
+  <DropMode_option_PanicOrRange>Дальний бой</DropMode_option_PanicOrRange>
+  <DropMode_option_Always>Всегда</DropMode_option_Always>
+
+  <PresetExport_title></PresetExport_title>
+  <PresetExport_desc></PresetExport_desc>
+  <PresetExport_label>Скопировать активный конфиг в буфер обмена</PresetExport_label>
+
+
+  <PresetCustom_title>Настроить</PresetCustom_title>
+  <PresetCustom_desc>Пользовательские настройки. Автоматически выбирается при внесении изменений.</PresetCustom_desc>
+  <PresetCustom_label></PresetCustom_label>
+  <Preset0_title>Выкл</Preset0_title>
+  <Preset0_desc>Все параметры отключены. Хорошая база для конфигураций, которые используют только небольшую часть возможностей мода.</Preset0_desc>
+  <Preset0_label></Preset0_label>
+  <Preset1half_title>Легкий</Preset1half_title>
+  <Preset1half_desc>Позволяет использовать одно оружие ближнего боя в качестве доп.оружия.</Preset1half_desc>
+  <Preset1half_label></Preset1half_label>
+  <Preset1_title>Только выгрузка</Preset1_title>
+  <Preset1_desc>Позволяет сняряжать оружие, но не более того. По сути удобное расширение инвентаря.</Preset1_desc>
+  <Preset1_label></Preset1_label>
+  <Preset2_title>Базовый</Preset2_title>
+  <Preset2_desc>Простая настройка. Пешки могут использовать несколько легких вооружений и будут пытаться использовать их в соответствующих ситуациях.</Preset2_desc>
+  <Preset2_label></Preset2_label>
+  <Preset3_title>Продвинутый</Preset3_title>
+  <Preset3_desc>Пешки становятся более креативными в выборе оружия, но остаются в пределах того, что можно ожидать от обычных людей, пытающихся выжить в опасном мире.</Preset3_desc>
+  <Preset3_label></Preset3_label>
+  <Preset4_title>Избыточный</Preset4_title>
+  <Preset4_desc>Принеси все это! Пулемет? Принеси два! Копья? У меня в рюкзаке целая коллекция!</Preset4_desc>
+  <Preset4_label></Preset4_label>
+  <Preset5_title>Режим драки</Preset5_title>
+  <Preset5_desc>Доп.оружие ближнего боя для всех.</Preset5_desc>
+  <Preset5_label></Preset5_label>
+
+
+  <SidearmPickupFail_NoFreeSpace>Нет свободного места</SidearmPickupFail_NoFreeSpace>
+  <SidearmPickupFail_TooHeavyForSidearm>Слишком тяжелое</SidearmPickupFail_TooHeavyForSidearm>
+  <SidearmPickupFail_TooHeavyForSidearmMelee>Слишком тяжелое для ближнего</SidearmPickupFail_TooHeavyForSidearmMelee>
+  <SidearmPickupFail_TooHeavyForSidearmRanged>Слишком тяжелое для дальнего</SidearmPickupFail_TooHeavyForSidearmRanged>
+  <SidearmPickupFail_SidearmsTooHeavy>Слишком тяжелое для доп.оружия</SidearmPickupFail_SidearmsTooHeavy>
+  <SidearmPickupFail_SidearmsTooHeavyMelee>Слишком тяжелое для ближнего доп.оружия</SidearmPickupFail_SidearmsTooHeavyMelee>
+  <SidearmPickupFail_SidearmsTooHeavyRanged>Слишком тяжелое для дальнего доп.оружия</SidearmPickupFail_SidearmsTooHeavyRanged>
+  <SidearmPickupFail_SidearmsTooHeavyInTotal>Слишком тяжелое для доп.оружия</SidearmPickupFail_SidearmsTooHeavyInTotal>
+  <SidearmPickupFail_NotASidearm>Не доп.оружие</SidearmPickupFail_NotASidearm>
+  <SidearmPickupFail_NotASidearmMelee>Не доп.оружие</SidearmPickupFail_NotASidearmMelee>
+  <SidearmPickupFail_NotASidearmRanged>Не доп.оружие</SidearmPickupFail_NotASidearmRanged>
+  <SidearmPickupFail_AllSlotsFull>Слоты заполнены</SidearmPickupFail_AllSlotsFull>
+  <SidearmPickupFail_MeleeSlotsFull>Слоты ближнего заполнены</SidearmPickupFail_MeleeSlotsFull>
+  <SidearmPickupFail_RangedSlotsFull>Слоты дальнего заполнены</SidearmPickupFail_RangedSlotsFull>
+  <SidearmPickupPass>Нет проблем</SidearmPickupPass>
+  <AsSidearm> как доп.оружие</AsSidearm>
+
+  <Preset_option_NoneApplied>Нет</Preset_option_NoneApplied>
+  <Preset_option_Custom>Настроить</Preset_option_Custom>
+  <Preset_option_Lite>Легкое</Preset_option_Lite>
+  <Preset_option_Disabled>Отключить</Preset_option_Disabled>
+  <Preset_option_LoadoutOnly>Только загрузка</Preset_option_LoadoutOnly>
+  <Preset_option_Basic>Базовое</Preset_option_Basic>
+  <Preset_option_Advanced>Продвинутое</Preset_option_Advanced>
+  <Preset_option_Excessive>Избыточное</Preset_option_Excessive>
+  <Preset_option_Brawler>Драка</Preset_option_Brawler>
+
+  <WeaponListKind_option_Both>Оба</WeaponListKind_option_Both>
+  <WeaponListKind_option_Melee>Ближнее</WeaponListKind_option_Melee>
+  <WeaponListKind_option_Ranged>Дальнее</WeaponListKind_option_Ranged>
+
+  <TribalWeapons>Племенное</TribalWeapons>
+  <NonTribalWeapons>Не племенное</NonTribalWeapons>
+
+  <ConsideredSidearms>Доп.оружие</ConsideredSidearms>
+  <NotConsideredSidearms>Не доп.оружие</NotConsideredSidearms>
+
+  <LockedWeaponSwitch>Невозможно автопереключение (дальнее)</LockedWeaponSwitch>
+  <UnlockedWeaponSwitch>Возможно автопереключение (дальнее)</UnlockedWeaponSwitch>
+
+  <WeaponSwitchAutolockOn>Блокировка автопереключателя при выборе</WeaponSwitchAutolockOn>
+  <WeaponSwitchAutolockOff>Выкл</WeaponSwitchAutolockOff>
+
+  <DrawSidearm_gizmoTitle>ДопОружие</DrawSidearm_gizmoTitle>
+  <DrawSidearm_gizmoTooltip>ЛКМ чтобы выбрать {0}.
+ПКМ чтобы выбросить {0}.</DrawSidearm_gizmoTooltip>
+  <DrawSidearm_gizmoTooltipMemory>ПКМ чтобы забыть о {0}.</DrawSidearm_gizmoTooltipMemory>
+  <DrawSidearm_gizmoTooltipUnarmed>ЛКМ чтобы переключиться в режим Без оружия.</DrawSidearm_gizmoTooltipUnarmed>
+
+  <Alert_MissingSidearm_label>Колонист потерял доп.оружие</Alert_MissingSidearm_label>
+  <Alert_MissingPrimary_label>Колонист потерял основное оружие</Alert_MissingPrimary_label>
+
+  <Alert_MissingSidearm_desc>Этим колонистам не хватает одного или нескольких доп.оружий:\n\n{0}</Alert_MissingSidearm_desc>
+  <Alert_MissingPrimary_desc>Этим колонистам не хватает их основного оружия:\n\n{0}</Alert_MissingPrimary_desc>
+
+</LanguageData>

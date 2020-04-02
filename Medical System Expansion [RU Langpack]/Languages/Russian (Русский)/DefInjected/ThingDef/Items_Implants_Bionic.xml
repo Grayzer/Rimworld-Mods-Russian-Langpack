@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Joywire.label>чип счастья</Joywire.label>
+  <Joywire.description>Имплантат мозга, который стимулирует центры удовольствия мозга. Хотя это значительно улучшает настроение пользователя, одеяло счастья мешает сосредоточиться на чем-то реальном. Чипы счастья незаконны во многих мирах и известны тем, что уничтожают целые культуры. Требуется исследование имплантатов мозга перед установкой.</Joywire.description>
+
+  <Painstopper.label>чип обезболивания</Painstopper.label>
+  <Painstopper.description>Имплантат мозга, который подавляет ноцицепцию или болевые ощущения. В то время как это позволяет пользователю достичь большего, оказывается, что боль имеет цель. Когда ты этого не чувствуешь, тебе очень легко причинить боль. Требуется исследование имплантатов мозга перед установкой.</Painstopper.description>
+
+
+  <!-- Bone Implants -->
+
+  <MSE_EndoskeletonStimulator.label>стимулятор эндоскелета</MSE_EndoskeletonStimulator.label>
+  <MSE_EndoskeletonStimulator.description>Имплантат торса, который стимулирует общие мышцы, чтобы они могли работать с максимальной производительностью. Требуется исследование имплантатов перед установкой.</MSE_EndoskeletonStimulator.description>
+
+
+  <!-- Muscle Implants -->
+
+  <MSE_MuscleStimulator.label>мускульный стимулятор</MSE_MuscleStimulator.label>
+  <MSE_MuscleStimulator.description>Мышечный имплантат, который стимулирует общие мышцы, чтобы они могли работать с максимальной производительностью. Требуется исследование имплантатов перед установкой.</MSE_MuscleStimulator.description>
+
+
+  <!-- Brain Implants -->
+
+  <MSE_BuilderAI.label>ИИ-чип строителя</MSE_BuilderAI.label>
+  <MSE_BuilderAI.description>Имплантат мозга, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для строительства. Требуется исследование имплантатов мозга перед установкой.</MSE_BuilderAI.description>
+
+  <MSE_FarmerAI.label>ИИ-чип фермера</MSE_FarmerAI.label>
+  <MSE_FarmerAI.description>Имплантат мозга, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для сельского хозяйства. Требуется исследование имплантатов мозга перед установкой.</MSE_FarmerAI.description>
+
+  <MSE_DoctorAI.label>ИИ-чип медика</MSE_DoctorAI.label>
+  <MSE_DoctorAI.description>Имплантат мозга, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для лечения. Требуется исследование имплантатов мозга перед установкой.</MSE_DoctorAI.description>
+
+  <MSE_MinerAI.label>ИИ-чип шахтера</MSE_MinerAI.label>
+  <MSE_MinerAI.description>Имплантат мозга, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для рудокопства. Требуется исследование имплантатов мозга перед установкой.</MSE_MinerAI.description>
+
+  <MSE_DiplomatAI.label>ИИ-чип дипломата</MSE_DiplomatAI.label>
+  <MSE_DiplomatAI.description>Имплантат мозга, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для дипломатии. Требуется исследование имплантатов мозга перед установкой.</MSE_DiplomatAI.description>
+
+  <MSE_TamerAI.label>ИИ-чип дресировщика</MSE_TamerAI.label>
+  <MSE_TamerAI.description>Имплантат мозга, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для приручения. Требуется исследование имплантатов мозга перед установкой.</MSE_TamerAI.description>
+
+  <MSE_ChefAI.label>ИИ-чип повара</MSE_ChefAI.label>
+  <MSE_ChefAI.description>Имплантат мозга, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для приготовления пищи. Требуется исследование имплантатов мозга перед установкой.</MSE_ChefAI.description>
+
+  <MSE_HunterAI.label>ИИ-чип охотника</MSE_HunterAI.label>
+  <MSE_HunterAI.description>Имплантат мозга, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для охоты. Требуется исследование имплантатов мозга перед установкой.</MSE_HunterAI.description>
+
+  <MSE_BasicLaborAI.label>ИИ-чип ремесла</MSE_BasicLaborAI.label>
+  <MSE_BasicLaborAI.description>Имплантат мозга, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для базового неквалифицированного труда. Требуется исследование имплантатов мозга перед установкой.</MSE_BasicLaborAI.description>
+
+
+  <!-- Organ Implants -->
+
+  <MSE_AppetiteSuppressant.label>подавитель аппетита</MSE_AppetiteSuppressant.label>
+  <MSE_AppetiteSuppressant.description>Желудочный имплантат, который подавляет голод. Требуется исследование имплантатов перед установкой.</MSE_AppetiteSuppressant.description>
+
+
+</LanguageData>

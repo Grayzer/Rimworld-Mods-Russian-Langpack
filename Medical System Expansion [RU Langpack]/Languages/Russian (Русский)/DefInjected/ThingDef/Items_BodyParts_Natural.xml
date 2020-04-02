@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Heart.label>сердце</Heart.label>
+  <Heart.description>Биологическое сердце. Перекачивает кровь по всему телу. Требуется исследование трансплантации органов.</Heart.description>
+
+  <Lung.label>легкое</Lung.label>
+  <Lung.description>Биологическое легкое. Пара из них образует ядро дыхательной системы. Требуется исследование трансплантации органов.</Lung.description>
+
+  <Kidney.label>почка</Kidney.label>
+  <Kidney.description>Биологическая почка. Фильтрует и удаляет отходы из крови. Требуется исследование трансплантации органов.</Kidney.description>
+
+  <Liver.label>печень</Liver.label>
+  <Liver.description>Биологическая печень. Играет важную роль в обмене веществ. Требуется исследование трансплантации органов.</Liver.description>
+
+
+  <!-- Natural Organs -->
+
+  <Brain.label>ячейки мозга</Brain.label>
+  <Brain.description>Биологические клетки мозга. Основное ядро почти всей органической жизни. Требуется исследование трансплантации органов.</Brain.description>
+
+  <Stomach.label>желудок</Stomach.label>
+  <Stomach.description>Биологический желудок. Переваривает пищу и превращает ее в энергию. Требуется исследование трансплантации органов.</Stomach.description>
+
+
+  <!-- Natural Limbs -->
+
+  <Leg.label>нога</Leg.label>
+  <Leg.description>Биологическая нога. Позволяет вам двигаться. Требуется исследование трансплантации органов.</Leg.description>
+
+  <Foot.label>ступня</Foot.label>
+  <Foot.description>Биологическая ступня. Часть ноги, которая позволяет вам двигаться. Требуется исследование трансплантации органов.</Foot.description>
+
+  <Toe.label>палец ноги</Toe.label>
+  <Toe.description>Биологический палец. Часть стопы, которая помогает вам двигаться. Требуется исследование трансплантации органов.</Toe.description>
+
+  <Shoulder.label>плечо</Shoulder.label>
+  <Shoulder.description>Биологическое плечо. Позволяет вам работать и нести вещи. Требуется исследование трансплантации органов.</Shoulder.description>
+
+  <Arm.label>рука</Arm.label>
+  <Arm.description>Биологическая рука. Позволяет вам работать и нести вещи. Требуется исследование трансплантации органов.</Arm.description>
+
+  <Hand.label>ладонь</Hand.label>
+  <Hand.description>Биологическая ладонь. Часть руки, которая позволяет вам работать и нести вещи. Требуется исследование трансплантации органов.</Hand.description>
+
+  <Finger.label>палец</Finger.label>
+  <Finger.description>Биологический палец. Часть руки, которая помогает вам работать и нести вещи. Требуется исследование трансплантации органов.</Finger.description>
+
+  <Eye.label>глаз</Eye.label>
+  <Eye.description>Биологический глаз. Поглощает свет, который позволяет человеку видеть. Требуется исследование трансплантации органов.</Eye.description>
+
+  <Ear.label>ухо</Ear.label>
+  <Ear.description>Биологическое ухо. Принимает вибрации, позволяя людям слышать звук. Требуется исследование трансплантации органов.</Ear.description>
+
+  <Nose.label>нос</Nose.label>
+  <Nose.description>Биологический нос. Последний штрих к лицу. Требуется исследование трансплантации органов.</Nose.description>
+
+  <Jaw.label>челюсть</Jaw.label>
+  <Jaw.description>Биологическая челюсть. Позволяет людям есть и общаться. Требуется исследование трансплантации органов.</Jaw.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<Faction.label>фракция</Faction.label>
+	<AccommodationArea.label>зона проживания</AccommodationArea.label>
+	<ShoppingArea.label>торговая зона</ShoppingArea.label>
+
+	<MakeFriends.headerTip>Подружиться</MakeFriends.headerTip>
+	<Entertain.headerTip>Развлекать</Entertain.headerTip>
+	<Hospitality.headerTip>Арендатор</Hospitality.headerTip>
+	<FriendsForRecruiting.headerTip>Друзья в колонии</FriendsForRecruiting.headerTip>
+
+</LanguageData>

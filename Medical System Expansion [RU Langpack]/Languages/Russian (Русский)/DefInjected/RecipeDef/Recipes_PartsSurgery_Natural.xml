@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallNaturalKidney.label>установить почку</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Установить биологическую почку.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Установка почки.</InstallNaturalKidney.jobString>
+
+  <InstallNaturalLiver.label>установить печень</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Установить биологическую печень.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Установка печени.</InstallNaturalLiver.jobString>
+
+  <InstallNaturalLung.label>установить легкое</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Установить биологическое легкое.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Установка легкого.</InstallNaturalLung.jobString>
+
+  <InstallNaturalHeart.label>установить сердце</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Установить биологическое сердце.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Установка сердца.</InstallNaturalHeart.jobString>
+
+
+  <!-- Natural Organs -->
+
+  <InstallNaturalBrain.label>установить ячейки мозга</InstallNaturalBrain.label>
+  <InstallNaturalBrain.description>Установить биологические ячейки мозга.</InstallNaturalBrain.description>
+  <InstallNaturalBrain.jobString>Установка ячеек мозга.</InstallNaturalBrain.jobString>
+
+  <InstallNaturalStomach.label>установить желудок</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>Установить биологический желудок.</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>Установка желудка.</InstallNaturalStomach.jobString>
+
+
+  <!-- Natural Parts -->
+
+  <InstallNaturalLeg.label>установить ногу</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>Установить биологическую ногу.</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>Установка ноги.</InstallNaturalLeg.jobString>
+
+  <InstallNaturalFoot.label>установить ступню</InstallNaturalFoot.label>
+  <InstallNaturalFoot.description>Установить биологическую ступню.</InstallNaturalFoot.description>
+  <InstallNaturalFoot.jobString>Установка ступни.</InstallNaturalFoot.jobString>
+
+  <InstallNaturalToe.label>установить палец ноги</InstallNaturalToe.label>
+  <InstallNaturalToe.description>Установить биологический палец ноги.</InstallNaturalToe.description>
+  <InstallNaturalToe.jobString>Установка пальца ноги.</InstallNaturalToe.jobString>
+
+  <InstallNaturalShoulder.label>установить плечо</InstallNaturalShoulder.label>
+  <InstallNaturalShoulder.description>Установить биологическое плечо.</InstallNaturalShoulder.description>
+  <InstallNaturalShoulder.jobString>Установка плеча.</InstallNaturalShoulder.jobString>
+
+  <InstallNaturalArm.label>установить руку</InstallNaturalArm.label>
+  <InstallNaturalArm.description>Установить биологическую руку.</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>Установка руки.</InstallNaturalArm.jobString>
+
+  <InstallNaturalHand.label>установить ладонь</InstallNaturalHand.label>
+  <InstallNaturalHand.description>Установить биологическую ладонь.</InstallNaturalHand.description>
+  <InstallNaturalHand.jobString>Установка ладони.</InstallNaturalHand.jobString>
+
+  <InstallNaturalFinger.label>установить палец</InstallNaturalFinger.label>
+  <InstallNaturalFinger.description>Установить биологический палец.</InstallNaturalFinger.description>
+  <InstallNaturalFinger.jobString>Установка пальца.</InstallNaturalFinger.jobString>
+
+  <InstallNaturalEye.label>установить глаз</InstallNaturalEye.label>
+  <InstallNaturalEye.description>Установить биологический глаз.</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>Установка глаза.</InstallNaturalEye.jobString>
+
+  <InstallNaturalEar.label>установить ухо</InstallNaturalEar.label>
+  <InstallNaturalEar.description>Установить биологичсекое ухо.</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>Установка уха.</InstallNaturalEar.jobString>
+
+  <InstallNaturalNose.label>установить нос</InstallNaturalNose.label>
+  <InstallNaturalNose.description>Установить биологический нос.</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>Установка носа.</InstallNaturalNose.jobString>
+
+  <InstallNaturalJaw.label>установить челюсть</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>Установить биологическую челюсть.</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>Установка челюсти.</InstallNaturalJaw.jobString>
+
+
+</LanguageData>

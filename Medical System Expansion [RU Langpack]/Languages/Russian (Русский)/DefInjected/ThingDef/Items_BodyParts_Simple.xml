@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SimpleProstheticLeg.label>протез ноги</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Протез ноги. Несмотря на отсутствие нейронного интерфейса, сложное расположение внутренних суставов позволяет достаточно убедительно имитировать естественные движения. Тем не менее, он уступает настоящей ноге. Требуется исследование протезирования.</SimpleProstheticLeg.description>
+
+  <SimpleProstheticArm.label>протез руки</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>Протез руки. Несмотря на отсутствие нейронного интерфейса, сложное расположение внутренних суставов позволяет достаточно убедительно имитировать естественные движения. Тем не менее, он уступает настоящей руке. Требуется исследование протезирования.</SimpleProstheticArm.description>
+
+  <SimpleProstheticHeart.label>протез сердца</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>Протез сердца. Оно содержит электродвигатель, который плавно качает кровь по всему телу. Пользователи часто сообщают об ощущении усталости, но это лучше, чем альтернатива. Требуется исследование протезов органов.</SimpleProstheticHeart.description>
+
+  <CochlearImplant.label>кохлеарный имплант</CochlearImplant.label>
+  <CochlearImplant.description>Имплантат, который заменяет нормальный слух. Внешний микрофон передает звуковой сигнал на электроды, обернутые вокруг слуховых чувствительных нервов внутреннего уха. Электроды стимулируют нервы в соответствии со звуком, создавая ощущение слуха. Это не так хорошо, как естественное ухо, но это намного лучше, чем быть глухим. Требуется исследование протезирования.</CochlearImplant.description>
+
+
+  <!-- Simple Prosthetic Limbs -->
+
+  <SimpleProstheticFoot.label>протез ступни</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>Протез ступни. Несмотря на отсутствие нейронного интерфейса, сложное расположение внутренних суставов позволяет достаточно убедительно имитировать естественные движения. Тем не менее, он уступает настоящей ступне. Требуется исследование протезирования.</SimpleProstheticFoot.description>
+
+  <SimpleProstheticToe.label>протез пальца ноги</SimpleProstheticToe.label>
+  <SimpleProstheticToe.description>Протез пальца ноги. Несмотря на отсутствие нейронного интерфейса, сложное расположение внутренних суставов позволяет достаточно убедительно имитировать естественные движения. Тем не менее, он уступает настоящему пальцу ноги. Требуется исследование протезирования.</SimpleProstheticToe.description>
+
+  <SimpleProstheticHand.label>протез ладони</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>Протез ладони. Несмотря на отсутствие нейронного интерфейса, сложное расположение внутренних суставов позволяет достаточно убедительно имитировать естественные движения. Тем не менее, он уступает настоящей ладони. Требуется исследование протезирования.</SimpleProstheticHand.description>
+
+  <SimpleProstheticFinger.label>протез пальца</SimpleProstheticFinger.label>
+  <SimpleProstheticFinger.description>Протез пальца. Несмотря на отсутствие нейронного интерфейса, сложное расположение внутренних суставов позволяет достаточно убедительно имитировать естественные движения. Тем не менее, он уступает настоящему пальцу. Требуется исследование протезирования.</SimpleProstheticFinger.description>
+
+  <SimpleProstheticJaw.label>протез пальца</SimpleProstheticJaw.label>
+  <SimpleProstheticJaw.description>Челюстной протез. Несмотря на отсутствие нейронного интерфейса, сложное расположение внутренних суставов позволяет достаточно убедительно имитировать естественные движения. Тем не менее, он уступает настоящей челюсти. Требуется исследование протезирования.</SimpleProstheticJaw.description>
+
+
+  <!-- Simple Prosthetic Bones -->
+
+  <SimpleProstheticClavicle.label>протез ключицы</SimpleProstheticClavicle.label>
+  <SimpleProstheticClavicle.description>Ключичный протез. Он уступает настоящей ключице. Требуется исследование замены костей.</SimpleProstheticClavicle.description>
+
+  <SimpleProstheticSternum.label>протез грудины</SimpleProstheticSternum.label>
+  <SimpleProstheticSternum.description>Протез грудины. Это уступает настоящей грудине. Требуется исследование замены костей.</SimpleProstheticSternum.description>
+
+  <SimpleProstheticRib.label>протез ребра</SimpleProstheticRib.label>
+  <SimpleProstheticRib.description>Реберный протез. Это уступает настоящему ребру. Требуется исследование замены костей.</SimpleProstheticRib.description>
+
+  <SimpleProstheticPelvis.label>протез таза</SimpleProstheticPelvis.label>
+  <SimpleProstheticPelvis.description>Протез таза. Это уступает настоящему тазу. Требуется исследование замены костей.</SimpleProstheticPelvis.description>
+
+  <SimpleProstheticHumerus.label>протез предплечья</SimpleProstheticHumerus.label>
+  <SimpleProstheticHumerus.description>Протез плечевой кости. Это уступает настоящей плечевой кости. Требуется исследование замены костей.</SimpleProstheticHumerus.description>
+
+  <SimpleProstheticRadius.label>протез лучевой кости</SimpleProstheticRadius.label>
+  <SimpleProstheticRadius.description>Протез лучевой кости. Это уступает реальной лучевой кости. Требуется исследование замены костей.</SimpleProstheticRadius.description>
+
+  <SimpleProstheticFemur.label>протез бедра</SimpleProstheticFemur.label>
+  <SimpleProstheticFemur.description>Бедренный протез. Это уступает настоящему бедру. Требуется исследование замены костей.</SimpleProstheticFemur.description>
+
+  <SimpleProstheticTibia.label>протез берцовой кости</SimpleProstheticTibia.label>
+  <SimpleProstheticTibia.description>Протез голени. Это уступает настоящей голени. Требуется исследование замены костей.</SimpleProstheticTibia.description>
+
+
+</LanguageData>

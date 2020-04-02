@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_ArchotechClavicleModule.label>архотек модуль ключицы</MSE_ArchotechClavicleModule.label>
+  <MSE_ArchotechClavicleModule.labelNoun>архотек модуль ключицы</MSE_ArchotechClavicleModule.labelNoun>
+  <MSE_ArchotechClavicleModule.description>Это архотек модуль</MSE_ArchotechClavicleModule.description>
+
+  <MSE_ArchotechArmModule.label>архотек модуль руки</MSE_ArchotechArmModule.label>
+  <MSE_ArchotechArmModule.labelNoun>архотек модуль руки</MSE_ArchotechArmModule.labelNoun>
+  <MSE_ArchotechArmModule.comps.1.tools.0.label>fist</MSE_ArchotechArmModule.comps.1.tools.0.label>
+  <MSE_ArchotechArmModule.description>Это архотек модуль</MSE_ArchotechArmModule.description>
+
+  <MSE_ArchotechHumerusModule.label>архотек модуль предплечья</MSE_ArchotechHumerusModule.label>
+  <MSE_ArchotechHumerusModule.labelNoun>архотек модуль предплечья</MSE_ArchotechHumerusModule.labelNoun>
+  <MSE_ArchotechHumerusModule.description>Это архотек модуль</MSE_ArchotechHumerusModule.description>
+
+  <MSE_ArchotechRadiusModule.label>архотек модуль лучевой кости</MSE_ArchotechRadiusModule.label>
+  <MSE_ArchotechRadiusModule.labelNoun>архотек модуль лучевой кости</MSE_ArchotechRadiusModule.labelNoun>
+  <MSE_ArchotechRadiusModule.description>Это архотек модуль</MSE_ArchotechRadiusModule.description>
+
+  <MSE_ArchotechHandModule.label>архотек модуль ладони</MSE_ArchotechHandModule.label>
+  <MSE_ArchotechHandModule.labelNoun>архотек модуль ладони</MSE_ArchotechHandModule.labelNoun>
+  <MSE_ArchotechHandModule.comps.1.tools.0.label>claw</MSE_ArchotechHandModule.comps.1.tools.0.label>
+  <MSE_ArchotechHandModule.description>Это архотек модуль</MSE_ArchotechHandModule.description>
+
+  <MSE_ArchotechFingerModule.label>архотек модуль пальца</MSE_ArchotechFingerModule.label>
+  <MSE_ArchotechFingerModule.labelNoun>архотек модуль пальца</MSE_ArchotechFingerModule.labelNoun>
+  <MSE_ArchotechFingerModule.comps.1.tools.0.label>puncture</MSE_ArchotechFingerModule.comps.1.tools.0.label>
+  <MSE_ArchotechFingerModule.description>Это архотек модуль</MSE_ArchotechFingerModule.description>
+
+  <MSE_ArchotechFemurModule.label>архотек модуль бедра</MSE_ArchotechFemurModule.label>
+  <MSE_ArchotechFemurModule.labelNoun>архотек модуль бедра</MSE_ArchotechFemurModule.labelNoun>
+  <MSE_ArchotechFemurModule.description>Это архотек модуль</MSE_ArchotechFemurModule.description>
+
+  <MSE_ArchotechTibiaModule.label>архотек модуль берцовой кости</MSE_ArchotechTibiaModule.label>
+  <MSE_ArchotechTibiaModule.labelNoun>архотек модуль берцовой кости</MSE_ArchotechTibiaModule.labelNoun>
+  <MSE_ArchotechTibiaModule.description>Это архотек модуль</MSE_ArchotechTibiaModule.description>
+
+  <MSE_ArchotechFootModule.label>архотек модуль стопы</MSE_ArchotechFootModule.label>
+  <MSE_ArchotechFootModule.labelNoun>архотек модуль стопы</MSE_ArchotechFootModule.labelNoun>
+  <MSE_ArchotechFootModule.description>Это архотек модуль</MSE_ArchotechFootModule.description>
+
+  <MSE_ArchotechToeModule.label>архотек модуль пальца ноги</MSE_ArchotechToeModule.label>
+  <MSE_ArchotechToeModule.labelNoun>архотек модуль пальца ноги</MSE_ArchotechToeModule.labelNoun>
+  <MSE_ArchotechToeModule.description>Это архотек модуль</MSE_ArchotechToeModule.description>
+
+  <MSE_AdvancedRangedPlatformModule.label>продвинутый модуль оружия дальнего боя</MSE_AdvancedRangedPlatformModule.label>
+  <MSE_AdvancedRangedPlatformModule.labelNoun>продвинутый модуль оружия дальнего боя</MSE_AdvancedRangedPlatformModule.labelNoun>
+  <MSE_AdvancedRangedPlatformModule.description>Это архотек модуль</MSE_AdvancedRangedPlatformModule.description>
+
+  <MSE_AdvancedMeleePlatformModule.label>продвинутый модуль оружия ближнего боя</MSE_AdvancedMeleePlatformModule.label>
+  <MSE_AdvancedMeleePlatformModule.labelNoun>продвинутый модуль оружия ближнего боя</MSE_AdvancedMeleePlatformModule.labelNoun>
+  <MSE_AdvancedMeleePlatformModule.description>Это архотек модуль</MSE_AdvancedMeleePlatformModule.description>
+
+  <MSE_AdvancedPowerArmModule.label>продвинутый модуль силовой руки</MSE_AdvancedPowerArmModule.label>
+  <MSE_AdvancedPowerArmModule.labelNoun>продвинутый модуль силовой руки</MSE_AdvancedPowerArmModule.labelNoun>
+  <MSE_AdvancedPowerArmModule.comps.1.tools.0.label>fist</MSE_AdvancedPowerArmModule.comps.1.tools.0.label>
+  <MSE_AdvancedPowerArmModule.description>Это архотек модуль</MSE_AdvancedPowerArmModule.description>
+
+  <MSE_AdvancedPowerClawModule.label>продвинутый модуль силового когтя</MSE_AdvancedPowerClawModule.label>
+  <MSE_AdvancedPowerClawModule.labelNoun>продвинутый модуль силового когтя</MSE_AdvancedPowerClawModule.labelNoun>
+  <MSE_AdvancedPowerClawModule.comps.1.tools.0.label>claw</MSE_AdvancedPowerClawModule.comps.1.tools.0.label>
+  <MSE_AdvancedPowerClawModule.description>Это архотек модуль</MSE_AdvancedPowerClawModule.description>
+
+  <MSE_AdamantiumBoneModule.label>модуль адамантиевой кости</MSE_AdamantiumBoneModule.label>
+  <MSE_AdamantiumBoneModule.labelNoun>модуль адамантиевой кости</MSE_AdamantiumBoneModule.labelNoun>
+  <MSE_AdamantiumBoneModule.description>Это архотек модуль</MSE_AdamantiumBoneModule.description>
+
+
+</LanguageData>

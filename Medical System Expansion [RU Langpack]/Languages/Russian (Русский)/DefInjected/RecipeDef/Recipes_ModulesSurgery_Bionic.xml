@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_InstallBionicClavicleModule.label>установить бионический модуль ключицы</MSE_InstallBionicClavicleModule.label>
+  <MSE_InstallBionicClavicleModule.description>Установить бионический модуль ключицы.</MSE_InstallBionicClavicleModule.description>
+  <MSE_InstallBionicClavicleModule.jobString>Установка бионического модуля ключицы.</MSE_InstallBionicClavicleModule.jobString>
+
+  <MSE_InstallBionicArmModule.label>установить бионический модуль руки</MSE_InstallBionicArmModule.label>
+  <MSE_InstallBionicArmModule.description>Установить бионический модуль руки.</MSE_InstallBionicArmModule.description>
+  <MSE_InstallBionicArmModule.jobString>Установка бионического модуля руки.</MSE_InstallBionicArmModule.jobString>
+
+  <MSE_InstallBionicHumerusModule.label>установить бионический модуль предплечья</MSE_InstallBionicHumerusModule.label>
+  <MSE_InstallBionicHumerusModule.description>Установить бионический модуль предплечья.</MSE_InstallBionicHumerusModule.description>
+  <MSE_InstallBionicHumerusModule.jobString>Установка бионического модуля предплечья.</MSE_InstallBionicHumerusModule.jobString>
+
+  <MSE_InstallBionicRadiusModule.label>установить бионический модуль лучевой кости</MSE_InstallBionicRadiusModule.label>
+  <MSE_InstallBionicRadiusModule.description>Установить бионический модуль лучевой кости.</MSE_InstallBionicRadiusModule.description>
+  <MSE_InstallBionicRadiusModule.jobString>Установка бионического модуля лучевой кости.</MSE_InstallBionicRadiusModule.jobString>
+
+  <MSE_InstallBionicHandModule.label>установить бионический модуль ладони</MSE_InstallBionicHandModule.label>
+  <MSE_InstallBionicHandModule.description>Установить бионический модуль ладони.</MSE_InstallBionicHandModule.description>
+  <MSE_InstallBionicHandModule.jobString>Установка бионического модуля ладони.</MSE_InstallBionicHandModule.jobString>
+
+  <MSE_InstallBionicFingerModule.label>установить бионический модуль пальца</MSE_InstallBionicFingerModule.label>
+  <MSE_InstallBionicFingerModule.description>Установить бионический модуль пальца.</MSE_InstallBionicFingerModule.description>
+  <MSE_InstallBionicFingerModule.jobString>Установка бионического модуля пальца.</MSE_InstallBionicFingerModule.jobString>
+
+  <MSE_InstallBionicFemurModule.label>установить бионический модуль бедра</MSE_InstallBionicFemurModule.label>
+  <MSE_InstallBionicFemurModule.description>Установить бионический модуль бедра.</MSE_InstallBionicFemurModule.description>
+  <MSE_InstallBionicFemurModule.jobString>Установка бионического модуля бедра.</MSE_InstallBionicFemurModule.jobString>
+
+  <MSE_InstallBionicTibiaModule.label>установить бионический модуль берцовой кости</MSE_InstallBionicTibiaModule.label>
+  <MSE_InstallBionicTibiaModule.description>Установитьбионический модуль берцовой кости.</MSE_InstallBionicTibiaModule.description>
+  <MSE_InstallBionicTibiaModule.jobString>Установка бионического модуля берцовой кости.</MSE_InstallBionicTibiaModule.jobString>
+
+  <MSE_InstallBionicFootModule.label>установить бионический модуль стопы</MSE_InstallBionicFootModule.label>
+  <MSE_InstallBionicFootModule.description>Установить бионический модуль стопы.</MSE_InstallBionicFootModule.description>
+  <MSE_InstallBionicFootModule.jobString>Установка бионического модуля стопы.</MSE_InstallBionicFootModule.jobString>
+
+  <MSE_InstallBionicToeModule.label>установить бионический модуль пальца ноги</MSE_InstallBionicToeModule.label>
+  <MSE_InstallBionicToeModule.description>Установить бионический модуль пальца ноги.</MSE_InstallBionicToeModule.description>
+  <MSE_InstallBionicToeModule.jobString>Установка бионического модуля пальца ноги.</MSE_InstallBionicToeModule.jobString>
+
+
+  <!-- Bionic Special Modules -->
+
+  <MSE_InstallRangedPlatformModule.label>установить модуль оружия дальнего боя</MSE_InstallRangedPlatformModule.label>
+  <MSE_InstallRangedPlatformModule.description>Установить модуль оружия дальнего боя.</MSE_InstallRangedPlatformModule.description>
+  <MSE_InstallRangedPlatformModule.jobString>Установка модуля оружия дальнего боя.</MSE_InstallRangedPlatformModule.jobString>
+
+  <MSE_InstallMeleePlatformModule.label>установить модуль оружия ближнего боя</MSE_InstallMeleePlatformModule.label>
+  <MSE_InstallMeleePlatformModule.description>Установить модуль оружия ближнего боя.</MSE_InstallMeleePlatformModule.description>
+  <MSE_InstallMeleePlatformModule.jobString>Установка модуля оружия ближнего боя.</MSE_InstallMeleePlatformModule.jobString>
+
+  <MSE_InstallPowerArmModule.label>установить модуль силовой руки</MSE_InstallPowerArmModule.label>
+  <MSE_InstallPowerArmModule.description>Установить модуль силовой руки.</MSE_InstallPowerArmModule.description>
+  <MSE_InstallPowerArmModule.jobString>Установка модуля силовой руки.</MSE_InstallPowerArmModule.jobString>
+
+  <MSE_InstallPowerClawModule.label>установить модуль силового когтя</MSE_InstallPowerClawModule.label>
+  <MSE_InstallPowerClawModule.description>Установить модуль силового когтя.</MSE_InstallPowerClawModule.description>
+  <MSE_InstallPowerClawModule.jobString>Установка модуля силового когтя.</MSE_InstallPowerClawModule.jobString>
+
+  <MSE_InstallAdamantiumCoatedBoneModule.label>установить модуль кости с адамантиевым покрытием</MSE_InstallAdamantiumCoatedBoneModule.label>
+  <MSE_InstallAdamantiumCoatedBoneModule.description>Установить модуль кости с адамантиевым покрытием.</MSE_InstallAdamantiumCoatedBoneModule.description>
+  <MSE_InstallAdamantiumCoatedBoneModule.jobString>Установка модуля кости с адамантиевым покрытием.</MSE_InstallAdamantiumCoatedBoneModule.jobString>
+
+
+</LanguageData>

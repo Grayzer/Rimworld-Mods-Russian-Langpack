@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_JoywireComplication.label>отторжение чипа счастья</MSE_JoywireComplication.label>
+  <MSE_JoywireComplication.stages.1.label>начальное</MSE_JoywireComplication.stages.1.label>
+  <MSE_JoywireComplication.stages.2.label>среднее</MSE_JoywireComplication.stages.2.label>
+  <MSE_JoywireComplication.stages.3.label>сильное</MSE_JoywireComplication.stages.3.label>
+  <MSE_JoywireComplication.stages.4.label>смертельное</MSE_JoywireComplication.stages.4.label>
+  <MSE_JoywireComplication.description>Отторжение мозгового имплантата</MSE_JoywireComplication.description>
+
+  <MSE_PainstopperComplication.label>отторжение чипа обезболивания</MSE_PainstopperComplication.label>
+  <MSE_PainstopperComplication.stages.1.label>начальное</MSE_PainstopperComplication.stages.1.label>
+  <MSE_PainstopperComplication.stages.2.label>среднее</MSE_PainstopperComplication.stages.2.label>
+  <MSE_PainstopperComplication.stages.3.label>сильное</MSE_PainstopperComplication.stages.3.label>
+  <MSE_PainstopperComplication.stages.4.label>смертельное</MSE_PainstopperComplication.stages.4.label>
+  <MSE_PainstopperComplication.description>Отторжение мозгового имплантата</MSE_PainstopperComplication.description>
+
+
+  <!-- Bone Implants Complication -->
+
+  <MSE_EndoskeletonStimulatorComplication.label>отторжение стимулятора эндоскелета</MSE_EndoskeletonStimulatorComplication.label>
+  <MSE_EndoskeletonStimulatorComplication.stages.1.label>начальное</MSE_EndoskeletonStimulatorComplication.stages.1.label>
+  <MSE_EndoskeletonStimulatorComplication.stages.2.label>среднее</MSE_EndoskeletonStimulatorComplication.stages.2.label>
+  <MSE_EndoskeletonStimulatorComplication.stages.3.label>сильное</MSE_EndoskeletonStimulatorComplication.stages.3.label>
+  <MSE_EndoskeletonStimulatorComplication.stages.4.label>хроническое</MSE_EndoskeletonStimulatorComplication.stages.4.label>
+  <MSE_EndoskeletonStimulatorComplication.description>Отторжение имплантата</MSE_EndoskeletonStimulatorComplication.description>
+
+
+  <!-- Muscle Implants Complication -->
+
+  <MSE_ArmMuscleStimulatorComplication.label>отторжение мускульного стимулятора руки</MSE_ArmMuscleStimulatorComplication.label>
+  <MSE_ArmMuscleStimulatorComplication.stages.1.label>начальное</MSE_ArmMuscleStimulatorComplication.stages.1.label>
+  <MSE_ArmMuscleStimulatorComplication.stages.2.label>среднее</MSE_ArmMuscleStimulatorComplication.stages.2.label>
+  <MSE_ArmMuscleStimulatorComplication.stages.3.label>сильное</MSE_ArmMuscleStimulatorComplication.stages.3.label>
+  <MSE_ArmMuscleStimulatorComplication.stages.4.label>хроническое</MSE_ArmMuscleStimulatorComplication.stages.4.label>
+  <MSE_ArmMuscleStimulatorComplication.stages.5.label>хроническое</MSE_ArmMuscleStimulatorComplication.stages.5.label>
+  <MSE_ArmMuscleStimulatorComplication.description>Отторжение имплантата</MSE_ArmMuscleStimulatorComplication.description>
+
+  <MSE_LegMuscleStimulatorComplication.label>отторжение мускульного стимулятора ноги</MSE_LegMuscleStimulatorComplication.label>
+  <MSE_LegMuscleStimulatorComplication.stages.1.label>начальное</MSE_LegMuscleStimulatorComplication.stages.1.label>
+  <MSE_LegMuscleStimulatorComplication.stages.2.label>среднее</MSE_LegMuscleStimulatorComplication.stages.2.label>
+  <MSE_LegMuscleStimulatorComplication.stages.3.label>сильное</MSE_LegMuscleStimulatorComplication.stages.3.label>
+  <MSE_LegMuscleStimulatorComplication.stages.4.label>хроническое</MSE_LegMuscleStimulatorComplication.stages.4.label>
+  <MSE_LegMuscleStimulatorComplication.stages.5.label>хроническое</MSE_LegMuscleStimulatorComplication.stages.5.label>
+  <MSE_LegMuscleStimulatorComplication.description>Отторжение имплантата</MSE_LegMuscleStimulatorComplication.description>
+
+
+  <!-- Brain Implants Complication -->
+
+  <MSE_BuilderAIComplication.label>отторжение ИИ-чипа строителя</MSE_BuilderAIComplication.label>
+  <MSE_BuilderAIComplication.stages.1.label>начальное</MSE_BuilderAIComplication.stages.1.label>
+  <MSE_BuilderAIComplication.stages.2.label>среднее</MSE_BuilderAIComplication.stages.2.label>
+  <MSE_BuilderAIComplication.stages.3.label>сильное</MSE_BuilderAIComplication.stages.3.label>
+  <MSE_BuilderAIComplication.stages.4.label>смертельное</MSE_BuilderAIComplication.stages.4.label>
+  <MSE_BuilderAIComplication.description>Отторжение мозгового имплантата</MSE_BuilderAIComplication.description>
+
+  <MSE_FarmerAIComplication.label>отторжение ИИ-чипа фермера</MSE_FarmerAIComplication.label>
+  <MSE_FarmerAIComplication.stages.1.label>начальное</MSE_FarmerAIComplication.stages.1.label>
+  <MSE_FarmerAIComplication.stages.2.label>среднее</MSE_FarmerAIComplication.stages.2.label>
+  <MSE_FarmerAIComplication.stages.3.label>сильное</MSE_FarmerAIComplication.stages.3.label>
+  <MSE_FarmerAIComplication.stages.4.label>смертельное</MSE_FarmerAIComplication.stages.4.label>
+  <MSE_FarmerAIComplication.description>Отторжение мозгового имплантата</MSE_FarmerAIComplication.description>
+
+  <MSE_DoctorAIComplication.label>отторжение ИИ-чипа медика</MSE_DoctorAIComplication.label>
+  <MSE_DoctorAIComplication.stages.1.label>начальное</MSE_DoctorAIComplication.stages.1.label>
+  <MSE_DoctorAIComplication.stages.2.label>среднее</MSE_DoctorAIComplication.stages.2.label>
+  <MSE_DoctorAIComplication.stages.3.label>сильное</MSE_DoctorAIComplication.stages.3.label>
+  <MSE_DoctorAIComplication.stages.4.label>смертельное</MSE_DoctorAIComplication.stages.4.label>
+  <MSE_DoctorAIComplication.description>Отторжение мозгового имплантата</MSE_DoctorAIComplication.description>
+
+  <MSE_MinerAIComplication.label>отторжение ИИ-чипа рудокопа</MSE_MinerAIComplication.label>
+  <MSE_MinerAIComplication.stages.1.label>начальное</MSE_MinerAIComplication.stages.1.label>
+  <MSE_MinerAIComplication.stages.2.label>среднее</MSE_MinerAIComplication.stages.2.label>
+  <MSE_MinerAIComplication.stages.3.label>сильное</MSE_MinerAIComplication.stages.3.label>
+  <MSE_MinerAIComplication.stages.4.label>смертельное</MSE_MinerAIComplication.stages.4.label>
+  <MSE_MinerAIComplication.description>Отторжение мозгового имплантата</MSE_MinerAIComplication.description>
+
+  <MSE_DiplomatAIComplication.label>отторжение ИИ-чипа дипломата</MSE_DiplomatAIComplication.label>
+  <MSE_DiplomatAIComplication.stages.1.label>начальное</MSE_DiplomatAIComplication.stages.1.label>
+  <MSE_DiplomatAIComplication.stages.2.label>среднее</MSE_DiplomatAIComplication.stages.2.label>
+  <MSE_DiplomatAIComplication.stages.3.label>сильное</MSE_DiplomatAIComplication.stages.3.label>
+  <MSE_DiplomatAIComplication.stages.4.label>смертельное</MSE_DiplomatAIComplication.stages.4.label>
+  <MSE_DiplomatAIComplication.description>Отторжение мозгового имплантата</MSE_DiplomatAIComplication.description>
+
+  <MSE_TamerAIComplication.label>отторжение ИИ-чипа дрессировщика</MSE_TamerAIComplication.label>
+  <MSE_TamerAIComplication.stages.1.label>начальное</MSE_TamerAIComplication.stages.1.label>
+  <MSE_TamerAIComplication.stages.2.label>среднее</MSE_TamerAIComplication.stages.2.label>
+  <MSE_TamerAIComplication.stages.3.label>сильное</MSE_TamerAIComplication.stages.3.label>
+  <MSE_TamerAIComplication.stages.4.label>смертельное</MSE_TamerAIComplication.stages.4.label>
+  <MSE_TamerAIComplication.description>Отторжение мозгового имплантата</MSE_TamerAIComplication.description>
+
+  <MSE_ChefAIComplication.label>отторжение ИИ-чипа повара</MSE_ChefAIComplication.label>
+  <MSE_ChefAIComplication.stages.1.label>начальное</MSE_ChefAIComplication.stages.1.label>
+  <MSE_ChefAIComplication.stages.2.label>среднее</MSE_ChefAIComplication.stages.2.label>
+  <MSE_ChefAIComplication.stages.3.label>сильное</MSE_ChefAIComplication.stages.3.label>
+  <MSE_ChefAIComplication.stages.4.label>смертельное</MSE_ChefAIComplication.stages.4.label>
+  <MSE_ChefAIComplication.description>Отторжение мозгового имплантата</MSE_ChefAIComplication.description>
+
+  <MSE_HunterAIComplication.label>отторжение ИИ-чипа охотника</MSE_HunterAIComplication.label>
+  <MSE_HunterAIComplication.stages.1.label>начальное</MSE_HunterAIComplication.stages.1.label>
+  <MSE_HunterAIComplication.stages.2.label>среднее</MSE_HunterAIComplication.stages.2.label>
+  <MSE_HunterAIComplication.stages.3.label>сильное</MSE_HunterAIComplication.stages.3.label>
+  <MSE_HunterAIComplication.stages.4.label>смертельное</MSE_HunterAIComplication.stages.4.label>
+  <MSE_HunterAIComplication.description>Отторжение мозгового имплантата</MSE_HunterAIComplication.description>
+
+  <MSE_BasicLaborAIComplication.label>отторжение ИИ-чипа ремесла</MSE_BasicLaborAIComplication.label>
+  <MSE_BasicLaborAIComplication.stages.1.label>начальное</MSE_BasicLaborAIComplication.stages.1.label>
+  <MSE_BasicLaborAIComplication.stages.2.label>среднее</MSE_BasicLaborAIComplication.stages.2.label>
+  <MSE_BasicLaborAIComplication.stages.3.label>сильное</MSE_BasicLaborAIComplication.stages.3.label>
+  <MSE_BasicLaborAIComplication.stages.4.label>смертельное</MSE_BasicLaborAIComplication.stages.4.label>
+  <MSE_BasicLaborAIComplication.description>Отторжение мозгового имплантата</MSE_BasicLaborAIComplication.description>
+
+
+  <!-- Organ Implants Complication -->
+
+  <MSE_AppetiteSuppressantComplication.label>отторжение подавителя аппетита</MSE_AppetiteSuppressantComplication.label>
+  <MSE_AppetiteSuppressantComplication.stages.1.label>начальное</MSE_AppetiteSuppressantComplication.stages.1.label>
+  <MSE_AppetiteSuppressantComplication.stages.2.label>среднее</MSE_AppetiteSuppressantComplication.stages.2.label>
+  <MSE_AppetiteSuppressantComplication.stages.3.label>сильное</MSE_AppetiteSuppressantComplication.stages.3.label>
+  <MSE_AppetiteSuppressantComplication.stages.4.label>хроническое</MSE_AppetiteSuppressantComplication.stages.4.label>
+  <MSE_AppetiteSuppressantComplication.stages.5.label>хроническое</MSE_AppetiteSuppressantComplication.stages.5.label>
+  <MSE_AppetiteSuppressantComplication.description>Отторжение имплантата органа</MSE_AppetiteSuppressantComplication.description>
+
+
+</LanguageData>

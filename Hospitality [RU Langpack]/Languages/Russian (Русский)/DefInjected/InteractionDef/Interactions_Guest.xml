@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<GuestDiplomacy.label>улучшить отношения</GuestDiplomacy.label>
+	<GuestDiplomacy.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef] провел дипломатический разговор с [RECIPIENT_nameDef] о [TalkTopicLight].</li>
+		<li>r_logentry->[INITIATOR_nameDef] обсудил политическую значимость [subject] с [RECIPIENT_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef] [PersonalCharacteristic].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [complimented] фракцию [RECIPIENT_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] [complimented] отношения с [RECIPIENT_factionName].</li>
+		<li>r_logentry->[INITIATOR_nameDef] передал привет [RECIPIENT_nameDef] [PersonFamily].</li>
+		<li>r_logentry->[INITIATOR_nameDef] попытался связаться с [RECIPIENT_nameDef] по поводу их общего [opinion].</li>
+
+		<li>opinion->поддержмвания [ConceptPositive]</li>
+		<li>opinion->отвращение к [ConceptNegative]</li>
+		<li>opinion->страха к [ConceptNegative]</li>
+		<li>opinion->мнения о [ConceptAny]</li>
+		<li>opinion->тоски о [ConceptPositive]</li>
+		<li>complimented->восхваляет</li>
+        <li>complimented->хвалит</li>
+        <li>complimented->славит</li>
+        <li>complimented->одобряет</li>
+        <li>complimented->прославляет</li>
+	</GuestDiplomacy.logRulesInitiator.rulesStrings>
+
+	<CharmGuestAttempt.label>попытка очарования</CharmGuestAttempt.label>
+ 	<CharmGuestAttempt.logRulesInitiator.rulesStrings>
+        <li>r_logentry->[INITIATOR_nameDef] [saidwords] [RECIPIENT_nameDef].</li>
+        <li>r_logentry->[INITIATOR_nameDef] рассказал [RECIPIENT_nameDef] обо всех [ConceptPositive] в [INITIATOR_factionName].</li>
+        <li>r_logentry->[INITIATOR_nameDef] рассказал [RECIPIENT_nameDef] [adjwords] вещи о других колонистах.</li>
+        <li>r_logentry->[INITIATOR_nameDef] представил [RECIPIENT_nameDef] другому колонисту.</li>
+        <li>saidwords->сказал [adjwords] слова</li>
+        <li>saidwords->выразил [ConceptPositive] к</li>
+        <li>saidwords->сделал [adjwords] жесты в сторону</li>
+		<li>adjwords->интригующие</li>
+		<li>adjwords->добрые</li>
+		<li>adjwords->привлекательные</li>
+		<li>adjwords->дружеские</li>
+		<li>adjwords->заманчивые</li>
+	</CharmGuestAttempt.logRulesInitiator.rulesStrings>
+
+</LanguageData>

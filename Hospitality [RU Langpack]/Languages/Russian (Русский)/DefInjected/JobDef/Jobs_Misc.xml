@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<CharmGuest.reportString>Попытка установить дружбу между TargetA и вашими колонистами.</CharmGuest.reportString>
+	<GuestImproveRelationship.reportString>Попытка улучшить отношения с фракцией TargetA.</GuestImproveRelationship.reportString>
+	<BuyItem.reportString>Купил TargetA.</BuyItem.reportString>
+	<BrowseItems.reportString>Просмотр товаров.</BrowseItems.reportString>
+	<ClaimGuestBed.reportString>Притендует на кровать.</ClaimGuestBed.reportString>
+
+</LanguageData>

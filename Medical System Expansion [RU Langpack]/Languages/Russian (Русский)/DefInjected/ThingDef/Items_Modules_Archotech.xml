@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_ArchotechClavicleModule.label>архотек модуль ключицы</MSE_ArchotechClavicleModule.label>
+  <MSE_ArchotechClavicleModule.description>Этот модуль создан архотеком. Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechClavicleModule.description>
+
+  <MSE_ArchotechArmModule.label>архотек модуль руки</MSE_ArchotechArmModule.label>
+  <MSE_ArchotechArmModule.description>Этот модуль создан архотеком. Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechArmModule.description>
+
+  <MSE_ArchotechHumerusModule.label>архотек модуль предплечья</MSE_ArchotechHumerusModule.label>
+  <MSE_ArchotechHumerusModule.description>Этот модуль создан архотеком. Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechHumerusModule.description>
+
+  <MSE_ArchotechRadiusModule.label>архотек модуль лучевой кости</MSE_ArchotechRadiusModule.label>
+  <MSE_ArchotechRadiusModule.description>Этот модуль создан архотеком. Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechRadiusModule.description>
+
+  <MSE_ArchotechHandModule.label>архотек модуль ладони</MSE_ArchotechHandModule.label>
+  <MSE_ArchotechHandModule.description>Этот модуль создан архотеком.  Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechHandModule.description>
+
+  <MSE_ArchotechFingerModule.label>архотек модуль пальца</MSE_ArchotechFingerModule.label>
+  <MSE_ArchotechFingerModule.description>Этот модуль создан архотеком.  Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechFingerModule.description>
+
+  <MSE_ArchotechFemurModule.label>архотек модуль бедра</MSE_ArchotechFemurModule.label>
+  <MSE_ArchotechFemurModule.description>Этот модуль создан архотеком. Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechFemurModule.description>
+
+  <MSE_ArchotechTibiaModule.label>архотек модуль берцовой кости</MSE_ArchotechTibiaModule.label>
+  <MSE_ArchotechTibiaModule.description>Этот модуль создан архотеком. Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechTibiaModule.description>
+
+  <MSE_ArchotechFootModule.label>архотек модуль стопы</MSE_ArchotechFootModule.label>
+  <MSE_ArchotechFootModule.description>Этот модуль создан архотеком. Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechFootModule.description>
+
+  <MSE_ArchotechToeModule.label>архотек модуль пальца ноги</MSE_ArchotechToeModule.label>
+  <MSE_ArchotechToeModule.description>Этот модуль создан архотеком. Повредить труднее, чем пласталь. В случае повреждения со временем восстанавливается. Требуются исследования хирургии модулей.</MSE_ArchotechToeModule.description>
+
+
+  <!-- Special Archotech -->
+
+  <MSE_AdvancedRangedPlatformModule.label>продвинутый модуль оружия дальнего боя</MSE_AdvancedRangedPlatformModule.label>
+  <MSE_AdvancedRangedPlatformModule.description>Расширенный модуль оружия дальнего боя. Если ему причинен вред, он со временем восстанавливается. С помощью стабилизатора и системы прицеливания вы можете придать пешке большую точность и превратить ее в специализированную для дальнего боя. Вы можете установить его в слот модуля ключицы. Требуются исследования хирургии модулей.</MSE_AdvancedRangedPlatformModule.description>
+
+  <MSE_AdvancedMeleePlatformModule.label>продвинутый модуль оружия ближнего боя</MSE_AdvancedMeleePlatformModule.label>
+  <MSE_AdvancedMeleePlatformModule.description>Усовершенствованный модуль платформы ближнего боя. Если ему причинен вред, он со временем восстанавливается. С помощью сенсорного мотора и системы прицеливания вы можете позволить наносить вашей пешке большой урон в ближнем бою и превратить ее в специализированную для ближнего боя. Вы можете установить его в слот модуля ключицы. Требуются исследования хирургии модулей.</MSE_AdvancedMeleePlatformModule.description>
+
+  <MSE_AdvancedPowerArmModule.label>продвинутый модуль силовой руки</MSE_AdvancedPowerArmModule.label>
+  <MSE_AdvancedPowerArmModule.description>Усовершенствованный силовой модуль, созданный архотеком. Он выглядит и ощущается как натуральная рука, имеет высокий дробящий урон, и его сложнее повредить, чем пласталь. В случае повреждения со временем восстанавливается. Вы можете установить его в слот для модуля руки. Требуются исследования хирургии модулей.</MSE_AdvancedPowerArmModule.description>
+
+  <MSE_AdvancedPowerClawModule.label>продвинутый модуль силового когтя</MSE_AdvancedPowerClawModule.label>
+  <MSE_AdvancedPowerClawModule.description>Усовершенствованный модуль силового когтя, созданный архотеком. Он выглядит и ощущается как натуральная рука, к нему прикреплен острый коготь, и его сложнее повредить, чем пласталь. В случае повреждения со временем восстанавливается. Вы можете установить его в слот для модуля руки. Требуются исследования хирургии модулей.</MSE_AdvancedPowerClawModule.description>
+
+  <MSE_AdamantiumBoneModule.label>модуль адамантиевой кости</MSE_AdamantiumBoneModule.label>
+  <MSE_AdamantiumBoneModule.description>Модуль кости, изготовленный из высококачественного адамантиевого сплава. Способен выдержать почти все атаки. В случае повреждения со временем восстанавливается. Вы можете установить его на все слоты для модулей кости. Требуются исследования хирургии модулей.</MSE_AdamantiumBoneModule.description>
+
+
+</LanguageData>

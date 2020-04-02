@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallArchotechArm.label>установить архотек руку</InstallArchotechArm.label>
+  <InstallArchotechArm.description>Установить архотек руку.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>Установка архотек руки.</InstallArchotechArm.jobString>
+
+  <InstallArchotechLeg.label>установить архотек ногу</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>Установить архотек ногу.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>Установка архотек ноги.</InstallArchotechLeg.jobString>
+
+  <InstallArchotechEye.label>установить архотек глаз</InstallArchotechEye.label>
+  <InstallArchotechEye.description>Установить архотек глаз.</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>Установка архотек глаза.</InstallArchotechEye.jobString>
+
+
+  <!-- Archotech Organs -->
+
+  <InstallArchotechHeart.label>установить архотек сердце</InstallArchotechHeart.label>
+  <InstallArchotechHeart.description>Установить архотек сердце.</InstallArchotechHeart.description>
+  <InstallArchotechHeart.jobString>Установка архотек сердца.</InstallArchotechHeart.jobString>
+
+  <InstallArchotechStomach.label>установить архотек желудок</InstallArchotechStomach.label>
+  <InstallArchotechStomach.description>Установить архотек желудок.</InstallArchotechStomach.description>
+  <InstallArchotechStomach.jobString>Установка архотек желудка.</InstallArchotechStomach.jobString>
+
+  <InstallArchotechLung.label>установить архотек легкое</InstallArchotechLung.label>
+  <InstallArchotechLung.description>Установить архотек легкое.</InstallArchotechLung.description>
+  <InstallArchotechLung.jobString>Установка архотек легкого.</InstallArchotechLung.jobString>
+
+  <InstallArchotechKidney.label>установить архотек почку</InstallArchotechKidney.label>
+  <InstallArchotechKidney.description>Установить архотек почку.</InstallArchotechKidney.description>
+  <InstallArchotechKidney.jobString>Установка архотек почки.</InstallArchotechKidney.jobString>
+
+  <InstallArchotechLiver.label>установить архотек печень</InstallArchotechLiver.label>
+  <InstallArchotechLiver.description>Установить архотек печень.</InstallArchotechLiver.description>
+  <InstallArchotechLiver.jobString>Установка архотек печени.</InstallArchotechLiver.jobString>
+
+
+  <!-- Archotech Limbs -->
+
+  <InstallArchotechEar.label>установить архотек ухо</InstallArchotechEar.label>
+  <InstallArchotechEar.description>Установить архотек ухо.</InstallArchotechEar.description>
+  <InstallArchotechEar.jobString>Установка архотек уха.</InstallArchotechEar.jobString>
+
+  <InstallArchotechFoot.label>установить архотек ступню</InstallArchotechFoot.label>
+  <InstallArchotechFoot.description>Установить архотек ступню.</InstallArchotechFoot.description>
+  <InstallArchotechFoot.jobString>Установка архотек ступни.</InstallArchotechFoot.jobString>
+
+  <InstallArchotechToe.label>установить архотек палец ноги</InstallArchotechToe.label>
+  <InstallArchotechToe.description>Установить архотек палец ноги.</InstallArchotechToe.description>
+  <InstallArchotechToe.jobString>Установка архотек пальца ноги.</InstallArchotechToe.jobString>
+
+  <InstallArchotechShoulder.label>установить архотек плечо</InstallArchotechShoulder.label>
+  <InstallArchotechShoulder.description>Установить архотек плечо.</InstallArchotechShoulder.description>
+  <InstallArchotechShoulder.jobString>Установка архотек плеча.</InstallArchotechShoulder.jobString>
+
+  <InstallArchotechHand.label>установить архотек ладонь</InstallArchotechHand.label>
+  <InstallArchotechHand.description>Установить архотек ладонь.</InstallArchotechHand.description>
+  <InstallArchotechHand.jobString>Установка архотек ладони.</InstallArchotechHand.jobString>
+
+  <InstallArchotechFinger.label>установить архотек палец</InstallArchotechFinger.label>
+  <InstallArchotechFinger.description>Установить архотек палец.</InstallArchotechFinger.description>
+  <InstallArchotechFinger.jobString>Установка архотек пальца.</InstallArchotechFinger.jobString>
+
+  <InstallArchotechJaw.label>установить архотек челюсть</InstallArchotechJaw.label>
+  <InstallArchotechJaw.description>Установить архотек челюсть.</InstallArchotechJaw.description>
+  <InstallArchotechJaw.jobString>Установка архотек челюсти.</InstallArchotechJaw.jobString>
+
+
+  <!-- Archotech Bones -->
+
+  <InstallArchotechSpine.label>установить архотек позвоночник</InstallArchotechSpine.label>
+  <InstallArchotechSpine.description>Установить архотек позвоночник.</InstallArchotechSpine.description>
+  <InstallArchotechSpine.jobString>Установка архотек позвоночника.</InstallArchotechSpine.jobString>
+
+  <InstallArchotechClavicle.label>установить архотек ключицу</InstallArchotechClavicle.label>
+  <InstallArchotechClavicle.description>Установить архотек ключицу.</InstallArchotechClavicle.description>
+  <InstallArchotechClavicle.jobString>Установка архотек ключицы.</InstallArchotechClavicle.jobString>
+
+  <InstallArchotechSternum.label>установить архотек грудину</InstallArchotechSternum.label>
+  <InstallArchotechSternum.description>Установить архотек грудину.</InstallArchotechSternum.description>
+  <InstallArchotechSternum.jobString>Установка архотек грудины.</InstallArchotechSternum.jobString>
+
+  <InstallArchotechRib.label>установить архотек ребро</InstallArchotechRib.label>
+  <InstallArchotechRib.description>Установить архотек ребро.</InstallArchotechRib.description>
+  <InstallArchotechRib.jobString>Установка архотек ребра.</InstallArchotechRib.jobString>
+
+  <InstallArchotechPelvis.label>установить архотек таз</InstallArchotechPelvis.label>
+  <InstallArchotechPelvis.description>Установить архотек таз.</InstallArchotechPelvis.description>
+  <InstallArchotechPelvis.jobString>Установка архотек таза.</InstallArchotechPelvis.jobString>
+
+  <InstallArchotechHumerus.label>установить архотек предплечье</InstallArchotechHumerus.label>
+  <InstallArchotechHumerus.description>Установить архотек предплечье.</InstallArchotechHumerus.description>
+  <InstallArchotechHumerus.jobString>Установка архотек предплечья.</InstallArchotechHumerus.jobString>
+
+  <InstallArchotechRadius.label>установить архотек лучевую кость</InstallArchotechRadius.label>
+  <InstallArchotechRadius.description>Установить архотек лучевую кость.</InstallArchotechRadius.description>
+  <InstallArchotechRadius.jobString>Установка архотек лучевой кости.</InstallArchotechRadius.jobString>
+
+  <InstallArchotechFemur.label>установить архотек бедро</InstallArchotechFemur.label>
+  <InstallArchotechFemur.description>Установить архотек бедро.</InstallArchotechFemur.description>
+  <InstallArchotechFemur.jobString>Установка архотек бедра.</InstallArchotechFemur.jobString>
+
+  <InstallArchotechTibia.label>установить архотек берцовую кость</InstallArchotechTibia.label>
+  <InstallArchotechTibia.description>Установить архотек берцовую кость.</InstallArchotechTibia.description>
+  <InstallArchotechTibia.jobString>Установка архотек берцовой кости.</InstallArchotechTibia.jobString>
+
+
+  <!-- Special Archotech -->
+
+  <InstallAdvancedAntitoxinKidney.label>установить продвинутую антитоксиновую почку</InstallAdvancedAntitoxinKidney.label>
+  <InstallAdvancedAntitoxinKidney.description>Установить продвинутую антитоксиновую почку.</InstallAdvancedAntitoxinKidney.description>
+  <InstallAdvancedAntitoxinKidney.jobString>Установка продвинутой антитоксиновой почки.</InstallAdvancedAntitoxinKidney.jobString>
+
+  <InstallAdvancedMedicalLiver.label>установить продвинутую медик-печень</InstallAdvancedMedicalLiver.label>
+  <InstallAdvancedMedicalLiver.description>Установить продвинутую медик-печень.</InstallAdvancedMedicalLiver.description>
+  <InstallAdvancedMedicalLiver.jobString>Установка продвинутой медик-печени.</InstallAdvancedMedicalLiver.jobString>
+
+  <InstallAdvancedEnergizedLiver.label>установить продвинутую энерго-печень</InstallAdvancedEnergizedLiver.label>
+  <InstallAdvancedEnergizedLiver.description>Установить продвинутую энерго-печень.</InstallAdvancedEnergizedLiver.description>
+  <InstallAdvancedEnergizedLiver.jobString>Установка продвинутой энерго-печени.</InstallAdvancedEnergizedLiver.jobString>
+
+  <InstallAdvancedPowerArm.label>установить продвинутую силовую руку</InstallAdvancedPowerArm.label>
+  <InstallAdvancedPowerArm.description>Установить продвинутую силовую руку.</InstallAdvancedPowerArm.description>
+  <InstallAdvancedPowerArm.jobString>Установка продвинутой силовой руки.</InstallAdvancedPowerArm.jobString>
+
+  <MSE_InstallAdvancedPowerBlade.label>установить продвинутое силовое лезвие</MSE_InstallAdvancedPowerBlade.label>
+  <MSE_InstallAdvancedPowerBlade.description>Установить продвинутое силовое лезвие.</MSE_InstallAdvancedPowerBlade.description>
+  <MSE_InstallAdvancedPowerBlade.jobString>Установка продвинутого силового лезвия.</MSE_InstallAdvancedPowerBlade.jobString>
+
+  <InstallAdvancedPowerClaw.label>установить продвинутый силовой коготь</InstallAdvancedPowerClaw.label>
+  <InstallAdvancedPowerClaw.description>Установить продвинутый силовой коготь.</InstallAdvancedPowerClaw.description>
+  <InstallAdvancedPowerClaw.jobString>Установка продвинутого силового когтя.</InstallAdvancedPowerClaw.jobString>
+
+  <InstallAdvancedBreathingSupportRib.label>установить продвинутое ребро поддержки дыхания</InstallAdvancedBreathingSupportRib.label>
+  <InstallAdvancedBreathingSupportRib.description>Установить aпродвинутое ребро поддержки дыхания.</InstallAdvancedBreathingSupportRib.description>
+  <InstallAdvancedBreathingSupportRib.jobString>Установка продвинутого ребра поддержки дыхания.</InstallAdvancedBreathingSupportRib.jobString>
+
+  <InstallAdvancedRelaxationRib.label>установить продвинутое ребро релаксации</InstallAdvancedRelaxationRib.label>
+  <InstallAdvancedRelaxationRib.description>Установить продвинутое ребро релаксации.</InstallAdvancedRelaxationRib.description>
+  <InstallAdvancedRelaxationRib.jobString>Установка продвинутого ребра релаксации.</InstallAdvancedRelaxationRib.jobString>
+
+  <InstallAdvancedColdRegulatorRib.label>установить продвинутое ребро морозоустойчивости</InstallAdvancedColdRegulatorRib.label>
+  <InstallAdvancedColdRegulatorRib.description>Установить продвинутое ребро морозоустойчивости.</InstallAdvancedColdRegulatorRib.description>
+  <InstallAdvancedColdRegulatorRib.jobString>Установка продвинутого ребра морозоустойчивости.</InstallAdvancedColdRegulatorRib.jobString>
+
+  <InstallAdvancedHeatRegulatorRib.label>установить продвинутое ребро жаростойкости</InstallAdvancedHeatRegulatorRib.label>
+  <InstallAdvancedHeatRegulatorRib.description>Установить продвинутое ребро жаростойкости.</InstallAdvancedHeatRegulatorRib.description>
+  <InstallAdvancedHeatRegulatorRib.jobString>Установка продвинутого ребра жаростойкости.</InstallAdvancedHeatRegulatorRib.jobString>
+
+
+</LanguageData>

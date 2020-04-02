@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<GuestPaidFee.stages.had_to_pay_fee.label>пришлось заплатить взнос</GuestPaidFee.stages.had_to_pay_fee.label>
+	<GuestPaidFee.stages.had_to_pay_fee.description>Я должен был заплатить плату за свою кровать.</GuestPaidFee.stages.had_to_pay_fee.description>
+
+	<GuestAngered.stages.angered_by_recruitment.label>возмущен вербовкой</GuestAngered.stages.angered_by_recruitment.label>
+	<GuestAngered.stages.angered_by_recruitment.description>Эти ребята пытаются украсть наших участников!</GuestAngered.stages.angered_by_recruitment.description>
+
+	<GuestRecruitmentForced.stages.involuntarily_recruited.label>невольно завербован</GuestRecruitmentForced.stages.involuntarily_recruited.label>
+	<GuestRecruitmentForced.stages.involuntarily_recruited.description>Я не уверен, должен ли я быть здесь.</GuestRecruitmentForced.stages.involuntarily_recruited.description>
+
+	<GuestOffendedRelationship.stages.insulted_by_colonist.label>оскорблен колонистом</GuestOffendedRelationship.stages.insulted_by_colonist.label>
+	<GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>оскорбил меня</GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>
+	<GuestOffendedRelationship.stages.insulted_by_colonist.description>Эти парни неудачники!</GuestOffendedRelationship.stages.insulted_by_colonist.description>
+
+	<GuestPleasedRelationship.stages.charmed_by_colonist.label>очарованный колонистом</GuestPleasedRelationship.stages.charmed_by_colonist.label>
+	<GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>очаровал меня</GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>
+	<GuestPleasedRelationship.stages.charmed_by_colonist.description>Такие милые люди!</GuestPleasedRelationship.stages.charmed_by_colonist.description>
+
+	<EndorsedByRecruiter.stages.endorsed_by_recruiter.label>одобрен дипломатом</EndorsedByRecruiter.stages.endorsed_by_recruiter.label>
+	<EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>был одобрен для меня</EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>
+	<EndorsedByRecruiter.stages.endorsed_by_recruiter.description>Этот человек был рекомендован мне.</EndorsedByRecruiter.stages.endorsed_by_recruiter.description>
+
+	<GuestDismissiveAttitude.stages.tired_of_talking.label>устал говорить</GuestDismissiveAttitude.stages.tired_of_talking.label>
+	<GuestDismissiveAttitude.stages.tired_of_talking.description>Я закончил говорить сейчас. Оставь меня в покое.</GuestDismissiveAttitude.stages.tired_of_talking.description>
+
+	<GuestCantAffordBed.stages.cant_afford_a_bed.label>не могу позволить себе кровать</GuestCantAffordBed.stages.cant_afford_a_bed.label>
+	<GuestCantAffordBed.stages.cant_afford_a_bed.description>Я не могу позволить себе одну из кроватей.</GuestCantAffordBed.stages.cant_afford_a_bed.description>
+
+	<GuestBedCount.stages.no_guest_beds.label>нет гостевых кроватей</GuestBedCount.stages.no_guest_beds.label>
+	<GuestBedCount.stages.no_guest_beds.description>У них здесь даже нет кроватей.</GuestBedCount.stages.no_guest_beds.description>
+	<GuestBedCount.stages.not_enough_guest_beds.label>недостаточно гостевых кроватей</GuestBedCount.stages.not_enough_guest_beds.label>
+	<GuestBedCount.stages.not_enough_guest_beds.description>Там должно быть больше кроватей для гостей.</GuestBedCount.stages.not_enough_guest_beds.description>
+	<GuestBedCount.stages.enough_beds.label>достаточно кроватей</GuestBedCount.stages.enough_beds.label>
+	<GuestBedCount.stages.enough_beds.description>Для всех нас достаточно гостевых кроватей.</GuestBedCount.stages.enough_beds.description>
+	<GuestBedCount.stages.lots_of_beds.label>много кроватей</GuestBedCount.stages.lots_of_beds.label>
+	<GuestBedCount.stages.lots_of_beds.description>Вау, так много кроватей!</GuestBedCount.stages.lots_of_beds.description>
+
+</LanguageData>

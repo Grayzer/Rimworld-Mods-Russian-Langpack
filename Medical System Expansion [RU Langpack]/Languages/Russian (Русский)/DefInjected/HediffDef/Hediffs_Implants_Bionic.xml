@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Joywire.label>чип счастья</Joywire.label>
+  <Joywire.labelNoun>чип счастья</Joywire.labelNoun>
+  <Joywire.description>Test. Fix Later</Joywire.description>
+
+  <Painstopper.label>чип обезболивания</Painstopper.label>
+  <Painstopper.labelNoun>чип обезболивания</Painstopper.labelNoun>
+  <Painstopper.description>Test. Fix Later</Painstopper.description>
+
+
+  <!-- Bone Implants -->
+
+  <MSE_EndoskeletonStimulator.label>стимулятор эндоскелета</MSE_EndoskeletonStimulator.label>
+  <MSE_EndoskeletonStimulator.labelNoun>стимулятор эндоскелета</MSE_EndoskeletonStimulator.labelNoun>
+  <MSE_EndoskeletonStimulator.description>Test. Fix Later</MSE_EndoskeletonStimulator.description>
+
+
+  <!-- Muscle Implants -->
+
+  <MSE_ArmMuscleStimulator.label>мускульный стимулятор руки</MSE_ArmMuscleStimulator.label>
+  <MSE_ArmMuscleStimulator.description>Test. Fix Later</MSE_ArmMuscleStimulator.description>
+
+  <MSE_LegMuscleStimulator.label>мускульный стимулятор ноги</MSE_LegMuscleStimulator.label>
+  <MSE_LegMuscleStimulator.description>Test. Fix Later</MSE_LegMuscleStimulator.description>
+
+
+  <!-- Brain Implants -->
+
+  <MSE_BuilderAI.label>ИИ-чип строителя</MSE_BuilderAI.label>
+  <MSE_BuilderAI.description>Test. Fix Later</MSE_BuilderAI.description>
+
+  <MSE_FarmerAI.label>ИИ-чип фермера</MSE_FarmerAI.label>
+  <MSE_FarmerAI.description>Test. Fix Later</MSE_FarmerAI.description>
+
+  <MSE_DoctorAI.label>ИИ-чип медика</MSE_DoctorAI.label>
+  <MSE_DoctorAI.description>Test. Fix Later</MSE_DoctorAI.description>
+
+  <MSE_MinerAI.label>ИИ-чип рудокопа</MSE_MinerAI.label>
+  <MSE_MinerAI.description>Test. Fix Later</MSE_MinerAI.description>
+
+  <MSE_DiplomatAI.label>ИИ-чип дипломата</MSE_DiplomatAI.label>
+  <MSE_DiplomatAI.description>Test. Fix Later</MSE_DiplomatAI.description>
+
+  <MSE_TamerAI.label>ИИ-чип дрессировщика</MSE_TamerAI.label>
+  <MSE_TamerAI.description>Test. Fix Later</MSE_TamerAI.description>
+
+  <MSE_ChefAI.label>ИИ-чип повара</MSE_ChefAI.label>
+  <MSE_ChefAI.description>Test. Fix Later</MSE_ChefAI.description>
+
+  <MSE_HunterAI.label>ИИ-чип охотника</MSE_HunterAI.label>
+  <MSE_HunterAI.description>Test. Fix Later</MSE_HunterAI.description>
+
+  <MSE_BasicLaborAI.label>ИИ-чип ремесла</MSE_BasicLaborAI.label>
+  <MSE_BasicLaborAI.description>Test. Fix Later</MSE_BasicLaborAI.description>
+
+
+  <!-- Organ Implants -->
+
+  <MSE_AppetiteSuppressant.label>подавитель аппетита</MSE_AppetiteSuppressant.label>
+  <MSE_AppetiteSuppressant.description>Test. Fix Later</MSE_AppetiteSuppressant.description>
+
+
+</LanguageData>

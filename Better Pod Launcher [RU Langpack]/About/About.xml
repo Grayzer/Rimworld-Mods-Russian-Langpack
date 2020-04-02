@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Better Pod Launcher</name>
+	<author>Kang060302</author>
+	<packageId>kang.berry.BetterPodLauncher</packageId>
+  	<supportedVersions>
+        	<li>1.0</li>
+        	<li>1.1</li>
+ 	</supportedVersions>
+	<description>
+-Ver. 2.0.1	-
+
+Adds More Pod Launcher
+
+-Better Pod Launcher-
+
+Max 200 Fuel
+
+-Super Pod Launcher-
+
+Max 250 Fuel
+
+-Ultra Pod Launcher-
+
+Max 300 Fuel
+
+-Cheap Pod Launcher-
+
+Max 100 Fuel
+charges with steel
+
+-Pod Launcher EX-
+Max 800 Fuel
+Can Place At Inside
+
+------
+(all pod Launcher needs research)
+</description>
+</ModMetaData>

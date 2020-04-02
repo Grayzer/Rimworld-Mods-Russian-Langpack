@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_BionicClavicleModule.label>бионический модуль ключицы</MSE_BionicClavicleModule.label>
+  <MSE_BionicClavicleModule.labelNoun>бионический модуль ключицы</MSE_BionicClavicleModule.labelNoun>
+  <MSE_BionicClavicleModule.description>Это бионический модуль</MSE_BionicClavicleModule.description>
+
+  <MSE_BionicArmModule.label>бионический модуль руки</MSE_BionicArmModule.label>
+  <MSE_BionicArmModule.labelNoun>бионический модуль руки</MSE_BionicArmModule.labelNoun>
+  <MSE_BionicArmModule.comps.1.tools.0.label>fist</MSE_BionicArmModule.comps.1.tools.0.label>
+  <MSE_BionicArmModule.description>Это бионический модуль</MSE_BionicArmModule.description>
+
+  <MSE_BionicHumerusModule.label>бионический модуль предплечья</MSE_BionicHumerusModule.label>
+  <MSE_BionicHumerusModule.labelNoun>бионический модуль предплечья</MSE_BionicHumerusModule.labelNoun>
+  <MSE_BionicHumerusModule.description>Это бионический модуль</MSE_BionicHumerusModule.description>
+
+  <MSE_BionicRadiusModule.label>бионический модуль лучевой кости</MSE_BionicRadiusModule.label>
+  <MSE_BionicRadiusModule.labelNoun>бионический модуль лучевой кости</MSE_BionicRadiusModule.labelNoun>
+  <MSE_BionicRadiusModule.description>Это бионический модуль</MSE_BionicRadiusModule.description>
+
+  <MSE_BionicHandModule.label>бионический модуль ладони</MSE_BionicHandModule.label>
+  <MSE_BionicHandModule.labelNoun>бионический модуль ладони</MSE_BionicHandModule.labelNoun>
+  <MSE_BionicHandModule.comps.1.tools.0.label>claw</MSE_BionicHandModule.comps.1.tools.0.label>
+  <MSE_BionicHandModule.description>Это бионический модуль</MSE_BionicHandModule.description>
+
+  <MSE_BionicFingerModule.label>бионический модуль пальца</MSE_BionicFingerModule.label>
+  <MSE_BionicFingerModule.labelNoun>бионический модуль пальца</MSE_BionicFingerModule.labelNoun>
+  <MSE_BionicFingerModule.comps.1.tools.0.label>puncture</MSE_BionicFingerModule.comps.1.tools.0.label>
+  <MSE_BionicFingerModule.description>Это бионический модуль</MSE_BionicFingerModule.description>
+
+  <MSE_BionicFemurModule.label>бионический модуль бедра</MSE_BionicFemurModule.label>
+  <MSE_BionicFemurModule.labelNoun>бионический модуль бедра</MSE_BionicFemurModule.labelNoun>
+  <MSE_BionicFemurModule.description>Это бионический модуль</MSE_BionicFemurModule.description>
+
+  <MSE_BionicTibiaModule.label>бионический модуль берцовой кости</MSE_BionicTibiaModule.label>
+  <MSE_BionicTibiaModule.labelNoun>бионический модуль берцовой кости</MSE_BionicTibiaModule.labelNoun>
+  <MSE_BionicTibiaModule.description>Это бионический модуль</MSE_BionicTibiaModule.description>
+
+  <MSE_BionicFootModule.label>бионический модуль стопы</MSE_BionicFootModule.label>
+  <MSE_BionicFootModule.labelNoun>бионический модуль стопы</MSE_BionicFootModule.labelNoun>
+  <MSE_BionicFootModule.description>Это бионический модуль</MSE_BionicFootModule.description>
+
+  <MSE_BionicToeModule.label>бионический модуль пальца ноги</MSE_BionicToeModule.label>
+  <MSE_BionicToeModule.labelNoun>бионический модуль пальца ноги</MSE_BionicToeModule.labelNoun>
+  <MSE_BionicToeModule.description>Это бионический модуль</MSE_BionicToeModule.description>
+
+  <MSE_RangedPlatformModule.label>модуль оружия дальнего боя</MSE_RangedPlatformModule.label>
+  <MSE_RangedPlatformModule.labelNoun>модуль оружия дальнего боя</MSE_RangedPlatformModule.labelNoun>
+  <MSE_RangedPlatformModule.description>Это бионический модуль</MSE_RangedPlatformModule.description>
+
+  <MSE_MeleePlatformModule.label>модуль оружия ближнего боя</MSE_MeleePlatformModule.label>
+  <MSE_MeleePlatformModule.labelNoun>модуль оружия ближнего боя</MSE_MeleePlatformModule.labelNoun>
+  <MSE_MeleePlatformModule.description>Это бионический модуль</MSE_MeleePlatformModule.description>
+
+  <MSE_PowerArmModule.label>модуль силовой руки</MSE_PowerArmModule.label>
+  <MSE_PowerArmModule.labelNoun>модуль силовой руки</MSE_PowerArmModule.labelNoun>
+  <MSE_PowerArmModule.comps.1.tools.0.label>fist</MSE_PowerArmModule.comps.1.tools.0.label>
+  <MSE_PowerArmModule.description>Это бионический модуль</MSE_PowerArmModule.description>
+
+  <MSE_PowerClawModule.label>модуль силового когтя</MSE_PowerClawModule.label>
+  <MSE_PowerClawModule.labelNoun>модуль силового когтя</MSE_PowerClawModule.labelNoun>
+  <MSE_PowerClawModule.comps.1.tools.0.label>claw</MSE_PowerClawModule.comps.1.tools.0.label>
+  <MSE_PowerClawModule.description>Это бионический модуль</MSE_PowerClawModule.description>
+
+  <MSE_AdamantiumCoatedBoneModule.label>модуль кости с адамантиевым покрытием</MSE_AdamantiumCoatedBoneModule.label>
+  <MSE_AdamantiumCoatedBoneModule.labelNoun>модуль кости с адамантиевым покрытием</MSE_AdamantiumCoatedBoneModule.labelNoun>
+  <MSE_AdamantiumCoatedBoneModule.description>Это бионический модуль</MSE_AdamantiumCoatedBoneModule.description>
+
+
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bone Implants -->
+
+  <MSE_AdvancedEndoskeletonStimulator.label>продвинутый стимулятор эндоскелета</MSE_AdvancedEndoskeletonStimulator.label>
+  <MSE_AdvancedEndoskeletonStimulator.description>Усовершенствованный имплантат торса, который стимулирует общие мышцы, чтобы они могли работать с максимальной производительностью. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedEndoskeletonStimulator.description>
+
+
+  <!-- Muscle Implants -->
+
+  <MSE_AdvancedMuscleStimulator.label>продвинутый мускульный стимулятор</MSE_AdvancedMuscleStimulator.label>
+  <MSE_AdvancedMuscleStimulator.description>Усовершенствованный мышечный имплантат, который стимулирует общие мышцы, чтобы они могли работать с максимальной производительностью. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedMuscleStimulator.description>
+
+
+  <!-- Brain Implants -->
+
+  <AdvancedJoywire.label>продвинутый чип счастья</AdvancedJoywire.label>
+  <AdvancedJoywire.description>Усовершенствованный мозговой имплантат, который стимулирует центры удовольствия мозга. Это значительно улучшает настроение пользователя без каких-либо побочных эффектов. Продвинутые чипы счастья незаконны во многих мирах и известны тем, что уничтожают целые культуры. Перед установкой требует исследования хирургии имплантатов архотека.</AdvancedJoywire.description>
+
+  <AdvancedPainstopper.label>продвинутый чип обезболиваания</AdvancedPainstopper.label>
+  <AdvancedPainstopper.description>Усовершенствованный мозговой имплантат, который подавляет ноцицепцию или болевые ощущения. В то время как это позволяет пользователю достичь большего, оказывается, что боль имеет цель. Когда ты этого не чувствуешь, тебе очень легко причинить боль. Может быть активирован или деактивирован по желанию пользователя. Перед установкой требует исследования хирургии имплантатов архотека.</AdvancedPainstopper.description>
+
+  <MSE_AdvancedBuilderAI.label>продвинутый ИИ-чип строителя</MSE_AdvancedBuilderAI.label>
+  <MSE_AdvancedBuilderAI.description>Усовершенствованный мозговой имплантат, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для строительства. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedBuilderAI.description>
+
+  <MSE_AdvancedFarmerAI.label>продвинутый ИИ-чип фермера</MSE_AdvancedFarmerAI.label>
+  <MSE_AdvancedFarmerAI.description>Усовершенствованный мозговой имплантат, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для сельского хозяйства. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedFarmerAI.description>
+
+  <MSE_AdvancedDoctorAI.label>продвинутый ИИ-чип медика</MSE_AdvancedDoctorAI.label>
+  <MSE_AdvancedDoctorAI.description>Усовершенствованный мозговой имплантат, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для лечения. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedDoctorAI.description>
+
+  <MSE_AdvancedMinerAI.label>продвинутый ИИ-чип шахтера</MSE_AdvancedMinerAI.label>
+  <MSE_AdvancedMinerAI.description>Усовершенствованный мозговой имплантат, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для рудокопства. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedMinerAI.description>
+
+  <MSE_AdvancedDiplomatAI.label>продвинутый ИИ-чип дипломата</MSE_AdvancedDiplomatAI.label>
+  <MSE_AdvancedDiplomatAI.description>Усовершенствованный мозговой имплантат, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для дипломатии. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedDiplomatAI.description>
+
+  <MSE_AdvancedTamerAI.label>продвинутый ИИ-чип дресировщика</MSE_AdvancedTamerAI.label>
+  <MSE_AdvancedTamerAI.description>Усовершенствованный мозговой имплантат, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для приручения. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedTamerAI.description>
+
+  <MSE_AdvancedChefAI.label>продвинутый ИИ-чип повара</MSE_AdvancedChefAI.label>
+  <MSE_AdvancedChefAI.description>Усовершенствованный мозговой имплантат, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для приготовления пищи. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedChefAI.description>
+
+  <MSE_AdvancedHunterAI.label>продвинутый ИИ-чип охотника</MSE_AdvancedHunterAI.label>
+  <MSE_AdvancedHunterAI.description>Усовершенствованный мозговой имплантат, содержащий ИИ. Способен общаться с мозгом пользователя и выступать в качестве руководства для охоты. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedHunterAI.description>
+
+  <MSE_AdvancedLaborAI.label>продвинутый ИИ-чип ремесла</MSE_AdvancedLaborAI.label>
+  <MSE_AdvancedLaborAI.description>Усовершенствованный мозговой имплантат, содержащий ИИ. Способен общаться с мозгом пользователя и служить руководством для продвинутого неквалифицированного труда. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedLaborAI.description>
+
+
+  <!-- Organ Implants -->
+
+  <MSE_AdvancedAppetiteSuppressant.label>продвинутый подавитель аппетита</MSE_AdvancedAppetiteSuppressant.label>
+  <MSE_AdvancedAppetiteSuppressant.description>Продвинутый желудочный имплантат, который подавляет чувство голода. Перед установкой требует исследования хирургии имплантатов архотека.</MSE_AdvancedAppetiteSuppressant.description>
+
+
+</LanguageData>

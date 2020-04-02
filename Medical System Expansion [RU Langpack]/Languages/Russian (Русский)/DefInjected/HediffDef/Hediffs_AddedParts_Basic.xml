@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PegLeg.label>деревянная нога</PegLeg.label>
+  <PegLeg.labelNoun>деревянная нога</PegLeg.labelNoun>
+  <PegLeg.description>Очень плохая искусственная часть тела.</PegLeg.description>
+
+  <WoodenFoot.label>деревянная стопа</WoodenFoot.label>
+  <WoodenFoot.labelNoun>деревянная стопа</WoodenFoot.labelNoun>
+  <WoodenFoot.description>Очень плохая искусственная часть тела.</WoodenFoot.description>
+
+  <Denture.label>зубы</Denture.label>
+  <Denture.labelNoun>зубы</Denture.labelNoun>
+  <Denture.description>Очень плохая искусственная часть тела.</Denture.description>
+
+
+  <!-- Basic Parts -->
+
+  <WoodenToe.label>деревянный палец ноги</WoodenToe.label>
+  <WoodenToe.labelNoun>деревянный палец ноги</WoodenToe.labelNoun>
+  <WoodenToe.description>Очень плохая искусственная часть тела.</WoodenToe.description>
+
+  <WoodenArm.label>деревянная рука</WoodenArm.label>
+  <WoodenArm.labelNoun>деревянная рука</WoodenArm.labelNoun>
+  <WoodenArm.description>Очень плохая искусственная часть тела.</WoodenArm.description>
+
+  <HookHand.label>рука-крюк</HookHand.label>
+  <HookHand.labelNoun>рука-крюк</HookHand.labelNoun>
+  <HookHand.description>Очень плохая искусственная часть тела.</HookHand.description>
+
+  <WoodenFinger.label>деревянный палец</WoodenFinger.label>
+  <WoodenFinger.labelNoun>деревянный палец</WoodenFinger.labelNoun>
+  <WoodenFinger.description>Очень плохая искусственная часть тела.</WoodenFinger.description>
+
+  <Eyepatch.label>повязка на глаз</Eyepatch.label>
+  <Eyepatch.labelNoun>повязка на глаз</Eyepatch.labelNoun>
+  <Eyepatch.description>Очень плохая искусственная часть тела.</Eyepatch.description>
+
+  <WoodenEar.label>деревянное ухо</WoodenEar.label>
+  <WoodenEar.labelNoun>деревянное ухо</WoodenEar.labelNoun>
+  <WoodenEar.description>Очень плохая искусственная часть тела.</WoodenEar.description>
+
+  <WoodenNose.label>деревянный нос</WoodenNose.label>
+  <WoodenNose.labelNoun>деревянный нос</WoodenNose.labelNoun>
+  <WoodenNose.description>Очень плохая искусственная часть тела.</WoodenNose.description>
+
+
+</LanguageData>

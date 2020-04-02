@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <P1BetterLunchPods.label>Хорошая стартовая площадка</P1BetterLunchPods.label>
+
+  <P1BetterLunchPods.description>Вы можете сделать хорошую стартовую площадку. (Максимальное топливо: 200)</P1BetterLunchPods.description>
+
+
+  <P2BetterLunchPods.label>Супер стартовая площадка</P2BetterLunchPods.label>
+
+  <P2BetterLunchPods.description>Вы сможете создать супер стартовую площадку. (Максимальное топливо: 250)</P2BetterLunchPods.description>
+
+
+  <P3-1BetterLunchPods.label>Идеальная стартовая площадка</P3-1BetterLunchPods.label>
+
+  <P3-1BetterLunchPods.description>Вы сможете построить идеальную стартовую площадку. (Максимальное топливо: 300)</P3-1BetterLunchPods.description>
+
+
+  <P3-2BetterLunchPods.label>Стальная стартовая площадка</P3-2BetterLunchPods.label>
+
+  <P3-2BetterLunchPods.description>Вы сможете построить стальную стартовую площадку. (Максимальное топливо: 100, использует сталь вместо топлива)</P3-2BetterLunchPods.description>
+
+   <BPLEX_Re.label>Стартовая площадка EX</BPLEX_Re.label>
+
+  <BPLEX_Re.description>Вы сможете построить стартовую площадку EX. (Макс. Топливо: 800, можно установить в доме)</BPLEX_Re.description>
+
+
+</LanguageData>

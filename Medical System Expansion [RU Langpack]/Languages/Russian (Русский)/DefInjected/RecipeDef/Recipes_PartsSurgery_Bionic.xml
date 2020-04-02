@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallBionicEye.label>установить бионический глаз</InstallBionicEye.label>
+  <InstallBionicEye.description>Установить бионический глаз.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Установка бионического глаза.</InstallBionicEye.jobString>
+
+  <InstallBionicArm.label>установить бионическую руку</InstallBionicArm.label>
+  <InstallBionicArm.description>Установить бионическую руку.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Установка бионической руки.</InstallBionicArm.jobString>
+
+  <InstallBionicLeg.label>установить бионическую ногу</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Установить бионическую ногу.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Установка бионической ноги.</InstallBionicLeg.jobString>
+
+  <InstallBionicSpine.label>установить бионический позвоночник</InstallBionicSpine.label>
+  <InstallBionicSpine.description>Установить бионический позвоночник.</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>Установка бионического позвоночника.</InstallBionicSpine.jobString>
+
+  <InstallBionicHeart.label>установить бионическое сердце</InstallBionicHeart.label>
+  <InstallBionicHeart.description>Установить бионическое сердце.</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>Установка бионического сердца.</InstallBionicHeart.jobString>
+
+  <InstallBionicStomach.label>установить бионический желудок</InstallBionicStomach.label>
+  <InstallBionicStomach.description>Установить бионический желудок.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>Установка бионического желудка.</InstallBionicStomach.jobString>
+
+  <InstallBionicEar.label>установить бионическое ухо</InstallBionicEar.label>
+  <InstallBionicEar.description>Установить бионическое ухо.</InstallBionicEar.description>
+  <InstallBionicEar.jobString>Установка бионического уха.</InstallBionicEar.jobString>
+
+  <InstallPowerClaw.label>установить силовой коготь</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Установить силовой коготь.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Установка силового когтя.</InstallPowerClaw.jobString>
+
+
+  <!-- Bionic Organs -->
+
+  <InstallBionicLung.label>установить бионическое легкое</InstallBionicLung.label>
+  <InstallBionicLung.description>Установить бионическое легкое.</InstallBionicLung.description>
+  <InstallBionicLung.jobString>Установка бионического легкого.</InstallBionicLung.jobString>
+
+  <InstallBionicKidney.label>установить бионическую почку</InstallBionicKidney.label>
+  <InstallBionicKidney.description>Установить бионическую почку.</InstallBionicKidney.description>
+  <InstallBionicKidney.jobString>Установка бионической почки.</InstallBionicKidney.jobString>
+
+  <InstallBionicLiver.label>установить бионическую печень</InstallBionicLiver.label>
+  <InstallBionicLiver.description>Установить бионическую печень.</InstallBionicLiver.description>
+  <InstallBionicLiver.jobString>Установка бионической печени.</InstallBionicLiver.jobString>
+
+
+  <!-- Bionic Limbs -->
+
+  <InstallBionicFoot.label>установить бионическую ступню</InstallBionicFoot.label>
+  <InstallBionicFoot.description>Установить бионическую ступню.</InstallBionicFoot.description>
+  <InstallBionicFoot.jobString>Установка бионической ступни.</InstallBionicFoot.jobString>
+
+  <InstallBionicToe.label>установить бионический палец ноги</InstallBionicToe.label>
+  <InstallBionicToe.description>Установить бионический палец ноги.</InstallBionicToe.description>
+  <InstallBionicToe.jobString>Установка бионическго пальца ноги.</InstallBionicToe.jobString>
+
+  <InstallBionicShoulder.label>установить бионическое плечо</InstallBionicShoulder.label>
+  <InstallBionicShoulder.description>Установить бионическое плечо.</InstallBionicShoulder.description>
+  <InstallBionicShoulder.jobString>Установка бионического плеча.</InstallBionicShoulder.jobString>
+
+  <InstallBionicHand.label>установить бионическую ладонь</InstallBionicHand.label>
+  <InstallBionicHand.description>Установить бионическую ладонь.</InstallBionicHand.description>
+  <InstallBionicHand.jobString>Установка бионической ладони.</InstallBionicHand.jobString>
+
+  <InstallBionicFinger.label>установить бионический палец</InstallBionicFinger.label>
+  <InstallBionicFinger.description>Установить бионический палец.</InstallBionicFinger.description>
+  <InstallBionicFinger.jobString>Установка бионического пальца.</InstallBionicFinger.jobString>
+
+  <InstallBionicJaw.label>установить бионическую челюсть</InstallBionicJaw.label>
+  <InstallBionicJaw.description>Установить бионическую челюсть.</InstallBionicJaw.description>
+  <InstallBionicJaw.jobString>Установка бионической челюсти.</InstallBionicJaw.jobString>
+
+
+  <!-- Bionic Bones -->
+
+  <InstallBionicClavicle.label>установить бионическую ключицу</InstallBionicClavicle.label>
+  <InstallBionicClavicle.description>Установить бионическую ключицу.</InstallBionicClavicle.description>
+  <InstallBionicClavicle.jobString>Установка бионической ключицы.</InstallBionicClavicle.jobString>
+
+  <InstallBionicSternum.label>установить бионическую грудину</InstallBionicSternum.label>
+  <InstallBionicSternum.description>Установить бионическую грудину.</InstallBionicSternum.description>
+  <InstallBionicSternum.jobString>Установка бионической грудины.</InstallBionicSternum.jobString>
+
+  <InstallBionicRib.label>установить бионическое ребро</InstallBionicRib.label>
+  <InstallBionicRib.description>Установить бионическое ребро.</InstallBionicRib.description>
+  <InstallBionicRib.jobString>Установка бионического ребра.</InstallBionicRib.jobString>
+
+  <InstallBionicPelvis.label>установить бионический таз</InstallBionicPelvis.label>
+  <InstallBionicPelvis.description>Установить бионический таз.</InstallBionicPelvis.description>
+  <InstallBionicPelvis.jobString>Установка бионического таза.</InstallBionicPelvis.jobString>
+
+  <InstallBionicHumerus.label>установить бионическое предплечье</InstallBionicHumerus.label>
+  <InstallBionicHumerus.description>Установить бионическое предплечье.</InstallBionicHumerus.description>
+  <InstallBionicHumerus.jobString>Установка бионического предплечья.</InstallBionicHumerus.jobString>
+
+  <InstallBionicRadius.label>установить бионическую лучевую кость</InstallBionicRadius.label>
+  <InstallBionicRadius.description>Установить бионическую лучевую кость.</InstallBionicRadius.description>
+  <InstallBionicRadius.jobString>Установка бионической лучевой кости.</InstallBionicRadius.jobString>
+
+  <InstallBionicFemur.label>установить бионическое бедро</InstallBionicFemur.label>
+  <InstallBionicFemur.description>Установить бионическое бедро.</InstallBionicFemur.description>
+  <InstallBionicFemur.jobString>Установка бионического бедра.</InstallBionicFemur.jobString>
+
+  <InstallBionicTibia.label>установить бионическую берцовую кость</InstallBionicTibia.label>
+  <InstallBionicTibia.description>Установить бионическую берцовую кость.</InstallBionicTibia.description>
+  <InstallBionicTibia.jobString>Установка бионической берцовой кости.</InstallBionicTibia.jobString>
+
+
+  <!-- Special Bionics -->
+
+  <InstallAntitoxinKidney.label>установить антитоксиновую почку</InstallAntitoxinKidney.label>
+  <InstallAntitoxinKidney.description>Установить антитоксиновую почку.</InstallAntitoxinKidney.description>
+  <InstallAntitoxinKidney.jobString>Установка антитоксиновой почки.</InstallAntitoxinKidney.jobString>
+
+  <InstallMedicalLiver.label>установить медик-печень</InstallMedicalLiver.label>
+  <InstallMedicalLiver.description>Установить медик-печень.</InstallMedicalLiver.description>
+  <InstallMedicalLiver.jobString>Установка медик-печени.</InstallMedicalLiver.jobString>
+
+  <InstallEnergizedLiver.label>установить энерго-печень</InstallEnergizedLiver.label>
+  <InstallEnergizedLiver.description>Установить энерго-печень.</InstallEnergizedLiver.description>
+  <InstallEnergizedLiver.jobString>Установка энерго-печени.</InstallEnergizedLiver.jobString>
+
+  <InstallPowerArm.label>установить силовую руку</InstallPowerArm.label>
+  <InstallPowerArm.description>Установить силовую руку.</InstallPowerArm.description>
+  <InstallPowerArm.jobString>Установка силовой руки.</InstallPowerArm.jobString>
+
+  <MSE_InstallPowerBlade.label>установить силовое лезвие</MSE_InstallPowerBlade.label>
+  <MSE_InstallPowerBlade.description>Установить силовое лезвие.</MSE_InstallPowerBlade.description>
+  <MSE_InstallPowerBlade.jobString>Установка силового лезвия.</MSE_InstallPowerBlade.jobString>
+
+  <InstallBreathingSupportRib.label>установить ребро поддержки дыхания</InstallBreathingSupportRib.label>
+  <InstallBreathingSupportRib.description>Установить ребро поддержки дыхания.</InstallBreathingSupportRib.description>
+  <InstallBreathingSupportRib.jobString>Установка ребра поддержки дыхания.</InstallBreathingSupportRib.jobString>
+
+  <InstallRelaxationRib.label>установить ребро релаксации</InstallRelaxationRib.label>
+  <InstallRelaxationRib.description>Установить ребро релаксации.</InstallRelaxationRib.description>
+  <InstallRelaxationRib.jobString>Установка ребра релаксации.</InstallRelaxationRib.jobString>
+
+  <InstallColdRegulatorRib.label>установить ребро морозоустойчивости</InstallColdRegulatorRib.label>
+  <InstallColdRegulatorRib.description>Установить ребро морозоустойчивости.</InstallColdRegulatorRib.description>
+  <InstallColdRegulatorRib.jobString>Установка ребра морозоустойчивости.</InstallColdRegulatorRib.jobString>
+
+  <InstallHeatRegulatorRib.label>установить ребро жаростойкости</InstallHeatRegulatorRib.label>
+  <InstallHeatRegulatorRib.description>Установить ребро жаростойкости.</InstallHeatRegulatorRib.description>
+  <InstallHeatRegulatorRib.jobString>Установка ребра жаростойкости.</InstallHeatRegulatorRib.jobString>
+
+
+</LanguageData>

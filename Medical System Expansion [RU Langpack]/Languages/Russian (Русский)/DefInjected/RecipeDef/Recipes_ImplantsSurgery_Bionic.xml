@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallJoywire.label>установить чип счастья</InstallJoywire.label>
+  <InstallJoywire.description>Установить чип счастья.</InstallJoywire.description>
+  <InstallJoywire.jobString>Установка чипа счастья.</InstallJoywire.jobString>
+
+  <InstallPainstopper.label>установить чип обезболивания</InstallPainstopper.label>
+  <InstallPainstopper.description>Установить чип обезболивания.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Установка чипа обезболивания.</InstallPainstopper.jobString>
+
+
+  <!-- Bone Implants -->
+
+  <MSE_InstallEndoskeletonStimulator.label>установить стимулятор эндоскелета</MSE_InstallEndoskeletonStimulator.label>
+  <MSE_InstallEndoskeletonStimulator.description>Установить стимулятор эндоскелета.</MSE_InstallEndoskeletonStimulator.description>
+  <MSE_InstallEndoskeletonStimulator.jobString>Установка стимулятора эндоскелета.</MSE_InstallEndoskeletonStimulator.jobString>
+
+
+  <!-- Muscle Implants -->
+
+  <MSE_InstallArmMuscleStimulator.label>установить мускульный стимулятор руки</MSE_InstallArmMuscleStimulator.label>
+  <MSE_InstallArmMuscleStimulator.description>Установить мускульный стимулятор руки.</MSE_InstallArmMuscleStimulator.description>
+  <MSE_InstallArmMuscleStimulator.jobString>Установка мускульного стимулятора руки.</MSE_InstallArmMuscleStimulator.jobString>
+
+  <MSE_InstallLegMuscleStimulator.label>установить мускульный стимулятор ноги</MSE_InstallLegMuscleStimulator.label>
+  <MSE_InstallLegMuscleStimulator.description>Установить мускульный стимулятор ноги.</MSE_InstallLegMuscleStimulator.description>
+  <MSE_InstallLegMuscleStimulator.jobString>Установка мускульного стимулятора ноги.</MSE_InstallLegMuscleStimulator.jobString>
+
+
+  <!-- Brain Implants -->
+
+  <MSE_InstallBuilderAI.label>установить ИИ-чип строителя</MSE_InstallBuilderAI.label>
+  <MSE_InstallBuilderAI.description>Установить ИИ-чип строителя.</MSE_InstallBuilderAI.description>
+  <MSE_InstallBuilderAI.jobString>Установка ИИ-чипа строителя.</MSE_InstallBuilderAI.jobString>
+
+  <MSE_InstallFarmerAI.label>установить ИИ-чип фермера</MSE_InstallFarmerAI.label>
+  <MSE_InstallFarmerAI.description>Установить ИИ-чип фермера.</MSE_InstallFarmerAI.description>
+  <MSE_InstallFarmerAI.jobString>Установка ИИ-чипа фермера.</MSE_InstallFarmerAI.jobString>
+
+  <MSE_InstallDoctorAI.label>установить ИИ-чип медика</MSE_InstallDoctorAI.label>
+  <MSE_InstallDoctorAI.description>Установить ИИ-чип медика.</MSE_InstallDoctorAI.description>
+  <MSE_InstallDoctorAI.jobString>Установка ИИ-чипа медика.</MSE_InstallDoctorAI.jobString>
+
+  <MSE_InstallMinerAI.label>установить ИИ-чип шахтера</MSE_InstallMinerAI.label>
+  <MSE_InstallMinerAI.description>Установить ИИ-чип шахтера.</MSE_InstallMinerAI.description>
+  <MSE_InstallMinerAI.jobString>Установка ИИ-чипа шахтера.</MSE_InstallMinerAI.jobString>
+
+  <MSE_InstallDiplomatAI.label>установить ИИ-чип дипломата</MSE_InstallDiplomatAI.label>
+  <MSE_InstallDiplomatAI.description>Установить ИИ-чип дипломата.</MSE_InstallDiplomatAI.description>
+  <MSE_InstallDiplomatAI.jobString>Установка ИИ-чипа дипломата.</MSE_InstallDiplomatAI.jobString>
+
+  <MSE_InstallTamerAI.label>установить ИИ-чип дресировщика</MSE_InstallTamerAI.label>
+  <MSE_InstallTamerAI.description>Установить ИИ-чип дресировщика.</MSE_InstallTamerAI.description>
+  <MSE_InstallTamerAI.jobString>Установка ИИ-чипа дресировщика.</MSE_InstallTamerAI.jobString>
+
+  <MSE_InstallChefAI.label>установить ИИ-чип повара</MSE_InstallChefAI.label>
+  <MSE_InstallChefAI.description>Установить ИИ-чип повара.</MSE_InstallChefAI.description>
+  <MSE_InstallChefAI.jobString>Установка ИИ-чипа повара.</MSE_InstallChefAI.jobString>
+
+  <MSE_InstallHunterAI.label>установить ИИ-чип охотника</MSE_InstallHunterAI.label>
+  <MSE_InstallHunterAI.description>Установить ИИ-чип охотника.</MSE_InstallHunterAI.description>
+  <MSE_InstallHunterAI.jobString>Установка ИИ-чипа охотника.</MSE_InstallHunterAI.jobString>
+
+  <MSE_InstallBasicLaborAI.label>установить ИИ-чип ремесла</MSE_InstallBasicLaborAI.label>
+  <MSE_InstallBasicLaborAI.description>Установить ИИ-чип ремесла.</MSE_InstallBasicLaborAI.description>
+  <MSE_InstallBasicLaborAI.jobString>Установка ИИ-чипа ремесла.</MSE_InstallBasicLaborAI.jobString>
+
+  <MSE_InstallAppetiteSuppressant.label>установить подавитель аппетита</MSE_InstallAppetiteSuppressant.label>
+  <MSE_InstallAppetiteSuppressant.description>Установить подавитель аппетита.</MSE_InstallAppetiteSuppressant.description>
+  <MSE_InstallAppetiteSuppressant.jobString>Установка подавителя аппетита.</MSE_InstallAppetiteSuppressant.jobString>
+
+
+</LanguageData>

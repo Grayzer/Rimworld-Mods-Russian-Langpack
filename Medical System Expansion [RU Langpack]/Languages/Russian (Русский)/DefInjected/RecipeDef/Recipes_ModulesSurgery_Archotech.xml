@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_InstallArchotechClavicleModule.label>установить архотек модуль ключицы</MSE_InstallArchotechClavicleModule.label>
+  <MSE_InstallArchotechClavicleModule.description>Установить модуль ключицы.</MSE_InstallArchotechClavicleModule.description>
+  <MSE_InstallArchotechClavicleModule.jobString>Установка архотек модуля ключицы.</MSE_InstallArchotechClavicleModule.jobString>
+
+  <MSE_InstallArchotechArmModule.label>установить архотек модуль руки</MSE_InstallArchotechArmModule.label>
+  <MSE_InstallArchotechArmModule.description>Установить архотек модуль руки.</MSE_InstallArchotechArmModule.description>
+  <MSE_InstallArchotechArmModule.jobString>Установка архотек модуля руки.</MSE_InstallArchotechArmModule.jobString>
+
+  <MSE_InstallArchotechHumerusModule.label>установить архотек модуль предплечья</MSE_InstallArchotechHumerusModule.label>
+  <MSE_InstallArchotechHumerusModule.description>Установить архотек модуль предплечья.</MSE_InstallArchotechHumerusModule.description>
+  <MSE_InstallArchotechHumerusModule.jobString>Установка архотек модуля предплечья.</MSE_InstallArchotechHumerusModule.jobString>
+
+  <MSE_InstallArchotechRadiusModule.label>установить архотек модуль лучевой кости</MSE_InstallArchotechRadiusModule.label>
+  <MSE_InstallArchotechRadiusModule.description>Установить архотек модуль лучевой кости.</MSE_InstallArchotechRadiusModule.description>
+  <MSE_InstallArchotechRadiusModule.jobString>Установка архотек модуля лучевой кости.</MSE_InstallArchotechRadiusModule.jobString>
+
+  <MSE_InstallArchotechHandModule.label>установить архотек модуль ладони</MSE_InstallArchotechHandModule.label>
+  <MSE_InstallArchotechHandModule.description>Установить архотек модуль ладони.</MSE_InstallArchotechHandModule.description>
+  <MSE_InstallArchotechHandModule.jobString>Установка архотек модуля ладони.</MSE_InstallArchotechHandModule.jobString>
+
+  <MSE_InstallArchotechFingerModule.label>установить архотек модуль пальца</MSE_InstallArchotechFingerModule.label>
+  <MSE_InstallArchotechFingerModule.description>Установить архотек модуль пальца.</MSE_InstallArchotechFingerModule.description>
+  <MSE_InstallArchotechFingerModule.jobString>Установка архотек модуля пальца.</MSE_InstallArchotechFingerModule.jobString>
+
+  <MSE_InstallArchotechFemurModule.label>установить архотек модуль бедра</MSE_InstallArchotechFemurModule.label>
+  <MSE_InstallArchotechFemurModule.description>Установить архотек модуль бедра.</MSE_InstallArchotechFemurModule.description>
+  <MSE_InstallArchotechFemurModule.jobString>Установка архотек модуля бедра.</MSE_InstallArchotechFemurModule.jobString>
+
+  <MSE_InstallArchotechTibiaModule.label>установить архотек модуль берцовой кости</MSE_InstallArchotechTibiaModule.label>
+  <MSE_InstallArchotechTibiaModule.description>Установить архотек модуль берцовой кости.</MSE_InstallArchotechTibiaModule.description>
+  <MSE_InstallArchotechTibiaModule.jobString>Установка аархотек модуля берцовой кости.</MSE_InstallArchotechTibiaModule.jobString>
+
+  <MSE_InstallArchotechFootModule.label>установить архотек модуль стопы</MSE_InstallArchotechFootModule.label>
+  <MSE_InstallArchotechFootModule.description>Установить архотек модуль стопы.</MSE_InstallArchotechFootModule.description>
+  <MSE_InstallArchotechFootModule.jobString>Установка архотек модуля стопы.</MSE_InstallArchotechFootModule.jobString>
+
+  <MSE_InstallArchotechToeModule.label>установить архотек модуль пальца ноги</MSE_InstallArchotechToeModule.label>
+  <MSE_InstallArchotechToeModule.description>Установить архотек модуль пальца ноги.</MSE_InstallArchotechToeModule.description>
+  <MSE_InstallArchotechToeModule.jobString>Установка архотек модуля пальца ноги.</MSE_InstallArchotechToeModule.jobString>
+
+
+  <!-- Archotech Special Modules -->
+
+  <MSE_InstallAdvancedRangedPlatformModule.label>установить продвинутый модуль оружия дальнего боя</MSE_InstallAdvancedRangedPlatformModule.label>
+  <MSE_InstallAdvancedRangedPlatformModule.description>Установить продвинутый модуль оружия дальнего боя.</MSE_InstallAdvancedRangedPlatformModule.description>
+  <MSE_InstallAdvancedRangedPlatformModule.jobString>Установка продвинутого модуля оружия дальнего боя.</MSE_InstallAdvancedRangedPlatformModule.jobString>
+
+  <MSE_InstallAdvancedMeleePlatformModule.label>установить продвинутый модуль оружия ближнего боя</MSE_InstallAdvancedMeleePlatformModule.label>
+  <MSE_InstallAdvancedMeleePlatformModule.description>Установить продвинутый модуль оружия ближнего боя.</MSE_InstallAdvancedMeleePlatformModule.description>
+  <MSE_InstallAdvancedMeleePlatformModule.jobString>Установка продвинутого модуля оружия ближнего боя.</MSE_InstallAdvancedMeleePlatformModule.jobString>
+
+  <MSE_InstallAdvancedPowerArmModule.label>установить продвинутый модуль силовой руки</MSE_InstallAdvancedPowerArmModule.label>
+  <MSE_InstallAdvancedPowerArmModule.description>Установить продвинутый модуль силовой руки.</MSE_InstallAdvancedPowerArmModule.description>
+  <MSE_InstallAdvancedPowerArmModule.jobString>Установка продвинутого модуля силовой руки.</MSE_InstallAdvancedPowerArmModule.jobString>
+
+  <MSE_InstallAdvancedPowerClawModule.label>установить продвинутый модуль силового когтя</MSE_InstallAdvancedPowerClawModule.label>
+  <MSE_InstallAdvancedPowerClawModule.description>Установить продвинутый модуль силового когтя.</MSE_InstallAdvancedPowerClawModule.description>
+  <MSE_InstallAdvancedPowerClawModule.jobString>Установка продвинутого модуля силового когтя.</MSE_InstallAdvancedPowerClawModule.jobString>
+
+  <MSE_InstallAdamantiumBoneModule.label>установить модуль адамантиевой кости</MSE_InstallAdamantiumBoneModule.label>
+  <MSE_InstallAdamantiumBoneModule.description>Установить модуль адамантиевой кости.</MSE_InstallAdamantiumBoneModule.description>
+  <MSE_InstallAdamantiumBoneModule.jobString>Установка модуля адамантиевой кости.</MSE_InstallAdamantiumBoneModule.jobString>
+
+
+</LanguageData>

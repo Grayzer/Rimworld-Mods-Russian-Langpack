@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bone Implants -->
+
+  <MSE_InstallAdvancedEndoskeletonStimulator.label>установить продвинутый стимулятор эндоскелета</MSE_InstallAdvancedEndoskeletonStimulator.label>
+  <MSE_InstallAdvancedEndoskeletonStimulator.description>Установить продвинутый стимулятор эндоскелета.</MSE_InstallAdvancedEndoskeletonStimulator.description>
+  <MSE_InstallAdvancedEndoskeletonStimulator.jobString>Установка продвинутого стимулятора эндоскелета.</MSE_InstallAdvancedEndoskeletonStimulator.jobString>
+
+
+  <!-- Muscle Implants -->
+
+  <MSE_InstallAdvancedArmMuscleStimulator.label>установить продвинутый мускульный стимулятор руки</MSE_InstallAdvancedArmMuscleStimulator.label>
+  <MSE_InstallAdvancedArmMuscleStimulator.description>Установить продвинутый мускульный стимулятор руки.</MSE_InstallAdvancedArmMuscleStimulator.description>
+  <MSE_InstallAdvancedArmMuscleStimulator.jobString>Установка продвинутого мускульного стимулятора руки.</MSE_InstallAdvancedArmMuscleStimulator.jobString>
+
+  <MSE_InstallAdvancedLegMuscleStimulator.label>установить продвинутый мускульный стимулятор ноги</MSE_InstallAdvancedLegMuscleStimulator.label>
+  <MSE_InstallAdvancedLegMuscleStimulator.description>Установить продвинутый мускульный стимулятор ноги.</MSE_InstallAdvancedLegMuscleStimulator.description>
+  <MSE_InstallAdvancedLegMuscleStimulator.jobString>Установка продвинутого мускульного стимулятора ноги.</MSE_InstallAdvancedLegMuscleStimulator.jobString>
+
+
+  <!-- Brain Implants -->
+
+  <InstallAdvancedJoywire.label>установить продвинутый чип счастья</InstallAdvancedJoywire.label>
+  <InstallAdvancedJoywire.description>Установить продвинутый чип счастья.</InstallAdvancedJoywire.description>
+  <InstallAdvancedJoywire.jobString>Установка продвинутого чипа счастья.</InstallAdvancedJoywire.jobString>
+
+  <InstallAdvancedPainstopper.label>установить продвинутый чип обезболиваания</InstallAdvancedPainstopper.label>
+  <InstallAdvancedPainstopper.description>Установить продвинутый чип обезболиваания.</InstallAdvancedPainstopper.description>
+  <InstallAdvancedPainstopper.jobString>Установка продвинутого чипа обезболиваания.</InstallAdvancedPainstopper.jobString>
+
+  <MSE_InstallAdvancedBuilderAI.label>установить продвинутый ИИ-чип строителя</MSE_InstallAdvancedBuilderAI.label>
+  <MSE_InstallAdvancedBuilderAI.description>Установить продвинутый ИИ-чип строителя.</MSE_InstallAdvancedBuilderAI.description>
+  <MSE_InstallAdvancedBuilderAI.jobString>Установка продвинутого ИИ-чипа строителя.</MSE_InstallAdvancedBuilderAI.jobString>
+
+  <MSE_InstallAdvancedFarmerAI.label>установить продвинутый ИИ-чип фермера</MSE_InstallAdvancedFarmerAI.label>
+  <MSE_InstallAdvancedFarmerAI.description>Установить продвинутый ИИ-чип фермера.</MSE_InstallAdvancedFarmerAI.description>
+  <MSE_InstallAdvancedFarmerAI.jobString>Установка продвинутого ИИ-чипа фермера.</MSE_InstallAdvancedFarmerAI.jobString>
+
+  <MSE_InstallAdvancedDoctorAI.label>установить продвинутый ИИ-чип медика</MSE_InstallAdvancedDoctorAI.label>
+  <MSE_InstallAdvancedDoctorAI.description>Установить продвинутый ИИ-чип медика.</MSE_InstallAdvancedDoctorAI.description>
+  <MSE_InstallAdvancedDoctorAI.jobString>Установка продвинутого ИИ-чипа медика.</MSE_InstallAdvancedDoctorAI.jobString>
+
+  <MSE_InstallAdvancedMinerAI.label>установить продвинутый ИИ-чип шахтера</MSE_InstallAdvancedMinerAI.label>
+  <MSE_InstallAdvancedMinerAI.description>Установить продвинутый ИИ-чип шахтера.</MSE_InstallAdvancedMinerAI.description>
+  <MSE_InstallAdvancedMinerAI.jobString>Установка продвинутого ИИ-чипа шахтера.</MSE_InstallAdvancedMinerAI.jobString>
+
+  <MSE_InstallAdvancedDiplomatAI.label>установить продвинутый ИИ-чип дипломата</MSE_InstallAdvancedDiplomatAI.label>
+  <MSE_InstallAdvancedDiplomatAI.description>Установить продвинутый ИИ-чип дипломата.</MSE_InstallAdvancedDiplomatAI.description>
+  <MSE_InstallAdvancedDiplomatAI.jobString>Установка продвинутого ИИ-чипа дипломата.</MSE_InstallAdvancedDiplomatAI.jobString>
+
+  <MSE_InstallAdvancedTamerAI.label>установить продвинутый ИИ-чип дресировщика</MSE_InstallAdvancedTamerAI.label>
+  <MSE_InstallAdvancedTamerAI.description>Установить продвинутый ИИ-чип дресировщика.</MSE_InstallAdvancedTamerAI.description>
+  <MSE_InstallAdvancedTamerAI.jobString>Установка продвинутого ИИ-чипа дресировщика.</MSE_InstallAdvancedTamerAI.jobString>
+
+  <MSE_InstallAdvancedChefAI.label>установить продвинутый ИИ-чип повара</MSE_InstallAdvancedChefAI.label>
+  <MSE_InstallAdvancedChefAI.description>Установить продвинутый ИИ-чип повара.</MSE_InstallAdvancedChefAI.description>
+  <MSE_InstallAdvancedChefAI.jobString>Установка продвинутого ИИ-чипа повара.</MSE_InstallAdvancedChefAI.jobString>
+
+  <MSE_InstallAdvancedHunterAI.label>установить продвинутый ИИ-чип охотника</MSE_InstallAdvancedHunterAI.label>
+  <MSE_InstallAdvancedHunterAI.description>Установить продвинутый ИИ-чип охотника.</MSE_InstallAdvancedHunterAI.description>
+  <MSE_InstallAdvancedHunterAI.jobString>Установка продвинутого ИИ-чипа охотника.</MSE_InstallAdvancedHunterAI.jobString>
+
+  <MSE_InstallAdvancedLaborAI.label>установить продвинутый ИИ-чип ремесла</MSE_InstallAdvancedLaborAI.label>
+  <MSE_InstallAdvancedLaborAI.description>Установить продвинутый ИИ-чип ремесла.</MSE_InstallAdvancedLaborAI.description>
+  <MSE_InstallAdvancedLaborAI.jobString>Установка продвинутого ИИ-чипа ремесла.</MSE_InstallAdvancedLaborAI.jobString>
+
+  <MSE_InstallAdvancedAppetiteSuppressant.label>установить продвинутый подавитель аппетита</MSE_InstallAdvancedAppetiteSuppressant.label>
+  <MSE_InstallAdvancedAppetiteSuppressant.description>Установить продвинутый подавитель аппетита.</MSE_InstallAdvancedAppetiteSuppressant.description>
+  <MSE_InstallAdvancedAppetiteSuppressant.jobString>Установка ппродвинутого подавителя аппетита.</MSE_InstallAdvancedAppetiteSuppressant.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SimpleProstheticLeg.label>протез ноги</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>протез ноги</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.description>Это примитивный протез части тела.</SimpleProstheticLeg.description>
+
+  <SimpleProstheticArm.label>протез руки</SimpleProstheticArm.label>
+  <SimpleProstheticArm.labelNoun>протез руки</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.description>Это примитивный протез части тела.</SimpleProstheticArm.description>
+
+  <SimpleProstheticHeart.label>протез сердца</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>протез сердца</SimpleProstheticHeart.labelNoun>
+  <SimpleProstheticHeart.description>Это примитивный протез органа.</SimpleProstheticHeart.description>
+
+  <CochlearImplant.label>кохлеарный имплант</CochlearImplant.label>
+  <CochlearImplant.labelNoun>кохлеарный имплант</CochlearImplant.labelNoun>
+  <CochlearImplant.description>Это примитивный протез части тела.</CochlearImplant.description>
+
+
+  <!-- Simple Prosthetic Parts -->
+
+  <SimpleProstheticFoot.label>протез ступни</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.labelNoun>протез ступни</SimpleProstheticFoot.labelNoun>
+  <SimpleProstheticFoot.description>Это примитивный протез части тела.</SimpleProstheticFoot.description>
+
+  <SimpleProstheticToe.label>протез пальца ноги</SimpleProstheticToe.label>
+  <SimpleProstheticToe.labelNoun>протез пальца ноги</SimpleProstheticToe.labelNoun>
+  <SimpleProstheticToe.description>Это примитивный протез части тела.</SimpleProstheticToe.description>
+
+  <SimpleProstheticHand.label>протез ладони</SimpleProstheticHand.label>
+  <SimpleProstheticHand.labelNoun>протез ладони</SimpleProstheticHand.labelNoun>
+  <SimpleProstheticHand.comps.0.tools.0.label>claw</SimpleProstheticHand.comps.0.tools.0.label>
+  <SimpleProstheticHand.description>Это примитивный протез части тела.</SimpleProstheticHand.description>
+
+  <SimpleProstheticFinger.label>протез пальца</SimpleProstheticFinger.label>
+  <SimpleProstheticFinger.labelNoun>протез пальца</SimpleProstheticFinger.labelNoun>
+  <SimpleProstheticFinger.description>Это примитивный протез части тела.</SimpleProstheticFinger.description>
+
+  <SimpleProstheticJaw.label>протез челюсти</SimpleProstheticJaw.label>
+  <SimpleProstheticJaw.labelNoun>протез челюсти</SimpleProstheticJaw.labelNoun>
+  <SimpleProstheticJaw.description>Это примитивный протез части тела.</SimpleProstheticJaw.description>
+
+
+  <!-- Simple Prosthetic Bones -->
+
+  <SimpleProstheticClavicle.label>протез ключицы</SimpleProstheticClavicle.label>
+  <SimpleProstheticClavicle.labelNoun>протез ключицы</SimpleProstheticClavicle.labelNoun>
+  <SimpleProstheticClavicle.description>Это примитивный протез части тела.</SimpleProstheticClavicle.description>
+
+  <SimpleProstheticSternum.label>протез грудины</SimpleProstheticSternum.label>
+  <SimpleProstheticSternum.labelNoun>протез грудины</SimpleProstheticSternum.labelNoun>
+  <SimpleProstheticSternum.description>Это примитивный протез части тела.</SimpleProstheticSternum.description>
+
+  <SimpleProstheticRib.label>протез ребра</SimpleProstheticRib.label>
+  <SimpleProstheticRib.labelNoun>протез ребра</SimpleProstheticRib.labelNoun>
+  <SimpleProstheticRib.description>Это примитивный протез части тела.</SimpleProstheticRib.description>
+
+  <SimpleProstheticPelvis.label>протез таза</SimpleProstheticPelvis.label>
+  <SimpleProstheticPelvis.labelNoun>протез таза</SimpleProstheticPelvis.labelNoun>
+  <SimpleProstheticPelvis.description>Это примитивный протез части тела.</SimpleProstheticPelvis.description>
+
+  <SimpleProstheticHumerus.label>протез предплечья</SimpleProstheticHumerus.label>
+  <SimpleProstheticHumerus.labelNoun>протез предплечья</SimpleProstheticHumerus.labelNoun>
+  <SimpleProstheticHumerus.description>Это примитивный протез части тела.</SimpleProstheticHumerus.description>
+
+  <SimpleProstheticRadius.label>протез лучевой кости</SimpleProstheticRadius.label>
+  <SimpleProstheticRadius.labelNoun>протез лучевой кости</SimpleProstheticRadius.labelNoun>
+  <SimpleProstheticRadius.description>Это примитивный протез части тела.</SimpleProstheticRadius.description>
+
+  <SimpleProstheticFemur.label>протез бедра</SimpleProstheticFemur.label>
+  <SimpleProstheticFemur.labelNoun>протез бедра</SimpleProstheticFemur.labelNoun>
+  <SimpleProstheticFemur.description>Это примитивный протез части тела.</SimpleProstheticFemur.description>
+
+  <SimpleProstheticTibia.label>протез берцовой кости</SimpleProstheticTibia.label>
+  <SimpleProstheticTibia.labelNoun>протез берцовой кости</SimpleProstheticTibia.labelNoun>
+  <SimpleProstheticTibia.description>Это примитивный протез части тела.</SimpleProstheticTibia.description>
+
+
+</LanguageData>

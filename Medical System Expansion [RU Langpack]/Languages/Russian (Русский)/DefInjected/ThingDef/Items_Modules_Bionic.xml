@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MSE_BionicClavicleModule.label>бионический модуль ключицы</MSE_BionicClavicleModule.label>
+  <MSE_BionicClavicleModule.description>Усовершенствованный модуль искусственной ключицы. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicClavicleModule.description>
+
+  <MSE_BionicArmModule.label>бионический модуль руки</MSE_BionicArmModule.label>
+  <MSE_BionicArmModule.description>Усовершенствованный модуль искусственной руки. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicArmModule.description>
+
+  <MSE_BionicHumerusModule.label>бионический модуль предплечья</MSE_BionicHumerusModule.label>
+  <MSE_BionicHumerusModule.description>Усовершенствованный модуль искусственного предплечья. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicHumerusModule.description>
+
+  <MSE_BionicRadiusModule.label>бионический модуль лучевой кости</MSE_BionicRadiusModule.label>
+  <MSE_BionicRadiusModule.description>Усовершенствованный модуль искусственной лучевой кости. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicRadiusModule.description>
+
+  <MSE_BionicHandModule.label>бионический модуль ладони</MSE_BionicHandModule.label>
+  <MSE_BionicHandModule.description>Усовершенствованный модуль искусственной ладони. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicHandModule.description>
+
+  <MSE_BionicFingerModule.label>бионический модуль пальца</MSE_BionicFingerModule.label>
+  <MSE_BionicFingerModule.description>Усовершенствованный модуль искусственного пальца. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicFingerModule.description>
+
+  <MSE_BionicFemurModule.label>бионический модуль бедра</MSE_BionicFemurModule.label>
+  <MSE_BionicFemurModule.description>Усовершенствованный модуль искусственного бедра. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicFemurModule.description>
+
+  <MSE_BionicTibiaModule.label>бионический модуль берцовой кости</MSE_BionicTibiaModule.label>
+  <MSE_BionicTibiaModule.description>Усовершенствованный модуль искусственной берцовой кости. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicTibiaModule.description>
+
+  <MSE_BionicFootModule.label>бионический модуль стопы</MSE_BionicFootModule.label>
+  <MSE_BionicFootModule.description>Усовершенствованный модуль искусственной стопы. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicFootModule.description>
+
+  <MSE_BionicToeModule.label>бионический модуль пальца ноги</MSE_BionicToeModule.label>
+  <MSE_BionicToeModule.description>Усовершенствованный модуль искусственного пальца ноги. Благодаря решетчато-пылевой системе заживления имеется возможность восстановить все повреждения. Требуются исследования хирургии модулей.</MSE_BionicToeModule.description>
+
+
+  <!-- Special Bionics -->
+
+  <MSE_RangedPlatformModule.label>модуль оружия дальнего боя</MSE_RangedPlatformModule.label>
+  <MSE_RangedPlatformModule.description>Модуль оружия дальнего боя. С помощью стабилизатора и системы прицеливания вы можете придать пешке большую точность и превратить ее в специализированную для дальнего боя. Вы можете установить его в слот модуля ключицы. Требуются исследования хирургии модулей.</MSE_RangedPlatformModule.description>
+
+  <MSE_MeleePlatformModule.label>модуль оружия ближнего боя</MSE_MeleePlatformModule.label>
+  <MSE_MeleePlatformModule.description>Модуль платформы ближнего боя. С помощью сенсорного мотора и системы прицеливания вы можете позволить наносить вашей пешке большой урон в ближнем бою и превратить ее в специализированную для ближнего боя. Вы можете установить его в слот модуля ключицы. Требуются исследования хирургии модулей.</MSE_MeleePlatformModule.description>
+
+  <MSE_PowerArmModule.label>модуль силовой руки</MSE_PowerArmModule.label>
+  <MSE_PowerArmModule.description>Модуль искусственного оружия. С его нейро-соединением из биогеля, системой исцеления решетчатой пылью и большим уроном от ударов, чем у обычной руки, он почти лучше, чем биологическая рука. Вы можете установить его в слот для модуля руки. Требуются исследования хирургии модулей.</MSE_PowerArmModule.description>
+
+  <MSE_PowerClawModule.label>модуль силового когтя</MSE_PowerClawModule.label>
+  <MSE_PowerClawModule.description>Модуль силового когтя. Благодаря его биогелевой нервной связи, системе исцеления с решетчатой пылью и острому когтю, это лучше, чем биологическая рука почти во всех отношениях. Вы можете установить его в слот для ручного модуля. Требуются исследования хирургии модулей.</MSE_PowerClawModule.description>
+
+  <MSE_AdamantiumCoatedBoneModule.label>модуль кости с адамантиевым покрытием</MSE_AdamantiumCoatedBoneModule.label>
+  <MSE_AdamantiumCoatedBoneModule.description>Модуль кости, покрытый сплавом адамантия. Способен выдержать почти все атаки. Система исцеления с решетчатой пылью позволяет ему восстанавливаться после повреждения. Вы можете установить его на все слоты для модулей кости. Требуются исследования хирургии модулей.</MSE_AdamantiumCoatedBoneModule.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableBionicProstheses.label>бионический верстак</TableBionicProstheses.label>
+  <TableBionicProstheses.description>Рабочая станция для сборки бионических протезов, бионических имплантатов и бионических модулей.</TableBionicProstheses.description>
+
+  <ArchotechProsthesesBench.label>архотек верстак</ArchotechProsthesesBench.label>
+  <ArchotechProsthesesBench.description>Верстак, оснащенный передовыми инструментами для изготовления протезов из чудесных материалов при помощи более простых материалов.</ArchotechProsthesesBench.description>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>GuestBeds.label</path>
+		<trans>Гостевые кровати</trans>
+	</rep>
+	<rep>
+		<path>GuestBeds.helpText</path>
+		<trans>Посетители предпочитают спать в кроватях.\n\nВы можете преобразовать кровати в гостевые, используя кнопку «Для гостей».</trans>
+	</rep>
+
+	<rep>
+		<path>RecruitGuest.label</path>
+		<trans>Вербовка гостей</trans>
+	</rep>
+	<rep>
+		<path>RecruitGuest.helpText</path>
+		<trans>Вы можете вербовать гостей.\n\nВербока гостя будет стоить деловой репутации с фракцией гостя. Вы можете позволить квалифицированным колонистам попытаться создать дружеские отношения с ними.</trans>
+	</rep>
+
+	<rep>
+		<path>GuestWork.label</path>
+		<trans>Гости помогают</trans>
+	</rep>
+	<rep>
+		<path>GuestWork.helpText</path>
+		<trans>Счастливые гости помогут с работой внутри своего района, если они достаточно опытны. Вы можете отключить это или поднять необходимый навык в настройках мода.</trans>
+	</rep>
+
+	<rep>
+		<path>Hospitality.label</path>
+		<trans>Арендатор</trans>
+	</rep>
+	<rep>
+		<path>Hospitality.helpText</path>
+		<trans>Когда группа посетителей прибудет, они будут пользоваться вашими радостными удобствами, спать в гостевых кроватях и покупать вещи в разрешенной для них зоне.\n\nЕсли им понравилось их посещение, это повысит вашу репутацию с их фракцией.</trans>
+	</rep>
+
+</LanguageData>

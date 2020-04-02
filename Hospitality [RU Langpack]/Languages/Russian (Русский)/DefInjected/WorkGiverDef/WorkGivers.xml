@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+
+	<Recruiter.label>подружиться с посетителями</Recruiter.label>
+	<Recruiter.verb>заводить друзей</Recruiter.verb>
+	<Recruiter.gerund>подружиться с</Recruiter.gerund>
+
+	<Diplomat.label>развлекать гостей</Diplomat.label>
+	<Diplomat.verb>обаять</Diplomat.verb>
+	<Diplomat.gerund>обаяет</Diplomat.gerund>
+
+</LanguageData>
