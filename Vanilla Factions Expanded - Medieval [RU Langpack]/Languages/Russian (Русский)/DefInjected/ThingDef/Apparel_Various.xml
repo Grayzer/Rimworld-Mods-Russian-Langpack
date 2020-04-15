@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Apparel_PlateArmorHeavy.label>тяжелый латный доспех</VFEM_Apparel_PlateArmorHeavy.label>
+  <VFEM_Apparel_PlateArmorHeavy.description>Перекрывающиеся сплошные доспехи, покрывающие все тело от шеи до ног. Пластины были усилены, что обеспечивает значительно большую защиту, но за счет мобильности.</VFEM_Apparel_PlateArmorHeavy.description>
+
+  <VFEM_Apparel_Tabard.label>гербовая накидка</VFEM_Apparel_Tabard.label>
+  <VFEM_Apparel_Tabard.description>Предмет одежды, на которой изображен герб королевства, надевается поверх доспехов.</VFEM_Apparel_Tabard.description>
+
+
+</LanguageData>

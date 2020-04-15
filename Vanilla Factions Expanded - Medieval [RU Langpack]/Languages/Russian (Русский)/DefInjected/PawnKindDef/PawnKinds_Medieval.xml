@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Poverty tier - peasant -->
+
+  <VFEM_Medieval_Peasant.label>крестьянин</VFEM_Medieval_Peasant.label>
+  <VFEM_Medieval_Peasant.labelPlural>крестьяне</VFEM_Medieval_Peasant.labelPlural>
+
+
+  <!-- Low-tier - merchant, squire -->
+
+  <VFEM_Medieval_Merchant.label>купец</VFEM_Medieval_Merchant.label>
+  <VFEM_Medieval_Merchant.labelPlural>купцы</VFEM_Medieval_Merchant.labelPlural>
+
+  <VFEM_Medieval_Squire.label>сквайр</VFEM_Medieval_Squire.label>
+  <VFEM_Medieval_Squire.labelPlural>сквайры</VFEM_Medieval_Squire.labelPlural>
+
+
+  <!-- High-tier - bowman, footsoldier -->
+
+  <VFEM_Medieval_Bowman.label>лучник</VFEM_Medieval_Bowman.label>
+  <VFEM_Medieval_Bowman.labelPlural>лучники</VFEM_Medieval_Bowman.labelPlural>
+
+  <VFEM_Medieval_Footsoldier.label>пехотинец</VFEM_Medieval_Footsoldier.label>
+  <VFEM_Medieval_Footsoldier.labelPlural>пехотинцы</VFEM_Medieval_Footsoldier.labelPlural>
+
+
+  <!-- Elite tier - knight, lord -->
+
+  <VFEM_Medieval_Knight.label>рыцарь</VFEM_Medieval_Knight.label>
+  <VFEM_Medieval_Knight.labelPlural>рыцари</VFEM_Medieval_Knight.labelPlural>
+
+  <VFEM_Medieval_Lord.label>лорд</VFEM_Medieval_Lord.label>
+  <VFEM_Medieval_Lord.labelPlural>лорды</VFEM_Medieval_Lord.labelPlural>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ugh, that stench -->
+
+  <VFEM_SellSword.label>наемник</VFEM_SellSword.label>
+  <VFEM_SellSword.labelPlural>наемники</VFEM_SellSword.labelPlural>
+
+
+  <!-- It's just a flesh wound! -->
+
+  <VFEM_BlackKnight.label>черный рыцарь</VFEM_BlackKnight.label>
+  <VFEM_BlackKnight.labelPlural>черные рыцари</VFEM_BlackKnight.labelPlural>
+
+
+  <!-- Medieval equivalent of man in black -->
+
+  <VFEM_KnightInBlack.label>рыцарь в черном</VFEM_KnightInBlack.label>
+  <VFEM_KnightInBlack.labelPlural>рыцари в черном</VFEM_KnightInBlack.labelPlural>
+
+
+</LanguageData>

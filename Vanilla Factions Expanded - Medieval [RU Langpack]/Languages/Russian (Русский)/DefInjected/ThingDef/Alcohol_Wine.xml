@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Wine.label>вино</VFEM_Wine.label>
+  <VFEM_Wine.description>Большая бутылка крепкого алкогольного напитка из ферментированного винограда. Чрезмерное потребление может привести к отключению алкоголя и, со временем, к зависимости.</VFEM_Wine.description>
+  <VFEM_Wine.ingestible.ingestCommandString>Пить {0}</VFEM_Wine.ingestible.ingestCommandString>
+  <VFEM_Wine.ingestible.ingestReportString>Пьет {0}.</VFEM_Wine.ingestible.ingestReportString>
+  <VFEM_Wine.tools.0.label>bottle</VFEM_Wine.tools.0.label>
+  <VFEM_Wine.tools.1.label>neck</VFEM_Wine.tools.1.label>
+
+  <VFEM_Must.label>виноградное сусло</VFEM_Must.label>
+  <VFEM_Must.description>Неферментированное вино. Это вещество должно бродить в винной бочке, прежде чем оно станет пригодным для питья вином.</VFEM_Must.description>
+
+
+</LanguageData>

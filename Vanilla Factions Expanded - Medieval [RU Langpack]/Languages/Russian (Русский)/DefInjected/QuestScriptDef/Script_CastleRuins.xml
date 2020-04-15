@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>questName(priority=1)->[asker_nameDef] предлагает [journey] там где [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.0>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>questName->[stash] там где [ruins]</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.1>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>journey->Путешествие</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.2>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>journey->Экспедиция</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.3>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>journey->Охота за сокровищами</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.4>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>journey->Приключение</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.5>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>ruins->Руины замка</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.6>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>ruins->Руины крепости</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.7>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>ruins->Разрушенный замок</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.8>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>ruins->Руины замка</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.9>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>ruins->Пустое владение</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.10>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>stash->Притон</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.11>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>stash->Тайник</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.12>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>stash->Сокровища</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.13>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>ruins->Руины</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.14>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>ruins->Руины замка</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.15>
+  <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>ruins->Разрушенное владение</VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings.16>
+  <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->Мы перехватили сообщения о заброшенных руинах замка, которые содержат сокровища недалеко от [map_definite].\n\nПохоже, что [allSitePartsDescriptionExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.0>
+  <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] из [asker_faction_name], сообщил нам о некоторых заброшенных руинах замка, которые могут содержать сокровища недалеко от нас. Никто не знает, что случилось с предыдущими жителями, но мы все еще можем забрать то, что осталось.\n\n[asker_label] рассказал о [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings.1>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.3.name>asker</VFEM_OpportunitySite_CastleRuins.root.nodes.3.name>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.3.elseNode.nodes.0.name>askerIsNull</VFEM_OpportunitySite_CastleRuins.root.nodes.3.elseNode.nodes.0.name>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.5.node.name>siteThreatChance</VFEM_OpportunitySite_CastleRuins.root.nodes.5.node.name>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.5.elseNode.name>siteThreatChance</VFEM_OpportunitySite_CastleRuins.root.nodes.5.elseNode.name>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>Задание истекло: [resolvedQuestName]</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.label>
+  <VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>Перехваченные сообщения указывают, что руины замка были раскопаны другими. Срок действия квеста [resolvedQuestName] истек.</VFEM_OpportunitySite_CastleRuins.root.nodes.10.node.nodes.0.text>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Quest_MedievalTournament.label>средневековый турнир</VFEM_Quest_MedievalTournament.label>
+  <VFEM_Quest_MedievalTournament.letterLabel>Средневековый турнир</VFEM_Quest_MedievalTournament.letterLabel>
+  <VFEM_Quest_MedievalTournament.letterText>Известно, что {PAWN_nameDef}, {0} из {1}, будет проводить турнир рядом с {2}. Это может быть хорошей возможностью заработать репутацию, а также следующие призы:\n\n{3}</VFEM_Quest_MedievalTournament.letterText>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_EquipShield.reportString>экипирует TargetA.</VFEM_EquipShield.reportString>
+  <VFEM_FillWineBarrel.reportString>заполняет TargetA.</VFEM_FillWineBarrel.reportString>
+  <VFEM_TakeWineOutOfWineBarrel.reportString>забирает вино из TargetA.</VFEM_TakeWineOutOfWineBarrel.reportString>
+
+
+</LanguageData>

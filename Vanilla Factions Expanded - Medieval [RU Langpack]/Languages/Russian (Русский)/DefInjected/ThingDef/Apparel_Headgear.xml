@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Apparel_PlateHelmetLight.label>легкий латный шлем</VFEM_Apparel_PlateHelmetLight.label>
+  <VFEM_Apparel_PlateHelmetLight.description>Легкий средневековый шлем, обеспечивающий умеренную защиту от острых атак. Не эффективен против дубины.</VFEM_Apparel_PlateHelmetLight.description>
+
+  <VFEM_Apparel_PlateHelmetHeavy.label>тяжелый латный шлем</VFEM_Apparel_PlateHelmetHeavy.label>
+  <VFEM_Apparel_PlateHelmetHeavy.description>Громоздкий средневековый шлем, обеспечивающий полное покрытие головы. Обеспечивает значительную защиту, но ограничивает поле зрения пользователя.</VFEM_Apparel_PlateHelmetHeavy.description>
+
+
+</LanguageData>

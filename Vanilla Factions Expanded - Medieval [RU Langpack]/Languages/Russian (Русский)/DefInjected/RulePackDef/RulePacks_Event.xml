@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Melee -->
+
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] [skillfully] [surpassed] [SUBJECT_definite] искусством фехтования.</VFEM_Event_MeleeRound.rulePack.rulesStrings.0>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.1>r_logentry->[INITIATOR_definite] [skillfully] [surpassed] [SUBJECT_definite] [skill] искусства фехтования.</VFEM_Event_MeleeRound.rulePack.rulesStrings.1>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.2>skillfully->умело</VFEM_Event_MeleeRound.rulePack.rulesStrings.2>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.3>skillfully->тривиально</VFEM_Event_MeleeRound.rulePack.rulesStrings.3>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.4>skillfully->искусно</VFEM_Event_MeleeRound.rulePack.rulesStrings.4>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.5>skillfully->ловко</VFEM_Event_MeleeRound.rulePack.rulesStrings.5>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.6>skillfully->легко</VFEM_Event_MeleeRound.rulePack.rulesStrings.6>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.7>skillfully->мужественно</VFEM_Event_MeleeRound.rulePack.rulesStrings.7>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.8>surpassed->превзошел</VFEM_Event_MeleeRound.rulePack.rulesStrings.8>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.9>surpassed->бил</VFEM_Event_MeleeRound.rulePack.rulesStrings.9>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.10>surpassed->превосходил</VFEM_Event_MeleeRound.rulePack.rulesStrings.10>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.11>surpassed->затмил</VFEM_Event_MeleeRound.rulePack.rulesStrings.11>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.12>surpassed->доминировал</VFEM_Event_MeleeRound.rulePack.rulesStrings.12>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.13>r_logentry->[INITIATOR_definite] и [SUBJECT_definite] [intensely] [battled], [INITIATOR_definite] победил.</VFEM_Event_MeleeRound.rulePack.rulesStrings.13>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.14>intensely->интенсивно</VFEM_Event_MeleeRound.rulePack.rulesStrings.14>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.15>intensely->отважно</VFEM_Event_MeleeRound.rulePack.rulesStrings.15>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.16>intensely->тесно</VFEM_Event_MeleeRound.rulePack.rulesStrings.16>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.17>battled->сражались</VFEM_Event_MeleeRound.rulePack.rulesStrings.17>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.18>battled->дрались</VFEM_Event_MeleeRound.rulePack.rulesStrings.18>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.19>battled->буянили</VFEM_Event_MeleeRound.rulePack.rulesStrings.19>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.20>battled->схлестнулись</VFEM_Event_MeleeRound.rulePack.rulesStrings.20>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.21>battled->боролись</VFEM_Event_MeleeRound.rulePack.rulesStrings.21>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.22>r_logentry->[SUBJECT_definite] [fell] как [toppleableThing] с [skill] [INITIATOR_definite].</VFEM_Event_MeleeRound.rulePack.rulesStrings.22>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.23>fell->упал</VFEM_Event_MeleeRound.rulePack.rulesStrings.23>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.24>fell->опрокинулся</VFEM_Event_MeleeRound.rulePack.rulesStrings.24>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.25>fell->рухнул</VFEM_Event_MeleeRound.rulePack.rulesStrings.25>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.26>toppleableThing->домино</VFEM_Event_MeleeRound.rulePack.rulesStrings.26>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.27>toppleableThing->спичка</VFEM_Event_MeleeRound.rulePack.rulesStrings.27>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.28>skill->умением</VFEM_Event_MeleeRound.rulePack.rulesStrings.28>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.29>skill->силой</VFEM_Event_MeleeRound.rulePack.rulesStrings.29>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.30>skill->ловкостью</VFEM_Event_MeleeRound.rulePack.rulesStrings.30>
+  <VFEM_Event_MeleeRound.rulePack.rulesStrings.31>skill->мужественностью</VFEM_Event_MeleeRound.rulePack.rulesStrings.31>
+
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.0>r_logentry->[SUBJECT_definite] получил [woundDesc] [wound].</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.0>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.1>woundDesc->противный</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.1>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.2>woundDesc->глубокий</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.2>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.3>woundDesc->кровавый</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.3>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.4>woundDesc->ужасный</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.4>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.5>wound->порез</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.5>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.6>wound->разрез</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.6>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.7>wound->укол</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.7>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.8>wound->заусенец</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.8>
+  <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.9>wound(p=0.1)->ушиб</VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings.9>
+
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.0>r_logentry->Часть тела [SUBJECT_definite] [flew] [away].</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.0>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.1>flew->полетела</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.1>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.2>flew(p=0.2)->отправилась</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.2>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.3>away->прочь</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.3>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.4>away(p=0.2)->по дуге</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.4>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.5>r_logentry->[INITIATOR_definite] [removedAdverb] [removed] одну из частей тела [SUBJECT_definite].</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.5>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.6>removedAdverb->жестоко</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.6>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.7>removedAdverb->хладнокровно</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.7>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.8>removedAdverb->исскустно</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.8>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.9>removedAdverb->хирургически</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.9>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.10>removed->отсек</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.10>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.11>removed->отрезал</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.11>
+  <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.12>removed->расчленил</VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings.12>
+
+
+  <!-- Jousting -->
+
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] [demonstrated] [superior] [skill] с [steedControl] и [weapon].</VFEM_Event_JoustingRound.rulePack.rulesStrings.0>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.1>demonstrated->демонстрирует</VFEM_Event_JoustingRound.rulePack.rulesStrings.1>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.2>demonstrated->показывает</VFEM_Event_JoustingRound.rulePack.rulesStrings.2>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.3>superior->превосходное</VFEM_Event_JoustingRound.rulePack.rulesStrings.3>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.4>superior->отличное</VFEM_Event_JoustingRound.rulePack.rulesStrings.4>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.5>superior->лучшее</VFEM_Event_JoustingRound.rulePack.rulesStrings.5>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.6>skill->умение</VFEM_Event_JoustingRound.rulePack.rulesStrings.6>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.7>skill->владение</VFEM_Event_JoustingRound.rulePack.rulesStrings.7>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.8>skill->мастерство</VFEM_Event_JoustingRound.rulePack.rulesStrings.8>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.9>steedControl->поводьями</VFEM_Event_JoustingRound.rulePack.rulesStrings.9>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.10>steedControl->стременами</VFEM_Event_JoustingRound.rulePack.rulesStrings.10>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.11>steedControl->седлом</VFEM_Event_JoustingRound.rulePack.rulesStrings.11>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.12>weapon->дротиком</VFEM_Event_JoustingRound.rulePack.rulesStrings.12>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.13>weapon->копьем</VFEM_Event_JoustingRound.rulePack.rulesStrings.13>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.14>weapon->пикой</VFEM_Event_JoustingRound.rulePack.rulesStrings.14>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.15>r_logentry->[SUBJECT_definite] [failed] [control] [steed] [SUBJECT_possessive].</VFEM_Event_JoustingRound.rulePack.rulesStrings.15>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.16>failed->не может</VFEM_Event_JoustingRound.rulePack.rulesStrings.16>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.17>failed->не в состоянии</VFEM_Event_JoustingRound.rulePack.rulesStrings.17>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.18>control->управлять</VFEM_Event_JoustingRound.rulePack.rulesStrings.18>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.19>control->справиться</VFEM_Event_JoustingRound.rulePack.rulesStrings.19>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.20>control->командовать</VFEM_Event_JoustingRound.rulePack.rulesStrings.20>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.21>control->орать на</VFEM_Event_JoustingRound.rulePack.rulesStrings.21>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.22>steed->муффало</VFEM_Event_JoustingRound.rulePack.rulesStrings.22>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.23>steed->лошадь</VFEM_Event_JoustingRound.rulePack.rulesStrings.23>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.24>steed->верблюда</VFEM_Event_JoustingRound.rulePack.rulesStrings.24>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.25>steed->медведя</VFEM_Event_JoustingRound.rulePack.rulesStrings.25>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.26>steed->льва</VFEM_Event_JoustingRound.rulePack.rulesStrings.26>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.27>steed->носорога</VFEM_Event_JoustingRound.rulePack.rulesStrings.27>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.28>steed(p=0.5)->корову</VFEM_Event_JoustingRound.rulePack.rulesStrings.28>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.29>steed(p=0.1)->динозавра</VFEM_Event_JoustingRound.rulePack.rulesStrings.29>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.30>steed(p=0.1)->мегачерепаху</VFEM_Event_JoustingRound.rulePack.rulesStrings.30>
+  <VFEM_Event_JoustingRound.rulePack.rulesStrings.31>steed(p=0.1)->трумбо</VFEM_Event_JoustingRound.rulePack.rulesStrings.31>
+
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.0>r_logentry->[SUBJECT_definite] поднял на дыбы [steed] и [kickPast] [SUBJECT_objective].</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.0>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.1>r_logentry->[SUBJECT_definite] уронил [SUBJECT_possessive] с [steed], который затем [kickAdj] [kickPast] [SUBJECT_objective].</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.1>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.2>kickAdj->жестоко</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.2>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.3>kickAdj->свирепо</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.3>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.4>kickPast->лягнул</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.4>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.5>kickPast->пнул</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.5>
+  <VFEM_Event_JoustingDisaster.rulePack.rulesStrings.6>kickPast->потрепал</VFEM_Event_JoustingDisaster.rulePack.rulesStrings.6>
+
+
+  <!-- Archery -->
+
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] [hitAdj] [hitPast] [INITIATOR_possessive] цели.</VFEM_Event_ArcheryRound.rulePack.rulesStrings.0>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.1>r_logentry->[INITIATOR_definite] [hitAdj] и [speed] [hitPast] [INITIATOR_possessive] цели.</VFEM_Event_ArcheryRound.rulePack.rulesStrings.1>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.2>hitAdj->точно</VFEM_Event_ArcheryRound.rulePack.rulesStrings.2>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.3>hitAdj->умело</VFEM_Event_ArcheryRound.rulePack.rulesStrings.3>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.4>hitAdj->исскусно</VFEM_Event_ArcheryRound.rulePack.rulesStrings.4>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.5>hitPast->ударил</VFEM_Event_ArcheryRound.rulePack.rulesStrings.5>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.6>hitPast->поразил</VFEM_Event_ArcheryRound.rulePack.rulesStrings.6>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.7>hitPast->сбил на землю</VFEM_Event_ArcheryRound.rulePack.rulesStrings.7>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.8>speed->быстро</VFEM_Event_ArcheryRound.rulePack.rulesStrings.8>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.9>speed->ловко</VFEM_Event_ArcheryRound.rulePack.rulesStrings.9>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.10>speed->хитро</VFEM_Event_ArcheryRound.rulePack.rulesStrings.10>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.11>r_logentry->[SUBJECT_definite] [unable] чтобы [hit] [SUBJECT_possessive] цель.</VFEM_Event_ArcheryRound.rulePack.rulesStrings.11>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.12>unable->не в состоянии</VFEM_Event_ArcheryRound.rulePack.rulesStrings.12>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.13>unable->не может</VFEM_Event_ArcheryRound.rulePack.rulesStrings.13>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.14>unable->недостаточно опытный</VFEM_Event_ArcheryRound.rulePack.rulesStrings.14>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.15>hit->попасть в</VFEM_Event_ArcheryRound.rulePack.rulesStrings.15>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.16>hit->ударить</VFEM_Event_ArcheryRound.rulePack.rulesStrings.16>
+  <VFEM_Event_ArcheryRound.rulePack.rulesStrings.17>hit->сбить</VFEM_Event_ArcheryRound.rulePack.rulesStrings.17>
+
+  <VFEM_Event_ArcheryDisaster.rulePack.rulesStrings.0>r_logentry->[SUBJECT_definite] [hitPast] [SUBJECT_possessive] цель, которая разрывается на части, ранив [SUBJECT_objective].</VFEM_Event_ArcheryDisaster.rulePack.rulesStrings.0>
+  <VFEM_Event_ArcheryDisaster.rulePack.rulesStrings.1>r_logentry->[SUBJECT_definite] случайно сорвал [SUBJECT_objective] сам, пытаясь стрелять [SUBJECT_possessive] из лука.</VFEM_Event_ArcheryDisaster.rulePack.rulesStrings.1>
+
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.0>r_logentry->выстрел [INITIATOR_definite] [flew] [far] и [hitPast] [SUBJECT_definite].</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.0>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.1>flew->полетел</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.1>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.2>flew->отправился</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.2>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.3>flew->направился</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.3>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.4>flew->поплыл</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.4>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.5>far->в даль</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.5>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.6>far->в неизвестность</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.6>
+  <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.7>far->в цель</VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings.7>
+
+
+</LanguageData>

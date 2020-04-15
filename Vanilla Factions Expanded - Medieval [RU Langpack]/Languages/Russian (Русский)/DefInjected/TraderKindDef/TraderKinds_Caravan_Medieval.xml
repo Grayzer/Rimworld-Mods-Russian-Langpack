@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Caravan_Medieval_Farmer.label>животновод</VFEM_Caravan_Medieval_Farmer.label>
+  <VFEM_Caravan_Medieval_WineMerchant.label>виноторговец</VFEM_Caravan_Medieval_WineMerchant.label>
+  <VFEM_Caravan_Medieval_ArtPatron.label>меценат</VFEM_Caravan_Medieval_ArtPatron.label>
+  <VFEM_Caravan_Medieval_Armourer.label>бронник</VFEM_Caravan_Medieval_Armourer.label>
+  <VFEM_Caravan_Medieval_Weaponsmith.label>оружейник</VFEM_Caravan_Medieval_Weaponsmith.label>
+  <VFEM_Caravan_Medieval_Sellswords.label>наемники</VFEM_Caravan_Medieval_Sellswords.label>
+
+
+</LanguageData>

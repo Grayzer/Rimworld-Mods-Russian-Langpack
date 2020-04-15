@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_TakeBeerOutOfWineBarrel.label>достать вино из винных бочек</VFEM_TakeBeerOutOfWineBarrel.label>
+  <VFEM_TakeBeerOutOfWineBarrel.verb>взять вино</VFEM_TakeBeerOutOfWineBarrel.verb>
+  <VFEM_TakeBeerOutOfWineBarrel.gerund>забирает вино из</VFEM_TakeBeerOutOfWineBarrel.gerund>
+
+  <VFEM_FillWineBarrel.label>заполнить винные бочки</VFEM_FillWineBarrel.label>
+  <VFEM_FillWineBarrel.verb>заполнить</VFEM_FillWineBarrel.verb>
+  <VFEM_FillWineBarrel.gerund>заполняет</VFEM_FillWineBarrel.gerund>
+
+
+</LanguageData>

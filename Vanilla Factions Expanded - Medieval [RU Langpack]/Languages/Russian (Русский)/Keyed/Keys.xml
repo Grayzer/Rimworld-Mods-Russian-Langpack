@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wine barrel -->
+  <VanillaFactionsExpanded.NoMust>нужно виноградное сусло</VanillaFactionsExpanded.NoMust>
+  <VanillaFactionsExpanded.ContainsMust>Содержит {0} / {1} сусла</VanillaFactionsExpanded.ContainsMust>
+  <VanillaFactionsExpanded.ContainsWine>Содержит {0} / {1} вина</VanillaFactionsExpanded.ContainsWine>
+  <VanillaFactionsExpanded.TargetWineQuality>Целевое качество: {0}</VanillaFactionsExpanded.TargetWineQuality>
+  <VanillaFactionsExpanded.TargetWineQualityMulti>Установить целевое качество</VanillaFactionsExpanded.TargetWineQualityMulti>
+  <VanillaFactionsExpanded.TargetWineQuality_Description>Ваши колонисты уберут вино из этой бочки, когда оно достигнет заданного целевого качества.</VanillaFactionsExpanded.TargetWineQuality_Description>
+
+  <!-- Tournaments -->
+  <VanillaFactionsExpanded.TournamentDurationDays>Турнир продлится {0} дней.</VanillaFactionsExpanded.TournamentDurationDays>
+  <VanillaFactionsExpanded.MedievalTournamentInspectString>Приз: {0} ({1} осталось)</VanillaFactionsExpanded.MedievalTournamentInspectString>
+
+  <VanillaFactionsExpanded.AttendMedievalTournament>Посещайте {0}</VanillaFactionsExpanded.AttendMedievalTournament>
+  <VanillaFactionsExpanded.CaravanAttending>Посещение {0}</VanillaFactionsExpanded.CaravanAttending>
+
+  <VanillaFactionsExpanded.MedievalTournamentInitial>Этот турнир проводится {0} из {1}, и в категории {2}. В этом турнире участвует {3} других участников, и все хотят получить шанс выиграть следующие призы:\n\n{4}</VanillaFactionsExpanded.MedievalTournamentInitial>
+
+  <VanillaFactionsExpanded.Participate>Участвовать</VanillaFactionsExpanded.Participate>
+  <VanillaFactionsExpanded.ParticipateInitial>Вы выбрали участие в этом турнире. Назовите своего чемпиона:</VanillaFactionsExpanded.ParticipateInitial>
+  <VanillaFactionsExpanded.PredictedPerformance>шансы</VanillaFactionsExpanded.PredictedPerformance>
+  <VanillaFactionsExpanded.CannotParticipate>не может участвовать</VanillaFactionsExpanded.CannotParticipate>
+
+  <VanillaFactionsExpanded.TournamentWinLetter>Турнир выигран</VanillaFactionsExpanded.TournamentWinLetter>
+  <VanillaFactionsExpanded.TournamentWinLetter_Text>Поздравляем, {PAWN_labelShort} занял место {0} из {1} в турнире! Вы приобрели репутацию с {2} и выиграли следующие призы:\n\n{3}</VanillaFactionsExpanded.TournamentWinLetter_Text>
+
+  <VanillaFactionsExpanded.TournamentLossLetter>Турнир проигран</VanillaFactionsExpanded.TournamentLossLetter>
+  <VanillaFactionsExpanded.TournamentLossLetter_Text>{PAWN_labelShort}, к сожалению, на этот раз не смог выиграть турнир. {PAWN_pronoun} занял место {0} из {1}.</VanillaFactionsExpanded.TournamentLossLetter_Text>
+
+  <VanillaFactionsExpanded.TournamentCancelledLetter>Турнир отменен</VanillaFactionsExpanded.TournamentCancelledLetter>
+  <VanillaFactionsExpanded.TournamentCancelledLetter_Text>Турнир пришлось отменить из-за инцидента.</VanillaFactionsExpanded.TournamentCancelledLetter_Text>
+
+  <VanillaFactionsExpanded.TournamentExpGains>{PAWN_labelShort} получил {0} опыта.</VanillaFactionsExpanded.TournamentExpGains>
+  <VanillaFactionsExpanded.LogEntryLine>Раунд {0}: {1}</VanillaFactionsExpanded.LogEntryLine>
+
+  <VanillaFactionsExpanded.Leave>Покинуть</VanillaFactionsExpanded.Leave>
+
+  <!-- Enemy caravans -->
+  <VanillaFactionsExpanded.AttackEnemyCaravan>Атакавать {0}</VanillaFactionsExpanded.AttackEnemyCaravan>
+  <VanillaFactionsExpanded.AttackingEnemyCaravan>Атакует {0}</VanillaFactionsExpanded.AttackingEnemyCaravan>
+
+</LanguageData>

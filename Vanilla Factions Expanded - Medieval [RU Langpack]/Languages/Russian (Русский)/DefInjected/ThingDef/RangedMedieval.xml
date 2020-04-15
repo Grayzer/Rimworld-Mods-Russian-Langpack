@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crossbow -->
+
+  <VFEM_Bow_HeavyCrossbow.label>тяжелый арбалет</VFEM_Bow_HeavyCrossbow.label>
+  <VFEM_Bow_HeavyCrossbow.description>Тяжелый арбалет имеет принцип, сходный с луком, состоящий из луковидной сборки, установленной горизонтально на прочной раме, которая переносится так же, как и у длинного ружья.\n\nЭтот тяжелый метатель запускает разрушительные болты, способные пробить несколько слоев металла.</VFEM_Bow_HeavyCrossbow.description>
+  <VFEM_Bow_HeavyCrossbow.tools.0.label>limb</VFEM_Bow_HeavyCrossbow.tools.0.label>
+
+  <VFEM_Arrow_HeavyBolt.label>стрела тяжелого арбалета</VFEM_Arrow_HeavyBolt.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Shield_Kite.label>остроугольный щит</VFEM_Shield_Kite.label>
+  <VFEM_Shield_Kite.description>Большой деревянный щит, с лицевой декоративно обтянутой кожей. Обеспечивает умеренную защиту от атак ближнего и дальнего боя.</VFEM_Shield_Kite.description>
+  <VFEM_Shield_Kite.tools.0.label>base</VFEM_Shield_Kite.tools.0.label>
+  <VFEM_Shield_Kite.tools.1.label>centre</VFEM_Shield_Kite.tools.1.label>
+
+  <VFEM_Shield_Heater.label>круглый щит</VFEM_Shield_Heater.label>
+  <VFEM_Shield_Heater.description>Тяжелый стальной щит среднего размера, передняя часть которого отделана кожей. Предлагает значительное количество защиты от атак ближнего и дальнего боя.</VFEM_Shield_Heater.description>
+  <VFEM_Shield_Heater.tools.0.label>base</VFEM_Shield_Heater.tools.0.label>
+  <VFEM_Shield_Heater.tools.1.label>centre</VFEM_Shield_Heater.tools.1.label>
+
+
+</LanguageData>
