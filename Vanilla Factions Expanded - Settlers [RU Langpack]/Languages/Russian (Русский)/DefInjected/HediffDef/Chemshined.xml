@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chemshined.description>Кажется, кто-то выпил что-то летучее.</Chemshined.description>
+  <Chemshined.label>сивуха</Chemshined.label>
+  <Chemshined.labelNoun>сивушка</Chemshined.labelNoun>
+  <Chemshined.stages.0.label>сивушка(слабое)</Chemshined.stages.0.label>
+  <Chemshined.stages.1.label>сивушка</Chemshined.stages.1.label>
+  <Chemshined.stages.2.label>сивушка(среднее)</Chemshined.stages.2.label>
+  <Chemshined.stages.3.label>сивушка(сильное)</Chemshined.stages.3.label>
+
+
+</LanguageData>

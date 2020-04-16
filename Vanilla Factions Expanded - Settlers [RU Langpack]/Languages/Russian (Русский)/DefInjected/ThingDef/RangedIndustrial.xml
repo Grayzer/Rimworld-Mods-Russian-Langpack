@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Double-Action Revolver -->
+
+  <VFES_Gun_DoubleActionRevolver.label>револьвер двойного действия</VFES_Gun_DoubleActionRevolver.label>
+  <VFES_Gun_DoubleActionRevolver.description>Древний револьвер двойного действия. Он не очень точный, но имеет приличную скорость стрельбы для пистолета и быструю перезарядку.</VFES_Gun_DoubleActionRevolver.description>
+  <VFES_Gun_DoubleActionRevolver.tools.0.label>рукоять</VFES_Gun_DoubleActionRevolver.tools.0.label>
+  <VFES_Gun_DoubleActionRevolver.tools.1.label>ствол</VFES_Gun_DoubleActionRevolver.tools.1.label>
+
+
+  <!-- Double-Barreled Shotgun -->
+
+  <VFES_Gun_DoubleBarreledShotgun.label>двуствольное ружье</VFES_Gun_DoubleBarreledShotgun.label>
+  <VFES_Gun_DoubleBarreledShotgun.description>Древний дизайн дробовика с двумя индивидуально заряженными стволами, который испускает плотную упаковку дроби.</VFES_Gun_DoubleBarreledShotgun.description>
+  <VFES_Gun_DoubleBarreledShotgun.tools.0.label>приклад</VFES_Gun_DoubleBarreledShotgun.tools.0.label>
+  <VFES_Gun_DoubleBarreledShotgun.tools.1.label>ствол</VFES_Gun_DoubleBarreledShotgun.tools.1.label>
+
+
+  <!-- Hunting Rifle -->
+
+  <VFES_Gun_HuntingRifle.label>охотничье ружье</VFES_Gun_HuntingRifle.label>
+  <VFES_Gun_HuntingRifle.description>Старинный образец винтовки с прицелом. Благодаря исключительной дальности стрельбы и низкой скорострельности, она вряд ли заставит животных мстить, что делает ее отличным выбором для охоты.</VFES_Gun_HuntingRifle.description>
+  <VFES_Gun_HuntingRifle.tools.0.label>приклад</VFES_Gun_HuntingRifle.tools.0.label>
+  <VFES_Gun_HuntingRifle.tools.1.label>ствол</VFES_Gun_HuntingRifle.tools.1.label>
+
+
+</LanguageData>

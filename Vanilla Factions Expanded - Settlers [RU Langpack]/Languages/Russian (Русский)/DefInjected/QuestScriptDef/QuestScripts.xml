@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.0>questName->Bounty: [nameFull] [nickname]</Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.0>
+  <Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.1>questName->Разыскивается, живым или мертвым: [nickname]</Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.1>
+  <Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.2>questName->банда [nickname]</Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.2>
+  <Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.3>questDescription->[asker_nameFull], [asker_faction_leaderTitle] из [asker_faction_name] приветствует нас. По-видимому, личность, известная как [Criminal_nameFull] из [siteFaction_name] прячется в наших окрестностях.\n\n[asker_nameDef] просит нас доставить [nickname] в один из их населенных пунктов за приличное вознаграждение в [bounty] серебра, двойная награда за живого. Они прячутся в безопасном месте, и оно, вероятно, охраняется.\n\nЕсли мы зачистим их лагерь, [allRewardsDescription]</Settlers_Wanted.questDescriptionAndNameRules.rulesStrings.3>
+  <Settlers_Wanted.root.nodes.11.node.nodes.0.label>Задание истекло: [resolvedQuestName]</Settlers_Wanted.root.nodes.11.node.nodes.0.label>
+  <Settlers_Wanted.root.nodes.11.node.nodes.0.text>[Criminal_nameFull] услышали об их скомпрометированной позиции, поэтому решили покинуть этот район. Срок действия задания [resolvedQuestName] истек.</Settlers_Wanted.root.nodes.11.node.nodes.0.text>
+  <Settlers_Wanted.root.nodes.12.node.nodes.0.label>Задание провалено: [resolvedQuestName]</Settlers_Wanted.root.nodes.12.node.nodes.0.label>
+  <Settlers_Wanted.root.nodes.12.node.nodes.0.text>Разбойники собрали вещи и пошли дальше.</Settlers_Wanted.root.nodes.12.node.nodes.0.text>
+
+
+</LanguageData>

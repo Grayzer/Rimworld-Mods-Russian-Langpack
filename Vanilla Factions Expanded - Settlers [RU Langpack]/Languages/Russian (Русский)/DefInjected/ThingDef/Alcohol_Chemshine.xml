@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chemshine.label>сивуха</Chemshine.label>
+  <Chemshine.description>Опасный алкоголь, как правило, потребляется исследователями rimworld и промышленными поселенцами. В то время как он снимает грусть и боль, химия опьяняет кровь пьющего химическим топливом, что приводит к мощному взрыву после смерти.</Chemshine.description>
+  <Chemshine.ingestible.ingestCommandString>Пить {0}</Chemshine.ingestible.ingestCommandString>
+  <Chemshine.ingestible.ingestReportString>Пьет {0}.</Chemshine.ingestible.ingestReportString>
+
+
+</LanguageData>

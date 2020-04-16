@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gun_GatlingGun.label>пулемет Гатлинга</Gun_GatlingGun.label>
+  <Gun_GatlingGun.description>Простой автоматический пулемет для установки на башне.</Gun_GatlingGun.description>
+
+  <Bullet_GatlingGun.label>пуля Гатлинга</Bullet_GatlingGun.label>
+
+  <Turret_GatlingGun.label>турель Гатлинга</Turret_GatlingGun.label>
+  <Turret_GatlingGun.description>Портативная старая турель. Нужен оператор, чтобы быть управляемой. Требуется сталь для восстановления ствола после интенсивного использования. Скорость стрельбы увеличивается, чем дольше стреляет эта турель. Может взорваться при повреждении.</Turret_GatlingGun.description>
+
+
+</LanguageData>

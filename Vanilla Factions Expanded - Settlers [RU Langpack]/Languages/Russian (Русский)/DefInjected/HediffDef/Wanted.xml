@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Wanted.description>Эта фракция считается преступником.</Wanted.description>
+  <Wanted.label>разыскивается</Wanted.label>
+  <Wanted.labelNoun>разыскивают</Wanted.labelNoun>
+  <Wanted.stages.0.label>в розыске</Wanted.stages.0.label>
+
+
+</LanguageData>

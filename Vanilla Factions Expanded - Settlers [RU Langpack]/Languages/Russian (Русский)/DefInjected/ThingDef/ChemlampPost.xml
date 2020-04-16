@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChemlampPost.label>столб с хим.лампой</ChemlampPost.label>
+  <ChemlampPost.description>Столб с доиндустриальной лампой на химическом топливе. Может быть безопасно размещен снаружи.</ChemlampPost.description>
+  <ChemlampPost_Blueprint.label>столб с хим.лампой (чертеж)</ChemlampPost_Blueprint.label>
+  <ChemlampPost_Blueprint_Install.label>столб с хим.лампой (чертеж)</ChemlampPost_Blueprint_Install.label>
+  <ChemlampPost_Frame.label>столб с хим.лампой (стройка)</ChemlampPost_Frame.label>
+  <ChemlampPost_Frame.description>Столб с доиндустриальной лампой на химическом топливе. Может быть безопасно размещен снаружи.</ChemlampPost_Frame.description>
+
+
+</LanguageData>

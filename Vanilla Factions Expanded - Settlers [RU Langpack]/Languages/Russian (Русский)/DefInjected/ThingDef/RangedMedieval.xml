@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tomahawk -->
+
+  <VFES_Tomahawk.label>томагавк</VFES_Tomahawk.label>
+  <VFES_Tomahawk.description>Одноручный топорик, напоминающий топор. Достаточно легкий, чтобы быть брошенным точно на средней дистанции.</VFES_Tomahawk.description>
+  <VFES_Tomahawk.tools.0.label>ручка</VFES_Tomahawk.tools.0.label>
+  <VFES_Tomahawk.tools.1.label>лезвие</VFES_Tomahawk.tools.1.label>
+
+  <VFES_Tomahawk_Thrown.label>бросить томагавк</VFES_Tomahawk_Thrown.label>
+
+
+</LanguageData>

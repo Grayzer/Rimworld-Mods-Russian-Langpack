@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CaravanRaidLabel>Рейдовый караван из {0}</CaravanRaidLabel>
+  <CaravanRaidDialogue>Вы получили информацию о караване из {0}, который разбил лагерь поблизости. Сейчас самое время совершить набег на него, но помните, что караваны обычно охраняются.</CaravanRaidDialogue>
+  <WantedLabel>Разыскивается {0}</WantedLabel>
+  <WantedDialogue>{0} назначил награду за {PAWN_nameDef}, самого подлого преступника со многими злодеяниями под именем {PAWN_possessive}. {PAWN_nameDef} из {1} разыскивается за {2} серебра, если доставлен мертвым, награда удвоена, если его доставят живым в одно из поселений {0}.</WantedDialogue>
+  <WantedTurnIn>Сдать {PAWN_nameDef}</WantedTurnIn>
+  <WantedTurnInDescDead>Сдать труп {PAWN_nameDef} за награду.</WantedTurnInDescDead>
+  <WantedTurnInDescAlive>Сдать преступника {PAWN_nameDef} за награду.</WantedTurnInDescAlive>
+  <WantedTurnInLabel>Сдан {PAWN_nameDef}.</WantedTurnInLabel>
+  <WantedTurnInMessageDead>Вы сдали труп {PAWN_nameDef} за {0} серебра.</WantedTurnInMessageDead>
+  <WantedTurnInMessageAlive>Вы сдали преступника {PAWN_nameDef} живым за {0} серебра.</WantedTurnInMessageAlive>
+  <WantedHediff>Разыскивается {0} за {1} серебра</WantedHediff>
+  <DefaultSettings>Настройки по умолчанию</DefaultSettings>
+  <MinReward>Минимальная награда: {0}</MinReward>
+  <MaxReward>Максимальная награда: {0}</MaxReward>
+  <ProtectionFeeLabel>Плата за защиту</ProtectionFeeLabel>
+  <ProtectionFeeDialogue>Группа бандитов, отправленная {0}, вызывает вас поблизости.\n\nОни предлагают защитить вашу колонию от любых угроз, даже тех, которые могут быть вызваны ими, при условии, что вы заплатите {1} серебра.\n\nБудьте осторожны - отказ может разозлить бандитов.</ProtectionFeeDialogue>
+  <ProtectionFeeAgree>Принять предложение и заплатить</ProtectionFeeAgree>
+  <ProtectionFeeAgreeDialogue>Бандиты из {0}, похоже, довольны сделкой и прервали сообщение.</ProtectionFeeAgreeDialogue>
+  <ProtectionFeeDisagree>Отклонить предложение</ProtectionFeeDisagree>
+  <ProtectionFeeDisagreeDialogue>Бандиты из {0}, похоже, рады, что вы отказались от их предложения, и прервали сообщение сразу после того, как заверили вас, что они не могут гарантировать вашу безопасность.</ProtectionFeeDisagreeDialogue>
+  <ProtectionFeeNotEnoughSilver>Не хватает серебра</ProtectionFeeNotEnoughSilver>
+  <DrunkMuffaloTitle>Сивушные Муффало</DrunkMuffaloTitle>
+  <DrunkMuffaloMessage>Небольшое стадо муффало прибыло в этот район. Оказалось что они нашли секретный тайник с сивухой ранее, что заставляет их жаждать ее еще больше. Остерегайтесь их пьяных выходок.</DrunkMuffaloMessage>
+
+  <ContainsChemfuel>Содержит {0} / {1} химтоплива.</ContainsChemfuel>
+  <ContainsChemshine>Содержит {0} / {1} сивухи.</ContainsChemshine>
+  <NoChemfuel>нужно химтопливо</NoChemfuel>
+
+</LanguageData>

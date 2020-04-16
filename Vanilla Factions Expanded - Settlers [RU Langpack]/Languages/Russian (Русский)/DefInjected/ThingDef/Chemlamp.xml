@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chemlamp.label>хим.лампа</Chemlamp.label>
+  <Chemlamp.description>Лампа, работающая на химическом топливе. Может быть безопасно размещена снаружи.</Chemlamp.description>
+  <Chemlamp_Blueprint.label>хим.лампа (чертеж)</Chemlamp_Blueprint.label>
+  <Chemlamp_Blueprint_Install.label>хим.лампа (чертеж)</Chemlamp_Blueprint_Install.label>
+  <Chemlamp_Frame.label>хим.лампа (стройка)</Chemlamp_Frame.label>
+  <Chemlamp_Frame.description>Лампа, работающая на химическом топливе. Может быть безопасно размещена снаружи.</Chemlamp_Frame.description>
+
+
+</LanguageData>

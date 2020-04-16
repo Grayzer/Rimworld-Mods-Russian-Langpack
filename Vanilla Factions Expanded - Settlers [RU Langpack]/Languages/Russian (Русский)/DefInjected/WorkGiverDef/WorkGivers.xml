@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TakeChemshineOutOfChemshineBarrel.label>забрать сивуху из бочки сивухи</TakeChemshineOutOfChemshineBarrel.label>
+  <TakeChemshineOutOfChemshineBarrel.verb>взять сивуху</TakeChemshineOutOfChemshineBarrel.verb>
+  <TakeChemshineOutOfChemshineBarrel.gerund>забирает сивуху из</TakeChemshineOutOfChemshineBarrel.gerund>
+
+  <FillChemshineBarrel.label>заполнить бочку сивухи</FillChemshineBarrel.label>
+  <FillChemshineBarrel.verb>заполнить</FillChemshineBarrel.verb>
+  <FillChemshineBarrel.gerund>заполняет</FillChemshineBarrel.gerund>
+
+
+</LanguageData>
